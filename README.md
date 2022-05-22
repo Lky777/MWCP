@@ -2,10 +2,10 @@
 
 ▸移动端网站 广告过滤 补充规则  
 ▸ **Primary subscription**  
-**https://cdn.jsdelivr.net/gh/Lky777/MWCP@main/zh.txt**  
+**https://raw.githubusercontents.com/Lky777/MWCP/main/zh.txt**  
 
 ▸ **Alt subscription mirror**  
-**https://raw.iqiq.io/Lky777/MWCP/main/zh.txt**  
+**https://cdn.jsdelivr.net/gh/Lky777/MWCP@main/zh.txt**   
 
 ▸ **Web Test**   
 As shown below, the **`EasylistChina`** filter will be detected by _[browserleaks.com](https://www.browserleaks.com/proxy)_ if the subscription is successful.  
