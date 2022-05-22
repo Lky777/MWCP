@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: ShadowCat(zh)
 ! Description: Supplemental filters for Chinese mobile sites
-! Version: 202205220404
+! Version: 202205220505
 ! Expires: 31 days
-! Last modified: Sun, 22 May 2022 04:04:04 +0000
+! Last modified: Sun, 22 May 2022 05:05:05 +0000
 ! Homepage: https://github.com/Lky777/MWCP
 ! Licence: 
 !--------NEWS(ShawdowCat)--------
@@ -31,15 +31,27 @@
 ||ailianna.cn^
 ||barcc.cn^
 ||csont.cn^
+||dd-static.jd.com^
+||go2yd.com^
 ||hfdoubanhui.cn^
+||iilck.com^
 ||imimimi.top^
+||junchiyiliao.cn^
+||jwzd.com.cn^
 ||khgdeae.cn^
-||rstomach.cn^
+||kkjiaofei.com^
+||mayuetong.cn^
+||p1.bdxiguaimg.com^
 ||p9-tt-ipv6.byteimg.com^
 ||qlogo.cn^
+||qpic.cn^
+||rstomach.cn^
+||sujev.cn^
 ||xh77.cc^
 ||xmyouxiang.cn^
+||zhangbotong.com^
 ||zmdwx.com.cn^
+||zs-fz.cn^
 !m.youtube.com
 ||lh3.googleusercontent.com/proxy/
 !proxyrarbg.org
