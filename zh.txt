@@ -1,32 +1,38 @@
 [Adblock Plus 2.0]
-! Title: ShadowCat(zh)
+! Title: 🐾ShadowCat (zh)
 ! Description: Supplemental filters for Chinese mobile sites
-! Version: 202205220505
+! Version: 202205220101
+! Last modified: Sun, 22 May 2022 00:00:00 +0000
 ! Expires: 31 days
-! Last modified: Sun, 22 May 2022 05:05:05 +0000
 ! Homepage: https://github.com/Lky777/MWCP
 ! Licence: 
-!--------NEWS(ShawdowCat)--------
-!bbs.nga.cn
-||cnzz.com^
-!download.mokeedev.com
-||gstatic.loli.net^
-!lanzoul.com
-||statics.woozooo.com^
-!m.baidu.com
+
+!-------- 🐾Big Adsense --------
+!Google
+||fonts.googleapis.com^
+||fonts.gstatic.com^
+||lh3.googleusercontent.com/proxy/
+||pagead2.googlesyndication.com^
+||ssl.google-analytics.com^
+!Baidu
 ||cpro.baidustatic.com^
 ||gsp0.baidu.com^
 ||hpd.baidu.com^
+||msite.baidu.com^
 ||sp1.baidu.com^
+!Others
+||cnzz.com^
+
+!-------- 🐾General --------
 !cn.bing.com
 ||img*.sogoucdn.com/app/a/
 ||p*.qhimg.com^
+!lanzoul.com
+||woozooo.com^
 !m.douban.com
-||img3.doubanio.com/f/talion/*/pics/card/download_app_banner.png
-!m.mydrivers.com
-||img1.mydrivers.com/img/2005/dangbei_720.gif
-||img1.kkeji.com/img/2005/dangbei_720.gif
-||pagead2.googlesyndication.com^
+_banner
+!m.mydriver.com
+_720.gif
 !m.yingxs.com
 ||ailianna.cn^
 ||barcc.cn^
@@ -52,24 +58,17 @@
 ||zhangbotong.com^
 ||zmdwx.com.cn^
 ||zs-fz.cn^
-!m.youtube.com
-||lh3.googleusercontent.com/proxy/
 !proxyrarbg.org
 ||cloudflareinsights.com^
 !userupload.net
 ||doflygonan.com^
 ||platform-api.sharethis.com^
-||ssl.google-analytics.com^
 ||tgwidget.com^
 !wap.gamersky.com
 ||ja2.gamersky.com^
-||msite.baidu.com^
 ||yeyou-cps.gamersky.com^
-!xda-developers.com
-||fonts.googleapis.com^
-||fonts.gstatic.com^
 
-!--------1024(ShawdowCat)--------
+!-------- 🐾Adults --------
 !18comic.org
 /static/resources/$domain=18comic.org|18comic.vip|jmcomic.asia
 18comic.org,18comic.vip,jmcomic.asia##.modal-head
