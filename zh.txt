@@ -8,20 +8,21 @@
 ! Licence: 
 
 !-------- 🐾Big Adsense --------
-!Google
-||fonts.googleapis.com^
-||fonts.gstatic.com^
-||lh3.googleusercontent.com/proxy/
-||pagead2.googlesyndication.com^
-||ssl.google-analytics.com^
 !Baidu
 ||cpro.baidustatic.com^
 ||gsp0.baidu.com^
 ||hpd.baidu.com^
 ||msite.baidu.com^
 ||sp1.baidu.com^
+!Google
+||fonts.googleapis.com^
+||fonts.gstatic.com^
+||lh3.googleusercontent.com/proxy/
+||pagead2.googlesyndication.com^
+||ssl.google-analytics.com^
 !Others
 ||cnzz.com^
+||static.*.com^
 
 !-------- 🐾General --------
 !cn.bing.com
@@ -34,6 +35,7 @@ _banner
 !m.mydriver.com
 _720.gif
 !m.yingxs.com
+||9543.lol^
 ||ailianna.cn^
 ||barcc.cn^
 ||csont.cn^
@@ -78,13 +80,11 @@ _720.gif
 ||othbhe2.com^
 ||u0072.com^
 !avseesee.com
-||avseesee.com/avsee_banner/imgs/
-||geobanner.getiton.com^
-||static.eabids.com/data/
+banner.
 !hsex.men
 ||p.91hs005.xyz/pic/
 !pornfind.org
-images/friend/$domain=pornfind.org|pornlulu.com
+/images/friend/$domain=pornfind.org|pornlulu.com
 !yingav2.com
 ||yingav2.com/images/content/spot01.jpg
 !zztt86.com
