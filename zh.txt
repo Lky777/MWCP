@@ -1,45 +1,58 @@
-[Adblock Plus 2.0]
+[Adblock Plus 3.0]
 ! Title: 🐾ShadowCat (zh)
 ! Description: Supplemental filters for Chinese mobile sites
-! Version: 202205250101
-! Last modified: Wed, 25 May 2022 01:01:01 +0000
-! Expires: 7 days
+! Version: 202205260101
+! Last modified: Thu, 26 May 2022 01:01:01 +0000
+! Expires: 15 days
 ! Homepage: https://github.com/Lky777/MWCP
 ! Licence: 
 
 !-------- 🐾Big Adsense --------
-!Baidu
+! 360
+||p*.qhimg.com^
+! Baidu
 ||bj.bcebos.com/fc-image/
-||cpro.baidustatic.com^
 ||gsp0.baidu.com^
 ||hpd.baidu.com^
 ||msite.baidu.com^
 ||ns-strategy.cdn.bcebos.com/ns-strategy/
 ||sp1.baidu.com^
-!Google
+! Google
 ||fonts.googleapis.com^
 ||fonts.gstatic.com^
 ||lh3.googleusercontent.com/proxy/
-||pagead2.googlesyndication.com^
 ||ssl.google-analytics.com^
-!Others
+! Sogou
+||img*.sogoucdn.com^
+! Others
 ||cnzz.com^
 ||static.*.com^
 @@||static.zhihu.com^
 
 !-------- 🐾General --------
-!cn.bing.com
-||img*.sogoucdn.com/app/a/
-||p*.qhimg.com^
-!lanzoul.com
-||woozooo.com^
-!m.191fun.com
-||m.191fun.com/uploadfile/dip/*.gif
-!m.douban.com
 _banner
-!m.mydriver.com
+banner.
+! 191fun.com
+||m.191fun.com/uploadfile/dip/*.gif
+! Bing.com
+||bing123.com^
+||tdnsstic1.cn^
+! Gamersky.com
+||ja2.gamersky.com^
+||yeyou-cps.gamersky.com^
+! Lanzoul.com
+||woozooo.com^
+! Manmanju.com
+||m.manmanju.com/mg/show2.js
+! Mydriver.com
 _720.gif
-!m.yingxs.com
+! Proxyrarbg.org
+||cloudflareinsights.com^
+! Userupload.net
+||doflygonan.com^
+||platform-api.sharethis.com^
+||tgwidget.com^
+! Yingxs.com
 ||9543.lol^
 ||ailianna.cn^
 ||barcc.cn^
@@ -65,36 +78,25 @@ _720.gif
 ||zhangbotong.com^
 ||zmdwx.com.cn^
 ||zs-fz.cn^
-!proxyrarbg.org
-||cloudflareinsights.com^
-!userupload.net
-||doflygonan.com^
-||platform-api.sharethis.com^
-||tgwidget.com^
-!wap.gamersky.com
-||ja2.gamersky.com^
-||yeyou-cps.gamersky.com^
 
 !-------- 🐾Adults --------
-!18comic.org
+! 18comic.org
 /static/resources/$domain=18comic.org|18comic.vip|jmcomic.asia
 18comic.org,18comic.vip,jmcomic.asia##.modal-head
 18comic.org,18comic.vip,jmcomic.asia##.modal-body
-!91porny.com
+! 91porny.com
 ||jtrgzj9.com^
 ||othbhe2.com^
 ||u0072.com^
-!avseesee.com
-banner.
-!hsex.men
+! Hsex.men
 ||cdn.bncloudfl.com^
 ||img.strpst.com^
 ||p.91hs005.xyz/pic/
-!pornfind.org
+! Pornfind.org
 /images/friend/$domain=pornfind.org|pornlulu.com
-!yingav2.com
+! Yingav2.com
 ||yingav2.com/images/content/spot01.jpg
-!zztt86.com
+! Zztt86.com
 ||knet.cn^
 
 !--------Peter Lowe's--------
