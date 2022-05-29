@@ -1,8 +1,8 @@
 [Adblock Plus 3.0]
 ! Title: 🐾ShadowCat (zh)
 ! Description: Supplemental filters for Chinese mobile sites
-! Version: 202205260101
-! Last modified: Thu, 26 May 2022 01:01:01 +0000
+! Version: 202205290101
+! Last modified: Sun, 29 May 2022 01:01:01 +0000
 ! Expires: 15 days
 ! Homepage: https://github.com/Lky777/MWCP
 ! Licence: 
@@ -10,21 +10,20 @@
 !-------- 🐾Big Adsense --------
 ! 360
 ||p*.qhimg.com^
-! Baidu
-||bj.bcebos.com/fc-image/
+! BAIDU
+||*.bcebos.com^
 ||gsp0.baidu.com^
 ||hpd.baidu.com^
 ||msite.baidu.com^
-||ns-strategy.cdn.bcebos.com/ns-strategy/
 ||sp1.baidu.com^
-! Google
-||fonts.googleapis.com^
-||fonts.gstatic.com^
+! GOOGLE
+||fonts.g*.com^
 ||lh3.googleusercontent.com/proxy/
+||m.youtube.com/static/r/
 ||ssl.google-analytics.com^
-! Sogou
+! SOGOU
 ||img*.sogoucdn.com^
-! Others
+! OTHERS
 ||cnzz.com^
 ||static.*.com^
 @@||static.zhihu.com^
@@ -32,27 +31,33 @@
 !-------- 🐾General --------
 _banner
 banner.
-! 191fun.com
+! 191FUN.com
 ||m.191fun.com/uploadfile/dip/*.gif
-! Bing.com
+! BING.com
 ||bing123.com^
-||tdnsstic1.cn^
-! Gamersky.com
+! DDXS.com
+||*.biquge-app.com/apps/
+m.ddxs.com##div[class="RMss1"]
+m.ddxs.com##div[class="W1oMwlglisten"]
+m.ddxs.com##div[class="W1oMwlgani"]
+! GAMERSKY.com
 ||ja2.gamersky.com^
 ||yeyou-cps.gamersky.com^
-! Lanzoul.com
+! LANZOUL.com
 ||woozooo.com^
-! Manmanju.com
+! MANMANJU.com
 ||m.manmanju.com/mg/show2.js
 ! Mydriver.com
 _720.gif
-! Proxyrarbg.org
+! PROXYRARBG.org
 ||cloudflareinsights.com^
-! Userupload.net
+! USERUPLOAD.net
 ||doflygonan.com^
 ||platform-api.sharethis.com^
 ||tgwidget.com^
-! Yingxs.com
+! XDA-DEVELOPERS.com
+||xda-developers.com^$3p
+! YINGXS.com
 ||9543.lol^
 ||ailianna.cn^
 ||barcc.cn^
@@ -80,23 +85,23 @@ _720.gif
 ||zs-fz.cn^
 
 !-------- 🐾Adults --------
-! 18comic.org
+! 18COMIC.org
 /static/resources/$domain=18comic.org|18comic.vip|jmcomic.asia
 18comic.org,18comic.vip,jmcomic.asia##.modal-head
 18comic.org,18comic.vip,jmcomic.asia##.modal-body
-! 91porny.com
+! 91PORNY.com
 ||jtrgzj9.com^
 ||othbhe2.com^
 ||u0072.com^
-! Hsex.men
+! HSEX.men
 ||cdn.bncloudfl.com^
 ||img.strpst.com^
 ||p.91hs005.xyz/pic/
-! Pornfind.org
+! PORNFIND.org
 /images/friend/$domain=pornfind.org|pornlulu.com
-! Yingav2.com
+! YINGAV2.com
 ||yingav2.com/images/content/spot01.jpg
-! Zztt86.com
+! ZZTT86.com
 ||knet.cn^
 
 !--------Peter Lowe's--------
