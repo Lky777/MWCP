@@ -1,10 +1,11 @@
 [Adblock Plus 3.0]
 ! Title: 🐾ShadowCat (zh)
 ! Description: Supplemental filters for Chinese mobile sites
-! Version: 202206010101
-! Last modified: Wed, 1 June 2022 01:01:01 +0000
-! Expires: 15 days
+! Version: 202206020101
+! Last modified: 2 June 2022 01:01 UTC
+! Expires: 31 days
 ! Homepage: https://github.com/Lky777/MWCP
+! Checksum: 
 ! Licence: 
 
 !-------- 🐾Big Adsense --------
@@ -16,33 +17,23 @@
 ||hpd.baidu.com^
 ||msite.baidu.com^
 ||sp1.baidu.com^
+||tb3.bdstatic.com/radar-sdk/
+tieba.baidu.com,jump2.bdimg.com##.nav-bar-bottom
 ! GOOGLE
-||clientmetrics-pa.googleapis.com^
-||crashlyticsreports-pa.googleapis.com^
 ||fonts.g*.com^
-||googleanalytics.com^
 ||googlesyndication.com^
 ||googletagmanager.com^
-||googletagservices.com^
 ||lh3.googleusercontent.com/proxy/
 ||m.youtube.com/static/r/
-||video-stats.video.google.com^
-@@||google-analytics.com/analytics.js$domain=news.gamme.com.tw
 ! SOGOU
 ||img*.sogoucdn.com^
 ! OTHERS
 ||cnzz.com^
 
 !-------- 🐾General --------
-||*nalytics.
-||ad.
-||ad*.
-||banne*.
-||clic*.
-||trac*.
+_banner
 ||static.*.com^
 @@||static.zhihu.com^
-_banner
 ! 191FUN.com
 ||m.191fun.com/uploadfile/dip/*.gif
 ! DDXS.com
@@ -51,7 +42,13 @@ m.ddxs.com##div[class="RMss1"]
 m.ddxs.com##div[class="W1oMwlglisten"]
 m.ddxs.com##div[class="W1oMwlgani"]
 ! GAMERSKY.com
+||cm1.gamersky.com/apirating/
+||db5.gamersky.com^
+||j.gamersky.com/app/js/
+||j.gamersky.com/wap/js/gs/
 ||yeyou-cps.gamersky.com^
+! HAOBIQUGE.com
+||goodtj.xyz^
 ! LANZOUL.com
 ||woozooo.com^
 ! MANMANJU.com
@@ -60,6 +57,9 @@ m.ddxs.com##div[class="W1oMwlgani"]
 _720.gif
 ! PROXYRARBG.org
 ||cloudflareinsights.com^
+! TXRJY.com
+||txrjy.com/static/js/zepto.min.js
+txrjy.com##.is-shown.OpenInAppButton
 ! USERUPLOAD.net
 ||doflygonan.com^
 ||platform-api.sharethis.com^
@@ -92,6 +92,8 @@ _720.gif
 ||zhangbotong.com^
 ||zmdwx.com.cn^
 ||zs-fz.cn^
+! ZHIHU.com
+||static.zhihu.com/heifetz/column.GoodsRecommendGoodsCardList.*.js
 
 !-------- 🐾Adults --------
 ! 18COMIC.org
@@ -106,10 +108,15 @@ _720.gif
 ||cdn.bncloudfl.com^
 ||img.strpst.com^
 ||p.91hs005.xyz/pic/
+! MMSP12.com
+||sese211.info/photo/*.gif
 ! PORNFIND.org
 /images/friend/$domain=pornfind.org|pornlulu.com
-! YINGAV2.com
-||yingav2.com/images/content/spot01.jpg
+! RB1991.com
+||rb1991.com/fc/*.gif
+||pornbest.org/images/friend/
+! YINGAV.com
+/images/content/spot01.jpg$domain=yingav.com|yingav2.com
 ! ZZTT86.com
 ||knet.cn^
 
