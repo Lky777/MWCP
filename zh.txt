@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: 🐾ShadowCat (zh)
 ! Description: Supplemental filters for Chinese mobile sites
-! Version: 202206020101
+! Version: 202206020102
 ! Last modified: 2 June 2022 01:01 UTC
 ! Expires: 31 days
 ! Homepage: https://github.com/Lky777/MWCP
@@ -18,7 +18,8 @@
 ||msite.baidu.com^
 ||sp1.baidu.com^
 ||tb3.bdstatic.com/radar-sdk/
-tieba.baidu.com,jump2.bdimg.com##.nav-bar-bottom
+tieba.baidu.com##.nav-bar-bottom
+jump2.bdimg.com##.nav-bar-bottom
 ! GOOGLE
 ||fonts.g*.com^
 ||googlesyndication.com^
@@ -33,7 +34,6 @@ tieba.baidu.com,jump2.bdimg.com##.nav-bar-bottom
 !-------- 🐾General --------
 _banner
 ||static.*.com^
-@@||static.zhihu.com^
 ! 191FUN.com
 ||m.191fun.com/uploadfile/dip/*.gif
 ! DDXS.com
@@ -94,6 +94,7 @@ txrjy.com##.is-shown.OpenInAppButton
 ||zs-fz.cn^
 ! ZHIHU.com
 ||static.zhihu.com/heifetz/column.GoodsRecommendGoodsCardList.*.js
+@@||static.zhihu.com^
 
 !-------- 🐾Adults --------
 ! 18COMIC.org
