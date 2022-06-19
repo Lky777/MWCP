@@ -1,8 +1,8 @@
 [Adblock Plus 3.0]
 ! Title: 🐾ShadowCat (zh)
 ! Description: Supplemental filters for Chinese mobile sites
-! Version: 202206020102
-! Last modified: 2 June 2022 01:01 UTC
+! Version: 202206190101
+! Last modified: 19 June 2022 01:01 UTC
 ! Expires: 31 days
 ! Homepage: https://github.com/Lky777/MWCP
 ! Checksum: 
@@ -11,15 +11,21 @@
 !-------- 🐾Big Adsense --------
 ! 360
 ||p*.qhimg.com^
+! ALIBABA
+||38qptu4.oss-cn-hangzhou.aliyuncs.com^
 ! BAIDU
 ||*.bcebos.com^
 ||gsp0.baidu.com^
 ||hpd.baidu.com^
 ||msite.baidu.com^
+||rmb.bdstatic.com^
 ||sp1.baidu.com^
 ||tb3.bdstatic.com/radar-sdk/
-tieba.baidu.com##.nav-bar-bottom
-jump2.bdimg.com##.nav-bar-bottom
+tieba.baidu.com,jump2.bdimg.com##.nav-bar-bottom
+! BYTEDANCE
+||p1.bdxiguaimg.com^
+||p3.toutiaoimg.com/img/
+||p9-tt-ipv6.byteimg.com^
 ! GOOGLE
 ||fonts.g*.com^
 ||googlesyndication.com^
@@ -36,6 +42,8 @@ _banner
 ||static.*.com^
 ! 191FUN.com
 ||m.191fun.com/uploadfile/dip/*.gif
+! CSDN.net
+blog.csdn.net##.open_app_channelCode.feed-Sign-span
 ! DDXS.com
 ||*.biquge-app.com/apps/
 m.ddxs.com##div[class="RMss1"]
@@ -57,6 +65,8 @@ m.ddxs.com##div[class="W1oMwlgani"]
 _720.gif
 ! PROXYRARBG.org
 ||cloudflareinsights.com^
+! QQSZZ.com
+||www.qqszz.com/wp-content/uploads/2021/01/2021011511533373.png
 ! TXRJY.com
 ||txrjy.com/static/js/zepto.min.js
 txrjy.com##.is-shown.OpenInAppButton
@@ -81,8 +91,6 @@ txrjy.com##.is-shown.OpenInAppButton
 ||khgdeae.cn^
 ||kkjiaofei.com^
 ||mayuetong.cn^
-||p1.bdxiguaimg.com^
-||p9-tt-ipv6.byteimg.com^
 ||qlogo.cn^
 ||qpic.cn^
 ||rstomach.cn^
@@ -97,29 +105,48 @@ txrjy.com##.is-shown.OpenInAppButton
 @@||static.zhihu.com^
 
 !-------- 🐾Adults --------
-! 18COMIC.org
+/images/content/spot01.jpg$domain=yingav.com|yingav2.com
+/images/friend/
 /static/resources/$domain=18comic.org|18comic.vip|jmcomic.asia
 18comic.org,18comic.vip,jmcomic.asia##.modal-head
 18comic.org,18comic.vip,jmcomic.asia##.modal-body
-! 91PORNY.com
-||jtrgzj9.com^
-||othbhe2.com^
-||u0072.com^
-! HSEX.men
+||21319331.com^
+||3338632.com^
+||33687151.com^
+||6745jj.com^
+||885422.com^
+||apain2.com^
+||auwrtou.cn^
 ||cdn.bncloudfl.com^
+||cdn.jsjsjs.xyz/happy/newyear/
+||di.phncdn.com^
+||jcyunk2.com^
+||geobanner.getiton.com^
+||ggsfq.com^
 ||img.strpst.com^
-||p.91hs005.xyz/pic/
-! MMSP12.com
-||sese211.info/photo/*.gif
-! PORNFIND.org
-/images/friend/$domain=pornfind.org|pornlulu.com
-! RB1991.com
-||rb1991.com/fc/*.gif
-||pornbest.org/images/friend/
-! YINGAV.com
-/images/content/spot01.jpg$domain=yingav.com|yingav2.com
-! ZZTT86.com
+||img*.360buyimg.com^
+||jsoctn9.com^
+||jtrgzj9.com^
 ||knet.cn^
+||kvhss.top^
+||kzecc.com^
+||n0200.com^
+||n0322.com^
+||othbhe2.com^
+||p.91hs005.xyz/pic/
+||p1.eckwai.com^
+||pic.picnewsss.com^
+||rb1991.com/fc/*.gif
+||sese211.info/photo/*.gif
+||traffichaus.com^
+||trxxkie.cc^
+||u0051.com^
+||u0059.com^
+||u0072.com^
+||webs25.i1c.xyz^
+||www.ssp666.xyz/images/*.gif
+||xbluntanq.life^
+||xox8829.com^
 
 ! -------- EasyPrivacyLite --------
 ||180.76.2.18^$third-party,domain=~baidu.ip
