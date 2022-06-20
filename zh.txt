@@ -1,8 +1,8 @@
 [Adblock Plus 3.0]
 ! Title: 🐾ShadowCat (zh)
 ! Description: Supplemental filters for Chinese mobile sites
-! Version: 202206190101
-! Last modified: 19 June 2022 01:01 UTC
+! Version: 202206200101
+! Last modified: 20 June 2022 01:01 UTC
 ! Expires: 31 days
 ! Homepage: https://github.com/Lky777/MWCP
 ! Checksum: 
@@ -13,8 +13,10 @@
 ||p*.qhimg.com^
 ! ALIBABA
 ||38qptu4.oss-cn-hangzhou.aliyuncs.com^
+||xpjtu7.oss-cn-hangzhou.aliyuncs.com^
 ! BAIDU
 ||*.bcebos.com^
+@@||cdn.bcebos.com^
 ||gsp0.baidu.com^
 ||hpd.baidu.com^
 ||msite.baidu.com^
@@ -102,11 +104,12 @@ txrjy.com##.is-shown.OpenInAppButton
 ||zs-fz.cn^
 ! ZHIHU.com
 ||static.zhihu.com/heifetz/column.GoodsRecommendGoodsCardList.*.js
+zhihu.com##.css-w0t7t0.Button
 @@||static.zhihu.com^
 
 !-------- 🐾Adults --------
 /images/content/spot01.jpg$domain=yingav.com|yingav2.com
-/images/friend/
+/images/friend/*
 /static/resources/$domain=18comic.org|18comic.vip|jmcomic.asia
 18comic.org,18comic.vip,jmcomic.asia##.modal-head
 18comic.org,18comic.vip,jmcomic.asia##.modal-body
@@ -120,11 +123,11 @@ txrjy.com##.is-shown.OpenInAppButton
 ||cdn.bncloudfl.com^
 ||cdn.jsjsjs.xyz/happy/newyear/
 ||di.phncdn.com^
-||jcyunk2.com^
 ||geobanner.getiton.com^
 ||ggsfq.com^
 ||img.strpst.com^
 ||img*.360buyimg.com^
+||jcyunk2.com^
 ||jsoctn9.com^
 ||jtrgzj9.com^
 ||knet.cn^
@@ -136,6 +139,7 @@ txrjy.com##.is-shown.OpenInAppButton
 ||p.91hs005.xyz/pic/
 ||p1.eckwai.com^
 ||pic.picnewsss.com^
+||qthynj2.com^
 ||rb1991.com/fc/*.gif
 ||sese211.info/photo/*.gif
 ||traffichaus.com^
@@ -143,6 +147,7 @@ txrjy.com##.is-shown.OpenInAppButton
 ||u0051.com^
 ||u0059.com^
 ||u0072.com^
+||webs22.theavstatic.xyz^
 ||webs25.i1c.xyz^
 ||www.ssp666.xyz/images/*.gif
 ||xbluntanq.life^
