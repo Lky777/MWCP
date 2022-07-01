@@ -1,8 +1,8 @@
 [Adblock Plus 3.0]
 ! Title: 🐾ShadowCat (zh)
 ! Description: Supplemental filters for Chinese mobile sites
-! Version: 202206200101
-! Last modified: 20 June 2022 01:01 UTC
+! Version: 202207010101
+! Last modified: 1 July 2022 01:01 UTC
 ! Expires: 31 days
 ! Homepage: https://github.com/Lky777/MWCP
 ! Checksum: 
@@ -117,12 +117,14 @@ zhihu.com##.css-w0t7t0.Button
 ||3338632.com^
 ||33687151.com^
 ||6745jj.com^
+||884121.com^
 ||885422.com^
 ||apain2.com^
 ||auwrtou.cn^
 ||cdn.bncloudfl.com^
 ||cdn.jsjsjs.xyz/happy/newyear/
 ||di.phncdn.com^
+||dimg04.c-ctrip.com^
 ||geobanner.getiton.com^
 ||ggsfq.com^
 ||img.strpst.com^
@@ -133,22 +135,23 @@ zhihu.com##.css-w0t7t0.Button
 ||knet.cn^
 ||kvhss.top^
 ||kzecc.com^
-||n0200.com^
-||n0322.com^
+||n0*.com^
 ||othbhe2.com^
 ||p.91hs005.xyz/pic/
 ||p1.eckwai.com^
+||pic.81image.com^
 ||pic.picnewsss.com^
+||pic.abgdh.com^
 ||qthynj2.com^
 ||rb1991.com/fc/*.gif
 ||sese211.info/photo/*.gif
+||static01.xyz^
 ||traffichaus.com^
 ||trxxkie.cc^
-||u0051.com^
-||u0059.com^
-||u0072.com^
-||webs22.theavstatic.xyz^
-||webs25.i1c.xyz^
+||u00*.com^
+||unpfqc9.com^
+||webs*.*.xyz^
+||www.abcm3i67y22.com^
 ||www.ssp666.xyz/images/*.gif
 ||xbluntanq.life^
 ||xox8829.com^
