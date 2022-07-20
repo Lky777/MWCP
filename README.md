@@ -9,4 +9,4 @@
   
 ___
 • References  
-· [EasyPrivacy](https://www.easylist.to/)  
+· 
