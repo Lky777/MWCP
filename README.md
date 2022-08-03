@@ -7,7 +7,7 @@
 ▸ **Alt url mirror**  
 **https://raw.githubusercontents.com/Lky777/MWCP/main/zh.txt**   
 
-• _zh.bat_  is only for bromite browser   
+•   
 ___
 • References  
 · 
