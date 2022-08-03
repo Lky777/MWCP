@@ -1,0 +1,130 @@
+! Title: uBlockLite (zh)
+! Description: 
+! Expires: 31 days
+! Last modified: Fri, 29 Jul 2022 12:58:28 +0000
+! Homepage: https://github.com/uBlockOrigin/uAssets
+! Licence: https://github.com/uBlockOrigin/uAssets/blob/master/LICENSE
+
+!
+*/fuckadblock-$script,redirect=fuckadblock.js-3.2.0
+*/blockadblock.$script,redirect=fuckadblock.js-3.2.0
+*/wp-adblock-$script,redirect=fuckadblock.js-3.2.0
+
+! A2ZAPK.com
+a2zapk.com##+js(acis, atob, decodeURIComponent)
+a2zapk.com##+js(aopr, AaDetector)
+||a2zapk.com/js/notification.js
+@@||a2zupload.com^$ghide
+@@||googlesyndication.com/pagead/$script,domain=a2zupload.com
+@@*$image,domain=a2zupload.com
+a2zupload.com##.adsbygoogle
+@@||a2zapk.com^$script,xhr,3p,domain=dropgalaxy.com
+
+! APKMIRROR.com
+apkmirror.com#@#.gooWidget
+apkmirror.com#@#.google-ad-leaderboard
+apkmirror.com##.gooWidget:style(opacity: 0 !important;)
+apkmirror.com##.google-ad-leaderboard:style(opacity: 0 !important;)
+apkmirror.com##span.advertisement-text
+apkmirror.com##[href^="https://bstk.me/"]
+apkmirror.com##+js(aost, document.querySelector, /(?=(stackDepth:3\s|stackDepth:2\s|stackDepth:4\s))(?=^(?!.*(Object|HTMLInputElement|https|Search|HTMLDocument)))/)
+apkmirror.com##+js(acis, document.querySelectorAll, style.width="100%")
+apkmirror.com##.downloadCountdown
+apkmirror.com##.OUTBRAIN
+
+! BING.com
+bing.com##[onclick^="ad_choice"]:upward(3)
+bing.com###b_results > li[style]:not([class])
+bing.com##.b_algo:has(p:matches-css-before(content: "Ad"))
+bing.com##+js(set, AdBlockerTracking.AdBlockMonitor, noopFunc)
+bing.com##+js(set, AdBTrack.AdbMon.isBlocked, noopFunc)
+bing.com##+js(set, SVGForeignObjectElement, undefined)
+bing.com##.b_ad:remove()
+bing.com##.b_algo:has(.b_textAdTitleLink)
+bing.com##.ins_exp.tds
+bing.com#@##b_results > li:not(.b_algo):not(.b_ans):not(.b_pag):not(.aca_algo):not(.aca_algo_count):not(.b_msg)
+bing.com#@#li.b_adBottom
+bing.com#@#.b_adLastChild
+
+! GOOGLE
+google.*###tadsto.c
+google.*###taw > .med + div > #tvcap > .mnr-c:not(.qs-ic) > .commercial-unit-mobile-top
+google.*###topstuff > #tads
+google.*##.GB3L-QEDGY .GB3L-QEDF- > .GB3L-QEDE-
+google.*##.GFYY1SVD2 > .GFYY1SVC2 > .GFYY1SVF5
+google.*##.GFYY1SVE2 > .GFYY1SVD2 > .GFYY1SVG5
+google.*##.GHOFUQ5BG2 > .GHOFUQ5BF2 > .GHOFUQ5BG5
+google.*##.GJJKPX2N1 > .GJJKPX2M1 > .GJJKPX2P4
+google.*##.GKJYXHBF2 > .GKJYXHBE2 > .GKJYXHBH5
+google.*##.GPMV2XEDA2 > .GPMV2XEDP1 > .GPMV2XEDJBB
+google.*##.ch[onclick="ga(this,event)"]
+google.*##.commercial-unit-desktop-rhs > .iKidV > .Ee92ae + .P2mpm + .hp3sk
+google.*##.commercial-unit-desktop-rhs:not(.mnr-c)
+google.*##.commercial-unit-mobile-bottom
+google.*##.commercial-unit-mobile-top .jackpot-main-content-container > .UpgKEd + .nZZLFc > .vci
+google.*##.commercial-unit-mobile-top .jackpot-main-content-container > .UpgKEd + .nZZLFc > div > .vci
+google.*##.commercial-unit-tiles-immersive
+google.*##.gws-flights-book__ads-wrapper
+google.*##.lads[width="100%"][style="background:#FFF8DD"]
+google.*##.mod > ._jH + .rscontainer
+google.*##.mod > .gws-local-promotions__border
+google.*##.mw > #rcnt > #center_col > #taw > #tvcap > .c
+google.*##.mw > #rcnt > #center_col > #taw > .c
+google.*##.ra[align="left"][width="30%"]
+google.*##.ra[align="right"][width="30%"]
+google.*##.ra[width="30%"][align="right"] + table[width="70%"][cellpadding="0"]
+google.*##.rhsvw[style="background-color:#fff;margin:0 0 14px;padding-bottom:1px;padding-top:1px;"]
+google.*##.rscontainer > .ellip
+google.*##.section-result[data-result-ad-type]
+google.*##.widget-pane-section-result[data-result-ad-type]
+google.*##c-wiz[jsrenderer="YnuqN"] > div > div > .Rn1jbe
+google.*##div[data-crl="true"][data-id^="CarouselPLA-"]
+google.*###atvcap > div:has(h3[role="heading"] > span:has-text(/^Ads/))
+google.*##div[data-ismultirow="true"][data-id^="CarouselPLA-"]
+google.*##div[data-flt-ve="sponsored_search_ads"]
+google.*##div[jscontroller="U835zd"] + c-wiz[jsrenderer="YnuqN"]
+google.*##div[role="navigation"] + c-wiz > div > .kxhcC
+google.*##div[role="navigation"] + c-wiz > script + div > .kxhcC
+google.*###sqh
+!#if env_mobile
+google.*##:not(:matches-path(/^/search\?.*tbm=shop|^/shopping/)) a[href*="/aclk?"][data-al]:upward(2)
+!#endif
+google.*##div.ellip > span:has-text(/^Ads?$/):upward(2)
+google.*##[href^="https://www.googleadservices.com/pagead/aclk?"][href$="adurl="]:upward(3)
+google.*##:not(:matches-path(/^/search\?.*tbm=shop|^/shopping/)) *:not([class^="sh-sr__shop-result-group"]) [href^="/aclk"][href$="adurl="]:upward(3)
+google.*##.sh-sr__shop-result-group[data-hveid] .sh-sp__btn:matches-css(font-size: 13px):upward(.sh-sr__shop-result-group):has(a[href^="/aclk"][href$="adurl="])
+google.*##c-wiz div[data-hveid] > div > div > ul:has(> li[style="max-width:200px;"] > div > div[data-hveid] > a[href*="/aclk"]):upward(3)
+google.com##div[data-section-id] > a[href^="/aclk"][href*="placesheetAdFix="][href*="adurl="]:upward(1)
+
+! RARBG
+zippyshare.com##+js(noeval)
+rarbgtor.org##+js(aopr, __htapop)
+rarbgmirrored.org,rarbgproxy.org##+js(nowoif)
+proxyrarbg.*,rarbg.is,rarbg.to,rarbgget.org,rarbgenter.org,rarbgprx.org,rarbgp2p.org,rarbgto.org,rarbgtorrents.org,rarbg2018.org,rarbg2019.org,rarbg2020.org,rarbg2021.org,rarbgaccess.org,rarbgcore.org,rarbgdata.org,rarbggo.org,rarbgmirror.*,rarbgproxied.*,rarbgproxy.*,rarbgtor.org,rarbgunblock.*,rarbgunblocked.org,rarbgweb.org,unblockedrarbg.org##+js(aopr, LieDetector)
+proxyrarbg.*,rarbg.is,rarbg.to,rarbgget.org,rarbgenter.org,rarbgprx.org,rarbgp2p.org,rarbgto.org,rarbgtor.org,rarbgtorrents.org,rarbg2018.org,rarbg2019.org,rarbg2020.org,rarbg2021.org,rarbgaccess.org,rarbgcore.org,rarbgdata.org,rarbggo.org,rarbgmirror.*,rarbgmirrored.org,rarbgproxied.*,rarbgproxy.*,rarbgunblock.*,rarbgunblocked.org,rarbgweb.org,unblockedrarbg.org##.lista > tbody > tr:has-text(/v\s{0,}p\s{0,}n/i)
+||ladsup.com^$all
+mediafire.com##+js(aeld, click, ClickHandler)
+mediafire.com##.errorExtraContent
+
+! USERUPLOAD.net
+@@||userupload.net^$ghide
+userupload.*##+js(nosiif, visibility, 1000)
+userupload.net##+js(ra, checked, #addon)
+userupload.net##.mb-4.custom-checkbox.text-center.custom-control
+userupload.net##.adsbygoogle
+userupload.net##[href^="https://xn--r1a.click/useruploadofficial"]
+userupload.net##+js(aeld, , _0x)
+userupload.*##.btn-danger:has-text(/download/i)
+userupload.net##.ads
+||tgwidget.com^$3p
+
+! YOUTUBE.com
+youtube.com##.masthead-ad-control,.ad-div,.pyv-afc-ads-container
+youtube.com###promotion-shelf
+*_ad_$media,domain=youtube.com,3p
+youtube.com##ytd-video-masthead-ad-advertiser-info-renderer,ytm-promoted-sparkles-web-renderer
+youtube.com,youtubekids.com,youtube-nocookie.com##+js(json-prune, [].playerResponse.adPlacements [].playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
+youtube.com,youtubekids.com,youtube-nocookie.com##+js(set, ytInitialPlayerResponse.adPlacements, undefined)
+youtube.com,youtubekids.com,youtube-nocookie.com##+js(set, playerResponse.adPlacements, undefined)
+youtube.com##ytd-display-ad-renderer:upward(ytd-rich-item-renderer)
+
