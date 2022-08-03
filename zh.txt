@@ -1,8 +1,8 @@
 [Adblock Plus 3.0]
 ! Title: 🐾ShadowCat (zh)
 ! Description: Supplemental filters for Chinese mobile sites
-! Version: 202207210101
-! Last modified: 21 July 2022 01:01 UTC
+! Version: 202208030101
+! Last modified: 3 Aug 2022 01:01 UTC
 ! Expires: 31 days
 ! Homepage: https://github.com/Lky777/MWCP
 ! Checksum: 
@@ -17,13 +17,11 @@
 ! BAIDU
 ||*.bcebos.com^
 @@||cdn.bcebos.com^
-||gsp0.baidu.com^
 ||hpd.baidu.com^
 ||msite.baidu.com^
 ||rmb.bdstatic.com^
 ||sp1.baidu.com^
 ||tb3.bdstatic.com/radar-sdk/
-tieba.baidu.com,jump2.bdimg.com##.nav-bar-bottom
 ! BYTEDANCE
 ||p1.bdxiguaimg.com^
 ||p3.toutiaoimg.com/img/
@@ -35,26 +33,18 @@ tieba.baidu.com,jump2.bdimg.com##.nav-bar-bottom
 ||lh3.googleusercontent.com/proxy/
 ||m.youtube.com/static/r/
 ! SOGOU
-||img*.sogoucdn.com^
+||img04.sogoucdn.com^
 ! OTHERS
 ||cnzz.com^
 
 !-------- 🐾General --------
+!
 _banner
 ||static.*.com^
 ! 191FUN.com
 ||m.191fun.com/uploadfile/dip/*.gif
-! CEVEYSYSTEMSNA.com
-ceveysystemsna.com###overlay-ad
-! CSDN.net
-blog.csdn.net##.open_app_channelCode.feed-Sign-span
 ! DDXS.com
 ||*.biquge-app.com/apps/
-m.ddxs.com##div[class="RMss1"]
-m.ddxs.com##div[class="W1oMwlglisten"]
-m.ddxs.com##div[class="W1oMwlgani"]
-! GAMER.COM.TW
-gamer.com.tw##.open-app
 ! GAMERSKY.com
 ||cm1.gamersky.com/apirating/
 ||db5.gamersky.com^
@@ -79,16 +69,14 @@ _720.gif
 ||qwant.com/en.5c248bbd.svg
 ! TXRJY.com
 ||txrjy.com/static/js/zepto.min.js
-txrjy.com##.is-shown.OpenInAppButton
 ! USERUPLOAD.net
 ||doflygonan.com^
 ||platform-api.sharethis.com^
 ||tgwidget.com^
-! WALLSTREETCN.com
-wallstreetcn.com##.open-in-app
 ! XDA-DEVELOPERS.com
 ||xda-developers.com^$3p
 ! YINGXS.com
+||m.yingsx.com/6W3n6xwL/
 ||9543.lol^
 ||ailianna.cn^
 ||barcc.cn^
@@ -105,8 +93,10 @@ wallstreetcn.com##.open-in-app
 ||mayuetong.cn^
 ||qlogo.cn^
 ||qpic.cn^
+||rongsonm.uno^
 ||rstomach.cn^
 ||sujev.cn^
+||udfkfm.com^
 ||xh77.cc^
 ||xmyouxiang.cn^
 ||zhangbotong.com^
@@ -114,17 +104,29 @@ wallstreetcn.com##.open-in-app
 ||zs-fz.cn^
 ! ZHIHU.com
 ||static.zhihu.com/heifetz/column.GoodsRecommendGoodsCardList.*.js
+@@||static.zhihu.com^
+
+! Annoying Elements
+18comic.org,18comic.vip,jmcomic.asia##.modal-head
+18comic.org,18comic.vip,jmcomic.asia##.modal-body
+aliyun.com##.app-fixed-btn
+baidu.com,bdimg.com##.nav-bar-bottom
+ceveysystemsna.com###overlay-ad
+csdn.net##.open_app_channelCode.feed-Sign-span
+ddxs.com##div[class="RMss1"]
+ddxs.com##div[class="W1oMwlglisten"]
+ddxs.com##div[class="W1oMwlgani"]
+gamer.com.tw##.open-app
+txrjy.com##.is-shown.OpenInAppButton
+wallstreetcn.com##.open-in-app
 zhihu.com##.css-rgo48u
 zhihu.com##.css-w0t7t0.Button
-@@||static.zhihu.com^
 
 !-------- 🐾Adults --------
 -mod1.gif
 /images/content/spot01.jpg$domain=yingav.com|yingav2.com
 /images/friend/*
 /static/resources/$domain=18comic.org|18comic.vip|jmcomic.asia
-18comic.org,18comic.vip,jmcomic.asia##.modal-head
-18comic.org,18comic.vip,jmcomic.asia##.modal-body
 ||21319331.com^
 ||3338632.com^
 ||33687151.com^
@@ -164,7 +166,8 @@ zhihu.com##.css-w0t7t0.Button
 ||u00*.com^
 ||unpfqc9.com^
 ||webs*.*.xyz^
-||www.abcm3i67y22.com^
-||www.ssp666.xyz/images/*.gif
+||abcm3i67y22.com^
+||ssp666.xyz/images/*.gif
 ||xbluntanq.life^
+||xlviirdr.com^
 ||xox8829.com^
