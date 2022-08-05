@@ -1,7 +1,7 @@
 ! Title: uBlockLite (zh)
 ! Description: 
 ! Expires: 31 days
-! Last modified: Fri, 29 Jul 2022 12:58:28 +0000
+! Last modified: Fri, 5 Aug 2022 12:58:28 +0000
 ! Homepage: https://github.com/uBlockOrigin/uAssets
 ! Licence: https://github.com/uBlockOrigin/uAssets/blob/master/LICENSE
 
@@ -9,16 +9,29 @@
 */fuckadblock-$script,redirect=fuckadblock.js-3.2.0
 */blockadblock.$script,redirect=fuckadblock.js-3.2.0
 */wp-adblock-$script,redirect=fuckadblock.js-3.2.0
+bilibili.com,dandanzan.top,nunuyy.*,v.qq.com##+js(nowebrtc)
 
 ! A2ZAPK.com
+||a2zapk.com/js/notification.js
 a2zapk.com##+js(acis, atob, decodeURIComponent)
 a2zapk.com##+js(aopr, AaDetector)
-||a2zapk.com/js/notification.js
+@@||a2zapk.com^$script,xhr,3p,domain=dropgalaxy.com
+a2zupload.com##.adsbygoogle
 @@||a2zupload.com^$ghide
 @@||googlesyndication.com/pagead/$script,domain=a2zupload.com
 @@*$image,domain=a2zupload.com
-a2zupload.com##.adsbygoogle
-@@||a2zapk.com^$script,xhr,3p,domain=dropgalaxy.com
+jaanmusic.in,rtxkeeda.com##+js(nosiif, _0x)
+jaanmusic.in,rtxkeeda.com##.adsbygoogle
+jaanmusic.in,rtxkeeda.com##div[style="background:#ededed;"]
+jaanmusic.in,rtxkeeda.com###galax2
+@@*$ghide,domain=jaanmusic.in|rtxkeeda.com
+@@||googlesyndication.com/pagead/$script,domain=jaanmusic.in|rtxkeeda.com
+@@*$image,domain=jaanmusic.in|rtxkeeda.com
+@@||a2zapk.com^$frame,script,xhr,domain=rtxkeeda.com
+||mobileoffers-7-q-download.com^
+||mobileapps-v-download.com^
+@@||js.mobileapps-v-download.com/$script,domain=rtxkeeda.com
+rtxkeeda.com###vipada
 
 ! APKMIRROR.com
 apkmirror.com#@#.gooWidget
@@ -45,6 +58,9 @@ bing.com##.ins_exp.tds
 bing.com#@##b_results > li:not(.b_algo):not(.b_ans):not(.b_pag):not(.aca_algo):not(.aca_algo_count):not(.b_msg)
 bing.com#@#li.b_adBottom
 bing.com#@#.b_adLastChild
+
+! DOUYU.com
+||douyucdn.cn/front-publish/stream-sdk-lib-master/dyp2pxp2p_*.js$script,domain=douyu.com
 
 ! GOOGLE
 google.*###tadsto.c
@@ -95,6 +111,9 @@ google.*##:not(:matches-path(/^/search\?.*tbm=shop|^/shopping/)) *:not([class^="
 google.*##.sh-sr__shop-result-group[data-hveid] .sh-sp__btn:matches-css(font-size: 13px):upward(.sh-sr__shop-result-group):has(a[href^="/aclk"][href$="adurl="])
 google.*##c-wiz div[data-hveid] > div > div > ul:has(> li[style="max-width:200px;"] > div > div[data-hveid] > a[href*="/aclk"]):upward(3)
 google.com##div[data-section-id] > a[href^="/aclk"][href*="placesheetAdFix="][href*="adurl="]:upward(1)
+
+! HUYA.com
+||msstatic.com/huya/*/p2plib.js$script
 
 ! RARBG
 zippyshare.com##+js(noeval)
