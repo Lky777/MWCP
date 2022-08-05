@@ -47,6 +47,7 @@ _banner
 ! GAMERSKY.com
 ||cm1.gamersky.com/apirating/
 ||db5.gamersky.com^
+||image.gamersky.com/webimg13/wap/2021/APP-ICON@3x.png
 ||j.gamersky.com/app/js/
 ||j.gamersky.com/wap/js/gs/
 ||yeyou-cps.gamersky.com^
@@ -106,7 +107,6 @@ _720.gif
 @@||static.zhihu.com^
 
 ! Annoying Elements
-18comic.org,18comic.vip,jmcomic.asia##.modal-head
 18comic.org,18comic.vip,jmcomic.asia##.modal-body
 aliyun.com##.app-fixed-btn
 baidu.com,bdimg.com##.nav-bar-bottom
@@ -118,14 +118,15 @@ ddxs.com##div[class="W1oMwlgani"]
 gamer.com.tw##.open-app
 txrjy.com##.is-shown.OpenInAppButton
 wallstreetcn.com##.open-in-app
-xbiquge.so##div[class="show-app2"]
+xbiquge.so##.W1oMwlgbar
+xbiquge.so##.zw1ljPz
 zhihu.com##.css-rgo48u
 zhihu.com##.css-w0t7t0.Button
 
 !-------- 🐾Adults --------
 -mod1.gif
-/images/content/spot01.jpg$domain=yingav.com|yingav2.com
 /images/friend/*
+/images/content/spot01.jpg$domain=yingav.com|yingav2.com
 /static/resources/$domain=18comic.org|18comic.vip|jmcomic.asia
 ||21319331.com^
 ||3338632.com^
