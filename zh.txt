@@ -1,8 +1,8 @@
 [Adblock Plus 3.0]
 ! Title: 🐾ShadowCat (zh)
 ! Description: Supplemental filters for Chinese mobile sites
-! Version: 202208050101
-! Last modified: 5 Aug 2022 01:01 UTC
+! Version: 20220822a
+! Last modified: 22 Aug 2022 UTC
 ! Expires: 31 days
 ! Homepage: https://github.com/Lky777/MWCP
 ! Checksum: 
@@ -29,7 +29,7 @@
 ||fonts.g*.com^
 ||googlesyndication.com^
 ||googletagmanager.com^
-||lh3.googleusercontent.com/proxy/
+||lh*.googleusercontent.com/proxy/
 ||m.youtube.com/static/r/
 ! SOGOU
 ||img04.sogoucdn.com^
@@ -73,53 +73,37 @@ _720.gif
 ||doflygonan.com^
 ||platform-api.sharethis.com^
 ||tgwidget.com^
+! WEEKENDHK.com
+||www.weekendhk.com/wp-content/themes/bucket/theme-content/images/
 ! XDA-DEVELOPERS.com
 ||xda-developers.com^$3p
 ! YINGXS.com
 ||m.yingsx.com/6W3n6xwL/
-||9543.lol^
-||ailianna.cn^
-||barcc.cn^
-||csont.cn^
-||dd-static.jd.com^
-||go2yd.com^
-||hfdoubanhui.cn^
-||iilck.com^
-||imimimi.top^
-||junchiyiliao.cn^
-||jwzd.com.cn^
-||khgdeae.cn^
-||kkjiaofei.com^
-||mayuetong.cn^
-||qlogo.cn^
-||qpic.cn^
-||rongsonm.uno^
-||rstomach.cn^
-||sujev.cn^
-||udfkfm.com^
-||xh77.cc^
-||xmyouxiang.cn^
-||zhangbotong.com^
-||zmdwx.com.cn^
-||zs-fz.cn^
+! YHDMP.live
+||nmkstcrt.xyz^
 ! ZHIHU.com
 ||static.zhihu.com/heifetz/column.GoodsRecommendGoodsCardList.*.js
 @@||static.zhihu.com^
 
 ! Annoying Elements
+163.com##.js-backflow-floating.backflow-floating
+163.com##.js-open-app.backflow-floating
 18comic.org,18comic.vip,jmcomic.asia##.modal-body
 aliyun.com##.app-fixed-btn
-baidu.com,bdimg.com##.nav-bar-bottom
+juicywest.com##+js(aopr, __Y)
+baidu.com,bdimg.com,tieba.baidu.com##.nav-bar-bottom
 ceveysystemsna.com###overlay-ad
 csdn.net##.open_app_channelCode.feed-Sign-span
 ddxs.com##div[class="RMss1"]
 ddxs.com##div[class="W1oMwlglisten"]
 ddxs.com##div[class="W1oMwlgani"]
 gamer.com.tw##.open-app
+hk01.com###branch-banner-iframe
 txrjy.com##.is-shown.OpenInAppButton
 wallstreetcn.com##.open-in-app
 xbiquge.so##.W1oMwlgbar
 xbiquge.so##.zw1ljPz
+zhihu.com##.css-121zbv8.Button
 zhihu.com##.css-rgo48u
 zhihu.com##.css-w0t7t0.Button
 
@@ -135,10 +119,12 @@ zhihu.com##.css-w0t7t0.Button
 ||884121.com^
 ||885422.com^
 ||9820668.com^
+||abcm3i67y22.com^
 ||apain2.com^
 ||auwrtou.cn^
 ||cdn.bncloudfl.com^
 ||cdn.jsjsjs.xyz/happy/newyear/
+||dapai77.top^
 ||di.phncdn.com^
 ||dimg04.c-ctrip.com^
 ||geobanner.getiton.com^
@@ -162,14 +148,14 @@ zhihu.com##.css-w0t7t0.Button
 ||qthynj2.com^
 ||rb1991.com/fc/*.gif
 ||sese211.info/photo/*.gif
+||ssp666.xyz/images/*.gif
 ||static01.xyz^
 ||traffichaus.com^
 ||trxxkie.cc^
 ||u00*.com^
 ||unpfqc9.com^
 ||webs*.*.xyz^
-||abcm3i67y22.com^
-||ssp666.xyz/images/*.gif
 ||xbluntanq.life^
 ||xlviirdr.com^
 ||xox8829.com^
+||zurftr8.com^

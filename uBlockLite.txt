@@ -1,7 +1,7 @@
 ! Title: uBlockLite (zh)
 ! Description: 
 ! Expires: 31 days
-! Last modified: Fri, 5 Aug 2022 12:58:28 +0000
+! Last modified: Mon, 22 Aug 2022 12:58:28 +0000
 ! Homepage: https://github.com/uBlockOrigin/uAssets
 ! Licence: https://github.com/uBlockOrigin/uAssets/blob/master/LICENSE
 
@@ -32,6 +32,13 @@ jaanmusic.in,rtxkeeda.com##+js(nosiif, _0x)
 apkmirror.com##+js(aost, document.querySelector, /(?=(stackDepth:3\s|stackDepth:2\s|stackDepth:4\s))(?=^(?!.*(Object|HTMLInputElement|https|Search|HTMLDocument)))/)
 apkmirror.com##+js(acis, document.querySelectorAll, style.width="100%")
 apkmirror.com##.downloadCountdown
+
+! AVSEESEE.com
+avseesee.com##+js(acis, document.getElementById, _banner)
+avseesee.com##+js(aopw, _pop)
+avseesee.com##.aoa_overlay
+avseesee.com##.happy-under-player
+avseesee.com##.textwidget:has(:scope ins)
 
 ! BING.com
 bing.com##+js(set, AdBlockerTracking.AdBlockMonitor, noopFunc)
