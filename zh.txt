@@ -8,37 +8,14 @@
 ! Checksum: 
 ! Licence: 
 
-!-------- 🐾Big Adsense --------
-! 360
-||p*.qhimg.com^
-! ALIBABA
-||38qptu4.oss-cn-hangzhou.aliyuncs.com^
-||xpjtu7.oss-cn-hangzhou.aliyuncs.com^
-! BAIDU
-||*.bcebos.com^
-||hpd.baidu.com^
-||msite.baidu.com^
-||sp1.baidu.com^
-! BYTEDANCE
-||p1.bdxiguaimg.com^
-||p3.toutiaoimg.com/img/
-! GOOGLE
-||fonts.g*.com^
-||googlesyndication.com^
-||googletagmanager.com^
-||lh*.googleusercontent.com/proxy/
-||m.youtube.com/static/r/
-! SOGOU
-||img04.sogoucdn.com^
-! OTHERS
-||cnzz.com^
 
 !-------- 🐾General --------
 !
-_banner
-||static.*.com^
 ! 191FUN.com
 ||m.191fun.com/uploadfile/dip/*.gif
+! Bing.com
+||img04.sogoucdn.com^
+||p*.qhimg.com^
 ! DDXS.com
 ||*.biquge-app.com/apps/
 ! GAMERSKY.com
@@ -81,9 +58,11 @@ _720.gif
 ||m.yingsx.com/6W3n6xwL/
 ! YHDMP.live
 ||nmkstcrt.xyz^
+! YOUTUBE.com
+||lh*.googleusercontent.com/proxy/
+||m.youtube.com/static/r/
 ! ZHIHU.com
 ||static.zhihu.com/heifetz/column.GoodsRecommendGoodsCardList.*.js
-@@||static.zhihu.com^
 
 ! Annoying Elements
 163.com##.js-backflow-floating.backflow-floating
