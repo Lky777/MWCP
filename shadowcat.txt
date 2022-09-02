@@ -1,7 +1,7 @@
 [Adblock Plus 3.3]
 ! Title: 🐾ShadowCat
 ! Description: Supplemental filters for Chinese mobile sites
-! Version: 20220902a
+! Version: 20220902b
 ! Last modified: 2 Sep 2022 UTC
 ! Expires: 31 days
 ! Homepage: https://github.com/Lky777/MWCP
@@ -40,6 +40,7 @@
 ||bedrapiona.com^
 ||cdnativepush.com^
 ||eehuzaih.com^
+||inklinkor.com^
 ||rndskittytor.com^
 ! HAOBIQUGE.com
 ||goodtj.xyz^
@@ -69,13 +70,34 @@ _720.gif
 ||exevcl.cn^
 ||nsj666.cn^
 ! XDA-DEVELOPERS.com
+||1rx.io^
+||3lift.com^
+||ad.gt^
 ||adform.net^
 ||adlightning.com^
 ||adnxs.com^
 ||adsninja.ca^
 ||amazon-adsystem.com^
+||analytics.yahoo.com^
+||bidswitch.net^
 ||childlikeform.com^
+||contextweb.com^
+||hadronid.net^
+||indexww.com^
+||lijit.com^
+||loopme.me^
+||media.net^
+||openx.net^
+||parsely.com^
+||primis.tech^
+||pubgw.yahoo.com^
+||pubmatic.com^
+||sharethrough.com^
+||spotxchange.com^
+||stack-sonar.com^
+||stickyadstv.com^
 ||teads.tv^
+||tremorhub.com^
 ||xda-developers.com^$3p
 ! YINGXS.com
 ||m.yingsx.com/6W3n6xwL/
@@ -101,6 +123,7 @@ ddxs.com##div[class="RMss1"]
 ddxs.com##div[class="W1oMwlglisten"]
 ddxs.com##div[class="W1oMwlgani"]
 gamer.com.tw##.open-app
+gamersky.com##.gsTgWapConBdshareTop > [href="javascript:;"]
 hk01.com###branch-banner-iframe
 m.douyu.com##.DownloadBtn
 m.douyu.com##.btn-open-app
