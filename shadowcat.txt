@@ -1,8 +1,8 @@
 [Adblock Plus 3.3]
 ! Title: 🐾ShadowCat
 ! Description: Supplemental filters for Chinese mobile sites
-! Version: 20220902b
-! Last modified: 2 Sep 2022 UTC
+! Version: 20220903b
+! Last modified: 3 Sep 2022 UTC
 ! Expires: 31 days
 ! Homepage: https://github.com/Lky777/MWCP
 ! Checksum: 
@@ -16,6 +16,12 @@
 ! A2ZAPK.com
 ||a-ads.com^
 ||a2zapk.com/images/SocialIcon/
+!APKMIRROR.com
+||clarity.ms^
+||crsspxl.com^
+||fundingchoicesmessages.google.com^
+||gstatic.com/0emn/
+||pro-market.net^
 ! BAIDU
 ||dhn.135320.com^
 ||ns-strategy.cdn.bcebos.com^
@@ -28,6 +34,7 @@
 ||hkbzl.hk^
 ||xiedao.hk^
 ! DOUYU.com
+||m.douyu.com/api/search/getTodayTop?
 ||shark2.douyucdn.cn/front-publish/m-douyu-v3-master/assets/images/
 ! GAMERSKY.com
 ||cm1.gamersky.com/apirating/
@@ -51,7 +58,9 @@
 ! MIKECRM.com
 ||cdnq3.mikecrm.com/cdn/ugc_8_a/pub/qw/*/form/image/*.jpg
 ! MYDRIVER.com
-_720.gif
+dangbei_*$image
+! MYQQJD.com
+||s.myqqjd.com/wp-content/logo/
 ! PROXYRARBG.org
 ||cloudflareinsights.com^
 ! QQSZZ.com

@@ -1,7 +1,9 @@
 ! Title: uBlock filters (private)
-! Description: 
+! Description: uBlock filters targeted for Chinese mob sites
+! Version: 20220903a
 ! Expires: 31 days
-! Last modified: Mon, 22 Aug 2022 12:58:28 +0000
+! Last modified: 3 Sep 2022 UTC
+! Expires: 31 days
 ! Homepage: https://github.com/uBlockOrigin/uAssets
 ! Licence: https://github.com/uBlockOrigin/uAssets/blob/master/LICENSE
 
@@ -19,6 +21,7 @@
 ||rawgit.com/Pocketart/$script,3p
 
 ! A2ZAPK.com
+||a2zapk.com^$script,subdocument,third-party,xmlhttprequest
 ||a2zapk.com/js/notification.js
 ||mobileoffers-7-q-download.com^
 ||mobileapps-v-download.com^
@@ -26,17 +29,31 @@ a2zapk.com##+js(acis, atob, decodeURIComponent)
 a2zapk.com##+js(aopr, AaDetector)
 a2zupload.com##.adsbygoogle
 jaanmusic.in,rtxkeeda.com##+js(nosiif, _0x)
+@@||a2zupload.com^$ghide
+@@||googlesyndication.com/pagead/$script,domain=a2zupload.com
+@@*$image,domain=a2zupload.com
 
 ! ADF.ly
 ||adf.ly^$badfilter
+||adf.ly/funcript
+||adf.ly/js/display.js
+||adf.ly/js/entry.js
+||adf.ly/js/link-converter.js
 
 ! APKCOMBO.com
 apkcombo.com##+js(aeld, DOMContentLoaded, clientHeight)
 
 ! APKMIRROR.com
+apkmirror.com#@#.adslot
 apkmirror.com##+js(aost, document.querySelector, /(?=(stackDepth:3\s|stackDepth:2\s|stackDepth:4\s))(?=^(?!.*(Object|HTMLInputElement|https|Search|HTMLDocument)))/)
 apkmirror.com##+js(acis, document.querySelectorAll, style.width="100%")
 apkmirror.com##.downloadCountdown
+apkmirror.com,net-load.com##.ai_widget.widget
+apkmirror.com##.google-ad-leaderboard
+@@||apkmirror.com^$generichide
+! Anti-Adblock
+spoilertv.com#@##adsensewide
+androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkulubu.com,pixiz.com,spoilertv.com#@#.adsbygoogle
 
 ! AVSEESEE.com
 avseesee.com##+js(acis, document.getElementById, _banner)
@@ -61,16 +78,40 @@ bing.com##+js(set, SVGForeignObjectElement, undefined)
 dropgalaxy.*##+js(no-fetch-if, /adtrue\.com|eningspon\.com|freychang\.fun|orquideassp\.com|popunder/)
 dropgalaxy.*##+js(no-xhr-if, /a-mo\.net|adnxs\.com|bidder\.criteo\.com|creativecdn\.com|e-planning\.net|quantumdex\.io/)
 dropgalaxy.*,financemonk.net##+js(nowoif)
+dropgalaxy.*,financemonk.net##[href^="https://bit.ly/"]
 dropgalaxy.*,financemonk.net###operadata + br + [href][target="_blank"]
 dropgalaxy.*,financemonk.net##body > div[style^="position: fixed; display: block"]
+@@||blockadsnot.com/tabletop.min.js$script,domain=financemonk.net
+@@||dnhfi5nn2dt67.cloudfront.net/ui-bootstrap-tpls.min.js$script,domain=dropgalaxy.*|financemonk.net
 dropgalaxy.*,financemonk.net##.adsbygoogle:style(max-height: 1px !important;)
 dropgalaxy.*,financemonk.net##[id^="aswift"]:style(display:none!important;)
 dropgalaxy.*,financemonk.net##iframe[id*="_mN_main_"]
 dropgalaxy.*,financemonk.net##[target="_blank"]:has-text(Download)
 dropgalaxy.*,financemonk.net###modalpop
+@@||c.adsco.re^$script,domain=financemonk.net
+@@||contextual.media.net/dmedianet.js?cid=$domain=dropgalaxy.*|financemonk.net
+@@||contextual.media.net/*/fcmain.js$domain=dropgalaxy.*|financemonk.net
+@@||remarketingpixel.com/stats$xhr,domain=dropgalaxy.*|financemonk.net
+@@||cloudfront.net/publishers/dropgalaxycom.min.js$domain=dropgalaxy.com
+@@||cmp.uniconsent.com^$script,xhr,domain=dropgalaxy.com
+@@||dropgalaxy.*^$ghide
+@@||financemonk.net^$ghide
 tmp.dropgalaxy.in###vipgoogle-center-div
 financemonk.net###vipada
 newsindi.com,financemonk.net##+js(aopr, absda)
+@@||googletagmanager.com/gtag/js$xhr,domain=dropgalaxy.*|financemonk.net
+!#if env_firefox
+@@||adservice.google.*/adsid/integrator.js$script,domain=dropgalaxy.*|financemonk.net
+!#endif
+*$frame,redirect-rule=noopframe,domain=dropgalaxy.com|techthematter.xyz
+*$xhr,redirect-rule=nooptext,domain=dropgalaxy.com|techthematter.xyz
+*$script,redirect-rule=noopjs,domain=dropgalaxy.*|financemonk.net|techthematter.xyz
+*$image,redirect-rule=32x32.png,domain=dropgalaxy.*|financemonk.net|techthematter.xyz
+@@.jpg$image,domain=dropgalaxy.*|financemonk.net|techthematter.xyz
+@@.png$image,domain=dropgalaxy.*|financemonk.net|techthematter.xyz
+@@||googlesyndication.com^$script,xhr,domain=dropgalaxy.*|financemonk.net|techthematter.xyz
+@@||techthematter.xyz^$ghide
+@@||freychang.fun^$xhr,domain=financemonk.net|techthematter.xyz
 
 ! GOOGLE
 /google-analytics.$~image,badfilter,script
@@ -122,6 +163,11 @@ userupload.net##+js(aeld, , _0x)
 ||tgwidget.com^$3p
 
 ! YOUTUBE.com
+||youtube.com/ad_companion
+||youtube.com/pagead/
+||m.youtube.com/get_midroll_$domain=youtube.com
+||youtube.com/get_video_info?*adunit$~third-party
+_reklama_$domain=~youtube.com
 *_ad_$media,3p,domain=youtube.com
 youtube.com##+js(json-prune, [].playerResponse.adPlacements [].playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
 youtube.com##+js(set, ytInitialPlayerResponse.adPlacements, undefined)
