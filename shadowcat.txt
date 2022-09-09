@@ -1,8 +1,8 @@
 [Adblock Plus 3.3]
 ! Title: 🐾ShadowCat
 ! Description: Supplemental filters for Chinese mobile sites
-! Version: 20220903c
-! Last modified: 3 Sep 2022 UTC
+! Version: 20220910a
+! Last modified: 10 Sep 2022 UTC
 ! Expires: 31 days
 ! Homepage: https://github.com/Lky777/MWCP
 ! Checksum: 
@@ -28,6 +28,15 @@
 ! Bing.com
 ||img04.sogoucdn.com^
 ||p*.qhimg.com^
+||COCOMANGA.com
+||addresseepaper.com^
+||cocomanga.com/js/a_d/
+||creepingbrings.com^
+||exdynsrv.com^
+||reapinject.com^
+||saptiledispatch.com^
+||sb4you1.com^
+||simplewebanalysis.com^
 ! DDXS.com
 ||*.biquge-app.com/apps/
 ! DINGDIAN6.com
@@ -61,6 +70,8 @@
 ! MYDRIVER.com
 dangbei_*$image
 ! MYQQJD.com
+||ads-api.twitter.com^
+||myqqjd.com/images/ad-300x250.jpg
 ||s.myqqjd.com/wp-content/logo/
 ! PROXYRARBG.org
 ||cloudflareinsights.com^
