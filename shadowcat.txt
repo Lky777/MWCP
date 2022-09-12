@@ -1,8 +1,8 @@
 [Adblock Plus 3.3]
 ! Title: 🐾ShadowCat
 ! Description: Supplemental filters for Chinese mobile sites
-! Version: 20220910a
-! Last modified: 10 Sep 2022 UTC
+! Version: 20220913a
+! Last modified: 13 Sep 2022 UTC
 ! Expires: 31 days
 ! Homepage: https://github.com/Lky777/MWCP
 ! Checksum: 
@@ -31,8 +31,10 @@
 ||COCOMANGA.com
 ||addresseepaper.com^
 ||cocomanga.com/js/a_d/
+||cocomanga.com/static/
 ||creepingbrings.com^
 ||exdynsrv.com^
+||juhqtxze.com^
 ||reapinject.com^
 ||saptiledispatch.com^
 ||sb4you1.com^
@@ -71,7 +73,11 @@
 dangbei_*$image
 ! MYQQJD.com
 ||ads-api.twitter.com^
+||ads.reddit.com^
+||chpadblock.com^
+||s.myqqjd.com/wp-content/plugins/chp-ads-block-detector-pro/
 ||myqqjd.com/images/ad-300x250.jpg
+||myqqjd.com/images/ads.jpg
 ||s.myqqjd.com/wp-content/logo/
 ! PROXYRARBG.org
 ||cloudflareinsights.com^
@@ -136,6 +142,7 @@ dangbei_*$image
 163.com##.js-open-app.backflow-floating
 18comic.org,18comic.vip,jmcomic.asia##.modal-body
 aliyun.com##.app-fixed-btn
+apkmirror.com##.f-nowrap.d-flex.p-relative.f-100
 juicywest.com##+js(aopr, __Y)
 bdimg.com,tieba.baidu.com##.nav-bar-bottom
 ceveysystemsna.com###overlay-ad
