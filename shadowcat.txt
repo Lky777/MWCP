@@ -92,7 +92,7 @@ dangbei_*$image
 ||platform-api.sharethis.com^
 ||tgwidget.com^
 ! WEEKENDHK.com
-||www.weekendhk.com/wp-content/themes/bucket/theme-content/images/
+||weekendhk.com/wp-content/themes/bucket/theme-content/images/
 ! WXSY.net
 ||exevcl.cn^
 ||nsj666.cn^
@@ -126,8 +126,12 @@ dangbei_*$image
 ||teads.tv^
 ||tremorhub.com^
 ||xda-developers.com^$3p
-! YINGXS.com
+! YINGSX.com
+||aisdd.xyz^
 ||m.yingsx.com/6W3n6xwL/
+||m.yingsx.com/9WIXmMJi/
+||m.yingsx.com/js/yingsx.js
+||swadakesb.cyou^
 ! YHDMP.live
 ||kjnmwr.xyz^
 ||nmkstcrt.xyz^
