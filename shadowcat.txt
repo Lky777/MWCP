@@ -1,7 +1,7 @@
 [Adblock Plus 3.3]
 ! Title: 🐾ShadowCat
 ! Description: Supplemental filters for Chinese mobile sites
-! Version: 20220916a
+! Version: 20220916b
 ! Last modified: 16 Sep 2022 UTC
 ! Expires: 31 days
 ! Homepage: https://github.com/Lky777/MWCP
@@ -75,10 +75,11 @@ dangbei_*$image
 ||ads-api.twitter.com^
 ||ads.reddit.com^
 ||chpadblock.com^
-||s.myqqjd.com/wp-content/plugins/chp-ads-block-detector-pro/
 ||myqqjd.com/images/ad-300x250.jpg
 ||myqqjd.com/images/ads.jpg
 ||s.myqqjd.com/wp-content/logo/
+||s.myqqjd.com/wp-content/plugins/chp-ads-block-detector-pro/
+||s.myqqjd.com/wp-content/uploads/2022/02/20220206130459221.png
 ! PROXYRARBG.org
 ||cloudflareinsights.com^
 ! QQSZZ.com
@@ -127,6 +128,7 @@ dangbei_*$image
 ||tremorhub.com^
 ||xda-developers.com^$3p
 ! YINGSX.com
+||mobixc.bwadakesv.cyou^
 ||m.yingsx.com/6LRm1YB3/
 ||m.yingsx.com/6W3n6xwL/
 ||m.yingsx.com/8EzybTEk/
@@ -155,9 +157,10 @@ ddxs.com##div[class="W1oMwlgani"]
 gamer.com.tw##.open-app
 gamersky.com##.gsTgWapConBdshareTop > [href="javascript:;"]
 hk01.com###branch-banner-iframe
-m.douyu.com##.DownloadBtn
-m.douyu.com##.btn-open-app
+douyu.com##.DownloadBtn
+douyu.com##.btn-open-app
 txrjy.com##.is-shown.OpenInAppButton
+userupload.net##.btn-danger.btn
 wallstreetcn.com##.open-in-app
 xbiquge.so##.W1oMwlgbar
 xbiquge.so##.zw1ljPz
@@ -178,6 +181,8 @@ zhihu.com##.css-w0t7t0.Button
 ||885422.com^
 ||9820668.com^
 ||abcm3i67y22.com^
+||adsco.re^
+||adserve.work^
 ||apain2.com^
 ||auwrtou.cn^
 ||cdn.bncloudfl.com^
