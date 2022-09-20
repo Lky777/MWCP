@@ -141,7 +141,7 @@ dangbei_*$image
 ! ZHIHU.com
 ||static.zhihu.com/heifetz/column.GoodsRecommendGoodsCardList.*.js
 
-! Annoying Elements
+!-------- 🐾Annoying Elements --------
 163.com##.js-backflow-floating.backflow-floating
 163.com##.js-open-app.backflow-floating
 18comic.org,18comic.vip,jmcomic.asia##.modal-body
@@ -171,8 +171,11 @@ zhihu.com##.css-w0t7t0.Button
 !-------- 🐾Adults --------
 -mod1.gif
 /images/friend/*
+/imgdef/friend.webp
+/imgdef/noimage.webp
 /images/content/spot01.jpg$domain=yingav.com|yingav2.com
 /static/resources/$domain=18comic.org|18comic.vip|jmcomic.asia
+|/templates/frontend/airav/img/social_*$domain=18comic.org|18comic.vip|jmcomic.asia
 ||21319331.com^
 ||3338632.com^
 ||33687151.com^
@@ -183,15 +186,24 @@ zhihu.com##.css-w0t7t0.Button
 ||abcm3i67y22.com^
 ||adsco.re^
 ||adserve.work^
+||afgr2.com^
+||afgr3.com^
+||cfgr2.com^
 ||apain2.com^
 ||auwrtou.cn^
+/avsee_banner/imgs/*
 ||cdn.bncloudfl.com^
 ||cdn.jsjsjs.xyz/happy/newyear/
+||cdn4ads.com^
+||connect.facebook.net/fr_FR/sdk.js
 ||dapai77.top^
 ||di.phncdn.com^
 ||dimg04.c-ctrip.com^
+||eabids.com^
+||eroadvertising.com^
 ||geobanner.getiton.com^
 ||ggsfq.com^
+||hczpeqgjq.com^
 ||img.strpst.com^
 ||img*.360buyimg.com^
 ||jcyunk2.com^
