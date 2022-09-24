@@ -1,9 +1,9 @@
 [Adblock Plus 3.3]
 ! Title: EasyPrivacy (private)
 ! Description: EasyPrivacy targeted for Chinese mob sites
-! Version: 20220919
+! Version: 20220924
 ! Expires: 31 days
-! Last modified: 19 Sep 2022 UTC
+! Last modified: 24 Sep 2022 UTC
 ! Expires: 31 days
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -9236,8 +9236,6 @@ cgi-bin/counter
 ||bfp.capitalone.com^
 ||bhphotovideo.com/aperture/client/logs
 ||bhphotovideo.com/aperture/shared/js/dataLayer.js
-||bing.com/fd/ls/GLinkPing.aspx?
-||bing.com/mouselog
 ||binocule21c.merriam-webster.com^
 ||biomedcentral.com/track/
 ||blitz-analytics-batch-server.blitz.gg^
