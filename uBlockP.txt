@@ -51,9 +51,6 @@ apkmirror.com##.downloadCountdown
 apkmirror.com,net-load.com##.ai_widget.widget
 apkmirror.com##.google-ad-leaderboard
 @@||apkmirror.com^$generichide
-! Anti-Adblock
-spoilertv.com#@##adsensewide
-androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkulubu.com,pixiz.com,spoilertv.com#@#.adsbygoogle
 
 ! AVSEESEE.com
 avseesee.com##+js(acis, document.getElementById, _banner)
