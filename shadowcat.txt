@@ -1,25 +1,26 @@
 [Adblock Plus 3.3]
 ! Title: 🐾ShadowCat
 ! Description: Supplemental filters for Chinese mobile sites
-! Version: 2022092502
+! Version: 2022092801
 ! Expires: 31 days
 ! Homepage: https://github.com/Lky777/MWCP
 
 
 !-------- 🐾General --------
 !
-||*.cn^$3p
-||*.com^$3p
-||*.com.cn^$3p
-||*.org^$3p
-||*.tv^$3p
-||*.xyz^$3p
+||*.cn^$third-party
+||*.com^$third-party
+||*.com.cn^$third-party
+||*.org^$third-party
+||*.tv^$third-party
+||*.xyz^$third-party
 !
 ! 191FUN.com
 ||m.191fun.com/uploadfile/dip/*.gif
 ! A2ZAPK.com
 ||a-ads.com^
 ||a2zapk.com/images/SocialIcon/
+||pushbullet.com^
 !APKMIRROR.com
 ||clarity.ms^
 ||crsspxl.com^
@@ -32,6 +33,8 @@
 ! Bing.com
 ||img04.sogoucdn.com^
 ||p*.qhimg.com^
+! BIQUGE365.net
+||qcmm06.com^
 ! CNET.com
 ||inline.cnet.com/api/au/
 ! COCOMANGA.com
@@ -118,6 +121,7 @@ dangbei_*$image
 ||bidswitch.net^
 ||childlikeform.com^
 ||contextweb.com^
+||geo.privacymanager.io^
 ||hadronid.net^
 ||indexww.com^
 ||lijit.com^
@@ -128,6 +132,7 @@ dangbei_*$image
 ||primis.tech^
 ||pubgw.yahoo.com^
 ||pubmatic.com^
+||pushbullet.com^
 ||sharethrough.com^
 ||spotxchange.com^
 ||stack-sonar.com^
@@ -182,7 +187,8 @@ zhihu.com##.css-w0t7t0.Button
 /imgdef/noimage.webp
 /images/content/spot01.jpg$domain=yingav.com|yingav2.com
 /static/resources/$domain=18comic.org|18comic.vip|jmcomic.asia
-|/templates/frontend/airav/img/social_*$domain=18comic.org|18comic.vip|jmcomic.asia
+/templates/frontend/airav/img/social_*$domain=18comic.org|18comic.vip|jmcomic.asia
+/templates/frontend/airav/js/d6_2f31.js
 ||21319331.com^
 ||3338632.com^
 ||33687151.com^
