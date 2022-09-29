@@ -1,7 +1,7 @@
 [Adblock Plus 3.3]
 ! Title: 🐾ShadowCat
 ! Description: Supplemental filters for Chinese mobile sites
-! Version: 2022092801
+! Version: 2022092901
 ! Expires: 31 days
 ! Homepage: https://github.com/Lky777/MWCP
 
@@ -15,6 +15,9 @@
 ||*.tv^$third-party
 ||*.xyz^$third-party
 !
+! 0XZX.com
+||cdn.0xzx.com/wp-content/plugins/better-adsmanager/
+||clickoutnetwork.care^
 ! 191FUN.com
 ||m.191fun.com/uploadfile/dip/*.gif
 ! A2ZAPK.com
@@ -74,6 +77,10 @@
 ||google.com/xjs/_/js/
 ! HAOBIQUGE.com
 ||goodtj.xyz^
+! ITHOME.com
+||m.ithome.com/js/common/jump-app.min.js
+||m.ithome.com/js/common/nativeshare.min.js
+||m.ithome.com/js/common/share-sdk.min.js
 ! LANZOUL.com
 ||woozooo.com^
 ! MANMANJU.com
@@ -91,6 +98,7 @@ dangbei_*$image
 ||s.myqqjd.com/wp-content/logo/
 ||s.myqqjd.com/wp-content/plugins/chp-ads-block-detector-pro/
 ||s.myqqjd.com/wp-content/uploads/2022/02/20220206130459221.png
+||s.myqqjd.com/wp-content/plugins/wechat-shop/
 ! PROXYRARBG.org
 ||cloudflareinsights.com^
 ! QQSZZ.com
@@ -121,7 +129,7 @@ dangbei_*$image
 ||bidswitch.net^
 ||childlikeform.com^
 ||contextweb.com^
-||geo.privacymanager.io^
+||privacymanager.io^
 ||hadronid.net^
 ||indexww.com^
 ||lijit.com^
@@ -188,7 +196,7 @@ zhihu.com##.css-w0t7t0.Button
 /images/content/spot01.jpg$domain=yingav.com|yingav2.com
 /static/resources/$domain=18comic.org|18comic.vip|jmcomic.asia
 /templates/frontend/airav/img/social_*$domain=18comic.org|18comic.vip|jmcomic.asia
-/templates/frontend/airav/js/d6_2f31.js
+/templates/frontend/airav/js/d6_2f31.js$domain=18comic.org|18comic.vip|jmcomic.asia
 ||21319331.com^
 ||3338632.com^
 ||33687151.com^
