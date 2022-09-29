@@ -1,8 +1,6 @@
 ! Title: uBlock filters (private)
 ! Description: uBlock filters targeted for Chinese mob sites
-! Version: 20220903a
-! Expires: 31 days
-! Last modified: 3 Sep 2022 UTC
+! Version: 2022092901
 ! Expires: 31 days
 ! Homepage: https://github.com/uBlockOrigin/uAssets
 ! Licence: https://github.com/uBlockOrigin/uAssets/blob/master/LICENSE
@@ -21,17 +19,15 @@
 ||rawgit.com/Pocketart/$script,3p
 
 ! A2ZAPK.com
-||a2zapk.com^$script,subdocument,third-party,xmlhttprequest
-||a2zapk.com/js/notification.js
-||mobileoffers-7-q-download.com^
-||mobileapps-v-download.com^
 a2zapk.com##+js(acis, atob, decodeURIComponent)
 a2zapk.com##+js(aopr, AaDetector)
-a2zupload.com##.adsbygoogle
-jaanmusic.in,rtxkeeda.com##+js(nosiif, _0x)
+||a2zapk.com/js/notification.js
 @@||a2zupload.com^$ghide
 @@||googlesyndication.com/pagead/$script,domain=a2zupload.com
 @@*$image,domain=a2zupload.com
+a2zupload.com##.adsbygoogle
+educatiocenter.online##+js(acs, $, alertmsg)
+@@||dl.a2zapk.com/getred.php$xhr,domain=educatiocenter.online
 
 ! ADF.ly
 ||adf.ly^$badfilter
@@ -44,13 +40,17 @@ jaanmusic.in,rtxkeeda.com##+js(nosiif, _0x)
 apkcombo.com##+js(aeld, DOMContentLoaded, clientHeight)
 
 ! APKMIRROR.com
-apkmirror.com#@#.adslot
-apkmirror.com##+js(aost, document.querySelector, /(?=(stackDepth:3\s|stackDepth:2\s|stackDepth:4\s))(?=^(?!.*(Object|HTMLInputElement|https|Search|HTMLDocument)))/)
-apkmirror.com##+js(acis, document.querySelectorAll, style.width="100%")
+apkmirror.com#@#.gooWidget
+apkmirror.com#@#.google-ad-leaderboard
+apkmirror.com##.gooWidget:style(opacity: 0 !important;)
+apkmirror.com##.google-ad-leaderboard:style(opacity: 0 !important;)
+apkmirror.com##span.advertisement-text
+apkmirror.com##[href^="https://bstk.me/"]
+apkmirror.com##[class*="ains-apkm_"]
+apkmirror.com##+js(aost, addEventListener, stackDepth:1)
+apkmirror.com##div.appRow[style]
 apkmirror.com##.downloadCountdown
-apkmirror.com,net-load.com##.ai_widget.widget
-apkmirror.com##.google-ad-leaderboard
-@@||apkmirror.com^$generichide
+apkmirror.com##.OUTBRAIN
 
 ! AVSEESEE.com
 avseesee.com##+js(acis, document.getElementById, _banner)
