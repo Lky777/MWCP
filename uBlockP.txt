@@ -1,6 +1,6 @@
 ! Title: uBlock filters (private)
 ! Description: uBlock filters targeted for Chinese mob sites
-! Version: 2022092901
+! Version: 2022100101
 ! Expires: 31 days
 ! Homepage: https://github.com/uBlockOrigin/uAssets
 ! Licence: https://github.com/uBlockOrigin/uAssets/blob/master/LICENSE
@@ -26,7 +26,6 @@ a2zapk.com##+js(aopr, AaDetector)
 @@||googlesyndication.com/pagead/$script,domain=a2zupload.com
 @@*$image,domain=a2zupload.com
 a2zupload.com##.adsbygoogle
-educatiocenter.online##+js(acs, $, alertmsg)
 @@||dl.a2zapk.com/getred.php$xhr,domain=educatiocenter.online
 
 ! ADF.ly
