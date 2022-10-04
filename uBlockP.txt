@@ -1,3 +1,4 @@
+[Adblock Plus 2.0]
 ! Title: uBlock filters (private)
 ! Description: uBlock filters targeted for Chinese mob sites
 ! Version: 2022100101

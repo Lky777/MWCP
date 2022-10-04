@@ -1,7 +1,7 @@
-[Adblock Plus 3.3]
+[Adblock Plus 2.0]
 ! Title: 🐾ShadowCat
 ! Description: Supplemental filters for Chinese mobile sites
-! Version: 2022092901
+! Version: 2022100401
 ! Expires: 31 days
 ! Homepage: https://github.com/Lky777/MWCP
 
@@ -32,6 +32,7 @@
 ||pro-market.net^
 ! BAIDU
 ||dhn.135320.com^
+||dmpstatic.cdn.bcebos.com/weirwood-sdk/
 ||ns-strategy.cdn.bcebos.com^
 ! Bing.com
 ||img04.sogoucdn.com^
@@ -164,6 +165,9 @@ dangbei_*$image
 !-------- 🐾Annoying Elements --------
 163.com##.js-backflow-floating.backflow-floating
 163.com##.js-open-app.backflow-floating
+18comic.org,18comic.vip,jmcomic.asia##.bot-per-times > .fa-times.fas
+18comic.org,18comic.vip,jmcomic.asia##.center.container
+18comic.org,18comic.vip,jmcomic.asia##div[class="bot-per-back"]
 18comic.org,18comic.vip,jmcomic.asia##.modal-body
 aliyun.com##.app-fixed-btn
 apkmirror.com##.f-nowrap.d-flex.p-relative.f-100
@@ -196,7 +200,10 @@ zhihu.com##.css-w0t7t0.Button
 /images/content/spot01.jpg$domain=yingav.com|yingav2.com
 /static/resources/$domain=18comic.org|18comic.vip|jmcomic.asia
 /templates/frontend/airav/img/social_*$domain=18comic.org|18comic.vip|jmcomic.asia
-/templates/frontend/airav/js/d6_2f31.js$domain=18comic.org|18comic.vip|jmcomic.asia
+/templates/frontend/airav/js/*_*.js$domain=18comic.org|18comic.vip|jmcomic.asia
+/templates/frontend/airav/css/style_blog.css$domain=18comic.org|18comic.vip|jmcomic.asia
+/templates/frontend/airav/css/style_game.css$domain=18comic.org|18comic.vip|jmcomic.asia
+/undefined$domain=18comic.org|18comic.vip|jmcomic.asia
 ||21319331.com^
 ||3338632.com^
 ||33687151.com^

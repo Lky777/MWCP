@@ -1,9 +1,7 @@
-[Adblock Plus 3.3]
+[Adblock Plus 2.0]
 ! Title: EasyPrivacy (private)
 ! Description: EasyPrivacy targeted for Chinese mob sites
 ! Version: 20220924
-! Expires: 31 days
-! Last modified: 24 Sep 2022 UTC
 ! Expires: 31 days
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
