@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 🐾ShadowCat
 ! Description: Supplemental filters for Chinese mobile sites
-! Version: 2022100401
+! Version: 2022100501
 ! Expires: 31 days
 ! Homepage: https://github.com/Lky777/MWCP
 
@@ -172,7 +172,6 @@ dangbei_*$image
 aliyun.com##.app-fixed-btn
 apkmirror.com##.f-nowrap.d-flex.p-relative.f-100
 juicywest.com##+js(aopr, __Y)
-bdimg.com,tieba.baidu.com##.nav-bar-bottom
 ceveysystemsna.com###overlay-ad
 csdn.net##.open_app_channelCode.feed-Sign-span
 ddxs.com##div[class="RMss1"]
@@ -238,6 +237,7 @@ zhihu.com##.css-w0t7t0.Button
 ||jcyunk2.com^
 ||jsoctn9.com^
 ||jtrgzj9.com^
+||juicyads.com^
 ||knet.cn^
 ||kvhss.top^
 ||kzecc.com^
