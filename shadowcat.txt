@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Title: 🐾ShadowCat
 ! Description: Supplemental filters for Chinese mobile sites
-! Version: 2022100502
+! Version: 2022100601
 ! Expires: 31 days
 ! Homepage: https://github.com/Lky777/MWCP
 
@@ -32,7 +32,9 @@
 ||img04.sogoucdn.com^
 ||p*.qhimg.com^
 ! BIQUGE365.net
-||qcmm06.com^
+||qcmm*.com^
+||qcmm07.com^
+||qlogo.cn^
 ! CNET.com
 ||inline.cnet.com/api/au/
 ! COCOMANGA.com
@@ -185,76 +187,23 @@ zhihu.com##.css-121zbv8.Button
 zhihu.com##.css-rgo48u
 zhihu.com##.css-w0t7t0.Button
 
-!-------- 🐾Adults --------
--mod1.gif
-/images/friend/*
-/imgdef/friend.webp
-/imgdef/noimage.webp
-/images/content/spot01.jpg$domain=yingav.com|yingav2.com
+!-------- 🐾Porn&Gaming --------
+! 18comic.org
 /static/resources/$domain=18comic.org|18comic.vip|jmcomic.asia
 /templates/frontend/airav/img/social_*$domain=18comic.org|18comic.vip|jmcomic.asia
 /templates/frontend/airav/js/*_*.js$domain=18comic.org|18comic.vip|jmcomic.asia
 /templates/frontend/airav/css/style_blog.css$domain=18comic.org|18comic.vip|jmcomic.asia
 /templates/frontend/airav/css/style_game.css$domain=18comic.org|18comic.vip|jmcomic.asia
 /undefined$domain=18comic.org|18comic.vip|jmcomic.asia
-||21319331.com^
-||3338632.com^
-||33687151.com^
-||6745jj.com^
-||884121.com^
-||885422.com^
-||9820668.com^
-||abcm3i67y22.com^
-||adsco.re^
-||adserve.work^
-||afgr2.com^
-||afgr3.com^
-||cfgr2.com^
-||apain2.com^
-||auwrtou.cn^
-/avsee_banner/imgs/*
-||cdn.bncloudfl.com^
-||cdn.jsjsjs.xyz/happy/newyear/
-||cdn4ads.com^
-||connect.facebook.net/fr_FR/sdk.js
-||dapai77.top^
-||di.phncdn.com^
-||dimg04.c-ctrip.com^
-||eabids.com^
-||eroadvertising.com^
-||geobanner.getiton.com^
-||ggsfq.com^
-||hczpeqgjq.com^
-||img.strpst.com^
-||img*.360buyimg.com^
-||inrhyhorntor.com^
-||jcyunk2.com^
-||jsoctn9.com^
-||jtrgzj9.com^
-||juicyads.com^
-||knet.cn^
-||kvhss.top^
-||kzecc.com^
-||n0*.com^
-||othbhe2.com^
-||p.91hs005.xyz/pic/
-||p.bigcloud.cyou/*.gif
-||p1.eckwai.com^
-||pic.81image.com^
-||pic.picnewsss.com^
-||pic.abgdh.com^
-||qthynj2.com^
-||rb1991.com/fc/*.gif
-||sese211.info/photo/*.gif
-||ssp666.xyz/images/*.gif
-||static01.xyz^
-||testamenttakeoutkill.com^
-||traffichaus.com^
-||trxxkie.cc^
-||u00*.com^
-||unpfqc9.com^
-||webs*.*.xyz^
-||xbluntanq.life^
-||xlviirdr.com^
-||xox8829.com^
-||zurftr8.com^
+! YINGAV.com
+/cdn-cgi/apps/body/$domain=yingav.com|yingav2.com
+/images/content/spot01.jpg$domain=yingav.com|yingav2.com
+! ZZTT86.com
+||new.cnzuqiu.mobi/new/usr/20220831/2022083117520618642.gif
+||new.cnzuqiu.mobi/new/usr/20220907/2022090719382717144.png
+||new.cnzuqiu.mobi/new/usr/20220930/2022093010273850548.png
+||new.cnzuqiu.mobi/new/usr/20221001/2022100123500590798.gif
+! porn-ad
+||dl66d.com^
+! Gaming
+||8feichai.com^
