@@ -1,13 +1,12 @@
-[Adblock Plus 1.1]
+[Adblock Plus 2.0]
 ! Title: 🐾ShadowCat
 ! Description: Supplemental filters for Chinese mobile sites
-! Version: 2022100601
+! Version: 2022100701
 ! Expires: 31 days
 ! Homepage: https://github.com/Lky777/MWCP
 
 
-!-------- 🐾General --------
-
+-------- 🐾General --------
 !
 ! 0XZX.com
 ||cdn.0xzx.com/wp-content/plugins/better-adsmanager/
@@ -18,6 +17,8 @@
 ||a-ads.com^
 ||a2zapk.com/images/SocialIcon/
 ||pushbullet.com^
+educatiocenter.online###modalpop-content
+educatiocenter.online###modalpop
 !APKMIRROR.com
 ||clarity.ms^
 ||crsspxl.com^
@@ -28,9 +29,12 @@
 ||dhn.135320.com^
 ||dmpstatic.cdn.bcebos.com/weirwood-sdk/
 ||ns-strategy.cdn.bcebos.com^
+jump2.bdimg.com,tieba.baidu.com##div.tb-mobile-viewport:nth-child(3) > div.tb-page > div.nav-bar-v2-fixed:last-child > div.nav-bar-v2.nav-bar-v2-bg-image > div.nav-bar-bottom
+jump2.bdimg.com,tieba.baidu.com##div.main-page-wrap:nth-child(3) > div.pb-page-wrapper.mask-hidden.app-view.transition-fade > div.nav-bar-v2-fixed:last-child > div.nav-bar-v2 > div.nav-bar-bottom
 ! Bing.com
 ||img04.sogoucdn.com^
 ||p*.qhimg.com^
+cn.bing.com###bnp_container
 ! BIQUGE365.net
 ||qcmm*.com^
 ||qcmm07.com^
@@ -80,6 +84,9 @@
 ||m.ithome.com/js/common/share-sdk.min.js
 ! LANZOUL.com
 ||woozooo.com^
+! LINLIDA.net
+||m.linlida.net/xxgg/common.js
+||apps.bdimg.com/libs/jquery/1.8.3/jquery.min.js
 ! MANMANJU.com
 ||m.manmanju.com/mg/show2.js
 ! MIKECRM.com
