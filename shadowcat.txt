@@ -36,6 +36,7 @@ jump2.bdimg.com,tieba.baidu.com##div.main-page-wrap:nth-child(3) > div.pb-page-w
 ||p*.qhimg.com^
 cn.bing.com###bnp_container
 ! BIQUGE365.net
+||1102yh.com^
 ||qcmm*.com^
 ||qcmm07.com^
 ||qlogo.cn^
@@ -86,7 +87,6 @@ cn.bing.com###bnp_container
 ||woozooo.com^
 ! LINLIDA.net
 ||m.linlida.net/xxgg/common.js
-||apps.bdimg.com/libs/jquery/1.8.3/jquery.min.js
 ! MANMANJU.com
 ||m.manmanju.com/mg/show2.js
 ! MIKECRM.com
@@ -209,6 +209,8 @@ zhihu.com##.css-w0t7t0.Button
 hsex.men,hsex.tv###container > div.row:first-child
 ||fri4esianewheywr90itrage.com^
 ||xlviirdr.com^
+! PORNFIND.org
+
 ! YINGAV.com
 /cdn-cgi/apps/body/$domain=yingav.com|yingav2.com
 /images/content/spot01.jpg$domain=yingav.com|yingav2.com
