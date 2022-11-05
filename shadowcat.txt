@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 🐾ShadowCat
 ! Description: Supplemental filters for Chinese mobile sites
-! Version: 2022102301
+! Version: 2022110501
 ! Expires: 31 days
 ! Homepage: https://github.com/Lky777/MWCP
 
@@ -87,6 +87,9 @@ cn.bing.com###bnp_container
 ||woozooo.com^
 ! LINLIDA.net
 ||m.linlida.net/xxgg/common.js
+! MANHUAREN.com
+||bi.manhuaren.com/analysis-user/appLaunchService/
+||css219sg.cdndm5.com/v202208091111/manhuaren/js/mobile/comics_mb.js
 ! MANMANJU.com
 ||m.manmanju.com/mg/show2.js
 ! MIKECRM.com
@@ -112,6 +115,10 @@ kkjapp_down.$image
 ||www.qqszz.com/wp-content/uploads/2021/01/2021011511533373.png
 ! QWANT.com
 ||qwant.com/en.5c248bbd.svg
+! SINA.cn
+||adyounger.com^
+||api.tdp.u7u9.com^
+||jituofuture.com^
 ! TXRJY.com
 ||txrjy.com/source/plugin/c114_indexnew/images/ad_top_590_APP_191016.jpg
 ! USERUPLOAD.net
@@ -171,7 +178,7 @@ kkjapp_down.$image
 ! ZHIHU.com
 ||static.zhihu.com/heifetz/column.GoodsRecommendGoodsCardList.*.js
 
-!-------- 🐾Annoying Elements --------
+!-------- 🐾Annoying Elements[dropping] --------
 163.com##.js-backflow-floating.backflow-floating
 163.com##.js-open-app.backflow-floating
 18comic.org,18comic.vip,jmcomic.asia##.bot-per-times > .fa-times.fas
@@ -208,6 +215,18 @@ zhihu.com##.css-w0t7t0.Button
 /templates/frontend/airav/css/style_blog.css$domain=18comic.org|18comic.vip|jmcomic.asia
 /templates/frontend/airav/css/style_game.css$domain=18comic.org|18comic.vip|jmcomic.asia
 /undefined$domain=18comic.org|18comic.vip|jmcomic.asia
+! 91PORNY.com
+||aliyuncs.com^$domain=91porny.com|9ses.com
+||p6.toutiaoimg.com^$domain=91porny.com|9ses.com
+! AQDLT.tv
+||static.pgcm58.com/files/h5/appdownv4.js
+||static.pgcm58.com/files/h5/kadvs.js
+||static.pgcm58.com/files/h5/videoRandom.js
+||xcdn.rltdxt.com^
+! HOT-SEX-PHOTOS.com
+||analytics.truyen-hentai.com^
+||hot-sex-photos.com/dist/*.woff2
+||hot-sex-photos.com/nb/*.js
 ! HSEX.tv
 ||img.bigcloud.cyou/pic/
 ||img.bigcloud.cyou/x1/
@@ -215,7 +234,8 @@ hsex.men,hsex.tv###container > div.row:first-child
 ||fri4esianewheywr90itrage.com^
 ||xlviirdr.com^
 ! PORNFIND.org
-
+! UVOD.tv
+||14tv.com^
 ! YINGAV.com
 /cdn-cgi/apps/body/$domain=yingav.com|yingav2.com
 /images/content/spot01.jpg$domain=yingav.com|yingav2.com
