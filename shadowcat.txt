@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 🐾ShadowCat
 ! Description: Supplemental filters for Chinese mobile sites
-! Version: 2022110501
+! Version: 2022111201
 ! Expires: 31 days
 ! Homepage: https://github.com/Lky777/MWCP
 
@@ -26,6 +26,7 @@ educatiocenter.online###modalpop
 ||gstatic.com/0emn/
 ||pro-market.net^
 ! BAIDU
+||bj.bcebos.com/fc-image/$image
 ||dhn.135320.com^
 ||dmpstatic.cdn.bcebos.com/weirwood-sdk/
 ||ns-strategy.cdn.bcebos.com^
@@ -92,6 +93,8 @@ cn.bing.com###bnp_container
 ||css219sg.cdndm5.com/v202208091111/manhuaren/js/mobile/comics_mb.js
 ! MANMANJU.com
 ||m.manmanju.com/mg/show2.js
+! MAOFLY.com
+||lm.inszoo.com^
 ! MIKECRM.com
 ||cdnq3.mikecrm.com/cdn/ugc_8_a/pub/qw/*/form/image/*.jpg
 ! MYDRIVER.com
@@ -234,6 +237,8 @@ hsex.men,hsex.tv###container > div.row:first-child
 ||fri4esianewheywr90itrage.com^
 ||xlviirdr.com^
 ! PORNFIND.org
+||addthis.com^
+||*/images/friend/0/
 ! UVOD.tv
 ||14tv.com^
 ! YINGAV.com
@@ -243,9 +248,6 @@ hsex.men,hsex.tv###container > div.row:first-child
 ||dl66d.com^
 ! ZZTT86.com
 ||new.cnzuqiu.mobi/new/usr/20220831/2022083117520618642.gif
-||new.cnzuqiu.mobi/new/usr/20220907/2022090719382717144.png
-||new.cnzuqiu.mobi/new/usr/20220930/2022093010273850548.png
 ||new.cnzuqiu.mobi/new/usr/20221001/2022100123500590798.gif
-||new.cnzuqiu.mobi/new/usr/20221019/2022101916200325762.png
 ||new.cnzuqiu.mobi/new/usr/20221019/2022101919385167597.gif
 
