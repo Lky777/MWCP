@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 🐾ShadowCat
 ! Description: Supplemental filters for Chinese mobile sites
-! Version: 2022111201
+! Version: 2022111601
 ! Expires: 31 days
 ! Homepage: https://github.com/Lky777/MWCP
 
@@ -84,6 +84,15 @@ cn.bing.com###bnp_container
 ||m.ithome.com/js/common/jump-app.min.js
 ||m.ithome.com/js/common/nativeshare.min.js
 ||m.ithome.com/js/common/share-sdk.min.js
+! JIANSHU.com
+||695ljg.com^
+||69mok.com^
+||ahuano.com/jianshu/js/jianshu.js
+||brssp.ibreader.com^
+||ddgjjj.com^
+||jianshu.com/asimov/notes/*/recommendations
+||jianshu.com/asimov/notes/seo_recommendations?
+||kxvuv.com^
 ! LANZOUL.com
 ||woozooo.com^
 ! LINLIDA.net
@@ -238,7 +247,7 @@ hsex.men,hsex.tv###container > div.row:first-child
 ||xlviirdr.com^
 ! PORNFIND.org
 ||addthis.com^
-||*/images/friend/0/
+/images/friend/0/$domain=pornfind.org
 ! UVOD.tv
 ||14tv.com^
 ! YINGAV.com
@@ -247,7 +256,5 @@ hsex.men,hsex.tv###container > div.row:first-child
 ||8feichai.com^
 ||dl66d.com^
 ! ZZTT86.com
-||new.cnzuqiu.mobi/new/usr/20220831/2022083117520618642.gif
-||new.cnzuqiu.mobi/new/usr/20221001/2022100123500590798.gif
-||new.cnzuqiu.mobi/new/usr/20221019/2022101919385167597.gif
+
 
