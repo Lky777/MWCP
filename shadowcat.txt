@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 🐾ShadowCat
 ! Description: Supplemental filters for Chinese mobile sites
-! Version: 2022111601
+! Version: 2022112301
 ! Expires: 31 days
 ! Homepage: https://github.com/Lky777/MWCP
 
@@ -54,6 +54,8 @@ cn.bing.com###bnp_container
 ||saptiledispatch.com^
 ||sb4you1.com^
 ||simplewebanalysis.com^
+! CSDN.net
+||g.csdnimg.cn/asdf/1.0.9/trackad.js
 ! DDXS.com
 ||*.biquge-app.com/apps/
 ! DINGDIAN6.com
@@ -188,7 +190,8 @@ kkjapp_down.$image
 ||lh*.googleusercontent.com/proxy/
 ||m.youtube.com/static/r/
 ! ZHIHU.com
-||static.zhihu.com/heifetz/column.GoodsRecommendGoodsCardList.*.js
+||api.zhihu.com/distribute/rhea/qa_ad_card/h5/recommendation?
+||static.zhihu.com/heifetz/column.GoodsRecommendGoodsCardList.*
 
 !-------- 🐾Annoying Elements[dropping] --------
 163.com##.js-backflow-floating.backflow-floating
@@ -245,6 +248,11 @@ zhihu.com##.css-w0t7t0.Button
 hsex.men,hsex.tv###container > div.row:first-child
 ||fri4esianewheywr90itrage.com^
 ||xlviirdr.com^
+! MISSAV.com
+||cdn.bncloudfl.com^
+||cuddlethehyena.com^
+||img.strpst.com/thumbs/
+||static.missav.com/partners/
 ! PORNFIND.org
 ||addthis.com^
 /images/friend/0/$domain=pornfind.org
