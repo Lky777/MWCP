@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 🐾ShadowCat
 ! Description: Supplemental filters for Chinese mobile sites
-! Version: 2022112301
+! Version: 2022120101
 ! Expires: 31 days
 ! Homepage: https://github.com/Lky777/MWCP
 
@@ -20,9 +20,15 @@
 educatiocenter.online###modalpop-content
 educatiocenter.online###modalpop
 !APKMIRROR.com
+||apkmirror.com/wp-content/plugins/AppManager/js/appmanager.js?
+||basher.ezodn.com^
 ||clarity.ms^
 ||crsspxl.com^
+||d35xxde4fgg0cx.cloudfront.net/assets/embedded.js
+||ezojs.com/ezoic/sa.min.js
 ||fundingchoicesmessages.google.com^
+||g.ezoic.net^
+||go.ezodn.com^
 ||gstatic.com/0emn/
 ||pro-market.net^
 ! BAIDU
@@ -30,6 +36,7 @@ educatiocenter.online###modalpop
 ||dhn.135320.com^
 ||dmpstatic.cdn.bcebos.com/weirwood-sdk/
 ||ns-strategy.cdn.bcebos.com^
+jump2.bdimg.com,tieba.baidu.com##div.main-page-wrap:nth-child(3) > div.app-view.transition-fade.post-page > div.nav-bar-v2-fixed:nth-child(2) > div.nav-bar-v2 > div.nav-bar-bottom
 jump2.bdimg.com,tieba.baidu.com##div.tb-mobile-viewport:nth-child(3) > div.tb-page > div.nav-bar-v2-fixed:last-child > div.nav-bar-v2.nav-bar-v2-bg-image > div.nav-bar-bottom
 jump2.bdimg.com,tieba.baidu.com##div.main-page-wrap:nth-child(3) > div.pb-page-wrapper.mask-hidden.app-view.transition-fade > div.nav-bar-v2-fixed:last-child > div.nav-bar-v2 > div.nav-bar-bottom
 ! Bing.com
@@ -79,7 +86,7 @@ cn.bing.com###bnp_container
 ||mytopwords.com^
 ||rndskittytor.com^
 ! Google.com
-||google.com/xjs/_/js/
+
 ! HAOBIQUGE.com
 ||goodtj.xyz^
 ! ITHOME.com
@@ -255,7 +262,7 @@ hsex.men,hsex.tv###container > div.row:first-child
 ||static.missav.com/partners/
 ! PORNFIND.org
 ||addthis.com^
-/images/friend/0/$domain=pornfind.org
+*/images/friend/0/
 ! UVOD.tv
 ||14tv.com^
 ! YINGAV.com
