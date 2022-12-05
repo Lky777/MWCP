@@ -13,13 +13,17 @@
 ||clickoutnetwork.care^
 ! 191FUN.com
 ||m.191fun.com/uploadfile/dip/*.gif
+! 88HD..com
+||cdn.xianzhice.com/maizhan/js/720.tt.js?
+||m.88hd.com/template/wap88ysw/jk/toubu.js?
+###main > div.row:last-child > div.jsv.jsv-g1 > div.mobile-adv.mobile-adv-bottom
 ! A2ZAPK.com
 ||a-ads.com^
 ||a2zapk.com/images/SocialIcon/
 ||pushbullet.com^
 educatiocenter.online###modalpop-content
 educatiocenter.online###modalpop
-!APKMIRROR.com
+! APKMIRROR.com
 ||apkmirror.com/wp-content/plugins/AppManager/js/appmanager.js?
 ||basher.ezodn.com^
 ||clarity.ms^
@@ -37,8 +41,8 @@ educatiocenter.online###modalpop
 ||dmpstatic.cdn.bcebos.com/weirwood-sdk/
 ||ns-strategy.cdn.bcebos.com^
 jump2.bdimg.com,tieba.baidu.com##div.main-page-wrap:nth-child(3) > div.app-view.transition-fade.post-page > div.nav-bar-v2-fixed:nth-child(2) > div.nav-bar-v2 > div.nav-bar-bottom
-jump2.bdimg.com,tieba.baidu.com##div.tb-mobile-viewport:nth-child(3) > div.tb-page > div.nav-bar-v2-fixed:last-child > div.nav-bar-v2.nav-bar-v2-bg-image > div.nav-bar-bottom
 jump2.bdimg.com,tieba.baidu.com##div.main-page-wrap:nth-child(3) > div.pb-page-wrapper.mask-hidden.app-view.transition-fade > div.nav-bar-v2-fixed:last-child > div.nav-bar-v2 > div.nav-bar-bottom
+jump2.bdimg.com,tieba.baidu.com##div.tb-mobile-viewport:nth-child(3) > div.tb-page > div.nav-bar-v2-fixed:last-child > div.nav-bar-v2.nav-bar-v2-bg-image > div.nav-bar-bottom
 ! Bing.com
 ||img04.sogoucdn.com^
 ||p*.qhimg.com^
@@ -63,6 +67,11 @@ cn.bing.com###bnp_container
 ||simplewebanalysis.com^
 ! CSDN.net
 ||g.csdnimg.cn/asdf/1.0.9/trackad.js
+||g.csdnimg.cn/common/csdn-report/report.js
+||img-home.csdnimg.cn/data_json/toolbar/toolbar1105.json
+||rabc1.iteye.com^
+||rabc2.iteye.com^
+||redisdatarecall.csdn.net/recommend/
 ! DDXS.com
 ||*.biquge-app.com/apps/
 ! DINGDIAN6.com
@@ -86,7 +95,7 @@ cn.bing.com###bnp_container
 ||mytopwords.com^
 ||rndskittytor.com^
 ! Google.com
-
+||google.com/async/promos?
 ! HAOBIQUGE.com
 ||goodtj.xyz^
 ! ITHOME.com
@@ -128,6 +137,9 @@ kkjapp_down.$image
 ||s.myqqjd.com/wp-content/plugins/chp-ads-block-detector-pro/
 ||s.myqqjd.com/wp-content/uploads/2022/02/20220206130459221.png
 ||s.myqqjd.com/wp-content/plugins/wechat-shop/
+! NNIT8.com
+/jquery*.js$domain=m.xjaswf.net|m.nnit8.com
+||mifapost.com^
 ! PROXYRARBG.org
 ||cloudflareinsights.com^
 ! QISHUTA.la
@@ -230,7 +242,7 @@ zhihu.com##.css-rgo48u
 zhihu.com##.css-w0t7t0.Button
 
 !-------- 🐾Porn&Gaming --------
-! 18comic.org
+! 18COMIC.org
 /static/resources/$domain=18comic.org|18comic.vip|jmcomic.asia
 /templates/frontend/airav/img/social_*$domain=18comic.org|18comic.vip|jmcomic.asia
 /templates/frontend/airav/js/*_*.js$domain=18comic.org|18comic.vip|jmcomic.asia
@@ -238,7 +250,13 @@ zhihu.com##.css-w0t7t0.Button
 /templates/frontend/airav/css/style_game.css$domain=18comic.org|18comic.vip|jmcomic.asia
 /undefined$domain=18comic.org|18comic.vip|jmcomic.asia
 ! 91PORNY.com
+/cdn-cgi/scripts/*/cloudflare-static/email-decode.min.js
+/static/css/91captions.vtt
 ||aliyuncs.com^$domain=91porny.com|9ses.com
+||cdn.jsdelivr.net/gh/dizhi91/jiuse@1.5/lazyload.js
+||i5jh6b.cc^
+||int.jstatic.xyz/happy/newyear/
+||kvhmm.com^
 ||p6.toutiaoimg.com^$domain=91porny.com|9ses.com
 ! AQDLT.tv
 ||static.pgcm58.com/files/h5/appdownv4.js
@@ -263,6 +281,11 @@ hsex.men,hsex.tv###container > div.row:first-child
 ! PORNFIND.org
 ||addthis.com^
 */images/friend/0/
+! QINAV.com
+||diskaa.com^
+! SPANKBANG.com
+||cdn.strpst.com/cdn/previews/
+||stripchat.com^
 ! UVOD.tv
 ||14tv.com^
 ! YINGAV.com
