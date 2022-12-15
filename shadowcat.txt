@@ -1,13 +1,14 @@
 [Adblock Plus 2.0]
 ! Title: 🐾ShadowCat
 ! Description: Supplemental filters for Chinese mobile sites
-! Version: 2022120101
+! Version: 2022121501
 ! Expires: 31 days
 ! Homepage: https://github.com/Lky777/MWCP
 
 
 -------- 🐾General --------
 !
+$ping,third-party
 ! 0XZX.com
 ||cdn.0xzx.com/wp-content/plugins/better-adsmanager/
 ||clickoutnetwork.care^
@@ -124,6 +125,8 @@ cn.bing.com###bnp_container
 ||lm.inszoo.com^
 ! MIKECRM.com
 ||cdnq3.mikecrm.com/cdn/ugc_8_a/pub/qw/*/form/image/*.jpg
+! BIQIUGE8.cc
+||m.biqiuge8.cc/js/*ll*.js
 ! MYDRIVER.com
 dangbei_*$image
 kkjapp_down.$image
@@ -255,9 +258,11 @@ zhihu.com##.css-w0t7t0.Button
 ||aliyuncs.com^$domain=91porny.com|9ses.com
 ||cdn.jsdelivr.net/gh/dizhi91/jiuse@1.5/lazyload.js
 ||i5jh6b.cc^
+||img.gs3jro.xyz^
 ||int.jstatic.xyz/happy/newyear/
 ||kvhmm.com^
 ||p6.toutiaoimg.com^$domain=91porny.com|9ses.com
+91porny.com##.col-sm
 ! AQDLT.tv
 ||static.pgcm58.com/files/h5/appdownv4.js
 ||static.pgcm58.com/files/h5/kadvs.js
@@ -270,7 +275,6 @@ zhihu.com##.css-w0t7t0.Button
 ! HSEX.tv
 ||img.bigcloud.cyou/pic/
 ||img.bigcloud.cyou/x1/
-hsex.men,hsex.tv###container > div.row:first-child
 ||fri4esianewheywr90itrage.com^
 ||xlviirdr.com^
 ! MISSAV.com
@@ -278,6 +282,28 @@ hsex.men,hsex.tv###container > div.row:first-child
 ||cuddlethehyena.com^
 ||img.strpst.com/thumbs/
 ||static.missav.com/partners/
+! JABLE.tv
+||assetscdn.jable.tv/assets/images/uu/
+||xxxvjmp.com^
+! MHZZZ.xyz
+||2599qq.com^
+||93261587768.com^
+||chinainqredient.com^
+||huishuiyin.com
+||eajgm.com^
+||easysavemore.com^
+||ifengsong888.com^
+||mresou.com^
+||static01.top/data/images/baitian789.jpg
+||static01.top/data/images/Joesugames_2.gif
+||static04.top/data/images/2222.gif
+||static04.top/data/images/Anatasia9797.gif
+||static04.top/data/images/JDYY1688_3.gif
+||static04.top/data/images/mmbushinese.gif
+||tydouke.com^
+||whfyhouse.com^
+||yfled888.com^
+mhzzz.xyz###hfad
 ! PORNFIND.org
 ||addthis.com^
 */images/friend/0/
