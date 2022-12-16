@@ -116,9 +116,13 @@ cn.bing.com###bnp_container
 ||woozooo.com^
 ! LINLIDA.net
 ||m.linlida.net/xxgg/common.js
+||s4.cnzz.com^
+||sdk.wenkans.xyz/template/2/info/pokg.woff
 ! MANHUAREN.com
 ||bi.manhuaren.com/analysis-user/appLaunchService/
+css219sg.cdndm5.com/v202208091111/manhuaren/images/lb-img-m-1.png
 ||css219sg.cdndm5.com/v202208091111/manhuaren/js/mobile/comics_mb.js
+css219sg.cdndm5.com/v202208091111/manhuaren/images/mobile/guide-1.png
 ! MANMANJU.com
 ||m.manmanju.com/mg/show2.js
 ! MAOFLY.com
@@ -143,6 +147,7 @@ kkjapp_down.$image
 ! NNIT8.com
 /jquery*.js$domain=m.xjaswf.net|m.nnit8.com
 ||mifapost.com^
+lpgh.huilingxiu.com
 ! PROXYRARBG.org
 ||cloudflareinsights.com^
 ! QISHUTA.la
