@@ -1,23 +1,22 @@
-[Adblock Plus 2.0]
+[Adblock Plus 3.1]
 ! Title: 🐾ShadowCat
 ! Description: Supplemental filters for Chinese mobile sites
-! Version: 2022121501
+! Version: 2022123101
 ! Expires: 31 days
 ! Homepage: https://github.com/Lky777/MWCP
 
 
 -------- 🐾General --------
 !
-$ping,third-party
+$ping
+$third-party
 ! 0XZX.com
 ||cdn.0xzx.com/wp-content/plugins/better-adsmanager/
 ||clickoutnetwork.care^
-! 191FUN.com
-||m.191fun.com/uploadfile/dip/*.gif
-! 88HD..com
-||cdn.xianzhice.com/maizhan/js/720.tt.js?
-||m.88hd.com/template/wap88ysw/jk/toubu.js?
-###main > div.row:last-child > div.jsv.jsv-g1 > div.mobile-adv.mobile-adv-bottom
+! 88HD.com
+||cdn.xianzhice.com/maizhan/js/720.tt.js
+||m.88hd.com/template/wap88ysw/jk/toubu.js
+###div.mobile-adv.mobile-adv-bottom
 ! A2ZAPK.com
 ||a-ads.com^
 ||a2zapk.com/images/SocialIcon/
@@ -25,7 +24,7 @@ $ping,third-party
 educatiocenter.online###modalpop-content
 educatiocenter.online###modalpop
 ! APKMIRROR.com
-||apkmirror.com/wp-content/plugins/AppManager/js/appmanager.js?
+||apkmirror.com/wp-content/plugins/AppManager/js/appmanager.js
 ||basher.ezodn.com^
 ||clarity.ms^
 ||crsspxl.com^
@@ -40,18 +39,13 @@ educatiocenter.online###modalpop
 ||bj.bcebos.com/fc-image/$image
 ||dhn.135320.com^
 ||dmpstatic.cdn.bcebos.com/weirwood-sdk/
+||fc3tn.baidu.com/it/
 ||ns-strategy.cdn.bcebos.com^
-jump2.bdimg.com,tieba.baidu.com##div.main-page-wrap:nth-child(3) > div.app-view.transition-fade.post-page > div.nav-bar-v2-fixed:nth-child(2) > div.nav-bar-v2 > div.nav-bar-bottom
-jump2.bdimg.com,tieba.baidu.com##div.main-page-wrap:nth-child(3) > div.pb-page-wrapper.mask-hidden.app-view.transition-fade > div.nav-bar-v2-fixed:last-child > div.nav-bar-v2 > div.nav-bar-bottom
-jump2.bdimg.com,tieba.baidu.com##div.tb-mobile-viewport:nth-child(3) > div.tb-page > div.nav-bar-v2-fixed:last-child > div.nav-bar-v2.nav-bar-v2-bg-image > div.nav-bar-bottom
-! Bing.com
+! BING.com
 ||img04.sogoucdn.com^
-||p*.qhimg.com^
 cn.bing.com###bnp_container
 ! BIQUGE365.net
 ||1102yh.com^
-||qcmm*.com^
-||qcmm07.com^
 ||qlogo.cn^
 ! CNET.com
 ||inline.cnet.com/api/au/
@@ -73,13 +67,11 @@ cn.bing.com###bnp_container
 ||rabc1.iteye.com^
 ||rabc2.iteye.com^
 ||redisdatarecall.csdn.net/recommend/
-! DDXS.com
-||*.biquge-app.com/apps/
 ! DINGDIAN6.com
 ||hkbzl.hk^
 ||xiedao.hk^
 ! DOUYU.com
-||m.douyu.com/api/search/getTodayTop?
+||m.douyu.com/api/search/getTodayTop
 ||shark2.douyucdn.cn/front-publish/m-douyu-v3-master/assets/images/
 ! GAMERSKY.com
 ||cm1.gamersky.com/apirating/
@@ -95,8 +87,6 @@ cn.bing.com###bnp_container
 ||inklinkor.com^
 ||mytopwords.com^
 ||rndskittytor.com^
-! Google.com
-||google.com/async/promos?
 ! HAOBIQUGE.com
 ||goodtj.xyz^
 ! ITHOME.com
@@ -109,8 +99,7 @@ cn.bing.com###bnp_container
 ||ahuano.com/jianshu/js/jianshu.js
 ||brssp.ibreader.com^
 ||ddgjjj.com^
-||jianshu.com/asimov/notes/*/recommendations
-||jianshu.com/asimov/notes/seo_recommendations?
+||jianshu.com/asimov/notes/seo_recommendations
 ||kxvuv.com^
 ! LANZOUL.com
 ||woozooo.com^
@@ -127,13 +116,8 @@ css219sg.cdndm5.com/v202208091111/manhuaren/images/mobile/guide-1.png
 ||m.manmanju.com/mg/show2.js
 ! MAOFLY.com
 ||lm.inszoo.com^
-! MIKECRM.com
-||cdnq3.mikecrm.com/cdn/ugc_8_a/pub/qw/*/form/image/*.jpg
-! BIQIUGE8.cc
-||m.biqiuge8.cc/js/*ll*.js
 ! MYDRIVER.com
-dangbei_*$image
-kkjapp_down.$image
+/kkjapp_down.$image
 ! MYQQJD.com
 ||ads-api.twitter.com^
 ||ads.reddit.com^
@@ -144,10 +128,11 @@ kkjapp_down.$image
 ||s.myqqjd.com/wp-content/plugins/chp-ads-block-detector-pro/
 ||s.myqqjd.com/wp-content/uploads/2022/02/20220206130459221.png
 ||s.myqqjd.com/wp-content/plugins/wechat-shop/
-! NNIT8.com
-/jquery*.js$domain=m.xjaswf.net|m.nnit8.com
 ||mifapost.com^
 lpgh.huilingxiu.com
+! NNIT8.com
+/jquery1.2.js$domain=m.nnit8.com|m.xjaswf.net
+/jquery1.7.1.js$domain=m.nnit8.com|m.xjaswf.net
 ! PROXYRARBG.org
 ||cloudflareinsights.com^
 ! QISHUTA.la
@@ -169,6 +154,7 @@ lpgh.huilingxiu.com
 ! WEEKENDHK.com
 ||weekendhk.com/wp-content/themes/bucket/theme-content/images/
 ! WXSY.net
+||m.wxsy.net/images/down.jpg
 ||m.wxsy.net/js/detail.js
 ||m.wxsy.net/rule.json
 ! XDA-DEVELOPERS.com
@@ -203,8 +189,6 @@ lpgh.huilingxiu.com
 ||teads.tv^
 ||tremorhub.com^
 ! YINGSX.com
-||mobixc.*.cyou^
-||mobixc.*.fun^
 ||mobixc.bwadakesv.cyou^
 ||mobixc.lanlisgl.fun^
 ||wap.yingsx.com/css/home.gif
@@ -214,11 +198,14 @@ lpgh.huilingxiu.com
 ||kjnmwr.xyz^
 ||nmkstcrt.xyz^
 ! YOUTUBE.com
-||lh*.googleusercontent.com/proxy/
 ||m.youtube.com/static/r/
 ! ZHIHU.com
-||api.zhihu.com/distribute/rhea/qa_ad_card/h5/recommendation?
-||static.zhihu.com/heifetz/column.GoodsRecommendGoodsCardList.*
+||api.zhihu.com/distribute/rhea/qa_ad_card/h5/recommendation
+||static.zhihu.com/heifetz/column.GoodsRecommendGoodsCardList.
+
+!-------- 🐾Quick Fix --------
+! CJX's Annoyance List
+@@||guokr.com/apis/flowingboard/item/guokrapp_
 
 !-------- 🐾Annoying Elements[dropping] --------
 163.com##.js-backflow-floating.backflow-floating
@@ -252,13 +239,11 @@ zhihu.com##.css-w0t7t0.Button
 !-------- 🐾Porn&Gaming --------
 ! 18COMIC.org
 /static/resources/$domain=18comic.org|18comic.vip|jmcomic.asia
-/templates/frontend/airav/img/social_*$domain=18comic.org|18comic.vip|jmcomic.asia
-/templates/frontend/airav/js/*_*.js$domain=18comic.org|18comic.vip|jmcomic.asia
 /templates/frontend/airav/css/style_blog.css$domain=18comic.org|18comic.vip|jmcomic.asia
 /templates/frontend/airav/css/style_game.css$domain=18comic.org|18comic.vip|jmcomic.asia
 /undefined$domain=18comic.org|18comic.vip|jmcomic.asia
 ! 91PORNY.com
-/cdn-cgi/scripts/*/cloudflare-static/email-decode.min.js
+/cloudflare-static/email-decode.min.js
 /static/css/91captions.vtt
 ||aliyuncs.com^$domain=91porny.com|9ses.com
 ||cdn.jsdelivr.net/gh/dizhi91/jiuse@1.5/lazyload.js
@@ -275,8 +260,6 @@ zhihu.com##.css-w0t7t0.Button
 ||xcdn.rltdxt.com^
 ! HOT-SEX-PHOTOS.com
 ||analytics.truyen-hentai.com^
-||hot-sex-photos.com/dist/*.woff2
-||hot-sex-photos.com/nb/*.js
 ! HSEX.tv
 ||img.bigcloud.cyou/pic/
 ||img.bigcloud.cyou/x1/
@@ -311,7 +294,7 @@ zhihu.com##.css-w0t7t0.Button
 mhzzz.xyz###hfad
 ! PORNFIND.org
 ||addthis.com^
-*/images/friend/0/
+/images/friend/0/
 ! QINAV.com
 ||diskaa.com^
 ! SPANKBANG.com
@@ -324,6 +307,5 @@ mhzzz.xyz###hfad
 /images/content/spot01.jpg$domain=yingav.com|yingav2.com
 ||8feichai.com^
 ||dl66d.com^
-! ZZTT86.com
 
 
