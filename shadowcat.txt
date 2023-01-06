@@ -1,7 +1,7 @@
 [Adblock Plus 3.1]
 ! Title: 🐾ShadowCat
 ! Description: Supplemental filters for Chinese mobile sites
-! Version: 2022123101
+! Version: 3.0107.1
 ! Expires: 31 days
 ! Homepage: https://github.com/Lky777/MWCP
 
@@ -46,6 +46,9 @@ educatiocenter.online###modalpop
 cn.bing.com###bnp_container
 ! BIQUGE365.net
 ||1102yh.com^
+||cdn.efo74.com^
+||cdn.k16e9b.com^
+||js.fds-1230.cc^
 ||qlogo.cn^
 ! CNET.com
 ||inline.cnet.com/api/au/
@@ -133,6 +136,8 @@ lpgh.huilingxiu.com
 ! NNIT8.com
 /jquery1.2.js$domain=m.nnit8.com|m.xjaswf.net
 /jquery1.7.1.js$domain=m.nnit8.com|m.xjaswf.net
+/jquery1.8.1.js$domain=m.nnit8.com|m.xjaswf.net
+||api.edikl.com^
 ! PROXYRARBG.org
 ||cloudflareinsights.com^
 ! QISHUTA.la
@@ -273,6 +278,9 @@ zhihu.com##.css-w0t7t0.Button
 ! JABLE.tv
 ||assetscdn.jable.tv/assets/images/uu/
 ||xxxvjmp.com^
+! MANHWA18.cc
+||manhwa18.cc/api/notification
+||manhwa18.cc/main2022/main05er.php
 ! MHZZZ.xyz
 ||2599qq.com^
 ||93261587768.com^
