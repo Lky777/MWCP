@@ -1,14 +1,13 @@
 [Adblock Plus 3.1]
 ! Title: 🐾ShadowCat
 ! Description: Supplemental filters for Chinese mobile sites
-! Version: 3.0107.2
+! Version: 3.0117.1
 ! Expires: 31 days
 ! Homepage: https://github.com/Lky777/MWCP
 
 
 -------- 🐾General --------
 !
-$ping
 $third-party
 ! 0XZX.com
 ||cdn.0xzx.com/wp-content/plugins/better-adsmanager/
@@ -104,8 +103,8 @@ cn.bing.com###bnp_container
 ||ddgjjj.com^
 ||jianshu.com/asimov/notes/seo_recommendations
 ||kxvuv.com^
-! LANZOUL.com
-||woozooo.com^
+! LANZOU?.com
+||statics.woozooo.com^
 ! LINLIDA.net
 ||m.linlida.net/xxgg/common.js
 ||s4.cnzz.com^
@@ -215,7 +214,7 @@ lpgh.huilingxiu.com
 ! CJX's Annoyance List
 @@||guokr.com/apis/flowingboard/item/guokrapp_
 
-!-------- 🐾Annoying Elements[dropping] --------
+!-------- 🐾Annoying Elements[legacy] --------
 163.com##.js-backflow-floating.backflow-floating
 163.com##.js-open-app.backflow-floating
 18comic.org,18comic.vip,jmcomic.asia##.bot-per-times > .fa-times.fas
@@ -284,6 +283,7 @@ zhihu.com##.css-w0t7t0.Button
 ! MANHWA18.cc
 ||manhwa18.cc/api/notification
 ||manhwa18.cc/main2022/main05er.php
+||manhwa18.cc^$popup,redirect
 ! MHZZZ.xyz
 ||2599qq.com^
 ||93261587768.com^
