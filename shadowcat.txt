@@ -6,7 +6,11 @@
 ! Homepage: https://github.com/Lky777/MWCP
 
 
--------- 🐾General --------
+!-------- 🐾Broken Fixes --------
+! CJX's Annoyance List
+@@||guokr.com/apis/flowingboard/item/guokrapp_
+
+!-------- 🐾General --------
 !
 $third-party
 ! 0XZX.com
@@ -43,12 +47,6 @@ educatiocenter.online###modalpop
 ! BING.com
 ||img04.sogoucdn.com^
 cn.bing.com###bnp_container
-! BIQUGE365.net
-||1102yh.com^
-||cdn.efo74.com^
-||cdn.k16e9b.com^
-||js.fds-1230.cc^
-||qlogo.cn^
 ! CNET.com
 ||inline.cnet.com/api/au/
 ! COCOMANGA.com
@@ -69,9 +67,6 @@ cn.bing.com###bnp_container
 ||rabc1.iteye.com^
 ||rabc2.iteye.com^
 ||redisdatarecall.csdn.net/recommend/
-! DINGDIAN6.com
-||hkbzl.hk^
-||xiedao.hk^
 ! DOUYU.com
 ||m.douyu.com/api/search/getTodayTop
 ||shark2.douyucdn.cn/front-publish/m-douyu-v3-master/assets/images/
@@ -89,8 +84,6 @@ cn.bing.com###bnp_container
 ||inklinkor.com^
 ||mytopwords.com^
 ||rndskittytor.com^
-! HAOBIQUGE.com
-||goodtj.xyz^
 ! ITHOME.com
 ||m.ithome.com/js/common/jump-app.min.js
 ||m.ithome.com/js/common/nativeshare.min.js
@@ -104,11 +97,8 @@ cn.bing.com###bnp_container
 ||jianshu.com/asimov/notes/seo_recommendations
 ||kxvuv.com^
 ! LANZOU?.com
+sanme2.taisantech.com
 ||statics.woozooo.com^
-! LINLIDA.net
-||m.linlida.net/xxgg/common.js
-||s4.cnzz.com^
-||sdk.wenkans.xyz/template/2/info/pokg.woff
 ! MANHUAREN.com
 ||bi.manhuaren.com/analysis-user/appLaunchService/
 css219sg.cdndm5.com/v202208091111/manhuaren/images/lb-img-m-1.png
@@ -133,14 +123,12 @@ css219sg.cdndm5.com/v202208091111/manhuaren/images/mobile/guide-1.png
 ||mifapost.com^
 lpgh.huilingxiu.com
 ! NNIT8.com
-/jquery1.2.js$domain=m.nnit8.com|m.xjaswf.net
+api.edikl.com
 /jquery1.7.1.js$domain=m.nnit8.com|m.xjaswf.net
 /jquery1.8.1.js$domain=m.nnit8.com|m.xjaswf.net
-||api.edikl.com^
+xjaswf.net/jquery1.2.js
 ! PROXYRARBG.org
 ||cloudflareinsights.com^
-! QISHUTA.la
-||m.qishuta.la/js/qishuta.js
 ! QQSZZ.com
 ||www.qqszz.com/wp-content/uploads/2021/01/2021011511533373.png
 ! QWANT.com
@@ -150,20 +138,15 @@ lpgh.huilingxiu.com
 ||api.tdp.u7u9.com^
 ||jituofuture.com^
 ! TXRJY.com
-||txrjy.com/source/plugin/c114_indexnew/images/ad_top_590_APP_191016.jpg
+txrjy.com/source/plugin/c114_indexnew/images/ad_top_590_APP_191016.jpg
+txrjy.com##.is-shown.OpenInAppButton
 ! USERUPLOAD.net
 ||doflygonan.com^
 ||platform-api.sharethis.com^
 ||tgwidget.com^
+userupload.net##.btn-danger.btn
 ! WEEKENDHK.com
 ||weekendhk.com/wp-content/themes/bucket/theme-content/images/
-! WXSY.net
-||m.wxsy.net/images/down.jpg
-||m.wxsy.net/js/detail.js
-||m.wxsy.net/rule.json
-! WXZW.cc
-||100ytrf.com^
-||srnov.top^
 ! XDA-DEVELOPERS.com
 ||1rx.io^
 ||3lift.com^
@@ -195,12 +178,6 @@ lpgh.huilingxiu.com
 ||stickyadstv.com^
 ||teads.tv^
 ||tremorhub.com^
-! YINGSX.com
-||mobixc.bwadakesv.cyou^
-||mobixc.lanlisgl.fun^
-||wap.yingsx.com/css/home.gif
-||ocxve.xyz^
-||wap.yingsx.com/js/yingsx.js
 ! YHDMP.live
 ||kjnmwr.xyz^
 ||nmkstcrt.xyz^
@@ -208,47 +185,58 @@ lpgh.huilingxiu.com
 ||m.youtube.com/static/r/
 ! ZHIHU.com
 ||api.zhihu.com/distribute/rhea/qa_ad_card/h5/recommendation
+pic3.zhimg.com/v2-
 ||static.zhihu.com/heifetz/column.GoodsRecommendGoodsCardList.
 
-!-------- 🐾Quick Fix --------
-! CJX's Annoyance List
-@@||guokr.com/apis/flowingboard/item/guokrapp_
-
-!-------- 🐾Annoying Elements[legacy] --------
-163.com##.js-backflow-floating.backflow-floating
-163.com##.js-open-app.backflow-floating
-18comic.org,18comic.vip,jmcomic.asia##.bot-per-times > .fa-times.fas
-18comic.org,18comic.vip,jmcomic.asia##.center.container
-18comic.org,18comic.vip,jmcomic.asia##div[class="bot-per-back"]
-18comic.org,18comic.vip,jmcomic.asia##.modal-body
-aliyun.com##.app-fixed-btn
-apkmirror.com##.f-nowrap.d-flex.p-relative.f-100
-juicywest.com##+js(aopr, __Y)
-ceveysystemsna.com###overlay-ad
-csdn.net##.open_app_channelCode.feed-Sign-span
-ddxs.com##div[class="RMss1"]
-ddxs.com##div[class="W1oMwlglisten"]
-ddxs.com##div[class="W1oMwlgani"]
-gamer.com.tw##.open-app
-gamersky.com##.gsTgWapConBdshareTop > [href="javascript:;"]
-hk01.com###branch-banner-iframe
-douyu.com##.DownloadBtn
-douyu.com##.btn-open-app
-txrjy.com##.is-shown.OpenInAppButton
-userupload.net##.btn-danger.btn
-wallstreetcn.com##.open-in-app
-xbiquge.so##.W1oMwlgbar
-xbiquge.so##.zw1ljPz
-zhihu.com##.css-121zbv8.Button
-zhihu.com##.css-rgo48u
-zhihu.com##.css-w0t7t0.Button
+!-------- 🐾Novels --------
+! THE FAST FOOD
+||api.$domain=m.biquge365.net
+||cdn.$domain=m.biquge365.net
+||mobixc.
+100ytrf.com
+1102yh.com
+abb.juntaijiancai.com
+asdldk.xjwtboz.cn
+dingbu.bj.bcebos.com/chaoxi.add
+dongya.org/m/
+dongya.org/vs.php
+elsmom.xyz
+goodtj.xyz
+hkbzl.hk
+js.fds-1230.cc
+js.tydouke.com
+libs.baidu.com/jquery/1.4.2/jquery.min.js
+lllyt.paradisemall.net/cdn/
+m.linlida.net/xxgg/common.js
+m.qishuta.la/js/qishuta.js
+m.wxsy.net/images/down.jpg
+m.wxsy.net/js/detail.js
+m.wxsy.net/rule.json
+ocxve.xyz
+p6.toutiaoimg.com/origin/pgc-image/
+pic.rmb.bdstatic.com/bjh/$domain=m.biquge365.net
+q.v09.xyz
+qlogo.cn
+s4.cnzz.com
+sdk.wenkans.xyz/template/2/info/pokg.woff
+srnov.top
+tt.ishuquge.org
+w11.x3zy2.icu
+wap.ishuquge.org/js/ishuquge.js
+wap.yingsx.com/css/home.gif
+wap.yingsx.com/js/yingsx.js
+xiedao.hk
 
 !-------- 🐾Porn&Gaming --------
 ! 18COMIC.org
-/static/resources/$domain=18comic.org|18comic.vip|jmcomic.asia
-/templates/frontend/airav/css/style_blog.css$domain=18comic.org|18comic.vip|jmcomic.asia
-/templates/frontend/airav/css/style_game.css$domain=18comic.org|18comic.vip|jmcomic.asia
-/undefined$domain=18comic.org|18comic.vip|jmcomic.asia
+/media/albums/1_2df4.jpg$domain=18comic.org|18comic.vip|jmcomic.asia|jmcomic.rocks
+/static/resources/$domain=18comic.org|18comic.vip|jmcomic.asia|jmcomic.rocks
+/templates/frontend/airav/css/style_blog.css$domain=18comic.org|18comic.vip|jmcomic.asia|jmcomic.rocks
+/templates/frontend/airav/css/style_game.css$domain=18comic.org|18comic.vip|jmcomic.asia|jmcomic.rocks
+/undefined$domain=18comic.org|18comic.vip|jmcomic.asia|jmcomic.rocks
+18comic.org,18comic.vip,jmcomic.asia,jmcomic.rocks##.bot-per-times > .fa-times.fas
+18comic.org,18comic.vip,jmcomic.asia,jmcomic.rocks##.center.container
+18comic.org,18comic.vip,jmcomic.asia,jmcomic.rocks##div[class="bot-per-back"]
 ! 91PORNY.com
 /cloudflare-static/email-decode.min.js
 /static/css/91captions.vtt
@@ -259,7 +247,9 @@ zhihu.com##.css-w0t7t0.Button
 ||int.jstatic.xyz/happy/newyear/
 ||kvhmm.com^
 ||p6.toutiaoimg.com^$domain=91porny.com|9ses.com
+static.cloudflareinsights.com/beacon.min.js/
 91porny.com##.col-sm
+91porny.com##DIV.row
 ! AQDLT.tv
 ||static.pgcm58.com/files/h5/appdownv4.js
 ||static.pgcm58.com/files/h5/kadvs.js
@@ -308,8 +298,16 @@ mhzzz.xyz###hfad
 /images/friend/0/
 ! QINAV.com
 ||diskaa.com^
+! SHOOSHTIME.com
+a.bestcontenttrade.top
+ads.bullionyield.com
+cdn.impactserving.com/Scripts/infinity.js.aspx
+www.google-analytics.com
 ! SPANKBANG.com
 ||cdn.strpst.com/cdn/previews/
+||go.xlirdr.com^
+||static-cdn.strpst.com^
+||stream.highwebmedia.com^
 ||stripchat.com^
 ! UVOD.tv
 ||14tv.com^
@@ -318,5 +316,23 @@ mhzzz.xyz###hfad
 /images/content/spot01.jpg$domain=yingav.com|yingav2.com
 ||8feichai.com^
 ||dl66d.com^
+
+!-------- 🐾Annoying Elements[legacy] --------
+163.com##.js-backflow-floating.backflow-floating
+163.com##.js-open-app.backflow-floating
+aliyun.com##.app-fixed-btn
+apkmirror.com##.f-nowrap.d-flex.p-relative.f-100
+juicywest.com##+js(aopr, __Y)
+ceveysystemsna.com###overlay-ad
+csdn.net##.open_app_channelCode.feed-Sign-span
+ddxs.com##div[class="RMss1"]
+ddxs.com##div[class="W1oMwlglisten"]
+ddxs.com##div[class="W1oMwlgani"]
+gamer.com.tw##.open-app
+gamersky.com##.gsTgWapConBdshareTop > [href="javascript:;"]
+hk01.com###branch-banner-iframe
+douyu.com##.DownloadBtn
+douyu.com##.btn-open-app
+wallstreetcn.com##.open-in-app
 
 
