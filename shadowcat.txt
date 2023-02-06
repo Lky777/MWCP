@@ -1,7 +1,7 @@
 [Adblock Plus 3.1]
 ! Title: 🐾ShadowCat
 ! Description: Supplemental filters for Chinese mobile sites
-! Version: 3.0203.1
+! Version: 3.0206.1
 ! Expires: 31 days
 ! Homepage: https://github.com/Lky777/MWCP
 
@@ -11,19 +11,18 @@
 @@||guokr.com/apis/flowingboard/item/guokrapp_
 
 !-------- 🐾General --------
-!
 $third-party
+cnzz.com
 ! 0XZX.com
-||cdn.0xzx.com/wp-content/plugins/better-adsmanager/
-||clickoutnetwork.care^
+cdn.0xzx.com/wp-content/plugins/better-adsmanager/
+clickoutnetwork.care
 ! 88HD.com
-||cdn.xianzhice.com/maizhan/js/720.tt.js
-||m.88hd.com/template/wap88ysw/jk/toubu.js
-###div.mobile-adv.mobile-adv-bottom
+cdn.xianzhice.com/maizhan/js/720.tt.js
+m.88hd.com/template/wap88ysw/jk/toubu.js
+88hd.com###div.mobile-adv.mobile-adv-bottom
 ! A2ZAPK.com
-||a-ads.com^
 ||a2zapk.com/images/SocialIcon/
-||pushbullet.com^
+pushbullet.com
 educatiocenter.online###modalpop-content
 educatiocenter.online###modalpop
 ! APKMIRROR.com
@@ -109,6 +108,7 @@ css219sg.cdndm5.com/v202208091111/manhuaren/images/mobile/guide-1.png
 ! MAOFLY.com
 ||lm.inszoo.com^
 ! MYDRIVER.com
+/dangbei_$image
 /kkjapp_down.$image
 ! MYQQJD.com
 ||ads-api.twitter.com^
@@ -127,12 +127,12 @@ api.edikl.com
 /jquery1.7.1.js$domain=m.nnit8.com|m.xjaswf.net
 /jquery1.8.1.js$domain=m.nnit8.com|m.xjaswf.net
 xjaswf.net/jquery1.2.js
-! PROXYRARBG.org
-||cloudflareinsights.com^
 ! QQSZZ.com
 ||www.qqszz.com/wp-content/uploads/2021/01/2021011511533373.png
 ! QWANT.com
 ||qwant.com/en.5c248bbd.svg
+! RARBG
+bravetense.com
 ! SINA.cn
 ||adyounger.com^
 ||api.tdp.u7u9.com^
@@ -148,45 +148,22 @@ userupload.net##.btn-danger.btn
 ! WEEKENDHK.com
 ||weekendhk.com/wp-content/themes/bucket/theme-content/images/
 ! XDA-DEVELOPERS.com
-||1rx.io^
-||3lift.com^
-||ad.gt^
-||adform.net^
-||adlightning.com^
-||adnxs.com^
 ||adsninja.ca^
-||amazon-adsystem.com^
-||analytics.yahoo.com^
-||bidswitch.net^
 ||childlikeform.com^
-||contextweb.com^
-||privacymanager.io^
 ||hadronid.net^
-||indexww.com^
-||lijit.com^
 ||loopme.me^
-||media.net^
-||openx.net^
-||parsely.com^
 ||primis.tech^
+||privacymanager.io^
 ||pubgw.yahoo.com^
-||pubmatic.com^
-||pushbullet.com^
-||sharethrough.com^
-||spotxchange.com^
-||stack-sonar.com^
-||stickyadstv.com^
-||teads.tv^
-||tremorhub.com^
 ! YHDMP.live
-||kjnmwr.xyz^
-||nmkstcrt.xyz^
+kjnmwr.xyz
+nmkstcrt.xyz
 ! YOUTUBE.com
-||m.youtube.com/static/r/
+m.youtube.com/static/r/
 ! ZHIHU.com
-||api.zhihu.com/distribute/rhea/qa_ad_card/h5/recommendation
+api.zhihu.com/distribute/rhea/qa_ad_card/h5/recommendation
 pic3.zhimg.com/v2-
-||static.zhihu.com/heifetz/column.GoodsRecommendGoodsCardList.
+static.zhihu.com/heifetz/column.GoodsRecommendGoodsCardList.
 
 !-------- 🐾Novels --------
 ! THE FAST FOOD
@@ -195,16 +172,14 @@ pic3.zhimg.com/v2-
 ||mobixc.
 100ytrf.com
 1102yh.com
-abb.juntaijiancai.com
-asdldk.xjwtboz.cn
 dingbu.bj.bcebos.com/chaoxi.add
 dongya.org/m/
 dongya.org/vs.php
 elsmom.xyz
+fds-1230.cc
 goodtj.xyz
 hkbzl.hk
-js.fds-1230.cc
-js.tydouke.com
+juntaijiancai.com
 libs.baidu.com/jquery/1.4.2/jquery.min.js
 lllyt.paradisemall.net/cdn/
 m.linlida.net/xxgg/common.js
@@ -215,19 +190,24 @@ m.wxsy.net/rule.json
 ocxve.xyz
 p6.toutiaoimg.com/origin/pgc-image/
 pic.rmb.bdstatic.com/bjh/$domain=m.biquge365.net
-q.v09.xyz
 qlogo.cn
-s4.cnzz.com
 sdk.wenkans.xyz/template/2/info/pokg.woff
 srnov.top
 tt.ishuquge.org
-w11.x3zy2.icu
+tydouke.com
+v09.xyz
 wap.ishuquge.org/js/ishuquge.js
 wap.yingsx.com/css/home.gif
 wap.yingsx.com/js/yingsx.js
+x3zy2.icu
 xiedao.hk
+xjwtboz.cn
 
 !-------- 🐾Porn&Gaming --------
+! 146.19.24.47
+nfwgw.com
+tong.8888888888.bid/matomo.js
+yd.kjshenghuo.com/Distribute/Distribute_d/butterfly/
 ! 18COMIC.org
 /media/albums/1_2df4.jpg$domain=18comic.org|18comic.vip|jmcomic.asia|jmcomic.rocks
 /static/resources/$domain=18comic.org|18comic.vip|jmcomic.asia|jmcomic.rocks
@@ -239,22 +219,39 @@ xiedao.hk
 18comic.org,18comic.vip,jmcomic.asia,jmcomic.rocks##div[class="bot-per-back"]
 ! 91PORNY.com
 /cloudflare-static/email-decode.min.js
+/manifest.json$domain=91porny.com|9ses.com
 /static/css/91captions.vtt
 ||aliyuncs.com^$domain=91porny.com|9ses.com
-||cdn.jsdelivr.net/gh/dizhi91/jiuse@1.5/lazyload.js
-||i5jh6b.cc^
-||img.gs3jro.xyz^
-||int.jstatic.xyz/happy/newyear/
-||kvhmm.com^
 ||p6.toutiaoimg.com^$domain=91porny.com|9ses.com
-static.cloudflareinsights.com/beacon.min.js/
-91porny.com##.col-sm
-91porny.com##DIV.row
+cdn.jsdelivr.net/gh/dizhi91/jiuse@1.5/lazyload.js
+gtm-a3b8.com
+i5jh6b.cc
+img.gs3jro.xyz
+int.jstatic.xyz/happy/newyear/
+kvhmm.com
+91porny.com,9ses.com##.col-sm
+91porny.com,9ses.com##.mobile-adv-content
+91porny.com,9ses.com##.mobile-adv-close
 ! AQDLT.tv
 ||static.pgcm58.com/files/h5/appdownv4.js
 ||static.pgcm58.com/files/h5/kadvs.js
 ||static.pgcm58.com/files/h5/videoRandom.js
-||xcdn.rltdxt.com^
+xcdn.rltdxt.com
+! FULI35.lv
+3366812ccc.com
+fuli35.lv/action/
+googleusaanalytics.com
+/usr/plugins/TleBarrager/resource/css/barrager.css
+/usr/plugins/TleBarrager/resource/js/jquery.barrager.js
+/usr/themes/Mirages/css/7.10.1/toscreen.css
+/usr/themes/Mirages/js/7.10.1/toscreen.js
+/usr/themes/Mirages/static/layer351/theme/default/layer.css
+/usr/uploads/2022/11/2621166575.jpg
+/usr/uploads/2022/12/1665484672.jpg
+/usr/uploads/2022/12/3171292060.jpg
+/usr/uploads/2023/01/2440903537.jpg
+/usr/uploads/2023/01/3279542650.jpg
+/usr/uploads/2023/01/362533573.jpg
 ! HOT-SEX-PHOTOS.com
 ||analytics.truyen-hentai.com^
 ! HSEX.tv
@@ -273,8 +270,8 @@ static.cloudflareinsights.com/beacon.min.js/
 ! MANHWA18.cc
 ||manhwa18.cc/api/notification
 ||manhwa18.cc/main2022/main05er.php
-||manhwa18.cc^$popup,redirect
 ! MHZZZ.xyz
+.gif$domain=static01.top|static04.top
 ||2599qq.com^
 ||93261587768.com^
 ||chinainqredient.com^
@@ -283,16 +280,12 @@ static.cloudflareinsights.com/beacon.min.js/
 ||easysavemore.com^
 ||ifengsong888.com^
 ||mresou.com^
-||static01.top/data/images/baitian789.jpg
-||static01.top/data/images/Joesugames_2.gif
-||static04.top/data/images/2222.gif
-||static04.top/data/images/Anatasia9797.gif
-||static04.top/data/images/JDYY1688_3.gif
-||static04.top/data/images/mmbushinese.gif
-||tydouke.com^
 ||whfyhouse.com^
 ||yfled888.com^
 mhzzz.xyz###hfad
+! MRCONG.com
+connect.facebook.net/*/sdk.js
+qgxbluhsgad.com
 ! PORNFIND.org
 ||addthis.com^
 /images/friend/0/
