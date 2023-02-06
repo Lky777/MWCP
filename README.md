@@ -1,7 +1,7 @@
-##  AD-Filters for Mob Sites  
+##  移动端广告过滤规则  
 
-•移动端广告过滤  
-•重在查漏补缺，不建议作为主规则使用  
+•适用于移动端网站  
+•主在查漏补缺，不建议作为主规则使用  
 ▸ **Primary url**  
 **https://fastly.jsdelivr.net/gh/Lky777/MWCP@main/shadowcat.txt**  
 
