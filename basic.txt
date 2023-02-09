@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 3.0209.1
+! Version: 3.0209.2
 ! Title: EN Basic List
 ! Desc. uBlock+EasyList+EasyPrivacy+NoCoin+FanboyNotification+xinggsf
 ! Homepage: 
@@ -289,7 +289,6 @@ $media,redirect=noopmp3-0.1s,domain=fairyanime.com
 $media,redirect=noopmp3-0.1s,domain=funimation.com
 $media,redirect=noopmp3-0.1s,domain=imdb.com,3p
 $media,redirect=noopmp3-0.1s,domain=paramountnetwork.com
-$ping,3p
 $popunder,3p,domain=bs.to|burningseries.*
 $popunder,3p,domain=imgrock.pw
 $popunder,3p,domain=imgtorrnt.in
@@ -2730,7 +2729,6 @@ $redirect-rule=noopjs,script,domain=elahmad.com
 /__wsm.gif
 /_a_ta/s/s/
 /_adslot/
-/_blazor/$ping
 /_dating\d\/index\.html\?aref=/$doc
 /_ga?send&
 /_global/ads/
@@ -14165,7 +14163,6 @@ $redirect-rule=noopjs,script,domain=elahmad.com
 @@api.adinplay.com/libs/aiptag/pub/WDL/worldledaily.com/tag.min.js$script,domain=worldledaily.com
 @@api.adinplay.com/libs/aiptag/pub/WRC/warscrap.io/tag.min.js$script,domain=warscrap.io
 @@api.adnetmedia.lt/api/$~3p
-@@api.babbel.io/gamma/v1/$ping,domain=my.babbel.com
 @@api.coinmarketcap.com/$xhr,domain=unblock.net
 @@api.cxense.com/public/widget/data?$domain=bizjournals.com|marketwatch.com|wsj.com
 @@api.dmcdn.net/pxl/advertisers/$domain=dailymotion.com
@@ -17255,7 +17252,6 @@ $redirect-rule=noopjs,script,domain=elahmad.com
 @@res-x.com*/Resonance.aspx?
 @@res.wx.qq.com/mmbizwap/$script
 @@researchintel.com*/feedback.asp$xmlhttprequest,domain=intel.com
-@@retailmenot.com/__wsm.gif$ping,~3p,xmlhttprequest
 @@reutersmedia.net/*/js/rcom-scroll-tracker.js$script,domain=reuters.com
 @@rfksrv.com/rfk/js/*/init.js$script,domain=riteaid.com
 @@ricasdelicias.online/social.php$popup,domain=animesonline.cz
@@ -23970,8 +23966,8 @@ binance.com$popup,domain=live7v.com|usagoals.sx
 binary-optionss.info
 binaryoptionsgame.com$popup
 bindingguessingconfessed.com
-bing.com*/GLinkPingPost.aspx$ping,xmlhttprequest
-bing.com*/glinkping.aspx$ping,xmlhttprequest
+bing.com*/GLinkPingPost.aspx$xmlhttprequest
+bing.com*/glinkping.aspx$xmlhttprequest
 bing.com/fd/ls/GLinkPing.aspx?
 bing.com/fd/ls/l?IG=
 bing.com/fd/ls/lsp.aspx
@@ -33093,7 +33089,6 @@ gettopple.com$popup
 gettraff.com$popup
 gettraffnews.com
 gettubetv.com$3p
-gettyimages.*/pulse$ping
 getviously.com$3p
 getvottak.com
 getxml.org
@@ -41960,7 +41955,6 @@ onetouch4.com
 onetouch6.com
 onetouch7.info$all
 onetrackesolution.com
-onetrust.com$ping
 onetwohub.com
 onevenadvllc.com$popup
 onfcwaif.xyz
@@ -46692,7 +46686,7 @@ rum.uptime.com
 rumanalytics.com$3p
 rumandwaterv.info
 rumble.com$domain=tiphero.com
-rumble.com$ping,3p
+rumble.com$3p
 rumble.com/l/
 rumblyjouking.store
 rummagemason.com
@@ -48708,7 +48702,6 @@ soufun.com/click/
 soufun.com/stats/
 soujoobafoo.com
 soulfulinevitable.pro
-soundcloud.com$ping
 soundcloud.com/audio-ad$1p,xhr
 soundcloud.com/promoted$1p,xhr
 soundelktemper.com
@@ -48854,7 +48847,6 @@ spamanalyst.com$3p
 spanids.dictionary.com
 spanids.thesaurus.com
 spanishdict.com/page-view-metadata
-spankbang.com$ping
 spankbang.com*?type=
 spankbang.com/official/serve_
 spankmasters.com$3p
@@ -49224,7 +49216,6 @@ start3dd0wnload.com$popup
 startede.com$3p
 starterplaicebrow.com
 startex3download.com$all
-startpage.com/sp/$ping
 startpage.com/sp/adsense/
 startpage.com/sp/dplpxs$xhr,1p
 startpage.com/sp/elp
@@ -52310,7 +52301,6 @@ twangedcored.com
 twazzyoidwlfe.com
 twcount.com$3p
 twcouponcenter.com$3p
-tweakers.net/ajax/$ping
 tweeseconable.website
 tweitter.com$all
 twentyalight.com
@@ -53577,7 +53567,6 @@ vitcory.com
 vivaciousveil.com
 vivaclix.com$3p
 vivatube.*/templates/base_master/js/jquery.shows.min.js
-vivid.money/projectx/$ping
 vividcash.com$3p
 vivocha.com$3p
 vivociti.com/images/$3p

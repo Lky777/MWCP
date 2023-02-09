@@ -1,7 +1,7 @@
 [Adblock Plus 3.1]
 ! Title: 🐾ShadowCat
 ! Description: Supplemental filters for Chinese mobile sites
-! Version: 3.0206.1
+! Version: 3.0209.1
 ! Expires: 31 days
 ! Homepage: https://github.com/Lky777/MWCP
 
@@ -11,8 +11,8 @@
 @@||guokr.com/apis/flowingboard/item/guokrapp_
 
 !-------- 🐾General --------
-$third-party
-cnzz.com
+$3p
+$ping
 ! 0XZX.com
 cdn.0xzx.com/wp-content/plugins/better-adsmanager/
 clickoutnetwork.care
@@ -21,13 +21,13 @@ cdn.xianzhice.com/maizhan/js/720.tt.js
 m.88hd.com/template/wap88ysw/jk/toubu.js
 88hd.com###div.mobile-adv.mobile-adv-bottom
 ! A2ZAPK.com
-||a2zapk.com/images/SocialIcon/
+a2zapk.com/images/SocialIcon/
 pushbullet.com
 educatiocenter.online###modalpop-content
 educatiocenter.online###modalpop
 ! APKMIRROR.com
-||apkmirror.com/wp-content/plugins/AppManager/js/appmanager.js
-||basher.ezodn.com^
+apkmirror.com/wp-content/plugins/AppManager/js/appmanager.js
+basher.ezodn.com
 ||clarity.ms^
 ||crsspxl.com^
 ||d35xxde4fgg0cx.cloudfront.net/assets/embedded.js
@@ -38,16 +38,19 @@ educatiocenter.online###modalpop
 ||gstatic.com/0emn/
 ||pro-market.net^
 ! BAIDU
-||bj.bcebos.com/fc-image/$image
-||dhn.135320.com^
-||dmpstatic.cdn.bcebos.com/weirwood-sdk/
-||fc3tn.baidu.com/it/
-||ns-strategy.cdn.bcebos.com^
+bj.bcebos.com/fc-image/$image
+cpro.baidustatic.com
+dhn.135320.com^
+dmpstatic.cdn.bcebos.com/weirwood-sdk/
+fc3tn.baidu.com/it/
+lupic.cdn.bcebos.com
+ns-strategy.cdn.bcebos.com
+wn.pos.baidu.com
 ! BING.com
 ||img04.sogoucdn.com^
 cn.bing.com###bnp_container
 ! CNET.com
-||inline.cnet.com/api/au/
+inline.cnet.com/api/au/
 ! COCOMANGA.com
 ||addresseepaper.com^
 ||cocomanga.com/js/a_d/
@@ -70,12 +73,20 @@ cn.bing.com###bnp_container
 ||m.douyu.com/api/search/getTodayTop
 ||shark2.douyucdn.cn/front-publish/m-douyu-v3-master/assets/images/
 ! GAMERSKY.com
-||cm1.gamersky.com/apirating/
-||db5.gamersky.com^
-||image.gamersky.com/webimg13/wap/2021/APP-ICON@3x.png
-||j.gamersky.com/app/js/
-||j.gamersky.com/wap/js/gs/
-||yeyou-cps.gamersky.com^
+cm1.gamersky.com/apirating/
+db5.gamersky.com^
+image.gamersky.com/webimg13/wap/2021/APP-ICON@3x.png
+j.gamersky.com/app/js/
+j.gamersky.com/common/tg/allsite.tg.monitor.wap.js
+j.gamersky.com/g/gamersky.guop.cps.js
+j.gamersky.com/g/gsAppJsApi.
+j.gamersky.com/static/api/js/share.js
+j.gamersky.com/wap/css/new/content/oldstyle.css
+j.gamersky.com/wap/js/gs/
+j.gamersky.com/wap/js/new/QZnav_Wap_Login.js
+j.gamersky.com/wap/js/share.js
+j.gamersky.com/zq/db/pokewiki/js/gsAppWebAPI.js
+yeyou-cps.gamersky.com
 ! GIMY.one
 ||bedrapiona.com^
 ||cdnativepush.com^
@@ -96,8 +107,9 @@ cn.bing.com###bnp_container
 ||jianshu.com/asimov/notes/seo_recommendations
 ||kxvuv.com^
 ! LANZOU?.com
+analytics.woozooo.com
 sanme2.taisantech.com
-||statics.woozooo.com^
+statics.woozooo.com/img/
 ! MANHUAREN.com
 ||bi.manhuaren.com/analysis-user/appLaunchService/
 css219sg.cdndm5.com/v202208091111/manhuaren/images/lb-img-m-1.png
@@ -134,9 +146,9 @@ xjaswf.net/jquery1.2.js
 ! RARBG
 bravetense.com
 ! SINA.cn
-||adyounger.com^
-||api.tdp.u7u9.com^
-||jituofuture.com^
+adyounger.com
+api.tdp.u7u9.com
+jituofuture.com
 ! TXRJY.com
 txrjy.com/source/plugin/c114_indexnew/images/ad_top_590_APP_191016.jpg
 txrjy.com##.is-shown.OpenInAppButton
@@ -170,8 +182,10 @@ static.zhihu.com/heifetz/column.GoodsRecommendGoodsCardList.
 ||api.$domain=m.biquge365.net
 ||cdn.$domain=m.biquge365.net
 ||mobixc.
+||yhw.$domain=wxzw.cc
 100ytrf.com
 1102yh.com
+cnzz.com
 dingbu.bj.bcebos.com/chaoxi.add
 dongya.org/m/
 dongya.org/vs.php
@@ -209,11 +223,11 @@ nfwgw.com
 tong.8888888888.bid/matomo.js
 yd.kjshenghuo.com/Distribute/Distribute_d/butterfly/
 ! 18COMIC.org
-/media/albums/1_2df4.jpg$domain=18comic.org|18comic.vip|jmcomic.asia|jmcomic.rocks
+/media/albums/*_*.jpg$domain=18comic.org|18comic.vip|jmcomic.asia|jmcomic.rocks
 /static/resources/$domain=18comic.org|18comic.vip|jmcomic.asia|jmcomic.rocks
 /templates/frontend/airav/css/style_blog.css$domain=18comic.org|18comic.vip|jmcomic.asia|jmcomic.rocks
 /templates/frontend/airav/css/style_game.css$domain=18comic.org|18comic.vip|jmcomic.asia|jmcomic.rocks
-/undefined$domain=18comic.org|18comic.vip|jmcomic.asia|jmcomic.rocks
+/templates/frontend/airav/js/jquery.*_
 18comic.org,18comic.vip,jmcomic.asia,jmcomic.rocks##.bot-per-times > .fa-times.fas
 18comic.org,18comic.vip,jmcomic.asia,jmcomic.rocks##.center.container
 18comic.org,18comic.vip,jmcomic.asia,jmcomic.rocks##div[class="bot-per-back"]
@@ -221,19 +235,23 @@ yd.kjshenghuo.com/Distribute/Distribute_d/butterfly/
 /cloudflare-static/email-decode.min.js
 /manifest.json$domain=91porny.com|9ses.com
 /static/css/91captions.vtt
-||aliyuncs.com^$domain=91porny.com|9ses.com
-||p6.toutiaoimg.com^$domain=91porny.com|9ses.com
+595tuchuang.com/325x130.gif
+66667aaa.com
+aliyuncs.com$domain=91porny.com|9ses.com
+p6.toutiaoimg.com^$domain=91porny.com|9ses.com
 cdn.jsdelivr.net/gh/dizhi91/jiuse@1.5/lazyload.js
 gtm-a3b8.com
 i5jh6b.cc
 img.gs3jro.xyz
 int.jstatic.xyz/happy/newyear/
+n18081.com
+sj.migmhvk.cn/sejie/240X140.gif
 kvhmm.com
 91porny.com,9ses.com##.col-sm
 91porny.com,9ses.com##.mobile-adv-content
 91porny.com,9ses.com##.mobile-adv-close
 ! AQDLT.tv
-||static.pgcm58.com/files/h5/appdownv4.js
+static.pgcm58.com/files/h5/appdownv4.js
 ||static.pgcm58.com/files/h5/kadvs.js
 ||static.pgcm58.com/files/h5/videoRandom.js
 xcdn.rltdxt.com
@@ -255,7 +273,7 @@ googleusaanalytics.com
 ! HOT-SEX-PHOTOS.com
 ||analytics.truyen-hentai.com^
 ! HSEX.tv
-||img.bigcloud.cyou/pic/
+img.bigcloud.cyou/pic/
 ||img.bigcloud.cyou/x1/
 ||fri4esianewheywr90itrage.com^
 ||xlviirdr.com^
@@ -307,8 +325,8 @@ www.google-analytics.com
 ! YINGAV.com
 /cdn-cgi/apps/body/$domain=yingav.com|yingav2.com
 /images/content/spot01.jpg$domain=yingav.com|yingav2.com
-||8feichai.com^
-||dl66d.com^
+8feichai.com
+dl66d.com
 
 !-------- 🐾Annoying Elements[legacy] --------
 163.com##.js-backflow-floating.backflow-floating
