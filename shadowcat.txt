@@ -1,7 +1,7 @@
-[Adblock Plus 3.1]
+[Adblock Plus 2.0]
 ! Title: 🐾ShadowCat
 ! Description: Supplemental filters for Chinese mobile sites
-! Version: 3.0210.1
+! Version: 3.0210.2
 ! Expires: 31 days
 ! Homepage: https://github.com/Lky777/MWCP
 
@@ -13,7 +13,7 @@
 *$ping
 *$third-party
 ##+js(nowebrtc)
-@@||github.com^$third-party
+@@$third-party,domain=github.com|play.google.com
 ! 0XZX.com
 ||cdn.0xzx.com/wp-content/plugins/better-adsmanager/
 ||clickoutnetwork.care^
