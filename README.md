@@ -1,6 +1,7 @@
-##  移动端广告过滤规则  
+##  Mob-Sites AD&Tracking Filters  
 
-•主在查漏补缺，不建议作为主规则使用  
+•Supplemental rules of [1hosts Lite](https://github.com/badmojr/1Hosts/)  
+•Mainly target for Chinese mobile sites  
 ▸ **Primary url**  
 **https://fastly.jsdelivr.net/gh/Lky777/MWCP@main/shadowcat.txt**  
 
