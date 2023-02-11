@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 🐾ShadowCat
 ! Description: Supplemental filters for Chinese mobile sites
-! Version: 3.0210.4
+! Version: 3.0211.1
 ! Expires: 31 days
 ! Homepage: https://github.com/Lky777/MWCP
 
@@ -9,9 +9,10 @@
 !-------- 🐾Broken Fixes --------
 ! XBrowser rule import tool 
 @@ad.net$domain=anti-ad.net
+
 !-------- 🐾General --------
 *$ping
-!*$third-party
+!*$third-party,domain=~bing.com|~github.com|~play.google.com
 ##+js(nowebrtc)
 ! 0XZX.com
 ||cdn.0xzx.com/wp-content/plugins/better-adsmanager/
@@ -20,6 +21,11 @@
 ||cdn.xianzhice.com/maizhan/js/720.tt.js
 ||m.88hd.com/template/wap88ysw/jk/toubu.js
 88hd.com###div.mobile-adv.mobile-adv-bottom
+! 97 FILM
+||api.edikl.com^
+jquery1.7.1.js$script,domain=xjaswf.net
+jquery1.8.1.js$script,domain=xjaswf.net
+jquery1.2.js$script,domain=xjaswf.net
 ! A2ZAPK.com
 ||a2zapk.com/images/SocialIcon/
 educatiocenter.online###modalpop
@@ -57,6 +63,7 @@ cn.bing.com###bnp_container
 ! DOUYU.com
 ||m.douyu.com/api/search/getTodayTop
 ||shark2.douyucdn.cn/front-publish/m-douyu-v3-master/assets/images/
+douyu.com##.DownloadBtn
 ! GAMERSKY.com
 gamersky_01origin_01_$image,domain=gamersky.com
 icon.jpg$image,domain=gamersky.com
@@ -76,7 +83,7 @@ icon01.jpg$image,domain=gamersky.com
 ||j.gamersky.com/wap/js/share.js
 ||j.gamersky.com/zq/db/pokewiki/js/gsAppWebAPI.js
 ||yeyou-cps.gamersky.com^
-gamersky.com##.gsTgWapConBdshareTopBox,.phoneGame,.ymw-footer,.ymw-logo,.ymw-rel-list,.ymw-hot-h5-game.ymw-aside-box.ymw-rel-mgame,.ymwBootDownload.ymw-header2021
+gamersky.com##.gsTgWapConBdshareTopBox,.phoneGame,.ymw-footer,.ymw-hot-h5-game.ymw-aside-box.ymw-rel-mgame,.ymw-logo,.ymw-rel-list,.ymwBootDownload.ymw-header2021
 ! GIMY.one
 ||mytopwords.com^
 ! GOOGLE ADs
@@ -96,6 +103,7 @@ gamersky.com##.gsTgWapConBdshareTopBox,.phoneGame,.ymw-footer,.ymw-logo,.ymw-rel
 ||kxvuv.com^
 ! LANZOU?.com
 ||analytics.woozooo.com^
+||d.woozooo.com/leep.html
 ! MANHUAREN.com
 ||bi.manhuaren.com/analysis-user/appLaunchService/
 ||css219sg.cdndm5.com/v202208091111/manhuaren/images/lb-img-m-1.png
@@ -117,17 +125,13 @@ gamersky.com##.gsTgWapConBdshareTopBox,.phoneGame,.ymw-footer,.ymw-logo,.ymw-rel
 ||myqqjd.com/images/ads.jpg
 ||s.myqqjd.com/wp-content/plugins/chp-ads-block-detector-pro/
 ||s.myqqjd.com/wp-content/plugins/wechat-shop/
-! NNIT8.com
-||api.edikl.com^
-/jquery1.7.1.js$domain=m.nnit8.com|m.xjaswf.net
-/jquery1.8.1.js$domain=m.nnit8.com|m.xjaswf.net
-xjaswf.net/jquery1.2.js
 ! QQSZZ.com
 ||www.qqszz.com/wp-content/uploads/2021/01/2021011511533373.png
 ! QWANT.com
 ||qwant.com/en.5c248bbd.svg
 ! RARBG
-
+||dyncdn.me/static/20/js/expla95.js
+||dyncdn.me/static/20/js/showads.js
 ! SINA.cn
 ||adyounger.com^
 ||api.tdp.u7u9.com^
@@ -265,7 +269,6 @@ mhzzz.xyz###hfad
 /images/friend/0/
 ! QINAV.com
 ||diskaa.com^
-! SHOOSHTIME.com
 ! SPANKBANG.com
 ||cdn.strpst.com^
 ||static-cdn.strpst.com^
