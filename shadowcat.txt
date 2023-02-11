@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 🐾ShadowCat
 ! Description: Supplemental filters for Chinese mobile sites
-! Version: 3.0211.1
+! Version: 3.0211.2
 ! Expires: 31 days
 ! Homepage: https://github.com/Lky777/MWCP
 
@@ -54,12 +54,16 @@ cn.bing.com###bnp_container
 ||juhqtxze.com^
 ||reapinject.com^
 ! CSDN.net
+||aeu.alicdn.com/waf/antidomxss_v640.js
 ||g.csdnimg.cn/asdf/1.0.9/trackad.js
 ||g.csdnimg.cn/common/csdn-report/report.js
+||g.csdnimg.cn/debug/1.0.0/debug.js
+||g.csdnimg.cn/login-box/1.0.4/login-auto.js
 ||img-home.csdnimg.cn/data_json/toolbar/toolbar1105.json
 ||rabc1.iteye.com^
 ||rabc2.iteye.com^
 ||redisdatarecall.csdn.net/recommend/
+||s3a.pstatp.com/toutiao/push.js
 ! DOUYU.com
 ||m.douyu.com/api/search/getTodayTop
 ||shark2.douyucdn.cn/front-publish/m-douyu-v3-master/assets/images/
@@ -90,9 +94,14 @@ gamersky.com##.gsTgWapConBdshareTopBox,.phoneGame,.ymw-footer,.ymw-hot-h5-game.y
 ||googletagmanager.com^
 ||pagead2.googlesyndication.com^
 ! ITHOME.com
-||m.ithome.com/js/common/jump-app.min.js
-||m.ithome.com/js/common/nativeshare.min.js
-||m.ithome.com/js/common/share-sdk.min.js
+||ithome.com/js/common/jump-app.min.js?
+||ithome.com/js/common/nativeshare.min.js
+||ithome.com/js/common/share-sdk.min.js?
+||ithome.com/json/manifest.json?
+||ithome.com/static/api/js/share.js?
+||img.ithome.com/img/soft/zhm.svg
+||mtimg.ruanmei.com/images/mytime.svg
+ithome.com##.footer,.open-app-banner,.open-app-a[aria-label='打开APP']
 ! JIANSHU.com
 ||695ljg.com^
 ||69mok.com^
@@ -125,8 +134,14 @@ gamersky.com##.gsTgWapConBdshareTopBox,.phoneGame,.ymw-footer,.ymw-hot-h5-game.y
 ||myqqjd.com/images/ads.jpg
 ||s.myqqjd.com/wp-content/plugins/chp-ads-block-detector-pro/
 ||s.myqqjd.com/wp-content/plugins/wechat-shop/
+! QQ.com
+||mat1.gtimg.com^
+||news.ssp.qq.com/app
+||node.video.qq.com/x/api/wuji_cache/
+fp.js$script,domain=file.myqcloud.com
+universal-report.min.js
 ! QQSZZ.com
-||www.qqszz.com/wp-content/uploads/2021/01/2021011511533373.png
+||qqszz.com/wp-content/uploads/2021/01/2021011511533373.png
 ! QWANT.com
 ||qwant.com/en.5c248bbd.svg
 ! RARBG
@@ -136,6 +151,9 @@ gamersky.com##.gsTgWapConBdshareTopBox,.phoneGame,.ymw-footer,.ymw-hot-h5-game.y
 ||adyounger.com^
 ||api.tdp.u7u9.com^
 ||jituofuture.com^
+! SSPAI.com
+||cdn-static.sspai.com/ui/logo/logo_sspai_icon.png
+sspai.com###btn-call-app
 ! TXRJY.com
 ||txrjy.com/source/plugin/c114_indexnew/images/ad_top_590_APP_191016.jpg
 txrjy.com##.is-shown.OpenInAppButton

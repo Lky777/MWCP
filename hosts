@@ -1,0 +1,16 @@
+127.0.0.1       localhost
+::1             ip6-localhost
+
+##------🐾xw.qq.com------
+127.0.0.1 beacon.cdn.qq.com
+127.0.0.1 h.trace.qq.com
+127.0.0.1 h5.ssp.qq.com
+127.0.0.1 ipv4.gdt.qq.com
+127.0.0.1 news.ssp.qq.com
+127.0.0.1 node.video.qq.com
+127.0.0.1 op.ssp.qq.com
+127.0.0.1 oth.str.beacon.qq.com
+127.0.0.1 otheve.beacon.qq.com
+127.0.0.1 pacaio.match.qq.com
+127.0.0.1 staticfile.qq.com
+127.0.0.1 v.gdt.qq.com
