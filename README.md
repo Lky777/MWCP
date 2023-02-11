@@ -6,9 +6,8 @@
 **https://raw.githubusercontent.com/Lky777/MWCP/main/shadowcat.txt**  
 
 ▸ **Alt url mirror**  
-** **   
+**N/A**   
 
-•   
 ___
 • References  
-· 
+· N/A
