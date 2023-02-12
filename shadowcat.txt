@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 🐾ShadowCat
 ! Description: Supplemental filters for Chinese mobile sites
-! Version: 3.0211.3
+! Version: 3.0212.1
 ! Expires: 31 days
 ! Homepage: https://github.com/Lky777/MWCP
 
@@ -34,6 +34,16 @@ educatiocenter.online###modalpop-content
 ||apkmirror.com/wp-content/plugins/AppManager/js/appmanager.js
 ||g.ezoic.net^
 ||gstatic.com/0emn/
+! ARSTECHNICA.com
+.ads.
+||cdn.cookielaw.org^
+||connect.facebook.net/*/fbevents.js
+||d2c8v52ll5s99u.cloudfront.net^
+||dp8hsntg6do36.cloudfront.net^
+||dwgyu36up6iuz.cloudfront.net^
+||geolocation.onetrust.com^
+||player.cnevids.com^
+||s0.2mdn.net^
 ! BAIDU ADs
 ||bj.bcebos.com/fc-image/$image
 ||dhn.135320.com^
@@ -87,7 +97,8 @@ icon01.jpg$image,domain=gamersky.com
 ||j.gamersky.com/wap/js/share.js
 ||j.gamersky.com/zq/db/pokewiki/js/gsAppWebAPI.js
 ||yeyou-cps.gamersky.com^
-gamersky.com##.gsTgWapConBdshareTopBox,.phoneGame,.ymw-footer,.ymw-hot-h5-game.ymw-aside-box.ymw-rel-mgame,.ymw-logo,.ymw-rel-list,.ymwBootDownload.ymw-header2021
+gamersky.com##.gsTgWapConBdshareTopBox,.phoneGame,.ymw-footer,.ymw-logo,.ymw-rel-list,.ymwBootDownload.ymw-header2021
+!gamersky.com##.ymw-hot-h5-game.ymw-aside-box.ymw-rel-mgame
 ! GIMY.one
 ||mytopwords.com^
 ! GOOGLE ADs
