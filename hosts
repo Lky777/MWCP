@@ -1,7 +1,22 @@
 127.0.0.1       localhost
 ::1             ip6-localhost
 
-##------🐾xw.qq.com------
+## - v3.0304.1
+##
+##------🐾163 ------
+127.0.0.1 crash.163.com
+##
+##------🐾BYTEDANCE ------
+127.0.0.1 apmlog.snssdk.com
+127.0.0.1 gromore.pangolin-sdk-toutiao.com
+127.0.0.1 sf3-ttcdn-tos.pstatp.com
+127.0.0.1 sf6-ttcdn-tos.pstatp.com
+##
+##------🐾flurry ------
+127.0.0.1 data.flurry.com
+##
+##------🐾qq.com ------
+127.0.0.1 aegis.qq.com
 127.0.0.1 beacon.cdn.qq.com
 127.0.0.1 h.trace.qq.com
 127.0.0.1 h5.ssp.qq.com
@@ -12,5 +27,10 @@
 127.0.0.1 oth.str.beacon.qq.com
 127.0.0.1 otheve.beacon.qq.com
 127.0.0.1 pacaio.match.qq.com
+127.0.0.1 rpt.gdt.qq.com
 127.0.0.1 staticfile.qq.com
 127.0.0.1 v.gdt.qq.com
+##
+##------🐾UMENG ------
+127.0.0.1 errnewlog.umeng.com
+127.0.0.1 errnewlogos.umeng.com

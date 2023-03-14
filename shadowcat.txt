@@ -1,61 +1,67 @@
 [Adblock Plus 2.0]
 ! Title: 🐾ShadowCat
 ! Description: Supplemental filters for Chinese mobile sites
-! Version: 3.0212.1
+! Version: 3.0306.1
 ! Expires: 31 days
 ! Homepage: https://github.com/Lky777/MWCP
 
-
 !-------- 🐾Broken Fixes --------
 ! XBrowser rule import tool 
-@@ad.net$domain=anti-ad.net
+@@||ad.net^$domain=anti-ad.net
+
+!-------- 🐾1Hosts(Lite) Fixes --------
+! only effect in XBrowser
+@@||m.qulishi.com^$domain=qulishi.com
+@@||openinstall.io^$domain=openinstall.io
+||openinstall.io^third-party
 
 !-------- 🐾General --------
 *$ping
-!*$third-party,domain=~bing.com|~github.com|~play.google.com
+!*$third-party,domain=~bing.com|~gamersky.com|~github.com|~play.google.com
 ##+js(nowebrtc)
 ! 0XZX.com
-||cdn.0xzx.com/wp-content/plugins/better-adsmanager/
-||clickoutnetwork.care^
+/wp-content/plugins/better-adsmanager/
+! 163.com
+163.com##.backflow-floating.js-open-app
 ! 88HD.com
-||cdn.xianzhice.com/maizhan/js/720.tt.js
-||m.88hd.com/template/wap88ysw/jk/toubu.js
+/template/wap88ysw/jk/toubu.js
 88hd.com###div.mobile-adv.mobile-adv-bottom
 ! 97 FILM
 ||api.edikl.com^
-jquery1.7.1.js$script,domain=xjaswf.net
-jquery1.8.1.js$script,domain=xjaswf.net
-jquery1.2.js$script,domain=xjaswf.net
+.com/jquery1.7.1.js
+.com/jquery1.8.1.js
+.com/jquery1.2.js
 ! A2ZAPK.com
 ||a2zapk.com/images/SocialIcon/
 educatiocenter.online###modalpop
 educatiocenter.online###modalpop-content
 ! APKMIRROR.com
-||apkmirror.com/wp-content/plugins/AppManager/js/appmanager.js
+/wp-content/plugins/AppManager/js/appmanager.js
 ||g.ezoic.net^
 ||gstatic.com/0emn/
 ! ARSTECHNICA.com
 .ads.
 ||cdn.cookielaw.org^
-||connect.facebook.net/*/fbevents.js
 ||d2c8v52ll5s99u.cloudfront.net^
 ||dp8hsntg6do36.cloudfront.net^
 ||dwgyu36up6iuz.cloudfront.net^
 ||geolocation.onetrust.com^
 ||player.cnevids.com^
 ||s0.2mdn.net^
-! BAIDU ADs
-||bj.bcebos.com/fc-image/$image
+! BAIDU
+||bj.bcebos.com/fc-image/
+||cpro.baidustatic.com/cpro/
 ||dhn.135320.com^
-||dmpstatic.cdn.bcebos.com/weirwood-sdk/
-||fc3tn.baidu.com/it/
+||fc*tn.baidu.com/it/
 ||imgsrc.baidu.com/forum/pic/item/
-||lupic.cdn.bcebos.com^
-||ns-strategy.cdn.bcebos.com^
-||wn.pos.baidu.com^
 ! BING.com
 ||img04.sogoucdn.com^
 cn.bing.com###bnp_container
+! BIQUGE365.net
+||cdn.$domain=m.biquge365.net
+||p6.toutiaoimg.com/origin/pgc-image/
+||pic.rmb.bdstatic.com/bjh/$domain=m.biquge365.net
+api.simi*.
 ! CNET.com
 ||inline.cnet.com/api/au/
 ! COCOMANGA.com
@@ -70,8 +76,7 @@ cn.bing.com###bnp_container
 ||g.csdnimg.cn/debug/1.0.0/debug.js
 ||g.csdnimg.cn/login-box/1.0.4/login-auto.js
 ||img-home.csdnimg.cn/data_json/toolbar/toolbar1105.json
-||rabc1.iteye.com^
-||rabc2.iteye.com^
+||rabc*.iteye.com^
 ||redisdatarecall.csdn.net/recommend/
 ||s3a.pstatp.com/toutiao/push.js
 ! DOUYU.com
@@ -97,13 +102,21 @@ icon01.jpg$image,domain=gamersky.com
 ||j.gamersky.com/wap/js/share.js
 ||j.gamersky.com/zq/db/pokewiki/js/gsAppWebAPI.js
 ||yeyou-cps.gamersky.com^
-gamersky.com##.gsTgWapConBdshareTopBox,.phoneGame,.ymw-footer,.ymw-logo,.ymw-rel-list,.ymwBootDownload.ymw-header2021
+gamersky.com##.gsTgWapConBdshareTopBox,.phoneGame,.ymw-footer,.ymw-header2019,.ymw-logo,.ymw-rel-list,.ymwBootDownload.ymw-header2021
 !gamersky.com##.ymw-hot-h5-game.ymw-aside-box.ymw-rel-mgame
 ! GIMY.one
-||mytopwords.com^
-! GOOGLE ADs
+||marineingredientinevitably.com^
+! GOOGLE
 ||googletagmanager.com^
 ||pagead2.googlesyndication.com^
+! ISHUQUGE.org
+||wap.ishuquge.org/*/*.js
+||ishuquge.org^$third-party
+||9odes.ltd^
+||bozhou666.com^
+||libs.baidu.com/jquery/1.4.2/jquery.min.js
+||v09.xyz^
+@@||shuquge.org/js/comm.js
 ! ITHOME.com
 ||ithome.com/js/common/jump-app.min.js?
 ||ithome.com/js/common/nativeshare.min.js
@@ -116,16 +129,16 @@ ithome.com##.footer,.open-app-banner,.open-app-a[aria-label='打开APP']
 ! JIANSHU.com
 ||695ljg.com^
 ||69mok.com^
-||ahuano.com/jianshu/js/jianshu.js
 ||brssp.ibreader.com^
 ||ddgjjj.com^
 ||jianshu.com/asimov/notes/seo_recommendations
-||kxvuv.com^
+! JUEJIN.cn
+juejin.cn##.open-button.app-open-button
 ! LANZOU?.com
-||analytics.woozooo.com^
 ||d.woozooo.com/leep.html
+! LINLIDA.net
+||m.linlida.net/xxgg/common.js
 ! MANHUAREN.com
-||bi.manhuaren.com/analysis-user/appLaunchService/
 ||css219sg.cdndm5.com/v202208091111/manhuaren/images/lb-img-m-1.png
 ||css219sg.cdndm5.com/v202208091111/manhuaren/js/mobile/comics_mb.js
 ||css219sg.cdndm5.com/v202208091111/manhuaren/images/mobile/guide-1.png
@@ -134,23 +147,26 @@ ithome.com##.footer,.open-app-banner,.open-app-a[aria-label='打开APP']
 ! MAOFLY.com
 ||lm.inszoo.com^
 ! MYDRIVER.com
-/dangbei_$image
+dangbei_$image
 /kkjapp_down.$image
 ! MYQQJD.com
 ||ads.reddit.com^
-||chpadblock.com^
 ||lpgh.huilingxiu.com^
-||mifapost.com^
-||myqqjd.com/images/ad-300x250.jpg
-||myqqjd.com/images/ads.jpg
-||s.myqqjd.com/wp-content/plugins/chp-ads-block-detector-pro/
-||s.myqqjd.com/wp-content/plugins/wechat-shop/
+! QISHUTA.la
+||m.qishuta.la/js/qishuta.js
 ! QQ.com
 ||mat1.gtimg.com^
+||pp.myapp.com^
+||v.qq.com/thumbplayer-offline-log.html
 fp.js$script,domain=file.myqcloud.com
 universal-report.min.js
 ! QQSZZ.com
 ||qqszz.com/wp-content/uploads/2021/01/2021011511533373.png
+! QULISHI.com
+||c.qulishi.com/latestTime/
+||sbbd1.qulishi.com^
+||staticfile.qulishi.com/common/mbfeedback.js
+||staticfile.qulishi.com/qulishi/theme2/js/gugajs/bdgg.js?
 ! QWANT.com
 ||qwant.com/en.5c248bbd.svg
 ! RARBG
@@ -158,63 +174,55 @@ universal-report.min.js
 ||dyncdn.me/static/20/js/showads.js
 ! SINA.cn
 ||adyounger.com^
-||api.tdp.u7u9.com^
 ||jituofuture.com^
+! SMZDM.com
+smzdm.com##.footer-banner-wrap[data-v-0db24cb2]
 ! SSPAI.com
 ||cdn-static.sspai.com/ui/logo/logo_sspai_icon.png
 sspai.com###btn-call-app
 ! TXRJY.com
-||txrjy.com/source/plugin/c114_indexnew/images/ad_top_590_APP_191016.jpg
+ad_top_$image
 txrjy.com##.is-shown.OpenInAppButton
 ! USERUPLOAD.net
-||tgwidget.com^
 userupload.net##.btn-danger.btn
 ! WEEKENDHK.com
 ||weekendhk.com/wp-content/themes/bucket/theme-content/images/
+! WXSY.net
+||m.wxsy.net/images/down.jpg
+||m.wxsy.net/js/detail.js
+||m.wxsy.net/rule.json
+! WXZW.cc
+/sh/816.js
+||wxzw.cc/js/cont.js
+||wxzw.cc/js/new.js
+||yhw.$domain=wxzw.cc
 ! XDA-DEVELOPERS.com
-||hadronid.net^
-||primis.tech^
-||privacymanager.io^
-||pubgw.yahoo.com^
 ! YHDMP.live
 ||kjnmwr.xyz^
+! YINGSX.com
+||wap.yingsx.com/css/home.gif
+||wap.yingsx.com/js/yingsx.js
 ! YOUTUBE.com
 ||m.youtube.com/static/r/
 ! ZHIHU.com
 ||api.zhihu.com/distribute/rhea/qa_ad_card/h5/recommendation
-||pic3.zhimg.com/v2-
-|static.zhihu.com/heifetz/column.GoodsRecommendGoodsCardList.
+||pic*.zhimg.com/v2-
+||static.zhihu.com/heifetz/column.GoodsRecommendGoodsCardList.
 
 !-------- 🐾Novels --------
 ! THE FAST FOOD
 ||100ytrf.com^
 ||1102yh.com^
-||api.$domain=m.biquge365.net
-||cdn.$domain=m.biquge365.net
 ||fds-1230.cc^
 ||goodtj.xyz^
 ||hkbzl.hk^
-||libs.baidu.com/jquery/1.4.2/jquery.min.js
 ||lllyt.paradisemall.net/cdn/
-||m.linlida.net/xxgg/common.js
-||m.qishuta.la/js/qishuta.js
-||m.wxsy.net/images/down.jpg
-||m.wxsy.net/js/detail.js
-||m.wxsy.net/rule.json
 ||mobixc.
-||p6.toutiaoimg.com/origin/pgc-image/
-||pic.rmb.bdstatic.com/bjh/$domain=m.biquge365.net
 ||sdk.wenkans.xyz/template/2/info/pokg.woff
 ||srnov.top^
-||tt.ishuquge.org^
-||v09.xyz^
-||wap.ishuquge.org/js/ishuquge.js
-||wap.yingsx.com/css/home.gif
-||wap.yingsx.com/js/yingsx.js
 ||x3zy2.icu^
 ||xiedao.hk^
 ||xjwtboz.cn^
-||yhw.$domain=wxzw.cc
 
 !-------- 🐾Porn&Gaming --------
 ! 146.19.24.47
@@ -222,6 +230,8 @@ userupload.net##.btn-danger.btn
 ||tong.8888888888.bid/matomo.js
 ||yd.kjshenghuo.com/Distribute/Distribute_d/butterfly/
 ! 18COMIC.org
+/static/resources/files/XR_15_
+/media/albums/35_c50b.jpg
 /static/resources/files/*.gif
 /static/resources/images/$image
 /templates/frontend/airav/css/style_blog.css
@@ -229,21 +239,17 @@ userupload.net##.btn-danger.btn
 /templates/frontend/airav/js/jquery.*_
 18comic.org,18comic.vip,jmcomic.rocks,jmcomic1.group##.bot-per-back,.bot-per-times
 ! 91PORNY.com
+.com/manifest.json
 /cloudflare-static/email-decode.min.js
-/manifest.json$domain=91porny.com|9ses.com
 /static/css/91captions.vtt
 ||cdn.jsdelivr.net/gh/dizhi91/jiuse@1.5/lazyload.js
 ||int.jstatic.xyz/happy/newyear/
 ||66667aaa.com^
-||aliyuncs.com^$domain=91porny.com|9ses.com
 ||azks.cc/gg/123.gif
 ||gtm-a3b8.com^
 ||i5jh6b.cc^
 ||img.8616a.com^
 ||img.gs3jro.xyz^
-||kvegg.com^
-||n18081.com^
-||p6.toutiaoimg.com^$domain=91porny.com|9ses.com
 ||sj.migmhvk.cn/sejie/240X140.gif
 91porny.com,9ses.com##.col-sm,.mobile-adv-close,.mobile-adv-content
 ! AQDLT.tv
@@ -271,7 +277,6 @@ userupload.net##.btn-danger.btn
 ||img.bigcloud.cyou/pic/
 ||img.bigcloud.cyou/x1/
 ! MISSAV.com
-||img.strpst.com^
 ||static.missav.com/partners/
 ! JABLE.tv
 ||assetscdn.jable.tv/assets/images/uu/
@@ -290,21 +295,23 @@ userupload.net##.btn-danger.btn
 ||mresou.com^
 ||yfled888.com^
 mhzzz.xyz###hfad
-! MRCONG.com
-||connect.facebook.net/*/sdk.js
 ! PORNFIND.org
 /images/friend/0/
 ! QINAV.com
 ||diskaa.com^
 ! SPANKBANG.com
-||cdn.strpst.com^
-||static-cdn.strpst.com^
 ||stream.highwebmedia.com^
 ! UVOD.tv
 ||14tv.com^
 ! YINGAV.com
-/cdn-cgi/apps/body/$domain=yingav.com|yingav2.com
-/images/content/spot01.jpg$domain=yingav.com|yingav2.com
+.com/cdn-cgi/apps/body/
+.com/images/content/spot01.jpg
+! ZZTT??.com
+/new/usr/20230128/2023012818102791804.png
+/upload/usr/20230217/2023021710062337912.png
+/upload/usr/20230308/2023030812560924657.png
+/upload/usr/20230308/2023030810392595345.png
+
 
 
 
