@@ -3,7 +3,7 @@
 •Supplemental rules of [1hosts (Lite)](https://github.com/badmojr/1Hosts/)  
 •Mainly target for Chinese mobile sites  
 ▸ **Primary url**  
-**https://raw.githubusercontent.com/Lky777/MWCP/main/shadowcat.txt**  
+**https://raw.githubusercontent.com/Lky777/MWCP/main/PrivacyMask.txt**  
 
 ▸ **Alt url mirror**  
 **N/A**   
