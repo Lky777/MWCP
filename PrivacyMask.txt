@@ -1,0 +1,321 @@
+[Adblock Plus 2.0]
+! Title: PrivacyMask
+! Description: Privacy Protection Rules
+! Version: 3.0320.1
+! Expires: 31 days
+! Homepage: https://github.com/Lky777/MWCP
+
+!---------------- Broken Fixes ----------------
+! XBrowser rule import tool 
+@@||ad.net^$domain=anti-ad.net
+
+!---------------- 1Hosts(Lite) Fixes ----------------
+! only effect in XBrowser
+@@||m.qulishi.com^$domain=qulishi.com
+@@||openinstall.io^$domain=openinstall.io
+||openinstall.io^$third-party
+
+!---------------- General ----------------
+*$ping
+!*$third-party,domain=~bing.com|~gamersky.com|~github.com|~play.google.com
+##+js(nowebrtc)
+! 0XZX.com
+/wp-content/plugins/better-adsmanager/
+! 163.com
+163.com##.backflow-floating.js-open-app
+! 88HD.com
+/template/wap88ysw/jk/toubu.js
+88hd.com###div.mobile-adv.mobile-adv-bottom
+! 97 FILM
+||api.edikl.com^
+.com/jquery1.7.1.js
+.com/jquery1.8.1.js
+.com/jquery1.2.js
+! A2ZAPK.com
+||a2zapk.com/images/SocialIcon/
+educatiocenter.online###modalpop
+educatiocenter.online###modalpop-content
+! APKMIRROR.com
+/wp-content/plugins/AppManager/js/appmanager.js
+||g.ezoic.net^
+||gstatic.com/0emn/
+! ARSTECHNICA.com
+.ads.
+||cdn.cookielaw.org^
+||d2c8v52ll5s99u.cloudfront.net^
+||dp8hsntg6do36.cloudfront.net^
+||dwgyu36up6iuz.cloudfront.net^
+||geolocation.onetrust.com^
+||player.cnevids.com^
+||s0.2mdn.net^
+! BAIDU
+||bj.bcebos.com/fc-image/
+||cpro.baidustatic.com/cpro/
+||dhn.135320.com^
+||fc*tn.baidu.com/it/
+||imgsrc.baidu.com/forum/pic/item/
+! BING.com
+||img04.sogoucdn.com^
+cn.bing.com###bnp_container
+! BIQUGE365.net
+||cdn.$domain=m.biquge365.net
+||js.cc-316.cc^
+||p6.toutiaoimg.com/origin/pgc-image/
+||pic.rmb.bdstatic.com/bjh/$domain=m.biquge365.net
+api.simi*.
+! CNET.com
+||inline.cnet.com/api/au/
+! COCOMANGA.com
+||cocomanga.com/js/a_d/
+||cocomanga.com/static/
+||juhqtxze.com^
+||reapinject.com^
+! CSDN.net
+||aeu.alicdn.com/waf/antidomxss_v640.js
+||g.csdnimg.cn/asdf/1.0.9/trackad.js
+||g.csdnimg.cn/common/csdn-report/report.js
+||g.csdnimg.cn/debug/1.0.0/debug.js
+||g.csdnimg.cn/login-box/1.0.4/login-auto.js
+||img-home.csdnimg.cn/data_json/toolbar/toolbar1105.json
+||rabc*.iteye.com^
+||redisdatarecall.csdn.net/recommend/
+||s3a.pstatp.com/toutiao/push.js
+! DOUYU.com
+||m.douyu.com/api/search/getTodayTop
+||shark2.douyucdn.cn/front-publish/m-douyu-v3-master/assets/images/
+douyu.com##.DownloadBtn
+! GAMERSKY.com
+gamersky_*origin_$image,domain=gamersky.com
+icon.jpg$image,domain=gamersky.com
+icon01.jpg$image,domain=gamersky.com
+||cm1.gamersky.com/apirating/
+||db5.gamersky.com^
+||image.gamersky.com/webimg13/wap/2021/APP-ICON@3x.png
+||image.gamersky.com/webimg13/web/h5/icon/
+||j.gamersky.com/app/js/
+||j.gamersky.com/common/tg/allsite.tg.monitor.wap.js
+||j.gamersky.com/g/gamersky.guop.cps.js
+||j.gamersky.com/g/gsAppJsApi.
+||j.gamersky.com/static/api/js/share.js
+||j.gamersky.com/wap/css/new/content/oldstyle.css
+||j.gamersky.com/wap/js/gs/
+||j.gamersky.com/wap/js/new/QZnav_Wap_Login.js
+||j.gamersky.com/wap/js/share.js
+||j.gamersky.com/zq/db/pokewiki/js/gsAppWebAPI.js
+||yeyou-cps.gamersky.com^
+gamersky.com##.gsTgWapConBdshareTopBox,.phoneGame,.ymw-footer,.ymw-header2019,.ymw-logo,.ymw-rel-list,.ymwBootDownload.ymw-header2021
+!gamersky.com##.ymw-hot-h5-game.ymw-aside-box.ymw-rel-mgame
+! GIMY.one
+||marineingredientinevitably.com^
+! GOOGLE
+||googletagmanager.com^
+||pagead2.googlesyndication.com^
+! ISHUQUGE.org
+||wap.ishuquge.org/*/*.js
+||ishuquge.org^$third-party
+||9odes.ltd^
+||bozhou666.com^
+||libs.baidu.com/jquery/1.4.2/jquery.min.js
+||v09.xyz^
+@@||shuquge.org/js/comm.js
+! ITHOME.com
+||ithome.com/js/common/jump-app.min.js?
+||ithome.com/js/common/nativeshare.min.js
+||ithome.com/js/common/share-sdk.min.js?
+||ithome.com/json/manifest.json?
+||ithome.com/static/api/js/share.js?
+||img.ithome.com/img/soft/zhm.svg
+||mtimg.ruanmei.com/images/mytime.svg
+ithome.com##.footer,.open-app-banner,.open-app-a[aria-label='打开APP']
+! JIANSHU.com
+||695ljg.com^
+||69mok.com^
+||brssp.ibreader.com^
+||ddgjjj.com^
+||jianshu.com/asimov/notes/seo_recommendations
+! JUEJIN.cn
+juejin.cn##.open-button.app-open-button
+! LANZOU?.com
+||d.woozooo.com/leep.html
+! LINLIDA.net
+||m.linlida.net/xxgg/common.js
+! MANHUAREN.com
+||css219sg.cdndm5.com/v202208091111/manhuaren/images/lb-img-m-1.png
+||css219sg.cdndm5.com/v202208091111/manhuaren/js/mobile/comics_mb.js
+||css219sg.cdndm5.com/v202208091111/manhuaren/images/mobile/guide-1.png
+! MANMANJU.com
+||m.manmanju.com/mg/show2.js
+! MAOFLY.com
+||lm.inszoo.com^
+! MYDRIVER.com
+dangbei_$image
+/kkjapp_down.$image
+! MYQQJD.com
+||ads.reddit.com^
+||lpgh.huilingxiu.com^
+! QISHUTA.la
+||m.qishuta.la/js/qishuta.js
+! QQ.com
+||mat1.gtimg.com^
+||pp.myapp.com^
+||v.qq.com/thumbplayer-offline-log.html
+fp.js$script,domain=file.myqcloud.com
+universal-report.min.js
+! QQSZZ.com
+||qqszz.com/wp-content/uploads/2021/01/2021011511533373.png
+! QULISHI.com
+||c.qulishi.com/latestTime/
+||sbbd1.qulishi.com^
+||staticfile.qulishi.com/common/mbfeedback.js
+||staticfile.qulishi.com/qulishi/theme2/js/gugajs/bdgg.js?
+! QWANT.com
+||qwant.com/en.5c248bbd.svg
+! RARBG
+/static/20/js/expla95.js
+/static/20/js/showads.js
+! SINA.cn
+||adyounger.com^
+||jituofuture.com^
+! SMZDM.com
+smzdm.com##.footer-banner-wrap[data-v-0db24cb2]
+! SSPAI.com
+||cdn-static.sspai.com/ui/logo/logo_sspai_icon.png
+sspai.com###btn-call-app
+! TXRJY.com
+/source/plugin/c114_indexnew/images/ad_
+txrjy.com##.is-shown.OpenInAppButton
+! USERUPLOAD.net
+userupload.net##.btn-danger.btn
+! WEEKENDHK.com
+||weekendhk.com/wp-content/themes/bucket/theme-content/images/
+! WXSY.net
+||wxsy.net/images/down.jpg
+||wxsy.net/js/detail.js
+||m.wxsy.net/rule.json
+wxsy.net##.show-app2
+! WXZW.cc
+/sh/816.js
+||wxzw.cc/js/cont.js
+||wxzw.cc/js/new.js
+||yhw.$domain=wxzw.cc
+! XDA-DEVELOPERS.com
+! YHDMP.live
+||kjnmwr.xyz^
+! YINGSX.com
+||wap.yingsx.com/css/home.gif
+||wap.yingsx.com/js/yingsx.js
+! YOUTUBE.com
+||m.youtube.com/static/r/
+! ZHIHU.com
+||api.zhihu.com/distribute/rhea/qa_ad_card/h5/recommendation
+||pic*.zhimg.com/v2-
+||static.zhihu.com/heifetz/column.GoodsRecommendGoodsCardList.
+
+!-------- Novels --------
+! THE FAST FOOD
+||100ytrf.com^
+||1102yh.com^
+||fds-1230.cc^
+||goodtj.xyz^
+||hkbzl.hk^
+||lllyt.paradisemall.net/cdn/
+||mobixc.
+||sdk.wenkans.xyz/template/2/info/pokg.woff
+||srnov.top^
+||x3zy2.icu^
+||xiedao.hk^
+||xjwtboz.cn^
+
+!---------------- Porn&Gaming ----------------
+! 146.19.24.47
+||nfwgw.com^
+||tong.8888888888.bid/matomo.js
+||yd.kjshenghuo.com/Distribute/Distribute_d/butterfly/
+! 18COMIC.org
+/static/resources/files/XR_15_
+/media/albums/*_*b.jpg
+/static/resources/files/*.gif
+/static/resources/images/$image
+/templates/frontend/airav/css/style_blog.css
+/templates/frontend/airav/css/style_game.css
+/templates/frontend/airav/js/jquery.*_
+18comic.org,18comic.vip,jmcomic.rocks,jmcomic1.group##.bot-per-back,.bot-per-times
+! 91PORNY.com
+.com/manifest.json
+/cloudflare-static/email-decode.min.js
+/static/css/91captions.vtt
+||cdn.jsdelivr.net/gh/dizhi91/jiuse@1.5/lazyload.js
+||int.jstatic.xyz/happy/newyear/
+||66667aaa.com^
+||azks.cc/gg/123.gif
+||gtm-a3b8.com^
+||i5jh6b.cc^
+||img.8616a.com^
+||img.gs3jro.xyz^
+||sj.migmhvk.cn/sejie/240X140.gif
+91porny.com,9ses.com##.col-sm,.mobile-adv-close,.mobile-adv-content
+! AQDLT.tv
+||static.pgcm58.com/files/h5/appdownv4.js
+||static.pgcm58.com/files/h5/kadvs.js
+||static.pgcm58.com/files/h5/videoRandom.js
+||xcdn.rltdxt.com^
+! FULI35.lv
+||3366812ccc.com^
+||fuli35.lv/action/
+/usr/plugins/TleBarrager/resource/css/barrager.css
+/usr/plugins/TleBarrager/resource/js/jquery.barrager.js
+/usr/themes/Mirages/css/7.10.1/toscreen.css
+/usr/themes/Mirages/js/7.10.1/toscreen.js
+/usr/themes/Mirages/static/layer351/theme/default/layer.css
+/usr/uploads/2022/11/2621166575.jpg
+/usr/uploads/2022/12/1665484672.jpg
+/usr/uploads/2022/12/3171292060.jpg
+/usr/uploads/2023/01/2440903537.jpg
+/usr/uploads/2023/01/3279542650.jpg
+/usr/uploads/2023/01/362533573.jpg
+! HOT-SEX-PHOTOS.com
+||analytics.truyen-hentai.com^
+! HSEX.tv
+||img.bigcloud.cyou/pic/
+||img.bigcloud.cyou/x1/
+! MISSAV.com
+||static.missav.com/partners/
+! JABLE.tv
+||assetscdn.jable.tv/assets/images/uu
+! MANGAFORFREE.net
+! MANHWA18.cc
+||manhwa18.cc/api/notification
+||manhwa18.cc/main2022/main05er.php
+! MHZZZ.xyz
+.gif$domain=static01.top|static04.top
+||2599qq.com^
+||93261587768.com^
+||chinainqredient.com^
+||eajgm.com^
+||easysavemore.com^
+||huishuiyin.com^
+||ifengsong888.com^
+||mresou.com^
+||yfled888.com^
+mhzzz.xyz###hfad
+! PORNFIND.org
+/images/friend/0/
+! QINAV.com
+||diskaa.com^
+! SPANKBANG.com
+||stream.highwebmedia.com^
+! UVOD.tv
+||14tv.com^
+! YINGAV.com
+.com/cdn-cgi/apps/body/
+.com/images/content/spot01.jpg
+! ZZTT??.com
+/new/usr/20230128/2023012818102791804.png
+/upload/usr/20230217/2023021710062337912.png
+/upload/usr/20230308/2023030812560924657.png
+/upload/usr/20230308/2023030810392595345.png
+
+
+
+
+
