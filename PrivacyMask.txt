@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Title: PrivacyMask
+! Title: PrivacyMask
 ! Description: Privacy Protection Rules
-! Version: 3.0320.1
+! Version: 3.0401.1
 ! Expires: 31 days
 ! Homepage: https://github.com/Lky777/MWCP
 
@@ -16,7 +16,7 @@
 ||openinstall.io^$third-party
 
 !---------------- General ----------------
-*$ping
+!*$ping
 !*$third-party,domain=~bing.com|~gamersky.com|~github.com|~play.google.com
 ##+js(nowebrtc)
 ! 0XZX.com
@@ -150,6 +150,7 @@ juejin.cn##.open-button.app-open-button
 ! MYDRIVER.com
 dangbei_$image
 /kkjapp_down.$image
+||img1.kkeji.com/img/2005/
 ! MYQQJD.com
 ||ads.reddit.com^
 ||lpgh.huilingxiu.com^
