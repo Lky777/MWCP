@@ -1,21 +1,36 @@
 127.0.0.1       localhost
 ::1             ip6-localhost
 
-## - v3.0304.1
+## 🎭 PrivacyMask
+## Version: 3.0411.1
 ##
-##------🐾163 ------
+##----------🐾163 ----------
 127.0.0.1 crash.163.com
-##
-##------🐾BYTEDANCE ------
+##----------🐾ADCOLONY ----------
+127.0.0.1 adc3-launch-staging.adcolony.com
+127.0.0.1 wd.adcolony.com
+##----------🐾ADTILT ----------
+127.0.0.1 adc-ad-assets.adtilt.com
+##----------🐾BYTEDANCE ----------
+127.0.0.1 api16-access-sg.pangle.io
 127.0.0.1 apmlog.snssdk.com
 127.0.0.1 gromore.pangolin-sdk-toutiao.com
+127.0.0.1 lf-hs-sg.ibytedtos.com
+127.0.0.1 log.sgsnssdk.com
+127.0.0.1 log-mva.isnssdk.com
 127.0.0.1 sf3-ttcdn-tos.pstatp.com
 127.0.0.1 sf6-ttcdn-tos.pstatp.com
-##
-##------🐾flurry ------
+127.0.0.1 sf16-static.i18n-pglstatp.com
+127.0.0.1 sf16-scmcdn-sg.ibytedtos.com
+##----------🐾FLURRY ----------
 127.0.0.1 data.flurry.com
-##
-##------🐾qq.com ------
+##----------🐾GOOGLE ----------
+127.0.0.1 firebase.google.com
+127.0.0.1 googlemobileadssdk.page.link
+127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 www.app-measurement.com
+127.0.0.1 www.googleadservices.com
+##----------🐾qq.com ----------
 127.0.0.1 aegis.qq.com
 127.0.0.1 beacon.cdn.qq.com
 127.0.0.1 h.trace.qq.com
@@ -30,7 +45,6 @@
 127.0.0.1 rpt.gdt.qq.com
 127.0.0.1 staticfile.qq.com
 127.0.0.1 v.gdt.qq.com
-##
-##------🐾UMENG ------
+##----------🐾UMENG ----------
 127.0.0.1 errnewlog.umeng.com
 127.0.0.1 errnewlogos.umeng.com
