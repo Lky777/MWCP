@@ -16,17 +16,25 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: 创建规则目录
+        run: mkdir -p rules
+
       - name: 下载并处理规则
         run: |
           set -e
-          curl -fsSL "https://easylist-downloads.adblockplus.org/easylistchina.txt" | grep -Ev "##|#@#|#?#" > EasylistChina_NoEle.txt
-          echo "规则数量: $(wc -l < EasylistChina_NoEle.txt)"
+          curl -fsSL "https://easylist-downloads.adblockplus.org/easylistchina.txt" -o temp.txt || exit 1
+          grep -Ev "##|#@#|#?#" temp.txt > rules/EasylistChina_NoEle.txt
+          rm temp.txt
+          echo "规则数量: $(wc -l < rules/EasylistChina_NoEle.txt)"
 
       - name: 提交更改
-        if: "! git diff --quiet --exit-code"
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add EasylistChina_NoEle.txt
-          git commit -m "自动更新广告规则 $(date +'%Y-%m-%d')"
-          git push origin main
+          git add rules/EasylistChina_NoEle.txt
+          if ! git diff --cached --quiet; then
+            git commit -m "自动更新广告规则 $(date +'%Y-%m-%d')"
+            git push origin main
+          else
+            echo "没有变化，无需提交"
+          fi
