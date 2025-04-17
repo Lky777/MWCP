@@ -3,6 +3,7 @@ name: 每日更新广告过滤规则
 on:
   schedule:
     - cron: "0 15 * * *"  # 每天 UTC 时间 14:00（北京时间 22:00）
+  workflow_dispatch:  # 允许手动触发
 
 jobs:
   update-filter:
@@ -12,45 +13,88 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0  # 获取完整历史记录，便于 git 操作
 
-      - name: 创建规则目录
-        run: mkdir -p rules
-
-      - name: 下载规则
+      - name: 设置工作目录
         run: |
-          echo "开始下载规则文件..."
+          mkdir -p rules
+          echo "规则目录已创建"
+
+      - name: 下载规则文件
+        id: download
+        run: |
+          echo "🔄 开始下载规则文件..."
           if ! curl -fsSL "https://easylist-downloads.adblockplus.org/easylistchina.txt" -o rules/easylistchina.txt; then
             echo "::error::下载失败！"
             exit 1
           fi
-          echo "下载完成，文件大小: $(du -h rules/easylistchina.txt | cut -f1)"
+          filesize=$(du -h rules/easylistchina.txt | cut -f1)
+          echo "✅ 下载完成，文件大小: $filesize"
+          echo "original_size=$filesize" >> $GITHUB_OUTPUT
 
       - name: 处理规则
+        id: process
         run: |
-          echo "处理规则文件中..."
-          # 移除元素隐藏规则
-          grep -Ev "#[#@$?]|!#" rules/easylistchina.txt > rules/EasylistChina_NoEle.txt
-          # 添加文件头说明
-          echo "! 最后更新时间: $(date +'%Y-%m-%d %H:%M:%S')" | cat - rules/EasylistChina_NoEle.txt > rules/temp && \
-          mv rules/temp rules/EasylistChina_NoEle.txt
+          echo "🔧 开始处理规则文件..."
           
-          echo "规则统计信息:"
-          wc -l rules/EasylistChina_NoEle.txt
-          echo "处理完成"
+          # 计算原始行数
+          original_lines=$(wc -l < rules/easylistchina.txt)
+          
+          # 处理规则
+          grep -Ev "#[#@$?]|!#" rules/easylistchina.txt > rules/EasylistChina_NoEle.txt
+          
+          # 添加文件头
+          {
+            echo "! 标题: EasylistChina 简化版"
+            echo "! 描述: 移除了元素隐藏规则"
+            echo "! 最后更新时间: $(date +'%Y-%m-%d %H:%M:%S') (UTC)"
+            echo "! 原始规则行数: $original_lines"
+            cat rules/EasylistChina_NoEle.txt
+          } > rules/temp && mv rules/temp rules/EasylistChina_NoEle.txt
+          
+          # 计算处理后行数
+          processed_lines=$(wc -l < rules/EasylistChina_NoEle.txt)
+          removed_lines=$((original_lines - processed_lines))
+          
+          echo "📊 规则统计:"
+          echo "原始行数: $original_lines"
+          echo "处理后行数: $processed_lines"
+          echo "移除行数: $removed_lines"
+          
+          echo "::set-output name=original_lines::$original_lines"
+          echo "::set-output name=processed_lines::$processed_lines"
 
-      - name: 推送更新
+      - name: 提交更新
+        id: commit
         run: |
+          # 配置 git
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           
-          echo "检查文件变更..."
+          echo "🔍 检查变更..."
           git add rules/
           
           if git diff-index --quiet HEAD --; then
-            echo "没有变化需要提交"
+            echo "🔄 没有检测到变更，无需提交"
+            echo "::set-output name=has_changes::false"
           else
-            echo "检测到变更，准备提交..."
-            git commit -m "自动更新: 广告过滤规则 [$(date +'%Y-%m-%d')]"
+            echo "📌 检测到变更，准备提交..."
+            commit_msg="自动更新: 广告过滤规则 [$(date +'%Y-%m-%d')]
+            - 原始规则行数: ${{ steps.process.outputs.original_lines }}
+            - 处理后行数: ${{ steps.process.outputs.processed_lines }}"
+            
+            git commit -m "${commit_msg}"
             git push
-            echo "更新已推送"
+            echo "✅ 更新已推送"
+            echo "::set-output name=has_changes::true"
           fi
+
+      - name: 输出结果摘要
+        if: always()
+        run: |
+          echo "📝 工作流执行摘要:"
+          echo "下载文件大小: ${{ steps.download.outputs.original_size }}"
+          echo "原始规则行数: ${{ steps.process.outputs.original_lines }}"
+          echo "处理后规则行数: ${{ steps.process.outputs.processed_lines }}"
+          echo "是否有变更提交: ${{ steps.commit.outputs.has_changes }}"
+          echo "工作流运行时间: $(date)"
