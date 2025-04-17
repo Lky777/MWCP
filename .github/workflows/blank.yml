@@ -1,30 +1,39 @@
-name: Upload to Repository
+name: 每日更新广告过滤规则
 
 on:
   schedule:
-    - cron: "0 18 * * *"
+    - cron: "0 18 * * *"  # 每天 UTC 时间 18:00（北京时间凌晨2点）
 
 jobs:
-  upload:
+  update-filter:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
-    
-    # 创建或修改文件
-    - name: Create file
-      run: curl "https://easylist-downloads.adblockplus.org/easylistchina.txt" > test.txt
- 
-   - name: Run a multi-line script
-     run: |
-       chmod +x ./test.txt
-       cat test.txt
-       grep -v "#" test.txt > EasylistChina_NoEle.txt
+      # 1. 检出仓库（带推送权限）
+      - name: 检出代码
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}  # 必须加 token 才能推送
 
-    # 提交更改
-    - name: Commit and push
-      run: |
-        git config --global user.name "Lky777"
-        git config --global user.email "gyj678@gmail.com"
-        git add EasylistChina_NoEle.txt.txt
-        git commit -m "Add EasylistChina_NoEle.txt"
-        git push
+      # 2. 下载 Easylist China 规则
+      - name: 下载规则
+        run: |
+          curl -fsSL "https://easylist-downloads.adblockplus.org/easylistchina.txt" -o test.txt
+          if [ ! -s test.txt ]; then
+            echo "下载失败！"
+            exit 1
+          fi
+
+      # 3. 处理规则（移除注释行）
+      - name: 移除注释
+        run: |
+          grep -v "^#" test.txt > EasylistChina_NoEle.txt
+          wc -l EasylistChina_NoEle.txt  # 统计行数
+
+      # 4. 提交更改
+      - name: 推送更新
+        run: |
+          git config --global user.name "Lky777"
+          git config --global user.email "gyj678@gmail.com"
+          git add EasylistChina_NoEle.txt
+          git commit -m "自动更新: 移除注释后的广告过滤规则 [$(date +'%Y-%m-%d')]"
+          git push
