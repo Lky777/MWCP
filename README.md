@@ -18,7 +18,7 @@
 ### 📥 订阅方式
 ```markdown
 https://fastly.jsdelivr.net/gh/Lky777/MWCP/rules/MobiListChina.txt
-```. 
+``` 
 
 ## 📚 规则来源
 - [Easylist](https://easylist-downloads.adblockplus.org/easylist.txt)  
