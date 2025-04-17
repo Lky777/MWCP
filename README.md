@@ -17,9 +17,9 @@
 
 ### 📥 订阅方式
 ```markdown
-   `https://fastly.jsdelivr.net/gh/.../MobiListChina.txt`
+https://fastly.jsdelivr.net/gh/Lky777/MWCP/rules/MobiListChina.txt
 ```
-
+https://fastly.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule/rule.txt
 ## 📚 规则来源
 - [Easylist](https://easylist-downloads.adblockplus.org/easylist.txt)  
 - [EasyPrivacy](https://easylist.to/easylist/easyprivacy.txt)  
