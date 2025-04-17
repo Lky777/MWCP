@@ -1,17 +1,30 @@
-name: TEST
+name: Upload to Repository
 
 on:
-
   schedule:
     - cron: "0 18 * * *"
 
-  workflow_dispatch:
-
+jobs:
+  upload:
     runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    
+    # 创建或修改文件
+    - name: Create file
+      run: curl "https://easylist-downloads.adblockplus.org/easylistchina.txt" > test.txt
+ 
+   - name: Run a multi-line script
+     run: |
+       chmod +x ./test.txt
+       cat test.txt
+       grep -v "#" test.txt > EasylistChina_NoEle.txt
 
-      - uses: actions/checkout@v4
-
-      - name: Run a multi-line script
-        run: |
-          chmod +x ./test.sh
-          ./test.sh
+    # 提交更改
+    - name: Commit and push
+      run: |
+        git config --global user.name "Lky777"
+        git config --global user.email "gyj678@gmail.com"
+        git add EasylistChina_NoEle.txt.txt
+        git commit -m "Add EasylistChina_NoEle.txt"
+        git push
