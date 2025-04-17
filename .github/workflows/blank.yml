@@ -1,0 +1,17 @@
+name: TEST
+
+on:
+
+  schedule:
+    - cron: "0 18 * * *"
+
+  workflow_dispatch:
+
+    runs-on: ubuntu-latest
+
+      - uses: actions/checkout@v4
+
+      - name: Run a multi-line script
+        run: |
+          chmod +x ./test.sh
+          ./test.sh
