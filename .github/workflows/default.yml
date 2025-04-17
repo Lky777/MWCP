@@ -2,7 +2,7 @@ name: 广告过滤规则每日更新
 
 on:
   schedule:
-    - cron: "0 15 * * *"  # 每天UTC时间15:00运行（北京时间23:00）
+    - cron: "0 15 * * *"
   workflow_dispatch:
 
 permissions:
@@ -13,117 +13,46 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - name: 创建规则目录
-        run: mkdir -p rules
-
-      - name: 下载并处理规则文件
+      
+      - name: 下载并合并规则
         run: |
           set -euo pipefail
+          mkdir -p rules
           
-          # 定义规则源和输出文件
-          declare -A RULE_SOURCES=(
-            ["EasylistChina_NoEle"]="https://easylist-downloads.adblockplus.org/easylistchina.txt"
-            ["CJX-annoyance"]="https://fastly.jsdelivr.net/gh/cjx82630/cjxlist/CJX-annoyance.txt"
-            ["easylist_noelemhide"]="https://easylist-downloads.adblockplus.org/easylist_noelemhide.txt"
-            ["EasyPrivacy"]="https://filters.adtidy.org/extension/chromium/filters/118_optimized.txt"
-            ["Xinggsf"]="https://fastly.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule/rule.txt"
+          # 定义规则源数组
+          sources=(
+            "EasylistChina_NoEle|https://easylist-downloads.adblockplus.org/easylistchina.txt"
+            "CJX-annoyance|https://fastly.jsdelivr.net/gh/cjx82630/cjxlist/CJX-annoyance.txt"
+            "EasyPrivacy|https://filters.adtidy.org/extension/chromium/filters/118_optimized.txt"
+            "Xinggsf|https://fastly.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule/rule.txt"
           )
           
-          # 下载并处理每个规则文件
-          for rule_name in "${!RULE_SOURCES[@]}"; do
-            url="${RULE_SOURCES[$rule_name]}"
-            output_file="rules/${rule_name}.txt"
-            
-            echo "正在处理 ${rule_name} 规则..."
-            echo "下载URL: ${url}"
-            
-            if ! curl -fsSL "${url}" -o temp.txt; then
-              echo "::warning::下载 ${rule_name} 规则失败"
-              continue
-            fi
-            
-            # 处理规则内容
-            grep -Ev "!|##|#@#|#\?#" temp.txt > "${output_file}" || true
-            rm -f temp.txt
-            
-            rule_count=$(wc -l < "${output_file}")
-            echo "${rule_name} 规则数量: ${rule_count}"
+          # 并行下载和处理规则
+          for item in "${sources[@]}"; do
+            IFS='|' read -r name url <<< "$item"
+            (curl -fsSL "$url" | grep -Ev "!|##|#@#|#\?#" > "rules/$name.txt" || true) &
           done
-
-      - name: 合并所有规则文件
-        run: |
-          set -euo pipefail
+          wait
           
-          # 配置参数
-          OUTPUT_FILE="rules/MobiListChina.txt"
-          TIMESTAMP=$(date -u +"%d %b %Y %H:%M UTC")
-          EXPIRES_DATE=$(date -u -d "+1 day" +"%d %b %Y %H:%M UTC")
+          # 生成合并文件
+          {
+            echo "[Adblock Plus 2.0]"
+            echo "! Title: MobiListChina"
+            echo "! Description: mobile webpage filters"
+            echo "! Version: $(date +%Y%m%d%H%M)"
+            echo "! Last modified: $(date -u +"%d %b %Y %H:%M UTC")"
+            echo "! Expires: $(date -u -d "+1 day" +"%d %b %Y %H:%M UTC")"
+            echo "! Homepage: https://github.com/Lky777/MWCP/"
+            echo "! ---------------------------------"
+            cat rules/*.txt | grep -v '^!' | sort -u
+          } > rules/MobiListChina.txt
           
-          echo "开始合并规则文件..."
-          
-          # 创建头部信息
-          HEADER="[Adblock Plus 2.0]
-  ! Title: MobiListChina
-  ! Description: mobile webpage filters
-  ! Version: $(date +%Y%m%d%H%M)
-  ! Last modified: ${TIMESTAMP}
-  ! Expires: ${EXPIRES_DATE} (update frequency)
-  ! Homepage: https://github.com/Lky777/MWCP/
-  ! ---------------------------------
-  "
-          
-          # 创建临时文件用于合并
-          TEMP_FILE=$(mktemp)
-          
-          # 合并所有规则文件并去重
-          echo "正在合并规则文件..."
-          cat rules/*.txt | grep -v '^!' | sort -u > "${TEMP_FILE}"
-          
-          # 添加头部信息到最终文件
-          echo "添加头部信息..."
-          echo "${HEADER}" > "${OUTPUT_FILE}"
-          cat "${TEMP_FILE}" >> "${OUTPUT_FILE}"
-          
-          # 统计信息
-          TOTAL_RULES=$(wc -l < "${TEMP_FILE}")
-          echo "---------------------------------"
-          echo "合并完成!"
-          echo "最终规则数量: ${TOTAL_RULES}"
-          echo "头部信息预览:"
-          head -n 10 "${OUTPUT_FILE}"
-          
-          # 清理临时文件
-          rm -f "${TEMP_FILE}"
-          echo "临时文件已清理"
+          echo "规则数量: $(grep -v '^!' rules/MobiListChina.txt | wc -l)"
 
       - name: 提交更改
+        if: "!contains(steps.download.outcome, 'failure')"
         run: |
-          set -euo pipefail
-          
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          
-          # 检查是否有变化
-          if git diff --quiet --exit-code; then
-            echo "没有变化，无需提交"
-            exit 0
-          fi
-          
-          # 提交更改
           git add rules/MobiListChina.txt
-          git commit -m "自动更新广告规则 $(date +'%Y-%m-%d %H:%M')"
-          
-          # 尝试推送，最多重试3次
-          for i in {1..3}; do
-            if git push origin main; then
-              echo "推送成功"
-              break
-            else
-              echo "推送失败，尝试 ${i}/3"
-              sleep 5
-              git pull --rebase origin main
-            fi
-          done
+          git diff --cached --quiet || (git commit -m "自动更新广告规则 $(date +'%Y-%m-%d')" && git push)
