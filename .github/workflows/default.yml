@@ -1,0 +1,39 @@
+name: 每日更新广告过滤规则
+
+on:
+  schedule:
+    - cron: "0 14 * * *"  # 每天 UTC 时间 18:00（北京时间凌晨2点）
+
+jobs:
+  update-filter:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. 检出仓库（带推送权限）
+      - name: 检出代码
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}  # 必须加 token 才能推送
+
+      # 2. 下载 Easylist China 规则
+      - name: 下载规则
+        run: |
+          curl -fsSL "https://easylist-downloads.adblockplus.org/easylistchina.txt" -o test.txt
+          if [ ! -s test.txt ]; then
+            echo "下载失败！"
+            exit 1
+          fi
+
+      # 3. 处理规则（移除元素规则行）
+      - name: 移除元素规则
+        run: |
+          grep -v "^#" test.txt > EasylistChina_NoEle.txt
+          wc -l EasylistChina_NoEle.txt  # 统计行数
+
+      # 4. 提交更改
+      - name: 推送更新
+        run: |
+          git config --global user.name "Lky777"
+          git config --global user.email "gyj678@gmail.com"
+          git add EasylistChina_NoEle.txt
+          git commit -m "自动更新: 移除元素规则后的广告过滤规则 [$(date +'%Y-%m-%d')]"
+          git push
