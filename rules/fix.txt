@@ -1,0 +1,20 @@
+[adblock plus 2.0]
+! Title: private
+! Version: 20250418
+! Expires: 30 days (update rare)
+! Description: Adblock补充规则
+!---------------------------------------
+.com/static/js/action.js
+/cloudflare-static/email-decode.min.js
+/js/zzz.js
+!a2zapk
+a2zapk.io###modalpop
+!bilibili
+m.bilibili.com##.fixed-openapp
+!oschina
+|https://lf1-cdn-tos.bytegoofy.com/goofy/ttzz/push.js?
+oschina.net##div[name="detail_show_footer"]
+!ruanyifeng
+|https://www.ruanyifeng.com/blog/checker.js
+|https://www.ruanyifeng.com/blog/stats.js
+@@||bing.com/fd/ls/GLinkPing.aspx?
