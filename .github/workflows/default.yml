@@ -29,11 +29,11 @@ jobs:
           curl -fsSL "https://raw.githubusercontent.com/Lky777/MWCP/refs/heads/main/rules/fix.txt" -o rules/fixit.txt
 
           curl -fsSL "https://filters.adtidy.org/extension/chromium/filters/224.txt" -o temp1.txt && \
-            grep -Ev "!|##|#@#|#\?#" temp1.txt > rules/AdgCN.txt && \
+            grep -Ev "#" temp1.txt > rules/AdgCN.txt && \
             rm -f temp1.txt
 
           curl -fsSL "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt" -o temp2.txt && \
-            grep -Ev "!|##|#@#|#\?#" temp2.txt > rules/cjx.txt && \
+            grep -Ev "#" temp2.txt > rules/cjx.txt && \
             rm -f temp2.txt
 
       - name: Merge all rules
