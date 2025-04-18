@@ -22,7 +22,9 @@ jobs:
           # 定义规则源数组
           sources=(
             "EasylistChina_NoEle|https://easylist-downloads.adblockplus.org/easylistchina.txt"
-            "CJX-annoyance|https://fastly.jsdelivr.net/gh/cjx82630/cjxlist/CJX-annoyance.txt"
+            "CJX_annoyance|https://fastly.jsdelivr.net/gh/cjx82630/cjxlist/CJX-annoyance.txt"
+
+"Easylist_NoEle|https://easylist-downloads.adblockplus.org/easylist_noelemhide.txt"
             "EasyPrivacy|https://filters.adtidy.org/extension/chromium/filters/118_optimized.txt"
             "Xinggsf|https://fastly.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule/rule.txt"
           )
