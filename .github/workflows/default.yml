@@ -2,7 +2,7 @@ name: Ad Filters
 
 on:
   schedule:
-    - cron: "0 15 * * *"  # automatically runs at 15:00 UTC (23:00 Beijing Time, UTC+8)
+    - cron: "0 15 * * *"  # 每天 UTC 15:00 (北京时间 23:00)
   workflow_dispatch:
 
 permissions:
@@ -17,36 +17,29 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
       
-      - name: Download and merge rules
-        id: dl_merge_rules
+      - name: Download rules
         run: |
           set -eo pipefail
           mkdir -p rules
 
-          # Download and process EasylistChina
-          echo "→ Processing EasylistChina..."
-          curl -sSfL https://easylist-downloads.adblockplus.org/easylistchina.txt -o tmp.txt
-          grep -Ev "!|##|#@#|#\?#" tmp.txt > rules/EasylistChina_NoEle.txt
-          rm -f tmp.txt
+          # Download and process each filter
+          curl -fsSL "https://easylist-downloads.adblockplus.org/easylist_noelemhide.txt" -o rules/Easylist_NoEle.txt
+          curl -fsSL "https://filters.adtidy.org/extension/chromium/filters/118_optimized.txt" -o rules/EasyPrivacy.txt
+          curl -fsSL "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/refs/heads/master/rule.txt" -o rules/Xinggsf.txt
+          curl -fsSL "https://raw.githubusercontent.com/Lky777/MWCP/refs/heads/main/rules/fix.txt" -o rules/fixit.txt
 
-          # Rule sources configuration
-          declare -A sources=(
-            ["CJX_annoyance"]="https://fastly.jsdelivr.net/gh/cjx82630/cjxlist/CJX-annoyance.txt"
-            ["Easylist_NoEle"]="https://easylist-downloads.adblockplus.org/easylist_noelemhide.txt"
-            ["EasyPrivacy"]="https://filters.adtidy.org/extension/chromium/filters/118_optimized.txt"
-            ["Xinggsf"]="https://fastly.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule/rule.txt"
-          )
+          curl -fsSL "https://filters.adtidy.org/extension/chromium/filters/224.txt" -o temp1.txt && \
+            grep -Ev "!|##|#@#|#\?#" temp.txt > rules/AdgCN.txt && \
+            rm -f temp1.txt
 
-          # Download rules in parallel
-          echo "→ Downloading additional rules..."
-          for name in "${!sources[@]}"; do
-            url="${sources[$name]}"
-            (echo "  - Downloading $name..."; curl -fsSL "$url" -o "rules/$name.txt" || true) &
-          done
-          wait
+          curl -fsSL "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt" -o temp2.txt && \
+            grep -Ev "!|##|#@#|#\?#" temp.txt > rules/cjx.txt && \
+            rm -f temp2.txt
 
-          # Merge all rules
-          echo "→ Merging rules..."
+      - name: Merge all rules
+        id: merge_rules
+        run: |
+          echo "→ 合并规则..."
           {
             echo "[Adblock Plus 2.0]"
             echo "! Title: MobiListChina"
@@ -56,24 +49,28 @@ jobs:
             echo "! Expires: 1 day"
             echo "! Homepage: https://github.com/Lky777/MWCP/"
             echo "! ---------------------------------"
-            cat rules/*.txt | grep -v '^!' | sort -u
+            cat rules/*.txt | grep -v -e '^!' -e '^$' -e '^[[:space:]]*$' | sort -u
           } > rules/MobiListChina.txt
           
-          # Output rule count
-          rule_count=$(grep -v '^!' rules/MobiListChina.txt | wc -l)
-          echo "✓ Merged successfully! Total rules: $rule_count"
+          # 计算规则数
+          rule_count=$(grep -v -e '^!' -e '^$' -e '^[[:space:]]*$' rules/MobiListChina.txt | wc -l | awk '{print $1}')
+          echo "rule_count=$rule_count" >> $GITHUB_OUTPUT
+          echo "✓ 合并完成！规则总数: $rule_count"
+
+          # 安全清理
+          rm -f rules/AdgCN.txt rules/cjx.txt rules/Easylist_NoEle.txt rules/EasyPrivacy.txt rules/Xinggsf.txt
 
       - name: Commit changes
-        if: steps.dl_merge_rules.outcome == 'success'
+        if: steps.merge_rules.outcome == 'success'
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add rules/MobiListChina.txt
           
           if git diff --cached --quiet; then
-            echo "No changes to commit"
+            echo "无变化可提交"
           else
-            git commit -m "Auto-update ad filters $(date +'%Y-%m-%d')"
+            git commit -m "Auto-update: $(date -u +'%Y-%m-%d %H:%M UTC') - ${{ steps.merge_rules.outputs.rule_count }} rules"
             git push
-            echo "✓ Changes committed and pushed"
+            echo "✓ 变更已提交"
           fi
