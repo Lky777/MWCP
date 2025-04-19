@@ -1,26 +1,22 @@
 # 📱 移动端隐私防护
 
 ## 🌟 核心特性
-- **🚀 轻量化设计**  
+ **🚀 轻量化设计**  
   精简规则集，浏览更流畅
-- **🔄 每日更新**  
+ **🔄 每日更新**  
   精准拦截，平均拦截率 > 95%
-- **📱 移动优先**  
+ **📱 移动优先**  
   针对移动端网页广告特别优化
 
 ## 🛠️ 使用指南
-- ✅ **Via/X浏览器**  
-- ✅ **ABP/uBlockO**扩展  
+ ✅ **Via/X**浏览器  
+ ✅ **ABP/uBlockO**扩展  
 
 ### 🔻订阅方式  
 
-📥 [**Jsdelivr加速**](https://fastly.jsdelivr.net/gh/Lky777/MWCP/rules/MobiListChina.txt)  
+- 📥 [**Jsdelivr加速**](https://fastly.jsdelivr.net/gh/Lky777/MWCP/rules/MobiListChina.txt)  
 
-📥 [**Git原始链接**](https://raw.githubusercontent.com/Lky777/MWCP/refs/heads/main/rules/MobiListChina.txt)  
-
-```plaintext
-https://fastly.jsdelivr.net/gh/Lky777/MWCP/rules/MobiListChina.txt
-``` 
+- 📥 [**Git原始链接**](https://raw.githubusercontent.com/Lky777/MWCP/refs/heads/main/rules/MobiListChina.txt)  
 
 ## 📚 规则来源
 - [Easylist](https://easylist-downloads.adblockplus.org/easylist.txt)  
