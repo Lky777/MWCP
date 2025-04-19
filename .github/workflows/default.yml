@@ -17,16 +17,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Install SVN
-        run: sudo apt-get install -y subversion
-
       - name: Init
         run: |
           set -eo pipefail
           mkdir -p rules
 
-      - name: Export easylist
-        run: svn export --force https://github.com/easylist/easylist/trunk/easylist rules/
+      - name: git clone easylist
+        run: git clone https://github.com/easylist/easylist.git rules/
 
       - name: Download additional rules 
         run: |
