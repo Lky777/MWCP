@@ -26,20 +26,20 @@ jobs:
       - name: Clone EasyList
         run: |
           git clone --depth 1 https://github.com/easylist/easylist.git
-          git clone --depth 1 https://github.com/easylist/easylist_adult.git
-
-      - name: Clear
-        run: |
           rm -f easylist/easylist_adservers.txt
           rm -f easylist/easylist_allowlist_general_hide.txt
           rm -f easylist/easylist_general_hide.txt
           rm -f easylist/easylist_specific_hide.txt
           rm -f easylist/easylist_specific_hide_abp.txt
-          rm -rf easylist_adult/adult_specific_hide.txt
           mv easylist/*.txt rules/
           mv easylist_adult/*.txt rules/
           rm -rf easylist/
-          rm -rf easylist_adult/
+
+#      - name: Clear
+#        run: |
+#          git clone --depth 1 https://github.com/easylist/easylist_adult.git
+#          rm -rf easylist_adult/adult_specific_hide.txt
+#          rm -rf easylist_adult/
 
       - name: Download additional rules
         run: |
