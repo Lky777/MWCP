@@ -12,8 +12,8 @@
 **前置工具**：兼容 **Adblock Plus** 规则的扩展或浏览器
 
 ### 🔻 订阅方式
-- 📥 [**Jsdelivr CDN加速**](https://fastly.jsdelivr.net/gh/Lky777/MWCP/rules/MobiListChina.txt)  
-- 📥 [**GitHub 原始链接**](https://raw.githubusercontent.com/Lky777/MWCP/refs/heads/main/rules/MobiListChina.txt)  
+📥 [**Jsdelivr CDN加速**](https://fastly.jsdelivr.net/gh/Lky777/MWCP/rules/MobiListChina.txt)  
+📥 [**GitHub 原始链接**](https://raw.githubusercontent.com/Lky777/MWCP/refs/heads/main/rules/MobiListChina.txt)  
 
 ---
 
