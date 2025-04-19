@@ -39,10 +39,10 @@ jobs:
       - name: Process filters
         run: |    
           {
-            awk '/^!/ {flag=0} /^! \$document$/ {flag=1} flag' rules/easylist.txt
-            awk '/^!/ {flag=0} /^! Third-party$/ {flag=1} flag' rules/easylist.txt
-            awk '/^!/ {flag=0} /^! Chinese$/ {flag=1} flag' rules/easylist.txt
-            awk '/^!/ {flag=0} /^! IP$/ {flag=1} flag' rules/easylist.txt
+            awk '/^!/ {flag=0} /^! \$document$/ {flag=1} flag' rules/easylist_adservers.txt
+            awk '/^!/ {flag=0} /^! Third-party$/ {flag=1} flag' rules/easylist_adservers.txt
+            awk '/^!/ {flag=0} /^! Chinese$/ {flag=1} flag' rules/easylist_adservers.txt
+            awk '/^!/ {flag=0} /^! IP$/ {flag=1} flag' rules/easylist_adservers.txt
           } > rules/Easylist_ads.txt
 
           grep -Ev "#" rules/EasyChina.tmp > rules/EasyCN.txt
@@ -51,7 +51,11 @@ jobs:
       - name: Clean up temporary files
         run: |
           rm -f rules/*.tmp
-          rm -f rules/easylist.txt
+          rm -f rules/easylist_adservers.txt
+          rm -f rules/easylist_allowlist_general_hide.txt
+          rm -f rules/easylist_general_hide.txt
+          rm -f rules/easylist_specific_hide.txt
+          rm -f rules/easylist_specific_hide_abp.txt
 
       - name: Merge all rules
         id: merge_rules
