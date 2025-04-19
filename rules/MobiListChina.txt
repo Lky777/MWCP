@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiListChina
 ! Description: blocker for Chinese mobile site
-! Version: 202504191311
-! Last modified: 19 Apr 2025 13:11 UTC
+! Version: 202504191511
+! Last modified: 19 Apr 2025 15:11 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -13645,6 +13645,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||cadlsyndicate.com^$popup
 ||cafe24.com/cfa.js
 ||cafe24.com/weblog.js
+||cafemedia.com/topics/clickstream-event
 ||caffeine.tv/embed.js
 ||caffeine.tv/embed/$third-party
 ||cafonline.com/image/upload/*/sponsors/
@@ -15593,6 +15594,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||ctyojp.kibek.de^
 ||cuaeblh.icu^
 ||cubiclerunner.com^$popup
+||cucnmtf.top^
 ||cuddlethehyena.com^$popup
 ||cudgeletc.com^$popup
 ||cudgoz.mifcom.de^
@@ -22351,6 +22353,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||hackhome.com/js/zt.js
 ||hackhw.com/ckjs/
 ||hackp.com/im/
+||hacx60.com^
 ||hades.qyer.com^
 ||hadronid.net^$third-party
 ||hahamx.cn/images/banner/
@@ -33499,6 +33502,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||pushbird.com^$third-party
 ||pushbullet.com^$third-party
 ||pushclk.com^$popup
+||pushd.netky.tech^
 ||pushengage.com^$third-party
 ||pushking.net^$popup
 ||pushmaster-cdn.xyz^
@@ -41567,6 +41571,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||taboola.com/vpaid/
 ||taboola.com^$domain=independent.co.uk|outlook.live.com|technobuffalo.com
 ||taboola.com^$third-party
+||taboola.com^*/vignette-render.js
 ||taboolasyndication.com^$third-party
 ||tackytrains.com^
 ||tacoda.net^$third-party
@@ -45026,6 +45031,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||uclimit.top^
 ||ucmahi.lectiva.com^
 ||ucmetrics.hypovereinsbank.de^
+||ucmx.cn^
 ||ucounter.ucoz.net^
 ||ucoz.net/stat/
 ||ucweb.com/collect/
