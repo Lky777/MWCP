@@ -26,7 +26,6 @@ jobs:
       - name: Clone EasyList
         run: |
           git clone --depth 1 https://github.com/easylist/easylist.git
-          rm -f easylist/easylist_adservers.txt
           rm -f easylist/easylist_allowlist_general_hide.txt
           rm -f easylist/easylist_general_hide.txt
           rm -f easylist/easylist_specific_hide.txt
@@ -60,6 +59,7 @@ jobs:
             awk '/^!/ {flag=0} /^! Chinese$/ {flag=1} flag' rules/easylist_adservers.txt
             awk '/^!/ {flag=0} /^! IP$/ {flag=1} flag' rules/easylist_adservers.txt
           } > rules/Easylist_ads.txt
+          rm -f easylist/easylist_adservers.txt
 
           grep -Ev "#" rules/EasyChina.tmp > rules/EasyCN.txt
           grep -Ev "#" rules/CJXlist.tmp > rules/Cjx.txt
