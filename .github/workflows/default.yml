@@ -17,18 +17,31 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Init
+      - name: Error check
         run: |
           set -eo pipefail
           rm -rf rules/
+          mkdir -p rules/
 
       - name: Clone EasyList
         run: |
-          git clone --depth 1 https://github.com/easylist/easylist.git rules/
-          mv rules/easylist/* rules/
-          rm -rf rules/easylist/
+          git clone --depth 1 https://github.com/easylist/easylist.git
+          git clone --depth 1 https://github.com/easylist/easylist_adult.git
 
-      - name: Download additional rules 
+      - name: Clear
+        run: |
+          rm -f easylist/easylist_adservers.txt
+          rm -f easylist/easylist_allowlist_general_hide.txt
+          rm -f easylist/easylist_general_hide.txt
+          rm -f easylist/easylist_specific_hide.txt
+          rm -f easylist/easylist_specific_hide_abp.txt
+          rm -rf easylist_adult/adult_specific_hide.txt
+          mv easylist/*.txt rules/
+          mv easylist_adult/*.txt rules/
+          rm -rf easylist/
+          rm -rf easylist_adult/
+
+      - name: Download additional rules
         run: |
           download_filters() {
             curl -fsSL "https://raw.githubusercontent.com/easylist/easylistchina/refs/heads/master/easylistchina.txt" -o rules/EasyChina.tmp || { echo "Failed to download easylistchina"; exit 1; }
@@ -50,15 +63,7 @@ jobs:
 
           grep -Ev "#" rules/EasyChina.tmp > rules/EasyCN.txt
           grep -Ev "#" rules/CJXlist.tmp > rules/Cjx.txt
-
-      - name: Clean up temporary files
-        run: |
           rm -f rules/*.tmp
-          rm -f rules/easylist_adservers.txt
-          rm -f rules/easylist_allowlist_general_hide.txt
-          rm -f rules/easylist_general_hide.txt
-          rm -f rules/easylist_specific_hide.txt
-          rm -f rules/easylist_specific_hide_abp.txt
 
       - name: Merge all rules
         id: merge_rules
@@ -76,7 +81,7 @@ jobs:
           } > rules/MobiListChina.txt
           
           # 计算规则数
-          rule_count=$(grep -v -e '^!' -e '^$' -e '^[[:space:]]*$' rules/MobiListChina.txt | wc -l | awk '{print $1}')
+          rule_count=$(grep -v -c -e '^!' rules/MobiListChina.txt)
           echo "rule_count=$rule_count" >> $GITHUB_OUTPUT
           echo "✓ 合并完成！规则总数: $rule_count"
 
@@ -94,3 +99,6 @@ jobs:
             git push
             echo "✓ 变更已提交"
           fi
+
+      - name: Final
+        run: rm -rf rules/
