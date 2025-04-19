@@ -20,7 +20,7 @@ jobs:
       - name: Init
         run: |
           set -eo pipefail
-          mkdir -p rules
+          rm -rf rules/
 
       - name: git clone easylist
         run: git clone https://github.com/easylist/easylist.git rules/
