@@ -17,6 +17,7 @@ https://fastly.jsdelivr.net/gh/Lky777/MWCP/rules/MobiListChina.txt
 https://raw.githubusercontent.com/Lky777/MWCP/refs/heads/main/rules/MobiListChina.txt
 ```
 
+___
 规则来源
 * [Easylist](https://easylist-downloads.adblockplus.org/easylist.txt)  
 * [EasyPrivacy](https://easylist.to/easylist/easyprivacy.txt)  
