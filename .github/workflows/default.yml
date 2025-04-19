@@ -32,13 +32,13 @@ jobs:
           rm -f easylist/easylist_specific_hide.txt
           rm -f easylist/easylist_specific_hide_abp.txt
           mv easylist/*.txt rules/
-          mv easylist_adult/*.txt rules/
           rm -rf easylist/
 
 #      - name: Clear
 #        run: |
 #          git clone --depth 1 https://github.com/easylist/easylist_adult.git
 #          rm -rf easylist_adult/adult_specific_hide.txt
+#          mv easylist_adult/*.txt rules/
 #          rm -rf easylist_adult/
 
       - name: Download additional rules
