@@ -14,9 +14,9 @@
 
 ### 🔻订阅方式  
 
-📥 [<kbd>Jsdelivr加速</kbd>](https://fastly.jsdelivr.net/gh/Lky777/MWCP/rules/MobiListChina.txt)  
+📥 [**Jsdelivr加速**](https://fastly.jsdelivr.net/gh/Lky777/MWCP/rules/MobiListChina.txt)  
 
-📥 [<kbd>Git原始链接</kbd>](https://raw.githubusercontent.com/Lky777/MWCP/refs/heads/main/rules/MobiListChina.txt)  
+📥 [**Git原始链接**](https://raw.githubusercontent.com/Lky777/MWCP/refs/heads/main/rules/MobiListChina.txt)  
 
 ```plaintext
 https://fastly.jsdelivr.net/gh/Lky777/MWCP/rules/MobiListChina.txt
