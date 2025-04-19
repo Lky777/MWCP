@@ -16,34 +16,53 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      
-      - name: Download rules
+
+      - name: Install SVN
+        run: sudo apt-get install -y subversion
+
+      - name: Init
         run: |
           set -eo pipefail
           mkdir -p rules
 
-          # Download and process each filter
-          curl -fsSL "https://easylist-downloads.adblockplus.org/easylist_noelemhide.txt" -o rules/Easylist_NoEle.txt
-          curl -fsSL "https://filters.adtidy.org/extension/chromium/filters/118_optimized.txt" -o rules/EasyPrivacy.txt
-          curl -fsSL "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/refs/heads/master/rule.txt" -o rules/Xinggsf.txt
-          curl -fsSL "https://raw.githubusercontent.com/Lky777/MWCP/refs/heads/main/rules/fix.txt" -o rules/fixit.txt
+      - name: Export easylist
+        run: svn export --force https://github.com/easylist/easylist/trunk/easylist/ rules/
 
-          curl -fsSL "https://filters.adtidy.org/extension/chromium/filters/224.txt" -o temp1.txt && \
-            grep -Ev "#" temp1.txt > rules/AdgCN.txt && \
-            rm -f temp1.txt
+      - name: Download additional rules 
+        run: |
+          download_filters() {
+            curl -fsSL "https://raw.githubusercontent.com/easylist/easylistchina/refs/heads/master/easylistchina.txt" -o rules/EasyChina.tmp || { echo "Failed to download easylistchina"; exit 1; }
+            curl -fsSL "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt" -o rules/CJXlist.tmp || { echo "Failed to download cjx-annoyance"; exit 1; }
+            curl -fsSL "https://filters.adtidy.org/extension/chromium/filters/118_optimized.txt" -o rules/EasyPrivacy.txt || { echo "Failed to download EasyPrivacy"; exit 1; }
+            curl -fsSL "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/refs/heads/master/rule.txt" -o rules/Xinggsf.txt || { echo "Failed to download Xinggsf"; exit 1; }
+            curl -fsSL "https://raw.githubusercontent.com/Lky777/MWCP/refs/heads/main/rules/fix.txt" -o rules/fixit.txt || { echo "Failed to download fix.txt"; exit 1; }
+          }
+          download_filters
 
-          curl -fsSL "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt" -o temp2.txt && \
-            grep -Ev "#" temp2.txt > rules/cjx.txt && \
-            rm -f temp2.txt
+      - name: Process filters
+        run: |    
+          {
+            awk '/^!/ {flag=0} /^! \$document$/ {flag=1} flag' rules/easylist.txt
+            awk '/^!/ {flag=0} /^! Third-party$/ {flag=1} flag' rules/easylist.txt
+            awk '/^!/ {flag=0} /^! Chinese$/ {flag=1} flag' rules/easylist.txt
+            awk '/^!/ {flag=0} /^! IP$/ {flag=1} flag' rules/easylist.txt
+          } > rules/Easylist_ads.txt
+
+          grep -Ev "#" rules/EasyChina.tmp > rules/EasyCN.txt
+          grep -Ev "#" rules/CJXlist.tmp > rules/Cjx.txt
+
+      - name: Clean up temporary files
+        run: |
+          rm -f rules/*.tmp
+          rm -f rules/easylist.txt
 
       - name: Merge all rules
         id: merge_rules
         run: |
-          echo "→ 合并规则..."
           {
             echo "[Adblock Plus 2.0]"
             echo "! Title: MobiListChina"
-            echo "! Description: MobileWeb Filters"
+            echo "! Description: blocker for Chinese mobile site"
             echo "! Version: $(date +%Y%m%d%H%M)"
             echo "! Last modified: $(date -u +"%d %b %Y %H:%M UTC")"
             echo "! Expires: 1 day"
@@ -56,9 +75,6 @@ jobs:
           rule_count=$(grep -v -e '^!' -e '^$' -e '^[[:space:]]*$' rules/MobiListChina.txt | wc -l | awk '{print $1}')
           echo "rule_count=$rule_count" >> $GITHUB_OUTPUT
           echo "✓ 合并完成！规则总数: $rule_count"
-
-          # 安全清理
-          rm -f rules/AdgCN.txt rules/cjx.txt rules/Easylist_NoEle.txt rules/EasyPrivacy.txt rules/Xinggsf.txt
 
       - name: Commit changes
         if: steps.merge_rules.outcome == 'success'
