@@ -22,8 +22,10 @@ jobs:
           set -eo pipefail
           rm -rf rules/
 
-      - name: git clone easylist
-        run: git clone https://github.com/easylist/easylist.git rules/
+      - name: Shallow clone EasyList (no commit history)
+        run: |
+          git clone --depth 1 https://github.com/easylist/easylist.git rules/
+          rm -rf rules/.git  # 删除 .git 目录（可选，如果不需要 Git 信息）
 
       - name: Download additional rules 
         run: |
