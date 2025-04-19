@@ -1,4 +1,4 @@
-# 📱 移动端广告过滤集
+# 📱 移动端隐私防护
 
 ## 🌟 核心特性
 - **🚀 轻量化设计**  
@@ -12,7 +12,12 @@
 - ✅ **Via/X浏览器**  
 - ✅ **ABP/uBlockO**扩展  
 
-### 📥 订阅方式
+### 🔻订阅方式  
+
+📥 [<kbd>Jsdelivr加速</kbd>](https://fastly.jsdelivr.net/gh/Lky777/MWCP/rules/MobiListChina.txt)  
+
+📥 [<kbd>Git原始链接</kbd>](https://raw.githubusercontent.com/Lky777/MWCP/refs/heads/main/rules/MobiListChina.txt)  
+
 ```plaintext
 https://fastly.jsdelivr.net/gh/Lky777/MWCP/rules/MobiListChina.txt
 ``` 
