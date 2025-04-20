@@ -20,12 +20,11 @@ jobs:
       - name: Error check
         run: |
           set -eo pipefail
-          rm -rf rules/
           mkdir -p rules/
 
       - name: Clone EasyList
         run: |
-          trap 'rm -f "$tmpfile"' EXIT
+          trap 'rm -f "$tmpfile"; rm -rf "rules/"; rm -rf "easylist/"' EXIT
           git clone --depth 1 https://github.com/easylist/easylist.git
           rm -f easylist/easylist/easylist_allowlist_general_hide.txt
           rm -f easylist/easylist/easylist_general_hide.txt
@@ -34,15 +33,17 @@ jobs:
           mv easylist/easylist/*.txt rules/
           rm -rf easylist/
 
-#      - name: Clear
-#        run: |
-#          git clone --depth 1 https://github.com/easylist/easylist_adult.git
-#          rm -rf easylist_adult/adult_specific_hide.txt
-#          mv easylist_adult/*.txt rules/
-#          rm -rf easylist_adult/
+      - name: Clone EasyListadult
+        run: |
+          trap 'rm -f "$tmpfile"; rm -rf "rules/"; rm -rf "easylist/"' EXIT
+          git clone --depth 1 https://github.com/easylist/easylist_adult.git
+          rm -f easylist/easylist_adult/adult_specific_hide.txt
+          mv easylist/easylist_adult/*.txt rules/
+          rm -rf easylist/
 
       - name: Download additional rules
         run: |
+          trap 'rm -f "$tmpfile"; rm -rf "rules/"; rm -rf "easylist/"' EXIT
           download_filters() {
             curl -fsSL "https://raw.githubusercontent.com/easylist/easylistchina/refs/heads/master/easylistchina.txt" -o rules/EasyChina.tmp || { echo "Failed to download easylistchina"; exit 1; }
             curl -fsSL "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt" -o rules/CJXlist.tmp || { echo "Failed to download cjx-annoyance"; exit 1; }
@@ -54,7 +55,7 @@ jobs:
 
       - name: Process filters
         run: |
-          trap 'rm -f "$tmpfile"' EXIT
+          trap 'rm -f "$tmpfile"; rm -rf "rules/"; rm -rf "easylist/"' EXIT
           {
             awk '/^!/ {flag=0} /^! \$document$/ {flag=1} flag' rules/easylist_adservers.txt
             awk '/^!/ {flag=0} /^! Third-party$/ {flag=1} flag' rules/easylist_adservers.txt
