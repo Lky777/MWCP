@@ -25,12 +25,13 @@ jobs:
 
       - name: Clone EasyList
         run: |
+          trap 'rm -f "$tmpfile"' EXIT
           git clone --depth 1 https://github.com/easylist/easylist.git
-          rm -f easylist/easylist_allowlist_general_hide.txt
-          rm -f easylist/easylist_general_hide.txt
-          rm -f easylist/easylist_specific_hide.txt
-          rm -f easylist/easylist_specific_hide_abp.txt
-          mv easylist/*.txt rules/
+          rm -f easylist/easylist/easylist_allowlist_general_hide.txt
+          rm -f easylist/easylist/easylist_general_hide.txt
+          rm -f easylist/easylist/easylist_specific_hide.txt
+          rm -f easylist/easylist/easylist_specific_hide_abp.txt
+          mv easylist/easylist/*.txt rules/
           rm -rf easylist/
 
 #      - name: Clear
@@ -52,7 +53,8 @@ jobs:
           download_filters
 
       - name: Process filters
-        run: |    
+        run: |
+          trap 'rm -f "$tmpfile"' EXIT
           {
             awk '/^!/ {flag=0} /^! \$document$/ {flag=1} flag' rules/easylist_adservers.txt
             awk '/^!/ {flag=0} /^! Third-party$/ {flag=1} flag' rules/easylist_adservers.txt
