@@ -1,1 +1,80 @@
+[Adblock Plus 2.0]
+! Title: badguys
+! Version: 2025.04.21
+! Expires: 30 days (update rarely)
+! Description: 补充规则(已合并至Mobilist中)
+! Maintainer: [Lky777]
+!---------------------------------------
 
+! ========== General Rules ==========
+*.gif?
+.com/static/js/action.js
+/js/zzz.js
+/cloudflare-static/email-decode.min.js
+##.addbox>div
+
+! ========== Domain-Specific Rules ==========
+
+! ----- a2zapk -----
+a2zapk.io###modalpop
+
+! ----- bilibili -----
+m.bilibili.com##.fixed-openapp
+
+! ----- bing -----
+cn.bing.com###bnp_rich_div
+@@||bing.com/fd/ls/GLinkPing.aspx?
+
+! ----- cnblog -----
+|https://www.cnblogs.com/*/custom.css?
+|https://www.cnblogs.com/*/ajax/post-accessories?
+|https://img2024.cnblogs.com/blog/35695/
+
+! ----- colamanga -----
+|https://www.colamanga.com/common/css/website.css
+|https://www.colamanga.com/static/loading.gif
+@@||www.colamanga.com/js/ad_/load.js
+
+! ----- csdn -----
+|https://statistic.csdn.net/
+|https://zhannei-dm.csdn.net/recommend/
+|https://silkroad.csdn.net/api/v2/assemble/list/
+|https://blog.csdn.net/phoenix/web/v1/mini-app/
+|https://img-home.csdnimg.cn/data_json/jsconfig/redPacket.json
+|https://g.csdnimg.cn/asdf/1.0.9/trackad.js
+|https://eva2.csdn.net/v3/
+|https://redisdatarecall.csdn.net/recommend/
+|https://g.csdnimg.cn/??sharewx/
+|https://csdnimg.cn/release/passport_fe/
+|https://passport.csdn.net/cdn_cgi_bs_bot/static/
+|https://blog.csdn.net/cdn_cgi_bs_bot/static/
+
+! ----- ghxi -----
+|https://www.ghxi.com/wp-content/plugins/core-ai-power/
+|https://www.ghxi.com/wp-content/plugins/wp-opt/static/js/front.min.js?
+
+! ----- oschina -----
+oschina.net##div[name="detail_show_footer"]
+|https://lf1-cdn-tos.bytegoofy.com/goofy/
+
+! ----- ruanyifeng -----
+|https://www.ruanyifeng.com/blog/checker.js
+|https://www.ruanyifeng.com/blog/stats.js
+
+! ----- sspai -----
+sspai.com###btn-call-app
+
+! ----- zhihu -----
+|https://static.zhihu.com/heifetz/chunks/$script
+|https://static.zhihu.com/heifetz/column.app.$script
+|https://static.zhihu.com/heifetz/column.*.css
+|https://www.zhihu.com/api/v4/growth/mobile_top_banner?
+|https://www.zhihu.com/api/v4/hot_recommendation?
+|https://www.zhihu.com/api/v4/questions/*/related-readings?
+|https://www.zhihu.com/sc-profiler
+|https://mcs.volceapplog.com/list
+|https://zxid-api.mobileservice.cn/sdk/base/report
+||unpkg.zhimg.com/@cfe/sentry-script@
+@@|https://static.zhihu.com/heifetz/chunks/shared-
+@@|https://static.zhihu.com/heifetz/chunks/lib-
+@@|https://static.zhihu.com/heifetz/chunks/mobile-
