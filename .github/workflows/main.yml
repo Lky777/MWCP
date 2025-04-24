@@ -84,6 +84,7 @@ jobs:
         id: merge_rules
         run: |        
           cat rules/*.txt > rules/combined_rules.txt
+          sed -i '/^[*][.*/]/s/*//' rules/combined_rules.txt    
           sed -i '/^\/\\./d' rules/combined_rules.txt
           sed -i '/^\/\^https/d' rules/combined_rules.txt
 
