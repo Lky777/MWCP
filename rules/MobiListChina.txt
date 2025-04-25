@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiListChina
 ! Description: blocker for Chinese mobile site
-! Version: 2025042420M
-! Last modified: 24 Apr 2025 20:20 UTC
+! Version: 2025042520M
+! Last modified: 25 Apr 2025 20:20 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -13,6 +13,7 @@ $csp=child-src 'none'; frame-src 'self' *; worker-src 'none',domain=fileone.tv|t
 $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vidoza.net
 $csp=script-src 'self' '*' 'unsafe-inline',domain=pirateproxy.live|thehiddenbay.com|downloadpirate.com|thepiratebay10.org|ukpass.co|linksmore.site
 $csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.cloudflare.com *.google.com *.addthis.com *.addthisedge.com *.facebook.net *.twitter.com *.jquery.com *.x.com,domain=kinox.lat|kinos.to|kinox.am|kinox.click|kinox.cloud|kinox.club|kinox.digital|kinox.direct|kinox.express|kinox.fun|kinox.fyi|kinox.gratis|kinox.io|kinox.lol|kinox.me|kinox.mobi|kinox.pub|kinox.sh|kinox.to|kinox.tube|kinox.tv|kinox.wtf|kinoz.to,~third-party
+$csp=script-src 'self' * 'unsafe-inline',domain=bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|1kans.net|aidu123.com|biquluo.info|bqgh.com|jmshuwu.net|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com|zk01.net
 $csp=script-src 'self' * 'unsafe-inline',domain=xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|1kans.net|aidu123.com|biquluo.info|bqgh.com|jmshuwu.net|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com|zk01.net
 $csp=script-src 'self' data: 'unsafe-inline' 'unsafe-hashes' 'unsafe-eval' pic1.mangapicgallery.com www.google.com,domain=mangago.me
 $csp=script-src 'self' data: 'unsafe-inline' 'unsafe-hashes' 'unsafe-eval' www.gstatic.com cdn.jsdelivr.net maxcdn.bootstrapcdn.com,domain=bigwarp.io
@@ -1524,6 +1525,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /aff_ad?$script
 /aff_banner/*$image
 /aff_banners/*$image
+/aff_convpixel.js
 /aff_i?offer_id=
 /aff_land?referrer
 /affbanners/*$image
@@ -4665,6 +4667,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /statcounter.asp
 /statcounter.js
 /statcountex/count.asp?
+/static/23wx/idd.js
 /static/2biqu/twgdh.js
 /static/adsview/*
 /static/common/js/djlib_
@@ -5655,6 +5658,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 ://lightning.*/launch/
 ://load.*.js?st=$~third-party
 ://matomo.$domain=~matomo.org
+://metrics-collector.
 ://mint.*/?js
 ://news-*/process.js?id=$third-party
 ://news-*/v2-sw.js$third-party
@@ -10864,6 +10868,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||amazonaws.com/cdn.barilliance.com/
 ||amazonaws.com/cdn.mobverify.com
 ||amazonaws.com/dazeddigital.com/Ads-main.js$domain=dazeddigital.com
+||amazonaws.com/frame-image-br/bg.png?
 ||amazonaws.com/iglu.acme.com.dev.clixtream/tracker.js
 ||amazonaws.com/j.kissinsights.com/
 ||amazonaws.com/js/reach.js
@@ -13039,6 +13044,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||bucketsofbanners.com^$third-party
 ||bucklemail.com/a/$image
 ||bucnmtv.top^
+||bucnwtv.top^
 ||budurl.com^$third-party
 ||bugherd.com^$third-party
 ||bugsfighter.com/wp-content/uploads/2020/07/malwarebytes-banner.jpg
@@ -14656,6 +14662,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||cosouy.xyz^
 ||cost1action.com^$third-party
 ||coticoffee.com^$popup
+||cotrck.com^$popup
 ||coublif.top^
 ||coull.com^$third-party
 ||count-server.sharethis.com^
@@ -20179,6 +20186,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||hellporno.com^$subdocument,~third-party
 ||helmethomicidal.com^$popup
 ||heloisessa.com^
+||heloninremake.shop^$popup
 ||helpshift.com/events/
 ||hemnes.win^$third-party
 ||henan.sina.com.cn/iframe/7/
@@ -20699,6 +20707,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||huya.com/leaf/*=vodadv&$rewrite=abp-resource:blank-mp3,domain=huya.com
 ||hvddxj.icu^
 ||hvdt8.chimeratool.com^
+||hvrunsqqy.com^
 ||hvuqkb.cn^
 ||hwateru.top^
 ||hwcnmtu.top^
@@ -22481,6 +22490,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||khastreol.com^
 ||khcsvdc.icu^
 ||khegritww.com^
+||khehliets.com^
 ||khengrull.com^
 ||khesuts.com^
 ||khoqetslh.com^
@@ -23472,6 +23482,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||luckyorange.com^$third-party
 ||luckyorange.net^$third-party
 ||lucnmtl.top^
+||lucnwtl.top^
 ||lui8426.xyz^
 ||lukyday.xyz^$popup
 ||lumatag.co.uk^$third-party
@@ -24370,6 +24381,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||monnsutogatya.com/himg/monst/
 ||monorail-edge.shopifysvc.com^
 ||monsido.com^$third-party
+||monsnode.com/ad_star_
 ||monstat.com^$third-party
 ||monsterofnews.com^$popup
 ||monsy.com^$third-party
@@ -25132,6 +25144,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||nktydx.icu^
 ||nl2cq0jr.xyz^
 ||nljyjt.icu^
+||nlnlrn.top^
 ||nlrsrx.xyz^
 ||nltsvf.xyz^
 ||nlvwdlnhfnnw.com^
@@ -25391,6 +25404,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||octavius.rocks^$third-party
 ||octomarket.com^$third-party
 ||octopart-analytics.com^$third-party
+||ocular.hotukdeals.com^
 ||oda.markitondemand.com^
 ||odalrevaursartu.net^$popup
 ||odamcsk.top^
@@ -25455,6 +25469,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||ohmygore.com/ef_pub
 ||ohmystats.com^$third-party
 ||ohnorobot.com/verify.pl?
+||ohqp.cn^
 ||ohrdsplu.com^$popup
 ||ohtusgy.icu^
 ||oi.429men.com^
@@ -28883,6 +28898,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||sh.sina.com.cn/js/441/ZwyArticle_commo_23.js
 ||sh5.icu^
 ||sh996.dftoutiao.com^
+||shabsignul.net^$popup
 ||shaenphiks.com^
 ||shakingtacklingunpeeled.com^$popup
 ||shandian.biz/wp-content/themes/inove/js/comment.js
@@ -31053,6 +31069,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||tl86tv.com/52
 ||tlanyan.pp.ua/wp-content/uploads/meomiao.png
 ||tlavideo.com/affiliates/$third-party
+||tljrvn.icu^
 ||tlpyft.xyz^
 ||tlula507.com/Public/js/dui
 ||tlula507.com/Public/js/float
@@ -32433,6 +32450,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||uvyuqzx.cn^
 ||uwants.com/dfp_forum.php?au=Uwants_Web_
 ||uwants.com^*_prod.html
+||uwcnmtt.top^
 ||uweisit.top^
 ||uweizat.top^
 ||uweriot.top^
@@ -32684,6 +32702,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||vikiporn.com/js/customscript.js
 ||vilynx.com^$third-party
 ||vimeo.com/ablincoln/
+||vimeo.com/add/
 ||vimeocdn.com/add/player-stats?
 ||vimeocdn.com/ga/
 ||vimeocdn.com/js_opt/logging_combined.min.js
