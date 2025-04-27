@@ -84,10 +84,13 @@ jobs:
         id: merge_rules
         run: |        
           cat rules/*.txt > rules/combined_rules.txt
-          sed -i '/^[*][.*/]/s/*//' rules/combined_rules.txt    
+          sed -i '/^[*][.*/]/s/*//' rules/combined_rules.txt
           sed -i '/^\/\\./d' rules/combined_rules.txt
           sed -i '/^\/\^https/d' rules/combined_rules.txt
-
+          sed -i '/\.gif?/d' rules/combined_rules.txt
+          echo "" >> rules/combined_rules.txt
+          echo ".gif?" >> rules/combined_rules.txt
+          
       - name: Generate Adblock rules
         id: generate_rules
         run: |
