@@ -91,13 +91,13 @@ jobs:
           echo "" >> rules/combined_rules.txt
           echo ".gif?" >> rules/combined_rules.txt
           
-      - name: Generate Adblock rules
+      - name: Generate rules
         id: generate_rules
         run: |
           echo "[Adblock Plus 2.0]
           ! Title: MobiListChina
           ! Description: blocker for Chinese mobile site
-          ! Version: $(date +%Y%m%d%HM)
+          ! Version: $(date +%Y%m%d%H%M)
           ! Last modified: $(date -u +"%d %b %Y %H:%M UTC")
           ! Expires: 1 day
           ! Homepage: https://github.com/Lky777/MWCP/
