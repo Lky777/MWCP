@@ -86,18 +86,19 @@ jobs:
       - name: Generate final rule list
         id: generate_rules
         run: |
-          printf '%s\n' \
-              "[Adblock Plus 2.0]" \
-              "! Title: MobiListChina" \
-              "! Description: blocker for Chinese mobile site" \
-              "! Version: $(date +%Y%m%d%H%M)" \
-              "! Last modified: $(date -u +"%d %b %Y %H:%M UTC")" \
-              "! Expires: 1 day" \
-              "! Homepage: https://github.com/Lky777/MWCP/" \
-              "! ---------------------------------" \
-          > rules/MobiListChina.txt
-
-          grep -v -e '^!' -e '^$' -e '^[[:space:]]*$' rules/combined_rules.txt | sort -u >> rules/MobiListChina.txt
+          {
+            printf '%s\n' \
+                "[Adblock Plus 2.0]" \
+                "! Title: MobiListChina" \
+                "! Description: blocker for Chinese mobile site" \
+                "! Version: $(date +%Y%m%d%H%M)" \
+                "! Last modified: $(date -u +"%d %b %Y %H:%M UTC")" \
+                "! Expires: 1 day" \
+                "! Homepage: https://github.com/Lky777/MWCP/" \
+                "! ---------------------------------"
+            
+            grep -v -e '^!' -e '^$' -e '^[[:space:]]*$' rules/combined_rules.txt | sort -u
+          } > rules/MobiListChina.txt
 
           rule_count=$(grep -v -c -e '^!' rules/MobiListChina.txt)
           echo "rule_count=$rule_count" >> "$GITHUB_OUTPUT"
@@ -108,14 +109,15 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add rules/MobiListChina.txt
 
-          if git diff --cached --quiet; then
-            echo "无变化可提交"
-          else
+          if ! git diff --quiet -- rules/MobiListChina.txt; then
+            git add rules/MobiListChina.txt
             git commit -m "Auto-update: $(date -u +'%Y-%m-%d %H:%M UTC') - ${{ steps.generate_rules.outputs.rule_count }} rules"
             git push
             echo "✓ 变更已提交"
+          else
+            echo "无变化可提交"
+          fi
 
       - name: Refresh jsDelivr cache
         run: |
