@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiListChina
 ! Description: blocker for Chinese mobile site
-! Version: 202504281058
-! Last modified: 28 Apr 2025 10:58 UTC
+! Version: 202504281906
+! Last modified: 28 Apr 2025 19:06 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -18645,6 +18645,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||gbengene.com^$popup
 ||gbfedashb4.fun^
 ||gbgedashb8.fun^
+||gbiathrilzik.com^
 ||gbndash2.fun^
 ||gbotvisit.com^$third-party
 ||gbqgwes.icu^
@@ -28706,6 +28707,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||snjfasp.com^
 ||snmi.cn^$third-party
 ||snnmgdt.icu^
+||snohetta.com/js/plascript.js
 ||snoobi.com^$third-party
 ||snoreempire.com^$popup
 ||snowdayonline.xyz^$popup
@@ -28717,6 +28719,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||snrcash.com/profilerotator/$third-party
 ||snueirk.icu^
 ||snugglethesheep.com^$popup
+||snwuamb.top^
 ||snxyf.com^$third-party
 ||snzfj.net^$third-party
 ||so.auto999.cn^
