@@ -2,7 +2,7 @@ name: Ad Filters
 
 on:
   schedule:
-    - cron: "0 20 * * *"  # 每天 UTC 20:00（北京时间 04:00，UTC+8）
+    - cron: "0 19 * * *"  # 每天 UTC 19:00（北京时间 03:00，UTC+8）
   workflow_dispatch:
 
 permissions:
@@ -84,13 +84,55 @@ jobs:
         id: merge_rules
         run: |        
           cat rules/*.txt > rules/combined_rules.txt
+          sort -u rules/combined_rules.txt
           sed -i '/^[*][.*/]/s/*//' rules/combined_rules.txt
           sed -i '/^\/\\./d' rules/combined_rules.txt
           sed -i '/^\/\^https/d' rules/combined_rules.txt
-          sed -i '/\.gif?/d' rules/combined_rules.txt
-          echo "" >> rules/combined_rules.txt
-          echo ".gif?" >> rules/combined_rules.txt
-          
+
+        #递归去重
+      - name: Remove duplicates and save output
+        run: |
+          sort -u rules/combined_rules.txt
+          awk '
+          {
+              if (NR == 1) {
+                  pattern = tolower($0);
+                  print;  # 输出第一行
+                  next;
+              }
+              lines[NR] = $0;  # 存储剩余行
+          }
+          END {
+              do {
+                  changed = 0;
+                  new_lines_count = 0;
+                  delete new_lines;
+                  
+                  for (i in lines) {
+                      if (tolower(lines[i]) !~ pattern) {
+                          new_lines[++new_lines_count] = lines[i];
+                      } else {
+                          changed = 1;
+                      }
+                  }
+                  
+                  if (new_lines_count > 0) {
+                      pattern = tolower(new_lines[1]);
+                      print new_lines[1];
+                      
+                      delete lines;
+                      for (j = 2; j <= new_lines_count; j++) {
+                          lines[j-1] = new_lines[j];
+                      }
+                  }
+              } while (changed && new_lines_count > 0);
+              
+              for (k in lines) {
+                  print lines[k];
+              }
+          }' rules/combined_rules.txt > rules/combined_fixed.txt
+          rm -f rules/combined_rules.txt
+   
       - name: Generate rules
         id: generate_rules
         run: |
@@ -102,8 +144,8 @@ jobs:
           ! Expires: 1 day
           ! Homepage: https://github.com/Lky777/MWCP/
           ! ---------------------------------" > rules/MobiListChina.txt
-          grep -v -e '^!' -e '^$' -e '^[[:space:]]*$' rules/combined_rules.txt | sort -u >> rules/MobiListChina.txt
-          rm -f rules/combined_rules.txt
+          grep -v -e '^!' -e '^$' -e '^[[:space:]]*$' rules/combined_fixed.txt | sort -u >> rules/MobiListChina.txt
+          rm -f rules/combined_fixed.txt
                     
           # 计算规则数
           rule_count=$(grep -v -c -e '^!' rules/MobiListChina.txt)
