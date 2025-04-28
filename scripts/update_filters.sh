@@ -10,8 +10,9 @@ git clone --depth 1 https://github.com/easylist/easylist.git
 
 # 3. 准备 EasyList 文件
 rm -f easylist/easylist/{easylist_allowlist_general_hide.txt,easylist_general_hide.txt,easylist_specific_hide.txt,easylist_specific_hide_abp.txt} &
+rm -f easylist/easylist_adult/adult_specific_hide.txt
+wait
 mv easylist/easylist/*.txt rules/ &
-rm -f easylist/easylist_adult/adult_specific_hide.txt &
 mv easylist/easylist_adult/*.txt rules/ &
 mv easylist/easyprivacy/{easyprivacy_allowlist_international.txt,easyprivacy_specific_international.txt,easyprivacy_thirdparty_international.txt,easyprivacy_general.txt,easyprivacy_specific.txt,easyprivacy_thirdparty.txt,easyprivacy_trackingservers.txt,easyprivacy_trackingservers_mining.txt,easyprivacy_trackingservers_thirdparty.txt} rules/ &
 wait
