@@ -1,18 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: MobiListChina
 ! Description: blocker for Chinese mobile site
-! Version: 202504280831
-! Last modified: 28 Apr 2025 08:31 UTC
+! Version: 202504281042
+! Last modified: 28 Apr 2025 10:42 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
-##.addbox>div
 $csp=child-src 'none'; frame-src 'self' *; worker-src 'none',domain=fileone.tv|theappguruz.com
 $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vidoza.net
 $csp=script-src 'self' '*' 'unsafe-inline',domain=pirateproxy.live|thehiddenbay.com|downloadpirate.com|thepiratebay10.org|ukpass.co|linksmore.site
 $csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.cloudflare.com *.google.com *.addthis.com *.addthisedge.com *.facebook.net *.twitter.com *.jquery.com *.x.com,domain=kinox.lat|kinos.to|kinox.am|kinox.click|kinox.cloud|kinox.club|kinox.digital|kinox.direct|kinox.express|kinox.fun|kinox.fyi|kinox.gratis|kinox.io|kinox.lol|kinox.me|kinox.mobi|kinox.pub|kinox.sh|kinox.to|kinox.tube|kinox.tv|kinox.wtf|kinoz.to,~third-party
 $csp=script-src 'self' * 'unsafe-inline',domain=candoug.com|modaoshu.com|nipubook.com
-$csp=script-src 'self' * 'unsafe-inline',domain=yswxs.com|biqugezw.us|biquge2345.com|dingdian911.com|bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|1kans.net|aidu123.com|biquluo.info|bqgh.com|jmshuwu.net|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com|zk01.net
 $csp=script-src 'self' * 'unsafe-inline',domain=yushuwu.cloud|yswxs.com|biqugezw.us|biquge2345.com|dingdian911.com|bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|1kans.net|aidu123.com|biquluo.info|bqgh.com|jmshuwu.net|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com|zk01.net
 $csp=script-src 'self' data: 'unsafe-inline' 'unsafe-hashes' 'unsafe-eval' pic1.mangapicgallery.com www.google.com,domain=mangago.me
 $csp=script-src 'self' data: 'unsafe-inline' 'unsafe-hashes' 'unsafe-eval' www.gstatic.com cdn.jsdelivr.net maxcdn.bootstrapcdn.com,domain=bigwarp.io
@@ -2005,7 +2003,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /clientele/reports/*
 /clientlib-analytics-core.
 /clientstat?
-/cloudflare-static/email-decode.min.js
 /cls/check.php?$image
 /cls_report?
 /clys.js?2020
@@ -5542,7 +5539,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@/analytics.php?$domain=xcar.com.cn
 @@/api/ad/*$domain=pinduoduo.com
 @@/api/ads?$domain=nmkjxy.com
-@@/api/models?$domain=tik.porn
 @@/api/v2/models-online?$domain=tik.porn
 @@/bag2?r[]=*&r[]=$domain=free.com.tw
 @@/banner/ad/*$image,domain=achaloto.com
@@ -5612,9 +5608,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@|data:text^$popup,domain=box.com|clker.com|labcorp.com
 @@|https://media.amazon.map.fastly.net^$script
 @@|https://static.zhihu.com/heifetz/chunks/lib-
-@@|https://static.zhihu.com/heifetz/chunks/mobile-
 @@|https://static.zhihu.com/heifetz/chunks/mobile-! Chinese google (https://github.com/easylist/easylist/issues/15643)
-@@|https://static.zhihu.com/heifetz/chunks/mobile-[Adblock Plus 2.0]
 @@|https://static.zhihu.com/heifetz/chunks/shared-
 @@||060s.com/images_ad/*.png
 @@||073img.com/*,*,
@@ -7591,8 +7585,6 @@ wss://*/api/wss/GetNotReadCount$third-party
 wss://www.*.xyz/ws^$third-party
 wwads.cn
 www.zhzzx.com@@/api/models?$domain=tik.porn
-www.zhzzx.com[Adblock Plus 2.0]
-www.zhzzx.com||18naked.com^$third-party
 x.jd.com
 x6d.com#?#li:-abp-has(>.myad)
 xshellcn.com
@@ -7638,7 +7630,6 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 |https://$script,xmlhttprequest,domain=urlcash.net
 |https://a.magsrv.com/ad-provider.js
 |https://api.ithome.com/json/hot/dajia.json^$script
-|https://blog.csdn.net/cdn_cgi_bs_bot/static/
 |https://blog.csdn.net/phoenix/web/v1/mini-app/
 |https://csdnimg.cn/release/passport_fe/
 |https://eva2.csdn.net/v3/
@@ -7649,7 +7640,6 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 |https://img2024.cnblogs.com/blog/35695/
 |https://lf1-cdn-tos.bytegoofy.com/goofy/
 |https://mcs.volceapplog.com/list
-|https://passport.csdn.net/cdn_cgi_bs_bot/static/
 |https://playhubconnect.com/bn/
 |https://redisdatarecall.csdn.net/recommend/
 |https://silkroad.csdn.net/api/v2/assemble/list/
@@ -22069,9 +22059,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||kovvild.com^
 ||koyi.pub/wp-content/plugins/dh-anti-adblocker/
 ||koyso.com/aclib.js
-||koyso.com/static/js/abc.
 ||koyso.com/static/js/abcd.
-||koyso.com/z-
 ||koytqo.xyz^
 ||kpmsoq.xyz^
 ||kppt.cc/zb_system/script/common.js
