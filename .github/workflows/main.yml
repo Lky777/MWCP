@@ -28,7 +28,7 @@ jobs:
 
       - name: Clone EasyList repository
         run: |
-          git clone --depth 1 --filter=blob:none https://github.com/easylist/easylist.git
+          git clone --depth 1 https://github.com/easylist/easylist.git
 
       - name: Prepare EasyList filters
         run: |
