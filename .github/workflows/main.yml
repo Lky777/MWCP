@@ -12,7 +12,8 @@ jobs:
   update-filter:
     name: Update Adblock Filters
     runs-on: ubuntu-latest
-    
+    retention-days: 1  # 设置此工作流的保留期为1天 
+       
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
