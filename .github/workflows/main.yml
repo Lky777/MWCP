@@ -7,129 +7,22 @@ on:
 
 permissions:
   contents: write
-
+  
 env:
   ACTIONS_RUN_LOG_RETENTION_DAYS: 1
   ACTIONS_RUN_RETENTION_DAYS: 1
-
+  
 jobs:
   update-filter:
-    name: Update Adblock Filters
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup working directory
-        run: |
-          set -euo pipefail
-          mkdir -p rules/
-
-      - name: Clone EasyList repository
-        run: |
-          git clone --depth 1 https://github.com/easylist/easylist.git
-
-      - name: Prepare EasyList filters
-        run: |
-          rm -f easylist/easylist/{easylist_allowlist_general_hide.txt,easylist_general_hide.txt,easylist_specific_hide.txt,easylist_specific_hide_abp.txt} &
-          mv easylist/easylist/*.txt rules/ &
-
-          rm -f easylist/easylist_adult/adult_specific_hide.txt &
-          mv easylist/easylist_adult/*.txt rules/ &
-
-          mv easylist/easyprivacy/{easyprivacy_allowlist_international.txt,easyprivacy_specific_international.txt,easyprivacy_thirdparty_international.txt,easyprivacy_general.txt,easyprivacy_specific.txt,easyprivacy_thirdparty.txt,easyprivacy_trackingservers.txt,easyprivacy_trackingservers_mining.txt,easyprivacy_trackingservers_thirdparty.txt} rules/ &
-
-          wait
-          rm -rf easylist/
-
-      - name: Download additional rule sets
-        run: |
-          declare -A urls=(
-            ["easylistchina.txt"]="https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt"
-            ["cjx-annoyance.txt"]="https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt"
-            ["rules.txt"]="https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt"
-            ["fix.txt"]="https://raw.githubusercontent.com/Lky777/MWCP/main/rules/fix.txt"
-          )
-
-          for file in "${!urls[@]}"; do
-            curl -fsSL "${urls[$file]}" -o "rules/$file" || { echo "下载失败: $file" >&2; exit 1; }
-          done
-
-      - name: Process downloaded filters
-        run: |
-          awk '/^!/ {flag=0} /^! \$document$/ {flag=1} flag' rules/easylist_adservers.txt > rules/Easylist_ads.txt
-          awk '/^!/ {flag=0} /^! Third-party$/ {flag=1} flag' rules/easylist_adservers.txt >> rules/Easylist_ads.txt
-          awk '/^!/ {flag=0} /^! Chinese$/ {flag=1} flag' rules/easylist_adservers.txt >> rules/Easylist_ads.txt
-          awk '/^!/ {flag=0} /^! IP$/ {flag=1} flag' rules/easylist_adservers.txt >> rules/Easylist_ads.txt
-          rm -f rules/easylist_adservers.txt
-
-          awk '/^!/ && /Chinese/ {flag=1; next} /^!/ {flag=0} flag' rules/easyprivacy_{allowlist,specific,thirdparty}_international.txt > rules/Easyprivacy_a.txt
-          rm -f rules/easyprivacy_allowlist_international.txt rules/easyprivacy_specific_international.txt rules/easyprivacy_thirdparty_international.txt
-
-          sed -i '/##+js/!{/##\|#@#/d}' rules/{easylistchina.txt,cjx-annoyance.txt,rules.txt}
-
-      - name: Merge all filters
-        id: merge_rules
-        run: |
-          set -euo pipefail
-
-          find rules -name "*.txt" -exec cat {} + | sort -u > rules/combined_rules.txt
-
-          sed -i '
-            /###cxense-recs-in-article/d
-            /##\.embed-responsive-trendmd/d
-            s/^\*\([\/._-]\)/\1/
-            /^\/\\\./d
-            /^\/\^https/d
-            /\/ads\/\|\.gif\?/ {
-              /@@\|~/!d
-            }
-          ' rules/combined_rules.txt
-
-          printf '%s\n' '.gif?' '/ads/' >> rules/combined_rules.txt
-
-      - name: Generate final rule list
-        id: generate_rules
-        run: |
-          {
-            printf '%s\n' \
-              "[Adblock Plus 2.0]" \
-              "! Title: MobiListChina" \
-              "! Description: blocker for Chinese mobile site" \
-              "! Version: $(date +%Y%m%d%H%M)" \
-              "! Last modified: $(date -u +"%d %b %Y %H:%M UTC")" \
-              "! Expires: 1 day" \
-              "! Homepage: https://github.com/Lky777/MWCP/" \
-              "! ---------------------------------"
-            
-            grep -v -e '^!' -e '^$' -e '^[[:space:]]*$' rules/combined_rules.txt | sort -u
-          } > rules/MobiListChina.txt
-
-          rule_count=$(grep -v -c -e '^!' rules/MobiListChina.txt)
-          echo "rule_count=$rule_count" >> "$GITHUB_OUTPUT"
-          echo "✓ 合并完成！规则总数: $rule_count"
-
-      - name: Commit and push changes
-        if: steps.generate_rules.outcome == 'success'
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-
-          if ! git diff --quiet -- rules/MobiListChina.txt; then
-            git add rules/MobiListChina.txt
-            git commit -m "Auto-update: $(date -u +'%Y-%m-%d %H:%M UTC') | Rules: ${{ steps.generate_rules.outputs.rule_count }}"
-            git push
-            echo "✓ 变更已提交"
-          else
-            echo "无变化可提交"
-          fi
-
-      - name: Refresh jsDelivr cache
-        run: |
-          curl -X PURGE "https://fastly.jsdelivr.net/gh/Lky777/MWCP/rules/MobiListChina.txt"
+      - name: Update filters
+        run: bash scripts/update_filters.sh
 
       - name: Final cleanup
         if: always()
         run: |
-          rm -rf easylist/ rules/
+          rm -rf rules/ easylist/ scripts/
