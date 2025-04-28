@@ -1,14 +1,12 @@
 [Adblock Plus 2.0]
 ! Title: MobiListChina
 ! Description: blocker for Chinese mobile site
-! Version: 202504280357
-! Last modified: 28 Apr 2025 03:57 UTC
+! Version: 202504280446
+! Last modified: 28 Apr 2025 04:46 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
-###cxense-recs-in-article
 ##.addbox>div
-##.embed-responsive-trendmd
 $csp=child-src 'none'; frame-src 'self' *; worker-src 'none',domain=fileone.tv|theappguruz.com
 $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vidoza.net
 $csp=script-src 'self' '*' 'unsafe-inline',domain=pirateproxy.live|thehiddenbay.com|downloadpirate.com|thepiratebay10.org|ukpass.co|linksmore.site
@@ -1476,6 +1474,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /ajax/eulerian/*
 /ajax/log?
 /ajax/stat/*
+/ajax/user_daily_event?
 /ajax_video_counter.php?
 /ajaxlog?
 /ajds/*
@@ -4662,6 +4661,9 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /templates/*/js/_banner.js
 /templates/bootadult4/js/bottom.js
 /templates/bootadult4/js/text.js
+/templates/frontend/airav/css/2025-headerRWD.css
+/templates/frontend/airav/css/style_blog.css?
+/templates/frontend/airav/css/style_game.css?
 /templets/*/js/couplet-ad.
 /templets/js/yala.js
 /templets/yycms3/img/*
@@ -7699,6 +7701,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 |https://$image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=canyoublockit.com
 |https://$script,third-party,xmlhttprequest,domain=bc.vc
 |https://$script,xmlhttprequest,domain=urlcash.net
+|https://a.magsrv.com/ad-provider.js
 |https://api.ithome.com/json/hot/dajia.json^$script
 |https://blog.csdn.net/cdn_cgi_bs_bot/static/
 |https://blog.csdn.net/phoenix/web/v1/mini-app/
@@ -7712,6 +7715,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 |https://lf1-cdn-tos.bytegoofy.com/goofy/
 |https://mcs.volceapplog.com/list
 |https://passport.csdn.net/cdn_cgi_bs_bot/static/
+|https://playhubconnect.com/bn/
 |https://redisdatarecall.csdn.net/recommend/
 |https://silkroad.csdn.net/api/v2/assemble/list/
 |https://static.zhihu.com/heifetz/chunks/$script
@@ -11155,6 +11159,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||appn.center^$third-party
 ||appnext.com^$third-party
 ||appoineditardwide.com^$popup
+||appointeeivyspongy.com^
 ||appointeeivyspongy.com^$popup
 ||apprefaculty.pro^$popup
 ||apprupt.com^$third-party
@@ -12445,6 +12450,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||blasedustin.shop^
 ||blbclassic.org/assets/images/*banners/
 ||blbtibqk.icu^
+||blcdog.com^
 ||blcdog.com^$popup
 ||blciqbk.icu^
 ||bld.mobi^
@@ -13638,6 +13644,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||clanker-events.squarespace.com^
 ||clarice.streema.com^
 ||clarity.abacast.com^
+||clarity.ms^
 ||claritytag.com^$third-party
 ||clarium.global.ssl.fastly.net^
 ||clarium.io^$third-party
@@ -22700,6 +22707,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||lh.bigcrunch.com^
 ||lh168.net^*/attachment/portal/
 ||lhdnba.top^
+||lheffapin.com^
 ||lhinsights.com/collect?
 ||lhkmedia.in^$third-party
 ||lhmebwq.cn^
@@ -31534,6 +31542,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||tsk5.com^$third-party
 ||tsml.fun^$popup
 ||tsmodelstube.com/fun/$image,~third-party
+||tsyndicate.com^
 ||tsyndicate.com^$popup
 ||tt-px.com^$popup
 ||tt.biquge.la^
