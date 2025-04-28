@@ -1,40 +1,36 @@
 [Adblock Plus 2.0]
 ! Title: badguys
-! Version: 2025.04.21
+! Version: 20250428
 ! Expires: 30 days (update rarely)
 ! Description: 补充规则(已合并至Mobilist中)
-! Maintainer: [Lky777]
 !---------------------------------------
-
-! ========== General Rules ==========
-*.gif?
-.com/static/js/action.js
-/js/zzz.js
-/cloudflare-static/email-decode.min.js
-##.addbox>div
-
-! ========== Domain-Specific Rules ==========
-
+! 18comic
+/templates/frontend/airav/css/style_blog.css?
+/templates/frontend/airav/css/style_game.css?
+/templates/frontend/airav/css/2025-headerRWD.css
+/ajax/user_daily_event?
+|https://a.magsrv.com/ad-provider.js
+||appointeeivyspongy.com^
+||clarity.ms^
+|https://playhubconnect.com/bn/
+||lheffapin.com^
+||blcdog.com^
+||tsyndicate.com^
 ! ----- a2zapk -----
 a2zapk.io###modalpop
-
 ! ----- bilibili -----
 m.bilibili.com##.fixed-openapp
-
 ! ----- bing -----
 cn.bing.com###bnp_rich_div
 @@||bing.com/fd/ls/GLinkPing.aspx?
-
 ! ----- cnblog -----
 |https://www.cnblogs.com/*/custom.css?
 |https://www.cnblogs.com/*/ajax/post-accessories?
 |https://img2024.cnblogs.com/blog/35695/
-
 ! ----- colamanga -----
 |https://www.colamanga.com/common/css/website.css
 |https://www.colamanga.com/static/loading.gif
 @@||www.colamanga.com/js/ad_/load.js
-
 ! ----- csdn -----
 |https://statistic.csdn.net/
 |https://zhannei-dm.csdn.net/recommend/
@@ -46,24 +42,20 @@ cn.bing.com###bnp_rich_div
 |https://redisdatarecall.csdn.net/recommend/
 |https://g.csdnimg.cn/??sharewx/
 |https://csdnimg.cn/release/passport_fe/
-|https://passport.csdn.net/cdn_cgi_bs_bot/static/
-|https://blog.csdn.net/cdn_cgi_bs_bot/static/
-
 ! ----- ghxi -----
 |https://www.ghxi.com/wp-content/plugins/core-ai-power/
 |https://www.ghxi.com/wp-content/plugins/wp-opt/static/js/front.min.js?
-
 ! ----- oschina -----
 oschina.net##div[name="detail_show_footer"]
 |https://lf1-cdn-tos.bytegoofy.com/goofy/
-
 ! ----- ruanyifeng -----
 |https://www.ruanyifeng.com/blog/checker.js
 |https://www.ruanyifeng.com/blog/stats.js
-
 ! ----- sspai -----
 sspai.com###btn-call-app
-
+! ----- wxsck -----
+.com/static/js/action.js
+/js/zzz.js
 ! ----- zhihu -----
 |https://static.zhihu.com/heifetz/chunks/$script
 |https://static.zhihu.com/heifetz/column.app.$script
