@@ -89,8 +89,8 @@ jobs:
           sed -i '/^[*][.*/]/s/*//' rules/combined_rules.txt
           sed -i '/^\/\\./d' rules/combined_rules.txt
           sed -i '/^\/\^https/d' rules/combined_rules.txt
-          sed -i '/\/ads\// { /@@/! /~/! d }' rules/combined_rules.txt
-          sed -i '/\.gif?/ { /@@/! /~/! d }' rules/combined_rules.txt
+          sed -i '/\/ads\//!b; /@@\|~/!d' rules/combined_rules.txt
+          sed -i '/\.gif?/!b; /@@\|~/!d' rules/combined_rules.txt
           echo "" >> rules/combined_rules.txt
           echo "/ads/" >> rules/combined_rules.txt
           echo ".gif?" >> rules/combined_rules.txt
