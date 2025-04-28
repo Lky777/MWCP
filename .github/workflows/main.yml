@@ -8,11 +8,15 @@ on:
 permissions:
   contents: write
   
+# 设置日志和运行记录保留期为1天
+env:
+  ACTIONS_RUN_LOG_RETENTION_DAYS: 1
+  ACTIONS_RUN_RETENTION_DAYS: 1
+  
 jobs:
   update-filter:
     name: Update Adblock Filters
     runs-on: ubuntu-latest
-    retention-days: 1  # 设置此工作流的保留期为1天 
        
     steps:
       - name: Checkout repository
