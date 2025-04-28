@@ -2,7 +2,7 @@ name: Ad Filters
 
 on:
   schedule:
-    - cron: "0 20 * * *"  # 每天 UTC 20:00（北京时间 04:00，UTC+8）
+    - cron: "0 19 * * *"  # 每天 UTC 19:00（北京时间 03:00，UTC+8）
   workflow_dispatch:
 
 permissions:
@@ -84,11 +84,15 @@ jobs:
         id: merge_rules
         run: |        
           cat rules/*.txt > rules/combined_rules.txt
+          sort -u rules/combined_rules.txt
+          sed -i '/^\*_/ s/\*//' rules/combined_rules.txt
           sed -i '/^[*][.*/]/s/*//' rules/combined_rules.txt
           sed -i '/^\/\\./d' rules/combined_rules.txt
           sed -i '/^\/\^https/d' rules/combined_rules.txt
-          sed -i '/\.gif?/d' rules/combined_rules.txt
+          sed -i '/\/ads\// { /@@/! /~/! d }' rules/combined_rules.txt
+          sed -i '/\.gif?/ { /@@/! /~/! d }' rules/combined_rules.txt
           echo "" >> rules/combined_rules.txt
+          echo "/ads/" >> rules/combined_rules.txt
           echo ".gif?" >> rules/combined_rules.txt
           
       - name: Generate rules
