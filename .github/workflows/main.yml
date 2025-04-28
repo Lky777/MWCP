@@ -45,10 +45,10 @@ jobs:
       - name: Download additional rule sets
         run: |
           parallel_download() {
-            curl -fsSL https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt -o rules/EasyChina.txt &
-            curl -fsSL https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt -o rules/CJXlist.txt &
-            curl -fsSL https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt -o rules/Xinggsf.txt &
-            curl -fsSL https://raw.githubusercontent.com/Lky777/MWCP/refs/heads/main/rules/fix.txt -o rules/fixit.txt &
+            curl -fsSL https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt -o rules/easylistchina.txt &
+            curl -fsSL https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt -o rules/cjx-annoyance.txt &
+            curl -fsSL https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt -o rules/rules.txt &
+            curl -fsSL https://raw.githubusercontent.com/Lky777/MWCP/main/rules/fix.txt -o rules/fix.txt &
             wait
           }
           parallel_download || { echo "规则下载失败"; exit 1; }
@@ -64,7 +64,7 @@ jobs:
           awk '/^!/ && /Chinese/ {flag=1; next} /^!/ {flag=0} flag' rules/easyprivacy_{allowlist,specific,thirdparty}_international.txt > rules/Easyprivacy_a.txt
           rm -f rules/easyprivacy_allowlist_international.txt rules/easyprivacy_specific_international.txt rules/easyprivacy_thirdparty_international.txt
 
-          sed -i '/##+js/!{/##\|#@#/d}' rules/{EasyChina.txt,CJXlist.txt,Xinggsf.txt}
+          sed -i '/##+js/!{/##\|#@#/d}' rules/{easylistchina.txt,cjx-annoyance.txt,rules.txt}
 
       - name: Merge all filters
         id: merge_rules
@@ -73,8 +73,7 @@ jobs:
           sed -i '
               /###cxense-recs-in-article/d
               /##\.embed-responsive-trendmd/d
-              /^\*_\s*/d
-              /^\*\.[^/]*/d
+             s/^\*\([\/\-_]\)/\1/
               /^\/\\\./d
               /^\/\^https/d
               /\.gif\?/!b; /@@\|~/!d
