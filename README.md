@@ -1,11 +1,11 @@
 ## 移动端隐私防护   
  
-▸ 🚀优化规则，纵享丝滑更流畅  
-▸ 🛡精准拦截，平均拦截率 > 95%  
-▸ 📲每日更新，防护快人一步  
+▸ 规则仅供研究测试  
+▸ 针对移动端网页广告
+▸ 对各app及其开屏广告效果不大  
 
 ___
-📥**订阅地址**  
+📥  
 
 [Jsdelivr 加速链](https://fastly.jsdelivr.net/gh/Lky777/MWCP/rules/MobiListChina.txt)  
 ```html
