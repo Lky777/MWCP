@@ -1,0 +1,132 @@
+! Title: Buyguys
+! Version: 5.04.28
+! Homepage: https://github.com/Lky777/MWCP/
+! Description: 国内常见APP广告屏蔽（微信、字节、百度、京东、快手、小米、友盟、Unity3D）
+! Last modified: 2025-04-28
+! Note: 此文件保留所有原始域名，仅优化排版和注释
+
+# ================= 基础配置 =================
+127.0.0.1       localhost
+::1             localhost
+
+# ================ 广告屏蔽规则 ================
+
+# >>>>>>> 腾讯系广告（微信/QQ） <<<<<<<
+0.0.0.0         gdt.qq.com                  # 广告请求API
+0.0.0.0         ad.gdt.qq.com               # 广告请求API
+0.0.0.0         l.gdt.qq.com                # 曝光点击监测
+0.0.0.0         sdk.e.qq.com                # 广告SDK
+0.0.0.0         qzs.gdtimg.com              # 广告素材服务器
+0.0.0.0         pgdt.gtimg.cn               # 广告图片CDN
+0.0.0.0         wa.gtimg.com                # 广告跳转监控
+0.0.0.0         analytics.qq.com            # 腾讯数据分析
+0.0.0.0         pingma.qq.com               # 微信广告跟踪上报
+
+# >>>>>>> 字节跳动（抖音/头条） <<<<<<<
+0.0.0.0         is.snssdk.com               # 抖音广告接口
+0.0.0.0         ad.snssdk.com               # 广告请求API
+0.0.0.0         csjplatform.com             # 穿山甲广告服务器
+0.0.0.0         iad-toutiao.com             # 头条广告服务器
+0.0.0.0         sf3-ttcdn-tos.pstatp.com    # 广告素材CDN
+0.0.0.0         ttpublisherplatform.bytedance.com  # 广告推广接口
+0.0.0.0         p26-tt.byteimg.com          # 广告图片服务器
+0.0.0.0         p1-tt.byteimg.com           # 抖音素材CDN
+0.0.0.0         ad.bytedance.com            # 字节广告平台
+0.0.0.0         log.snssdk.com              # 广告统计上报
+0.0.0.0         vapp.byteoversea.com        # 抖音国际版接口
+0.0.0.0         mon.snssdk.com              # 行为分析监测
+
+# >>>>>>> 友盟（Umeng） <<<<<<<
+0.0.0.0         umeng.com                   # 友盟主域名
+0.0.0.0         alipay.umeng.com            # 支付宝广告SDK
+0.0.0.0         ad.umeng.com                # 广告推送接口
+0.0.0.0         adtrack.umeng.com           # 广告跟踪
+0.0.0.0         u.umeng.com                 # 用户行为上报
+0.0.0.0         i.umeng.com                 # 初始化配置
+0.0.0.0         m.umeng.com                 # 移动端广告分析
+0.0.0.0         ouplog.umeng.com            # 日志上报
+0.0.0.0         msg.umengcloud.com          # 云推送广告
+0.0.0.0         ump.umeng.com               # 推送中心
+
+# >>>>>>> 阿里巴巴（淘宝/支付宝） <<<<<<<
+0.0.0.0         adashx.m.taobao.com         # 淘宝广告统计
+0.0.0.0         g.alicdn.com                # 广告素材CDN
+0.0.0.0         adash.m.taobao.com          # 行为统计
+0.0.0.0         adimg.uve.weibo.com         # 微博合作广告
+0.0.0.0         marketing.adash.m.taobao.com # 精准营销
+0.0.0.0         clouda.alipay.com           # 支付宝小程序广告
+0.0.0.0         appupgrade.58.com           # 闲鱼广告升级
+0.0.0.0         adashx4yt.m.taobao.com      # 天猫精灵广告
+0.0.0.0         client.mail.163.com         # 网易邮箱广告（阿里交叉）
+
+# >>>>>>> Unity3D广告 <<<<<<<
+0.0.0.0         unityads.unity3d.com        # Unity广告主接口
+0.0.0.0         ads.api.unity.com           # 广告API
+0.0.0.0         adserver.unityads.unity3d.com # 广告服务器
+0.0.0.0         config.unityads.unity3d.com # 配置拉取
+0.0.0.0         cdn.adtrace.com             # 广告跟踪
+0.0.0.0         api.adinplay.com            # 关联广告伙伴
+0.0.0.0         webview.unityads.unity3d.com # 内嵌网页广告
+
+! =====================================
+! 百度APP、贴吧、小程序广告相关
+! =====================================
+0.0.0.0 union.baidu.com            # 百度广告联盟主控
+0.0.0.0 nbdsp.baidu.com             # 百度DSP广告平台
+0.0.0.0 adsearch.baidu.com          # 百度广告搜索接口
+0.0.0.0 pos.baidu.com               # 百度广告投放系统（开屏/信息流）
+0.0.0.0 eclick.baidu.com            # 百度广告点击追踪
+0.0.0.0 log.nuomi.com               # 百度糯米广告/数据统计
+0.0.0.0 mobads.baidu.com            # 百度移动广告SDK接口
+0.0.0.0 cpro.baidu.com              # 百度广告请求接口（网页广告）
+0.0.0.0 ssp.baidu.com               # 百度移动广告平台SSP接口
+
+! =====================================
+! 京东APP广告相关域名
+! =====================================
+0.0.0.0 ad.3.cn                   # 京东广告主服务器
+0.0.0.0 m.3.cn                    # 广告素材域名
+0.0.0.0 apx.m.jd.com               # 广告接口（开屏广告）
+0.0.0.0 ad.jd.com                  # 广告资源分发
+0.0.0.0 uc.3.cn                    # 用户数据统计与广告相关
+0.0.0.0 ext.m.jd.com               # 广告活动推广页面跳转
+0.0.0.0 mad.jd.com                 # 广告请求接口
+0.0.0.0 jdad.jd.com                # 京东联盟广告服务器
+
+! =====================================
+! 知乎广告域名
+! =====================================
+0.0.0.0 appcloud2.in.zhihu.com     # 知乎小程序广告
+0.0.0.0 mqtt.zhihu.com             # 知乎推送与广告相关
+0.0.0.0 sugar.zhihu.com            # 知乎广告资源接口
+! =====================================
+! 网易系广告域名（网易云音乐、新闻、邮箱）
+! =====================================
+0.0.0.0 ad.163.com                # 网易广告请求主域
+0.0.0.0 iadmat.nosdn.127.net       # 网易广告素材CDN
+0.0.0.0 iadmusicmat.music.126.net  # 网易云音乐广告素材
+0.0.0.0 push.music.126.net         # 网易云音乐推送广告
+0.0.0.0 g1.163.com                 # 网易广告点击追踪
+0.0.0.0 analytics.163.com          # 网易数据统计（带广告追踪）
+0.0.0.0 img1.126.net               # 网易广告图CDN（部分）
+0.0.0.0 nstool.netease.com         # 网易广告监测与推送
+0.0.0.0 vmusic.163.com             # 网易云视频广告
+
+! =====================================
+! 快手APP广告与推广接口
+! =====================================
+0.0.0.0 adstats.ksyun.com          # 快手广告统计数据接口
+0.0.0.0 log.kuaishou.com           # 快手用户行为上报（广告相关）
+0.0.0.0 ad.e.kuaishou.com          # 快手广告请求接口
+0.0.0.0 adshow.e.kuaishou.com      # 快手广告展示接口
+0.0.0.0 report.e.kuaishou.com      # 快手广告数据上报
+0.0.0.0 open.e.kuaishou.com        # 快手广告平台开放接口
+
+! =====================================
+! 小米MIUI广告域名
+! =====================================
+0.0.0.0 ad.mi.com                 # 小米广告平台
+0.0.0.0 ad.xiaomi.com             # 小米广告请求
+0.0.0.0 ad1.xiaomi.com            # 小米广告分发
+0.0.0.0 api.ad.xiaomi.com         # 广告API接口
+0.0.0.0 sdkconfig.ad.xiaomi.com   # SDK广告配置
