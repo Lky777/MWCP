@@ -2,7 +2,7 @@ name: Ad Filters
 
 on:
   schedule:
-    - cron: "0 19 * * *"  # 每天 UTC 19:00（北京时间 03:00，UTC+8）
+    - cron: "0 19 * * *"  # 每天 UTC 19:00（北京时间 03:00）
   workflow_dispatch:
 
 permissions:
@@ -23,12 +23,12 @@ jobs:
 
       - name: Setup working directory
         run: |
-          set -eo pipefail
+          set -euo pipefail
           mkdir -p rules/
 
       - name: Clone EasyList repository
         run: |
-          git clone --depth 1 https://github.com/easylist/easylist.git
+          git clone --depth 1 --filter=blob:none https://github.com/easylist/easylist.git
 
       - name: Prepare EasyList filters
         run: |
@@ -39,19 +39,22 @@ jobs:
           mv easylist/easylist_adult/*.txt rules/ &
 
           mv easylist/easyprivacy/{easyprivacy_allowlist_international.txt,easyprivacy_specific_international.txt,easyprivacy_thirdparty_international.txt,easyprivacy_general.txt,easyprivacy_specific.txt,easyprivacy_thirdparty.txt,easyprivacy_trackingservers.txt,easyprivacy_trackingservers_mining.txt,easyprivacy_trackingservers_thirdparty.txt} rules/ &
+
           wait
           rm -rf easylist/
 
       - name: Download additional rule sets
         run: |
-          parallel_download() {
-            curl -fsSL https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt -o rules/easylistchina.txt &
-            curl -fsSL https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt -o rules/cjx-annoyance.txt &
-            curl -fsSL https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt -o rules/rules.txt &
-            curl -fsSL https://raw.githubusercontent.com/Lky777/MWCP/main/rules/fix.txt -o rules/fix.txt &
-            wait
-          }
-          parallel_download || { echo "规则下载失败"; exit 1; }
+          declare -A urls=(
+            ["easylistchina.txt"]="https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt"
+            ["cjx-annoyance.txt"]="https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt"
+            ["rules.txt"]="https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt"
+            ["fix.txt"]="https://raw.githubusercontent.com/Lky777/MWCP/main/rules/fix.txt"
+          )
+
+          for file in "${!urls[@]}"; do
+            curl -fsSL "${urls[$file]}" -o "rules/$file" || { echo "下载失败: $file" >&2; exit 1; }
+          done
 
       - name: Process downloaded filters
         run: |
@@ -69,7 +72,10 @@ jobs:
       - name: Merge all filters
         id: merge_rules
         run: |
+          set -euo pipefail
+
           find rules -name "*.txt" -exec cat {} + | sort -u > rules/combined_rules.txt
+
           sed -i '
             /###cxense-recs-in-article/d
             /##\.embed-responsive-trendmd/d
@@ -80,6 +86,7 @@ jobs:
               /@@\|~/!d
             }
           ' rules/combined_rules.txt
+
           printf '%s\n' '.gif?' '/ads/' >> rules/combined_rules.txt
 
       - name: Generate final rule list
@@ -111,7 +118,7 @@ jobs:
 
           if ! git diff --quiet -- rules/MobiListChina.txt; then
             git add rules/MobiListChina.txt
-            git commit -m "Auto-update: $(date -u +'%Y-%m-%d %H:%M UTC') - ${{ steps.generate_rules.outputs.rule_count }} rules"
+            git commit -m "Auto-update: $(date -u +'%Y-%m-%d %H:%M UTC') | Rules: ${{ steps.generate_rules.outputs.rule_count }}"
             git push
             echo "✓ 变更已提交"
           else
