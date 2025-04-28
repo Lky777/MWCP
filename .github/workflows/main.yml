@@ -85,6 +85,8 @@ jobs:
         run: |        
           cat rules/*.txt > rules/combined_rules.txt
           sort -u rules/combined_rules.txt
+          sed -i '/###cxense-recs-in-article/d' rules/combined_rules.txt
+          sed -i '/##\.embed-responsive-trendmd/d' rules/combined_rules.txt
           sed -i '/^\*_/ s/\*//' rules/combined_rules.txt
           sed -i '/^[*][.*/]/s/*//' rules/combined_rules.txt
           sed -i '/^\/\\./d' rules/combined_rules.txt
