@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/Lky777/MWCP/refs/heads/main/rules/MobiListChin
 ```
 
 ___
-规则来源
+**鸣谢**  
 * [Easylist & Privacy](https://github.com/easylist/easylist)  
 * [EasylistChina](https://github.com/easylist/easylistchina)  
 * [CJX's Annoyance List](https://github.com/cjx82630/cjxlist)  
