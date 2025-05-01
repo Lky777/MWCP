@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiListChina
 ! Description: blocker for Chinese mobile site
-! Version: 202505011618
-! Last modified: 01 May 2025 16:18 UTC
+! Version: 202505011714
+! Last modified: 01 May 2025 17:14 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -1880,7 +1880,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /busting/google-tracking/*
 /buysellads.js$script
 /bv-analytics.js
-/c.js#pid=$script,third-party
 /c.wrating.com/*
 /c/674_rlt.js
 /c/i.php?id=$script,third-party
@@ -5248,39 +5247,13 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /zzzz/assets/js/common/discor_list.js
 /~cdn/ads/*
 100.pncdn.cn
-114la.com#?#.sortItem:-abp-has(> dIV[class] > .FeedADClose)
-141jj.com#?#li:-abp-contains(/贊助|推廣/)
-159i.com#?#:-abp-has(> img[src*="gif"])
-159i.com#?#div:-abp-has(> img+a)
 17u.cn
-18-comicfrieren.xyz,18comic.org,18comic.vip#?#:-abp-has(>ins+div)
-18-comicfrieren.xyz,18comic.org,18comic.vip#?#:-abp-has(>ins+script)
-18-comicfrieren.xyz,18comic.org,18comic.vip#?#:-abp-has(>ins+style)
-18-comicfrieren.xyz,18comic.org,18comic.vip#?#:-abp-has(>script+ins)
-18-comicfrieren.xyz,18comic.org,18comic.vip#?#:not(body):-abp-has(>script[src*=".realsrv.com"])
-1point3acres.com#?#div[id^="portal_block"]:-abp-has(a[href*="fiverr.com"])
-2345.com#?#.pic:-abp-has(a[href^="http://g.wan."])
 37cs.com
 37gowan.com
-3dmgame.com#?#.downl_list:-abp-has(style)
-3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com#?#div:-abp-has(>.openBox-container)
-3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com#?#div:-abp-has(>div[id$="_1"]+div[id$="_5"])
 40017.cn
 4009997658.com
-423down.com#?#.post-related > ul > li:-abp-has(> a[href^="http"]:not([href*="423down."]))
-423down.com#?#li:-abp-has(> .pic[href^="http"]:not([href*="423down."]))
 51.la
-58.com#?#.ac_item:-abp-has(.jingpin)
-58.com#?#.business_main:-abp-has(> .business_desc > .left > .ding_icon)
-58.com#?#.zzinfo:-abp-has(.zhiding_icon)
-58.com#?#LI[sortid]:-abp-has(.icon-jingxuan)
-58.com#?#LI[sortid]:-abp-has(.icon-zhiding)
-58.com#?#LI[sortid]:-abp-has(.jinico)
-58.com#?#TR[logr]:-abp-has(> .t > .mt-p-tit > .jingpin)
-58.com#?#tr[sortid]:-abp-has(> .t > .ico.accurate)
 5hte21mz.com
-69xx.one,69xx487.xyz,8mav.cc,av411.xyz,cable2055.cc,theav.xyz,thep178.com,theporn.cc,weav.xyz#?#[class]:-abp-has(>a>.q-responsive)
-91porny.org,jiuse100.cc,jstv600.com,x9av7.com#?#.card:-abp-has(>.card-image>a[href^="http"])
 ://*.justthegays.com/$script,~third-party
 ://*.tv/ad/$domain=~moviedj.tv
 ://*.z*.xyz/$object,third-party
@@ -5487,10 +5460,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@.com/adv/$domain=my.ctrip.com
 @@.com/js/a_d/$domain=colamanga.com
 @@.com/logo/ad.$domain=colamanga.com
-@@.gif#$domain=b168.net|cnprint.org|huhupan.com|tgfcer.com|wgun.net
 @@.google-analytics.com%2Fanalytics.js$domain=free.com.tw
-@@.jpg#$domain=huhupan.com
-@@.png#$domain=3dpchip.com|9zvip.net|club.tgfcer.com|coolinet.com|d1-dm.com|digit77.com|e9china.net|upxin.net
 @@/WebAd/*$domain=yongyoujia.com
 @@/ad-close.png$domain=ch.com
 @@/ad/images/*$domain=37-express.com|vnnox.com
@@ -7387,194 +7357,80 @@ _webanalytics.
 _yad_jsonp_
 a2zapk.io###modalpop
 abbyychina.com
-ablesci.com#?#.fly-panel:-abp-has(img[src*="-hongbao."])
 ada.baidu.com
-amazon.cn#?#.s-result-item:-abp-has(> .s-item-container > h5 .s-sponsored-info-icon)
-appinn.com#?#.featured-section > .test:-abp-has(>.post-img>a[href^="http"]:not([href*="appinn."]))
 asgg.php$domain=ghostbin.me|paste.fo
 at3.doubanio.com
-baidu.com#?#.c-gap-bottom-small:-abp-has(>a>div>div[class^="jr-stock-open-account-"])
-baidu.com#?#.container:-abp-has(>.bottom-section>.item_voice_room[data-yysid])
-baidu.com#?#.container_frs:-abp-has(>.voice_room_card_frs[data-url*="yylive"])
-baidu.com#?#.rec-item:-abp-has(> .vbox > div > .appad-relate-rectpl)
-baidu.com,bdimg.com,tieba.com#?#.l_post:-abp-has(div[class*=" fc-"])
-baidu.com,bdimg.com,tieba.com#?#.thread_item_box:-abp-has(div[class*=" fc-"])
 bartender.cc
-bdimg.com,tieba.baidu.com,tieba.com#?#.tl_shadow:-abp-has(> .ti_item > .ti_infos > .label_text_tag:-abp-contains(广告))
-benyixiwang.com#?#p:-abp-has(a[href="http://www.sm9166.com"])
 beyondcompare.cc
-bilibili.com#?#.eva-extension-body > .bili-video-card:-abp-has(.bili-video-card__info--ad)
-bilibili.com#?#.is-rcmd:-abp-has(>div:not(div:-abp-has(div)))
-bilibili.com#?#.video-card-common:-abp-has(>.card-pic>a[href*="cm.bilibili.com"][data-target-url])
-bilibili.com#?#.video-page-special-card-small:-abp-has(>.card-box>.info>a[href^="http"]:not([href*=".bilibili.com/"]))
-bing.com#?#.b_algo:-abp-has(.ad_esltitle)
-bing.com#?#.b_algo:-abp-has(.b_ads1line)
-bing.com#?#.sb_form_placeholder:-abp-has(>.ad-ghost-slug)
-bing.com#?#li[class="b_algo"]:-abp-has(.b_attribution[data-partnertag]+p[class])
 bingdianhuanyuan.cn
-boylov.xyz,boylove.cc,boyloves.fun#?#:-abp-has(>.adsbyexoclick)
-btmulu.com#?#.item:-abp-has(> a[target="_blank"])
-cartoon18.com#?#.row:-abp-has(.badge:-abp-contains(ad))
-chbeyond.cn#?#a:-abp-has(> .xcybk-adfg)
 chemdraw.com.cn
 cm.jd.com
 cn.bing.com###bnp_rich_div
-cn.bing.com#?#.b_algo:-abp-has(p:-abp-properties(content:*Jr8IbslwuuoZ9kr8cTrXXkY8lfZL5p8v2TTht91DQxXZU9AB6BpwzkAAU2AAAAAElFTkSuQmCC))
-cnyes.com#?#.content-main > div:-abp-has(>div[id^="div-gpt-ad"])
-cnyes.com#?#article > div:-abp-has(>div[id^="div-gpt-ad"])
-copyfuture.com#?#.tabbable > div:-abp-contains(宝红)
 coreldrawchina.com
-czzy.top,czzy77.com#?#.swiper-slide:-abp-has(a[href^="http"]:not([href*="czzy"]))
 dd.yiche.com
-ddooo.com#?#span:-abp-has(>p:-abp-contains(高速))
-ddooo.com#?#ul:-abp-has(>dd:-abp-contains(高速))
 diwenganzaoji.com
 dlads.cn
-douban.com#?#.rec_topics:-abp-has(>.rec_topics_name[href^="https://erebor.douban."])
 doubleclick.net
-douyin.com#?#.xgplayer>div[class]:-abp-has(svg[height="16"][width="30"])
-douyu.com#?#.SharePanel:-abp-has(> .SharePanel-content > .SharePanel-contentTitle:-abp-contains(福利))
-douyu.com#?#.bc-wrapper:-abp-has(>.wm-view>div>.isLink[href*=".qualtrics.com/"])
-douyu.com#?#.wm-general:-abp-has(.link[href*=".tmall.com"])
 easyrecoverychina.com
 ediuschina.com
 enennsa.gushiwen.cn
-engadget.com#?#.Py\(40px\):-abp-has(> article > .D\(f\) > .Pos\(r\)[data-ylk*=":AD;"])
 erebor.douban.com
-fishpi.cn#?#.module:-abp-has(>.ad)
 flstudiochina.com
 fpb.sohu.com
 g.163.com
 g1.tagtic.cn
-guilinlife.com#?#li:-abp-has(> div > .content-other > .content-type:-abp-contains(广告))
 guitarpro.cc
-hao.360.com#?#.cube-mod:-abp-has(.dh-cpcad-container)
-hdhive.online#?#.mt-4:-abp-has(>.text-lg)
 huishenghuiying.com.cn
-huya.com#?#.item-pic:-abp-has(>.img-tips)
 hxsame.hexun.com$domain=~quote.hexun.com
 iconworkshop.cn
 icws.jb51.net
-ifeng.com#?#.box_list:-abp-has(.tuig)
-ifeng.com#?#div[class^="titleImg-"]:-abp-has(span[class^="source-"]:-abp-contains(推广))
-image.baidu.com#?#.newfcImgli:-abp-has(.fc-ad-tip)
-image.so.com#?#.cell:-abp-has(.txt:-abp-contains(广告))
-image.so.com#?#.imgcell:-abp-has(.txt:-abp-contains(广告))
 imasdk.googleapis.com
 img.easypass.cn
 imindmap.cc
-ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com#?#div[id$="_canvas"]
-ipv6.baidu.com,xueshu.baidu.com,www.baidu.com,www1.baidu.com#?#.c-container:-abp-has(.t > a[data-landurl])
-ipv6.baidu.com,xueshu.baidu.com,www.baidu.com,www1.baidu.com#?#div:not([id]) > style[id^="s-"] + style + div + div[id]
-ipv6.baidu.com,xueshu.baidu.com,www.baidu.com,www1.baidu.com#?#div:not([id]) > style[id^="s-"] + style + div[id]
-iqshv.com#?#.post-list-item:-abp-has(.thumb-link[href^="http"]:not([href*=".iqshv."]))
 irs01.com
 irs03.com
-itdog.cn#?#.card:-abp-has(.partner>a[href*=".jimcloud.net"])
 ithome.com##+js(trusted-click-element, span.hb-close-btn)
-ithome.com#?#.placeholder:-abp-has(> a > .plc-con > .plc-footer > .tip-gray)
-ithome.com#?#li:-abp-has(>.block a[href*="/lapin."])
-jianshu.com#?#div[id]:-abp-has(> .ad-badge)
 jihehuaban.com.cn
 js.kiwihk.net
 keyshot.cc
 kingdeecn.cn
-kostool.cn#?#div:-abp-has(> h1:-abp-contains(推广))
 kstj.baidu.com
-ldqk.xyz,masuit.com#?#.panel:-abp-has(>.panel-body>a>img)
-lenovo.com.cn#?#.imgNewText:-abp-has(>footer>.info>.source:-abp-contains(/广告/))
-lenovo.com.cn#?#a:-abp-has(>div>p:-abp-contains(广告))
-libaclub.com#?#.ui-list-item:-abp-has(>.ui-list-item-title>a[onclick^="SendAd"])
-lihkg.com#?#div[class^="_"]:-abp-has(>div>div>.adsbygoogle)
-linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__description span:-abp-contains(/促銷內容|广告/))
-linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__sub-description span:-abp-contains(/促銷內容|广告/))
 logoshejishi.com
 m.bilibili.com##.fixed-openapp
-m.qu.la#?#:-abp-has(> a[href*=".bcebos."])
-m.qu.la#?#ul:-abp-has(> li > a[href*=".bcebos."])
 mairuanwang.com
 makeding.com
-manhuadb.com#?#.comicbook-index:-abp-has(>a[href^="http"])
 mathtype.cn
 mediav.com
 mfp.deliver.ifeng.com
 mindmanager.cc
-moegirl.org.cn#?#.capsule-card:-abp-has(.n-tag)
-mongoing.com#?#.widget_custom_html:-abp-has(> .custom-html-widget > a[href^="http"]:not([href*="mongoing.com"]))
-mrmad.com.tw#?#div[id^="mrmad-"]:-abp-has(>.adsbygoogle)
-muchong.com#?#.forum_Post_index:-abp-has(nobr:-abp-contains(18))
 mycleanmymac.com
-mydowndown.com#?#.bs-component:-abp-has(>a[href*="97jez.com"])
 mydrivers.com##+js(set,jQuery.fn.resetIdleTimeup,trueFunc)
-mydrivers.com#?#li:-abp-has(>.titl+:-abp-contains(/广*告/))
-mydrivers.com#?#li:-abp-has(>.titl+:-abp-contains(/推*广/))
-mydrivers.com#?#li:-abp-has(>.titl+:-abp-contains(好 物))
-mydrivers.com#?#li:-abp-has(>.titl+:-abp-contains(好物))
 myqqjd.com##+js(acis, String.fromCharCode, decodeURIComponent)
-neets.cc#?#div[class]:-abp-has(> div > .home_p)
-news.163.com#?#div[ne-module="/modules/slide/slide.js"]:-abp-has(.ad_hover_pic)
-news.baidu.com#?#.index-list-item:-abp-has(.tip-time:-abp-contains(广告))
-news.sohu.com,www.sohu.com#?#.list16 > ul > li:-abp-contains(广告)
-nfmovies.com#?#div[id]:-abp-has(>img[onclick="openurl()"])
-nfstar.net#?#.myui-panel-bg:-abp-has(strong:-abp-contains(广告))
-novipnoad.com#?#.video-item:-abp-has(img[src*="/bd/"])
 ntfsformac.cc
 ntfsformac.cn
 oschina.net##div[name="detail_show_footer"]
 pageMediaControl*$script
 parallelsdesktop.cn
-pcbeta.com#?#div[class]:-abp-properties(/height: (169|171)px;/)
 pdfexpert.cc
 pfp.sina.net
-poedb.tw#?#div[id]:-abp-contains(ad blocker)
 qcvf.ifeng.com
 qpb.sohu.com
-ruanyifeng.com#?#.asset-content > p:-abp-contains(/二维|助教|0 元|报名费|原价/) + p + p > img
-ruanyifeng.com#?#.asset-content > p:-abp-contains(/二维|助教|0 元|报名费|原价/) + p > img
-runoob.com#?#.sidebar-box:-abp-has(.re-600160)
-rvlev.com,t66y.com#?#.tpc_content:-abp-has(>b:nth-child(n+40)>span>a[onmouseover="this.style.background='#DEF5CD';"]:-abp-contains(91TV)) > :nth-child(-n+45)
-rvlev.com,t66y.com#?#.tpc_content:-abp-has(>b:nth-child(n+50)>span>a[onmouseover="this.style.background='#DEF5CD';"]:-abp-contains(91TV)) > :nth-child(-n+55)
-rvlev.com,t66y.com#?#[class]:-abp-has(>a[onmouseover="this.style.background='#DEF5CD';"]:nth-child(n+150):-abp-contains(/赌|娱|澳/)) > :nth-child(-n+155)
-rvlev.com,t66y.com#?#[class]:-abp-has(>a[onmouseover="this.style.background='#DEF5CD';"]:nth-child(n+160):-abp-contains(/赌|娱|澳/)) > :nth-child(-n+170)
-rvlev.com,t66y.com#?#[class]:-abp-has(>a[onmouseover="this.style.background='#DEF5CD';"]:nth-child(n+180):-abp-contains(/赌|娱|澳/)) > :nth-child(-n+188)
-rvlev.com,t66y.com#?#[class]:-abp-has(>a[onmouseover="this.style.background='#DEF5CD';"]:nth-child(n+190):-abp-contains(/赌|娱|澳/)) > :nth-child(-n+195)
-samsung.com#?#.template-item:-abp-has(> .wrap-sub-title > div > .ad)
 shankejingling.com
-sogou.com#?#div[class^="right-feedback"]:-abp-has(>.list-step-title:-abp-contains(网游))
 sspai.com###btn-call-app
 swc.weather.com.cn
 taboola.com
 tanx.com
-taobao.com#?#.item-ad
 taobao.qq.com
 testpages.eyeo.com*js/test-script-regex
 testpages.eyeo.com*js/test-script.js
-toutiao.com#?#.has_action:-abp-has(> .icon_ad)
 track.sohu.com
 tuijian.sogou.com
 u-x.jd.com
 u8.hujiang.com
 ubmcmm.baidustatic.com
 udiab1.jianshu.com
-v2ex.com#?#.box:-abp-has(>.inner>div>span[style]:-abp-contains(Sponsored))
 vegaschina.cn
-view.inews.qq.com#?#div[class^="_"]:-abp-has(>div[data-action-id]>div>.react-swipeable-view-container)
-wealth.com.tw#?#div[class]:-abp-has(>div[class]>div[class*="-ad-manager-"])
 webcert.cnmstl.net
-weibo.com#?#.card-content > ul > li:-abp-has(> p > .icon-txt-recommend)
-weibo.com#?#.card-content > ul > li:-abp-has(>a[action-type="realtimehot_ad"])
-weibo.com#?#.card-wrap:-abp-has(> .card-film > .card-head > .title:-abp-contains(广告))
-weibo.com#?#.card-wrap:-abp-has(>.card-top>.s-fr:-abp-contains(广告))
-weibo.com#?#.card-wrap:-abp-has(>.card>i[style*="%E5%B9%"])
-weibo.com#?#.vue-recycle-scroller__item-view:-abp-has(.wbpro-ad-tag:-abp-contains(广告))
-weibo.com#?#.vue-recycle-scroller__item-view:-abp-has(div[class*="head-info_"]>div:-abp-contains(热推))
-weibo.com#?#.vue-recycle-scroller__item-view:-abp-has(div[class*="head-info_"]>img[src^="data"])
-weibo.com#?#.vue-recycle-scroller__item-view:-abp-has(img[class^="head-info_authicon_"][src^="data"])
-weibo.com#?#.vue-recycle-scroller__item-view:-abp-has(span[class^="wbpro-icon-search"]:-abp-contains(/商|上新|好物/))
-weibo.com#?#.wbpro-side-panel:-abp-has(span[class^="wbpro-icon-search"]:-abp-contains(商))
-weibo.com#?#tr:-abp-has(> .td-03 > .icon-txt-recommend)
-wenxuecity.com#?#div:-abp-has(>label[class^="adlab"])
-wezhicms.com#?#.card-main:-abp-has(.waimai-item-img)
 wrating.com
 ws://*/api/wss/GetNotReadCount$third-party
 wss://*.*.top/$third-party
@@ -7585,21 +7441,10 @@ wss://www.*.xyz/ws^$third-party
 wwads.cn
 www.zhzzx.com@@/api/models?$domain=tik.porn
 x.jd.com
-x6d.com#?#li:-abp-has(>.myad)
 xshellcn.com
-yahoo.com#?#.js-stream-content:-abp-has(a[href*=".promotions."])
-yahoo.com#?#.js-stream-content:-abp-has(div:-abp-contains(雅虎搜尋))
-yahoo.com#?#.stream-item:-abp-has(>div>div>div>span:-abp-contains(即日熱搜))
-yahoo.com#?#.wafer-beacon:-abp-has(a[data-ylk*=":ad;"])
 yihuifu.cn
-ying35.com#?#table:-abp-has(a[href*="/fei-ad"])
-ypojie.com#?#.excerpt:-abp-has(>.focus[href^="http"]:not([href*="ypojie"]))
 yydstxt*.com/js/cdn.
 yydstxt*.com/js/html
-yyets.click#?#.MuiBadge-root:-abp-has(>a[href*="/maomao.cloud/"])
-zhangxinxu.com#?#:-abp-properties(display: block;*width: 336px;)
-zhihu.com#?#.TopstoryItem:-abp-has(.Popover > .TopstoryItem-advertButton)
-zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 |about:blank#$popup,domain=22pixx.xyz|adblockstrtape.link|bitporno.com|cdnqq.net|clipconverter.cc|dailyuploads.net|dood.la|dood.so|dood.to|dood.video|dood.watch|dood.ws|doodcdn.com|flashx.net|gospeljingle.com|hqq.tv|imagetwist.com|mixdrop.bz|mixdrop.sx|mp4upload.com|playtube.ws|popads.net|powvideo.net|powvldeo.cc|putlocker.style|run-syndicate.com|soap2day.tf|spcdn.cc|strcloud.link|streamani.net|streamsb.net|streamtape.cc|streamtape.com|streamtape.site|strtape.cloud|strtape.tech|strtapeadblock.club|strtapeadblock.me|strtpe.link|supervideo.cc|tapecontent.net|turboimagehost.com|upstream.to|uptostream.com|uptostream.eu|uptostream.fr|uptostream.link|userload.co|vev.red|vevo.io|vidcloud.co|videobin.co|videowood.tv|vidoza.net|voe.sx|vortez.net|vshare.eu|watchserieshd.tv
 |blob:$popup,domain=hqq.tv|waaw.to
 |data:text$popup,domain=~clker.com
@@ -21394,7 +21239,6 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||csdnimg.cn/check-adblock/
 ||csdnimg.cn/common/redpack/redpack.js
 ||csdnimg.cn/public/common/indexSuperise/1.1.1/indexSuperise.js
-||csdnimg.cn^*#/preview/
 ||csdsa22.fun^
 ||cse.google.com/cse_v2/ads$subdocument
 ||csedydjvgcmuqz.com^
@@ -28572,6 +28416,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||frenghiacred.com^
 ||frequentagentlicense.com^
 ||frequentimpatient.com^
+||frereroyt.com^
 ||fresh.inlinkz.com^$third-party
 ||fresh8.co^
 ||freshbooks.com/images/banners/
@@ -29183,6 +29028,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||garbagebanquetintercept.com^
 ||garbageshallotsnowiness.com^
 ||garbanzos24.fun^
+||garboilfarle.com^
 ||gardenbilliontraced.com^
 ||gardeningseparatedudley.com^
 ||gardoult.com^
@@ -37927,6 +37773,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||loukoost.net^
 ||loulouly.net^
 ||loulowainoopsu.net^
+||loungedcabrie.com^
 ||loungyserger.com^
 ||loungysilvius.top^
 ||lourdoueisienne.website^
@@ -47592,6 +47439,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||qunqawarsbij.com^
 ||qunrcibhis.com^
 ||quokkacheeks.com^
+||quokkasgraf.com^
 ||quora.com/_/ad/
 ||quora.com/qevents.js
 ||quotationfirearmrevision.com^
