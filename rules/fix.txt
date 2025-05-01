@@ -1,72 +1,110 @@
 [Adblock Plus 2.0]
 ! Title: badguys
-! Version: 20250428
+! Version: 20250501
 ! Expires: 30 days (update rarely)
 ! Description: 补充规则(已合并至Mobilist中)
-!---------------------------------------
+
+! ---------------------------------------
 ! 18comic
+/ajax/user_daily_event?
+/templates/frontend/airav/css/2025-headerRWD.css
 /templates/frontend/airav/css/style_blog.css?
 /templates/frontend/airav/css/style_game.css?
-/templates/frontend/airav/css/2025-headerRWD.css
-/ajax/user_daily_event?
-|https://a.magsrv.com/ad-provider.js
-||appointeeivyspongy.com^
-||clarity.ms^
-|https://playhubconnect.com/bn/
-||lheffapin.com^
-||blcdog.com^
-||tsyndicate.com^
-! ----- a2zapk -----
+|https://18comic.*/static/resources/files/$image
+|https://18comic.*/templates/frontend/airav/emoji/emojionearea.css
+|https://cdn-msp3.18comic.*/static/resources/images/
+||culxawxafsw.com^
+
+! ---------------------------------------
+! a2zapk
 a2zapk.io###modalpop
-! ----- bilibili -----
+
+! ---------------------------------------
+! bilibili
 m.bilibili.com##.fixed-openapp
-! ----- bing -----
-cn.bing.com###bnp_rich_div
+
+! ---------------------------------------
+! bing
 @@||bing.com/fd/ls/GLinkPing.aspx?
-! ----- cnblog -----
-|https://www.cnblogs.com/*/custom.css?
-|https://www.cnblogs.com/*/ajax/post-accessories?
+cn.bing.com###bnp_rich_div
+
+! ---------------------------------------
+! cnblog
 |https://img2024.cnblogs.com/blog/35695/
-! ----- colamanga -----
+|https://www.cnblogs.com/*/ajax/post-accessories?
+|https://www.cnblogs.com/*/custom.css?
+
+! ---------------------------------------
+! colamanga
 |https://www.colamanga.com/common/css/website.css
+|https://www.colamanga.com/counting
 |https://www.colamanga.com/static/loading.gif
 @@||www.colamanga.com/js/ad_/load.js
-! ----- csdn -----
+
+! ---------------------------------------
+! csdn
+|https://blog.csdn.net/phoenix/web/v1/mini-app/
+|https://csdnimg.cn/release/passport_fe/
+|https://eva2.csdn.net/v3/
+|https://g.csdnimg.cn/??sharewx/
+|https://g.csdnimg.cn/asdf/*/trackad.js
+|https://img-home.csdnimg.cn/data_json/jsconfig/redPacket.json
+|https://redisdatarecall.csdn.net/recommend/
+|https://silkroad.csdn.net/api/v2/assemble/list/
 |https://statistic.csdn.net/
 |https://zhannei-dm.csdn.net/recommend/
-|https://silkroad.csdn.net/api/v2/assemble/list/
-|https://blog.csdn.net/phoenix/web/v1/mini-app/
-|https://img-home.csdnimg.cn/data_json/jsconfig/redPacket.json
-|https://g.csdnimg.cn/asdf/1.0.9/trackad.js
-|https://eva2.csdn.net/v3/
-|https://redisdatarecall.csdn.net/recommend/
-|https://g.csdnimg.cn/??sharewx/
-|https://csdnimg.cn/release/passport_fe/
-! ----- ghxi -----
+
+! ---------------------------------------
+! ghxi
 |https://www.ghxi.com/wp-content/plugins/core-ai-power/
 |https://www.ghxi.com/wp-content/plugins/wp-opt/static/js/front.min.js?
-! ----- oschina -----
-oschina.net##div[name="detail_show_footer"]
+
+! ---------------------------------------
+! oschina
 |https://lf1-cdn-tos.bytegoofy.com/goofy/
-! ----- ruanyifeng -----
+oschina.net##div[name="detail_show_footer"]
+
+! ---------------------------------------
+! ruanyifeng
 |https://www.ruanyifeng.com/blog/checker.js
 |https://www.ruanyifeng.com/blog/stats.js
-! ----- sspai -----
+
+! ---------------------------------------
+! sspai
 sspai.com###btn-call-app
-! ----- wxsck -----
-.com/static/js/action.js
+
+! ---------------------------------------
+! wxsck
 /js/zzz.js
-! ----- zhihu -----
+.com/static/js/action.js
+
+! ---------------------------------------
+! zhihu
+@@||static.zhihu.com/heifetz/chunks/lib-$script
+@@||static.zhihu.com/heifetz/chunks/mobile-$script
+@@||static.zhihu.com/heifetz/chunks/shared-$script
+|https://mcs.volceapplog.com/list
 |https://static.zhihu.com/heifetz/chunks/$script
-|https://static.zhihu.com/heifetz/column.app.$script
 |https://static.zhihu.com/heifetz/column.*.css
+|https://static.zhihu.com/heifetz/column.app.$script
 |https://www.zhihu.com/api/v4/growth/mobile_top_banner?
 |https://www.zhihu.com/api/v4/hot_recommendation?
 |https://www.zhihu.com/api/v4/questions/*/related-readings?
 |https://www.zhihu.com/sc-profiler
-|https://mcs.volceapplog.com/list
 |https://zxid-api.mobileservice.cn/sdk/base/report
 ||unpkg.zhimg.com/@cfe/sentry-script@
-@@|https://static.zhihu.com/heifetz/chunks/shared-
-@@|https://static.zhihu.com/heifetz/chunks/lib-
-@@|https://static.zhihu.com/heifetz/chunks/mobile-
+
+! ---------------------------------------
+! 通用广告域名屏蔽
+|https://a.magsrv.com/ad-provider.js
+|https://playhubconnect.com/bn/
+|https://recordedthereby.com/sfp.js
+||appointeeivyspongy.com^
+||blcdog.com^
+||clarity.ms^
+||diligencejusticeimprobable.com^
+||lheffapin.com^
+||oh.natterresail.com^
+||reebr.com^
+||tsyndicate.com^
+||wearychallengeraise.com^
