@@ -45,10 +45,10 @@ sed -i '
   /###cxense-recs-in-article/d
   /##\.embed-responsive-trendmd/d
   /removeparam/d
+  /^\/:\/\/.*/d
   s/^\*\([\/._-]\)/\1/
   /^\/\\/d
   /^\/\^https/d
-  /^\/\(https/d
   /\/ads\/\|\.gif\?/ {
     /@@\|~/!d
   }
