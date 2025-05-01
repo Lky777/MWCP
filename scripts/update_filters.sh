@@ -55,44 +55,14 @@ sed -i '
 ' rules/combined_rules.txt
 printf '%s\n' '.gif?' '/ads/' >> rules/combined_rules.txt
 
-# 7. 拆分超长域名规则
-INPUT="rules/combined_rules.txt"
-TEMP="rules/combined_rules.tmp"
-APPEND="rules/combined_rules.appended.txt"
-
-> "$TEMP"
-> "$APPEND"
-
-while IFS= read -r line; do
-  if [[ "$line" =~ domain=.+\|.+\|.+ ]]; then
-    # 匹配到超长 domain=... 规则
-    rule_prefix=$(echo "$line" | sed -E 's/(.*)domain=.*/\1/')
-    domain_list=$(echo "$line" | sed -E 's/.*domain=//')
-
-    IFS='|' read -ra domains <<< "$domain_list"
-    for domain in "${domains[@]}"; do
-      echo "${rule_prefix}domain=${domain}" >> "$APPEND"
-    done
-    # 不写入原始超长规则（跳过）
-  else
-    echo "$line" >> "$TEMP"
-  fi
-done < "$INPUT"
-
-# 合并清理后的原始内容和新拆分规则
-cat "$APPEND" >> "$TEMP"
-# 替换原文件
-mv "$TEMP" "$INPUT"
-rm "$APPEND"
-
-# 8. 生成最终规则文件
+# 7. 生成最终规则文件
 {
   printf '%s\n'     "[Adblock Plus 2.0]"     "! Title: MobiListChina"     "! Description: blocker for Chinese mobile site"     "! Version: $(date +%Y%m%d%H%M)"     "! Last modified: $(date -u +"%d %b %Y %H:%M UTC")"     "! Expires: 1 day"     "! Homepage: https://github.com/Lky777/MWCP/"     "! ---------------------------------"
   grep -v -e '^!' -e '^$' -e '^[[:space:]]*$' rules/combined_rules.txt | sort -u
 } > rules/MobiListChina.txt
 rule_count=$(grep -v -c -e '^!' rules/MobiListChina.txt)
 
-# 9. Git 提交并推送
+# 8. Git 提交并推送
 git config --global user.name "GitHub Actions"
 git config --global user.email "actions@github.com"
 if ! git diff --quiet -- rules/MobiListChina.txt; then
@@ -104,5 +74,5 @@ else
   echo "✓ 无需提交，规则无变化"
 fi
 
-# 10. 刷新 jsDelivr 缓存
+# 9. 刷新 jsDelivr 缓存
 curl -X PURGE "https://fastly.jsdelivr.net/gh/Lky777/MWCP/rules/MobiListChina.txt"
