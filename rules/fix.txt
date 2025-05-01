@@ -13,7 +13,6 @@
 |https://18comic.*/static/resources/files/$image
 |https://18comic.*/templates/frontend/airav/emoji/emojionearea.css
 |https://cdn-msp3.18comic.*/static/resources/images/
-||culxawxafsw.com^
 
 ! ---------------------------------------
 ! a2zapk
@@ -96,15 +95,10 @@ sspai.com###btn-call-app
 
 ! ---------------------------------------
 ! 通用广告域名屏蔽
-|https://a.magsrv.com/ad-provider.js
 |https://playhubconnect.com/bn/
-|https://recordedthereby.com/sfp.js
-||appointeeivyspongy.com^
-||blcdog.com^
 ||clarity.ms^
 ||diligencejusticeimprobable.com^
 ||lheffapin.com^
-||oh.natterresail.com^
+||natterresail.com^
 ||reebr.com^
-||tsyndicate.com^
-||wearychallengeraise.com^
+
