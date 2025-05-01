@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiListChina
 ! Description: blocker for Chinese mobile site
-! Version: 202505011714
-! Last modified: 01 May 2025 17:14 UTC
+! Version: 202505011905
+! Last modified: 01 May 2025 19:05 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -14049,6 +14049,7 @@ yydstxt*.com/js/html
 ||arwobaton.com^
 ||arwobaton.com^$document
 ||arwobaton.com^$popup
+||arxucrkpbihahy.com^
 ||aryici.xyz^
 ||as.coinbase.com/metrics
 ||as.hobby.porn^
@@ -34905,6 +34906,7 @@ yydstxt*.com/js/html
 ||jkha742.xyz^
 ||jklpy.com^
 ||jktkhn.top^
+||jkuxishhikp.com^
 ||jkyawbabvjeq.top^
 ||jkzakzazlojbl.top^
 ||jl63v3fp1.com^
@@ -44237,6 +44239,7 @@ yydstxt*.com/js/html
 ||peasbishopgive.com^
 ||pebblemedia.be^$third-party
 ||pebbleoutgoing.com^
+||pebopseftep.net^
 ||pecantinglytripod.com^
 ||pecash.com^$third-party
 ||pecialukizeias.info^
@@ -62172,6 +62175,7 @@ yydstxt*.com/js/html
 ||zuqalzajno.com^
 ||zureiskedamyb.world^
 ||zuulo.xyz^
+||zuweestoftimoo.net^
 ||zuzab.com^$third-party
 ||zuzodoad.com^
 ||zv.7vid.net^
