@@ -37,7 +37,7 @@ done
 #rm -f rules/easylist_adservers.txt
 awk '/^!/ && /Chinese/ {flag=1; next} /^!/ {flag=0} flag' rules/easyprivacy_{allowlist,specific,thirdparty}_international.txt > rules/Easyprivacy_a.txt
 rm -f rules/easyprivacy_allowlist_international.txt rules/easyprivacy_specific_international.txt rules/easyprivacy_thirdparty_international.txt
-sed -i '/##+js/!{/##\|#@#/d}' rules/{easylistchina.txt,cjx-annoyance.txt,rules.txt}
+sed -i '/##+js/!{/##\|#@#\|#\?#/d}' rules/{easylistchina.txt,cjx-annoyance.txt,rules.txt}
 
 # 6. 合并所有规则
 find rules -name "*.txt" -exec cat {} + | sort -u > rules/combined_rules.txt
