@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiListChina
 ! Description: blocker for Chinese mobile site
-! Version: 202505011512
-! Last modified: 01 May 2025 15:12 UTC
+! Version: 202505011618
+! Last modified: 01 May 2025 16:18 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -655,16 +655,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 .ziye8.com
 .zoomino.
 /&*^$popup,domain=piracyproxy.app|piraproxy.info|unblocked.club|unblockedstreaming.net
-/(https?:\/\/)104\.154\..{100,}/
-/(https?:\/\/)104\.197\..{100,}/
-/(https?:\/\/)104\.198\..{100,}/
-/(https?:\/\/)130\.211\..{100,}/
-/(https?:\/\/)142\.91\.159\..{100,}/
-/(https?:\/\/)213\.32\.115\..{100,}/
-/(https?:\/\/)216\.21\..{100,}/
-/(https?:\/\/)217\.182\.11\..{100,}/
-/(https?:\/\/)51\.195\.31\..{100,}/
-/(https?:\/\/)\w{30,}\.me\/\w{30,}\./$script,third-party
 /.webscale/rum?
 /.well-known/shopify/monorail
 /08gg/
@@ -12045,6 +12035,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||aegagrilariats.top^
 ||aegis.trovo.live^
 ||aegzoils.com^
+||aeinkailrupe.com^
 ||aekpzxaghjyxa.global^
 ||aemediatraffic.com^$third-party
 ||aenoprsouth.com^
@@ -32109,6 +32100,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||hnrgmc.com^$document
 ||hnrgmc.com^$popup
 ||hnwuamu.top^
+||hnwucnu.top^
 ||hoa44trk.com^
 ||hoa44trk.com^$popup
 ||hoabauwezow.com^
