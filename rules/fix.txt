@@ -1,8 +1,22 @@
 [Adblock Plus 2.0]
-! Title: badguys
-! Version: 20250501
+! Title: Naughty
+! Version: 20250502
 ! Expires: 30 days (update rarely)
 ! Description: 补充规则(已合并至Mobilist中)
+
+! ---------------------------------------
+! 163
+|https://static.ws.126.net/163/frontend/images/toast-download.png
+|https://gw.m.163.com/search/api/v2/wap/rolling-word?
+|https://m.163.com/wap/special/
+|https://static.ws.126.net/163/frontend/libs/open-newsapp/latest/open-newsapp.min.js
+|https://s6.music.126.net/puzzle/$script
+/163/frontend/antnest/$script
+|https://static.ws.126.net/163/frontend/js/*/url-param-inherit.js
+|https://s6.music.126.net/static_public/
+|https://m.163.com/touch/nc/api/article/relate/
+|https://m.163.com/touch/api/paid-article/well-chosen-rec-list?
+|https://m.163.com/touch/behavior.html?
 
 ! ---------------------------------------
 ! 18comic
@@ -16,7 +30,9 @@
 
 ! ---------------------------------------
 ! a2zapk
+|https://a2zapk.io/adsbyg.js?
 a2zapk.io###modalpop
+a2zapk.io###modalpop-content
 
 ! ---------------------------------------
 ! bilibili
@@ -37,7 +53,8 @@ cn.bing.com###bnp_rich_div
 ! colamanga
 |https://www.colamanga.com/common/css/website.css
 |https://www.colamanga.com/counting
-|https://www.colamanga.com/static/loading.gif
+|https://www.colamanga.com/template/vfed/asset/css/layer.css?v=
+www.colamanga.com/static/loading.gif
 @@||www.colamanga.com/js/ad_/load.js
 
 ! ---------------------------------------
@@ -60,7 +77,6 @@ cn.bing.com###bnp_rich_div
 
 ! ---------------------------------------
 ! oschina
-|https://lf1-cdn-tos.bytegoofy.com/goofy/
 oschina.net##div[name="detail_show_footer"]
 
 ! ---------------------------------------
@@ -95,10 +111,10 @@ sspai.com###btn-call-app
 
 ! ---------------------------------------
 ! 通用广告域名屏蔽
+|https://lf1-cdn-tos.bytegoofy.com/goofy/
 |https://playhubconnect.com/bn/
 ||clarity.ms^
 ||diligencejusticeimprobable.com^
 ||lheffapin.com^
 ||natterresail.com^
 ||reebr.com^
-
