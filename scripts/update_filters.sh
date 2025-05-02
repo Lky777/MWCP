@@ -48,16 +48,17 @@ sed -i '
   /^\/:\/\/.*/d
   s/^\*\([\/._-]\)/\1/
   /\/\\/d
-  /\/ads\/\|\.gif\?/ {
-    /@@\|~/!d
-  }
 ' rules/combined_rules.txt
-printf '%s\n' '.gif?' '/ads/' >> rules/combined_rules.txt
+
+# 设置 Python 环境
+# source venv/bin/activate   # 如果使用虚拟环境
+#对规则递归去重 生成rules/dedup_rules.txt
+python3 scripts/dedup_rules.py
 
 # 7. 生成最终规则文件
 {
   printf '%s\n'     "[Adblock Plus 2.0]"     "! Title: MobiListChina"     "! Description: blocker for Chinese mobile site"     "! Version: $(date +%Y%m%d%H%M)"     "! Last modified: $(date -u +"%d %b %Y %H:%M UTC")"     "! Expires: 1 day"     "! Homepage: https://github.com/Lky777/MWCP/"     "! ---------------------------------"
-  grep -v -e '^!' -e '^$' -e '^[[:space:]]*$' rules/combined_rules.txt | sort -u
+  grep -v -e '^!' -e '^$' -e '^[[:space:]]*$' rules/dedup_rules.txt | sort -u
 } > rules/MobiListChina.txt
 rule_count=$(grep -v -c -e '^!' rules/MobiListChina.txt)
 
