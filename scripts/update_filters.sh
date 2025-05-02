@@ -6,11 +6,7 @@ rm -rf rules/
 mkdir -p rules/
 
 # 2. 克隆 EasyList 仓库
-curl -L -o easylist.zip https://github.com/easylist/easylist/archive/refs/heads/master.zip
-unzip -q easylist.zip
-mv easylist-master easylist
-rm easylist.zip
-rm -rf easylist-master/
+git clone --depth 1 https://github.com/easylist/easylist.git
 
 # 3. 准备 EasyList 文件
 rm -f easylist/easylist/{easylist_allowlist_general_hide.txt,easylist_general_hide.txt,easylist_specific_hide.txt,easylist_specific_hide_abp.txt} &
@@ -55,14 +51,8 @@ sed -i '
 ' rules/combined_rules.txt
 
 #对规则递归去重 生成rules/dedup_rules.txt
-SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-
 echo ">> 正在执行 Python 去重脚本..."
-if ! timeout 60s python3 "$SCRIPT_DIR/dedup_rules.py"; then
-  echo "✗ Python 去重脚本执行失败或超时，退出" >&2
-  exit 1
-fi
-echo ">> Python 去重脚本执行完成"
+bash scripts/dedup_rules.sh
 
 # 7. 生成最终规则文件
 {
