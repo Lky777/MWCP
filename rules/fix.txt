@@ -1,17 +1,18 @@
 [Adblock Plus 2.0]
 ! Title: Naughty
-! Version: 20250502
-! Expires: 30 days (update rarely)
-! Description: 补充规则(已合并至Mobilist中)
-
+! Description: 补充规则(已合并至MobiListChina)
+! Version: 20250503
+! Expires: 30 days
+! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------------
+
 ! 163
+/163/frontend/antnest/$script
 |https://static.ws.126.net/163/frontend/images/toast-download.png
 |https://gw.m.163.com/search/api/v2/wap/rolling-word?
 |https://m.163.com/wap/special/
 |https://static.ws.126.net/163/frontend/libs/open-newsapp/latest/open-newsapp.min.js
 |https://s6.music.126.net/puzzle/$script
-/163/frontend/antnest/$script
 |https://static.ws.126.net/163/frontend/js/*/url-param-inherit.js
 |https://s6.music.126.net/static_public/
 |https://m.163.com/touch/nc/api/article/relate/
@@ -111,6 +112,7 @@ sspai.com###btn-call-app
 
 ! ---------------------------------------
 ! 通用广告域名屏蔽
+.gif?
 |https://lf1-cdn-tos.bytegoofy.com/goofy/
 |https://playhubconnect.com/bn/
 ||clarity.ms^
