@@ -49,17 +49,18 @@ sed -i '
   s/^\*\([\/._-]\)/\1/
   /\/\\/d
 ' rules/combined_rules.txt
-
-#对规则递归去重 生成rules/dedup_rules.txt
-echo ">> 正在执行 Python 去重脚本..."
+rm -f rules/Easyprivacy_a.txt
+#简单去重
+echo ">> 正在执行去重脚本..."
 bash scripts/dedup_rules.sh
 
 # 7. 生成最终规则文件
 {
   printf '%s\n'     "[Adblock Plus 2.0]"     "! Title: MobiListChina"     "! Description: blocker for Chinese mobile site"     "! Version: $(date +%Y%m%d%H%M)"     "! Last modified: $(date -u +"%d %b %Y %H:%M UTC")"     "! Expires: 1 day"     "! Homepage: https://github.com/Lky777/MWCP/"     "! ---------------------------------"
-  grep -v -e '^!' -e '^$' -e '^[[:space:]]*$' rules/dedup_rules.txt | sort -u
+  grep -v -e '^!' -e '^$' -e '^[[:space:]]*$' rules/combined_rules.txt | sort -u
 } > rules/MobiListChina.txt
 rule_count=$(grep -v -c -e '^!' rules/MobiListChina.txt)
+rm -f rules/combined_rules.txt
 
 # 8. Git 提交并推送
 git config --global user.name "GitHub Actions"
