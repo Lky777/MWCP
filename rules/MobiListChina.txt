@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiListChina
 ! Description: blocker for Chinese mobile site
-! Version: 202505022136
-! Last modified: 02 May 2025 21:36 UTC
+! Version: 202505022151
+! Last modified: 02 May 2025 21:51 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
