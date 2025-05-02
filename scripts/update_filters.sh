@@ -6,7 +6,11 @@ rm -rf rules/
 mkdir -p rules/
 
 # 2. 克隆 EasyList 仓库
-git clone --depth 1 https://github.com/easylist/easylist.git
+curl -L -o easylist.zip https://github.com/easylist/easylist/archive/refs/heads/master.zip
+unzip -q easylist.zip
+mv easylist-master easylist
+rm easylist.zip
+rm -rf easylist-master/
 
 # 3. 准备 EasyList 文件
 rm -f easylist/easylist/{easylist_allowlist_general_hide.txt,easylist_general_hide.txt,easylist_specific_hide.txt,easylist_specific_hide_abp.txt} &
@@ -50,8 +54,6 @@ sed -i '
   /\/\\/d
 ' rules/combined_rules.txt
 
-# 设置 Python 环境
-# source venv/bin/activate   # 如果使用虚拟环境
 #对规则递归去重 生成rules/dedup_rules.txt
 python3 scripts/dedup_rules.py
 
