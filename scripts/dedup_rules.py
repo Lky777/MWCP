@@ -8,14 +8,17 @@ def is_redundant(shorter, longer):
 
 def dedup_rules(lines):
     print(f"[INFO] 原始规则数: {len(lines)}")
-    lines = [line.strip() for line in lines if line.strip()]
+    lines = [line.strip().lower() for line in lines if line.strip()]  # 转换为小写并去除空格
     lines.sort(key=len)  # 优先保留短规则
     keep = []
+    kept_set = set()  # 用集合来加速查找重复项
 
     for i, line in enumerate(lines):
-        if any(is_redundant(line, kept) for kept in keep if "@@" not in kept and "～" not in kept):
+        # 如果当前规则是已存在规则的子集（忽略大小写），则跳过
+        if any(is_redundant(line, kept) for kept in kept_set):
             continue
         keep.append(line)
+        kept_set.add(line)  # 添加到集合中
 
         if i % 1000 == 0 and i > 0:
             print(f"[INFO] 已处理 {i} 条规则，当前保留 {len(keep)} 条")
