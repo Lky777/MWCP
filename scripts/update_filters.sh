@@ -75,4 +75,5 @@ else
 fi
 
 # 9. 刷新 jsDelivr 缓存
-curl -X PURGE "https://fastly.jsdelivr.net/gh/Lky777/MWCP/rules/MobiListChina.txt"
+curl -s "https://cdn.jsdelivr.net/gh/Lky777/MWCP/rules/MobiListChina.txt?cache_bust=$(date +%s)" > /dev/null
+
