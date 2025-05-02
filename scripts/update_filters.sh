@@ -55,7 +55,14 @@ sed -i '
 ' rules/combined_rules.txt
 
 #对规则递归去重 生成rules/dedup_rules.txt
-python3 scripts/dedup_rules.py
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
+echo ">> 正在执行 Python 去重脚本..."
+if ! timeout 60s python3 "$SCRIPT_DIR/dedup_rules.py"; then
+  echo "✗ Python 去重脚本执行失败或超时，退出" >&2
+  exit 1
+fi
+echo ">> Python 去重脚本执行完成"
 
 # 7. 生成最终规则文件
 {
