@@ -1,43 +1,42 @@
-# 对规则递归去重
-def is_superstring(line1, line2):
-    """判断 line2 是否是 line1 的超集（忽略大小写和首尾空格）"""
-    l1 = line1.strip().lower()
-    l2 = line2.strip().lower()
-    return l1 != l2 and l1 in l2
+import time
 
-def recursive_dedup(lines):
-    # 去除空行并去掉每行首尾空格
+def is_redundant(shorter, longer):
+    """判断 shorter 是否被 longer 包含（忽略空格和大小写）"""
+    s = shorter.strip().lower()
+    l = longer.strip().lower()
+    return s != l and s in l
+
+def dedup_rules(lines):
+    print(f"[INFO] 原始规则数: {len(lines)}")
     lines = [line.strip() for line in lines if line.strip()]
-    
-    changed = True
-    while changed:
-        changed = False
-        keep_flags = [True] * len(lines)
+    lines.sort(key=len)  # 优先保留短规则
+    keep = []
 
-        for i, line in enumerate(lines):
-            if not keep_flags[i]:
-                continue
-            for j, other_line in enumerate(lines):
-                if i == j or not keep_flags[j]:
-                    continue
-                if is_superstring(line, other_line):
-                    if "@@" not in other_line and "～" not in other_line:
-                        keep_flags[j] = False
-                        changed = True
+    for i, line in enumerate(lines):
+        if any(is_redundant(line, kept) for kept in keep if "@@" not in kept and "～" not in kept):
+            continue
+        keep.append(line)
 
-        lines = [line for i, line in enumerate(lines) if keep_flags[i]]
+        if i % 1000 == 0 and i > 0:
+            print(f"[INFO] 已处理 {i} 条规则，当前保留 {len(keep)} 条")
 
-    return lines
+    print(f"[INFO] 去重后规则数: {len(keep)}")
+    return keep
 
 def process_file(input_file='rules/combined_rules.txt', output_file='rules/dedup_rules.txt'):
-    with open(input_file, 'r', encoding='utf-8') as f:
-        lines = f.readlines()
+    start = time.time()
+    print("[INFO] 开始规则去重处理...")
 
-    deduped_lines = recursive_dedup(lines)
+    with open(input_file, 'r', encoding='utf-8') as f:
+        raw_lines = f.readlines()
+
+    deduped = dedup_rules(raw_lines)
 
     with open(output_file, 'w', encoding='utf-8') as f:
-        for line in deduped_lines:
-            f.write(line.strip() + '\n')
+        for line in deduped:
+            f.write(line + '\n')
 
-# 执行
-process_file()
+    print(f"[INFO] 去重完成，耗时 {time.time() - start:.2f} 秒")
+
+if __name__ == "__main__":
+    process_file()
