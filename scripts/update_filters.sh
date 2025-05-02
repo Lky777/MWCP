@@ -41,6 +41,8 @@ sed -i '/##+js/!{/##\|#@#\|#\?#/d}' rules/{easylistchina.txt,cjx-annoyance.txt,r
 
 # 6. 合并所有规则
 find rules -name "*.txt" -exec cat {} + | sort -u > rules/combined_rules.txt
+tr 'A-Z' 'a-z' < rules/combined_rules.txt > rules/combined_rules.tmp && mv rules/combined_rules.tmp rules/combined_rules.txt
+rm -f rules/combined_rules.tmp
 sed -i '
   /###cxense-recs-in-article/d
   /##\.embed-responsive-trendmd/d
@@ -48,25 +50,12 @@ sed -i '
   /^\/:\/\/.*/d
   s/^\*\([\/._-]\)/\1/
   /\/\\/d
-' rules/combined_rules.txt
+  /\.gif\?\|\/ad\/\|\/ads\// {
+     /@@\|~/!d
+   }
+ ' rules/combined_rules.txt
+ printf '%s\n' '.gif?' '/ad/' '/ads/' >> rules/combined_rules.txt
 rm -f rules/Easyprivacy_a.txt
-
-#简单去重
-tr 'A-Z' 'a-z' < rules/combined_rules.txt > rules/combined_rules.tmp && mv rules/combined_rules.tmp rules/combined_rules.txt
-rm -f rules/combined_rules.tmp
-# index() 检查是否包含特定字符串（无需转义）
-awk '
-    !(
-        (!/@/ && !/~/)
-        && (
-            index($0, ".gif?") ||
-            index($0, "/ad/")  ||
-            index($0, "/ads/")
-        )
-    )
-' rules/combined_rules.txt > rules/combined_rules.tmp && mv rules/combined_rules.tmp rules/combined_rules.txt
-rm -f rules/combined_rules.tmp
-echo -e ".gif?\n/ad/\n/ads/" >> rules/combined_rules.txt
 
 # 7. 生成最终规则文件
 {
