@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiListChina
 ! Description: blocker for Chinese mobile site
-! Version: 202505022106
-! Last modified: 02 May 2025 21:06 UTC
+! Version: 202505022116
+! Last modified: 02 May 2025 21:16 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -13299,6 +13299,7 @@ yydstxt*.com/js/html
 ||alu.cn/alutg/
 ||aluminumoutageprovince.com^
 ||alumniheadfirstshamrock.com^
+||alurepirates.com^
 ||alvenda.com^$third-party
 ||alwaysdomain01.online^
 ||alwayslucky.com/platform/webvitals
@@ -23518,6 +23519,7 @@ yydstxt*.com/js/html
 ||dbhsejcg-meetup-com.cdnjs.network^
 ||dbigboq.top^
 ||dbizrrslifc.com^
+||dbkuarzeaepqo.global^
 ||dblks.net^$third-party
 ||dblowthrou.com^
 ||dbmp4.com/js/foot.
@@ -26893,6 +26895,7 @@ yydstxt*.com/js/html
 ||eshkol.one^$popup
 ||eshouloo.net^
 ||esihighlyrecomemu.com^
+||esijhoxqxfmks.com^
 ||esjvrfq.com^
 ||eskilhavena.info^
 ||eskimi.com^
@@ -29458,6 +29461,7 @@ yydstxt*.com/js/html
 ||gaijiglo.net^
 ||gaijin.net/tag?
 ||gaimauroogrou.net^
+||gaimopooshadou.com^
 ||gaimoupy.net^
 ||gainingpartyyoga.com^
 ||gainmoneyfast.com^$third-party
@@ -32223,6 +32227,7 @@ yydstxt*.com/js/html
 ||hfptbb.cn^
 ||hfptbf.cn^
 ||hfpuhwqi.xyz^
+||hfpynjruktrg.com^
 ||hfr67jhqrw8.com^$document
 ||hfsecdrzfdsry.club^
 ||hg-bn.com^
@@ -34003,6 +34008,7 @@ yydstxt*.com/js/html
 ||improving.wuzhuiso.com^
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
+||impubicpuddly.com^
 ||impureattirebaking.com^
 ||imrtrack.com^$third-party
 ||imtijnluoailwb.com^
@@ -34823,6 +34829,8 @@ yydstxt*.com/js/html
 ||isparkmedia.com^
 ||isquitehappymut.org^
 ||isquitehappymut.org^$popup
+||isready2.online^
+||isready2.online^$popup
 ||isreputysolomo.com^
 ||isso.com.cn/club/adv
 ||isso.com.cn^*/A-D/
@@ -35591,6 +35599,7 @@ yydstxt*.com/js/html
 ||jkzakzazlojbl.top^
 ||jl63v3fp1.com^
 ||jlmhk.com/images/data/
+||jlnxjwmeadaw.com^
 ||jlovoiqtgarh.com^
 ||jlpcn.net/img/300p-
 ||jltwxisa.icu^
@@ -42232,6 +42241,7 @@ yydstxt*.com/js/html
 ||no2veeamggaseber.com^
 ||no9pldds1lmn3.soundcloud.com^
 ||noa.yahoo.com^
+||noafooshejoot.com^
 ||noagentfees.com^$subdocument,domain=independent.com.mt
 ||noaheephoukopu.net^
 ||noapsovochu.net^
@@ -42341,6 +42351,7 @@ yydstxt*.com/js/html
 ||nossairt.net^
 ||nossairt.net^$popup
 ||nosto.com/analytics/
+||nostocbark.com^
 ||nostrilquarryprecursor.com^
 ||nostrilsunwanted.com^
 ||notabilitytragic.com^
@@ -51341,6 +51352,7 @@ yydstxt*.com/js/html
 ||sevenedgesteve.com^
 ||severelyexemplar.com^
 ||sevokop.com^
+||sevrftcxtlrbm.com^
 ||sewersneaky.com^
 ||sewerypon.com^
 ||sewparamedic.com^
@@ -56050,6 +56062,7 @@ yydstxt*.com/js/html
 ||tocoslate.top^
 ||todayapp.tv^$popup,third-party
 ||todayapplied.com^
+||todayswigcontagious.com^
 ||toddlecausebeeper.com^
 ||toddlespecialnegotiate.com^
 ||todlht-xnm.rocks^
@@ -58151,6 +58164,7 @@ yydstxt*.com/js/html
 ||unmistdistune.guru^$popup
 ||unmoor.com/config.json
 ||unnaturalstring.com^
+||unneartripler.com^
 ||unnecessarydispleasedleak.com^
 ||unoblotto.net^
 ||unoptedcoupe.top^
@@ -63108,6 +63122,7 @@ yydstxt*.com/js/html
 ||zqgixxp.icu^
 ||zqifmyt.icu^
 ||zqjklzajmmwq.top^
+||zqjklzrqmvwq.top^
 ||zqjljeyqbejrb.top^
 ||zqkxlf.com^
 ||zqmblmvomvmaj.top^
