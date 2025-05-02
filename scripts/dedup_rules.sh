@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-set -euo pipefail
 
 tr 'A-Z' 'a-z' < rules/combined_rules.txt > rules/combined_rules.tmp && mv rules/combined_rules.tmp rules/combined_rules.txt
 
