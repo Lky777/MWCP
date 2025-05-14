@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiListChina
 ! Description: blocker for Chinese mobile site
-! Version: 202505131906
-! Last modified: 13 May 2025 19:06 UTC
+! Version: 202505141906
+! Last modified: 14 May 2025 19:06 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -469,7 +469,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 .keydot.
 .keyrun.
 .keyyou.
-.kklq0*p0i.com/$script,third-party 
 .kx365.
 .la/style/vue.js?v=
 .leshu.
@@ -5511,7 +5510,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@/analytics.php?$domain=xcar.com.cn
 @@/api/ad/*$domain=pinduoduo.com
 @@/api/ads?$domain=nmkjxy.com
-@@/api/models?$domain=tik.porn
 @@/api/v2/models-online?$domain=tik.porn
 @@/bag2?r[]=*&r[]=$domain=free.com.tw
 @@/banner/ad/*$image,domain=achaloto.com
@@ -7214,6 +7212,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||zpmobi.cn^*/ad.css?$stylesheet
 @@||zxmee.com^$generichide
 [adblock plus 2.0]
+^kklq0*p0i.com/$script,third-party
 _120_600.
 _120_600_
 _120x240.
@@ -7447,7 +7446,7 @@ wss://*.xyz:*?x=$third-party
 wss://*/api/wss/getnotreadcount$third-party
 wss://www.*.xyz/ws^$third-party
 wwads.cn
-www.zhzzx.com||000webhost.com/images/banners/
+www.zhzzx.com@@/api/models?$domain=tik.porn
 x.jd.com
 xshellcn.com
 yihuifu.cn
@@ -7529,6 +7528,7 @@ yydstxt*.com/js/html
 ||*xav.*/guang/*.jpg
 ||0.0.0.0^$third-party,domain=~0.0.0.0|~127.0.0.1|~[::1]|~[::]|~local|~localhost
 ||0.0.0.1^
+||000webhost.com/images/banners/
 ||0019x.com^
 ||003store.com^
 ||00404850.xyz^
@@ -12398,6 +12398,7 @@ yydstxt*.com/js/html
 ||akmxts.com^
 ||akmxts.com^$popup
 ||akoo0513uis.com^
+||akoo0514uis.com^
 ||akqipai.com/m/tpl/v3/js/indexbottom.js
 ||aksazkxmiopf.com^
 ||aksb-a.akamaihd.net^
@@ -16380,6 +16381,7 @@ yydstxt*.com/js/html
 ||bkojzevpe.com^
 ||bkokuwxfetah.com^
 ||bkox.cn^
+||bkqa.cn^
 ||bkr5xeg0c.com^
 ||bksoylhvsx.com^
 ||bktdmqdcvshs.xyz^
@@ -23850,6 +23852,7 @@ yydstxt*.com/js/html
 ||doanaudabu.net^
 ||doapovauma.net^
 ||doappcloud.com^
+||doapujoptude.net^
 ||doastaiwhouwouy.com^
 ||dobiez.com/statics/wap_v1/js/qwd.
 ||doblazikena.com^
@@ -24092,6 +24095,8 @@ yydstxt*.com/js/html
 ||douzvrswnkxzv.icu^
 ||dovictinian.com^
 ||dovoeqhym.xyz^
+||dowerlesssightseehow.com^
+||dowerlesssightseehow.com^$popup
 ||down-paradise.com^$popup
 ||down.admin5.com/z/
 ||down.tgjkbx.cn/xxjs/$script
@@ -25094,6 +25099,7 @@ yydstxt*.com/js/html
 ||edge-client^$script,domain=barrons.com
 ||edge-hls.doppiocdn.com/ping
 ||edge-hls.doppiocdn.live/ping
+||edge-hls.doppiocdn.net/ping
 ||edge.ads.twitch.tv^
 ||edge.bredg.com^$third-party
 ||edge.staging.fullstory.com^
@@ -29346,6 +29352,7 @@ yydstxt*.com/js/html
 ||gmbuluo.net/js/
 ||gme-trking.com^
 ||gmehcotihh.com^
+||gmendanln.com^
 ||gmetrics.getbeamer.com^
 ||gmiqicw.com^
 ||gmkflsdaa.com^
@@ -31862,6 +31869,7 @@ yydstxt*.com/js/html
 ||hushpub.com^
 ||huskinessimminentstylus.com^
 ||huskypartydance.com^
+||hussaiphoa.com^
 ||hutlockshelter.com^
 ||hutoumseet.com^
 ||huwaczntu.com^
@@ -32655,6 +32663,7 @@ yydstxt*.com/js/html
 ||improving.wuzhuiso.com^
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
+||impubicpuddly.com^
 ||impureattirebaking.com^
 ||imrtrack.com^$third-party
 ||imtijnluoailwb.com^
@@ -33606,6 +33615,7 @@ yydstxt*.com/js/html
 ||ivemjdir-g.top^
 ||iviewui.com/v1/*?name=
 ||ivisa.com/widgets/*utm_medium=affiliate$subdocument,third-party
+||ivmhkcvjrdehfr.com^
 ||ivmxckqpfddky.com^
 ||ivnrrkx.cn^
 ||ivoacooghoug.xyz^
@@ -34203,6 +34213,7 @@ yydstxt*.com/js/html
 ||jmyqivmk.com^
 ||jmyrmuozbor.com^
 ||jnhjpdayvpzj.com^
+||jnjslk.top^
 ||jnlc.com/www/fund/newsmarket
 ||jnnjthg.com^
 ||jnrtavp2x66u.com^
@@ -34773,6 +34784,7 @@ yydstxt*.com/js/html
 ||kaiyuantp.vip^
 ||kaizentraffic.com^$popup
 ||kakbik.info^$popup
+||kaksafoopee.com^
 ||kalauxet.com^
 ||kaleidoscopeadjacent.com^
 ||kaleidoscopefingernaildigging.com^
@@ -35191,6 +35203,7 @@ yydstxt*.com/js/html
 ||kklq05120p0i.com^
 ||kklq05121p0i.com^
 ||kklq05131p0i.com^
+||kklq05140p0i.com^
 ||kkmacsqsbf.info^
 ||kknkcyrkvoqsqa.com^
 ||kkoacpohjomc.com^
@@ -36633,6 +36646,7 @@ yydstxt*.com/js/html
 ||llq9q2lacr.com^
 ||lltynlnoui.com^
 ||lluwrenwsfh.xyz^
+||llvcfgax.com^
 ||llvlzvroqoqqy.top^
 ||llvlzvroqowmm.top^
 ||llyighaboveth.com^
@@ -37268,6 +37282,7 @@ yydstxt*.com/js/html
 ||lv-play.com/web/adv/list
 ||lv.myapks.com^
 ||lv9qr0g0.xyz^
+||lvbeybbrwvywq.top^
 ||lvcnmtl.top^
 ||lvhcqaku.com^
 ||lvlhmjerf.buzz^
@@ -38731,6 +38746,7 @@ yydstxt*.com/js/html
 ||mkiterx.top^
 ||mkjsqrpmxqdf.com^
 ||mkjsqrpmxqdf.com^$popup
+||mkocdauxf.com^
 ||mkt3261.com^$third-party
 ||mkt51.net^$third-party
 ||mkt6333.com^$third-party
@@ -50990,7 +51006,6 @@ yydstxt*.com/js/html
 ||spuppeh.com^$document
 ||spuppeh.com^$popup
 ||spuppeh.net^
-||spur.us^$third-party
 ||spxhu.com^
 ||spygenix.xyz^$document
 ||spygenix.xyz^$popup
@@ -51114,6 +51129,7 @@ yydstxt*.com/js/html
 ||ssp.zf313.com^
 ||sspai.com/api/v1/recommend*=article_
 ||sspai.com/attachment/sponsor/
+||ssqxuy.icu^
 ||ssqyuvavse.com^
 ||ssr.streamrail.net^
 ||sss777.net/alove-a/
@@ -52625,6 +52641,7 @@ yydstxt*.com/js/html
 ||tanju.vip/nyindex.
 ||tankleconflab.shop^
 ||tanothingfruiti.com^
+||tansazauksorg.com^
 ||tanseb.com/vads/
 ||tantoporno.com^$third-party
 ||tanwanyx.com^$third-party
@@ -58358,6 +58375,7 @@ yydstxt*.com/js/html
 ||witnessremovalsoccer.com^
 ||witnesssellingoranges.com^
 ||witskirifkab.com^
+||wittijtuno.com^
 ||wittomeinvokes.com^
 ||wittyanswer.pro^
 ||wiwarrkazg.com^
@@ -59043,6 +59061,7 @@ yydstxt*.com/js/html
 ||xchina.*/plugins/sweetalert2/
 ||xcinilwpypp.com^
 ||xciozdacgos.com^
+||xcipwuoft.com^
 ||xcity.org/tc2ca02c24c5.js
 ||xclicks.net^$popup
 ||xcmfu.com/cp.
@@ -59857,6 +59876,7 @@ yydstxt*.com/js/html
 ||ymehnthakutyfor.com^
 ||ymetrica1.com^$third-party
 ||ymewsu.xyz^
+||ymgranque.com^
 ||ymlykj.com/nuxt/static/livebanner.jpg
 ||ymmiyun.com^
 ||ymqlrkznenfcd.world^
