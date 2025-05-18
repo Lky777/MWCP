@@ -5,12 +5,12 @@
 ___
 📥  
 
-[Jsdelivr 加速链](https://fastly.jsdelivr.net/gh/Lky777/MWCP/rules/MobiListChina.txt)  
+[Jsdelivr 链](https://cdn.jsdelivr.net/gh/Lky777/MWCP@main/rules/MobiListChina.txt)  
 ```html
 https://fastly.jsdelivr.net/gh/Lky777/MWCP/rules/MobiListChina.txt
 ```
 
-[GitHub 原始链](https://raw.githubusercontent.com/Lky777/MWCP/refs/heads/main/rules/MobiListChina.txt)  
+[GitHub 链](https://raw.githubusercontent.com/Lky777/MWCP/refs/heads/main/rules/MobiListChina.txt)  
 ```html
 https://raw.githubusercontent.com/Lky777/MWCP/refs/heads/main/rules/MobiListChina.txt
 ```
