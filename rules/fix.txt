@@ -1,13 +1,22 @@
 [Adblock Plus 2.0]
 ! Title: Naughty
 ! Description: 补充规则(已合并至MobiListChina)
-! Version: 20250503
+! Version: 20250518
 ! Expires: 30 days
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------------
+!
+|https://lf1-cdn-tos.bytegoofy.com/goofy/
+|https://playhubconnect.com/bn/
+||clarity.ms^
+||diligencejusticeimprobable.com^
+||lheffapin.com^
+||kawakafleers.com^
+||natterresail.com^
+||reebr.com^
 
 ! 163
-/163/frontend/antnest/$script
+/163/frontend/antnest/
 |https://static.ws.126.net/163/frontend/images/toast-download.png
 |https://gw.m.163.com/search/api/v2/wap/rolling-word?
 |https://m.163.com/wap/special/
@@ -19,7 +28,6 @@
 |https://m.163.com/touch/api/paid-article/well-chosen-rec-list?
 |https://m.163.com/touch/behavior.html?
 
-! ---------------------------------------
 ! 18comic
 /ajax/user_daily_event?
 /templates/frontend/airav/css/2025-headerRWD.css
@@ -29,36 +37,31 @@
 |https://18comic.*/templates/frontend/airav/emoji/emojionearea.css
 |https://cdn-msp3.18comic.*/static/resources/images/
 
-! ---------------------------------------
+! 51cg
+/js/zzz.js
+
 ! a2zapk
 |https://a2zapk.io/adsbyg.js?
 a2zapk.io###modalpop
 a2zapk.io###modalpop-content
 
-! ---------------------------------------
 ! bilibili
 m.bilibili.com##.fixed-openapp
 
-! ---------------------------------------
 ! bing
 @@||bing.com/fd/ls/GLinkPing.aspx?
 cn.bing.com###bnp_rich_div
 
-! ---------------------------------------
 ! cnblog
 |https://img2024.cnblogs.com/blog/35695/
 |https://www.cnblogs.com/*/ajax/post-accessories?
 |https://www.cnblogs.com/*/custom.css?
 
-! ---------------------------------------
 ! colamanga
-|https://www.colamanga.com/common/css/website.css
+.com/static/loading.gif
 |https://www.colamanga.com/counting
-|https://www.colamanga.com/template/vfed/asset/css/layer.css?v=
-www.colamanga.com/static/loading.gif
 @@||www.colamanga.com/js/ad_/load.js
 
-! ---------------------------------------
 ! csdn
 |https://blog.csdn.net/phoenix/web/v1/mini-app/
 |https://csdnimg.cn/release/passport_fe/
@@ -71,30 +74,45 @@ www.colamanga.com/static/loading.gif
 |https://statistic.csdn.net/
 |https://zhannei-dm.csdn.net/recommend/
 
-! ---------------------------------------
+! dumanwu
+|http://m.dumanwu1.com/static/images/load.gif
+
 ! ghxi
 |https://www.ghxi.com/wp-content/plugins/core-ai-power/
 |https://www.ghxi.com/wp-content/plugins/wp-opt/static/js/front.min.js?
+! manhuaplus
+||pubfuture-ad.com^
+||pubadx.one^
+|https://js.wpadmngr.com/static/adManager.
+||wellworn-lead.com^
 
-! ---------------------------------------
+! happymh
+|https://cdn2.sales-frontier.com^
+|https://m.happymh.com/static/media/
+
+! ngabbs
+|https://g1.tagtic.cn/v1/xingyou/c/
+
 ! oschina
 oschina.net##div[name="detail_show_footer"]
 
-! ---------------------------------------
+! pornbest
+/images/friend/0/$image,domain=ptt.co|xnnn.org
+|https://www.pornbest.org/site/stat?
+||quotationmanipulateloved.com^
+||platform-api.sharethis.com^
+|https://xnnn.org/site/all.js
+
 ! ruanyifeng
 |https://www.ruanyifeng.com/blog/checker.js
 |https://www.ruanyifeng.com/blog/stats.js
 
-! ---------------------------------------
 ! sspai
 sspai.com###btn-call-app
 
-! ---------------------------------------
 ! wxsck
-/js/zzz.js
 .com/static/js/action.js
 
-! ---------------------------------------
 ! zhihu
 @@||static.zhihu.com/heifetz/chunks/lib-$script
 @@||static.zhihu.com/heifetz/chunks/mobile-$script
@@ -110,13 +128,3 @@ sspai.com###btn-call-app
 |https://zxid-api.mobileservice.cn/sdk/base/report
 ||unpkg.zhimg.com/@cfe/sentry-script@
 
-! ---------------------------------------
-! 通用广告域名屏蔽
-.gif?
-|https://lf1-cdn-tos.bytegoofy.com/goofy/
-|https://playhubconnect.com/bn/
-||clarity.ms^
-||diligencejusticeimprobable.com^
-||lheffapin.com^
-||natterresail.com^
-||reebr.com^
