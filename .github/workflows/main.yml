@@ -8,10 +8,6 @@ on:
 permissions:
   contents: write
   
-env:
-  ACTIONS_RUN_LOG_RETENTION_DAYS: 1
-  ACTIONS_RUN_RETENTION_DAYS: 1
-  
 jobs:
   update-filter:
     runs-on: ubuntu-latest
