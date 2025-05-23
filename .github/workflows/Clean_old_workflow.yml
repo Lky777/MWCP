@@ -1,0 +1,31 @@
+name: Cleanup all old workflow runs
+on:
+  schedule:
+    - cron: '0 20 * * *'
+  workflow_dispatch:
+
+permissions:
+  actions: write
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup jq
+        run: sudo apt-get install -y jq
+
+      - name: Delete all workflow runs older than 1 day
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # 获取所有超过1天的workflow运行ID
+          RUN_IDS=$(curl -s -H "Authorization: token $GH_TOKEN" \
+            "https://api.github.com/repos/${{ github.repository }}/actions/runs?per_page=100" \
+            | jq -r '.workflow_runs[] | select(.created_at < (now - 86400|strflocaltime("%Y-%m-%dT%H:%M:%SZ"))) | .id')
+          
+          # 逐个删除
+          for run_id in $RUN_IDS; do
+            echo "Deleting run $run_id"
+            curl -X DELETE -H "Authorization: token $GH_TOKEN" \
+              "https://api.github.com/repos/${{ github.repository }}/actions/runs/$run_id"
+          done
