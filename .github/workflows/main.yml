@@ -2,7 +2,7 @@ name: Update Ad Filters
 
 on:
   schedule:
-    - cron: "0 19 * * *"  # 每天 UTC 19:00（北京时间 03:00）
+    - cron: '0 19 * * *'  # 每天 UTC 19:00（北京时间 03:00）
   workflow_dispatch:
 
 permissions:
