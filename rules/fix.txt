@@ -1,11 +1,3 @@
-[Adblock Plus 2.0]
-! Title: Naughty
-! Description: 补充规则(已合并至MobiListChina)
-! Version: 20250605
-! Expires: 30 days
-! Homepage: https://github.com/Lky777/MWCP/
-! ---------------------------------------
-
 ! General Blocking
 |https://lf1-cdn-tos.bytegoofy.com/goofy/
 |https://playhubconnect.com/bn/
