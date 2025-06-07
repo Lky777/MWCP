@@ -1,7 +1,10 @@
 ! General Blocking
+.site^
+/adsbyg.js?
+/cdn-cgi/speculation
+/cloudflare-static/email-decode.min.js
 |https://lf1-cdn-tos.bytegoofy.com/goofy/
 |https://playhubconnect.com/bn/
-||*.site^
 ||clarity.ms^
 ||diligencejusticeimprobable.com^
 ||kawakafleers.com^
@@ -37,13 +40,10 @@
 ! 9imanhua
 .com/addnew.php
 /addnew.js
-/cdn-cgi/speculation
-|https://pic4.zhimg.com/50/v2-e377a39f81b4cdc2373b9c43c46f5f12_720w.webp
 
 ! a2zapk
 a2zapk.io###modalpop
 a2zapk.io###modalpop-content
-|https://a2zapk.io/adsbyg.js?
 
 ! bilibili
 m.bilibili.com##.fixed-openapp
@@ -63,15 +63,14 @@ cn.bing.com###bnp_rich_div
 |https://www.colamanga.com/counting
 
 ! csdn
+/trackad.js
 |https://blog.csdn.net/phoenix/web/v1/mini-app/
 |https://csdnimg.cn/release/passport_fe/
 |https://eva2.csdn.net/v3/
 |https://g.csdnimg.cn/??sharewx/
-|https://g.csdnimg.cn/asdf/*/trackad.js
 |https://img-home.csdnimg.cn/data_json/jsconfig/redPacket.json
-|https://redisdatarecall.csdn.net/recommend/
+|https://*.csdn.net/recommend/
 |https://silkroad.csdn.net/api/v2/assemble/list/
-|https://zhannei-dm.csdn.net/recommend/
 ||statistic.csdn.net^
 
 ! ddg
@@ -93,7 +92,7 @@ duckduckgo.com##.js-atb-banner
 
 ! happymh
 |https://m.happymh.com/static/media/
-||cdn2.sales-frontier.com^
+||sales-frontier.com^
 
 ! manhuaplus
 |https://js.wpadmngr.com/static/adManager.
@@ -123,6 +122,9 @@ oschina.net##div[name="detail_show_footer"]
 ||platform-api.sharethis.com^
 ||quotationmanipulateloved.com^
 
+! renrys
+||tether-cn.com^
+
 ! ruanyifeng
 |https://www.ruanyifeng.com/blog/checker.js
 |https://www.ruanyifeng.com/blog/stats.js
@@ -143,7 +145,7 @@ www.startpage.com##.mobile-app-promo-banner
 baidu.com##.btn
 |https://*.baidu.com/mo/q/getUpConfigData?
 |https://*.baidu.com/mo/q/getVersionInfo?
-|https://*.baidu.com/mo/q/recommendpb/recomSiteTids?
+|https://*.baidu.com/mo/q/recommendpb/
 |https://tb3.bdstatic.com/uniapp/static/icon/
 ||miaowu.baidu.com^
 
@@ -162,6 +164,7 @@ baidu.com##.btn
 @@||static.zhihu.com/heifetz/chunks/mobile-$script
 @@||static.zhihu.com/heifetz/chunks/shared-$script
 |https://mcs.volceapplog.com/list
+|https://pic4.zhimg.com/50/v2-e377a39f81b4cdc2373b9c43c46f5f12_720w.webp
 |https://static.zhihu.com/heifetz/chunks/$script
 |https://static.zhihu.com/heifetz/column.*.css
 |https://static.zhihu.com/heifetz/column.app.$script
@@ -171,4 +174,3 @@ baidu.com##.btn
 |https://www.zhihu.com/api/v4/questions/*/related-readings?
 |https://www.zhihu.com/sc-profiler
 |https://zxid-api.mobileservice.cn/sdk/base/report
-
