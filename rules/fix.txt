@@ -1,7 +1,6 @@
 ! General Blocking
 .com/pixel.html?
-.site/
-.site:*/
+.site^
 /cdn-cgi/speculation
 /cloudflare-static/email-decode.min.js
 |https://lf1-cdn-tos.bytegoofy.com/goofy/
@@ -129,6 +128,7 @@ ravenscans.com###teaserbottom
 |https://ravenscans.com/wp-content/themes/mangareader/assets/img/readerarea.svg
 
 ! renrys
+.com:*/d/
 ||apple-book.com^
 ||tether-cn.com^
 
