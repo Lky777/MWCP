@@ -1,5 +1,7 @@
 ! General Blocking
+.com/pixel.html?
 .site^
+.site:*/
 /adsbyg.js?
 /cdn-cgi/speculation
 /cloudflare-static/email-decode.min.js
@@ -10,6 +12,8 @@
 ||kawakafleers.com^
 ||lheffapin.com^
 ||natterresail.com^
+||pubadx.one^
+||pubfuture-ad.com^
 ||reebr.com^
 
 ! 163
@@ -96,8 +100,6 @@ duckduckgo.com##.js-atb-banner
 
 ! manhuaplus
 |https://js.wpadmngr.com/static/adManager.
-||pubadx.one^
-||pubfuture-ad.com^
 ||wellworn-lead.com^
 
 ! mydrivers
@@ -121,6 +123,11 @@ oschina.net##div[name="detail_show_footer"]
 |https://xnnn.org/site/all.js
 ||platform-api.sharethis.com^
 ||quotationmanipulateloved.com^
+
+!ravenscans
+ravenscans.com###teaserbottom
+|https://ravenscans.com/wp-content/themes/mangareader/assets/img/btn_close.gif
+|https://ravenscans.com/wp-content/themes/mangareader/assets/img/readerarea.svg
 
 ! renrys
 ||apple-book.com^
