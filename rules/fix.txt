@@ -1,8 +1,7 @@
 ! General Blocking
 .com/pixel.html?
-.site^
+.site/
 .site:*/
-/adsbyg.js?
 /cdn-cgi/speculation
 /cloudflare-static/email-decode.min.js
 |https://lf1-cdn-tos.bytegoofy.com/goofy/
@@ -15,6 +14,7 @@
 ||pubadx.one^
 ||pubfuture-ad.com^
 ||reebr.com^
+||wellworn-lead.com^
 
 ! 163
 /163/frontend/antnest/
@@ -100,7 +100,6 @@ duckduckgo.com##.js-atb-banner
 
 ! manhuaplus
 |https://js.wpadmngr.com/static/adManager.
-||wellworn-lead.com^
 
 ! mydrivers
 |https://11.mydrivers.com/common/js/trimpath-template-
