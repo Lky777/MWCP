@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/Lky777/MWCP/refs/heads/main/rules/MobiListChin
 
 ___
 **Credits**  
-* [Easylist](https://github.com/easylist)  
+* [easylist](https://github.com/easylist)  
 * [badmojr](https://github.com/badmojr)   
 * [cjx82630](https://github.com/cjx82630)  
 * [xinggsf](https://github.com/xinggsf)    
