@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/Lky777/MWCP/refs/heads/main/rules/MobiListChin
 ___
 **鸣谢**  
 * [Easylist](https://github.com/easylist/easylist)  
-* [EasylistChina](https://github.com/easylist/easylistchina)  
+* [EasylistChina](https://github.com/easylist/easylistchina)* [badmojr](https://github.com/badmojr)   
 * [CJX's Annoyance List](https://github.com/cjx82630/cjxlist)  
 * [乘风广告过滤规则](https://github.com/xinggsf/Adblock-Plus-Rule)    
 
