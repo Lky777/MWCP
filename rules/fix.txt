@@ -1,19 +1,10 @@
 ! General Blocking
 .com/pixel.html?
-.site^
 /cdn-cgi/speculation
-/cloudflare-static/email-decode.min.js
 |https://lf1-cdn-tos.bytegoofy.com/goofy/
 |https://playhubconnect.com/bn/
-||clarity.ms^
 ||diligencejusticeimprobable.com^
-||kawakafleers.com^
 ||lheffapin.com^
-||natterresail.com^
-||pubadx.one^
-||pubfuture-ad.com^
-||reebr.com^
-||wellworn-lead.com^
 
 ! 163
 /163/frontend/antnest/
@@ -73,7 +64,6 @@ cn.bing.com###bnp_rich_div
 |https://g.csdnimg.cn/??sharewx/
 |https://img-home.csdnimg.cn/data_json/jsconfig/redPacket.json
 |https://*.csdn.net/recommend/
-|https://silkroad.csdn.net/api/v2/assemble/list/
 ||statistic.csdn.net^
 
 ! ddg
@@ -81,6 +71,7 @@ duckduckgo.com##.js-atb-banner
 
 ! dumanwu
 .com/static/images/load.gif
+||uslook.top^
 
 ! ghxi
 |https://www.ghxi.com/wp-content/plugins/core-ai-power/
@@ -95,7 +86,13 @@ duckduckgo.com##.js-atb-banner
 
 ! happymh
 |https://m.happymh.com/static/media/
-||sales-frontier.com^
+
+! jable
+|https://assetscdn.jable.tv/assets/images/uu/
+
+! juejin
+|https://mcs.snssdk.com/list
+juejin.cn##.open-button
 
 ! manhuaplus
 |https://js.wpadmngr.com/static/adManager.
@@ -119,8 +116,6 @@ oschina.net##div[name="detail_show_footer"]
 /images/friend/0/$image,domain=ptt.co|xnnn.org
 |https://www.pornbest.org/site/stat?
 |https://xnnn.org/site/all.js
-||platform-api.sharethis.com^
-||quotationmanipulateloved.com^
 
 !ravenscans
 ravenscans.com###teaserbottom
@@ -128,7 +123,6 @@ ravenscans.com###teaserbottom
 |https://ravenscans.com/wp-content/themes/mangareader/assets/img/readerarea.svg
 
 ! renrys
-.com:*/d/
 ||apple-book.com^
 ||tether-cn.com^
 
@@ -138,9 +132,8 @@ ravenscans.com###teaserbottom
 
 ! smtt
 |https://js.mewlxy.com/gg-config.js
-||arbyyu.com^
-||h1v3fa.com^
-||tim8w0.com^
+! sohu
+m.sohu.com##.btn
 
 ! sspai
 sspai.com###btn-call-app
@@ -154,7 +147,6 @@ baidu.com##.btn
 |https://*.baidu.com/mo/q/getVersionInfo?
 |https://*.baidu.com/mo/q/recommendpb/
 |https://tb3.bdstatic.com/uniapp/static/icon/
-||miaowu.baidu.com^
 
 ! veryim
 |https://link.mzlinks.com/js/*.manhua
