@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiListChina
 ! Description: blocker for Chinese mobile site
-! Version: 202506200956
-! Last modified: 20 Jun 2025 09:56 UTC
+! Version: 202506201906
+! Last modified: 20 Jun 2025 19:06 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -9396,6 +9396,7 @@ yydstxt*.com/js/html
 ||7345023508.fxmconnect.com^
 ||73503921.xyz^
 ||73568955.xyz^
+||735pwa.com^$popup
 ||73ed366d3137ec936bd60b1184467776.com^
 ||74099753.xyz^
 ||74142961.xyz^
@@ -32339,6 +32340,7 @@ yydstxt*.com/js/html
 ||dnmqfaxluvaou.world^
 ||dnn506yrbagrg.cloudfront.net^
 ||dnnapi.com/analytics/
+||dnokacraldho.com^
 ||dnokmwgdijwi.com^
 ||dnpgwweaiepdu.top^
 ||dnps.com^
@@ -39586,6 +39588,7 @@ yydstxt*.com/js/html
 ||go2.go2cloud.org^
 ||go2.onlymobs.com^
 ||go2.toplineads.com^
+||go22zd6lwm.com^
 ||go2affise.com^
 ||go2affise.com^$popup
 ||go2app.org^
@@ -53331,6 +53334,7 @@ yydstxt*.com/js/html
 ||moa06190ju.com^
 ||moa06191ju.com^
 ||moa06200ju.com^
+||moa06201ju.com^
 ||moadoopsouwhast.net^
 ||moanamberdrone.com^
 ||moaps.tmo.net^
@@ -63429,6 +63433,7 @@ yydstxt*.com/js/html
 ||radikal.ru^$domain=18board.com|18p2p.com
 ||radiotime.com/report.ashx?
 ||radiotime.com/reports/
+||radishon33.top^
 ||radishrarity.com^
 ||radiumone.com^
 ||rads.msn.com^
@@ -74642,6 +74647,7 @@ yydstxt*.com/js/html
 ||th.pinduoduo.com^
 ||th.suning.com^
 ||th.tubetruck.com^
+||thaadotyvrf.com^
 ||thacreks.com^
 ||thadairteetchar.net^
 ||thadaxizu.pro^
@@ -79268,6 +79274,7 @@ yydstxt*.com/js/html
 ||uxnrnsfybjmxgw.com^
 ||uxxux.com/js/zd.js
 ||uy054eprsdoz.appspot.com^
+||uy8f8z9uy.com^
 ||uydyqlnebqlwe.global^
 ||uyislot.top^
 ||uyiteasacomsys.info^
@@ -79518,6 +79525,7 @@ yydstxt*.com/js/html
 ||vbnmsilenitmanby.info^$popup
 ||vbout.com^
 ||vbox7.com/aj/player-stats?
+||vbphograewy.com^
 ||vbptgoyketwhv.global^
 ||vbrusdiifpfd.com^
 ||vbtrax.com^
@@ -85626,6 +85634,7 @@ yydstxt*.com/js/html
 ||znjdkvlhfvuuc.one^
 ||znlvhnej.icu^
 ||znnfzx.xyz^
+||zno9qw80o.com^
 ||znqip.net^$popup
 ||znzfvmdtklsvv.xyz^
 ||zo.kawakafleers.com^
