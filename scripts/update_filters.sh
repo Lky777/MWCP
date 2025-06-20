@@ -20,26 +20,35 @@ rm -rf easylist/
 
 # 4. dl add rules
 declare -A urls=(
-  ["easylistchina.txt"]="https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt"
-  ["cjx-annoyance.txt"]="https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt"
-  ["rules.txt"]="https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt"
-  ["adblock.txt"]="https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt"
-  ["fix.txt"]="https://raw.githubusercontent.com/Lky777/MWCP/main/rules/fix.txt"
-
+  [easylistchina.txt]="https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt"
+  [cjx.txt]="https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt"
+  [xinggsf.txt]="https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt"
+  [onehosts_lite.txt]="https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt"
+  [supple.txt]="https://raw.githubusercontent.com/Lky777/MWCP/main/rules/supple.txt"
+  [falseblock.txt]="https://raw.githubusercontent.com/Lky777/MWCP/main/rules/falseblock.txt"
 )
+
 for file in "${!urls[@]}"; do
-  curl -fsSL "${urls[$file]}" -o "rules/$file" || { echo "下载失败: $file" >&2; exit 1; }
+  echo "DL: $file"
+  tmp_file=$(mktemp -p rules/)
+  if curl -fsSL "${urls[$file]}" -o "$tmp_file"; then
+    mv -f "$tmp_file" "rules/$file"
+    echo "√ : $file"
+  else
+    echo "× : $file" >&2
+  fi
+  rm -f "$tmp_file"
 done
 
 # 5. handle text
-awk '/^!/ {flag=0} /^! Chinese$/ {flag=1} flag' rules/easylist_adservers.txt > rules/Easylist_ads.txt
+awk '/^!/ {flag=0} /^! Chinese$/ {flag=1} flag' rules/easylist_adservers.txt > rules/easylist_ads.txt
 #awk '/^!/ {flag=0} /^! \$document$/ {flag=1} flag' rules/easylist_adservers.txt >> rules/Easylist_ads.txt
 #awk '/^!/ {flag=0} /^! Third-party$/ {flag=1} flag' rules/easylist_adservers.txt >> rules/Easylist_ads.txt
 #awk '/^!/ {flag=0} /^! IP$/ {flag=1} flag' rules/easylist_adservers.txt >> rules/Easylist_ads.txt
 rm -f rules/easylist_adservers.txt
-awk '/^!/ && /Chinese/ {flag=1; next} /^!/ {flag=0} flag' rules/easyprivacy_{allowlist,specific,thirdparty}_international.txt > rules/Easyprivacy_a.txt
+awk '/^!/ && /Chinese/ {flag=1; next} /^!/ {flag=0} flag' rules/easyprivacy_{allowlist,specific,thirdparty}_international.txt > rules/easyprivacy_a.txt
 rm -f rules/easyprivacy_allowlist_international.txt rules/easyprivacy_specific_international.txt rules/easyprivacy_thirdparty_international.txt
-sed -i '/##+js/!{/##\|#@#\|#\?#/d}' rules/{easylistchina.txt,cjx-annoyance.txt,rules.txt}
+sed -i '/##+js/!{/##\|#@#\|#\?#/d}' rules/{easylistchina.txt,cjx.txt,xinggsf.txt}
 
 # 6. merge
 find rules -name "*.txt" -exec cat {} + | sort -u > rules/combined_rules.txt
@@ -57,17 +66,28 @@ sed -i '
    }
  ' rules/combined_rules.txt
  printf '%s\n' '.gif?' '/ad/' '/ads/' >> rules/combined_rules.txt
-rm -f rules/Easyprivacy_a.txt
+rm -f rules/easylistchina.txt
+rm -f rules/cjx.txt
+rm -f rules/xinggsf.txt
+rm -f rules/onehosts_lite.txt
+rm -f rules/supple.txt
+rm -f rules/easylist_ads.txt
+rm -f rules/easyprivacy_a.txt
 
-# 7. general final filterlist
-{
-  printf '%s\n'     "[Adblock Plus 2.0]"     "! Title: MobiListChina"     "! Description: blocker for Chinese mobile site"     "! Version: $(date +%Y%m%d%H%M)"     "! Last modified: $(date -u +"%d %b %Y %H:%M UTC")"     "! Expires: 1 day"     "! Homepage: https://github.com/Lky777/MWCP/"     "! ---------------------------------"
-  grep -v -e '^!' -e '^$' -e '^[[:space:]]*$' rules/combined_rules.txt | sort -u
-} > rules/MobiListChina.txt
-rule_count=$(grep -v -c -e '^!' rules/MobiListChina.txt)
+# 7. del false positives
+grep -ivFf rules/falseblock.txt rules/combined_rules.txt > rules/final_rules.txt
+rm -f rules/falseblock.txt
 rm -f rules/combined_rules.txt
 
-# 8. Git push
+# 8. general final filterlist
+{
+  printf '%s\n'     "[Adblock Plus 2.0]"     "! Title: MobiListChina"     "! Description: blocker for Chinese mobile site"     "! Version: $(date +%Y%m%d%H%M)"     "! Last modified: $(date -u +"%d %b %Y %H:%M UTC")"     "! Expires: 1 day"     "! Homepage: https://github.com/Lky777/MWCP/"     "! ---------------------------------"
+  grep -v -e '^!' -e '^$' -e '^[[:space:]]*$' rules/final_rules.txt | sort -u
+} > rules/MobiListChina.txt
+rule_count=$(grep -v -c -e '^!' rules/MobiListChina.txt)
+rm -f rules/final_rules.txt
+
+# 9. Git push
 git config --global user.name "GitHub Actions"
 git config --global user.email "actions@github.com"
 if ! git diff --quiet -- rules/MobiListChina.txt; then
@@ -79,6 +99,6 @@ else
   echo "✓ Nothing to commit, no rule changes"
 fi
 
-# 9. refresh jsDelivr cache
+# 10. refresh jsDelivr cache
 curl -s "https://cdn.jsdelivr.net/gh/Lky777/MWCP/rules/MobiListChina.txt?cache_bust=$(date +%s)" > /dev/null
 
