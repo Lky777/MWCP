@@ -1,12 +1,12 @@
 127.0.0.1 localhost
 ::1 localhost
-# ================ 隐私保护规则 ================
- #微信小程序
+# ================ Privacy Pro Rules ================
+ #wechat mini program
 0.0.0.0 wxsmw.wxs.qq.com
 0.0.0.0 182.40.129.65
 0.0.0.0 wximg.wxs.qq.com
 0.0.0.0 122.192.127.62
-#百度地图app
+#baidu map app
 0.0.0.0 newclient.map.baidu.com
 0.0.0.0 103.211.221.136
 0.0.0.0 153.3.237.209
