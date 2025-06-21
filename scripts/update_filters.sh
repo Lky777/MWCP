@@ -74,12 +74,19 @@ rm -f rules/supple.txt
 rm -f rules/easylist_ads.txt
 rm -f rules/easyprivacy_a.txt
 
-# 7. del false positives
+# 7.rules compression
+chmod +x script.sh
+./script.sh rules/rule_pre_del.txt rules/combined_rules.txt
+cat rules/rule_pre_add.txt >> rules/combined_rules.txt
+rm -f rules/rule_pre_del.txt
+rm -f rules/rule_pre_add.txt
+
+# 8. del false positives
 grep -ivFf rules/falseblock.txt rules/combined_rules.txt > rules/final_rules.txt
 rm -f rules/falseblock.txt
 rm -f rules/combined_rules.txt
 
-# 8. general final filterlist
+# 9. general final filterlist
 {
   printf '%s\n'     "[Adblock Plus 2.0]"     "! Title: MobiListChina"     "! Description: blocker for Chinese mobile site"     "! Version: $(date +%Y%m%d%H%M)"     "! Last modified: $(date -u +"%d %b %Y %H:%M UTC")"     "! Expires: 1 day"     "! Homepage: https://github.com/Lky777/MWCP/"     "! ---------------------------------"
   grep -v -e '^!' -e '^$' -e '^[[:space:]]*$' rules/final_rules.txt | sort -u
@@ -87,7 +94,7 @@ rm -f rules/combined_rules.txt
 rule_count=$(grep -v -c -e '^!' rules/MobiListChina.txt)
 rm -f rules/final_rules.txt
 
-# 9. Git push
+# 10. Git push
 git config --global user.name "GitHub Actions"
 git config --global user.email "actions@github.com"
 if ! git diff --quiet -- rules/MobiListChina.txt; then
@@ -99,6 +106,6 @@ else
   echo "✓ Nothing to commit, no rule changes"
 fi
 
-# 10. refresh jsDelivr cache
+# 11. refresh jsDelivr cache
 curl -s "https://cdn.jsdelivr.net/gh/Lky777/MWCP/rules/MobiListChina.txt?cache_bust=$(date +%s)" > /dev/null
 
