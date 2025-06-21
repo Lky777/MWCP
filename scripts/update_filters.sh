@@ -75,8 +75,8 @@ rm -f rules/easylist_ads.txt
 rm -f rules/easyprivacy_a.txt
 
 # 7.rules compression
-chmod +x rule_compression.sh
-./rule_compression.sh rules/rule_pre_del.txt rules/combined_rules.txt
+chmod +x /scripts/rule_compression.sh
+./scripts/rule_compression.sh rules/rule_pre_del.txt rules/combined_rules.txt
 cat rules/rule_pre_add.txt >> rules/combined_rules.txt
 rm -f rules/rule_pre_del.txt
 rm -f rules/rule_pre_add.txt
