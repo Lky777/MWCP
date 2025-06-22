@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 set -euo pipefail
-
+set -x  # 开启调试模式
 # 初始化目录
 rm -rf rules/
 mkdir -p rules/
@@ -35,29 +35,14 @@ if ! wget --tries=3 --timeout=30 -q -P rules/ https://raw.githubusercontent.com/
     exit 1
 fi
 
-check_file "rules/adblock.txt"
+temp_file=$(mktemp)
+sed -e 's/^||//' -e 's/\^$//' "rules/adblock.txt" > "$temp_file"
+mv "$temp_file" "rules/adblock.txt"
 
-# 处理adblock.txt
-if [ -s "rules/adblock.txt" ]; then
-    temp_file=$(mktemp)
-    sed -e 's/^||//' -e 's/\^$//' "rules/adblock.txt" > "$temp_file"
-    mv "$temp_file" "rules/adblock.txt"
-    echo "处理完成！已删除所有行首的 || 和行尾的 ^"
-else
-    echo "警告：rules/adblock.txt 为空，跳过处理"
-fi
-
-# 3. 最终处理
-check_file "rules/test1.txt"
-check_file "rules/adblock.txt"
 
 if [ -s "rules/adblock.txt" ] && [ -s "rules/test1.txt" ]; then
     grep -vFf "rules/adblock.txt" "rules/test1.txt" > "rules/test1.tmp"
     mv "rules/test1.tmp" "rules/test1.txt"
-    echo "处理完成！已删除 test1.txt 中所有与 adblock.txt 匹配的行。"
-else
-    echo "警告：其中一个文件为空，跳过最终处理"
-fi
 
 # 4. Git操作
 if [ -n "${GITHUB_ACTIONS-}" ]; then
@@ -73,6 +58,3 @@ if [ -n "${GITHUB_ACTIONS-}" ]; then
     else
         echo "✓ Nothing to commit, no rule changes"
     fi
-else
-    echo "非GitHub Actions环境，跳过Git操作"
-fi
