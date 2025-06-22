@@ -64,11 +64,15 @@ mv rules/asservs.tmp rules/asservs.txt
 git config --global user.name "GitHub Actions"
 git config --global user.email "actions@github.com"
 
-#
+if [[ ! -f "rules/surfing.txt" || ! -f "rules/asservs.txt" ]]; then
+    echo "Error: Missing surfing.txt or asservs.txt" >&2
+    exit 1
+fi
+
 if ! git diff --quiet -- rules/surfing.txt rules/asservs.txt; then
-    git add rules/surfing.txt /rules/asservs.txt
+    git add rules/surfing.txt rules/asservs.txt
     git commit -m "Auto-update: $(date -u +'%Y-%m-%d %H:%M UTC')"
-    
+
     for i in {1..3}; do
         if git push; then
             echo "✓ Changes committed and pushed"
