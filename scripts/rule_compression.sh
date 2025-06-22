@@ -1,29 +1,25 @@
-#!/bin/bash
+#!/bin/sh  # 使用更基本的shell
 
-#!/bin/bash
+set -e  # 任何错误立即退出
 
-# 更友好的参数检查
-if [ "$#" -ne 2 ]; then
-    echo "Usage: $0 <filter_rules> <target_file>"
-    echo "Example: $0 rules/remove.txt rules/main.txt" >&2
+# 参数检查
+[ $# -eq 2 ] || {
+    echo "Usage: $0 <filter> <target>" >&2
     exit 1
-fi
+}
 
-text1="$1"
-text2="$2"
-temp_file=$(mktemp)
-
-if [ ! -f "$text1" ] || [ ! -f "$text2" ]; then
-    echo "Error: Input files not found!"
+# 文件检查
+[ -f "$1" ] && [ -f "$2" ] || {
+    echo "Error: Input files missing" >&2
     exit 1
-fi
+}
 
-while IFS= read -r line; do
-    if [ -n "$line" ]; then
-        grep -ivF -- "$line" "$text2" > "$temp_file" || true
-        mv "$temp_file" "$text2"
-    fi
-done < "$text1"
+# 使用临时工作目录
+WORKDIR=$(mktemp -d)
+trap 'rm -rf "$WORKDIR"' EXIT
 
-rm -f "$temp_file"
+# 处理逻辑
+grep -ivF -f "$1" "$2" > "$WORKDIR/output" || true
+mv "$WORKDIR/output" "$2"
+
 echo "OK"

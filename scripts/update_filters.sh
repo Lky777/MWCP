@@ -74,22 +74,15 @@ rm -f rules/supple.txt
 rm -f rules/easylist_ads.txt
 rm -f rules/easyprivacy_a.txt
 
-# check
-echo "当前目录: $(pwd)"
-ls -l ./scripts/rule_compression.sh
 # 7. rules compression
-echo "=== 验证脚本 ==="
-chmod +x ./scripts/rule_compression.sh
-# 创建临时测试文件
-echo "test" > rules/test_input.txt
-echo "test" > rules/test_target.txt
-# 用真实参数测试（2个参数）
-if ! ./scripts/rule_compression.sh rules/test_input.txt rules/test_target.txt; then
-    echo "Error: 压缩脚本测试失败！"
+echo "=== 使用bash直接执行 ==="
+if ! bash ./scripts/rule_compression.sh rules/rule_pre_del.txt rules/combined_rules.txt; then
+    echo "=== 调试信息 ==="
+    ls -l ./scripts/
+    file ./scripts/rule_compression.sh
+    cat ./scripts/rule_compression.sh
     exit 1
 fi
-# 实际执行
-./scripts/rule_compression.sh rules/rule_pre_del.txt rules/combined_rules.txt
 rm -f rules/rule_pre_del.txt
 rm -f rules/rule_pre_add.txt
 
