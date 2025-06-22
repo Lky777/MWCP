@@ -15,6 +15,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: 验证环境
+        run: |
+          echo "=== 环境检查 ==="
+          ls -l ./scripts/
+          file ./scripts/rule_compression.sh
+          which bash sh
+
       - name: Run update script
         working-directory: .
         run: bash scripts/update_filters.sh
