@@ -15,7 +15,7 @@ sort -u rules/sand_wash.txt -o rules/sand_wash.sorted
 sort -u rules/surfing.txt -o rules/surfing.sorted
 comm -23 rules/sand_wash.sorted rules/surfing.sorted > rules/pre_asservs.txt
 mv rules/pre_asservs.txt rules/asservs.txt
-
+sed -i 's/^/||/; s/$/^/' rules/asservs.txt
 # Git
 git config --global user.name "GitHub Actions"
 git config --global user.email "actions@github.com"
