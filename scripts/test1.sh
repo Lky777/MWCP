@@ -28,21 +28,17 @@ else
     echo "警告：rules/test1.txt 为空，跳过域名过滤"
 fi
 
-# 2. 下载并处理adblock.txt
-echo "正在下载 adblock.txt..."
-if ! wget --tries=3 --timeout=30 -q -P rules/ https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt; then
-    echo "错误：下载 adblock.txt 失败！" >&2
-    exit 1
-fi
+wget -P rules/ https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt; then
 
 temp_file=$(mktemp)
 sed -e 's/^||//' -e 's/\^$//' "rules/adblock.txt" > "$temp_file"
 mv "$temp_file" "rules/adblock.txt"
 
-
+# 3. 使用 adblock.txt 过滤 test1.txt
 if [ -s "rules/adblock.txt" ] && [ -s "rules/test1.txt" ]; then
     grep -vFf "rules/adblock.txt" "rules/test1.txt" > "rules/test1.tmp"
     mv "rules/test1.tmp" "rules/test1.txt"
+fi
 
 # 4. Git操作
 if [ -n "${GITHUB_ACTIONS-}" ]; then
