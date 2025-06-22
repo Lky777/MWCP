@@ -7,10 +7,10 @@ rm -rf rules/
 mkdir -p rules/
 
 wget -P rules/ https://raw.githubusercontent.com/Lky777/MWCP/main/rules/test1.txt
-DOMAINS="\.(hk|mo|tw|jp|kr|sg|in|my|th|vn|ph|id|il|sa|ae|uk|de|fr|it|es|nl|ch|se|no|dk|fi|ru|pl|pt|at|ie|us|ca|mx|br|ar|cl|co|au|nz|fj|za|eg|ng|ke|ma|eu|int)[[:space:]]*$"
+DOMAINS="\.(ae|ar|at|au|br|ca|ch|cl|co|de|dk|eg|es|eu|fi|fj|fr|hk|ie|il|in|int|it|jp|ke|kr|ma|mo|mx|my|ng|nl|no|nz|ph|pl|pt|ru|sa|se|sg|th|tw|uk|us|vn|za)([[:space:]]*|$)"
 grep -vE "$DOMAINS" "rules/test1.txt" > "rules/test1.tmp"
 mv "rules/test1.tmp" "rules/test1.txt"
-echo "Finished！Removed other regional websites."
+echo "Finished. Removed other regional websites."
 
 wget -P rules/ https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt
 sed -i 's/^||//;s/\^$//' rules/adblock.txt
