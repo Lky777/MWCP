@@ -28,7 +28,7 @@ else
     echo "警告：rules/test1.txt 为空，跳过域名过滤"
 fi
 
-wget -P rules/ https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt; then
+wget -P rules/ https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt
 
 temp_file=$(mktemp)
 sed -e 's/^||//' -e 's/\^$//' "rules/adblock.txt" > "$temp_file"
