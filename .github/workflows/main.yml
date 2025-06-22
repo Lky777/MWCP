@@ -15,11 +15,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-  - name: run
-    run: ./scripts/update_filters.sh
-    working-directory: .
+      - name: Run update script
         run: bash scripts/update_filters.sh
-        
+        working-directory: .
+
       - name: Final cleanup
         if: always()
         run: |
