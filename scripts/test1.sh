@@ -30,15 +30,16 @@ fi
 
 wget -P rules/ https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt
 
-temp_file=$(mktemp)
-sed -e 's/^||//' -e 's/\^$//' "rules/adblock.txt" > "$temp_file"
-mv "$temp_file" "rules/adblock.txt"
+sed -i 's/^||//;s/\^$//' rules/adblock.txt"
 
-# 3. 使用 adblock.txt 过滤 test1.txt
-if [ -s "rules/adblock.txt" ] && [ -s "rules/test1.txt" ]; then
-    grep -vFf "rules/adblock.txt" "rules/test1.txt" > "rules/test1.tmp"
-    mv "rules/test1.tmp" "rules/test1.txt"
-fi
+# 先排序
+sort -u rules/adblock.txt -o rules/adblock.sorted
+sort -u rules/test1.txt -o rules/test1.sorted
+
+# 使用 comm 找出 test1.sorted 独有的行（即不在 adblock.sorted 中的行）
+comm -23 rules/test1.sorted rules/adblock.sorted > rules/test1.filtered
+
+mv rules/test1.filtered rules/test1.txt
 
 # 4. Git操作
 if [ -n "${GITHUB_ACTIONS-}" ]; then
