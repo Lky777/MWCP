@@ -14,5 +14,5 @@ sed -i '
      /@@\|~/!d
    }
   /\.xyz\^/d
+  /\.xyz\//d
  ' rules/matrix.txt
-
