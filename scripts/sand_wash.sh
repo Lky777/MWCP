@@ -10,8 +10,8 @@ wget -P rules/ https://raw.githubusercontent.com/Lky777/MWCP/main/rules/surfing.
 wget -P rules/ https://raw.githubusercontent.com/Lky777/MWCP/main/rules/sand_wash.txt
 
 # 排序
-sort -u rules/adblock.txt -o rules/surfing.sorted
-sort -u rules/test1.txt -o rules/sand_wash.sorted
+sort -u rules/surfing.txt -o rules/surfing.sorted
+sort -u rules/sand_wash.txt -o rules/sand_wash.sorted
 
 # 使用 comm 找出 sand_wash.sorted 独有的行（即不在 surfing.sorted 中的行）
 comm -23 rules/sand_wash.sorted rules/surfing.sorted > rules/sand.filtered
