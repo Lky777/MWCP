@@ -1,11 +1,13 @@
 #!/usr/bin/env bash
 set -euo pipefail
 set -x  # 开启调试模式
+
 # 初始化目录
 rm -rf rules/
 mkdir -p rules/
 
 wget -P rules/ https://raw.githubusercontent.com/Lky777/MWCP/main/rules/test1.txt
+
 DOMAINS="\.(hk|mo|tw|jp|kr|sg|in|my|th|vn|ph|id|il|sa|ae|uk|de|fr|it|es|nl|ch|se|no|dk|fi|ru|pl|pt|at|ie|us|ca|mx|br|ar|cl|co|au|nz|fj|za|eg|ng|ke|ma|eu|int)[[:space:]]*$"
 
 # 检查文件是否存在
@@ -30,7 +32,8 @@ fi
 
 wget -P rules/ https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt
 
-sed -i 's/^||//;s/\^$//' rules/adblock.txt"
+# 修复这里：删除了多余的双引号
+sed -i 's/^||//;s/\^$//' rules/adblock.txt
 
 # 先排序
 sort -u rules/adblock.txt -o rules/adblock.sorted
