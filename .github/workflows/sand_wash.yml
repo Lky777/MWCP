@@ -1,4 +1,4 @@
-name: build adservs.txt
+name: build asservs.txt
 
 on:
   schedule:
