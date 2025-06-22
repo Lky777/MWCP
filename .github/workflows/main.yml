@@ -2,7 +2,7 @@ name: Update Ad Filters
 
 on:
   schedule:
-    - cron: '0 19 * * *'  # 每天 UTC 19:00（北京时间 03:00）
+    - cron: '0 19 * * *'  # everyday UTC 19:00（BeiJing Time 03:00）
   workflow_dispatch:
 
 permissions:
@@ -15,18 +15,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: 验证环境
-        run: |
-          echo "=== 环境检查 ==="
-          ls -l ./scripts/
-          file ./scripts/rule_compression.sh
-          which bash sh
-
       - name: Run update script
-        working-directory: .
-        run: bash scripts/update_filters.sh
+        run: |
+          set -e
+          bash scripts/matrix_get.sh
+          bash scripts/matrix_lighten.sh
+          bash scripts/matrix_fuel.sh
+          bash scripts/matrix_launch.sh
 
       - name: Final cleanup
         if: always()
         run: |
-          rm -rf rules/ easylist/ scripts/
+          rm -rf rules/ easylist/ scripts/ || true
