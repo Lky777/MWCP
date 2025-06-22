@@ -11,6 +11,7 @@
 |https://playhubconnect.com/bn/
 ||diligencejusticeimprobable.com^
 ||lheffapin.com^
+||oh.natterresail.com^
 
 ! 163
 /163/frontend/antnest/
@@ -45,6 +46,9 @@
 a2zapk.io###modalpop
 a2zapk.io###modalpop-content
 
+! bad.news
+bad.news##.download-app-fixed
+
 ! bilibili
 m.bilibili.com##.fixed-openapp
 
@@ -74,6 +78,9 @@ cn.bing.com###bnp_rich_div
 
 ! ddg
 duckduckgo.com##.js-atb-banner
+
+! douban
+douban.com##.talion-nav-footer
 
 ! dumanwu
 .com/static/images/load.gif
@@ -129,8 +136,8 @@ ravenscans.com###teaserbottom
 |https://ravenscans.com/wp-content/themes/mangareader/assets/img/readerarea.svg
 
 ! renrys
-||apple-book.com^
-||tether-cn.com^
+.com:*/*/
+*$websocket
 
 ! ruanyifeng
 |https://www.ruanyifeng.com/blog/checker.js
@@ -154,6 +161,12 @@ baidu.com##.btn
 |https://*.baidu.com/mo/q/recommendpb/
 |https://tb3.bdstatic.com/uniapp/static/icon/
 
+! toutiao
+m.toutiao.com##.m-bottom
+data:image/gif;base64,
+|https://api.toutiaoapi.com/api/news/feed/v88/?
+|https://sf3-cdn-tos.toutiaostatic.com/obj/card-platform/
+
 ! veryim
 |https://link.mzlinks.com/js/*.manhua
 |https://www.veryim.com/js/z.manhua
@@ -163,6 +176,11 @@ baidu.com##.btn
 
 ! xchina
 |https://upload.xchina.store/ad/
+
+! xmorex
+||stripchatgirls.com^
+||homejavlive.com^
+/creative.*.com/static/
 
 ! zhihu
 @@||static.zhihu.com/heifetz/chunks/lib-$script
