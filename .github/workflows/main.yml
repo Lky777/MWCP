@@ -15,7 +15,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Update filters
+  - name: run
+    run: ./scripts/update_filters.sh
+    working-directory: .
         run: bash scripts/update_filters.sh
         
       - name: Final cleanup
