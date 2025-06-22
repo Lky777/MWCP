@@ -23,7 +23,6 @@ declare -A urls=(
   [easylistchina.txt]="https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt"
   [cjx.txt]="https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt"
   [xinggsf.txt]="https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt"
-  [onehosts_lite.txt]="https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt"
 )
 
 for file in "${!urls[@]}"; do
@@ -50,7 +49,6 @@ tr 'A-Z' 'a-z' < rules/matrix.txt > rules/matrix.tmp && mv rules/matrix.tmp rule
 rm -f rules/easylistchina.txt
 rm -f rules/cjx.txt
 rm -f rules/xinggsf.txt
-rm -f rules/onehosts_lite.txt
 rm -f rules/easylist_ads.txt
 rm -f rules/easyprivacy_a.txt
 rm -f rules/matrix.tmp
