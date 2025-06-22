@@ -48,26 +48,21 @@ else
     exit 1
 fi
 
+# figure out regular sites--surfing.txt
 sort -u rules/adblock.txt -o rules/adblock.sorted
 sort -u rules/sand_wash.txt -o rules/sand_wash.sorted
-
-# figure out regular sites--surfing.txt
 comm -23 rules/sand_wash.sorted rules/adblock.sorted > rules/pre_surfing.txt
 touch "rules/surfing.txt"
 mv rules/pre_surfing.txt rules/surfing.txt
 
 # figure out adservers from sand_wash
-comm -23 rules/sand_wash.sorted rules/surfing.txt > rules/asservs.tmp
-mv rules/asservs.tmp rules/asservs.txt
+sort -u rules/surfing.txt -o rules/surfing2.sorted
+comm -23 rules/sand_wash.sorted rules/surfing2.sorted > rules/asservs.filter
+mv rules/asservs.filter rules/asservs.txt
 
 # Git
 git config --global user.name "GitHub Actions"
 git config --global user.email "actions@github.com"
-
-if [[ ! -f "rules/surfing.txt" || ! -f "rules/asservs.txt" ]]; then
-    echo "Error: Missing surfing.txt or asservs.txt" >&2
-    exit 1
-fi
 
 if ! git diff --quiet -- rules/surfing.txt rules/asservs.txt; then
     git add rules/surfing.txt rules/asservs.txt
