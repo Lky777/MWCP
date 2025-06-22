@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiListChina
 ! Description: blocker for Chinese mobile site
-! Version: 202506211903
-! Last modified: 21 Jun 2025 19:03 UTC
+! Version: 202506220231
+! Last modified: 22 Jun 2025 02:31 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -361,8 +361,10 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 .com/sh/to/$script,third-party,xmlhttprequest
 .com/sitejs/hansan.js
 .com/src/ppu/$third-party
+.com/static/images/load.gif
 .com/static/js/action.js
 .com/static/js/ad.js
+.com/static/loading.gif
 .com/stats.aspx?
 .com/style/vue.js?v=
 .com/ta390hz2.js$script,third-party
@@ -420,7 +422,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 .fuse-cloud.com/$~xmlhttprequest
 .gamediad.
 .gatracking.js
-.gif?
 .gokzxc.
 .gtrxm.
 .gyy1314.
@@ -961,7 +962,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /ad.min.js$script
 /ad.php?tag=$popup
 /ad.php?zone$popup
-/ad/
 /ad/images/*$image,domain=~studiocalling.it
 /ad/img/*$image,domain=~eki-net.com|~jiji.com
 /ad2v1.1.js
@@ -1121,7 +1121,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /ads.cfm?$subdocument
 /ads.jplayer.$stylesheet
 /ads.pl?$~xmlhttprequest
-/ads/
 /ads/footer.$~xmlhttprequest
 /ads/images/*$image,domain=~eoffcn.com
 /ads/index.$~xmlhttprequest
@@ -4595,7 +4594,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /templates/*/js/_banner.js
 /templates/bootadult4/js/bottom.js
 /templates/bootadult4/js/text.js
-/templates/frontend/airav/css/2025-headerrwd.css
+/templates/frontend/airav/css/2025-headerRWD.css
 /templates/frontend/airav/css/style_blog.css?
 /templates/frontend/airav/css/style_game.css?
 /templets/*/js/couplet-ad.
@@ -5971,7 +5970,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||bikeportland.org/wp-content/plugins/advanced-ads/public/assets/js/advanced.min.js$script,~third-party
 @@||bikroy.com/neo/bikroy-contactus*-ads-$script,1p
 @@||bilibili.com^*/web_page_view?$domain=message.bilibili.com
-@@||bing.com/fd/ls/glinkping.aspx?
+@@||bing.com/fd/ls/GLinkPing.aspx?
 @@||bing.com/search?$generichide
 @@||bing.com/translator/api/translate/translatearray?$third-party,xmlhttprequest
 @@||bitauto.com/bglogpostlog.js
@@ -7498,7 +7497,6 @@ xshellcn.com
 yihuifu.cn
 yydstxt*.com/js/cdn.
 yydstxt*.com/js/html
-|about:blank#$popup,domain=22pixx.xyz|adblockstrtape.link|bitporno.com|clipconverter.cc|dailyuploads.net|dood.la|dood.so|dood.to|dood.video|dood.watch|dood.ws|doodcdn.com|flashx.net|gospeljingle.com|hqq.tv|imagetwist.com|mixdrop.bz|mixdrop.sx|mp4upload.com|playtube.ws|popads.net|powvideo.net|powvldeo.cc|putlocker.style|run-syndicate.com|soap2day.tf|spcdn.cc|strcloud.link|streamani.net|streamsb.net|streamtape.cc|streamtape.com|streamtape.site|strtape.cloud|strtape.tech|strtapeadblock.club|strtapeadblock.me|strtpe.link|supervideo.cc|tapecontent.net|turboimagehost.com|upstream.to|uptostream.com|uptostream.eu|uptostream.fr|uptostream.link|userload.co|vev.red|vevo.io|vidcloud.co|videobin.co|videowood.tv|vidoza.net|voe.sx|vortez.net|vshare.eu|watchserieshd.tv
 |blob:$popup,domain=hqq.tv|waaw.to|watchadsontape.com
 |data:text$popup,domain=~clker.com
 |data:text/plain$popup,domain=music.163.com
@@ -7520,12 +7518,12 @@ yydstxt*.com/js/html
 |https://$image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=canyoublockit.com
 |https://$script,third-party,xmlhttprequest,domain=bc.vc
 |https://$script,xmlhttprequest,domain=urlcash.net
-|https://*.baidu.com/mo/q/getupconfigdata?
-|https://*.baidu.com/mo/q/getversioninfo?
+|https://*.baidu.com/mo/q/getUpConfigData?
+|https://*.baidu.com/mo/q/getVersionInfo?
 |https://*.baidu.com/mo/q/recommendpb/
 |https://*.csdn.net/recommend/
 |https://11.mydrivers.com/common/js/trimpath-template-
-|https://11.mydrivers.com/js/2022/storagehelper.js?
+|https://11.mydrivers.com/js/2022/storageHelper.js?
 |https://11.mydrivers.com/m/js/live/liveplayer-element.min.js
 |https://18comic.*/static/resources/files/$image
 |https://18comic.*/templates/frontend/airav/emoji/emojionearea.css
@@ -7539,13 +7537,13 @@ yydstxt*.com/js/html
 |https://g1.tagtic.cn/v1/xingyou/c/
 |https://gw.m.163.com/search/api/v2/wap/rolling-word?
 |https://icons.mydrivers.com/2025/
-|https://img-home.csdnimg.cn/data_json/jsconfig/redpacket.json
-|https://img.hanguomanhua.me/style2/loading200x200.png
+|https://img-home.csdnimg.cn/data_json/jsconfig/redPacket.json
+|https://img.hanguomanhua.me/style2/Loading200x200.png
 |https://img.ithome.com/file/dylive/dylive.min.js^$script
 |https://img1.kkeji.com/img/2005/
 |https://img2024.cnblogs.com/blog/35695/
 |https://js.mewlxy.com/gg-config.js
-|https://js.wpadmngr.com/static/admanager.
+|https://js.wpadmngr.com/static/adManager.
 |https://lf1-cdn-tos.bytegoofy.com/goofy/
 |https://link.mzlinks.com/js/*.manhua
 |https://m.163.com/touch/api/paid-article/well-chosen-rec-list?
@@ -7558,6 +7556,7 @@ yydstxt*.com/js/html
 |https://mcs.volceapplog.com/list
 |https://pic4.zhimg.com/50/v2-e377a39f81b4cdc2373b9c43c46f5f12_720w.webp
 |https://playhubconnect.com/bn/
+|https://ravenscans.com/wp-content/themes/mangareader/assets/img/btn_close.gif
 |https://ravenscans.com/wp-content/themes/mangareader/assets/img/readerarea.svg
 |https://s6.music.126.net/puzzle/$script
 |https://s6.music.126.net/static_public/
@@ -7569,6 +7568,7 @@ yydstxt*.com/js/html
 |https://static.zhihu.com/heifetz/column.app.$script
 |https://tb3.bdstatic.com/uniapp/static/icon/
 |https://unpkg.zhimg.com/@cfe/sentry-script@
+|https://upload.xchina.store/ad/
 |https://www.36dm.com/js/
 |https://www.cnblogs.com/*/ajax/post-accessories?
 |https://www.cnblogs.com/*/custom.css?
@@ -7576,6 +7576,7 @@ yydstxt*.com/js/html
 |https://www.ghxi.com/wp-content/plugins/core-ai-power/
 |https://www.ghxi.com/wp-content/plugins/wp-opt/static/js/front.min.js?
 |https://www.hanguomanhua.me/cache.js
+|https://www.hanguomanhua.me/style2/001.gif
 |https://www.hanguomanhua.me/style2/fc.js
 |https://www.pornbest.org/site/stat?
 |https://www.ruanyifeng.com/blog/checker.js
@@ -7605,6 +7606,7 @@ yydstxt*.com/js/html
 ||00857731.xyz^
 ||00eeekk.com//html5/activitypage/
 ||00fun.com^
+||00p034d0dw.com^
 ||00px.net^
 ||01045395.xyz^
 ||01210sop.xyz^
@@ -7834,6 +7836,7 @@ yydstxt*.com/js/html
 ||11.96131.com.cn^
 ||11.golang8.com^
 ||11.mydrivers.com/drivers/
+||11.mydrivers.com/m/images/v1/kkjapp_down.gif
 ||11.yiqig.cn^
 ||11.yiqig.com^
 ||1100589248-allenco.ruelala.evergage.com^
@@ -8829,6 +8832,7 @@ yydstxt*.com/js/html
 ||3h3.com/js/homepage.js
 ||3h3.com/js/listad.js
 ||3h3.com/js/show/
+||3hads4i5hm.com^
 ||3j0pw4ed7uac-a.akamaihd.net^
 ||3j8c56p9.de^
 ||3jia5.com^$third-party
@@ -9245,6 +9249,7 @@ yydstxt*.com/js/html
 ||5visions.com^
 ||5vpbnbkiey24.com^
 ||5wzgtq8dpk.com^
+||5x17591y3b.com^
 ||5xdmw.com/tb.jpg
 ||5xp6lcaoz.com^
 ||5y9nfpes.52pk.com^
@@ -19482,6 +19487,7 @@ yydstxt*.com/js/html
 ||atzekromchan.com^$popup
 ||au-integration.citrusad.com^
 ||au.ff.avast.com^
+||aubergineq8.top^
 ||aubpcunw.com^
 ||aubrommaiv.com^
 ||auburn9819.com^
@@ -38633,6 +38639,7 @@ yydstxt*.com/js/html
 ||geekpark.net/api/v1/ads
 ||geeptaunip.net^$popup
 ||geewdashb3.fun^
+||gegeoq.icu^
 ||gegeyingshi.com/template/*/images/g_js/
 ||geggeewrossle.com^
 ||geghlyrecomemu.com^
@@ -46240,6 +46247,7 @@ yydstxt*.com/js/html
 ||jwerilxa.top^
 ||jwhjqjfl.icu^
 ||jwilmia.top^
+||jwjwtw.top^
 ||jwmstats.com^$third-party
 ||jwnlbsceu.com^
 ||jwpcdn.com/player/*/googima.js
@@ -53352,6 +53360,7 @@ yydstxt*.com/js/html
 ||moa06200ju.com^
 ||moa06201ju.com^
 ||moa06210ju.com^
+||moa06220ju.com^
 ||moadoopsouwhast.net^
 ||moanamberdrone.com^
 ||moaps.tmo.net^
@@ -56025,6 +56034,7 @@ yydstxt*.com/js/html
 ||nq.signoreptolemy.com^
 ||nqbcf.cn/html/top
 ||nqgokpyktbkbm.space^
+||nqlzlr.icu^
 ||nqn7la7.de^
 ||nqrlkmicjyfzi.rocks^
 ||nqs-nl-c5-c2.youboranqs01.com^
@@ -65449,6 +65459,7 @@ yydstxt*.com/js/html
 ||rtgtk.medtronic.com^
 ||rthbycustomla.info^
 ||rthformttet.com^
+||rthrondrae.com^
 ||rtizudmih.com^
 ||rtjxt.com^
 ||rtk.io^
