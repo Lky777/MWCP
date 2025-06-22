@@ -7,7 +7,7 @@ cleanup() {
     rm -f rules/adblock.sorted
     rm -f rules/test1.sorted
     rm -f rules/test1.tmp
-    rm -f rules/adblock.txt.bak  # sed创建的备份文件
+    rm -f rules/adblock.txt.bak
     echo "Cleanup completed."
 }
 
@@ -16,8 +16,10 @@ trap cleanup EXIT
 rm -rf rules/
 mkdir -p rules/
 
+# get bigdata of sites
 wget -P rules/ https://raw.githubusercontent.com/Lky777/MWCP/main/rules/test1.txt
 
+# slim down data
 DOMAINS="\.(ae|ar|at|au|be|br|ca|ch|cl|co|de|dk|eg|es|eu|\
 fi|fj|fr|hk|hr|ie|il|in|ir|int|it|jp|ke|kr|ma|mo|mx|my|\
 ng|nl|no|nz|ph|pl|pt|ru|sa|se|sg|sk|th|tw|uk|us|vn|za)([\/[:space:]]|$)"
@@ -31,6 +33,7 @@ else
     exit 1
 fi
 
+# get bigdata of adservers
 wget -P rules/ https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt
 
 if [[ -f "rules/adblock.txt" ]]; then
@@ -43,6 +46,7 @@ fi
 sort -u rules/adblock.txt -o rules/adblock.sorted
 sort -u rules/test1.txt -o rules/test1.sorted
 
+# figure out regular sites--surfing.txt
 comm -23 rules/test1.sorted rules/adblock.sorted > rules/test1.filtered
 mv rules/test1.filtered rules/surfing.txt
 
