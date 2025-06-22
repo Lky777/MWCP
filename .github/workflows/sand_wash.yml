@@ -2,7 +2,7 @@ name: build adservs.txt
 
 on:
   schedule:
-#    - cron: '0 17 * * *'  # everyday UTC 17:00（BeiJing Time 01:00）
+    - cron: '0 17 * * *'  # everyday UTC 17:00（BeiJing Time 01:00）
   workflow_dispatch:
 
 permissions:
