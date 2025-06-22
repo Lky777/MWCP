@@ -7,7 +7,7 @@ rm -rf rules/
 mkdir -p rules/
 
 wget -P rules/ https://raw.githubusercontent.com/Lky777/MWCP/main/rules/test1.txt
-DOMAINS="\.(ae|ar|at|au|br|ca|ch|cl|co|de|dk|eg|es|eu|fi|fj|fr|hk|ie|il|in|int|it|jp|ke|kr|ma|mo|mx|my|ng|nl|no|nz|ph|pl|pt|ru|sa|se|sg|th|tw|uk|us|vn|za)([[:space:]]*|$)"
+DOMAINS="\.(ae|ar|at|au|be|br|ca|ch|cl|co|de|dk|eg|es|eu|fi|fj|fr|hk|hr|ie|il|in|ir|int|it|jp|ke|kr|ma|mo|mx|my|ng|nl|no|nz|ph|pl|pt|ru|sa|se|sg|sk|th|tw|uk|us|vn|za)([[:space:]]*|$)"
 grep -vE "$DOMAINS" "rules/test1.txt" > "rules/test1.tmp"
 mv "rules/test1.tmp" "rules/test1.txt"
 echo "Finished. Removed other regional websites."
