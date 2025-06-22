@@ -3,11 +3,12 @@ set -euo pipefail
 
 sed -i '/##+js/!{/##\|#@#\|#\?#/d}' rules/matrix.txt
 sed -i '
+  s/^\*\([\/._-]\)/\1/
   /###cxense-recs-in-article/d
   /##\.embed-responsive-trendmd/d
   /removeparam/d
   /^\/:\/\/.*/d
-  s/^\*\([\/._-]\)/\1/
+  /^|.*third-party$/d
   /\/\\/d
   /\.xyz\^/d
   /\.xyz\//d
