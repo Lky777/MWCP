@@ -46,6 +46,7 @@ rm -f rules/easyprivacy_allowlist_international.txt rules/easyprivacy_specific_i
 
 find rules -name "*.txt" -exec cat {} + | sort -u > rules/matrix.txt
 tr 'A-Z' 'a-z' < rules/matrix.txt > rules/matrix.tmp && mv rules/matrix.tmp rules/matrix.txt
+
 rm -f rules/easylistchina.txt
 rm -f rules/cjx.txt
 rm -f rules/xinggsf.txt
@@ -53,4 +54,3 @@ rm -f rules/onehosts_lite.txt
 rm -f rules/easylist_ads.txt
 rm -f rules/easyprivacy_a.txt
 rm -f rules/matrix.tmp
-
