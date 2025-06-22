@@ -1,8 +1,8 @@
-name: 1.surfing prepare
+name: 1.build surfing.txt
 
 on:
   schedule:
-    - cron: '50 18 * * *'  # everyday UTC 18:40 (BeiJing Time 02:40)
+    - cron: '40 18 * * *'  # everyday UTC 18:40 (BeiJing Time 02:40)
   workflow_dispatch:
 
 permissions:
