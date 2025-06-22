@@ -13,4 +13,6 @@ sed -i '
   /\.gif\?\|\/ad\/\|\/ads\// {
      /@@\|~/!d
    }
+  /\.xyz\^/d
  ' rules/matrix.txt
+
