@@ -6,6 +6,7 @@ sed -i '
   /^\/:\/\/.*/d
   /\/\\/d
   s/^\*\([\/._-]\)/\1/
+  s/\/\*$/\//
   /###cxense-recs-in-article/d
   /##\.embed-responsive-trendmd/d
   /removeparam/d
