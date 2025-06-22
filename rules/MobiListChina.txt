@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiListChina
 ! Description: blocker for Chinese mobile site
-! Version: 202506222315
-! Last modified: 22 Jun 2025 23:15 UTC
+! Version: 202506222338
+! Last modified: 22 Jun 2025 23:38 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -52,8 +52,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|xyg688.xyz|zzzzz688.com
 $webrtc,domain=ack.net|allthetests.com|champion.gg|clicknupload.link|colourlovers.com|csgolounge.com|dispatch.com|go4up.com|janjua.tv|jpost.com|megaup.net|netdna-storage.com|ouo.io|ouo.press|sourceforge.net|spanishdict.com|telegram.com|torlock2.com|uptobox.com|uptobox.eu|uptobox.fr|uptobox.link|vidtodo.com|yts.gs|yts.mx
 $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepiratebay.org|thepiratebay10.org
-$websocket,domain=4archive.org|allthetests.com|boards2go.com|colourlovers.com|fastpic.ru|fileone.tv|filmlinks4u.is|imagefap.com|keepvid.com|megaup.net|olympicstreams.me|pocketnow.com|pornhub.com|pornhubthbh7ap3u.onion|powvideo.net|roadracerunner.com|shorte.st|tribune.com.pk|tune.pk|vcpost.com|vidmax.com|vidoza.net|vidtodo.com
-$websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|xtube.com|youporn.com|youporngay.com
 &&sub19=undefined&sub20=undefined
 &action=js_stats
 &adb=y&adb=y^$popup
@@ -12831,6 +12829,7 @@ yydstxt*.com/js/html
 ||chexun.net/images/sales//cxgg/
 ||chickadvisor.com/js/detect.min.js
 ||chicks4date.com^$popup
+||chicorty2.com^
 ||chicoryapp.com^
 ||chidir.com^
 ||chienzul.com^
@@ -16400,6 +16399,7 @@ yydstxt*.com/js/html
 ||ebaystatic.com/rs/v/s0hteylevy4bpkd12dvkd4yi5ms.js
 ||ebaystatic.com^*/scandaljs-
 ||ebaystatic.com^*tracking/configuration.js
+||ebhaliragd.com^
 ||ebigrooxoomsust.net^$popup
 ||ebiotrade.com/jslibrary/js
 ||ebiotrade.com/netother/sy2013.ashx?type=quanping
@@ -21801,6 +21801,7 @@ yydstxt*.com/js/html
 ||lsosad.com^
 ||lsxvnzif.icu^
 ||lsyaicl.icu^
+||lthuvb.icu^
 ||ltimiyl.top^
 ||ltingecauyuksehi.com^$popup
 ||ltkcdn.net/ltkrev.js
