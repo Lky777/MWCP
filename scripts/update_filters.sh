@@ -73,23 +73,23 @@ rm -f rules/onehosts_lite.txt
 rm -f rules/supple.txt
 rm -f rules/easylist_ads.txt
 rm -f rules/easyprivacy_a.txt
+
 # check
 echo "当前目录: $(pwd)"
 ls -l ./scripts/rule_compression.sh
 # 7. rules compression
-echo "=== 修复脚本权限和格式 ==="
-sed -i 's/\r$//' ./scripts/rule_compression.sh
+echo "=== 验证脚本 ==="
 chmod +x ./scripts/rule_compression.sh
-
-# 验证脚本可执行性
-if ! ./scripts/rule_compression.sh --help; then
-    echo "Error: rule_compression.sh 无法执行！"
+# 创建临时测试文件
+echo "test" > rules/test_input.txt
+echo "test" > rules/test_target.txt
+# 用真实参数测试（2个参数）
+if ! ./scripts/rule_compression.sh rules/test_input.txt rules/test_target.txt; then
+    echo "Error: 压缩脚本测试失败！"
     exit 1
 fi
-
-# 执行压缩
+# 实际执行
 ./scripts/rule_compression.sh rules/rule_pre_del.txt rules/combined_rules.txt
-cat rules/rule_pre_add.txt >> rules/combined_rules.txt
 rm -f rules/rule_pre_del.txt
 rm -f rules/rule_pre_add.txt
 

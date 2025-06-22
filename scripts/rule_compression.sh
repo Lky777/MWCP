@@ -1,7 +1,11 @@
 #!/bin/bash
 
-if [ "$#" -lt 2 ]; then
-    echo "Usage: $0 <file1> <file2>"
+#!/bin/bash
+
+# 更友好的参数检查
+if [ "$#" -ne 2 ]; then
+    echo "Usage: $0 <filter_rules> <target_file>"
+    echo "Example: $0 rules/remove.txt rules/main.txt" >&2
     exit 1
 fi
 
