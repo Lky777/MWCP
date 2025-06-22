@@ -76,8 +76,18 @@ rm -f rules/easyprivacy_a.txt
 # check
 echo "当前目录: $(pwd)"
 ls -l ./scripts/rule_compression.sh
-# 7.rules compression
+# 7. rules compression
+echo "=== 修复脚本权限和格式 ==="
+sed -i 's/\r$//' ./scripts/rule_compression.sh
 chmod +x ./scripts/rule_compression.sh
+
+# 验证脚本可执行性
+if ! ./scripts/rule_compression.sh --help; then
+    echo "Error: rule_compression.sh 无法执行！"
+    exit 1
+fi
+
+# 执行压缩
 ./scripts/rule_compression.sh rules/rule_pre_del.txt rules/combined_rules.txt
 cat rules/rule_pre_add.txt >> rules/combined_rules.txt
 rm -f rules/rule_pre_del.txt
