@@ -47,5 +47,3 @@ if ! git diff --quiet -- rules/sand_wash.txt; then
 else
     echo "✓ Nothing to commit, no rule changes"
 fi
-
-cleanup
