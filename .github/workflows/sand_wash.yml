@@ -1,0 +1,26 @@
+name: build adservs.txt
+
+on:
+  schedule:
+#    - cron: '0 17 * * *'  # everyday UTC 17:00（BeiJing Time 01:00）
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  
+jobs:
+  update-filter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run update script
+        run: |
+          set -e
+          bash scripts/sand_wash.sh
+
+      - name: Final cleanup
+        if: always()
+        run: |
+          rm -rf rules/ scripts/ || true
