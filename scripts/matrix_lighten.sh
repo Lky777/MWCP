@@ -8,7 +8,9 @@ sed -i '
   /##\.embed-responsive-trendmd/d
   /removeparam/d
   /^\/:\/\/.*/d
+  /\$ping$/d
   /^|.*third-party$/d
+  s/,third-party//g
   /\/\\/d
   /\.xyz\^/d
   /\.xyz\//d
