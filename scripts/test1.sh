@@ -4,8 +4,8 @@ set -euo pipefail
 # 初始化目录
 rm -rf rules/
 mkdir -p rules/
-touch rules/test1.txt
 
+wget -P rules/ https://raw.githubusercontent.com/Lky777/MWCP/main/rules/falseblock.txt
 DOMAINS="\.(hk|mo|tw|jp|kr|sg|in|my|th|vn|ph|id|il|sa|ae|uk|de|fr|it|es|nl|ch|se|no|dk|fi|ru|pl|pt|at|ie|us|ca|mx|br|ar|cl|co|au|nz|fj|za|eg|ng|ke|ma|eu|int)[[:space:]]*$"
 
 # 检查文件是否存在
