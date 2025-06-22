@@ -1,5 +1,11 @@
+! .MALICIOUS
+
 ! General Blocking
 .com/pixel.html?
+.gif?
+.xyz^
+/ad/
+/ads/
 /cdn-cgi/speculation
 |https://lf1-cdn-tos.bytegoofy.com/goofy/
 |https://playhubconnect.com/bn/
