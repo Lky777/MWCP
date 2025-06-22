@@ -1,12 +1,15 @@
 ! .MALICIOUS
 
 ! General Blocking
+.com:*/*/
 .com/pixel.html?
 .gif?
 .xyz^
 /ad/
 /ads/
 /cdn-cgi/speculation
+*$ping,third-party
+*$websocket
 |https://lf1-cdn-tos.bytegoofy.com/goofy/
 |https://playhubconnect.com/bn/
 ||diligencejusticeimprobable.com^
@@ -136,8 +139,6 @@ ravenscans.com###teaserbottom
 |https://ravenscans.com/wp-content/themes/mangareader/assets/img/readerarea.svg
 
 ! renrys
-.com:*/*/
-*$websocket
 
 ! ruanyifeng
 |https://www.ruanyifeng.com/blog/checker.js
@@ -178,9 +179,9 @@ data:image/gif;base64,
 |https://upload.xchina.store/ad/
 
 ! xmorex
-||stripchatgirls.com^
-||homejavlive.com^
 /creative.*.com/static/
+||homejavlive.com^
+||stripchatgirls.com^
 
 ! zhihu
 @@||static.zhihu.com/heifetz/chunks/lib-$script
