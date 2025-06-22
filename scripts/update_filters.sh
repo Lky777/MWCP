@@ -73,10 +73,12 @@ rm -f rules/onehosts_lite.txt
 rm -f rules/supple.txt
 rm -f rules/easylist_ads.txt
 rm -f rules/easyprivacy_a.txt
-
+# check
+echo "当前目录: $(pwd)"
+ls -l ./scripts/rule_compression.sh
 # 7.rules compression
 chmod +x ./scripts/rule_compression.sh
-./rule_compression.sh rules/rule_pre_del.txt rules/combined_rules.txt
+./scripts/rule_compression.sh rules/rule_pre_del.txt rules/combined_rules.txt
 cat rules/rule_pre_add.txt >> rules/combined_rules.txt
 rm -f rules/rule_pre_del.txt
 rm -f rules/rule_pre_add.txt
