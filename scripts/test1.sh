@@ -3,6 +3,7 @@ set -euo pipefail
 
 rm -rf rules/
 mkdir -p rules/
+touch rules/test1.txt
 
 DOMAINS="\.(hk|mo|tw|jp|kr|sg|in|my|th|vn|ph|id|il|sa|ae|uk|de|fr|it|es|nl|ch|se|no|dk|fi|ru|pl|pt|at|ie|us|ca|mx|br|ar|cl|co|au|nz|fj|za|eg|ng|ke|ma|eu|int)[[:space:]]*$"
 
