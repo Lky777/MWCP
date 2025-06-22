@@ -16,7 +16,7 @@ sort -u rules/sand_wash.txt -o rules/sand_wash.sorted
 # 使用 comm 找出 sand_wash.sorted 独有的行（即不在 surfing.sorted 中的行）
 comm -23 rules/sand_wash.sorted rules/surfing.sorted > rules/sand.filtered
 
-mv rules/sand.filtered rules/adservs.txt
+mv rules/sand.filtered rules/asservs.txt
 
 # 4. Git操作
 if [ -n "${GITHUB_ACTIONS-}" ]; then
@@ -24,8 +24,8 @@ if [ -n "${GITHUB_ACTIONS-}" ]; then
     git config --global user.email "actions@github.com"
     
     # 确保有修改才提交
-    if ! git diff --quiet -- rules/adservs.txt; then
-        git add rules/adservs.txt
+    if ! git diff --quiet -- rules/asservs.txt; then
+        git add rules/asservs.txt
         git commit -m "Auto-update: $(date -u +'%Y-%m-%d %H:%M UTC')"
         git push
         echo "✓ Changes committed"
