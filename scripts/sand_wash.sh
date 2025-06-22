@@ -1,45 +1,43 @@
 #!/usr/bin/env bash
-set -euo pipefail
+set -eo pipefail
+set -o nounset
 
-RULES_DIR="rules"
-SURFING_URL="https://raw.githubusercontent.com/Lky777/MWCP/main/rules/surfing.txt"
-SAND_WASH_URL="https://raw.githubusercontent.com/Lky777/MWCP/main/rules/sand_wash.txt"
+rm -rf rules/
+mkdir -p rules/
 
-rm -rf "$RULES_DIR" || true
-mkdir -p "$RULES_DIR"
+# get bigdata of sites
+wget -P rules/ https://raw.githubusercontent.com/Lky777/MWCP/main/rules/sand_wash.txt
+# get bigdata of no-ads sites
+wget -P rules/ https://raw.githubusercontent.com/Lky777/MWCP/main/rules/surfing.txt
 
-if ! wget -q -P "$RULES_DIR" "$SURFING_URL"; then
-  echo "❌ Failed to download surfing.txt"
-  exit 1
-fi
+# figure out adservers
+sort -u rules/sand_wash.txt -o rules/sand_wash.sorted
+sort -u rules/surfing.txt -o rules/surfing.sorted
+comm -23 rules/sand_wash.sorted rules/surfing.sorted > rules/pre_asservs.txt
+mv rules/pre_asservs.txt rules/asservs.txt
 
-if ! wget -q -P "$RULES_DIR" "$SAND_WASH_URL"; then
-  echo "❌ Failed to download sand_wash.txt"
-  exit 1
-fi
-
-sort -u "$RULES_DIR/surfing.txt" -o "$RULES_DIR/surfing.sorted"
-sort -u "$RULES_DIR/sand_wash.txt" -o "$RULES_DIR/sand_wash.sorted"
-
-comm -23 "$RULES_DIR/sand_wash.sorted" "$RULES_DIR/surfing.sorted" > "$RULES_DIR/sand.filtered"
-mv "$RULES_DIR/sand.filtered" "$RULES_DIR/asservs.txt"
-
-sed -i 's/^/||/' "$RULES_DIR/asservs.txt"
-sed -i 's/$/^/' "$RULES_DIR/asservs.txt"
-
+# Git
 git config --global user.name "GitHub Actions"
 git config --global user.email "actions@github.com"
 
-if ! git diff --quiet -- "$RULES_DIR/asservs.txt"; then
-  git add "$RULES_DIR/asservs.txt"
-  git commit -m "Auto-update: $(date -u +'%Y-%m-%d %H:%M UTC')"
-  
-  if git push; then
-    echo "✓ Changes committed and pushed"
-  else
-    echo "❌ Failed to push changes"
-    exit 1
-  fi
+if ! git diff --quiet -- rules/asservs.txt; then
+    git add rules/asservs.txt
+    git commit -m "Auto-update: $(date -u +'%Y-%m-%d %H:%M UTC')"
+
+    for i in {1..3}; do
+        if git push; then
+            echo "✓ Changes committed and pushed"
+            break
+        else
+            echo "Push attempt $i failed" >&2
+            if [[ $i -lt 3 ]]; then
+                sleep 5
+            else
+                echo "Failed to push after 3 attempts" >&2
+                exit 1
+            fi
+        fi
+    done
 else
-  echo "✓ Nothing to commit, no rule changes"
+    echo "✓ Nothing to commit, no rule changes"
 fi
