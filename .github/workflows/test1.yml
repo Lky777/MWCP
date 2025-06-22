@@ -2,7 +2,7 @@ name: test1
 
 on:
   schedule:
-    - cron: '0 18 * * *'  # everyday UTC 18:00（BeiJing Time 02:00）
+#    - cron: '0 18 * * *'  # everyday UTC 18:00（BeiJing Time 02:00）
   workflow_dispatch:
 
 permissions:
