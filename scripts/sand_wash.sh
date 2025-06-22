@@ -25,7 +25,7 @@ if [ -n "${GITHUB_ACTIONS-}" ]; then
     
     # 确保有修改才提交
     if ! git diff --quiet -- rules/adservs.txt; then
-        git add rules/test1.txt
+        git add rules/adservs.txt
         git commit -m "Auto-update: $(date -u +'%Y-%m-%d %H:%M UTC')"
         git push
         echo "✓ Changes committed"
