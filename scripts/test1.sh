@@ -58,3 +58,4 @@ if [ -n "${GITHUB_ACTIONS-}" ]; then
     else
         echo "✓ Nothing to commit, no rule changes"
     fi
+fi
