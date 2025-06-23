@@ -2,7 +2,7 @@ name: 1.Get fish_dragon.txt
 
 on:
   schedule:
-    - cron: '40 18 * * *'  # everyday UTC 18:40 (BeiJing Time 02:40)
+    - cron: '40 18 * * 1'  # every Monday at UTC 18:40 (BeiJing Time 02:40 Tuesday)
   workflow_dispatch:
 
 permissions:
@@ -19,6 +19,8 @@ jobs:
         run: |
           set -e
           bash scripts/fish_dragon.sh
+          bash scripts/find_dragon.sh
+          bash scripts/find_fish.sh
 
       - name: Final cleanup
         if: always()
