@@ -2,7 +2,7 @@ name: 1.Trawling Fish & Dragon
 
 on:
   schedule:
-#    - cron: '30 18 * * 1'  # every Monday at UTC 18:30 (BeiJing Time 02:30 Tuesday)
+    - cron: '30 18 * * 1'  # every Monday at UTC 18:30 (BeiJing Time 02:30 Tuesday)
   workflow_dispatch:
 
 permissions:
