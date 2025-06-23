@@ -1,14 +1,13 @@
 #!/usr/bin/env bash
 set -eo pipefail
-set -o nounset
 
 rm -rf rules/
 mkdir -p rules/
 
-# get bigdata of sites
+#
 wget -P rules/ https://raw.githubusercontent.com/Lky777/MWCP/main/rules/test1.txt
 
-# slim down data
+#
 DOMAINS="\.(ae|ar|at|au|be|br|ca|ch|cl|co|de|dk|eg|es|eu|\
 fi|fj|fr|hk|hr|ie|il|in|ir|int|it|jp|ke|kr|ma|mo|mx|my|\
 ng|nl|no|nz|ph|pl|pt|ru|sa|se|sg|sk|th|tw|uk|us|vn|za)([\/[:space:]]|$)"
@@ -25,8 +24,9 @@ fi
 # Git
 git config --global user.name "GitHub Actions"
 git config --global user.email "actions@github.com"
-
-if ! git diff --quiet -- rules/fish_dragon.txt; then
+#
+if [[ ! -f "rules/fish_dragon.txt" ]] || \
+   [[ -n $(git status --porcelain rules/fish_dragon.txt) ]]; then
     git add rules/fish_dragon.txt
     git commit -m "Auto-update: $(date -u +'%Y-%m-%d %H:%M UTC')"
 
