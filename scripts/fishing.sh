@@ -6,12 +6,12 @@ rm -rf rules/
 mkdir -p rules/
 
 wget -P rules/ https://raw.githubusercontent.com/Lky777/MWCP/main/rules/fish_dragon.txt
-wget -P rules/ https://raw.githubusercontent.com/Lky777/MWCP/main/rules/regular_link.txt
+wget -P rules/ https://raw.githubusercontent.com/Lky777/MWCP/main/rules/dragon.txt
 
 # figure out adservers
 sort -u rules/fish_dragon.txt -o rules/fish_dragon.sorted
-sort -u rules/regular_link.txt -o rules/regular_link.sorted
-comm -23 rules/fish_dragon.sorted rules/regular_link.sorted > rules/fishing.txt
+sort -u rules/dragon.txt -o rules/dragon.sorted
+comm -23 rules/fish_dragon.sorted rules/dragon.sorted > rules/fishing.txt
 mv rules/fishing.txt rules/fish.txt
 
 # Git
