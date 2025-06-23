@@ -12,15 +12,29 @@ rm -f rules/matrix_small.txt
 # 2. Git push
 git config --global user.name "GitHub Actions"
 git config --global user.email "actions@github.com"
-if ! git diff --quiet -- rules/MobiListChina.txt; then
-  git add rules/MobiListChina.txt
-  git commit -m "Auto-update: $(date -u +'%Y-%m-%d %H:%M UTC') | Rules: $rule_count"
-  git push
-  echo "✓ Changes committed"
+#
+if [[ ! -f "rules/regular_link.txt" ]] || \
+   [[ -n $(git status --porcelain rules/regular_link.txt) ]]; then
+    git add rules/regular_link.txt
+    git commit -m "Auto-update: $(date -u +'%Y-%m-%d %H:%M UTC')"
+
+    for i in {1..3}; do
+        if git push; then
+            echo "✓ Changes committed and pushed"
+            break
+        else
+            echo "Push attempt $i failed" >&2
+            if [[ $i -lt 3 ]]; then
+                sleep 5
+            else
+                echo "Failed to push after 3 attempts" >&2
+                exit 1
+            fi
+        fi
+    done
 else
-  echo "✓ Nothing to commit, no rule changes"
+    echo "✓ Nothing to commit, no rule changes"
 fi
 
 # 3. refresh jsDelivr cache
 curl -s "https://cdn.jsdelivr.net/gh/Lky777/MWCP/rules/MobiListChina.txt?cache_bust=$(date +%s)" > /dev/null
-
