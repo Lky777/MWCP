@@ -2,7 +2,7 @@
 **Combined Mobile Ad Filters**  
 
 ---  
-**本项目过滤规则由以下方共同维护**  
+**本项目过滤规则由以下方共同搜集维护**  
 **The filters are collected and maintained by:**  
 
 👥 **人类（Humans）**  
