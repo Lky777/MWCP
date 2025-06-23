@@ -6,11 +6,10 @@ mkdir -p rules/
 
 wget -P rules/ https://raw.githubusercontent.com/Lky777/MWCP/main/rules/test1.txt
 
-DOMAINS="\.(ae|ar|at|au|be|br|ca|ch|cl|co|de|dk|eg|es|eu|\
-fi|fj|fr|hk|hr|ie|il|in|ir|int|it|jp|ke|kr|ma|mo|mx|my|\
-ng|nl|no|nz|ph|pl|pt|ru|sa|se|sg|sk|th|tw|uk|us|vn|za)([\/[:space:]]|$)"
+# 定义常见域名后缀
+COMMON_DOMAINS="\.(com|cn|net|org|gov|edu|co|io|ai|info|me|tv|cc)([\/[:space:]]|$)"
 
-grep -vE "$DOMAINS" "rules/test1.txt" > "rules/fish_dragon.tmp"
+grep -ivE "$COMMON_DOMAINS" "rules/test1.txt" > "rules/fish_dragon.tmp"
 mv "rules/fish_dragon.tmp" "rules/fish_dragon.txt"
 echo "Finished. Removed other regional websites."
 
