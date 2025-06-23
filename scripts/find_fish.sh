@@ -16,11 +16,13 @@ sort -u rules/regular_link.txt -o rules/regular_link.sorted
 comm -23 rules/fish_dragon.sorted rules/regular_link.sorted > rules/pre_asservs.txt
 mv rules/pre_asservs.txt rules/asservs.txt
 sed -i 's/^/||/; s/$/^/' rules/asservs.txt
+
 # Git
 git config --global user.name "GitHub Actions"
 git config --global user.email "actions@github.com"
-
-if ! git diff --quiet -- rules/asservs.txt; then
+#
+if [[ ! -f "rules/asservs.txt" ]] || \
+   [[ -n $(git status --porcelain rules/asservs.txt) ]]; then
     git add rules/asservs.txt
     git commit -m "Auto-update: $(date -u +'%Y-%m-%d %H:%M UTC')"
 
