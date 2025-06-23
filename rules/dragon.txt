@@ -14301,6 +14301,7 @@ cloudflare.com
 cloudflare.dev
 cloudflare.net
 cloudflareaccess.com
+cloudflareinsights.com
 cloudflareclient.com
 cloudflarecn.net
 cloudflarecp.com
@@ -62588,7 +62589,6 @@ stripcash.com
 stripcdn.com
 stripchat.com
 stripchat.webcam
-stripchatgirls.com
 stripchats.io
 stripe-club.com
 stripe-terminal-local-reader.net
