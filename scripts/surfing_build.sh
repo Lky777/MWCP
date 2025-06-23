@@ -8,7 +8,7 @@ mkdir -p rules/
 # get bigdata of sites
 wget -P rules/ https://raw.githubusercontent.com/Lky777/MWCP/main/rules/sand_wash.txt
 # get bigdata of adservers
-wget -P rules/ https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt
+wget -P rules/ https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/adblock.txt
 
 if [[ -f "rules/adblock.txt" ]]; then
     sed -i.bak 's/^||//;s/\^$//' rules/adblock.txt
