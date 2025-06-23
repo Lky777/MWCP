@@ -5,31 +5,22 @@ set -o nounset
 rm -rf rules/
 mkdir -p rules/
 
-# get bigdata of sites
 wget -P rules/ https://raw.githubusercontent.com/Lky777/MWCP/main/rules/fish_dragon.txt
-# get bigdata of adservers
-wget -P rules/ https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/adblock.txt
+wget -P rules/ https://raw.githubusercontent.com/Lky777/MWCP/main/rules/regular_link.txt
 
-if [[ -f "rules/adblock.txt" ]]; then
-    sed -i.bak 's/^||//;s/\^$//' rules/adblock.txt
-else
-    echo "adblock.txt not found" >&2
-    exit 1
-fi
-
-# figure out regular links
-sort -u rules/adblock.txt -o rules/adblock.sorted
+# figure out adservers
 sort -u rules/fish_dragon.txt -o rules/fish_dragon.sorted
-comm -23 rules/fish_dragon.sorted rules/adblock.sorted > rules/pre_regular_link.txt
-mv rules/pre_regular_link.txt rules/regular_link.txt
+sort -u rules/regular_link.txt -o rules/regular_link.sorted
+comm -23 rules/fish_dragon.sorted rules/regular_link.sorted > rules/pre_need_pick.txt
+mv rules/pre_need_pick.txt rules/need_pick.txt
 
 # Git
 git config --global user.name "GitHub Actions"
 git config --global user.email "actions@github.com"
 #
-if [[ ! -f "rules/regular_link.txt" ]] || \
-   [[ -n $(git status --porcelain rules/regular_link.txt) ]]; then
-    git add rules/regular_link.txt
+if [[ ! -f "rules/need_pick.txt" ]] || \
+   [[ -n $(git status --porcelain rules/need_pick.txt) ]]; then
+    git add rules/need_pick.txt
     git commit -m "Auto-update: $(date -u +'%Y-%m-%d %H:%M UTC')"
 
     for i in {1..3}; do
