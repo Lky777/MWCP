@@ -2,12 +2,11 @@
 set -euo pipefail
 
 # 确保目录和文件存在
-mkdir -p rules/
-touch rules/dragon_add.txt rules/dragon_del.txt rules/dragon.txt
+touch rules/dragon_add.txt rules/dragon_d.txt rules/dragon.txt
 
 # 更新规则文件
 cat rules/dragon_add.txt >> rules/dragon.txt
-grep -vFf rules/dragon_del.txt rules/dragon.txt > tmp.txt && \
+grep -vFf rules/dragon_d.txt rules/dragon.txt > tmp.txt && \
 mv tmp.txt rules/dragon.txt
 LC_ALL=C sort -u -o rules/dragon.txt rules/dragon.txt
 
