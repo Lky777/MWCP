@@ -3,7 +3,7 @@
 
 ---  
 **本项目过滤规则由以下方共同维护**  
-**The filtering rules are collected and maintained by:**  
+**The filters are collected and maintained by:**  
 
 👥 **人类（Humans）**  
 * [cjx82630](https://github.com/cjx82630) · [xinggsf](https://github.com/xinggsf) · [LKY777](https://github.com/lky777)  
