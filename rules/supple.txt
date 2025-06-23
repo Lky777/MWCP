@@ -4,7 +4,9 @@
 .com:*/*/
 .com/pixel.html?
 .gif?
-.xyz^
+.one/
+.site/
+.xyz/
 /ad/
 /ads/
 /cdn-cgi/speculation
@@ -14,7 +16,7 @@
 |https://playhubconnect.com/bn/
 ||diligencejusticeimprobable.com^
 ||lheffapin.com^
-||oh.natterresail.com^
+||natterresail.com^
 
 ! 163
 /163/frontend/antnest/
