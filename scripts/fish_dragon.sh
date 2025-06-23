@@ -6,8 +6,6 @@ mkdir -p rules/
 
 wget -P rules/ https://raw.githubusercontent.com/Lky777/MWCP/main/rules/test1.txt
 
-# 定义常见域名后缀
-# 定义常见域名后缀（要保留的）
 COMMON_DOMAINS="\.(com|cn|net|org|gov|edu|co|io|ai|info|me|tv|cc)([\/[:space:]]|$)"
 
 grep -E "$COMMON_DOMAINS" "rules/test1.txt" > "rules/fish_dragon.tmp"
