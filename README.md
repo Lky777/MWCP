@@ -14,8 +14,6 @@
 🤖 **AI**  
 * [ChatGPT](https://chatgpt.com/) · [DeepSeek](https://www.deepseek.com/)  
 
-📌 **共同搜集、整理、维护**  
-
 ---  
 📥 **下载Download**  
 
