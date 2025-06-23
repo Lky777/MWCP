@@ -1,4 +1,4 @@
-name: 1.build surfing.txt
+name: 1.build sand_wash.txt
 
 on:
   schedule:
