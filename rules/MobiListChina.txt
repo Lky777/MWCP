@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiListChina
 ! Description: blocker for Chinese mobile site
-! Version: 202506230131
-! Last modified: 23 Jun 2025 01:31 UTC
+! Version: 202506230500
+! Last modified: 23 Jun 2025 05:00 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -7837,7 +7837,6 @@ yydstxt*.com/js/html
 ||17173.com/ping.js
 ||17173.com/pv?
 ||17173.com/x/
-||17173.com^
 ||17173cdn.com/20*.mp4$rewrite=abp-resource:blank-mp3,domain=17173.com
 ||17173cdn.com/a/lib/vda/seed.js
 ||17173cdn.com/a/oms/oms-data.
@@ -13863,7 +13862,6 @@ yydstxt*.com/js/html
 ||cloudflare.com/_cf/analytics.js
 ||cloudflare.com/ajax/libs/jbox/$domain=localmv1.com
 ||cloudflare.com/cdn-cgi/trace$third-party,domain=~isbgpsafeyet.com|~wyndhamdestinations.com
-||cloudflareinsights.com^
 ||cloudfront-666.kxcdn.com/v4.js
 ||cloudfront-labs.amazonaws.com^
 ||cloudfront.net*/keywee.min.js
@@ -20358,6 +20356,7 @@ yydstxt*.com/js/html
 ||hf365.com/0/14/60/93/14609355_921128.jpg
 ||hf365.com/0/15/64/87/15648725_922274.jpg
 ||hfjdsbhsd.top^
+||hflex03yh.com^
 ||hfnuqljjnt.com^
 ||hfptbb.cn^
 ||hfptbf.cn^
@@ -23674,6 +23673,7 @@ yydstxt*.com/js/html
 ||lvbeybbrwlamk.top^
 ||lvcnmtl.top^
 ||lvditoys.com^
+||lvllnj.top^
 ||lvnr.cn^
 ||lvojjaymeoebv.top^
 ||lvqo.cn^
