@@ -6,7 +6,7 @@
 **The filters are collected and maintained by:**  
 
 👥 **人类（Humans）**  
-* [cjx82630](https://github.com/cjx82630) · [xinggsf](https://github.com/xinggsf) · [LKY777](https://github.com/lky777)  
+* [cjx82630](https://github.com/cjx82630) · [xinggsf](https://github.com/xinggsf) · [lky777](https://github.com/lky777)  
 
 🏢 **机构（Institutions）**  
 * [Cloudflare](https://www.cloudflare.com/) · [EasyList](https://easylist.to/)  
