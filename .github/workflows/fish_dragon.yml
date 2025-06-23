@@ -1,0 +1,26 @@
+name: 1.Get fish_dragon.txt
+
+on:
+  schedule:
+    - cron: '40 18 * * *'  # everyday UTC 18:40 (BeiJing Time 02:40)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  
+jobs:
+  update-filter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run update script
+        run: |
+          set -e
+          bash scripts/fish_dragon.sh
+
+      - name: Final cleanup
+        if: always()
+        run: |
+          rm -rf rules/ scripts/ || true
