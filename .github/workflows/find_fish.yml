@@ -2,7 +2,7 @@ name: 3.build asservs.txt
 
 on:
   schedule:
-#    - cron: '50 18 * * 1'  # every Monday at UTC 18:50 (BeiJing Time 02:50 Tuesday)
+    - cron: '50 18 * * 1'  # every Monday at UTC 18:50 (BeiJing Time 02:50 Tuesday)
   workflow_dispatch:
 
 permissions:
