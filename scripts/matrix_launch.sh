@@ -10,8 +10,6 @@ rule_count=$(grep -v -c -e '^!' rules/MobiListChina.txt)
 rm -f rules/matrix_small.txt
 
 # 2. Git push
-#!/bin/bash
-
 git config --global user.name "GitHub Actions"
 git config --global user.email "actions@github.com"
 

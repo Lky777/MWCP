@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
-set -eo pipefail
-set -o nounset
+set -euo pipefail
 
 rm -rf rules/
 mkdir -p rules/
@@ -17,26 +16,9 @@ mv rules/fishing.txt rules/fish.txt
 # Git
 git config --global user.name "GitHub Actions"
 git config --global user.email "actions@github.com"
-#
-if [[ ! -f "rules/fish.txt" ]] || \
-   [[ -n $(git status --porcelain rules/fish.txt) ]]; then
-    git add rules/fish.txt
-    git commit -m "Auto-update: $(date -u +'%Y-%m-%d %H:%M UTC')"
 
-    for i in {1..3}; do
-        if git push; then
-            echo "✓ Changes committed and pushed"
-            break
-        else
-            echo "Push attempt $i failed" >&2
-            if [[ $i -lt 3 ]]; then
-                sleep 5
-            else
-                echo "Failed to push after 3 attempts" >&2
-                exit 1
-            fi
-        fi
-    done
-else
-    echo "✓ Nothing to commit, no rule changes"
+if ! git diff --quiet -- rules/fish.txt 2>/dev/null || [[ ! -f "rules/fish.txt" ]]; then
+    git add rules/fish.txt &&
+    git commit -m "Auto-update: $(date -u +'%Y-%m-%d %H:%M UTC')" &&
+    git push
 fi
