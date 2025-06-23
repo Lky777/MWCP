@@ -2,7 +2,7 @@ name: Update Ad Filters
 
 on:
   schedule:
-    - cron: '0 19 * * *'  # everyday UTC 19:00（BeiJing Time 03:00）
+    - cron: '18 19 * * *'  # everyday UTC 19:18（BeiJing Time 03:18）
   workflow_dispatch:
 
 permissions:
