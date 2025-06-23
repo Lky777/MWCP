@@ -1,5 +1,1 @@
-! 1hosts-lite
-||xmorex.com^
-!----Exclusion filter rules in asservs.txt----
-||17173.com^
-||duba.net^
+!
