@@ -17,7 +17,7 @@ else
     exit 1
 fi
 
-# figure out regular sites--surfing.txt
+# figure out regular links
 sort -u rules/adblock.txt -o rules/adblock.sorted
 sort -u rules/fish_dragon.txt -o rules/fish_dragon.sorted
 comm -23 rules/fish_dragon.sorted rules/adblock.sorted > rules/pre_regular_link.txt
@@ -26,8 +26,9 @@ mv rules/pre_regular_link.txt rules/regular_link.txt
 # Git
 git config --global user.name "GitHub Actions"
 git config --global user.email "actions@github.com"
-
-if ! git diff --quiet -- rules/regular_link.txt; then
+#
+if [[ ! -f "rules/regular_link.txt" ]] || \
+   [[ -n $(git status --porcelain rules/regular_link.txt) ]]; then
     git add rules/regular_link.txt
     git commit -m "Auto-update: $(date -u +'%Y-%m-%d %H:%M UTC')"
 
