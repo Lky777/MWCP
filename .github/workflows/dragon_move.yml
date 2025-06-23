@@ -1,0 +1,26 @@
+name: 1.Trawling Fish & Dragon
+
+on:
+  schedule:
+    - cron: '20 18 * * 1'  # every Monday at UTC 18:20 (BeiJing Time 02:20 Tuesday)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  
+jobs:
+  update-filter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run update script
+        run: |
+          set -e
+          bash scripts/dragon_move.sh
+
+      - name: Final cleanup
+        if: always()
+        run: |
+          rm -rf rules/ scripts/ || true
