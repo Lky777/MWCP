@@ -1,8 +1,8 @@
-name: 1.Trawling Fish & Dragon
+name: 3.build asservs.txt
 
 on:
   schedule:
-    - cron: '30 18 * * 1'  # every Monday at UTC 18:30 (BeiJing Time 02:30 Tuesday)
+    - cron: '50 18 * * 1'  # every Monday at UTC 18:50 (BeiJing Time 02:50 Tuesday)
   workflow_dispatch:
 
 permissions:
@@ -18,7 +18,7 @@ jobs:
       - name: Run update script
         run: |
           set -e
-          bash scripts/fish_dragon.sh
+          bash scripts/find_fish.sh
 
       - name: Final cleanup
         if: always()
