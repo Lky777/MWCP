@@ -1,10 +1,13 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-# 确保目录和文件存在
-touch rules/dragon_add.txt rules/dragon_d.txt rules/dragon.txt
+rm -rf rules/
+mkdir -p rules/
 
-# 更新规则文件
+wget -P rules/ https://raw.githubusercontent.com/Lky777/MWCP/main/rules/dragon_add.txt
+wget -P rules/ https://raw.githubusercontent.com/Lky777/MWCP/main/rules/dragon_d.txt
+wget -P rules/ https://raw.githubusercontent.com/Lky777/MWCP/main/rules/dragon.txt
+
 cat rules/dragon_add.txt >> rules/dragon.txt
 grep -vFf rules/dragon_d.txt rules/dragon.txt > tmp.txt && \
 mv tmp.txt rules/dragon.txt
