@@ -21,8 +21,8 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: run dragon_move.py
-        run: python3 scripts/dragon_move.py rules/dragon.txt rules/dragon_add.txt
+      - name: 运行 dragon_move.py
+        run: python3 scripts/dragon_move.py rules/dragon.txt rules/dragon_add.txt rules/dragon_del.txt
 
       - name: git push
         run: |
