@@ -1,0 +1,39 @@
+name: 1.fix dragon.txt
+
+on:
+  schedule:
+    - cron: '20 18 * * 1'  # every Monday at UTC 18:20 (BeiJing Time 02:20 Tuesday)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  
+jobs:
+  update-dragon.txt:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Update dragon.txt with Python
+        run: |
+          python3 --version
+          python3 dragon_move.py rules/dragon.txt rules/dragon_add.txt rules/dragon_del.txt
+
+      - name: git push
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add rules/dragon.txt
+          if ! git diff --quiet -- rules/dragon.txt || ! git diff --quiet --cached -- rules/dragon.txt; then
+              echo "Changes detected, committing..."
+              git commit -m "Auto-update: $(date -u +'%Y-%m-%d %H:%M UTC')"
+              git push
+          else
+              echo "No changes detected."
+          fi
