@@ -15,9 +15,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Update rules
-        run: |
-          bash scripts/dragon_move.sh
+- name: Update dragon.txt with Python
+  run: |
+    python3 --version
+    python3 dragon_move.py rules/dragon.txt rules/dragon_add.txt rules/dragon_del.txt
 
       - name: git push
         run: |
