@@ -1,4 +1,4 @@
-name: 自动更新 dragon.txt
+name: update-dragon.txt
 
 on:
   schedule:
@@ -13,26 +13,26 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      - name: 拉取仓库代码
+      - name: git
         uses: actions/checkout@v4
 
-      - name: 配置 Python
+      - name: conf Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.x"
 
-      - name: 运行 dragon_move.py
-        run: python3 dragon_move.py rules/dragon.txt rules/dragon_add.txt
+      - name: run dragon_move.py
+        run: python3 scripts/dragon_move.py rules/dragon.txt rules/dragon_add.txt
 
-      - name: 提交并推送更改
+      - name: git push
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add rules/dragon.txt
           if git diff --quiet --cached --exit-code; then
-            echo "没有检测到文件变更"
+            echo "No changes."
           else
-            git commit -m "自动更新: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git commit -m "update: $(date -u +'%Y-%m-%d %H:%M UTC')"
             git push
-            echo "变更已推送"
+            echo "push changes."
           fi
