@@ -1,0 +1,42 @@
+name: Update Ad Filters
+
+on:
+  schedule:
+    - cron: '18 19 * * *'  # everyday UTC 19:18（BeiJing Time 03:18）
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  
+jobs:
+  update-filter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run update script
+        run: |
+          bash scripts/matrix_get.sh
+          bash scripts/matrix_lighten.sh
+          bash scripts/matrix_fuel.sh
+          bash scripts/matrix_launch.sh
+
+      - name: Commit and push changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: GitHub Actions
+          author_email: actions@github.com
+          message: "Auto-update: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          add: "rules/MobiListChina.txt"
+          detect_unchanged: true
+
+      - name: Refresh jsDelivr cache
+        run: |
+          curl -sfL "https://purge.jsdelivr.net/gh/Lky777/MWCP/rules/MobiListChina.txt"
+          curl -sfL "https://cdn.jsdelivr.net/gh/Lky777/MWCP/rules/MobiListChina.txt?$(date +%s)" >/dev/null
+
+      - name: Final cleanup
+        if: always()
+        run: |
+          rm -rf rules/ easylist/ scripts/
