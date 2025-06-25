@@ -1,6 +1,8 @@
 ! General Blocking
-.com:*/*/
+*$ping,third-party
+*$websocket
 .com/pixel.html?
+.com:*/*/
 .gif?
 .one/
 .site/
@@ -9,26 +11,29 @@
 /ads/
 /cdn-cgi/speculation
 /email-decode.min.js
-*$ping,third-party
-*$websocket
-||lf1-cdn-tos.bytegoofy.com/goofy/
-||playhubconnect.com/bn/
-||diligencejusticeimprobable.com^
-||lheffapin.com^
-||natterresail.com^
-||smartadserver.com^
-||rubiconproject.com^
-||amazon-adsystem.com^
+/js/zzz.js
 ||1rx.io^
-||pubeasy.io^
-||pubfuture-ad.com^
-||spacemancreativedom.net^
-||aserve1.net^
 ||adkernel.com^
 ||admatic.de^
-||monetixads.com^
+||amazon-adsystem.com^
+||aserve1.net^
+||coreserver.jp^
+||diligencejusticeimprobable.com^
 ||fmlabsonline.com^
+||homejavlive.com^
+||lf1-cdn-tos.bytegoofy.com/goofy/
+||lheffapin.com^
+||monetixads.com^
+||natterresail.com^
+||playhubconnect.com/bn/
+||pubeasy.io^
+||pubfuture-ad.com^
+||rubiconproject.com^
+||smartadserver.com^
+||spacemancreativedom.net^
+||stripchatgirls.com^
 ||tenserrelents.com^
+||uslook.top^
 
 ! 163
 /163/frontend/antnest/
@@ -43,87 +48,6 @@
 ||static.ws.126.net/163/frontend/js/*/url-param-inherit.js
 ||static.ws.126.net/163/frontend/libs/open-newsapp/latest/open-newsapp.min.js
 
-! bilibili
-m.bilibili.com##.fixed-openapp
-
-! cnblog
-||img2024.cnblogs.com/blog/35695/
-|https://www.cnblogs.com/*/ajax/post-accessories?
-|https://www.cnblogs.com/*/custom.css?
-
-! csdn
-/trackad.js
-|https://blog.csdn.net/phoenix/web/v1/mini-app/
-|https://csdnimg.cn/release/passport_fe/
-|https://eva2.csdn.net/v3/
-|https://g.csdnimg.cn/??sharewx/
-|https://img-home.csdnimg.cn/data_json/jsconfig/redPacket.json
-||*.csdn.net/recommend/
-||statistic.csdn.net^
-
-! douban
-douban.com##.talion-nav-footer
-
-! ghxi
-||ghxi.com/wp-content/plugins/core-ai-power/
-|https://www.ghxi.com/wp-content/plugins/wp-opt/static/js/front.min.js?
-
-! juejin
-|https://mcs.snssdk.com/list
-juejin.cn##.open-button
-
-! mydrivers
-|https://11.mydrivers.com/common/js/trimpath-template-
-|https://11.mydrivers.com/js/2022/storageHelper.js?
-||11.mydrivers.com/m/js/live/liveplayer-element.min.js
-||icons.mydrivers.com/2025/
-||img1.kkeji.com/img/2005/
-|https://m.mydrivers.com/m/relatednews.ashx?
-||11.mydrivers.com/m/images/v1/kkjapp_down.gif
-
-! ngabbs
-|https://g1.tagtic.cn/v1/xingyou/c/
-
-! oschina
-oschina.net##div[name="detail_show_footer"]
-
-! ruanyifeng
-||ruanyifeng.com/blog/checker.js
-||ruanyifeng.com/blog/stats.js
-
-! sspai
-sspai.com###btn-call-app
-
-! tieba
-baidu.com##.btn
-|https://*.baidu.com/mo/q/getUpConfigData?
-|https://*.baidu.com/mo/q/getVersionInfo?
-||*.baidu.com/mo/q/recommendpb/
-|https://downpack.baidu.com/baidutieba_AndroidPhone_
-||tb3.bdstatic.com/uniapp/static/icon/
-
-! toutiao
-m.toutiao.com##.m-bottom
-data:image/gif;base64,
-|https://api.toutiaoapi.com/api/news/feed/v88/?
-|https://sf3-cdn-tos.toutiaostatic.com/obj/card-platform/
-
-! zhihu
-@@||static.zhihu.com/heifetz/chunks/lib-$script
-@@||static.zhihu.com/heifetz/chunks/mobile-$script
-@@||static.zhihu.com/heifetz/chunks/shared-$script
-|https://mcs.volceapplog.com/list
-|https://pic4.zhimg.com/50/v2-e377a39f81b4cdc2373b9c43c46f5f12_720w.webp
-|https://static.zhihu.com/heifetz/chunks/$script
-|https://static.zhihu.com/heifetz/column.*.css
-|https://static.zhihu.com/heifetz/column.app.$script
-|https://unpkg.zhimg.com/@cfe/sentry-script@
-|https://www.zhihu.com/api/v4/growth/mobile_top_banner?
-|https://www.zhihu.com/api/v4/hot_recommendation?
-|https://www.zhihu.com/api/v4/questions/*/related-readings?
-|https://www.zhihu.com/sc-profiler
-|https://zxid-api.mobileservice.cn/sdk/base/report
-
 ! 18comic
 /ajax/user_daily_event?
 /templates/frontend/airav/css/2025-headerRWD.css
@@ -137,27 +61,91 @@ cdn-msp3.18comic.*/static/resources/images/
 .com/addnew.php
 /addnew.js
 
+! a2zapk
+a2zapk.io###modalpop
+a2zapk.io###modalpop-content
+
+! bad.news
+bad.news##.download-app-fixed
+
+! bilibili
+m.bilibili.com##.fixed-openapp
+
+! bing
+@@||bing.com/fd/ls/GLinkPing.aspx?
+bing.com###bnp_rich_div
+
+! cnblog
+|https://www.cnblogs.com/*/ajax/post-accessories?
+|https://www.cnblogs.com/*/custom.css?
+||img2024.cnblogs.com/blog/35695/
+
 ! colamanga
 .com/static/loading.gif
 @@||www.colamanga.com/js/ad_/load.js
 |https://www.colamanga.com/counting
 
+! csdn
+/trackad.js
+|https://g.csdnimg.cn/??sharewx/
+||*.csdn.net/recommend/
+||blog.csdn.net/phoenix/web/v1/mini-app/
+||csdnimg.cn/release/passport_fe/
+||eva2.csdn.net/v3/
+||img-home.csdnimg.cn/data_json/jsconfig/redPacket.json
+||statistic.csdn.net^
+
+! ddg
+duckduckgo.com##.js-atb-banner
+
+! douban
+douban.com##.talion-nav-footer
+
 ! dumanwu
 .com/static/images/load.gif
-||uslook.top^
+
+! ghxi
+|https://www.ghxi.com/wp-content/plugins/wp-opt/static/js/front.min.js?
+||ghxi.com/wp-content/plugins/core-ai-power/
 
 ! hanguomanhua
+||hanguomanhua.me/cache.js
+||hanguomanhua.me/style2/001.gif
+||hanguomanhua.me/style2/fc.js
 ||img.hanguomanhua.me/style2/Loading200x200.png
-|https://www.hanguomanhua.me/cache.js
-|https://www.hanguomanhua.me/style2/001.gif
-|https://www.hanguomanhua.me/style2/fc.js
-||coreserver.jp^
 
 ! happymh
 ||m.happymh.com/static/media/
 
+! jable
+||assetscdn.jable.tv/assets/images/uu/
+
+! juejin
+juejin.cn##.open-button
+|https://mcs.snssdk.com/list
+
 ! manhuaplus
-|https://js.wpadmngr.com/static/adManager.
+||js.wpadmngr.com/static/adManager.
+
+! mydrivers
+|https://11.mydrivers.com/common/js/trimpath-template-
+|https://11.mydrivers.com/js/2022/storageHelper.js?
+|https://m.mydrivers.com/m/relatednews.ashx?
+||11.mydrivers.com/m/images/v1/kkjapp_down.gif
+||11.mydrivers.com/m/js/live/liveplayer-element.min.js
+||icons.mydrivers.com/2025/
+||img1.kkeji.com/img/2005/
+
+! ngabbs
+|https://g1.tagtic.cn/v1/xingyou/c/
+
+! oschina
+oschina.net##div[name="detail_show_footer"]
+
+! pornbest
+/images/friend/0/$image,domain=ptt.co|xnnn.org
+|https://www.pornbest.org/site/stat?
+||xnnn.org/site/all.js
 
 ! ravenscans
 ravenscans.com###teaserbottom
@@ -167,39 +155,9 @@ ravenscans.com###teaserbottom
 ! renrys
 |https://renrys.com/static/player/prestrain.html
 
-! veryim
-|https://link.mzlinks.com/js/*.manhua
-|https://www.veryim.com/js/z.manhua
-
-! jable
-||assetscdn.jable.tv/assets/images/uu/
-
-! pornbest
-/images/friend/0/$image,domain=ptt.co|xnnn.org
-|https://www.pornbest.org/site/stat?
-||xnnn.org/site/all.js
-
-! xmorex
-/creative.*.com/static/
-||homejavlive.com^
-||stripchatgirls.com^
-
-! 51cg
-/js/zzz.js
-
-! a2zapk
-a2zapk.io###modalpop
-a2zapk.io###modalpop-content
-
-! bad.news
-bad.news##.download-app-fixed
-
-! bing
-@@||bing.com/fd/ls/GLinkPing.aspx?
-bing.com###bnp_rich_div
-
-! ddg
-duckduckgo.com##.js-atb-banner
+! ruanyifeng
+||ruanyifeng.com/blog/checker.js
+||ruanyifeng.com/blog/stats.js
 
 ! smtt
 ||js.mewlxy.com/gg-config.js
@@ -207,11 +165,51 @@ duckduckgo.com##.js-atb-banner
 ! sohu
 m.sohu.com##.btn
 
+! sspai
+sspai.com###btn-call-app
+
 ! startpage
 www.startpage.com##.mobile-app-promo-banner
+
+! tieba
+baidu.com##.btn
+|https://*.baidu.com/mo/q/getUpConfigData?
+|https://*.baidu.com/mo/q/getVersionInfo?
+|https://downpack.baidu.com/baidutieba_AndroidPhone_
+||*.baidu.com/mo/q/recommendpb/
+||tb3.bdstatic.com/uniapp/static/icon/
+
+! toutiao
+data:image/gif;base64,
+m.toutiao.com##.m-bottom
+|https://api.toutiaoapi.com/api/news/feed/v88/?
+||sf3-cdn-tos.toutiaostatic.com/obj/card-platform/
+
+! veryim
+|https://link.mzlinks.com/js/*.manhua
+|https://www.veryim.com/js/z.manhua
 
 ! wxsck
 .com/static/js/action.js
 
 ! xchina
 ||upload.xchina.store/ad/
+
+! xmorex
+/creative.*.com/static/
+
+! zhihu
+@@||static.zhihu.com/heifetz/chunks/lib-$script
+@@||static.zhihu.com/heifetz/chunks/mobile-$script
+@@||static.zhihu.com/heifetz/chunks/shared-$script
+|https://mcs.volceapplog.com/list
+|https://unpkg.zhimg.com/@cfe/sentry-script@
+|https://www.zhihu.com/api/v4/growth/mobile_top_banner?
+|https://www.zhihu.com/api/v4/hot_recommendation?
+|https://www.zhihu.com/api/v4/questions/*/related-readings?
+|https://www.zhihu.com/sc-profiler
+|https://zxid-api.mobileservice.cn/sdk/base/report
+||pic4.zhimg.com/50/v2-e377a39f81b4cdc2373b9c43c46f5f12_720w.webp
+||static.zhihu.com/heifetz/chunks/$script
+||static.zhihu.com/heifetz/column.*.css
+||static.zhihu.com/heifetz/column.app.$script
