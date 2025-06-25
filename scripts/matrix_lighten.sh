@@ -3,6 +3,7 @@ set -euo pipefail
 
 sed -i '/##+js/!{/##\|#@#\|#\?#/d}' rules/matrix.txt
 sed -i '
+  /^$/d
   /^\/:\/\/.*/d
   /\/\\/d
   s/^\*\([\/._-]\)/\1/
