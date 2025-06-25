@@ -1,17 +1,18 @@
-! General Blocking
+! General
 *$ping,third-party
 *$websocket
 .com/pixel.html?
 .com:*/*/
 .gif?
-.one/
-.site/
-.xyz/
 /ad/
 /ads/
 /cdn-cgi/speculation
 /email-decode.min.js
 /js/zzz.js
+||lf1-cdn-tos.bytegoofy.com/goofy/
+||playhubconnect.com/bn/
+
+! adservers
 ||1rx.io^
 ||adkernel.com^
 ||admatic.de^
@@ -19,13 +20,13 @@
 ||aserve1.net^
 ||coreserver.jp^
 ||diligencejusticeimprobable.com^
+||ensosignal.com^
 ||fmlabsonline.com^
 ||homejavlive.com^
-||lf1-cdn-tos.bytegoofy.com/goofy/
 ||lheffapin.com^
+||mnaspm.com^
 ||monetixads.com^
 ||natterresail.com^
-||playhubconnect.com/bn/
 ||pubeasy.io^
 ||pubfuture-ad.com^
 ||rubiconproject.com^
@@ -33,7 +34,17 @@
 ||spacemancreativedom.net^
 ||stripchatgirls.com^
 ||tenserrelents.com^
+||trcktr.com^
+||tsyndicate.com^
 ||uslook.top^
+||xlivrdr.com^
+
+! CNAME 
+.de/
+.one/
+.re/
+.site/
+.xyz/
 
 ! 163
 /163/frontend/antnest/
