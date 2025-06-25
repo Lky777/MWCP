@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiListChina
 ! Description: blocker for Chinese mobile site
-! Version: 202506251925
-! Last modified: 25 Jun 2025 19:25 UTC
+! Version: 202506252038
+! Last modified: 25 Jun 2025 20:38 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2172,6 +2172,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /elqimg.js
 /elqscr.js
 /eluminate?
+/email-decode.min.js
 /email/track/*$image
 /email/tracking?
 /email_opened_tracking_pixel?
@@ -5244,6 +5245,8 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /~cdn/ads/
 100.pncdn.cn
 17u.cn
+18comic.*/static/resources/files/$image
+18comic.*/templates/frontend/airav/emoji/emojionearea.css
 37cs.com
 37gowan.com
 40017.cn
@@ -7371,10 +7374,11 @@ bad.news##.download-app-fixed
 baidu.com##.btn
 bartender.cc
 beyondcompare.cc
+bing.com###bnp_rich_div
 bingdianhuanyuan.cn
+cdn-msp3.18comic.*/static/resources/images/
 chemdraw.com.cn
 cm.jd.com
-cn.bing.com###bnp_rich_div
 coreldrawchina.com
 data:image/gif;base64,
 dd.yiche.com
@@ -7485,79 +7489,40 @@ yydstxt*.com/js/html
 |https://$script,xmlhttprequest,domain=urlcash.net
 |https://*.baidu.com/mo/q/getUpConfigData?
 |https://*.baidu.com/mo/q/getVersionInfo?
-|https://*.baidu.com/mo/q/recommendpb/
-|https://*.csdn.net/recommend/
 |https://11.mydrivers.com/common/js/trimpath-template-
 |https://11.mydrivers.com/js/2022/storageHelper.js?
-|https://11.mydrivers.com/m/js/live/liveplayer-element.min.js
-|https://18comic.*/static/resources/files/$image
-|https://18comic.*/templates/frontend/airav/emoji/emojionearea.css
 |https://api.ithome.com/json/hot/dajia.json^$script
 |https://api.toutiaoapi.com/api/news/feed/v88/?
-|https://assetscdn.jable.tv/assets/images/uu/
-|https://blog.csdn.net/phoenix/web/v1/mini-app/
-|https://cdn-msp3.18comic.*/static/resources/images/
-|https://csdnimg.cn/release/passport_fe/
-|https://eva2.csdn.net/v3/
+|https://downpack.baidu.com/baidutieba_AndroidPhone_
 |https://g.csdnimg.cn/??sharewx/
 |https://g1.tagtic.cn/v1/xingyou/c/
 |https://gw.m.163.com/search/api/v2/wap/rolling-word?
-|https://icons.mydrivers.com/2025/
-|https://img-home.csdnimg.cn/data_json/jsconfig/redPacket.json
-|https://img.hanguomanhua.me/style2/Loading200x200.png
 |https://img.ithome.com/file/dylive/dylive.min.js^$script
-|https://img1.kkeji.com/img/2005/
-|https://img2024.cnblogs.com/blog/35695/
-|https://js.mewlxy.com/gg-config.js
-|https://js.wpadmngr.com/static/adManager.
-|https://lf1-cdn-tos.bytegoofy.com/goofy/
 |https://link.mzlinks.com/js/*.manhua
 |https://m.163.com/touch/api/paid-article/well-chosen-rec-list?
 |https://m.163.com/touch/behavior.html?
-|https://m.163.com/touch/nc/api/article/relate/
-|https://m.163.com/wap/special/
-|https://m.happymh.com/static/media/
 |https://m.mydrivers.com/m/relatednews.ashx?
 |https://mcs.snssdk.com/list
 |https://mcs.volceapplog.com/list
-|https://pic4.zhimg.com/50/v2-e377a39f81b4cdc2373b9c43c46f5f12_720w.webp
-|https://playhubconnect.com/bn/
-|https://ravenscans.com/wp-content/themes/mangareader/assets/img/btn_close.gif
-|https://ravenscans.com/wp-content/themes/mangareader/assets/img/readerarea.svg
-|https://s6.music.126.net/puzzle/$script
-|https://s6.music.126.net/static_public/
-|https://sf3-cdn-tos.toutiaostatic.com/obj/card-platform/
-|https://static.ws.126.net/163/frontend/images/toast-download.png
-|https://static.ws.126.net/163/frontend/js/*/url-param-inherit.js
-|https://static.ws.126.net/163/frontend/libs/open-newsapp/latest/open-newsapp.min.js
-|https://static.zhihu.com/heifetz/chunks/$script
-|https://static.zhihu.com/heifetz/column.*.css
-|https://static.zhihu.com/heifetz/column.app.$script
-|https://tb3.bdstatic.com/uniapp/static/icon/
+|https://renrys.com/static/player/prestrain.html
 |https://unpkg.zhimg.com/@cfe/sentry-script@
-|https://upload.xchina.store/ad/
 |https://www.36dm.com/js/
 |https://www.cnblogs.com/*/ajax/post-accessories?
 |https://www.cnblogs.com/*/custom.css?
 |https://www.colamanga.com/counting
-|https://www.ghxi.com/wp-content/plugins/core-ai-power/
 |https://www.ghxi.com/wp-content/plugins/wp-opt/static/js/front.min.js?
-|https://www.hanguomanhua.me/cache.js
-|https://www.hanguomanhua.me/style2/001.gif
-|https://www.hanguomanhua.me/style2/fc.js
 |https://www.pornbest.org/site/stat?
-|https://www.ruanyifeng.com/blog/checker.js
-|https://www.ruanyifeng.com/blog/stats.js
 |https://www.veryim.com/js/z.manhua
 |https://www.zhihu.com/api/v4/growth/mobile_top_banner?
 |https://www.zhihu.com/api/v4/hot_recommendation?
 |https://www.zhihu.com/api/v4/questions/*/related-readings?
 |https://www.zhihu.com/sc-profiler
-|https://xnnn.org/site/all.js
 |https://zxid-api.mobileservice.cn/sdk/base/report
 |javascript:*settimeout$popup
 |javascript:*window.location$popup
 ||*.$image,rewrite=abp-resource:1x1-transparent-gif,domain=rmdown.com
+||*.baidu.com/mo/q/recommendpb/
+||*.csdn.net/recommend/
 ||*xav.*/guang/*.jpg
 ||0.0.0.0^$third-party,domain=~0.0.0.0|~127.0.0.1|~[::1]|~[::]|~local|~localhost
 ||0.0.0.1^
@@ -7694,6 +7659,7 @@ yydstxt*.com/js/html
 ||11.golang8.com^
 ||11.mydrivers.com/drivers/
 ||11.mydrivers.com/m/images/v1/kkjapp_down.gif
+||11.mydrivers.com/m/js/live/liveplayer-element.min.js
 ||11.yiqig.cn^
 ||11.yiqig.com^
 ||111cn.net/gg_ad/
@@ -7921,6 +7887,7 @@ yydstxt*.com/js/html
 ||1qv.fun^
 ||1redirb.com^$popup
 ||1rer.hummel.net^
+||1rx.io^
 ||1tp.icu^
 ||1ts11.top^$popup
 ||1ts17.top^$popup
@@ -9185,6 +9152,7 @@ yydstxt*.com/js/html
 ||adk2.co^$popup
 ||adk2.com^$popup
 ||adk2x.com^$popup
+||adkernel.com^
 ||adkmbc.com^$popup
 ||adl.bankofthewest.com^
 ||adless.io^
@@ -9200,6 +9168,7 @@ yydstxt*.com/js/html
 ||admachina.com^$popup
 ||admaimai.com/inc/adv
 ||admaster.
+||admatic.de^
 ||admd.housefun.com.tw^
 ||admd.yam.com^
 ||admediatex.net^$popup
@@ -9746,6 +9715,7 @@ yydstxt*.com/js/html
 ||amateur.tv/misc/myclbnp7fx.js
 ||amatrck.com^$popup
 ||amazing-dating.com^$popup
+||amazon-adsystem.com^
 ||amazon-adsystem.com^$popup,domain=twitch.tv
 ||amazon.com/1/aiv-web-player/1/oe^
 ||amazon.com/1/events/$domain=~aws.amazon.com
@@ -10288,6 +10258,7 @@ yydstxt*.com/js/html
 ||asdasdad.net^$popup
 ||asdfdr.cfd^$popup
 ||asensoithecb.com^$popup
+||aserve1.net^
 ||aservice.cloud/trc/mastertag
 ||asg.aphex.me^
 ||asg.bhabhiporn.pro^
@@ -10327,6 +10298,7 @@ yydstxt*.com/js/html
 ||assets.s-bol.com/appmeasurement-
 ||assets.trendii.com/pixel/main.js
 ||assets.yumpu.com/release/*/tracking.js
+||assetscdn.jable.tv/assets/images/uu/
 ||assistant.watson.appdomain.cloud/analytics/
 ||assp.sohu.com^
 ||astarboka.com^$popup
@@ -11235,6 +11207,7 @@ yydstxt*.com/js/html
 ||blockchain.info/explorer-gateway/advertisements
 ||blockchaintop.nl^$popup
 ||blockworks.co/_vercel/insights/
+||blog.csdn.net/phoenix/web/v1/mini-app/
 ||blog.sina.com.cn/lm/mini/
 ||blog.xuite.net/_public/js/ysmad.js
 ||blogblog.com/tracker/
@@ -12909,6 +12882,7 @@ yydstxt*.com/js/html
 ||csdnimg.cn/check-adblock/
 ||csdnimg.cn/common/redpack/redpack.js
 ||csdnimg.cn/public/common/indexsuperise/1.1.1/indexsuperise.js
+||csdnimg.cn/release/passport_fe/
 ||csdsa22.fun^
 ||cse.google.com/cse_v2/ads$subdocument
 ||csfds000.fun^
@@ -15536,6 +15510,7 @@ yydstxt*.com/js/html
 ||ev.mmin.io/ping
 ||ev.moneymade.io^
 ||ev.stellarlabs.ai^
+||eva2.csdn.net/v3/
 ||evanetwork.com^$popup
 ||evcnmtw.top^
 ||event-api.rdstation.com.br^
@@ -16076,6 +16051,7 @@ yydstxt*.com/js/html
 ||fm086.com/plugins/search
 ||fmhua.com/template/*/images/g_js/*.html
 ||fmkipgm.icu^
+||fmlabsonline.com^
 ||fmlmbf.top^
 ||fmmirep.icu^
 ||fmnetwork.nl/tracking/
@@ -16696,6 +16672,7 @@ yydstxt*.com/js/html
 ||ghozokodq.com^
 ||ghrs.cn^
 ||ghwqbii.icu^
+||ghxi.com/wp-content/plugins/core-ai-power/
 ||gi-client-tracking.goodgamestudios.com^
 ||gi0.icu^
 ||gia.jd.com^
@@ -17178,6 +17155,9 @@ yydstxt*.com/js/html
 ||hamodia.co.uk/images/worldfirst-currencyconversion.jpg
 ||handbaggather.com^$popup
 ||handgripvegetationhols.com^$popup
+||hanguomanhua.me/cache.js
+||hanguomanhua.me/style2/001.gif
+||hanguomanhua.me/style2/fc.js
 ||hanime.xxx/wp-content/cache/wpfc-minified/fggil735/fa9yi.js
 ||hanjutv2020.com/index.php?c=dudu_
 ||hanjutv2020.com/statics/skin/*/js/plus.js
@@ -17871,6 +17851,7 @@ yydstxt*.com/js/html
 ||icon.zol-img.com.cn/mainpage/js/click.js
 ||icon.zol-img.com.cn/public/js/web_foot$script
 ||iconfinder.com/static/js/istock.js
+||icons.mydrivers.com/2025/
 ||icourse163.org/dwr/call/plaincall/commonbean.obtain.dwr
 ||icubeswire.co^$popup
 ||id.a-mx.com^
@@ -18053,12 +18034,14 @@ yydstxt*.com/js/html
 ||imeee.cn/da_html/*.js
 ||imeee.cn/da_html/bottom_960x90.html
 ||imf.org/assets/imf/js/socialscript.js
+||img-home.csdnimg.cn/data_json/jsconfig/redPacket.json
 ||img.0279.net^
 ||img.263y.com^
 ||img.3sjt.com^
 ||img.cmm.xmfish.com/pages/uploads/20$image
 ||img.eol.cn/images/ed/$~image
 ||img.ferlie.net^
+||img.hanguomanhua.me/style2/Loading200x200.png
 ||img.ifeng.com/tres/html/
 ||img.kuai.xunlei.com/js/statistics.js
 ||img.uu1001.cn^$third-party,domain=~1688.com|~alimama.com|~taobao.com
@@ -18070,6 +18053,7 @@ yydstxt*.com/js/html
 ||img1.126.net^
 ||img1.eywdf.com^
 ||img1.hblds.com^
+||img1.kkeji.com/img/2005/
 ||img1.leyun365.com^
 ||img11.biyan8.com^
 ||img16.diyifanwen.com
@@ -18077,6 +18061,7 @@ yydstxt*.com/js/html
 ||img2.126.net^
 ||img2.titan007.com^
 ||img2021.navyfederal.org^
+||img2024.cnblogs.com/blog/35695/
 ||img3.126.net/
 ||img3.126.net^
 ||img301.com^
@@ -18831,6 +18816,7 @@ yydstxt*.com/js/html
 ||js.mangajp.top^
 ||js.mangalove.top^
 ||js.mangaraw.bid^
+||js.mewlxy.com/gg-config.js
 ||js.mumayi.net/jiujiang
 ||js.oh100.com^
 ||js.passport.qihucdn.com/11.0.1.js
@@ -18845,6 +18831,7 @@ yydstxt*.com/js/html
 ||js.tlt.cn/js/
 ||js.ubaike.cn^
 ||js.verisoul.ai^
+||js.wpadmngr.com/static/adManager.
 ||js.yanyue.cn^
 ||js.yanyue.net^
 ||js.yjbys.com^
@@ -19484,6 +19471,7 @@ yydstxt*.com/js/html
 ||lewdspot.com/img/aff_
 ||lewrutl.top^
 ||lexology.com/pd.js
+||lf1-cdn-tos.bytegoofy.com/goofy/
 ||lfflvh.icu^
 ||lfhthokieryf.com^
 ||lfkheedokhld.com^
@@ -19938,6 +19926,8 @@ yydstxt*.com/js/html
 ||lzov.cn^
 ||lzp.plus^
 ||lzyysw.com/upload/
+||m.163.com/touch/nc/api/article/relate/
+||m.163.com/wap/special/
 ||m.aty.sohu.com^
 ||m.bjdcfy.net^*.js
 ||m.clear.link/cpr/external/track
@@ -19945,6 +19935,7 @@ yydstxt*.com/js/html
 ||m.diyibanzhu.buzz/17mb/script/wap.js
 ||m.facebook.com/ajax/weblite_load_logging/
 ||m.facebook.com/ajax/weblite_resources_timing_logging/
+||m.happymh.com/static/media/
 ||m.kankanwu.com/js/
 ||m.lelekan.com/sp/
 ||m.mianbao99.com/js/detail.js
@@ -20520,6 +20511,7 @@ yydstxt*.com/js/html
 ||mon.zijieapi.com^
 ||moncoerbb.com^$popup
 ||monetag.com^$popup
+||monetixads.com^
 ||moneycontrol.com/news/services/get_comscore_pageview/
 ||moneysavinglifehacks.pro^$popup
 ||moneyweekly.com.tw/uc/jqueryjson.aspx/mwad
@@ -22019,6 +22011,7 @@ yydstxt*.com/js/html
 ||pic.gongkong.com/uploadpic/gongkong/
 ||pic.yupoo.com/showflash/
 ||pic1.dianshu119.com^
+||pic4.zhimg.com/50/v2-e377a39f81b4cdc2373b9c43c46f5f12_720w.webp
 ||pic50.pingguolv.com^
 ||picb.cc/uploads/2018/06/26/2zxrsi.jpg
 ||picgd.com/images/2018/12/01/h1pi5.png
@@ -22197,6 +22190,7 @@ yydstxt*.com/js/html
 ||playerswhisper.com^$popup
 ||playgirl.com^$popup
 ||playhop.com/clck/
+||playhubconnect.com/bn/
 ||playstats.v.duowan.com^
 ||playstretch.host^$popup
 ||playtomic.com/tracker/
@@ -22572,7 +22566,9 @@ yydstxt*.com/js/html
 ||pub.pixels.ai/metrics-lib.js
 ||pub.sheknows.com^
 ||pubdirecte.com^$popup
+||pubeasy.io^
 ||pubfeed.linkby.com^
+||pubfuture-ad.com^
 ||public.cobrowse.oraclecloud.com/rely/storage/
 ||public.fbot.me/track/
 ||publicbroadcasting.net/analytics/
@@ -23076,6 +23072,8 @@ yydstxt*.com/js/html
 ||ratedxbiz.com/d/
 ||raunooligais.net^$popup
 ||raven.adeptmind.ai^
+||ravenscans.com/wp-content/themes/mangareader/assets/img/btn_close.gif
+||ravenscans.com/wp-content/themes/mangareader/assets/img/readerarea.svg
 ||raw.vidyard.com^
 ||rawdogsports.com/data/siropu/
 ||raygun.io/events?
@@ -23464,6 +23462,9 @@ yydstxt*.com/js/html
 ||rtxpx-a.akamaihd.net^
 ||rtyznd.com^$popup
 ||ruanyifeng.com/9he/
+||ruanyifeng.com/blog/checker.js
+||ruanyifeng.com/blog/stats.js
+||rubiconproject.com^
 ||rubmdu.top^
 ||rubylife.go2cloud.org^
 ||rubylife.go2cloud.org^$popup
@@ -23588,6 +23589,8 @@ yydstxt*.com/js/html
 ||s3.amazonaws.com^*/secure.js
 ||s31u.com^
 ||s3g6.com^$popup
+||s6.music.126.net/puzzle/$script
+||s6.music.126.net/static_public/
 ||s7fpxh6fz.com^
 ||s7vf.cn^
 ||s83.fun^
@@ -23879,6 +23882,7 @@ yydstxt*.com/js/html
 ||sezzle.com/v1/event/log
 ||sf-syn.com/conversion_outbound_tracker$subdocument,domain=sourceforge.net
 ||sf2.net/a/index.
+||sf3-cdn-tos.toutiaostatic.com/obj/card-platform/
 ||sfesdef6.fun^
 ||sfgate.com/juiceexport/production/sfgate.com/loadads.js
 ||sfile.top^
@@ -24173,6 +24177,7 @@ yydstxt*.com/js/html
 ||smart-data-systems.com^
 ||smart-wp.com^$popup
 ||smartads.statsperform.com^
+||smartadserver.com^
 ||smartadtags.com^$popup
 ||smartblocker.org^$popup
 ||smartcj.com^$popup
@@ -24358,6 +24363,7 @@ yydstxt*.com/js/html
 ||sp.welcometothejungle.com^
 ||spa-tracker.spapi.io^
 ||spacecatholicpalmful.com^$popup
+||spacemancreativedom.net^
 ||spacetraff.com^$popup
 ||spackgeranic.shop^$popup
 ||spanishdict.com/page-view-metadata
@@ -24597,9 +24603,15 @@ yydstxt*.com/js/html
 ||static.wjxcdn.com^
 ||static.ws.126.net/*/adtracker.$script
 ||static.ws.126.net/*/js/sspad.$script
+||static.ws.126.net/163/frontend/images/toast-download.png
+||static.ws.126.net/163/frontend/js/*/url-param-inherit.js
+||static.ws.126.net/163/frontend/libs/open-newsapp/latest/open-newsapp.min.js
 ||static.youku.com/*/index/js/iresearch.js
 ||static.youku.com/*/js/cps.js
 ||static.yxdown.com/cj/$script
+||static.zhihu.com/heifetz/chunks/$script
+||static.zhihu.com/heifetz/column.*.css
+||static.zhihu.com/heifetz/column.app.$script
 ||static.zongheng.com/*/ad$script
 ||static.zongheng.com/upload/*ds/column/$script,image
 ||static.zongheng.com/upload/recommend/game/201$image
@@ -25212,6 +25224,7 @@ yydstxt*.com/js/html
 ||tatrck.com^$popup
 ||tauphaub.net^$popup
 ||taxidrivermovie.com^$~third-party,xmlhttprequest
+||tb3.bdstatic.com/uniapp/static/icon/
 ||tb58.net/plugin.php?id=tb58_
 ||tbbfdr.icu^
 ||tbcdn.cn/mm/tanxssp-custom/sina_
@@ -25303,6 +25316,7 @@ yydstxt*.com/js/html
 ||tengfun.com/attachment/*/w_1200
 ||tengzhihh.com/image/*-950x277.
 ||tennis.com/assets/js/libraries/render-adv.js
+||tenserrelents.com^
 ||tenthgiven.com^$popup
 ||terabox.app/api/analytics?
 ||terabox.app/issue/terabox/ts_ad/
@@ -26518,6 +26532,7 @@ yydstxt*.com/js/html
 ||upi.com/story/stat/
 ||upload.cc^$domain=141jj.com|mizhiav.com
 ||upload.cc^$domain=99re.com
+||upload.xchina.store/ad/
 ||uploadcloud.pro/altad/
 ||uponelectabuzzor.club^$popup
 ||uponomanytetor.com^$popup
@@ -27806,6 +27821,7 @@ yydstxt*.com/js/html
 ||xnimg.cn^*/liveinc/rightlive.js
 ||xnnews.com.cn/adgl/
 ||xnnews.com.cn/tpl/material/
+||xnnn.org/site/all.js
 ||xnqboqc.icu^
 ||xnxx.army/click/
 ||xnxx.com/picserror/
