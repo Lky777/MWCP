@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiListChina
 ! Description: blocker for Chinese mobile site
-! Version: 202506252038
-! Last modified: 25 Jun 2025 20:38 UTC
+! Version: 202506252203
+! Last modified: 25 Jun 2025 22:03 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -400,6 +400,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 .d9ad.
 .daoyoudao.
 .dayingwo.
+.de/
 .dianxin.
 .dingge.
 .dyunion.
@@ -565,6 +566,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 .qqo*llo.com/$script,xmlhttprequest
 .qsko0*mas.com/$script,xmlhttprequest
 .r.arpg2.
+.re/
 .redu-click.
 .rj518.
 .rsccs.
@@ -15381,6 +15383,7 @@ yydstxt*.com/js/html
 ||enporn.org/system/theme/anyporn/js/popcode.min.js
 ||enrtx.com^$popup
 ||ensighten.com/error/e.php?
+||ensosignal.com^
 ||ent1.12584.cn^
 ||ent1.qunchua.cn^
 ||ent1.qunchua.com^
@@ -20454,6 +20457,7 @@ yydstxt*.com/js/html
 ||mmrtb.com^$popup
 ||mmtalk.net/images/banner
 ||mmwebhandler.888.com^
+||mnaspm.com^
 ||mnaspm.com^$popup
 ||mndsrv.com^$popup
 ||mnks.cn/jk/appad_
@@ -26022,6 +26026,7 @@ yydstxt*.com/js/html
 ||trckng.dainese.com^
 ||trcksplt.miro.com^
 ||trckswrm.com^$popup
+||trcktr.com^
 ||trcyrn.com^$popup
 ||treatment.grammarly.com^
 ||tredir.go.com^
@@ -26136,6 +26141,7 @@ yydstxt*.com/js/html
 ||tseywo.com^$popup
 ||tsmate.com/api/metrics
 ||tsml.fun^$popup
+||tsyndicate.com^
 ||tsyndicate.com^$popup
 ||tt.biquge.la^
 ||tt1069.com/bbs/zgg_
@@ -27791,6 +27797,7 @@ yydstxt*.com/js/html
 ||xliirdr.com^$popup
 ||xlirdr.com^$popup
 ||xliuits.icu^
+||xlivrdr.com^
 ||xlivrdr.com^$popup
 ||xlmp4.cc/js/wcount.js
 ||xlnlvf.top^
