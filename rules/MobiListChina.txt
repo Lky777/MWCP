@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiListChina
 ! Description: blocker for Chinese mobile site
-! Version: 202506250621
-! Last modified: 25 Jun 2025 06:21 UTC
+! Version: 202506251925
+! Last modified: 25 Jun 2025 19:25 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -3546,6 +3546,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /pageview?key=
 /pageview?pageid=
 /pageview?pageviewid
+/pageview?session=
 /pageview?t=
 /pageview?user_guid=
 /pageviews.php?type=
@@ -8542,6 +8543,7 @@ yydstxt*.com/js/html
 ||6jyi7mzae.com^
 ||6ku.icu^
 ||6lx.fun^
+||6m8tk53pw.com^
 ||6oj.fun^
 ||6pan.cc/ps/vip.jpg
 ||6park.com/parks/$script
@@ -11063,6 +11065,7 @@ yydstxt*.com/js/html
 ||bi.banggood.com^
 ||bi.heyloyalty.com^
 ||bi.medscape.com^
+||bi205u0cx.com^
 ||bi25.cc/js/hf
 ||biabfqq.icu^
 ||bian-min.com/javascript/a/detail.js
@@ -19486,6 +19489,7 @@ yydstxt*.com/js/html
 ||lfkheedokhld.com^
 ||lfrdskwj.icu^
 ||lftcph.icu^
+||lgforbes.akamaized.net/rtblog.php?
 ||lgkocdi.icu^
 ||lgmi.com/ggimg/
 ||lgmi.com/left_right_
@@ -20152,6 +20156,7 @@ yydstxt*.com/js/html
 ||mb57.com^$popup
 ||mbalib.com/common/a_mbalib/
 ||mbauniverse.com/sites/default/files/shree.png
+||mbg06251pg.com^
 ||mbid.marfeelrev.com^
 ||mbjrkm2.com^$popup
 ||mbreviews.info^$popup
@@ -25946,6 +25951,7 @@ yydstxt*.com/js/html
 ||tracyspb.com^
 ||tradablebits.com/pixels/
 ||tradeadexchange.com^$popup
+||tradehouse.media/js/prebid-
 ||tradingview-widget.com/static/bundles/embed/snowplow-embed-widget-tracker.$script
 ||tradingview.com/ping
 ||traditionalmusic.co.uk/images/banners/
@@ -26430,6 +26436,7 @@ yydstxt*.com/js/html
 ||ukworlowedonh.com^$popup
 ||ulad.cn^
 ||uldaens.com^
+||uljg.cn^
 ||ulogin.ru/stats.html
 ||ultimate-captcha.com^$popup
 ||ultimate-guitar.com/components/ab/event?
