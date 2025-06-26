@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiListChina
 ! Description: blocker for Chinese mobile site
-! Version: 202506252322
-! Last modified: 25 Jun 2025 23:22 UTC
+! Version: 202506261928
+! Last modified: 26 Jun 2025 19:28 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -10,7 +10,7 @@ $csp=child-src 'none'; frame-src 'self' *; worker-src 'none',domain=fileone.tv|t
 $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vidoza.net
 $csp=script-src 'self' '*' 'unsafe-inline',domain=pirateproxy.live|thehiddenbay.com|downloadpirate.com|thepiratebay10.org|ukpass.co|linksmore.site
 $csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.cloudflare.com *.google.com *.addthis.com *.addthisedge.com *.facebook.net *.twitter.com *.jquery.com *.x.com,domain=kinox.lat|kinos.to|kinox.am|kinox.click|kinox.cloud|kinox.club|kinox.digital|kinox.direct|kinox.express|kinox.fun|kinox.fyi|kinox.gratis|kinox.io|kinox.lol|kinox.me|kinox.mobi|kinox.pub|kinox.sh|kinox.to|kinox.tube|kinox.tv|kinox.wtf|kinoz.to,~third-party
-$csp=script-src 'self' * 'unsafe-inline',domain=13xsw.com|bbiquge.cc|taobiquge.com|haijiaobooksw.top|zlobin.net|piaotianxiaoshuo.com|yebiquge.com|jubiquge.com|vipbiquge.com|jpbqg7.com|zuizhong.net|oldtimeswx.org|2dsk.org|5book.cc|softtechsolution.org|product44.com|snxsw.com|xiexinde.net|m.6666xsw.com|m.chenkuan.com|jmshuwu.net|wodexiaoshuoh.com|tetservices.net|haitangsoshu.org|4hrz.net|x33yq.org|56xiaoshuo.net|novelser.com|ykxs.cc|biqudd.com|diyibanzhu44444.com|dbrxs.org|kaixindu.net|1ingatlan.net|gaofuwu.org|yushuwu.cloud|yswxs.com|biquge2345.com|dingdian911.com|bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|1kans.net|aidu123.com|biquluo.info|bqgh.com|jmshuwu.net|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com
+$csp=script-src 'self' * 'unsafe-inline',domain=pinshu.org|13xsw.com|bbiquge.cc|taobiquge.com|haijiaobooksw.top|zlobin.net|piaotianxiaoshuo.com|yebiquge.com|jubiquge.com|vipbiquge.com|jpbqg7.com|zuizhong.net|oldtimeswx.org|2dsk.org|5book.cc|softtechsolution.org|product44.com|snxsw.com|xiexinde.net|m.6666xsw.com|m.chenkuan.com|jmshuwu.net|wodexiaoshuoh.com|tetservices.net|haitangsoshu.org|4hrz.net|x33yq.org|56xiaoshuo.net|novelser.com|ykxs.cc|biqudd.com|diyibanzhu44444.com|dbrxs.org|kaixindu.net|1ingatlan.net|gaofuwu.org|yushuwu.cloud|yswxs.com|biquge2345.com|dingdian911.com|bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|1kans.net|aidu123.com|biquluo.info|bqgh.com|jmshuwu.net|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com
 $csp=script-src 'self' * 'unsafe-inline',domain=smsonline.cloud
 $csp=script-src 'self' * 'unsafe-inline',domain=zuye8.com|yawoxs.com|guwoxs.com|jiufuzw.com|beianxs.com|shuying6.com|mafusw.com|cule9.com|riquzw.com|xingksw.com|enbusw.com|waguwk.cc|ruyisw.com|zuxiku.com|jinmusb.com|hunshuge.com|puyewk.com|kaaiwk.com|hadu520.com|qubosw.com|meisibook.com|cuaizw.cc|boxue8.cc|cipubook.com|ququsk.cc|yiyezao.com|shanhuxs.com|jiutusw.com|chahuax.com|candoug.com|hanziwen.com|haduzw.com|modaoshu.com|nipubook.com|nuoshuge.com|puquz.com|wuwusk.com
 $csp=script-src 'self' *,domain=akexs.com|qqmmxs.com|qimiaoxs.cc|qimiaoxiaoshuo.com|wuwxs.com|biquge678.com|biqugezw.us|zk01.net
@@ -1347,6 +1347,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /ane-popup-banner.js$script
 /angular-tag.js
 /anti-adblock/*$~stylesheet
+/anymanagerrecover.js
 /aoyou372down300_
 /api-analytics.
 /api-insights/log?
@@ -5198,6 +5199,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 ://l.*/script.php?i=$script,~third-party
 ://lightning.*/launch/
 ://load.*.js?st=$~third-party
+://loader.*.com/loader.min.js|$script,~third-party
 ://matomo.$domain=~matomo.org
 ://metrics-collector.
 ://mint.*/?js
@@ -5229,6 +5231,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 ://tracking.*/event
 ://uads.$third-party,xmlhttprequest
 ://www.*.com/content/*/-1/$script,subdocument,xmlhttprequest
+://www.*.com/content/*/a/$subdocument,domain=~com|~edu|~gov|~net|~org
 ://www.*.com/script/*.com.js|$script
 ://www.*.com/script/*.org.js|$script
 ://www.*.js|$script,domain=159i.com|r3sub.com|thisav.com
@@ -7623,6 +7626,7 @@ yydstxt*.com/js/html
 ||3q1lsj.cn^
 ||3questionsgetthegirl.com^$popup
 ||3rcld5y1dm.com^
+||3ryin2uj0x.com^
 ||3sas.icu^
 ||3ts.icu^
 ||3uo.fun^
@@ -8012,6 +8016,7 @@ yydstxt*.com/js/html
 ||879.thebussybandit.com^
 ||87mao.com/52
 ||87uq.com^
+||87y8y1pz4o.com^
 ||88.42.84.136^$popup
 ||880sy.com/public/js/*_gg.js
 ||88148.com/upfile/a/2016040849191350.jpg
@@ -8276,6 +8281,7 @@ yydstxt*.com/js/html
 ||a6.hujiang.com^$domain=~class.hujiang.com
 ||a64x.com^$popup
 ||a7c.icu^
+||a8h4zhbmxi.com^
 ||aa.avvo.com^
 ||aa.fapnado.xxx^
 ||aa.gushiwen.org^
@@ -9323,6 +9329,7 @@ yydstxt*.com/js/html
 ||androidauth.wpengine.com/wp-json/api/advanced_placement/api-$domain=androidauthority.com
 ||androidfilehost.cfd^$popup
 ||androidfilehost.com/libs/otf/stats.otf.php?
+||anemonew33.top^
 ||anews7.nvwu.com^
 ||angege.com^$popup
 ||angelweb.cn/inc/angelg.js
@@ -11051,6 +11058,7 @@ yydstxt*.com/js/html
 ||cdn.ad.page^
 ||cdn.biff.travel^
 ||cdn.clkmc.com/cmc.js
+||cdn.cuty.io/fps.js
 ||cdn.galacg.me/img/*.jpg
 ||cdn.haocaa.com^
 ||cdn.haokongbu1.com^*.js
@@ -15725,6 +15733,7 @@ yydstxt*.com/js/html
 ||gdmm.com/api.php?mod=js&bid=2111
 ||gdmm.com/api.php?mod=js&bid=2188
 ||gdmm.com/images/leftbottom.png
+||gdqhim.icu^
 ||gdr3.com/us/
 ||gdt.qq.com/
 ||gdt.qq.com^
@@ -18857,6 +18866,8 @@ yydstxt*.com/js/html
 ||load.tm.all3dp.com/rqlevydw.js
 ||loader-cdn.azureedge.net^
 ||loader.crosswordsolver.com^
+||loader.the-crossword-solver.com^
+||loader.word-grabber.com^
 ||loader.worldhistory.org^
 ||loagoshy.net^$popup
 ||loaksandtheir.info^$popup
@@ -19322,6 +19333,8 @@ yydstxt*.com/js/html
 ||mbalib.com/common/a_mbalib/
 ||mbauniverse.com/sites/default/files/shree.png
 ||mbg06251pg.com^
+||mbg06260pg.com^
+||mbg06261pg.com^
 ||mbid.marfeelrev.com^
 ||mbjrkm2.com^$popup
 ||mbreviews.info^$popup
@@ -19340,6 +19353,7 @@ yydstxt*.com/js/html
 ||mcdp-*.outbrain.com^
 ||mcfstats.com^$popup
 ||mcighme.icu^
+||mckumf5ii4.com^
 ||mclimix.top^
 ||mcmod.cn/editor/upload/20221126/1669399546_2_onbt.
 ||mcpuwpsh.com^$popup
@@ -20319,6 +20333,7 @@ yydstxt*.com/js/html
 ||npa.thetimes.com/stats
 ||npcad.com^$popup
 ||nplvdodbja.com^
+||npvcfn.icu^
 ||nqbcf.cn/html/top
 ||nqlzlr.icu^
 ||nqyrywn.icu^
@@ -20343,6 +20358,7 @@ yydstxt*.com/js/html
 ||nslookup.io/pl.js
 ||nsmpydfe.net^$popup
 ||nsultingcoe.net^$popup
+||nsvohb.top^
 ||nsw2u.com^$popup
 ||ntce.com/images/js/ntce_public.js
 ||ntdtv.com/assets/themes/ntd/js/article_ads.js
@@ -20402,6 +20418,7 @@ yydstxt*.com/js/html
 ||nytimes.com/v1/purr-cache
 ||nz04com.com/aabdd/
 ||nzherald.co.nz/pf/resources/dist/scripts/global-ad-script.js
+||nzherald.co.nz/pf/resources/scripts/tracking/data-ref.js
 ||nzoj.cn^
 ||nzpages.co.nz/modules/common/track.js
 ||nzpvpp.icu^
@@ -21369,6 +21386,7 @@ yydstxt*.com/js/html
 ||pnekru6pxrum-a.akamaihd.net^
 ||pngmart.com/files/10/download-now-button-png-free-download.png
 ||pniao99.com/statics/js/stat.js
+||pnk95mnqww.com^
 ||pnn.ps/storage/images/partners/
 ||pnouting.com^$popup
 ||pnpbjt.icu^
@@ -25612,6 +25630,7 @@ yydstxt*.com/js/html
 ||unwoobater.com^$popup
 ||unwuamt.top^
 ||unwucnt.top^
+||uoew.cn^
 ||uojx.cn^
 ||uoowu.com/a/zh*.js
 ||uooyoo.com/hz/*str.js
