@@ -2,7 +2,6 @@
 *$ping,third-party
 *$websocket
 .com/pixel.html?
-.com:*/*/
 .gif?
 /ad/
 /ads/
