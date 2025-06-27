@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiListChina
 ! Description: blocker for Chinese mobile site
-! Version: 202506270709
-! Last modified: 27 Jun 2025 07:09 UTC
+! Version: 202506271926
+! Last modified: 27 Jun 2025 19:26 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -13548,6 +13548,7 @@ yydstxt*.com/js/html
 ||depressionforums.org/wp-content/uploads/2023/05/balban.jpg.webp
 ||depvailon.com/sponsored.html
 ||depzdhamot.com^
+||deqixs.com/config/
 ||derevya2sh8ka09.com^$popup
 ||derwbl.icu^
 ||desertsutilizetopless.com^$popup
@@ -15901,6 +15902,7 @@ yydstxt*.com/js/html
 ||gk99.com/static/js/a-d-sys.js
 ||gkcogyf.icu^
 ||gkeolwi.icu^
+||gkgktibd.com^
 ||gkrtmc.com^$popup
 ||gkvrdf.com^
 ||gkxqt.cn^
@@ -19285,6 +19287,7 @@ yydstxt*.com/js/html
 ||mbg06260pg.com^
 ||mbg06261pg.com^
 ||mbg06270pg.com^
+||mbg06271pg.com^
 ||mbid.marfeelrev.com^
 ||mbjrkm2.com^$popup
 ||mbreviews.info^$popup
@@ -22700,6 +22703,7 @@ yydstxt*.com/js/html
 ||salesloft.com/sl.js
 ||salesmartly.com/client/log/
 ||salesmartly.com/client/station/log?
+||salfgkhsklgcvrg.com^
 ||salsifyua22.com^
 ||saltpairwoo.live^$popup
 ||sam*.baby-kingdom.com^
@@ -26654,6 +26658,7 @@ yydstxt*.com/js/html
 ||x.xxxbule.com^
 ||x.yaohuo.me^
 ||x0.ifengimg.com/feprod/c/web/d/coupletfloat.js
+||x05occvjw.com^
 ||x0or8.icu^
 ||x0r.urlgalleries.net^
 ||x1.52aoteman.com^
@@ -26669,6 +26674,7 @@ yydstxt*.com/js/html
 ||xaiqrania.com^
 ||xamniksq.com^
 ||xanimu.com/prerolls/
+||xaqnbj.cn^
 ||xarvilo.com^$popup
 ||xav*.icu/base/js/other.js
 ||xaxoro.com^$popup
@@ -26922,6 +26928,7 @@ yydstxt*.com/js/html
 ||xxsmad5.com^
 ||xxsmad6.com^
 ||xxsmad7.com^
+||xxsmtz10.com^
 ||xxx.sdtraff.com^
 ||xxxbox.me/vcrtlrvw
 ||xxxdessert.com/34l329_fe.js
@@ -27040,6 +27047,7 @@ yydstxt*.com/js/html
 ||yeshefb.com/template/conch/dd/
 ||yesky.com/s?z=
 ||yespornpleasexxx.com/wp-content/litespeed/js/
+||yetacdn.com^
 ||yeuviq.icu^
 ||yext.com/plpixel?
 ||yeyou.com/2013/new/yeyou-float-window.js
@@ -27062,6 +27070,7 @@ yydstxt*.com/js/html
 ||yhmeinv.com/mh/
 ||yhsbgm.icu^
 ||yht7.com/web/assets/js/right.js
+||yhtohtbql.com^
 ||yhtpsy8888.cc^
 ||yi.ximizi.com^
 ||yidengfe.com/launches/01/yd.png
