@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiListChina
 ! Description: blocker for Chinese mobile site
-! Version: 202506271926
-! Last modified: 27 Jun 2025 19:26 UTC
+! Version: 202506281926
+! Last modified: 28 Jun 2025 19:26 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -7290,6 +7290,7 @@ yydstxt*.com/js/html
 ||1k8j786ks5.com^
 ||1ketang.com/runtime/js/play
 ||1l1.cc^
+||1l27pkxp5w.com^
 ||1lqw75ogo.com^
 ||1lzz.com^$popup
 ||1p3yg.icu^
@@ -7933,6 +7934,7 @@ yydstxt*.com/js/html
 ||70.86.24.120:8060/
 ||7011.stia.cn^
 ||7160.com/js/tiaozhuanquanju.js
+||71lf6z67h6.com^
 ||7299tu75.cc^
 ||73336zubo25326.com^
 ||735pwa.com^$popup
@@ -10955,6 +10957,7 @@ yydstxt*.com/js/html
 ||carfax.com/img_myap/
 ||cargurus.com/cars/cganalyticspageview.action
 ||cargurus.com/tr/
+||carnations9.com^
 ||carnoc.com/noticejs/
 ||carsandbids.com/a/p
 ||carstat.bitauto.com^
@@ -11183,6 +11186,7 @@ yydstxt*.com/js/html
 ||chazidian.com/mobile_general_
 ||chazidian.com/statics/images/wangke.jpg
 ||chazidian.com/statics/xly/huorezhaosheng.png
+||chdhvckqav.com^
 ||cheap-jewelry-online.com^$popup
 ||checbox.cc^
 ||check-out-this.site^$popup
@@ -11570,6 +11574,7 @@ yydstxt*.com/js/html
 ||cmm.xmfish.com^
 ||cmmeglobal.com/evt?
 ||cmmeglobal.com^*/page-view?
+||cmna.cn^
 ||cmp.courrierinternational.com^
 ||cmp.finn.no^
 ||cmp.huffingtonpost.fr^
@@ -16671,6 +16676,7 @@ yydstxt*.com/js/html
 ||hktvmall.com/api/event
 ||hktvmall.com/api/preroll/getlist?
 ||hl.dyq.cn^
+||hl4pvqgbyt.com^
 ||hlogger.heraldcorp.com^
 ||hltoon.com/hanman/static/dist/ppm/js/foot
 ||hltpdd.icu^
@@ -18417,6 +18423,7 @@ yydstxt*.com/js/html
 ||kwhcgsqn2f.com^
 ||kwilmid.top^
 ||kwiqcoh.icu^
+||kwsugo.icu^
 ||kwurserd.top^
 ||kxcdn.com/assets/js/script.js
 ||kxcdn.com/prj/
@@ -22422,6 +22429,7 @@ yydstxt*.com/js/html
 ||rising.com.cn/weblog/
 ||river49xx.org^
 ||riverhit.com^$popup
+||rixpbp.icu^
 ||riym.cn^
 ||rizzomdaledh.top^$popup
 ||rjdmhl.icu^
@@ -22613,6 +22621,7 @@ yydstxt*.com/js/html
 ||rwdjrn.icu^
 ||rwix.cn^
 ||rx.link^$popup,domain=uploadgig.com
+||rxdxzb.top^
 ||rxfygd.cn^
 ||rxys.cn^
 ||rykhukxt.icu^
@@ -25505,6 +25514,7 @@ yydstxt*.com/js/html
 ||ultravpnoffers.com^$popup
 ||um.contentstudio.io^
 ||umami.aigenerations.net^
+||umami.flixer.su^
 ||umami.heroku.uk^
 ||umami.vidfast.pro^
 ||umami.wakarimasen.moe^
@@ -26958,6 +26968,7 @@ yydstxt*.com/js/html
 ||y0o.fun^
 ||y1.junshitt.com^
 ||y1.spreton.com^
+||y18ut1kw22.com^
 ||y1jxiqds7v.com^$popup
 ||y1n1n3e0v.com^
 ||y3600.cc/20
