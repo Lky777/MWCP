@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiListChina
 ! Description: blocker for Chinese mobile site
-! Version: 202506291926
-! Last modified: 29 Jun 2025 19:26 UTC
+! Version: 202506301927
+! Last modified: 30 Jun 2025 19:27 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -644,6 +644,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /&*^$popup,domain=piracyproxy.app|piraproxy.info|unblocked.club|unblockedstreaming.net
 /*jmvu.js?sp=
 /*jmvu.js?tg=
+/.netlify/scripts/rum
 /.webscale/rum?
 /.well-known/shopify/monorail
 /08gg/
@@ -4964,6 +4965,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /wp-content/plugins/amazon-auto-links/*$script,stylesheet
 /wp-content/plugins/amazon-product-in-a-post-plugin/
 /wp-content/plugins/automatic-social-locker/
+/wp-content/plugins/ays-popup-box/
 /wp-content/plugins/banner-manager/*$script
 /wp-content/plugins/bookingcom-banner-creator/
 /wp-content/plugins/bookingcom-text2links/
@@ -5237,7 +5239,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 ://tracking.*/event
 ://uads.$third-party,xmlhttprequest
 ://www.*.com/content/*/-1/$script,subdocument,xmlhttprequest
-://www.*.com/content/*/a/$subdocument,domain=~com|~edu|~gov|~net|~org
+://www.*.com/content/*/a/$subdocument,domain=~edu|~gov
 ://www.*.com/script/*.com.js|$script
 ://www.*.com/script/*.org.js|$script
 ://www.*.js|$script,domain=159i.com|r3sub.com|thisav.com
@@ -6100,6 +6102,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 @@||libs.baidu.com^$domain=11bqg.com|xbotaodz.com|0794.org|12zw.net|1biqu.com|1kans.net|23hh.com|23sk.net|23wxx.com|3yt.com|4xiaoshuo.net|56shuku.info|777zw.net|81book.com|99mk.net|aiwx.info|aixs.la|aikushuge.com|bequmo.com|bimixsw.com|biqiuge8.cc|biqudu.tv|biquge775.com|biquge98.net|biqugecd.com|biquka.com|aidu123.com|biqutsxs.com|bshuku.com|bxwx.live|bxwx.org|damengzhu1.com|gdbzkz.info|hongyeshuzhai.com|ibiquges.com|ibiquges.org|ibotaodz.org|imianhuatang.info|ishisetianxia.com|ishubao.org|xvipxs.net|iwurexs.info|ixs.la|lewenge.cc|liewenn.com|liudatxt.org|paoshu8.com|paoshuzw.com|pksge.com|qishuta.info|shu008.com|shumil.co|silukex.com|siluwx.org|sthuojia.org|tutengzw.com|u33.cc|wenxuem.com|xbiquke.com|xdingdian.cc|xiaxs.info|xs5200.com|xszww8.net|xuanshu.org|xuessex.com|yqd6.com|yunxs.info|zjsw.org|zzs5.info
 @@||libs.baidu.com^$domain=m.supfree.net
 @@||linetv.tw^$generichide
+@@||linetv.tw^*/ad
 @@||linkbucks.com/tmpl/$image,stylesheet
 @@||liulanmi.com/wp-content/uploads/*/statcounter-
 @@||liumingye.cn^$generichide
@@ -6281,6 +6284,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 @@||popart.hk/newweb/$generichide
 @@||popin.cc/popin_discovery/recommend?$~third-party
 @@||portal.autotrader.co.uk/advert/$~third-party
+@@||powersports.honda.com/js/*/popup2.js$~third-party
 @@||prebid.adnxs.com^$xmlhttprequest,domain=go.cnn.com
 @@||preromanbritain.com/maxymiser/$~third-party
 @@||promo.com/embed/$subdocument
@@ -8273,6 +8277,7 @@ yydstxt*.com/js/html
 ||a6.hujiang.com^$domain=~class.hujiang.com
 ||a64x.com^$popup
 ||a7c.icu^
+||a7wiuh3she.com^
 ||a8h4zhbmxi.com^
 ||aa.avvo.com^
 ||aa.fapnado.xxx^
@@ -13829,6 +13834,7 @@ yydstxt*.com/js/html
 ||dn34cbtcv9mef.cloudfront.net^
 ||dn3uy6cx65ujf.cloudfront.net^
 ||dn4qoz.com^
+||dn6ik9809m.com^
 ||dn6rwwtxa647p.cloudfront.net^
 ||dn7u3i0t165w2.cloudfront.net^
 ||dn9uzzhcwc0ya.cloudfront.net^
@@ -13869,6 +13875,7 @@ yydstxt*.com/js/html
 ||dofap.com/banners/
 ||dog89nqcp3al4.cloudfront.net^
 ||dogfight360.com/usbeam/*_ad/
+||dogwoode09.top^
 ||doh.cq0.co^
 ||doii.cc/mmm/
 ||doinntz6jwzoh.cloudfront.net^
@@ -14501,6 +14508,7 @@ yydstxt*.com/js/html
 ||ejti.cn^
 ||ejuiashsateampl.info^$popup
 ||ejunshi.com^
+||ekzf.cn^
 ||ekzmk.icu^
 ||el.quizlet.com^
 ||eldaridpr.com^
@@ -16056,6 +16064,7 @@ yydstxt*.com/js/html
 ||gp.jstv.com^
 ||gp.zaiyunli.cn^
 ||gp123.cc/20*ad/
+||gpkheq.icu^
 ||gpt.mail.yahoo.net/sandbox$subdocument,domain=mail.yahoo.com
 ||gpt.milftube.mobi^
 ||gpt.throatbulge.com^
@@ -19904,6 +19913,7 @@ yydstxt*.com/js/html
 ||nbegame.com/nbeos/*.jpg
 ||nbfsvreu.icu^
 ||nbo-protect.pro^$popup
+||nbpczr.icu^
 ||nbraenkikrn.com^
 ||nbragzui.com^
 ||ncjqjp.icu^
@@ -20930,7 +20940,6 @@ yydstxt*.com/js/html
 ||pgmediaserve.com^$popup
 ||pgs.io^$third-party,domain=~publicgood.com
 ||pgyfzyv.top^
-||ph.thenextweb.com^
 ||phainoirs.com^
 ||phaitaghy.com^$popup
 ||pharmnet.com.cn/cnbanner/
@@ -22296,6 +22305,7 @@ yydstxt*.com/js/html
 ||rklzpo.com^
 ||rktjxj.icu^
 ||rkxy.com.cn/js/text_
+||rl1vypwyd2.com^
 ||rlogs.youdao.com^
 ||rltd.io/tags/
 ||rltdxt.com/files/h5/
@@ -25873,6 +25883,7 @@ yydstxt*.com/js/html
 ||vvadz.cc^
 ||vvd68pv6lj.com^
 ||vvfgjzwa.icu^
+||vvllrb.top^
 ||vvv.ieduw.com^
 ||vvvkp.com/template/ttk/img/
 ||vwdealerdigital.com/cdn/sd.js
@@ -27321,6 +27332,7 @@ yydstxt*.com/js/html
 ||zooplus.io/static/js/tracking-min.js
 ||zoosk.com/cs/tp.png?
 ||zordaustewhoh.com^$popup
+||zorkraith.com^
 ||zoukankan.com^$csp=script-src 'self' * 'unsafe-eval'
 ||zp365.com/newhousered/hb-index-pop-
 ||zpiyi.com/public/js/global.js
