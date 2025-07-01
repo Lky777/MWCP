@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiListChina
 ! Description: blocker for Chinese mobile site
-! Version: 202506301927
-! Last modified: 30 Jun 2025 19:27 UTC
+! Version: 202507011927
+! Last modified: 01 Jul 2025 19:27 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -3153,7 +3153,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /matomo-tracking.js
 /matomo.js$domain=~github.com
 /matomo.php
-/matomo/*$domain=~github.com|~hub.docker.com|~matomo.org|~wordpress.org
+/matomo/*$script,domain=~github.com|~hub.docker.com|~matomo.org|~wordpress.org
 /matomo_video_tracking.js
 /matongwu/img/gg_
 /maven/am.js$script
@@ -7841,6 +7841,7 @@ yydstxt*.com/js/html
 ||5mno3.com^$popup
 ||5pub.com^
 ||5s98.com/img/
+||5uazcu2o1.com^
 ||5vbs96dea.com^$popup
 ||5vdd.com/360
 ||5vdd.com/ktt.png
@@ -7976,6 +7977,7 @@ yydstxt*.com/js/html
 ||7mmtv.tv/u_banner/
 ||7o2l520r0a.com^
 ||7q1z79gxsi.global.ssl.fastly.net^
+||7rag9q1on.com^
 ||7scs.com/public/img/list-
 ||7tc.fun^
 ||7u4b8l1zt.com^
@@ -9198,6 +9200,7 @@ yydstxt*.com/js/html
 ||analytics.kaltura.com^
 ||analytics.kapost.com^
 ||analytics.klickly.com^
+||analytics.komiku.org^
 ||analytics.kongregate.io^
 ||analytics.lemoolah.com^
 ||analytics.livestream.com^
@@ -12747,6 +12750,7 @@ yydstxt*.com/js/html
 ||d2j71mqxljhlck.cloudfront.net^
 ||d2j74sjmqqyf26.cloudfront.net^
 ||d2jgbcah46jjed.cloudfront.net^
+||d2jgih9urxpa47.cloudfront.net^
 ||d2jgp81mjwggyr.cloudfront.net^
 ||d2jp0uspx797vc.cloudfront.net^
 ||d2jp87c2eoduan.cloudfront.net^
@@ -13759,6 +13763,7 @@ yydstxt*.com/js/html
 ||dlh8c15zw7vfn.cloudfront.net^
 ||dlig.cn^
 ||dljnjom9md7c.cloudfront.net/02/zara.js
+||dlk457skl57zp.cloudfront.net^
 ||dlkoo.cc/down/$subdocument
 ||dlkoo.cc/down/*.htm$popup
 ||dlkoo.cc/down/copy
@@ -15027,8 +15032,6 @@ yydstxt*.com/js/html
 ||fbvbrb.icu^
 ||fc.3dmgame.com^
 ||fc09u3zfm.com^
-||fc2.com/ana/analyzer.php
-||fc2.com/ana/processor.php?
 ||fc2.com/counter_img.php?
 ||fc2fan.net/js/check_focus.js
 ||fca6f.icu^
@@ -15607,6 +15610,7 @@ yydstxt*.com/js/html
 ||gaoqing.la/wp-content/uploads/*goovis
 ||gaoqing888.com/img/icmarkets.
 ||gaosan.com/js/b.js
+||gardenian8.top^
 ||gasaq.com/public/flash/
 ||gatehousemedia.com/wickedlocal/ip.js
 ||gateway.bridged.media/engagement/view
@@ -16203,6 +16207,7 @@ yydstxt*.com/js/html
 ||gucheng.com/gcwad/
 ||gucucmaikaups.com^$popup
 ||gucx.cn^
+||guekoe.icu^
 ||guess.h.qhimg.com^
 ||guesswhatnews.com^$popup
 ||guifudi.com^
@@ -16671,6 +16676,7 @@ yydstxt*.com/js/html
 ||hoopchina.com.cn/web/channel/voice/*/beforelogin/beforelogin.js
 ||hoopchina.com.cn/web/widget/partner/*/promote.js
 ||hoopchina.com.cn^*/ad-pc-sdk.
+||hoowuliz.com^$popup
 ||hop.clickbank.net^$script
 ||hopelessrolling.com^$popup
 ||hopghpfa.com^$popup
@@ -16926,6 +16932,7 @@ yydstxt*.com/js/html
 ||iaxmmw9fbx.com^
 ||ibb.co^$domain=ghostbin.me
 ||ibeeckaidse.net^$popup
+||iber07yk9.com^
 ||ibf.tw/js/jquery.blockui.js
 ||ibm.com/analytics/build/bluemix-analytics.min.js
 ||ibmcloud.com/collector/
@@ -20058,6 +20065,7 @@ yydstxt*.com/js/html
 ||ngfruitiesmatc.info^$popup
 ||nghv.cn^
 ||ngjcvn.top^
+||ngjfjf.icu^
 ||ngplansforourco.com^$popup
 ||ngpvan.com/v1/track/
 ||ngsinspiringtga.info^$popup
@@ -20294,6 +20302,7 @@ yydstxt*.com/js/html
 ||oalsauwy.net^$popup
 ||oamsedsaiph.net^$popup
 ||oaokes.icu^
+||oaox.cn^
 ||oaphoace.net^$popup
 ||oassackegh.net^$popup
 ||oataltaul.com^$popup
@@ -20791,6 +20800,7 @@ yydstxt*.com/js/html
 ||paulastroid.com^$popup
 ||paxsfiss.com^$popup
 ||paxxfiss.com^$popup
+||pay4fans.com/api/analytics
 ||payments-amazon.com^*/analytics.js
 ||payments.amazon.com/cs/uedata
 ||paypal.com/credit-presentment/glog?
@@ -24947,6 +24957,7 @@ yydstxt*.com/js/html
 ||tripadvisor.*/wm/record
 ||tripcdn.com/bee/collect$domain=trip.com
 ||triplewhale-pixel.web.app^
+||tristaspd.com^
 ||tritondigital.com/ondemand/impression?
 ||trivago.com/tracking/
 ||trjfoagf.icu^
@@ -25495,6 +25506,7 @@ yydstxt*.com/js/html
 ||uu22662.com^
 ||uuaisp.com^
 ||uuajq.top^
+||uub6hz5eu.com^
 ||uucatiqnd.com^
 ||uucnmtt.top^
 ||uucnwtt.top^
