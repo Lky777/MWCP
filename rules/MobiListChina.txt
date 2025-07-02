@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiListChina
 ! Description: blocker for Chinese mobile site
-! Version: 202507011927
-! Last modified: 01 Jul 2025 19:27 UTC
+! Version: 202507021927
+! Last modified: 02 Jul 2025 19:27 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -4965,7 +4965,6 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /wp-content/plugins/amazon-auto-links/*$script,stylesheet
 /wp-content/plugins/amazon-product-in-a-post-plugin/
 /wp-content/plugins/automatic-social-locker/
-/wp-content/plugins/ays-popup-box/
 /wp-content/plugins/banner-manager/*$script
 /wp-content/plugins/bookingcom-banner-creator/
 /wp-content/plugins/bookingcom-text2links/
@@ -7613,7 +7612,6 @@ yydstxt*.com/js/html
 ||3lo.icu^
 ||3movs.com/2ff/
 ||3movs.xxx/2ff/
-||3naked.com/nb/
 ||3ni.icu^
 ||3p-geo.yahoo.com^
 ||3p-udc.yahoo.com^
@@ -7657,6 +7655,7 @@ yydstxt*.com/js/html
 ||47.100.0.249/js/thea
 ||477zw.com/js/nzm
 ||484r.com/images/flash/gallery_
+||4aqoxkesav.com^
 ||4b6994dfa47cee4.com^$popup
 ||4bfx0u.com^
 ||4ce.fun^
@@ -8209,7 +8208,6 @@ yydstxt*.com/js/html
 ||a.mobify.com^
 ||a.nowscore.com^
 ||a.oh100.com^
-||a.picsnakedgirls.com^
 ||a.qinghua5.com^
 ||a.qncye.net^
 ||a.qsjiajiao.com^
@@ -10243,7 +10241,6 @@ yydstxt*.com/js/html
 ||bestcontentaccess.top^$popup
 ||bestcontentfood.top^$popup
 ||bestconvertor.club^$popup
-||bestdatinghere.life^$popup
 ||bestgames-2022.com^$popup
 ||bestlittlesites.com/plugins/advertising/getad/
 ||bestonlinecasino.club^$popup
@@ -10747,6 +10744,7 @@ yydstxt*.com/js/html
 ||buzzhand.com/images/$subdocument
 ||buzzonclick.com^$popup
 ||bvcnmtv.top^
+||bvek.cn^
 ||bvubasnf.com^
 ||bvzc.cn^
 ||bw66.cn/template/default_pc/bbs/
@@ -10812,7 +10810,6 @@ yydstxt*.com/js/html
 ||c.paypal.com^$image,script
 ||c.seksohub.com^
 ||c.thredup.com^
-||c.tubegf.tv^
 ||c.tvsou.com^
 ||c.vanityfair.com^
 ||c.vogue.com^
@@ -11968,8 +11965,6 @@ yydstxt*.com/js/html
 ||cpmstar.com/cached/
 ||cpmstar.com/view.aspx
 ||cpmterra.com^$popup
-||cpng.lol.^$popup
-||cpng.lol^$popup
 ||cpplay.com/inc/
 ||cpro.$domain=~baidu.com
 ||cpro.baidu.com^
@@ -12477,6 +12472,7 @@ yydstxt*.com/js/html
 ||d1p0vowokmovqz.cloudfront.net^
 ||d1p3zboe6tz3yy.cloudfront.net^
 ||d1p7gp5w97u7t7.cloudfront.net^
+||d1pc1a0g34.com^
 ||d1pdf4c3hchi80.cloudfront.net^
 ||d1pmhihatyvp1k.cloudfront.net^
 ||d1pn3cn3ri604k.cloudfront.net^
@@ -14892,7 +14888,6 @@ yydstxt*.com/js/html
 ||ezcgojaamg.com^$popup
 ||ezdownloadpro.info^$popup
 ||ezmob.com^$popup
-||ezofferz.com^$popup
 ||ezoic.net/ezqlog?
 ||ezprice.com.tw/ezysm/
 ||ezprice.com.tw/js/*_ysm_
@@ -15218,7 +15213,6 @@ yydstxt*.com/js/html
 ||flixcdn.com^*/track.js
 ||flixgvid.flix360.io^
 ||flixster.com^*/analytics.
-||flndmyiove.net^$popup
 ||flocdn.com/*/ads-coordinator/
 ||flocdn.com^*/dpl/
 ||flocktory.com^*/tracks/
@@ -15625,7 +15619,6 @@ yydstxt*.com/js/html
 ||gay-hotvideo.net^
 ||gay.bingo/agent.php
 ||gay4porn.com/ai/
-||gayfinder.life^$popup
 ||gayforfans.com^*.php|$script
 ||gaygo.tv/gtv/frms/
 ||gays-cruising.com/nb/
@@ -15837,7 +15830,6 @@ yydstxt*.com/js/html
 ||gimy.*/images/eee*.png
 ||giosg.com^*/public/trace/
 ||giphaudoq.com^
-||girlsfuck-tube.com/js/aobj.js
 ||girlsofdesire.org/blr3.php
 ||girlsofdesire.org/flr2.js
 ||girlsofdesire.org/flr6.js
@@ -16709,13 +16701,11 @@ yydstxt*.com/js/html
 ||hotmovs.com/fzzgbzhfm/
 ||hotmovs.com/suhum/
 ||hotpads.com/node/api/comscore
-||hotplay-games.life^$popup
 ||hotstar.com/v1/identify
 ||hotstar.com/v1/track
 ||hotstar.com^*/midroll?
 ||hotstar.com^*/preroll?
 ||hottest-girls-online.com^$popup
-||hottesvideosapps.com^$popup
 ||hottystop.com/f9de7147b187.js
 ||hottystop.com/t33638ba5008.js
 ||hotxpromo.com^$popup
@@ -17359,6 +17349,7 @@ yydstxt*.com/js/html
 ||interestingengineering.com/partial/connatix_desktop.html
 ||internal-analytics.odoo.com^
 ||internal-e.posthog.com^
+||internal-t.posthog.com^
 ||internationalsexguide.nl/banners/
 ||internationalsexguide.nl/forum/clientscript/popunderisg.js
 ||internetfuel.com/tracking/
@@ -17468,7 +17459,6 @@ yydstxt*.com/js/html
 ||irutvnco.top^
 ||isabellagodpointy.com^$popup
 ||isacglobal.com/sa.js
-||isanalyze.com^$popup
 ||isawthenews.com^$popup
 ||isc-tracking.eventim.com^
 ||isdspeed.qq.com/
@@ -17637,6 +17627,7 @@ yydstxt*.com/js/html
 ||japfg-trending-content.uc.r.appspot.com^
 ||jas.indeednps.com^
 ||jashautchord.com^$popup
+||jasmined544.com^
 ||jauql.top^
 ||jav-bukkake.net/images/download-bukkake.jpg
 ||jav.sb/videojs/300x100.php
@@ -18059,7 +18050,6 @@ yydstxt*.com/js/html
 ||k1.dancihu.com^
 ||k1.wanwenwan.cn^
 ||k1.wendahu.com^
-||k2s.tv/cu.js
 ||k42.fun^
 ||k5a.io/?i=
 ||k5uj.icu^
@@ -18269,7 +18259,6 @@ yydstxt*.com/js/html
 ||kostool.cn/screenshot/
 ||koublid.top^
 ||kour.io/api/track
-||koushoku.org/proxy?
 ||kowj.cn^
 ||koyi.pub/wp-content/plugins/dh-anti-adblocker/
 ||koyso.com/aclib.js
@@ -18277,6 +18266,7 @@ yydstxt*.com/js/html
 ||kppt.cc/zb_system/script/common.js
 ||kppt.cc/zhifu.jpg
 ||kpshx.douguo.com^
+||kqefj.clearstem.com^
 ||kqgn.cn^
 ||krikului.com^
 ||krinkred.com^
@@ -18374,7 +18364,6 @@ yydstxt*.com/js/html
 ||l936.expressnews.com^
 ||lacquerreddeform.com^$popup
 ||lactasetooth.shop^$popup
-||lacyx.com/images/banners/
 ||ladrecaidroo.com^$popup
 ||lady177.com^$popup
 ||ladyboygoo.com/lbg/banners/
@@ -18533,6 +18522,7 @@ yydstxt*.com/js/html
 ||lfhthokieryf.com^
 ||lfkheedokhld.com^
 ||lfrdskwj.icu^
+||lftce.clearstem.com/load
 ||lftcph.icu^
 ||lgforbes.akamaized.net/rtblog.php?
 ||lgkocdi.icu^
@@ -18725,7 +18715,6 @@ yydstxt*.com/js/html
 ||lmp3.org^$popup
 ||lms.roblox.com^
 ||lmvotk.cn^
-||lncredlbiedate.com^$popup
 ||lnd.com.cn/sys/real_calc.js
 ||lnk8j7.com^$popup
 ||lnkd.in/li/track
@@ -19582,7 +19571,6 @@ yydstxt*.com/js/html
 ||mop.com/newindex/gg.html
 ||mopoga.com/img/aff_
 ||moqdy.icu^
-||moradu.com^$popup
 ||moratame.tw/img/contents/banner
 ||mordoops.com^$popup
 ||more1.biz^$popup
@@ -19742,6 +19730,7 @@ yydstxt*.com/js/html
 ||mwurserx.top^
 ||mwzbp.iask.com.cn^
 ||mx.eneba.com^
+||mxafaw.icu^
 ||mxmfb.com/rsps/img/
 ||mxzmz.com/js/
 ||my-promo7.com^$popup
@@ -20575,6 +20564,7 @@ yydstxt*.com/js/html
 ||orgassme.com^$popup
 ||orgyxxxhub.com/js/965eka57.js
 ||orgyxxxhub.com/js/arjlk.js
+||orgyxxxhub.com/js/wcwov.js
 ||orkreats.com^
 ||orlowedonhisdhilt.info^$popup
 ||orodsmnu.com^
@@ -21038,7 +21028,6 @@ yydstxt*.com/js/html
 ||pingwest.com/api/news_ad
 ||pingwest.com/wp-content/uploads/*/ad.jpg
 ||pinjzp.icu^
-||pinkberrytube.com^$popup
 ||pinkmonkey.com/includes/right-ad-columns.html
 ||pinkoi.com/_log/
 ||pinkvilla.com/comscore_response.php
@@ -21169,7 +21158,6 @@ yydstxt*.com/js/html
 ||player-metrics.instaread.co^
 ||player-telemetry.vimeo.com^
 ||player.javboys.cam/cdn-cgi/trace
-||player.javboys.cam/js/script_
 ||player.ooyala.com/errors/report?
 ||players.brightcove.net^$script,domain=military.com|pedestrian.tv
 ||players.radioonlinehd.net^$domain=flamecomics.xyz
@@ -21296,7 +21284,6 @@ yydstxt*.com/js/html
 ||pornjam.com/assets/js/renderer.
 ||pornjv.com/doe/
 ||pornktube.tv/js/kt.js
-||pornmastery.com/*/img/banners/
 ||pornmix.org/cs/
 ||porno666.com/code/script/
 ||pornogramxxx.com/out/
@@ -21356,6 +21343,7 @@ yydstxt*.com/js/html
 ||pptv.com/webdelivery/
 ||ppx.com/tracking/
 ||ppxndfgf.icu^
+||pq9alk18ik.com^
 ||pqav.cn^
 ||pqfpvb.icu^
 ||pqnonh.top^
@@ -21482,6 +21470,7 @@ yydstxt*.com/js/html
 ||propsid.b-cdn.net^
 ||protect-your-privacy.net^$popup
 ||protected-redirect.click^
+||protectflow.life^$popup
 ||proto2ad.durasite.net^
 ||protrckit.com^$popup
 ||provenpixel.com^$popup
@@ -23262,7 +23251,6 @@ yydstxt*.com/js/html
 ||sonimei.cn/images/llq.png
 ||sonimei.cn/qipai.jpg
 ||sonkransme.com^
-||sonorousporn.com/nb/
 ||soocaips.com^$popup
 ||sooopu.com/asphtml/plnew.
 ||sooopu.com/js/*950.js
@@ -24459,6 +24447,7 @@ yydstxt*.com/js/html
 ||tj.21ic.com^
 ||tj.ali213.net/
 ||tj.img4399.com^
+||tjfavx.icu^
 ||tjimtyi.top^
 ||tjj.com^
 ||tjoomo.com^$popup
@@ -24548,7 +24537,6 @@ yydstxt*.com/js/html
 ||tongji.xinmin.cn^
 ||tonnn.com/promotion2/*.js
 ||tonsilsuggestedtortoise.com^$popup
-||tool.acces-vod.com^
 ||toolfk.com/common/zfb.jpg
 ||toonujoops.net^$popup
 ||toopsoug.net^$popup
@@ -24900,7 +24888,6 @@ yydstxt*.com/js/html
 ||trafficmoon.com^$popup
 ||trafficmoose.com^$popup
 ||trafficstars.com^$popup
-||traffictraffickers.com^$popup
 ||trafforsrv.com^$popup
 ||traffrout.com^$popup
 ||trafyield.com^$popup
@@ -25561,6 +25548,7 @@ yydstxt*.com/js/html
 ||v1.taksh.cn^
 ||v1.wphonelife.com^
 ||v2ex.assets.uxengine.net/assets/sidebar/$image
+||v2ex.com/pro/emitter
 ||v2rayssr.com/wp-content/plugins/eazy-
 ||v3cars.com/load-ads.php
 ||v4p.fun^
@@ -26762,7 +26750,6 @@ yydstxt*.com/js/html
 ||xxf.mobi/hit
 ||xxffo.com^*_slett.php
 ||xxhh.com/xh.js
-||xxlargepop.com^$popup
 ||xxooos.com/mm/
 ||xxqmtod.icu^
 ||xxsmad5.com^
@@ -26773,7 +26760,6 @@ yydstxt*.com/js/html
 ||xxxbox.me/vcrtlrvw
 ||xxxdessert.com/34l329_fe.js
 ||xxxfetish24.com/helper/tos.js
-||xxxgirlspics.com/load.js
 ||xxxjmp.com^$popup
 ||xxxmatch.com^$popup
 ||xxxshake.com/assets/f_load.js
@@ -26904,6 +26890,7 @@ yydstxt*.com/js/html
 ||ygipjqf.icu^
 ||ygoibya.icu^
 ||ygshu.com/js/h
+||yhak0o7rtz.com^
 ||yhbcii.com^$popup
 ||yhdm335.com/piao/
 ||yhdm44.com/123.html
