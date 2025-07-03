@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiListChina
 ! Description: blocker for Chinese mobile site
-! Version: 202507021927
-! Last modified: 02 Jul 2025 19:27 UTC
+! Version: 202507031926
+! Last modified: 03 Jul 2025 19:26 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -1715,6 +1715,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /cjsh.js|
 /cklog.js
 /click-tracking.js
+/click.php?lp=data_upd&
 /click/impression?
 /click?adv=
 /click?track=
@@ -4370,7 +4371,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /swlapi/stats|
 /sxgg/12.js
 /sxgg/13
-/sxp/i/*$script
+/sxp/i/*$script,domain=~linkvertise.com
 /sygg/$subdocument
 /symplr-analytics-
 /sync?visitor_id=
@@ -7489,6 +7490,7 @@ yydstxt*.com/js/html
 ||2u1h56851n.top^
 ||2ueb.cn^
 ||2watchmygf.com/spot/
+||2wq9u06jq.com^
 ||2wt.icu^
 ||2yjw.com/statics/js/jquery.min.
 ||2za.fun^
@@ -9933,6 +9935,7 @@ yydstxt*.com/js/html
 ||bakabok.com^$popup
 ||bakjaqa.net^$popup
 ||baldo-toj.com^$popup
+||balerdoits.com^
 ||balili2024.top^
 ||balldollars.com^$popup
 ||ballive.*/addm/
@@ -14405,6 +14408,7 @@ yydstxt*.com/js/html
 ||ecma.bdimg.com^
 ||ecmb.bdimg.com^
 ||ecomm.events^
+||ecommerce-events.adscale.com^
 ||ecommstats.s3.amazonaws.com^
 ||ecpoc.com/style/ad
 ||ecrwqu.com^$popup
@@ -14509,6 +14513,7 @@ yydstxt*.com/js/html
 ||ejti.cn^
 ||ejuiashsateampl.info^$popup
 ||ejunshi.com^
+||eknz.cn^
 ||ekzf.cn^
 ||ekzmk.icu^
 ||el.quizlet.com^
@@ -15171,6 +15176,7 @@ yydstxt*.com/js/html
 ||fitcenterz.com^$popup
 ||fittiercutlets.top^$popup
 ||fittingcentermondaysunday.com^$popup
+||fiu07031kl.com^
 ||fiverr.com/api/v1/activities
 ||fj.sina.com.cn/iframe/63/
 ||fjisu.*/js/huimi.js
@@ -16339,6 +16345,7 @@ yydstxt*.com/js/html
 ||hauqou.top^
 ||haveameet.com^$popup
 ||havegrosho.com^$popup
+||hawthorng66.top^
 ||haymarket.com/injector/deliver/
 ||hazoopso.net^$popup
 ||hb.vhsrv.com^
@@ -17601,6 +17608,7 @@ yydstxt*.com/js/html
 ||j.diangon.com^
 ||j1.piaobing.com^
 ||j198.registercitizen.com^
+||j2jtq0hpb.com^
 ||j7c16.icu^
 ||j8jp.com/fhfjfj.js
 ||j927.statnews.com^
@@ -18104,6 +18112,7 @@ yydstxt*.com/js/html
 ||kau.li/yad.js
 ||kauriessizzler.shop^$popup
 ||kawai-jav.com/en/load-ads?
+||kawxkg.icu^
 ||kayak.*/vestigo/measure
 ||kayege.org/js/
 ||kb-render.alicdn.com/html/*.html
@@ -18441,6 +18450,7 @@ yydstxt*.com/js/html
 ||ldamcsl.top^
 ||ldb.cc/js/top.js
 ||ldbnhd.icu^
+||ldbwxo.cn^
 ||ldinmal.top^
 ||ldipsuml.top^
 ||ldjfsdku.icu^
@@ -21646,6 +21656,7 @@ yydstxt*.com/js/html
 ||q2usj.icu^
 ||q5sn40kmp2.com^
 ||q777.sfchronicle.com^
+||q83v5haaz.com^
 ||q8ntfhfngm.com^$popup
 ||q8q.icu^
 ||qa6z7kz5r.com^
@@ -21653,6 +21664,7 @@ yydstxt*.com/js/html
 ||qaemphaels.com^
 ||qaxl.cn^
 ||qayqa.com:6868/jquery/
+||qbcyr5tfd.com^
 ||qbox.me/flnvidueio_lrxygiol0ofw0gpa7
 ||qbox.me/fnjnjjhjzlkzegj7qv1aocqusfbf
 ||qbox.me/vds.js
@@ -22310,6 +22322,7 @@ yydstxt*.com/js/html
 ||rltdxt.com/files/h5/
 ||rm.sina.com.cn/$script,subdocument
 ||rmaticalacm.info^$popup
+||rmbsfh.icu^
 ||rmhfrtnd.com^$popup
 ||rmioswx.icu^
 ||rmtxdn.icu^
@@ -25638,6 +25651,7 @@ yydstxt*.com/js/html
 ||vgxj.cn^
 ||vh8.icu^
 ||vhanime.com/js/bnanime.js
+||vhaugmotn.com^
 ||vhid.cn^
 ||vhje.cn^
 ||vhrhnh.icu^
@@ -26491,6 +26505,7 @@ yydstxt*.com/js/html
 ||x0or8.icu^
 ||x0r.urlgalleries.net^
 ||x1.52aoteman.com^
+||x1c9gze9i.com^
 ||x21.cn/service/feeds.
 ||x2tsa.com^$popup
 ||x360xs.com/tops/
