@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiListChina
 ! Description: blocker for Chinese mobile site
-! Version: 202507042329
-! Last modified: 04 Jul 2025 23:29 UTC
+! Version: 202507051926
+! Last modified: 05 Jul 2025 19:26 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -5343,6 +5343,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 ?wpstealthadsjs=
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@$generichide,domain=vidoza.co|vidoza.net
+@@&http_referer=$domain=chaopx.com
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
 @@.com/ad.aspx|$domain=xdingdian.cc
@@ -6520,6 +6521,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 @@||tvb.com^*/videojs.ads.
 @@||tvbanywherena.com^$generichide
 @@||twitch.tv^$generichide
+@@||txws.yyzb456.top^$domain=857zb7.tv
 @@||udnplay.com/js/momo/adsbygoogle.js
 @@||udp2p.com^$generichide
 @@||ui.ads.microsoft.com^$~third-party
@@ -9831,6 +9833,7 @@ yydstxt*.com/js/html
 ||b5media.com/bbpixel.php
 ||b629.electronicdesign.com^
 ||b7tp47v2nb3x-a.akamaihd.net^
+||b8b4ix7bj.com^
 ||b8cdn.com/assets/v1/analytics-
 ||b8ms7gkwq7g.crocotube.com^
 ||ba-bamail.com/handlers/stats.ashx
@@ -13763,6 +13766,7 @@ yydstxt*.com/js/html
 ||dj97.com/api.php?mod=ad&
 ||djecgyk.icu^
 ||djfp97jp7v.com^
+||djhfkcfrdxv.com^
 ||djljz.cn/plugins/template/xjly/js/app.
 ||djm080u34wfc5.cloudfront.net^
 ||djnaivalj34ub.cloudfront.net^
@@ -15213,6 +15217,8 @@ yydstxt*.com/js/html
 ||fittingcentermondaysunday.com^$popup
 ||fiu07031kl.com^
 ||fiu07041kl.com^
+||fiu07050kl.com^
+||fiu07051kl.com^
 ||fiverr.com/api/v1/activities
 ||fj.sina.com.cn/iframe/63/
 ||fjisu.*/js/huimi.js
@@ -16228,6 +16234,7 @@ yydstxt*.com/js/html
 ||gtm.lercio.it^
 ||gtm.wise.com^
 ||gtmfsstatic.getgoogletagmanager.com^
+||gtokii.icu^
 ||gtpso.com/home/topsdk/getfavcoupitems
 ||gtreus.aliexpress.com^
 ||gtrk.s3.amazonaws.com^
@@ -18840,6 +18847,7 @@ yydstxt*.com/js/html
 ||logs-api.shoprunner.com^
 ||logs.51cto.com^
 ||logs.animaapp.com^
+||logs.dynamicauth.com^
 ||logs.hotstar.com^
 ||logs.mezmo.com^
 ||logs.naukri.com^
@@ -19074,6 +19082,7 @@ yydstxt*.com/js/html
 ||magmafurnace.top^$popup
 ||magnetdog.net^$popup
 ||magnify.net/decor/track/
+||magnolian07.top^
 ||magsrv.com^$popup
 ||mahoupao.com/api.php?mod=ad&
 ||mahua.com/api/$subdocument
@@ -20086,6 +20095,7 @@ yydstxt*.com/js/html
 ||nfmovies.com/pic/tu/banner
 ||nfmovies.com/static/*.jpg
 ||nfmovies.com/static/210203.png
+||nftfdj.icu^
 ||nftxfd.top^
 ||nfuwow.com/static/nfuwow/source/front/new/images/
 ||nfydd.com/template/wap1/js/dd.js
@@ -20350,6 +20360,7 @@ yydstxt*.com/js/html
 ||oct8ne.com/visitor/
 ||octaneai.com^*/utrk
 ||ocular.hotukdeals.com^
+||ocvr.cn^
 ||oda.markitondemand.com^
 ||odalrevaursartu.net^$popup
 ||odamcsk.top^
@@ -20788,6 +20799,7 @@ yydstxt*.com/js/html
 ||panpan.org/other/
 ||panpan.org/plus/img/
 ||pansoso.com^*pss.
+||pantyhosecool.com/rtig/
 ||pantyhosepornstars.com/foon/pryf003.js
 ||panyh123456.cn^
 ||paopaoche.net/public/bd/article_inc.js
@@ -21082,6 +21094,7 @@ yydstxt*.com/js/html
 ||pipsol.net^$popup
 ||pirateiro.com^$csp=script-src 'self' 'unsafe-inline' https://hcaptcha.com *.hcaptcha.com
 ||pirogad.tophosting101.com^
+||pisauc.cn^
 ||pisb.cn^
 ||pisism.com^$popup
 ||pisshamster.com/prerolls/
@@ -21725,6 +21738,7 @@ yydstxt*.com/js/html
 ||qdqppsl.top^
 ||qdross.com/vip/
 ||qduttornm.com^
+||qdwhru8p2.com^
 ||qdwmdikzudq.com^
 ||qdzyspjx.com^
 ||qebgcdcjr000.fun^
@@ -25240,6 +25254,7 @@ yydstxt*.com/js/html
 ||u1055.com^
 ||u1077.com^
 ||u1099.com^
+||u10nte4ba.com^
 ||u1102.com^
 ||u1pmt.com^$popup
 ||u22011.com^
