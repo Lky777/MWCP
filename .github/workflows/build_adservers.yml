@@ -1,0 +1,42 @@
+name: build adservers.txt
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'source/top100k.txt'
+      - 'source/top100k250623.txt'
+
+permissions:
+  contents: write
+
+jobs:
+  update-filter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run update script
+        run: |
+          bash scripts/DomainExclusion.sh
+          python3 scripts/BuildAdservers.py
+
+      - name: Commit and push changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: GitHub Actions
+          author_email: actions@github.com
+          message: "Auto-update: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          add: "rules/adservers.txt"
+          detect_unchanged: true
+
+      - name: Final cleanup
+        if: always()
+        run: |
+          rm -rf rules/ scripts/ source/

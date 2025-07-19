@@ -1,0 +1,28 @@
+name: Delete old workflow runs
+on:
+  schedule:
+    - cron: '48 19 * * *'
+  workflow_dispatch:
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install GitHub CLI and jq
+        run: |
+          sudo apt update
+          sudo apt install -y jq
+          curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | \
+            sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg
+          echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | \
+            sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null
+          sudo apt update
+          sudo apt install -y gh
+
+      - name: Delete runs (keep last 4)
+        run: |
+          gh api repos/${{ github.repository }}/actions/runs --paginate | \
+            jq -r '.workflow_runs[4:] | .[].id' | \
+            xargs -I{} gh api repos/${{ github.repository }}/actions/runs/{} -X DELETE
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

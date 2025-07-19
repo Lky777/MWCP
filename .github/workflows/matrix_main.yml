@@ -1,0 +1,51 @@
+name: Update Ad Filters
+
+on:
+  schedule:
+    - cron: '08 19 * * *'  # everyday UTC 19:08（BeiJing Time 03:08）
+  workflow_dispatch:
+  push:
+    paths:
+      - 'rules/supple.txt'
+
+permissions:
+  contents: write
+
+jobs:
+  update-filter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run update script
+        run: |
+          bash scripts/matrix_get.sh
+          bash scripts/matrix_lighten.sh
+          bash scripts/matrix_fuel.sh
+          echo "::notice::Running iterative deduplication..."
+          python scripts/IterativeDeduplication.py
+          bash scripts/matrix_launch.sh
+
+      - name: Commit and push changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: GitHub Actions
+          author_email: actions@github.com
+          message: "Auto-update: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          add: "rules/MobiList.txt"
+
+      - name: Refresh jsDelivr cache
+        run: |
+          curl -sfL "https://purge.jsdelivr.net/gh/Lky777/MWCP/rules/MobiList.txt"
+          curl -sfL "https://cdn.jsdelivr.net/gh/Lky777/MWCP/rules/MobiList.txt?$(date +%s)" >/dev/null
+
+      - name: Final cleanup
+        if: always()
+        run: |
+          rm -rf rules/ easylist/ scripts/
