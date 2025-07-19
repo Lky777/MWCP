@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202507181927
-! Last modified: 18 Jul 2025 19:27 UTC
+! Version: 202507191925
+! Last modified: 19 Jul 2025 19:25 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -590,6 +590,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 .tiaosa.
 .tjq.
 .tlvmedia.
+.today/process.js?id=
 .top/ad-
 .top/api.php?mod=ad&
 .top/cuid/?$third-party
@@ -6628,6 +6629,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 @@||kanalfrederikshavn.dk^*/jquery.openx.js?
 @@||kayixin.com^*/advert
 @@||kehai.com/front/dist/app/site/list/advertisement.js
+@@||keibana.com/wp-content/uploads/*/300x250_$~third-party
 @@||kejilion.pro^$generichide
 @@||kf.cn/ad/css/*.*.
 @@||kf.cn/ad/css/*.css
@@ -7288,6 +7290,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 @@||xhamster.com^$script,~third-party
 @@||xhamster.desi^$script,~third-party
 @@||xhamster1.desi^$script,~third-party
+@@||xhamster2.com^$script,~third-party
 @@||xhamster3.com^$script,~third-party
 @@||xhbig.com^$script,~third-party
 @@||xhbranch5.com^$script,~third-party
@@ -8624,6 +8627,7 @@ yydstxt*.com/js/html
 ||4e4356b68404a5138d2d-33393516977f9ca8dc54af2141da2a28.ssl.cf1.rackcdn.com/sa7d76sa/
 ||4e9ynqm47d.com^
 ||4f.to/spns/
+||4f3tsea1m.com^
 ||4fr.icu^
 ||4fs3r.icu^
 ||4gamers.com.tw/ads-
@@ -11832,6 +11836,7 @@ yydstxt*.com/js/html
 ||auy07170km.com^
 ||auy07180km.com^
 ||auy07181km.com^
+||auy07190km.com^
 ||av-wiki.net^
 ||av-yoyo.com/images/*.gif
 ||av.sharktube.net^
@@ -14045,6 +14050,7 @@ yydstxt*.com/js/html
 ||caohv.com/mm/
 ||caoimgs.com/images/*.gif
 ||caomeixz7.xyz^
+||caonimazuzong.com^
 ||capital.bg^
 ||capitaland.com^
 ||capitalone.com/collector/
@@ -21868,6 +21874,7 @@ yydstxt*.com/js/html
 ||gmx.es^
 ||gmxvmvptfm.com^$popup
 ||gn01.top^
+||gn6u494hn.com^
 ||gnar.grammarly.com^
 ||gnavi.co.jp/analysis/
 ||gnet.tn^
@@ -22727,6 +22734,7 @@ yydstxt*.com/js/html
 ||healthsync.app^
 ||healthypenis2003.org^
 ||healthyplanetcanada.com^
+||healthys09.top^
 ||heap.drop.com^
 ||heapevents.info^
 ||hearstapps.com/moapt/moapt-hdm.latest.js
@@ -25340,6 +25348,7 @@ yydstxt*.com/js/html
 ||js.duotegame.com^
 ||js.ea3w.com/pv.js
 ||js.entm.top^
+||js.eroticmv.com^
 ||js.gov.cfd^
 ||js.kakuyomu.in^
 ||js.kkraw.com^
@@ -30007,6 +30016,7 @@ yydstxt*.com/js/html
 ||ofu-eko.online^
 ||ofu-ojy.store^
 ||ofuti-hyguh.store^
+||ofwq.cn^
 ||ogads-pa.googleapis.com^
 ||oge-azuco.store^
 ||ogfvadunon.com^
@@ -36226,6 +36236,7 @@ yydstxt*.com/js/html
 ||swaterb.top^
 ||swathedneural.shop^$popup
 ||swcnmtb.top^
+||swedmo.icu^
 ||sweed.app^
 ||sweetdeal.dk^
 ||sweetdream.net.ru^
