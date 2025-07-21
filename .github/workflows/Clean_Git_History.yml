@@ -1,0 +1,33 @@
+name: Clean Git History
+
+on:
+  schedule:
+    - cron: '48 18 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  clean-history:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Execute Cleanup
+        run: |
+          wget -q https://repo1.maven.org/maven2/com/madgag/bfg/1.15.0/bfg-1.15.0.jar
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          java -jar bfg-1.15.0.jar --delete-files * --no-blob-protection
+          git reflog expire --expire=now --all
+          git gc --prune=now --aggressive
+          rm -f bfg-1.15.0.jar*
+          git checkout --orphan temp_branch
+          git add -A
+          git commit -m "Initial commit"
+          git branch -D main
+          git branch -m main
+          git push -f origin main
