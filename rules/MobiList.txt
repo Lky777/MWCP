@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202507201925
-! Last modified: 20 Jul 2025 19:25 UTC
+! Version: 202507211929
+! Last modified: 21 Jul 2025 19:29 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -5432,7 +5432,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 ://dwh-prod.*/de.npg/
 ://elqtrk.
 ://fallback.*/collector
-://fathom.$domain=~fathom.fm|~fathom.info|~fathom.io|~fathom.lib.uchicago.edu|~fathom.org|~fathom.video|~fathom.world|~fathomdelivers.com|~fathomseo.com|~usesfathom.com
+://fathom.$domain=~fathom.care|~fathom.fm|~fathom.info|~fathom.io|~fathom.lib.uchicago.edu|~fathom.org|~fathom.video|~fathom.world|~fathomdelivers.com|~fathomseo.com|~usesfathom.com
 ://gtm.*.js?st=
 ://gtrack.*/dye
 ://insights-collector.
@@ -9133,6 +9133,7 @@ yydstxt*.com/js/html
 ||888promos.com^$popup
 ||888win62.com^
 ||888xx222kk.com^
+||88ad.top^
 ||88liu.com/data/attachment/portal/
 ||88lmfff666.com^
 ||88p2p.com^$popup
@@ -11842,6 +11843,8 @@ yydstxt*.com/js/html
 ||auy07190km.com^
 ||auy07200km.com^
 ||auy07201km.com^
+||auy07210km.com^
+||auy07211km.com^
 ||av-wiki.net^
 ||av-yoyo.com/images/*.gif
 ||av.sharktube.net^
@@ -12058,6 +12061,7 @@ yydstxt*.com/js/html
 ||backchina.com/banners/
 ||backcountry.com/api/log
 ||backend.academy.cs.cmu.edu/api/v0/event/
+||backend.leadconnectorhq.com/forms/form-survey-event
 ||backend.verbolia.com/content/js/velw.min.js
 ||backgroundrunway.com^$popup
 ||backgrounds.wetransfer.net$image
@@ -15026,7 +15030,6 @@ yydstxt*.com/js/html
 ||cloudfront.net*/sp.js|
 ||cloudfront.net*/tracker.js
 ||cloudfront.net*/trk.js
-||cloudfront.net./script.js
 ||cloudfront.net/?a=
 ||cloudfront.net/?dfcdd=
 ||cloudfront.net/abw.js
@@ -15057,7 +15060,6 @@ yydstxt*.com/js/html
 ||cloudfront.net/public/external/v2/htmlxf.
 ||cloudfront.net/rc.js?
 ||cloudfront.net/rum/bacon.min.js
-||cloudfront.net/script.js
 ||cloudfront.net/scripts/cookies.js
 ||cloudfront.net/sentinel.js
 ||cloudfront.net/sitegainer_
@@ -15559,6 +15561,7 @@ yydstxt*.com/js/html
 ||consensussa.com^
 ||consent.api.osano.com/record
 ||consent.ghostery.com/v1.js
+||consent.trustarc.com/analytics?
 ||consent.trustarc.com/bannermsg?
 ||consent.trustarc.com/noticemsg?
 ||console-telemetry.oci.oraclecloud.com^
@@ -16242,6 +16245,7 @@ yydstxt*.com/js/html
 ||d149mkdvjofx4v.cloudfront.net^
 ||d14l1tkufmtp1z.cloudfront.net^
 ||d14osandwrs90r.cloudfront.net^
+||d14pdm1b7fi5kh.cloudfront.net/script.js
 ||d14x46ho6sn9yf.cloudfront.net^
 ||d14zhsq5aop7ap.cloudfront.net^
 ||d154nw1c88j0q6.cloudfront.net^
@@ -16639,6 +16643,7 @@ yydstxt*.com/js/html
 ||d2a80scaiwzqau.cloudfront.net^
 ||d2b12e9gh7m9il.cloudfront.net^
 ||d2b4jmuffp1l21.cloudfront.net^
+||d2badvwg0mti9p.cloudfront.net/script.js
 ||d2bbq3twedfo2f.cloudfront.net^
 ||d2bkkt3kqfmyo0.cloudfront.net^
 ||d2bvfdz3bljcfk.cloudfront.net^
@@ -17752,6 +17757,7 @@ yydstxt*.com/js/html
 ||dfidhqoaunepq.cloudfront.net^
 ||dfiqvf0syzl54.cloudfront.net^
 ||dfki.de^
+||dfm7wh2x5l4za.cloudfront.net/script.js
 ||dfnld.nl^
 ||dfqcp2awt0947.cloudfront.net^
 ||dfsnjx.com^
@@ -24987,6 +24993,7 @@ yydstxt*.com/js/html
 ||jc001.cn/img/yhj.gif
 ||jc001.cn/indexnew/js/yuyue.js
 ||jc1.dayfund.com.cn^
+||jcbj62b2t.com^
 ||jcdard.top^
 ||jcdf99.com/hzz/scripts/new
 ||jcfbgdbd.top^
@@ -25932,6 +25939,7 @@ yydstxt*.com/js/html
 ||kisul-qywiv.online^
 ||kit-evag.online^
 ||kit.co^
+||kitchenfu47.top^
 ||kitchiepreppie.com^$popup
 ||kitco.com/jscripts/popunders/
 ||kitetech.co^
@@ -26868,6 +26876,7 @@ yydstxt*.com/js/html
 ||lixiangmo.com^
 ||lixil.co.jp^
 ||lixil.com^
+||lizard.donald.cat^
 ||lizearle.com^
 ||lizebruisiaculi.info^$popup
 ||lizijing12.top^
@@ -30421,6 +30430,7 @@ yydstxt*.com/js/html
 ||opus-whisky.com^$popup
 ||opus2.com^
 ||opwc.cn^
+||opwqkq.icu^
 ||oqaejin.icu^
 ||oqbowztarb.com^
 ||oqea.cn^
@@ -30640,6 +30650,7 @@ yydstxt*.com/js/html
 ||oxv.fr^
 ||oxynu-ygyt.com.tr^
 ||oydevj.cyou^
+||oyed.cn^
 ||oyi9f1kbaj.com^$popup
 ||oyksoft.com/assets/images/*.gif
 ||oyksoft.com/show/b.
@@ -32354,6 +32365,7 @@ yydstxt*.com/js/html
 ||q1.yyxwzx.com^
 ||q1bp.icu^
 ||q2usj.icu^
+||q3rlg1flo.com^
 ||q4c3dl.com^
 ||q5sn40kmp2.com^
 ||q777.sfchronicle.com^
@@ -32835,6 +32847,7 @@ yydstxt*.com/js/html
 ||ra7ra.com^
 ||rabart.co.uk^
 ||rabbicdn.com^
+||rabbit.donald.cat^
 ||rabbitporno.com/friends/
 ||rabbitporno.com/iframes/
 ||rabbitsreviews.com/banners/
@@ -34585,6 +34598,7 @@ yydstxt*.com/js/html
 ||shopmania.co.za^
 ||shopmetric.rediff.com^
 ||shoppaperravenco.com^
+||shopper.shop.pe/pixel.png
 ||shopping.udn.com/mall/cus/cat/outwebad.do?
 ||shoppingarchives.com^
 ||shoppromesa.com^
@@ -41265,6 +41279,7 @@ yydstxt*.com/js/html
 ||y4l.icu^
 ||y4re1yokqv.com^
 ||y66xvgo5i.chuimg.com^
+||y6oiuyphb.com^
 ||y738.nhregister.com^
 ||y7pcgacfn.com^
 ||y7ts.icu^
