@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202507221928
-! Last modified: 22 Jul 2025 19:28 UTC
+! Version: 202507231929
+! Last modified: 23 Jul 2025 19:29 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -8101,6 +8101,7 @@ yydstxt*.com/js/html
 ||1jok.icu^
 ||1jutu5nnx.com^$popup
 ||1k8j786ks5.com^
+||1kb4atu6x.com^
 ||1ketang.com/runtime/js/play
 ||1kmei.com^
 ||1kqu2p27.com^
@@ -8842,7 +8843,8 @@ yydstxt*.com/js/html
 ||5brxi.icu^
 ||5d7k30pv1u.com^
 ||5dimes.com^$popup
-||5dm.link/html/20240*.gif
+||5dm.link/html/$image
+||5dm.link/html5/api_aj.
 ||5dmail.net/image/$object
 ||5dmail.net/image/ad_
 ||5dmail.net/image/orf_1000.gif
@@ -11383,6 +11385,7 @@ yydstxt*.com/js/html
 ||app-measurement.com^
 ||app-svc.org^
 ||app-visor.com^
+||app.189tutors.com^
 ||app.box.com/app-api/split-proxy/api/metrics
 ||app.box.com/gen204
 ||app.carnow.com/dealers/track_visitor
@@ -12017,6 +12020,7 @@ yydstxt*.com/js/html
 ||az5i.icu^
 ||az693360.vo.msecnd.net^
 ||az697jylm.cc^
+||az75h.cn^
 ||azaleada1.top^
 ||azarvpn.xyz^
 ||azathabar.com^
@@ -14667,6 +14671,7 @@ yydstxt*.com/js/html
 ||chatsaigpt.com^
 ||chaturbate.com/affiliates/$popup
 ||chaturbate.com/creative/
+||chaturbate.com^$popup,domain=xxxbios.com
 ||chayns.net^
 ||chazidian.com/all/gg_
 ||chazidian.com/all/mobile_
@@ -18030,6 +18035,8 @@ yydstxt*.com/js/html
 ||di7stero.com^$popup
 ||dia.org^
 ||diablo2.io^
+||diabrowser.com/api/event
+||diabrowser.com/js/arcnet-script.js
 ||diadata.org^
 ||diagnose.igstatic.com^
 ||diagoriente.fr^
@@ -19457,6 +19464,7 @@ yydstxt*.com/js/html
 ||eiteribesshaints.com^$popup
 ||eitilbyr.com^
 ||eiv.baidu.com^
+||eiyu7532.xyz^
 ||ejcwidsdwg.net^
 ||ejd1s4io.com^
 ||ejieban.com^
@@ -29831,6 +29839,7 @@ yydstxt*.com/js/html
 ||nexon.com/api/nxlog/
 ||nexon.com/nxlog-collect/
 ||nexstardigital.net/segment.js
+||next-lust.cfd^$popup
 ||next.ae^
 ||next.de^
 ||next.es^
@@ -30759,6 +30768,7 @@ yydstxt*.com/js/html
 ||ooyala.com/sas/analytics?
 ||ooyala.com/verify?
 ||ooyala.com^*/report?log
+||op9dbh1i0.com^
 ||opdh.cn^
 ||opecloud.com/ope-pdmp.js
 ||opel.ch^
@@ -31084,6 +31094,7 @@ yydstxt*.com/js/html
 ||p.ctpost.com/article?
 ||p.data.cctv.com^
 ||p.hentaiforce.net^
+||p.jmlp.app^
 ||p.junshi881.com^
 ||p.junshifuxin.com^
 ||p.jwpcdn.com/player/plugins/vast/
@@ -32852,6 +32863,7 @@ yydstxt*.com/js/html
 ||pxqqytk.icu^
 ||pxrbnf.icu^
 ||pxvbnt.top^
+||pxwu.cn^
 ||pxyjqea.icu^
 ||py.cn/src/img/pyy/
 ||py.cn/static/images/advert/
@@ -35140,6 +35152,7 @@ yydstxt*.com/js/html
 ||sheegiwo.com^$popup
 ||sheelbimboes.cfd^
 ||sheepit-renderfarm.com^
+||sheeplm.top^
 ||shejiben.com/common/libs/layer.js
 ||shejiben.com/common/widgets/ui/*zb.js
 ||shelluiqy.com^
@@ -35456,6 +35469,7 @@ yydstxt*.com/js/html
 ||sinolub.com/index.php?m=poster&
 ||sintesesolucoes.com.br^
 ||sinus-dc.ir^
+||siodgs.icu^
 ||sionscormationw.org^
 ||sioq.cn^
 ||sipadi.com^
