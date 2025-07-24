@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202507231929
-! Last modified: 23 Jul 2025 19:29 UTC
+! Version: 202507241512
+! Last modified: 24 Jul 2025 15:12 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -8071,7 +8071,6 @@ yydstxt*.com/js/html
 ||18porn.sex/ptr18.js
 ||18porncomic.com^
 ||18pussy.porn/ab/
-||18rouman.vip^
 ||18teensex.tv/player/html.php$subdocument
 ||1905.com/data/js/*.json
 ||194.59.220.161^
@@ -9500,7 +9499,6 @@ yydstxt*.com/js/html
 ||aab.taboohome.com^
 ||aafaqrec.com^
 ||aagm.link^$popup
-||aai.org^
 ||aapj.cn^
 ||aaqqbet.vip^
 ||aaqqbet888.com^
@@ -11899,6 +11897,7 @@ yydstxt*.com/js/html
 ||auy07201km.com^
 ||auy07210km.com^
 ||auy07211km.com^
+||auy07240km.com^
 ||av-yoyo.com/images/*.gif
 ||av.sharktube.net^
 ||av01.tv/av01/floating_video_ads
@@ -12907,6 +12906,7 @@ yydstxt*.com/js/html
 ||bettingpremier.com/direct/$popup
 ||bettraff.com^$popup
 ||betunit.com^
+||betvictor.com*&utm_campaign=$popup
 ||betway.com.gh^
 ||betweb47.com^
 ||betwebpay.co^
@@ -13108,6 +13108,7 @@ yydstxt*.com/js/html
 ||bio-equip.com/dimgs/
 ||bio-equip.com/uploadimages/peiqing.gif
 ||bio-rad-antibodies.com^
+||bio.to/~/tr/
 ||biocompare.com^
 ||biogenix.in^
 ||biographic.com^
@@ -17414,6 +17415,7 @@ yydstxt*.com/js/html
 ||d9c5dterekrjd.cloudfront.net^
 ||d9cshxmf0qazr.cloudfront.net^
 ||d9leupuz17y6i.cloudfront.net^
+||d9q4aa05g4.com^
 ||d9qjkk0othy76.cloudfront.net^
 ||d9r4lqt28t1fm.cloudfront.net^
 ||d9yk47of1efyy.cloudfront.net^
@@ -17563,6 +17565,7 @@ yydstxt*.com/js/html
 ||data-px.services^$popup
 ||data.allstate.com^
 ||data.angel.digital/images/b/$image
+||data.armexdef.uk/api/visit/
 ||data.barry-callebaut.com^
 ||data.bilibili.com^
 ||data.cheatography.com/banana.js
@@ -18268,6 +18271,7 @@ yydstxt*.com/js/html
 ||dkhffh.xyz^
 ||dklhflksd.com^
 ||dklnxtcj.icu^
+||dklvhfrnvr.com^
 ||dkm6b5q0h53z4.cloudfront.net^
 ||dkmads.com^
 ||dknnlu3s1bnz7.cloudfront.net^
@@ -19303,7 +19307,6 @@ yydstxt*.com/js/html
 ||eddcc.icu^
 ||eddington.movie^
 ||edelbrock.com^
-||edf.org^
 ||edge-client^$script,domain=barrons.com
 ||edge-hls.doppiocdn.com/ping
 ||edge-hls.doppiocdn.live/ping
@@ -20799,6 +20802,7 @@ yydstxt*.com/js/html
 ||fivemonkeyquilts.com^
 ||fiverr.com/api/v1/activities
 ||fivestarfurniturega.com^
+||fiwf54qahl.com^
 ||fixably.cyou^
 ||fixalytica.lol^
 ||fixentrix.cfd^
@@ -22012,6 +22016,7 @@ yydstxt*.com/js/html
 ||ginbasics.com^
 ||ginfo.ru^
 ||ginnleelrage.com^
+||gio07241rp.com^
 ||giosg.com^*/public/trace/
 ||giphaudoq.com^
 ||girls.xyz^$popup
@@ -24160,6 +24165,7 @@ yydstxt*.com/js/html
 ||iedullkg.com^
 ||ieforex.com/r/cms/www/red/red2/images/*0.
 ||ieice.org^
+||ieiczidqyv.com^
 ||ieix.cn^
 ||ieleekxaxk.net^
 ||iemhotqk.com^
@@ -24257,6 +24263,7 @@ yydstxt*.com/js/html
 ||igrid.org^
 ||igrmaharashtra.gov.in^
 ||igtbms.com^
+||igtx.cn^
 ||iguazu.doordash.com^
 ||ih.newegg.com^
 ||ih1.fileforums.com^
@@ -28971,6 +28978,7 @@ yydstxt*.com/js/html
 ||mourny-clostheme.com^$popup
 ||moustachepoke.com^$popup
 ||mouthdistance.bond^$popup
+||mouthop3.com^
 ||mov.t-mobile.com/p/js/1.js
 ||movable-ink-5643.com^
 ||movedancewear.com^
@@ -29633,7 +29641,6 @@ yydstxt*.com/js/html
 ||ndtvprofit.com^
 ||ndvafs.xyz^
 ||ndysxhs.icu^
-||ne.gov^
 ||neatorama.com/story/view/
 ||nebius.com^
 ||nebzrn.icu^
@@ -33077,6 +33084,7 @@ yydstxt*.com/js/html
 ||ql.uzuzuz.com^
 ||qlcplus.org^
 ||qlgfdns.com^
+||qlkysc.icu^
 ||qlnet.ch^
 ||qlt.tools^
 ||qm.redbull.com^
@@ -33729,6 +33737,7 @@ yydstxt*.com/js/html
 ||regfish-ns.net^
 ||regiatmoon.ir^
 ||regionofwaterloo.ca^
+||register.boostymark.com/a/reg
 ||registrarengine.com^
 ||registration.forum^
 ||registrygate.com^
@@ -35219,6 +35228,7 @@ yydstxt*.com/js/html
 ||shoopusahealth.com^$popup
 ||shootingillustrated.com^
 ||shop-shimamura.com^
+||shop.app/pay/hop?analytics_trace_id=
 ||shop.com.mm^
 ||shopatgrace.com^
 ||shopatkings.com^
@@ -35553,6 +35563,7 @@ yydstxt*.com/js/html
 ||sklepmuzyczny.pl^
 ||sklera.tv^
 ||skmusic.ir^
+||sknkggfnm.com^
 ||skr001.cc^
 ||skrbtso.top^
 ||skrotrack.com/campaign/$popup
@@ -37175,11 +37186,13 @@ yydstxt*.com/js/html
 ||t.wayfair.co.uk^
 ||t.wayfair.com^
 ||t.y8.com^
+||t0cv7pmo2y.com^
 ||t0sfe1.com^
 ||t1.612.com^
 ||t1.xuefen.com.cn^
 ||t1shopper.com^
 ||t2.hulu.com^
+||t2.profityi.com/api/visit/
 ||t2.t2b.click^
 ||t26.net^
 ||t2hosted.com^
@@ -40964,6 +40977,7 @@ yydstxt*.com/js/html
 ||wfsmya.xyz^
 ||wfwf402.com^
 ||wg-aff.com^$popup
+||wgceetonr.com^
 ||wgnmdgfw.com^
 ||wgpartner.com^$popup
 ||wgs-static.com^
