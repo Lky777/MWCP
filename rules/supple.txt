@@ -1,13 +1,13 @@
 ! .MALICIOUS
-||risliq.com^
 ||cknr6y.com^
 ||cru0xr.com^
 ||ksrsogd.com^
 ||ojamrej.com^
+||risliq.com^
 ||rpyislr.com^
 ||sglklgksgrcbv.com^
 
-! General Blocking
+! .General Blocking
 /1x1.
 /ad/
 /ads/
@@ -20,34 +20,12 @@
 *$ping,third-party
 *$websocket
 ||clarity.ms/collect
-|https://cdn.tapioni.com/adgpt.js
-|https://lf1-cdn-tos.bytegoofy.com/goofy/
-|https://playhubconnect.com/bn/
-
-! adservers
-||6888.site^
-||ad.52av.one^
-||ad.scdn.io^
-||analytics.yahoo.com^
-||coreserver.jp^
-||diligencejusticeimprobable.com^
-||lheffapin.com^
-||mcs.snssdk.com^
-||mcs.volceapplog.com^
-||mirakdunes.com^
-||promptsgod.com^
-||sitetag.us^
-||slushycharacter.com^
-||static-sg.winudf.com^
-||staticaly.com^
-||tags.bluekai.com^
-||touristbaconwrath.com^
+||cdn.tapioni.com/adgpt.js
+||lf1-cdn-tos.bytegoofy.com/goofy/
+||playhubconnect.com/bn/
 
 ! 163
 /163/frontend/antnest/
-|https://gw.m.163.com/search/api/v2/wap/rolling-word?
-|https://m.163.com/touch/api/paid-article/well-chosen-rec-list?
-|https://m.163.com/touch/behavior.html?
 ||m.163.com/touch/nc/api/article/relate/
 ||m.163.com/wap/special/
 ||s6.music.126.net/puzzle/$script
@@ -55,6 +33,9 @@
 ||static.ws.126.net/163/frontend/images/toast-download.png
 ||static.ws.126.net/163/frontend/js/*/url-param-inherit.js
 ||static.ws.126.net/163/frontend/libs/open-newsapp/latest/open-newsapp.min.js
+|https://gw.m.163.com/search/api/v2/wap/rolling-word?
+|https://m.163.com/touch/api/paid-article/well-chosen-rec-list?
+|https://m.163.com/touch/behavior.html?
 
 ! 18comic
 /ajax/user_daily_event?
@@ -75,6 +56,25 @@
 a2zapk.io###modalpop
 a2zapk.io###modalpop-content
 
+! adservers
+||6888.site^
+||ad.52av.one^
+||ad.scdn.io^
+||analytics.yahoo.com^
+||coreserver.jp^
+||diligencejusticeimprobable.com^
+||lheffapin.com^
+||mcs.snssdk.com^
+||mcs.volceapplog.com^
+||mirakdunes.com^
+||promptsgod.com^
+||sitetag.us^
+||slushycharacter.com^
+||static-sg.winudf.com^
+||staticaly.com^
+||tags.bluekai.com^
+||touristbaconwrath.com^
+
 ! apkpure
 ||a.cdnpure.com/analytics/
 
@@ -86,7 +86,7 @@ m.bilibili.com##.fixed-openapp
 
 ! bing
 @@||bing.com/fd/ls/GLinkPing.aspx?
-cn.bing.com###bnp_rich_div
+bing.com###bnp_rich_div
 
 ! cnblog
 ||img2024.cnblogs.com/blog/35695/
@@ -94,16 +94,16 @@ cn.bing.com###bnp_rich_div
 |https://www.cnblogs.com/*/custom.css?
 
 ! colamanga
-|https://www.colamanga.com/counting
+||www.colamanga.com/counting
 
 ! csdn
 /trackad.js
 ||blog.csdn.net/phoenix/web/v1/mini-app/
+||csdn.net/recommend/
 ||csdnimg.cn/release/passport_fe/
 ||eva2.csdn.net/v3/
 ||g.csdnimg.cn/??sharewx/
 ||img-home.csdnimg.cn/data_json/jsconfig/redPacket.json
-||csdn.net/recommend/
 ||statistic.csdn.net^
 
 ! ddg
@@ -132,13 +132,13 @@ douban.com##.talion-nav-footer
 juejin.cn##.open-button
 
 ! mydrivers
-|https://11.mydrivers.com/common/js/trimpath-template-
-|https://11.mydrivers.com/js/2022/storageHelper.js?
+||11.mydrivers.com/common/js/trimpath-template-
 ||11.mydrivers.com/m/js/live/liveplayer-element.min.js
+||11.mydrivers.com/m/images/v1/kkjapp_down.gif
 ||icons.mydrivers.com/2025/
 ||img1.kkeji.com/img/2005/
 |https://m.mydrivers.com/m/relatednews.ashx?
-||11.mydrivers.com/m/images/v1/kkjapp_down.gif
+|https://11.mydrivers.com/js/2022/storageHelper.js?
 
 ! ngabbs
 ||g1.tagtic.cn/v1/xingyou/c/
@@ -148,23 +148,23 @@ oschina.net##div[name="detail_show_footer"]
 
 ! pornbest
 /images/friend/0/$image,domain=ptt.co|xnnn.org
-|https://www.pornbest.org/site/stat?
 ||xnnn.org/site/all.js
+|https://www.pornbest.org/site/stat?
 
-!ravenscans
-ravenscans.com###teaserbottom
+! ravenscans
 ||ravenscans.com/wp-content/themes/mangareader/assets/img/btn_close.gif
 ||ravenscans.com/wp-content/themes/mangareader/assets/img/readerarea.svg
+ravenscans.com###teaserbottom
 
 ! ruanyifeng
 ||www.ruanyifeng.com/blog/checker.js
 ||www.ruanyifeng.com/blog/stats.js
 
 ! sina
-tt.sina.cn###float-btn
+sina.cn###float-btn
 
 ! smtt
-|https://js.mewlxy.com/gg-config.js
+||js.mewlxy.com/gg-config.js
 
 ! sohu
 m.sohu.com##.btn
@@ -176,24 +176,24 @@ sspai.com###btn-call-app
 www.startpage.com##.mobile-app-promo-banner
 
 ! tieba
-baidu.com##.btn
+||tb3.bdstatic.com/uniapp/static/icon/
 |https://*.baidu.com/mo/q/getUpConfigData?
 |https://*.baidu.com/mo/q/getVersionInfo?
-|https://*.baidu.com/mo/q/recommendpb/
-|https://tb3.bdstatic.com/uniapp/static/icon/
+baidu.com/mo/q/recommendpb/
+baidu.com##.btn
 
 ! toutiao
-m.toutiao.com##.m-bottom
 data:image/gif;base64,
+||sf3-cdn-tos.toutiaostatic.com/obj/card-platform/
 |https://api.toutiaoapi.com/api/news/feed/v88/?
-|https://sf3-cdn-tos.toutiaostatic.com/obj/card-platform/
+m.toutiao.com##.m-bottom
 
 ! txrjy
 www.txrjy.com###tryOpenApp
 
 ! veryim
-|https://link.mzlinks.com/js/*.manhua
-|https://www.veryim.com/js/z.manhua
+||link.mzlinks.com/js/*.manhua
+||www.veryim.com/js/z.manhua
 
 ! wxsck
 .com/static/js/action.js
@@ -208,15 +208,15 @@ www.txrjy.com###tryOpenApp
 m.yfsp.tv##.container
 
 ! zhihu
+||static.zhihu.com/heifetz/chunks/$script
 @@||static.zhihu.com/heifetz/chunks/lib-$script
 @@||static.zhihu.com/heifetz/chunks/mobile-$script
 @@||static.zhihu.com/heifetz/chunks/shared-$script
-|https://pic4.zhimg.com/50/v2-e377a39f81b4cdc2373b9c43c46f5f12_720w.webp
-|https://static.zhihu.com/heifetz/chunks/$script
-|https://static.zhihu.com/heifetz/column.*.css
-|https://static.zhihu.com/heifetz/column.app.$script
+||static.zhihu.com/heifetz/column.*.css
+||static.zhihu.com/heifetz/column.app.$script
+||pic4.zhimg.com/50/v2-e377a39f81b4cdc2373b9c43c46f5f12_720w.webp
+||www.zhihu.com/sc-profiler
 |https://unpkg.zhimg.com/@cfe/sentry-script@
 |https://www.zhihu.com/api/v4/growth/mobile_top_banner?
 |https://www.zhihu.com/api/v4/hot_recommendation?
 |https://www.zhihu.com/api/v4/questions/*/related-readings?
-|https://www.zhihu.com/sc-profiler
