@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202507251928
-! Last modified: 25 Jul 2025 19:28 UTC
+! Version: 202507261926
+! Last modified: 26 Jul 2025 19:26 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -13685,6 +13685,7 @@ yydstxt*.com/js/html
 ||brornaeq.com^
 ||brostattent.com^
 ||brouwland.com^
+||brownnx.top^
 ||broworker6s.com^
 ||browse-boost.com^$popup
 ||browse-privately.net/event/
@@ -13910,6 +13911,7 @@ yydstxt*.com/js/html
 ||byond.com^
 ||bypllv.icu^
 ||byretuv.top^
+||byt73g6rrr.com^
 ||bytecdn.cn/ta/resource/v0/analytics.js
 ||bytedance.com/pixel/
 ||bytefcdn-ttpus.com^
@@ -22009,6 +22011,8 @@ yydstxt*.com/js/html
 ||gio07241rp.com^
 ||gio07250rp.com^
 ||gio07251rp.com^
+||gio07260rp.com^
+||gio07261rp.com^
 ||giosg.com^*/public/trace/
 ||giphaudoq.com^
 ||girls.xyz^$popup
@@ -30929,6 +30933,7 @@ yydstxt*.com/js/html
 ||orlowedonhisdhilt.info^$popup
 ||ornqfuox.com^
 ||orodsmnu.com^
+||orpy.cn^
 ||ortho2.com^
 ||ortlisk.top^
 ||orup.cn^
@@ -37195,6 +37200,7 @@ yydstxt*.com/js/html
 ||t0sfe1.com^
 ||t1.612.com^
 ||t1.xuefen.com.cn^
+||t1d26dvout.com^
 ||t1shopper.com^
 ||t2.hulu.com^
 ||t2.profityi.com/api/visit/
@@ -39475,6 +39481,7 @@ yydstxt*.com/js/html
 ||umbro.co.uk^
 ||umcg.nl^
 ||ummn.nu^$subdocument
+||umrr.cn^
 ||umtok.ru^
 ||umwcyw.xyz^
 ||umwiba.com^
@@ -39851,6 +39858,7 @@ yydstxt*.com/js/html
 ||vaia.com^
 ||vaitotoo.net^$popup
 ||vaksa8n.com^
+||valeriesara.com^
 ||valero.com^
 ||validate.onecount.net^$image
 ||validcombine.com^
@@ -40473,6 +40481,7 @@ yydstxt*.com/js/html
 ||vtdgfisz.icu^
 ||vtex.com.br/rc/rc.js
 ||vthruucceod.com^
+||vtiwz6pgc8.com^
 ||vtjbnb.xyz^
 ||vtmarkets.com^
 ||vtqhelleano.com^
@@ -40570,6 +40579,7 @@ yydstxt*.com/js/html
 ||w4sn20zpvz.com^
 ||w51t.com^$subdocument
 ||w59g.icu^
+||w5ftl8bhu3.com^
 ||w6.chabad.org^
 ||w7044.com^
 ||w740.newstimes.com^
