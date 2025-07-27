@@ -7,6 +7,25 @@
 ||rpyislr.com^
 ||sglklgksgrcbv.com^
 
+! .AdServers
+||6888.site^
+||ad.52av.one^
+||ad.scdn.io^
+||analytics.yahoo.com^
+||coreserver.jp^
+||diligencejusticeimprobable.com^
+||lheffapin.com^
+||mcs.snssdk.com^
+||mcs.volceapplog.com^
+||mirakdunes.com^
+||promptsgod.com^
+||sitetag.us^
+||slushycharacter.com^
+||static-sg.winudf.com^
+||staticaly.com^
+||tags.bluekai.com^
+||touristbaconwrath.com^
+
 ! .General Blocking
 /1x1.
 /ad/
@@ -19,8 +38,8 @@
 /loading.gif
 *$ping,third-party
 *$websocket
-||clarity.ms/collect
 ||cdn.tapioni.com/adgpt.js
+||clarity.ms/collect
 ||lf1-cdn-tos.bytegoofy.com/goofy/
 ||playhubconnect.com/bn/
 
@@ -55,25 +74,6 @@
 ! a2zapk
 a2zapk.io###modalpop
 a2zapk.io###modalpop-content
-
-! adservers
-||6888.site^
-||ad.52av.one^
-||ad.scdn.io^
-||analytics.yahoo.com^
-||coreserver.jp^
-||diligencejusticeimprobable.com^
-||lheffapin.com^
-||mcs.snssdk.com^
-||mcs.volceapplog.com^
-||mirakdunes.com^
-||promptsgod.com^
-||sitetag.us^
-||slushycharacter.com^
-||static-sg.winudf.com^
-||staticaly.com^
-||tags.bluekai.com^
-||touristbaconwrath.com^
 
 ! apkpure
 ||a.cdnpure.com/analytics/
@@ -147,7 +147,7 @@ juejin.cn##.open-button
 oschina.net##div[name="detail_show_footer"]
 
 ! pornbest
-/images/friend/0/$image,domain=ptt.co|xnnn.org
+/images/friend/0/$image,domain=pornlulu.com|ptt.co|xnnn.org
 ||xnnn.org/site/all.js
 |https://www.pornbest.org/site/stat?
 
