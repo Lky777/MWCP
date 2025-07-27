@@ -1,22 +1,21 @@
 name: Update Ad Filters
-
 on:
   schedule:
-    - cron: '08 19 * * *'  # everyday UTC 19:08（BeiJing Time 03:08）
+    - cron: '08 19 * * *'  # UTC 19:08（Beijing 03:08）
   workflow_dispatch:
   push:
     paths:
       - 'rules/supple.txt'
-
 permissions:
   contents: write
-
 jobs:
   update-filter:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -39,7 +38,9 @@ jobs:
           author_email: actions@github.com
           add: "rules/MobiList.txt"
           pull: true
-          
+          push: true
+          token: ${{ secrets.GITHUB_TOKEN }}  # 关键修复：显式传递 Token
+
       - name: Refresh jsDelivr cache
         run: |
           curl -sfL "https://purge.jsdelivr.net/gh/Lky777/MWCP/rules/MobiList.txt"
