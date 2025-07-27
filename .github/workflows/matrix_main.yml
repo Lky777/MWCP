@@ -37,7 +37,6 @@ jobs:
         with:
           author_name: GitHub Actions
           author_email: actions@github.com
-          message: "Auto-update: $(date -u +'%Y-%m-%d %H:%M UTC')"
           add: "rules/MobiList.txt"
 
       - name: Refresh jsDelivr cache
