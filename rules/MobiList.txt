@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202507261926
-! Last modified: 26 Jul 2025 19:26 UTC
+! Version: 202507271508
+! Last modified: 27 Jul 2025 15:08 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2784,7 +2784,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /images/banner$domain=~ipo.chinairn.com|~www.shuame.com|~exp.qq.com
 /images/bbsad/
 /images/content/1436/*$domain=chineseinla.com
-/images/friend/0/$image,domain=ptt.co|xnnn.org
+/images/friend/0/$image,domain=pornlulu.com|ptt.co|xnnn.org
 /images/masha*.gif
 /images/masha*.png
 /images/mobileads*.jpg
@@ -2978,6 +2978,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /js/floats
 /js/flyad.js
 /js/ga_event_
+/js/generatestats-min.js
 /js/gg.$script,subdocument
 /js/gg0.js
 /js/gg123/
@@ -3006,6 +3007,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /js/pcbook.js?
 /js/pfad*.js
 /js/piaofu_bet.
+/js/popunder.js$third-party
 /js/pushjs/1.0.0/subscriber.js
 /js/quantcast-
 /js/shang.$subdocument
@@ -10996,6 +10998,7 @@ yydstxt*.com/js/html
 ||analytics.kurocore.com^
 ||analytics.lemoolah.com^
 ||analytics.livestream.com^
+||analytics.loadweb.com^
 ||analytics.logsss.com^
 ||analytics.lunaweb.cloud^
 ||analytics.m7g.twitch.tv^
@@ -11302,6 +11305,7 @@ yydstxt*.com/js/html
 ||api.bitp.it^
 ||api.blink.net/a/
 ||api.bluerunningshadow.com^
+||api.bo3.gg/api/v1/ad_baners
 ||api.bo3.gg/api/v1/ad_banners
 ||api.channel.io/*/events
 ||api.collarity.com/cws/*http
@@ -16686,6 +16690,7 @@ yydstxt*.com/js/html
 ||d1tjcziy9n8hnk.cloudfront.net^
 ||d1tjxs5ylo6ah7.cloudfront.net^
 ||d1tlfk2mmne2t6.cloudfront.net^
+||d1tqsoh7s4xjz9.cloudfront.net^
 ||d1tt3ye7u0e0ql.cloudfront.net^
 ||d1tttug1538qv1.cloudfront.net^
 ||d1twn22x8kvw17.cloudfront.net^
@@ -19174,6 +19179,7 @@ yydstxt*.com/js/html
 ||eastmoney.com/public/ad.tools.
 ||eastmoney.com/public/js/left.js
 ||eastmoney.com/tghtml/
+||eastmoney.com/trade/fundfavortonglan.
 ||eastmoney.com/trade/hqb_hq.html
 ||eastmoney.com/usercollect/
 ||eastmoney.com/web/prd/jump_tracker.js
@@ -21028,6 +21034,7 @@ yydstxt*.com/js/html
 ||fornaxperuked.com^
 ||forooqso.tv^$popup
 ||forpsi.it^
+||forscprts.com^
 ||fort.tel^
 ||forthdigestive.com^$popup
 ||forthewildbirds.com^
@@ -22013,6 +22020,8 @@ yydstxt*.com/js/html
 ||gio07251rp.com^
 ||gio07260rp.com^
 ||gio07261rp.com^
+||gio07270rp.com^
+||gio07271rp.com^
 ||giosg.com^*/public/trace/
 ||giphaudoq.com^
 ||girls.xyz^$popup
@@ -23037,6 +23046,7 @@ yydstxt*.com/js/html
 ||hdipsumu.top^
 ||hdjthzg.cn^
 ||hdmoli.com^
+||hdmoli.pro/a_d/
 ||hdmovie2.st^
 ||hdnux.com/hnp/stats/page_view?
 ||hdomsiu.top^
@@ -25875,6 +25885,7 @@ yydstxt*.com/js/html
 ||jxcn.cn/js/hotpic_
 ||jxdongshan.com^
 ||jxdown.com/statics/js/all.js
+||jxdyk65ay.com^
 ||jxjpnd.xyz^
 ||jxnews.com.cn/assets/js/dspshow.js
 ||jxnews.com.cn/first/js/home/index_ad
@@ -31483,6 +31494,7 @@ yydstxt*.com/js/html
 ||pell8.com^
 ||pemsrv.com^$popup
 ||penandink.com.au^
+||pencild4.com^
 ||pencurimovie.bond^
 ||pendo.scopus.com/data/ptm.gif
 ||penfolds.com^
@@ -31902,6 +31914,7 @@ yydstxt*.com/js/html
 ||pjatr.com^$image,script
 ||pjb9gv9.xyz^
 ||pjbbhj.icu^
+||pjcg3864p.com^
 ||pjcijbv.icu^
 ||pjcqzm.cn^
 ||pjdhguh14.com^
@@ -33128,6 +33141,7 @@ yydstxt*.com/js/html
 ||qovua60gue.tubewolf.com^
 ||qovunx.com^
 ||qpb*.sohu.com^
+||qpeq.cn^
 ||qpgyy.com/add01.html
 ||qphkuua.icu^
 ||qpic.cn/qqgameedu/0/cfc175896f5b4d6a9ff115b3096dcebe_
@@ -35199,6 +35213,7 @@ yydstxt*.com/js/html
 ||shield-sky.com^
 ||shield.knowt.com^
 ||shieldedauto.net^
+||shigao.icu^
 ||shihuo.cn/alibtn_
 ||shili.downxia.com^
 ||shili.wanyx.com^
@@ -41723,6 +41738,7 @@ yydstxt*.com/js/html
 ||xgo.com.cn/pv.js
 ||xgroovy.com/65
 ||xgroovy.com/static/js/script.js
+||xh04i9ine.com^
 ||xh33g.net^
 ||xhaccess.com^*/vast?
 ||xhamster.com*/vast?
@@ -42628,6 +42644,7 @@ yydstxt*.com/js/html
 ||z.grfyw.com^
 ||z.nowscore.com^
 ||z.tudouxy01.com^
+||z0ha6abmi.com^
 ||z1.chezhuzhinan.com^
 ||z1.cwbaike.com^
 ||z1.o8h7d.cn^
