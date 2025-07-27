@@ -38,7 +38,8 @@ jobs:
           author_name: GitHub Actions
           author_email: actions@github.com
           add: "rules/MobiList.txt"
-
+          pull: true
+          
       - name: Refresh jsDelivr cache
         run: |
           curl -sfL "https://purge.jsdelivr.net/gh/Lky777/MWCP/rules/MobiList.txt"
