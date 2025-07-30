@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202507291930
-! Last modified: 29 Jul 2025 19:30 UTC
+! Version: 202507301929
+! Last modified: 30 Jul 2025 19:29 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -5396,7 +5396,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 ://adn.*/zone/$popup
 ://adn.*/zone/$subdocument
 ://ads.$popup,domain=~smartnews.com
-://ads.$~image,~xmlhttprequest,domain=~ads.8designers.com|~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.apple.com|~ads.atmosphere.copernicus.eu|~ads.axon.ai|~ads.band|~ads.bestprints.biz|~ads.bikepump.com|~ads.brave.com|~ads.buscaempresas.co|~ads.business.bell.ca|~ads.cafebazaar.ir|~ads.chewy.com|~ads.colombiaonline.com|~ads.comeon.com|~ads.cvut.cz|~ads.doordash.com|~ads.dosocial.ge|~ads.dosocial.me|~ads.elevateplatform.co.uk|~ads.finance|~ads.fund|~ads.google.cn|~ads.google.com|~ads.gree.net|~ads.gurkerl.at|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kaipoke.biz|~ads.kifli.hu|~ads.knuspr.de|~ads.listonic.com|~ads.luarmor.net|~ads.magalu.com|~ads.mercadolivre.com.br|~ads.mgid.com|~ads.microsoft.com|~ads.midwayusa.com|~ads.mobilebet.com|~ads.mojagazetka.com|~ads.msstate.edu|~ads.mst.dk|~ads.mt|~ads.nc|~ads.nipr.ac.jp|~ads.olx.pl|~ads.pinterest.com|~ads.realizeperformance.com|~ads.remix.es|~ads.rohlik.cz|~ads.rohlik.group|~ads.route.cc|~ads.safi-gmbh.ch|~ads.scotiabank.com|~ads.selfip.com|~ads.shopee.cn|~ads.shopee.co.th|~ads.shopee.com.br|~ads.shopee.com.mx|~ads.shopee.com.my|~ads.shopee.kr|~ads.shopee.ph|~ads.shopee.pl|~ads.shopee.sg|~ads.shopee.tw|~ads.shopee.vn|~ads.siriusxmmedia.com|~ads.smartnews.com|~ads.snapchat.com|~ads.socialtheater.com|~ads.spotify.com|~ads.studyplus.co.jp|~ads.taboola.com|~ads.tiktok.com|~ads.tuver.ru|~ads.twitter.com|~ads.typepad.jp|~ads.us.tiktok.com|~ads.viksaffiliates.com|~ads.vk.com|~ads.vk.ru|~ads.watson.ch|~ads.wildberries.ru|~ads.x.com|~ads.yandex|~reempresa.org
+://ads.$~image,~xmlhttprequest,domain=~ads.8designers.com|~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.apple.com|~ads.atmosphere.copernicus.eu|~ads.axon.ai|~ads.band|~ads.bestprints.biz|~ads.bikepump.com|~ads.brave.com|~ads.buscaempresas.co|~ads.business.bell.ca|~ads.cafebazaar.ir|~ads.chewy.com|~ads.colombiaonline.com|~ads.comeon.com|~ads.cvut.cz|~ads.doordash.com|~ads.dosocial.ge|~ads.dosocial.me|~ads.elevateplatform.co.uk|~ads.finance|~ads.flytant.com|~ads.fund|~ads.google.cn|~ads.google.com|~ads.gree.net|~ads.gurkerl.at|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kaipoke.biz|~ads.kifli.hu|~ads.knuspr.de|~ads.listonic.com|~ads.luarmor.net|~ads.magalu.com|~ads.mercadolivre.com.br|~ads.mgid.com|~ads.microsoft.com|~ads.midwayusa.com|~ads.mobilebet.com|~ads.mojagazetka.com|~ads.msstate.edu|~ads.mst.dk|~ads.mt|~ads.nc|~ads.nipr.ac.jp|~ads.olx.pl|~ads.pinterest.com|~ads.realizeperformance.com|~ads.remix.es|~ads.rohlik.cz|~ads.rohlik.group|~ads.route.cc|~ads.safi-gmbh.ch|~ads.scotiabank.com|~ads.selfip.com|~ads.shopee.cn|~ads.shopee.co.th|~ads.shopee.com.br|~ads.shopee.com.mx|~ads.shopee.com.my|~ads.shopee.kr|~ads.shopee.ph|~ads.shopee.pl|~ads.shopee.sg|~ads.shopee.tw|~ads.shopee.vn|~ads.siriusxmmedia.com|~ads.smartnews.com|~ads.snapchat.com|~ads.socialtheater.com|~ads.spotify.com|~ads.studyplus.co.jp|~ads.taboola.com|~ads.tiktok.com|~ads.tuver.ru|~ads.twitter.com|~ads.typepad.jp|~ads.us.tiktok.com|~ads.viksaffiliates.com|~ads.vk.com|~ads.vk.ru|~ads.watson.ch|~ads.wildberries.ru|~ads.x.com|~ads.yandex|~reempresa.org
 ://ads2.
 ://adsbb.
 ://adserving.
@@ -6785,6 +6785,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 @@||newsmth.net/nforum/*/adagent_
 @@||newver.api.dedecms.com/index.php$subdocument
 @@||nextcloud.com/remote.php/$~third-party,xmlhttprequest
+@@||nfl.com^$generichide
 @@||nflcdn.com/static/site/$script,domain=nfl.com
 @@||nihasi.ru/upload/resize_cache/*/300_250_$image,~third-party
 @@||nintendo.co.jp/ring/*/adv$~third-party
@@ -8458,6 +8459,7 @@ yydstxt*.com/js/html
 ||34c72d94d3.com^
 ||34gent.net^
 ||34iq.com/index
+||34mede82hj.com^
 ||35.194.26.233^
 ||35.227.234.222^$popup
 ||35.232.188.118^$popup
@@ -8872,6 +8874,7 @@ yydstxt*.com/js/html
 ||5dmail.net/js/
 ||5e2wsx3edc.net^
 ||5fbc7e29cd.com^
+||5fyme6x6uy.com^
 ||5fz.cc/t/aimg/tao
 ||5gtb.com^
 ||5gxs.org^
@@ -12328,6 +12331,7 @@ yydstxt*.com/js/html
 ||b79e4u3hz7.com^
 ||b7sw62.pingshu8.xyz^
 ||b7tp47v2nb3x-a.akamaihd.net^
+||b82q168jgj.com^
 ||b8b4ix7bj.com^
 ||b8cdn.com/assets/v1/analytics-
 ||b8ms7gkwq7g.crocotube.com^
@@ -15166,6 +15170,7 @@ yydstxt*.com/js/html
 ||cinemaspathegaumont.com^
 ||cinematicket.org^
 ||cinematoday.jp^
+||cinemaup.top^
 ||cintent.streanplay.
 ||cipc.co.za^
 ||cipdmail.com^
@@ -16108,6 +16113,7 @@ yydstxt*.com/js/html
 ||coolrocks.co.uk^
 ||coolserving.com^$popup
 ||coolsexnew.com^
+||coomer.st/api/v1/creators|
 ||coomer.st^
 ||cooooos.com^
 ||cooperhealth.org^
@@ -18732,7 +18738,6 @@ yydstxt*.com/js/html
 ||dmtgvn.com/wrapper/js/manager.js$domain=rt.com
 ||dmwtux-gtv-rs.sbs^
 ||dmxhgf4zuwdvu.cloudfront.net^
-||dmxleo.dailymotion.com^
 ||dmym.aixyy.com^
 ||dmz3nd5oywtsw.cloudfront.net^
 ||dmzj.com/js/m_btmapp.js
@@ -20645,6 +20650,7 @@ yydstxt*.com/js/html
 ||f775.thehour.com^
 ||f7j.icu^
 ||f7tkpjw6v.com^
+||f7ugx6b863.com^
 ||f8dy.tv/template/m1938/js/b
 ||f8dy.tv/template/m1938/js/foot.js
 ||f999.games^
@@ -22466,6 +22472,8 @@ yydstxt*.com/js/html
 ||gio07280rp.com^
 ||gio07281rp.com^
 ||gio07290rp.com^
+||gio07300rp.com^
+||gio07301rp.com^
 ||giosg.com^*/public/trace/
 ||giphaudoq.com^
 ||girafit.com^
@@ -26605,6 +26613,7 @@ yydstxt*.com/js/html
 ||kefu2kiggugu.xyz^
 ||kegel-plan.com^
 ||keighleyhistory.org.uk^
+||keirin.netkeiba.com/ndtracker/
 ||keisanki.me^
 ||kejiwanjia.com/wp-content/uploads/*/1040x100.
 ||kekenet.com/images/*/akasuo
@@ -26620,6 +26629,7 @@ yydstxt*.com/js/html
 ||kelkoogroup.net/st?
 ||kelpls.co.nz^
 ||kemmars.com^
+||kemono.cr/api/v1/creators|
 ||kemono.cr^
 ||kemp.ax^
 ||kendamausa.com^
@@ -30913,6 +30923,8 @@ yydstxt*.com/js/html
 ||nudishcedron.shop^
 ||nudography.com^
 ||nuernberg.de^
+||nug07300lu.com^
+||nug07301lu.com^
 ||nugget.com^
 ||nuiknnf.icu^
 ||nuipogoda.ru^
@@ -39784,6 +39796,7 @@ yydstxt*.com/js/html
 ||truefacet.com^
 ||truell55.top^
 ||truepeoplesearch.com/search/widgets?$xmlhttprequest
+||truevibe.live^$popup
 ||truex.com/js/client.js
 ||trumba.com/et.aspx?
 ||trumparea.com/_adz/
@@ -40254,6 +40267,7 @@ yydstxt*.com/js/html
 ||udswai.xyz^
 ||uduumm.com^
 ||udvnidkvvg.net^
+||udwlki.icu^
 ||udxi.cn^
 ||udyi.cn^
 ||uedas.$domain=qdmm.com|qdwenxue.com|qidian.com
@@ -40665,6 +40679,7 @@ yydstxt*.com/js/html
 ||utorria.ru^
 ||utrack.hexun.com^
 ||utt.pm/utm/
+||utve.cn^
 ||utxrjhooc.com^
 ||uu09cjylmzsym.top^
 ||uu1.3gu.com^
@@ -40999,6 +41014,7 @@ yydstxt*.com/js/html
 ||video-ads.a2z.com^
 ||video-analytics-api.cloudinary.com^
 ||video-cdn.net/event?
+||video-intel.pixels.ai^
 ||video-saver.xyz^
 ||video-streaming.ezoic.com^
 ||video.google.com/api/stats/
@@ -42661,6 +42677,7 @@ yydstxt*.com/js/html
 ||xcggdzvekj.net^
 ||xchina.*/plugins/jquery.modal/
 ||xchina.*/plugins/sweetalert2/
+||xchina.*/scripts/modal/modal.js
 ||xcitefun.net^
 ||xcity.org/tc2ca02c24c5.js
 ||xcmfu.com/cp.
