@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202507301929
-! Last modified: 30 Jul 2025 19:29 UTC
+! Version: 202507311928
+! Last modified: 31 Jul 2025 19:28 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -5197,6 +5197,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /wp-coin-hive-util.js
 /wp-coin-hive.js
 /wp-content/ads/*$~xmlhttprequest
+/wp-content/cache/min/1/advert/popads/*$script
 /wp-content/mbp-banner/*$image
 /wp-content/plugins/amazon-auto-links/*$script,stylesheet
 /wp-content/plugins/amazon-product-in-a-post-plugin/
@@ -9133,6 +9134,7 @@ yydstxt*.com/js/html
 ||81betpay.com^
 ||81book.com/static/scripts/1.js
 ||81book.com/static/scripts/common.
+||82e9ac3c1.com^
 ||83133.com/api/
 ||835images1.com^
 ||84eb50d125.com^
@@ -12362,6 +12364,8 @@ yydstxt*.com/js/html
 ||backchina.com/banners/
 ||backcountry.com/api/log
 ||backend.academy.cs.cmu.edu/api/v0/event/
+||backend.alia-cloudflare.com/launcher/events/
+||backend.alia-cloudflare.com/user/events
 ||backend.leadconnectorhq.com/forms/form-survey-event
 ||backend.verbolia.com/content/js/velw.min.js
 ||backgroundrunway.com^$popup
@@ -15609,7 +15613,6 @@ yydstxt*.com/js/html
 ||cnb.cz^
 ||cnbcfm.com/dist/components-pcmmodule-taboola-
 ||cnbd1.appmobile.cn^
-||cnbhd.xyz^
 ||cnblogs.com/ajax/bigbanner/
 ||cnblogs.com/blog/36987/201509/36987-20150913115252950-1736386654.jpg
 ||cnblogs.com/group/c1*-t2
@@ -16251,6 +16254,7 @@ yydstxt*.com/js/html
 ||cpicompanymail.com^
 ||cpitn.com^
 ||cpm.amateurcommunity.de^
+||cpm.appocean.media^
 ||cpm.cm.kankan.com^
 ||cpm20.com^$popup
 ||cpmclktrk.online^$popup
@@ -18635,6 +18639,7 @@ yydstxt*.com/js/html
 ||dklnxtcj.icu^
 ||dklvhfrnvr.com^
 ||dkm6b5q0h53z4.cloudfront.net^
+||dkngfkgbc.com^
 ||dknnlu3s1bnz7.cloudfront.net^
 ||dkre4lyk6a9bt.cloudfront.net^
 ||dkshdiscover.com^
@@ -22474,6 +22479,7 @@ yydstxt*.com/js/html
 ||gio07290rp.com^
 ||gio07300rp.com^
 ||gio07301rp.com^
+||gio07311rp.com^
 ||giosg.com^*/public/trace/
 ||giphaudoq.com^
 ||girafit.com^
@@ -26706,6 +26712,7 @@ yydstxt*.com/js/html
 ||khuyennongvn.gov.vn^
 ||khvoip.net^
 ||kibaminih5.com^
+||kibn.cn^
 ||kibrispdr.org^
 ||kickassanimes.info/a_im/
 ||kidecyg.com^
@@ -30925,6 +30932,8 @@ yydstxt*.com/js/html
 ||nuernberg.de^
 ||nug07300lu.com^
 ||nug07301lu.com^
+||nug07310lu.com^
+||nug07311lu.com^
 ||nugget.com^
 ||nuiknnf.icu^
 ||nuipogoda.ru^
@@ -33638,6 +33647,7 @@ yydstxt*.com/js/html
 ||q4c3dl.com^
 ||q5sn40kmp2.com^
 ||q777.sfchronicle.com^
+||q7qhlnyfx.com^
 ||q83v5haaz.com^
 ||q8ntfhfngm.com^$popup
 ||q8q.icu^
@@ -33719,6 +33729,7 @@ yydstxt*.com/js/html
 ||qfp.intuit.com^
 ||qgaxkkv.top^
 ||qgg7e.icu^
+||qhaazaduez.com^
 ||qhaccid.com^
 ||qhanphietd.com^
 ||qhatarsl.com^
@@ -36947,6 +36958,7 @@ yydstxt*.com/js/html
 ||sportscn.com/js/commerical
 ||sportshub.to/player-source/images/banners/
 ||sportsmansguide.com/scripts/vendor/at_
+||sportuay.com^
 ||sportversicherung.de^
 ||sportversicherungen.de^
 ||sportyfied.com^
@@ -37158,9 +37170,9 @@ yydstxt*.com/js/html
 ||startd0wnload22x.com^$popup
 ||startechstore.com^
 ||startleint.com^
-||startpage.com/*/async-ads.js
 ||startpage.com/sp/dplpxs?
 ||startpage.com/sp/jst
+||startpage.com^*/afs/
 ||startpix.bet^
 ||startrek.website^
 ||startrich.site^
@@ -37642,6 +37654,7 @@ yydstxt*.com/js/html
 ||struffelproductions.com^
 ||struhuts.com^
 ||sts.eccmp.com^
+||stsgus.icu^
 ||ststandard.com/adsf
 ||ststandard.com/ping
 ||stt6.cfd^$popup
@@ -38993,6 +39006,7 @@ yydstxt*.com/js/html
 ||tingroom.com/images/z923.js
 ||tingroom.com/skin/dy/images/enread.jpg
 ||tingswifing.click^$popup
+||tinjsicyt.com^
 ||tinmoi.vn^
 ||tinnhanhchungkhoan.vn^
 ||tinsus.com^$popup
@@ -42462,6 +42476,7 @@ yydstxt*.com/js/html
 ||wuxiaspot.com^
 ||wuxibus.com/image/title
 ||wuxingruoyin.top/public/*/plugins/
+||wuyjtew.icu^
 ||wuyunks.com/1.
 ||wvcnmte.top^
 ||wvmxk4yu.com^
@@ -43423,6 +43438,7 @@ yydstxt*.com/js/html
 ||yoojia.com^
 ||yooper.com.br^
 ||yope.tv^
+||yopo0hx26.com^
 ||yoqqiev.top^
 ||yorkbbs.ca/crm/section/v1/get/list/open
 ||yoshiclub.xyz^
