@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202507311928
-! Last modified: 31 Jul 2025 19:28 UTC
+! Version: 202508011928
+! Last modified: 01 Aug 2025 19:28 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -3797,6 +3797,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /pmc-adm-v2/build/setup-ads.js$domain=bgr.com|deadline.com|rollingstone.com
 /pmc-cxense.js
 /pn07uscr/f/tr/zavbn/*$third-party
+/pogoadkit.js
 /pointeur.gif?
 /pomegranate.js
 /pongaudiencels?
@@ -8043,7 +8044,6 @@ yydstxt*.com/js/html
 ||17k.com/jump/uh
 ||17ok.com/focus/3j_right_jdt.shtml
 ||17yy.com/style/ifra_ad/
-||18-comicfrieren.xyz/media/albums/*?$media
 ||180.96.27.85^*.htm
 ||18183.com/common/js/side.js
 ||18183.com^*.php?
@@ -9213,6 +9213,7 @@ yydstxt*.com/js/html
 ||8q8wfh47.com^
 ||8r80zf2q.com^
 ||8radc6a0m2.com^
+||8s5s.com^$popup
 ||8s8s.com/data/banner/
 ||8seaa.com/template/assets1/js/vue.js
 ||8sh.fun^
@@ -12146,6 +12147,7 @@ yydstxt*.com/js/html
 ||awswaf.com^*/report
 ||awswaf.com^*/telemetry
 ||awsyvxtfe.com^
+||awtguzoxc.com^
 ||awtworldwide.com^
 ||awywlb89y.com^
 ||ax.*.ifeng.com^
@@ -12307,6 +12309,7 @@ yydstxt*.com/js/html
 ||b.unjs.com^
 ||b.w3techs.com^
 ||b.xlineker.com^
+||b0rz2s5ik.com^
 ||b1.51scw.net^
 ||b1.91jucai.com^
 ||b1.b2b168.com^
@@ -16491,6 +16494,7 @@ yydstxt*.com/js/html
 ||cspf.ir^
 ||cspofgbe.shop^
 ||cspt.cc^
+||csqqgc90u.com^
 ||csr.onet.pl^
 ||css-load.com^$popup
 ||css.gg^
@@ -23538,6 +23542,7 @@ yydstxt*.com/js/html
 ||heatherssb.com^
 ||heavenfull.com^$popup
 ||heavenlyouthouse.com^
+||heavly1.com^
 ||heb.com.mx^
 ||hebaidu.cc^
 ||hebe.com^
@@ -23689,7 +23694,7 @@ yydstxt*.com/js/html
 ||heygrowthhub.com^
 ||heyheresharejob.com^
 ||heys.com^
-||heyserves.com^
+||heyserves.com^$popup
 ||heyvalaw.com^
 ||heza.gov.vn^
 ||hezhenshiye.com^
@@ -25628,6 +25633,7 @@ yydstxt*.com/js/html
 ||ivy.pconline.com.cn/show$script
 ||ivy.pconline.com.cn^
 ||ivyrem.com^
+||ivzaq2irg.com^
 ||iwanad.baidu.com^
 ||iwanttodeliver.com^$popup
 ||iwantusingle.com^$popup
@@ -26031,6 +26037,7 @@ yydstxt*.com/js/html
 ||jlwz.cn/js/xf*.js
 ||jly24aw29n5m-a.akamaihd.net^
 ||jm-3x.cc^
+||jm18c-twie.vip/media/albums/*?$media
 ||jm18c-twie.vip^
 ||jmbbs.cn/sjgg/
 ||jmcomica.org^
@@ -28834,6 +28841,7 @@ yydstxt*.com/js/html
 ||media.io/trk
 ||media.netrefer.com^
 ||media.tickertape.in/websdk/*/ad.js
+||media.vivaclix.com^
 ||mediabong.com/t/
 ||mediabong.net/t/
 ||mediadelivery.net/.metrics/
@@ -30934,6 +30942,8 @@ yydstxt*.com/js/html
 ||nug07301lu.com^
 ||nug07310lu.com^
 ||nug07311lu.com^
+||nug08010lu.com^
+||nug08011lu.com^
 ||nugget.com^
 ||nuiknnf.icu^
 ||nuipogoda.ru^
@@ -31785,6 +31795,7 @@ yydstxt*.com/js/html
 ||oxtsale1.com^$popup
 ||oxtsale2.com^
 ||oxv.fr^
+||oycf.cn^
 ||oyed.cn^
 ||oyi9f1kbaj.com^$popup
 ||oyksoft.com/assets/images/*.gif
@@ -32465,6 +32476,7 @@ yydstxt*.com/js/html
 ||pienissimo.com^
 ||pierisrapgae.com^$popup
 ||pierrebotton.com/global/
+||pigeonside.com^$popup
 ||piglix.com^
 ||pikapod.net/script.js
 ||pikbest.com/?m=stats&
@@ -40339,6 +40351,7 @@ yydstxt*.com/js/html
 ||uilogging.tcdevops.com^
 ||uim.tifbs.net^
 ||uipath.systems^
+||uiqouw.icu^
 ||uitopadxdy.com^$popup
 ||uitvconnect.com/wp-content/uploads/2023/01/2-2
 ||uitvconnect.com/wp-content/uploads/2023/01/3-2
