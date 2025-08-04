@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202508031927
-! Last modified: 03 Aug 2025 19:27 UTC
+! Version: 202508041930
+! Last modified: 04 Aug 2025 19:30 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -5405,8 +5405,8 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 ://adserving.
 ://adsrv.
 ://adsserver.
-://adv.$domain=~adv.asahi.com|~adv.bet|~adv.blue|~adv.chunichi.co.jp|~adv.cincsys.com|~adv.cryptonetlabs.it|~adv.design|~adv.digimatix.ru|~adv.ec|~adv.ee|~adv.gg|~adv.hokkaido-np.co.jp|~adv.kompas.id|~adv.lack-girl.com|~adv.mcr.club|~adv.mcu.edu.tw|~adv.michaelgat.com|~adv.msk.ru|~adv.neosystem.co.uk|~adv.peronihorowicz.com.br|~adv.rest|~adv.ru|~adv.tools|~adv.trinet.ru|~adv.ua|~adv.vg|~adv.yomiuri.co.jp|~advancedradiology.com|~advids.co|~farapp.com|~pracuj.pl|~r7.com|~typeform.com|~welaika.com
 ://adv.$popup,domain=~adv.kompas.id|~adv.lack-girl.com
+://adv.$third-party,domain=~adv.asahi.com|~adv.bet|~adv.blue|~adv.chunichi.co.jp|~adv.cincsys.com|~adv.cryptonetlabs.it|~adv.design|~adv.digimatix.ru|~adv.ec|~adv.ee|~adv.gg|~adv.hokkaido-np.co.jp|~adv.kompas.id|~adv.lack-girl.com|~adv.mcr.club|~adv.mcu.edu.tw|~adv.michaelgat.com|~adv.msk.ru|~adv.neosystem.co.uk|~adv.peronihorowicz.com.br|~adv.rest|~adv.ru|~adv.sciconnect.unsw.edu.au|~adv.tools|~adv.trinet.ru|~adv.ua|~adv.vg|~adv.yomiuri.co.jp|~advancedradiology.com|~advids.co|~farapp.com|~pracuj.pl|~r7.com|~typeform.com|~welaika.com
 ://aff-ads.
 ://affiliate.$third-party
 ://affiliates.$third-party
@@ -19026,6 +19026,7 @@ yydstxt*.com/js/html
 ||dq3yxnlzwhcys.cloudfront.net^
 ||dqd5t8xfxmhi7.cloudfront.net^
 ||dqif5bl25s0bf.cloudfront.net^
+||dqjrxj.icu^
 ||dqlrfmwp.icu^
 ||dqv45r33u0ltv.cloudfront.net^
 ||dqzsteel.com/website/image/index/ytgg.gif
@@ -22810,7 +22811,7 @@ yydstxt*.com/js/html
 ||google.com/gmp/
 ||google.com/gsi/log?
 ||google.com/images/phd/px.gif
-||google.com/log^
+||google.com/log^$domain=~accounts.google.com
 ||google.com/pagead/1p-conversion/
 ||google.com/pagead/1p-user-list/
 ||google.com/pagead/conversion_async.js
@@ -31853,6 +31854,7 @@ yydstxt*.com/js/html
 ||p.placed.com^
 ||p.sfx.ms/is/invis.gif
 ||p.skimresources.com^
+||p.spotidownloader.com^
 ||p.tencentmind.com^
 ||p.tryretool.com^
 ||p.typekit.net^
@@ -32945,6 +32947,7 @@ yydstxt*.com/js/html
 ||popt.in^$third-party,domain=~poptin.com
 ||popteen.pro/300x250.php
 ||poptropica.com/brain/track.php?
+||popularr3.top^
 ||populationrind.com^$popup
 ||popunder.bid^$popup
 ||popunderjs.com^$popup
@@ -33468,6 +33471,7 @@ yydstxt*.com/js/html
 ||ptfish.com/*/ad$image,object
 ||ptimgs.com^
 ||ptistyvymi.com^$popup
+||ptju.cn^
 ||ptnlvn.gov.vn^
 ||ptoakrok.net^$popup
 ||ptoftashulsee.com^$popup
@@ -36436,6 +36440,7 @@ yydstxt*.com/js/html
 ||skrotrack.com/campaign/$popup
 ||sksbgm.xyz^
 ||skshkola3.ru^
+||sksi91y8rs.com^
 ||sky.dunsuan.com^
 ||skyblock.net^
 ||skybr.digital^
@@ -39087,6 +39092,7 @@ yydstxt*.com/js/html
 ||tjimtyi.top^
 ||tjj.com^
 ||tjoomo.com^$popup
+||tjv250730ads.com^
 ||tjvcffap.icu^
 ||tjwsg.com^$popup
 ||tjytsd.com^
@@ -41599,6 +41605,7 @@ yydstxt*.com/js/html
 ||w2g-ping.b-cdn.net^
 ||w3-reporting.reddit.com^
 ||w3.ting55.com^
+||w3cfba6ufr.com^
 ||w3cschool.cn/attachments/image/20170919/1505817817281252.jpg
 ||w3cschool.cn/index/*advert
 ||w3pcloud.com^
@@ -41931,6 +41938,7 @@ yydstxt*.com/js/html
 ||weeksuntil.com^
 ||weeronline.cloud^
 ||weescorts.com/html5banners/
+||weewci.icu^
 ||weezoptez.net^$popup
 ||weggrq0p42.com^
 ||weglot.com/pageviews?
