@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202508051931
-! Last modified: 05 Aug 2025 19:31 UTC
+! Version: 202508061930
+! Last modified: 06 Aug 2025 19:30 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2133,6 +2133,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /dnscheck.js
 /dnschecker.js
 /dnx-event-collector/
+/dnxcheck/fing.js
 /doctracking.js
 /dolwebanalytics.js
 /dom-event-tracker.min.js
@@ -5405,7 +5406,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 ://adsbb.
 ://adserving.
 ://adsrv.
-://adsserver.
+://adsserver.$~xmlhttprequest
 ://adv.$popup,domain=~adv.kompas.id|~adv.lack-girl.com
 ://adv.$third-party,domain=~adv.asahi.com|~adv.bet|~adv.blue|~adv.chunichi.co.jp|~adv.cincsys.com|~adv.cryptonetlabs.it|~adv.design|~adv.digimatix.ru|~adv.ec|~adv.ee|~adv.gg|~adv.hokkaido-np.co.jp|~adv.kompas.id|~adv.lack-girl.com|~adv.mcr.club|~adv.mcu.edu.tw|~adv.michaelgat.com|~adv.msk.ru|~adv.neosystem.co.uk|~adv.peronihorowicz.com.br|~adv.rest|~adv.ru|~adv.sciconnect.unsw.edu.au|~adv.tools|~adv.trinet.ru|~adv.ua|~adv.vg|~adv.yomiuri.co.jp|~advancedradiology.com|~advids.co|~farapp.com|~pracuj.pl|~r7.com|~typeform.com|~welaika.com
 ://aff-ads.
@@ -12498,6 +12499,7 @@ yydstxt*.com/js/html
 ||babarawakan.com^
 ||babepedia.com/istripper/
 ||babepedia.com/istripper2023/
+||babepedia.com/istripper2024/$script
 ||babepump.com^
 ||babes-mansion.s3.amazonaws.com^
 ||babes.com^
@@ -14952,6 +14954,7 @@ yydstxt*.com/js/html
 ||cdn-wordup.com^
 ||cdn.007moms.com^
 ||cdn.ad.page^
+||cdn.app.cfigroup.com/webmon/$script
 ||cdn.autodoc.de/uploads/traffic-banners/$image
 ||cdn.biff.travel^
 ||cdn.clkmc.com/cmc.js
@@ -16173,6 +16176,7 @@ yydstxt*.com/js/html
 ||collector.githubapp.com^
 ||collector.mazeberry.com^
 ||collector.megaxh.com^
+||collector.net-logger.com^
 ||collector.pi.spectrum.net^
 ||collector.quillbot.com^
 ||collector.sspinc.io^
@@ -20689,6 +20693,7 @@ yydstxt*.com/js/html
 ||err.ifengcloud.ifeng.com^
 ||errie369djj.com^
 ||errippleshiswash.com^
+||error-analytics-production.shopifysvc.com^
 ||error-analytics-sessions-production.shopifysvc.com^
 ||error-collector.ted.com^
 ||error.fc2.com/blog/$image
@@ -24972,7 +24977,6 @@ yydstxt*.com/js/html
 ||htimiyu.top^
 ||htm-lighting.com^
 ||html-color.org^
-||html-load.cc/script/$script
 ||html-load.com^$popup
 ||html5games.com/event/
 ||htmlcolor-picker.com^
@@ -31829,6 +31833,7 @@ yydstxt*.com/js/html
 ||nm-cdn10.top^
 ||nm2.icu^
 ||nm6c33x8a.com^
+||nmc.cn/static/nmclog/nmclog.js
 ||nmcsjbueff.net^
 ||nmeu4.com^
 ||nmg-platform.com^
@@ -36194,6 +36199,8 @@ yydstxt*.com/js/html
 ||rispermitts.shop^
 ||riva.co.ke^
 ||rivafashion.com^
+||rivcash.com/*/event/page_visit
+||rivcash.com/ajax/log_js_error.php
 ||river49xx.org^
 ||rivercitysessions.com^
 ||riverhit.com^$popup
@@ -37658,6 +37665,7 @@ yydstxt*.com/js/html
 ||simonscans.com/banner/
 ||simontokx.pro^
 ||simpcity.cr^
+||simpcity.network/smp/
 ||simpcity.network^
 ||simpcity.su/magic/goodpapi.php?$popup
 ||simple-isl.com^$popup
@@ -38182,6 +38190,7 @@ yydstxt*.com/js/html
 ||soldierreproduceadmiration.com^$popup
 ||solebox.com^
 ||soleretriever.com^
+||solidcams.com/api/metrics
 ||solispartner.com^$popup
 ||solitairegrandharvest-plus.com^
 ||solitairegrandharvest.com^
@@ -43047,6 +43056,7 @@ yydstxt*.com/js/html
 ||voy-bagpipespg.com^
 ||voy-lupapg.com^
 ||voy-vesselpg.com^
+||voyeur-house.tv/js/track.js
 ||voyeurhit.com/ffpqvfaczp/
 ||voz-zyk.store^
 ||vpdnjl.xyz^
@@ -43620,6 +43630,7 @@ yydstxt*.com/js/html
 ||welchs.com^
 ||welchsgrapejuice.biz^
 ||welchswin.com^
+||welcomemagazinecy.com/media/advertisements/
 ||welcomeneat.pro^$popup
 ||welcomingaccompanyeffort.com^$popup
 ||weld-ready.ca^
