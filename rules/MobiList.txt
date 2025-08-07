@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202508061930
-! Last modified: 06 Aug 2025 19:30 UTC
+! Version: 202508071406
+! Last modified: 07 Aug 2025 14:06 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -271,6 +271,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 .com/adv/$domain=~adv.asahi.com|~advantabankcorp.com|~alltransistors.com|~archiproducts.com|~tritondigital.com
 .com/adv1/?q=
 .com/api/posts?token=$third-party
+.com/b.js|
 .com/by389.js$script
 .com/clk?
 .com/code.php?a=index&z=$script,xmlhttprequest
@@ -294,10 +295,13 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 .com/gg.js
 .com/gg/*?x=$script
 .com/images/102.js
+.com/images/ad/
 .com/java/shang1.js
 .com/java/xia1.js
 .com/java/youxia.js
 .com/java/zuoxia.js
+.com/js/ad-provider.js
+.com/js/ad-units.js
 .com/js/ad_
 .com/js/addp.js
 .com/js/alls_foot.js
@@ -305,6 +309,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 .com/js/bnnr_
 .com/js/ddd.js
 .com/js/discor_list.js
+.com/js/exopop.js
 .com/js/indextop.js
 .com/js/lad.js
 .com/js/o.js$domain=qdmm.com|qdwenxue.com|qidian.com
@@ -7629,6 +7634,7 @@ yydstxt*.com/js/html
 |https://www.zhihu.com/api/v4/questions/*/related-readings?
 |javascript:*settimeout$popup
 |javascript:*window.location$popup
+|p3-sign.toutiaoimg.com/tos-cn-i-eyfl5e3fp8/
 ||*.$image,rewrite=abp-resource:1x1-transparent-gif,domain=rmdown.com
 ||*xav.*/guang/*.gif
 ||*xav.*/guang/*.jpg
@@ -10868,6 +10874,7 @@ yydstxt*.com/js/html
 ||alliesservite.shop^
 ||alljapanesepass.com/ascripts/gcu.js
 ||alljapanesepass.com/rstat
+||allkeyshop.com/analytics/script.js
 ||allkeyshop.com/blog/wp-content/uploads/*sale$image
 ||allkeyshop.com/blog/wp-content/uploads/allkeyshop_background_
 ||allkmbr.icu^
@@ -15597,7 +15604,6 @@ yydstxt*.com/js/html
 ||claranet.com^
 ||clarice.streema.com^
 ||clarity.abacast.com^
-||clarity.ms/collect
 ||clarium.global.ssl.fastly.net^
 ||clarksvilleonline.com/cols/
 ||clasf.com^
@@ -16137,6 +16143,7 @@ yydstxt*.com/js/html
 ||colleconline.com^
 ||collect-ap2.attraqt.io^
 ||collect-eu.attraqt.io^
+||collect-v6.51.la^
 ||collect.air1.com^
 ||collect.alipay.com^
 ||collect.alphastream.io^
@@ -44252,6 +44259,7 @@ yydstxt*.com/js/html
 ||www.china.com.cn/node_$domain=news.china.com.cn
 ||www.chnmoney.com/dfile/$script,image
 ||www.chnmoney.com/skin/$script
+||www.clarity.ms^
 ||www.colamanga.com/counting
 ||www.crsky.com/img/pic.js
 ||www.dmhy.org/*.gif^$image
