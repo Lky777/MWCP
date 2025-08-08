@@ -27,8 +27,7 @@ jobs:
           bash scripts/matrix_get.sh
           bash scripts/matrix_lighten.sh
           bash scripts/matrix_fuel.sh
-          echo "::notice::Running iterative deduplication..."
-          python scripts/IterativeDeduplication.py
+          
           bash scripts/matrix_launch.sh
 
       - name: Commit via GitHub API
