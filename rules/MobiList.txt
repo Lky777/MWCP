@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202508071929
-! Last modified: 07 Aug 2025 19:29 UTC
+! Version: 202508081348
+! Last modified: 08 Aug 2025 13:48 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -20,16 +20,21 @@ $csp=script-src 'self' data: 'unsafe-inline' 'unsafe-hashes' 'unsafe-eval',domai
 $csp=script-src 'self' data: blob: 'unsafe-inline' 'unsafe-hashes' 'unsafe-eval',domain=gayforfans.com,~third-party
 $csp=worker-src 'none',domain=torlock.com|alltube.pl|alltube.tv|centrum-dramy.pl|coinfaucet.eu|crictime.com|crictime.is|doodcdn.com|gomo.to|hdvid.fun|hdvid.tv|hitomi.la|lewd.ninja|nflbite.com|pirateproxy.live|plytv.me|powvideo.cc|powvideo.net|putlocker.to|reactor.cc|rojadirecta.direct|sickrage.ca|streamtape.com|thehiddenbay.com|thepiratebay.org|thepiratebay10.org|tpb.party|uptomega.me|ustream.to|vidoza.co|vidoza.net|wearesaudis.net|yazilir.com
 $domain=ads.adxadserv.com|adserver.juicyads.com|cs.adxpansion.com|olmsoneenh.info|static.javhd.com|syndication.exosrv.com
+$domain=googleads.g.doubleclick.net
 $image,domain=258zw.com
 $image,domain=lady1.top
 $image,script,stylesheet,subdocument,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepiratebay.org|thepiratebay10.org
 $object,script,subdocument,websocket,xmlhttprequest,domain=qingqingxs.top|quanbiqu.com|20me.net|622zw.com|jubiquge.com|yebiquge.com|huananxs.top|fbqg.cc|taobiquge.com|xianguke.net|timaxs.com|piaotianxiaoshuo.com|tellgillian.com|82zg.com|erciyan.com|kbook8.com|87nb.com|0sxs.com|m-ia.net|cleavagecoverup.com|vipbiquge.com|68read.cc|83kss.cc|memduh.net|jpbqg7.com|ehuxs.com|qishupu.com|fmh18.net|biquge85.com|bqduo.cc|panguxs.org|131453.xyz|haitang30.com|ykxs.cc|ltxswu.org|vjungle.com|dbrxs.org|11bqg.com|xbotaodz.com|56xiaoshuo.net|kunnu.com|yushuwu.cloud|yourbiquge.com|biquge345.com|666biquge.com|qs1669.net|wxsck.com|biqutime.com|00ksw.com|0794.org|123du.vip|123wx.cc|126shu.org|12zw.net|13txt.net|147xiaoshuo.com|156zw.com|17k.com|1biqu.com|1kans.net|1pwx.com|1qxs.com|23hh.com|23qb.com|23qb.net|23sk.net|23us.tw|23wxx.com|23xstxt.net|24kxs.cc|2kxs.info|333uu.org|360xs.com|38kanshu.net|3yt.com|477zw.com|4xiaoshuo.net|50zw.co|50zw.com|50zww.net|51eshu.com|52bqg.org|52shuku123.org|52xs.net|56shuku.info|59xs.com|6666xsw.com|67shu.net|69kshu.win|69zww.com|7017k.net|777zw.net|779buy.com|77xsw.cc|8181zw.vip|81book.com|91zww.com|93xscc.com|99mk.net|9tiefu.com|a6ksw.net|abqg5200.com|aiwx.info|aixiashu.net|aixs.la|aikushuge.com|b520.cc|b5200.net|bbiquge.cc|bbiquge8.net|bequmo.com|bimixsw.com|biqiuge8.cc|biqudd.com|biqudu.tv|biquge365.net|biquge5200.net|biquge775.com|biquge98.net|xbiquge99.cc|biqugecd.com|biqugen.net|biqugesc.org|biqugewu.net|biqugse.com|biquka.com|aidu123.com|biquluo.info|biqusk.com|biqutsxs.com|bisowu.cc|bisowu.net|55561.net|bokanx.com|booktxts.com|boquku.com|bqg999.net|bqwxg8.com|bshuku.com|bxwx.live|bxwx00.com|changduzw.com|chenkuan.com|china-wuling.com|damengzhu1.com|ddbqgtxt.cc|diyibanzhu.buzz|diyibanzhu9.pro|dizishu.cc|dobiez.com|doupocangqiong.info|dpcq1.com|dpcq1.net|feibzw.com|fkxs.net|fxsc6.net|gaofuwu.org|gdbzkz.info|guanshuya.com|haitangmi.xyz|hongyeshuzhai.com|ibiquges.com|ibiquges.org|ibotaodz.org|idzs.org|ijjjxs.net|imianhuatang.info|ishisetianxia.com|ishubao.org|itshang.com|xvipxs.net|iwurexs.info|ixs.la|jcdf99.com|jieshengit.com|jiezhong.cc|jingwubook.com|jmshuwu.net|kanshushi.com|lewen123.com|lewenge.cc|lewxs.com|liewenn.com|liudatxt.org|longzu5.net|luoqiu.io|lzbao.net|maxreader.la|mcmssc.net|mingrenteahouse.com|msxsw.com|nuanyuehanxing.com|paoshu8.com|paoshuzw.com|piaotian.la|piaotian55.com|pksge.com|prpcoin.com|qiqidu.net|qishula.com|qishuta.info|qqxsw.so|quge66.com|ranwen.la|rizhaoxs.com|roushuwu6.com|sdhear.com|shanhaimiwenlu.com|shenshuxs.org|shu008.com|shubaowang.cc|shumi.la|shumil.co|shuquso.com|shuyy8.com|silukex.com|siluwx.org|sinodan.cc|sjks88.com|soduha.la|sthuojia.org|stxsw.com|sytxt.cc|tianzhangs.com|tpsge.info|trxs.cc|tutengzw.com|txtduo.com|txtwan.com|tysk.cc|u33.cc|u33.me|wenxuem.com|wenxuemi.cc|whzh-xs.com|woaidu.info|wodexiaoshuoh.com|wolaidu1.com|x23us.us|xbiqugela.com|xbiquke.com|xdingdian.cc|xhytd.com|xiashuyun.com|xiaxs.info|xinremenxs.com|xiushukong.com|xqianqian.cc|xs5200.com|xs7788.com|xsb-xs.com|xstt5.com|xszww8.net|xuanjiezhimen.org|xuanshu.org|xuessex.com|xwbxsw.com|xxbiqudu.com|xygwh.cc|xyuanzunxs.com|yemancomic.com|ygshu.com|yingsx.com|gytmh.com|ymxwx.com|yqd6.com|ysxs8.vip|yunxs.info|yuyougu.com|zhuishubox.com|zydu3.com|zzs5.info
+$ping
 $popup,domain=07c225f3.online|content-loader.com|css-load.com|html-load.cc|html-load.com|img-load.com
 $popup,domain=1337x.buzz|adblockeronstape.me|adblockeronstreamtape.me|adblockeronstrtape.xyz|adblockplustape.com|adblockplustape.xyz|adblockstreamtape.art|adblockstreamtape.fr|adblockstreamtape.site|adblocktape.online|adblocktape.store|adblocktape.wiki|advertisertape.com|animeworld.biz|antiadtape.com|atrocidades18.net|cloudemb.com|cloudvideo.tv|d000d.com|databasegdriveplayer.xyz|dembed1.com|diampokusy.com|dirproxy.info|dood.la|dood.li|dood.pm|dood.re|dood.sh|dood.so|dood.to|dood.watch|dood.wf|dood.ws|dood.yt|doods.pro|dooood.com|ds2play.com|embedsito.com|fembed-hd.com|file-upload.com|filemoon.sx|freeplayervideo.com|geoip.redirect-ads.com|gettapeads.com|gogoanime.lol|gogoanime.nl|haes.tech|hubfiles.ws|hydrax.xyz|katfile.com|kissanime.lol|kokostream.net|livetv498.me|loader.to|luluvdo.com|mixdroop.co|mixdrop.ag|mixdrop.bz|mixdrop.click|mixdrop.club|mixdrop.nu|mixdrop.ps|mixdrop.si|mixdrop.sx|mixdrop.to|mixdrp.co|mixdrp.to|noblocktape.com|okru.link|oneproxy.org|piracyproxy.biz|piraproxy.info|pixroute.com|playtube.ws|pouvideo.cc|projectfreetv2.com|proxyer.org|raes.tech|sbfast.com|sbplay2.com|sbplay2.xyz|sbthe.com|scloud.online|shavetape.cash|slmaxed.com|ssbstream.net|stapadblockuser.info|stapadblockuser.xyz|stape.fun|stape.me|stapewithadblock.beauty|stapewithadblock.monster|stapewithadblock.xyz|strcloud.in|streamadblocker.cc|streamadblocker.com|streamadblocker.store|streamadblocker.xyz|streamlare.com|streamnoads.com|streamta.pe|streamtape.cc|streamtape.com|streamtape.to|streamtape.xyz|streamtapeadblock.art|streamtapeadblockuser.art|streamtapeadblockuser.homes|streamtapeadblockuser.monster|streamtapeadblockuser.xyz|streamz.ws|strtape.cloud|strtapeadblocker.xyz|strtapewithadblock.art|strtapewithadblock.xyz|strtpe.link|supervideo.tv|suzihaza.com|tapeadsenjoyer.com|tapeadvertisement.com|tapeantiads.com|tapeblocker.com|tapelovesads.org|tapenoads.com|tapepops.com|tapewithadblock.com|tapewithadblock.org|theproxy.ws|trafficdepot.xyz|tubeload.co|un-block-voe.net|uproxy.co|upstream.to|upvid.biz|uqload.com|userload.co|vanfem.com|vgfplay.com|vidcloud9.com|vidlox.me|viewsb.com|vivo.sx|voe-unblock.com|voe-unblock.net|voe.sx|voeunblock1.com|voeunblock2.com|voiranime.com|watchsb.com|welovemanga.one|wiztube.xyz|wootly.ch|y2mate.is|youtubedownloader.sh|ytmp3.cc|ytmp3.sh
 $popup,domain=76fengyun.com|avsdown.com|downdv.com|downdvs.com|downhhh.com|imedown.info|jandown.com|mimima.com|mnks.jxedt.com|rmdown.com|soyunpan.com|xmflv.com
 $popup,domain=hentai2read.com|porn-tube-club.com
 $popup,domain=kinos.to|kinox.am|kinox.click|kinox.cloud|kinox.club|kinox.digital|kinox.direct|kinox.express|kinox.fyi|kinox.gratis|kinox.io|kinox.lat|kinox.lol|kinox.me|kinox.mobi|kinox.pub|kinox.sh|kinox.to|kinox.tube|kinox.tv|kinox.wtf|kinoz.to
 $script,domain=cilimao.co|cilimao.one
+$script,domain=colamanga.com
+$script,domain=imgbox.com
+$script,domain=rule34hentai.net
 $script,domain=torkitty.net|torkitty.com|torrentkitty.app|torrentkitty.asia|torrentkitty.cam|torrentkitty.ink|torrentkitty.io|torrentkitty.live|torrentkitty.lol|torrentkitty.net|torrentkitty.one|torrentkitty.se|torrentkitty.tv|torrkitty.com
 $script,domain=xiaoyakankan.com|52movieba.com|audio699.com|kan-tv.com|m.supfree.net|movieffm.net|xiaoxintv.cc|xiaoxintv.com|xiaoxintv.net
 $script,subdocument,domain=dlkoo.com
@@ -63,6 +68,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 &popunder=$popup
 &popundersperip=$popup
 &rb=&uuid=$third-party
+&refer=http$script
 &sadbl=1&abtg=$third-party
 &sadbl=1&chu=$third-party
 &sseq=*&dseq=$popup
@@ -88,10 +94,13 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 -1316899192.cos.
 -1321533417.cos.
 -1325890192.cos.
+-160-600.
 -160-600.jpg|$image
 -160x600-$image,subdocument
 -160x600.
 -160x600_
+-300-250.
+-300x250-$image
 -300x250.$image,object
 -300x250_
 -300x600.
@@ -116,6 +125,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 -480x60/
 -480x60_
 -486x60.
+-500x100.
 -600x70.
 -600x90-
 -720x90-
@@ -124,6 +134,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 -728-90.
 -728.90.
 -728x90-
+-728x90.
 -728x90/
 -728x90_
 -729x91-
@@ -137,6 +148,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 -ad.jpg.pagespeed.$image
 -adobe-analytics/
 -adobedatalayer_bridge.js
+-ads-$script
 -ads-manager/$domain=~wordpress.org
 -ads/assets/$script,domain=~web-ads.org
 -assets/ads.$~script
@@ -266,8 +278,10 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 .com/?aff=$popup
 .com/?intr=$popup
 .com/_.gif?
+.com/a_d/
 .com/ad/$~image,domain=~mediaplex.com|~warpwire.com|~wsj.com
 .com/addnew.php
+.com/ads?$popup
 .com/adv/$domain=~adv.asahi.com|~advantabankcorp.com|~alltransistors.com|~archiproducts.com|~tritondigital.com
 .com/adv1/?q=
 .com/api/posts?token=$third-party
@@ -300,6 +314,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 .com/java/xia1.js
 .com/java/youxia.js
 .com/java/zuoxia.js
+.com/js/a_d/
 .com/js/ad-provider.js
 .com/js/ad-units.js
 .com/js/ad_
@@ -307,6 +322,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 .com/js/alls_foot.js
 .com/js/alls_top.js
 .com/js/bnnr_
+.com/js/bnr_
 .com/js/ddd.js
 .com/js/discor_list.js
 .com/js/exopop.js
@@ -538,6 +554,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 .php?stats=
 .php?tracking=
 .php?zone_id=$~xmlhttprequest
+.php?zoneid=
 .pk/ads/$~xmlhttprequest
 .pop.js^$script
 .ppunion.
@@ -664,6 +681,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 .z.dkt-ib.com
 .zfjiu.
 .zhangxiu.
+.zhanzhang.
 .ziye8.com
 .zoomino.
 /&*^$popup,domain=piracyproxy.app|piraproxy.info|unblocked.club|unblockedstreaming.net
@@ -711,6 +729,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /1px.gif?
 /1px.php?
 /1skwwd.
+/1x1.
 /1x1.gif?
 /1x1.png?
 /1xhtml?$script
@@ -724,11 +743,16 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /2x2.gif?$image
 /3.gif?
 /300-250-
+/300-250.
 /300-600_
 /300250.swf$object
+/300_250_
+/300x150_
+/300x250-
 /300x250.$image
 /300x250.gif$image
 /300x250.swf
+/300x250_
 /300x250b.
 /300x350.
 /300x600-
@@ -746,11 +770,15 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /460x60.
 /460x80_
 /468-20.
+/468-60-
 /468-60.
 /468-60_
+/46860.
+/468_60.
 /468_60.$image
 /468_60_
 /468_70.$subdocument
+/468_80.
 /468_80.$subdocument
 /468_80/
 /468_90.$subdocument
@@ -792,6 +820,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /600_120_
 /600_90_
 /600x75_
+/600x90.
 /600x90.$image
 /60x468.
 /640_120_javhd.jpg
@@ -802,6 +831,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /700_100_
 /700_200.
 /700x100.
+/728-90-
 /728-90-$image
 /728-90.
 /728-90/
@@ -839,6 +869,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /8976_360100$subdocument
 /8drama_yahoo/
 /900x250.$subdocument
+/9115gg/
 /9115gg/dd1.js
 /9115gg/toubu.js$script
 /91_banner/
@@ -926,6 +957,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /a/p?adid=
 /a/performance_timing/
 /a8c-analytics.js
+/a_d_c
 /a_d_s
 /aaadddd/2.js$script
 /aadd/$image,object
@@ -969,16 +1001,20 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /ad-shield/e/*$script
 /ad.$image,script,subdocument,media
 /ad.cgi?$~xmlhttprequest
+/ad.css?$stylesheet
 /ad.html?$~xmlhttprequest
 /ad.min.js$script
 /ad.php?tag=$popup
 /ad.php?zone$popup
+/ad/
 /ad/images/*$image,domain=~studiocalling.it
 /ad/img/*$image,domain=~eki-net.com|~jiji.com
+/ad2v1.1.js
 /ad300.jpg$image
 /ad340-50.gif|
 /ad728.png$image
 /ad?count=
+/ad_
 /ad_360_$domain=somanhua.com
 /ad_728.jpg$image
 /ad_728.js$script
@@ -1021,10 +1057,12 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /adblockdetect.js$script
 /adblockdetector/*$script
 /adblocklogger/
+/adbox/
 /adcg/
 /adchoice.png$image
 /adclick.$popup
 /adclick/*$popup
+/adclick?$popup
 /adcms/js/
 /adcode/
 /adcount.js$script
@@ -1054,6 +1092,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /adhandler.aspx?$popup
 /adhandler/*$~subdocument
 /adhead
+/adiframe/
 /adiframe|*|adtech;
 /adimage.$image,script,stylesheet
 /adimages.$script
@@ -1062,6 +1101,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /adinfo?
 /adinfos?*&ane=pic1
 /adintrs/
+/adjs.
 /adjs.php$script
 /adjs/
 /adlayer.php$script
@@ -1070,6 +1110,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /adlogger.php
 /adlogger_tracker.php
 /adm_tracking.js
+/admanager.js$script
 /admanager.min.js$script
 /admanager/*$~object,~xmlhttprequest,domain=~admanager.line.biz|~blog.google|~sevio.com
 /admgr.js$script
@@ -1104,8 +1145,10 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /adposid/
 /adposjs/$script
 /adpreview?$popup
+/adpro.js
 /adpro.js$script
 /adpub/adpub
+/adpuba/
 /adpuba/$script
 /adpv?cn=
 /adrecover-new.js$script
@@ -1120,17 +1163,20 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /ads-native.js$script
 /ads-templateslist.$script
 /ads-vast-vpaid.js?$script
+/ads.
 /ads.bundle.js$script
 /ads.bundle.min.js$script
 /ads.cfm?$subdocument
 /ads.jplayer.$stylesheet
 /ads.pl?$~xmlhttprequest
+/ads/
 /ads/footer.$~xmlhttprequest
 /ads/images/*$image,domain=~eoffcn.com
 /ads/index.$~xmlhttprequest
 /ads/index/*$~xmlhttprequest,domain=~kuchechina.com
 /ads/leaderboard-$~xmlhttprequest
 /ads/square-$image,domain=~spoolimports.com
+/ads1.
 /ads1.$~xmlhttprequest,domain=~ads-i.org
 /ads468.$image
 /ads468x60.$image
@@ -1144,6 +1190,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /ads?zone=
 /ads?zone_id=
 /ads_$script,subdocument
+/ads_banner
 /ads_banners/*$image
 /ads_bg.$image
 /ads_controller.js$script
@@ -1161,6 +1208,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /adscroll.js$script
 /adsct?
 /adsdelivery/*$subdocument
+/adsense/
 /adserv.$script
 /adserve/*$popup
 /adserve/*$script
@@ -1170,9 +1218,11 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /adserver/*$popup
 /adserver3.$image,script
 /adservice$script,xhr
+/adservice/
 /adsfactor_ab
 /adsforwp-front.min.css$stylesheet
 /adshow.$script,subdocument
+/adshowcache
 /adside.$script,xhr
 /adside/$script,xhr
 /adsimage/*$image,domain=~kamaz-service.kz|~theatreticketsdirect.co.uk
@@ -1189,6 +1239,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /adstrack.js
 /adstracking.$script
 /adstream_sx.ads/*$popup
+/adsview/
 /adswrapper.js$script
 /ads~adsize~
 /adtech;
@@ -1213,10 +1264,13 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /adverjs/
 /advert.$~script,~xmlhttprequest,domain=~advert.ae|~advert.club|~advert.com.tr|~advert.ee|~advert.ge|~advert.io|~advert.media|~advert.org.pl|~motortrader.com.my
 /advert/youxi.js
+/advertisement/
 /advertising/ad-shield.js$script
 /advertising/banners/*$image
 /adverts.$~script,~xmlhttprequest,domain=~0xacab.org|~adverts.ie|~adverts.org.ua|~github.com|~gitlab.com
 /adverts/*$~xmlhttprequest
+/advimg/
+/advpic/
 /advpic/$image
 /advrotator_banner_largo.htm$subdocument
 /advstats.js
@@ -1252,6 +1306,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /afx_prid/*$script
 /agent.php?spot=$domain=justthegays.com
 /agetsou.js
+/agfile/
 /aggbug.aspx?
 /ahoy/events
 /ahoy/visits
@@ -1317,6 +1372,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /amp/pingback?
 /amp4ads-host-v0.js$script
 /amp_pingback/
+/analyse.js
 /analysis-logger/
 /analysistag.js
 /analytic/pageview
@@ -1510,6 +1566,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /article_hit.php?
 /articleomnituretracking.js
 /aser_$domain=9gui.net|miejw.com
+/ashow.aspx?aid=
 /aspixel.js
 /asset/js/gglms.
 /assets-cdonanalytics.js
@@ -1575,6 +1632,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /baha/*$subdocument,domain=gamer.com.tw
 /baichuan/*$subdocument
 /baidu_ads/$subdocument,script
+/baiduad
 /baidugg/
 /baidustatistics.js
 /ban.php?$~xmlhttprequest
@@ -1607,6 +1665,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /banners/adv/*$~xmlhttprequest
 /banners/affil/*$image
 /banners/affiliate/*$image
+/banners?
 /base/es5/bundle.js
 /base/es6/bundle.js
 /batch.gif?
@@ -1625,6 +1684,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /bdun.bsc?$subdocument
 /beacon.cgi?
 /beacon.gif?
+/beacon.js
 /beacon.min.js
 /beacon/affiliates
 /beacon/collector/
@@ -1675,6 +1735,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /blog/showdetail.php?z=$script
 /blogcounter.js
 /bloomreach.js
+/bluekai.js
 /bluekai.min.js
 /bmqp6001-
 /bmqp6002-
@@ -1730,6 +1791,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /c.gif?
 /c.wrating.com/
 /c/674_rlt.js
+/c/i.php?id=$script
 /c2_count.js
 /c?siteid=$image,script
 /c_track.php?
@@ -1814,10 +1876,12 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /click-tracking.js
 /click.php?lp=data_upd&
 /click/impression?
+/click?adv=
 /click?adv=$popup
 /click?track=
 /click_metrics-jquery.js
 /click_stats.js
+/click_track.js
 /click_tracking.js
 /clickcount.asp
 /clickcount.js
@@ -1879,11 +1943,14 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /code/adview_
 /code/cpc.$script
 /code/cpc.asp?
+/code/cpm.asp?
+/code/cpv.asp?
 /code/https-v2.js?uid=
 /code/mypop.asp?
 /code/native.js?h=$script
 /code/pccpcv.php
 /code/pop_cpf.
+/code/popjs.
 /code/popjs.asp?
 /code/pops.js?h=$script
 /code/silent.js?h=$script
@@ -1952,6 +2019,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /content/ads/*$~xmlhttprequest
 /content/clyscontent.js
 /contentiq.js
+/conversion_async.js
 /convertro.js
 /cookie.gif?
 /cookie_ga.js
@@ -1969,6 +2037,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /count.fcgi?
 /count.fgi?
 /count.gif?
+/count.php?
 /count.png?
 /count/count.cgi?
 /count/logcount.html?
@@ -2008,6 +2077,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /cpmbanners.js$script
 /cpmshopads^
 /cpro.$popup
+/cpro/ui/
 /cpv/bd/$script,image
 /cpv123
 /create-lead.js
@@ -2162,6 +2232,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /duel-analytics.js
 /duilian.$domain=~388g.com|~msra.cn|~supfree.net
 /duilian2.
+/duilian_
 /duilian_gg.
 /duoteimg/dtnew_assets/pc/js/tech/chaping.
 /duoteimg/dtnew_recom_img/duoteself/
@@ -2347,9 +2418,12 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /fgh1ijkl.js$script
 /fhhytagnew
 /figanalytics-short-ttl.js
+/files/adv/
 /fingerprint.js$domain=~github.com
 /fingerprint.min.js
 /fingerprint/iife.min.js
+/fingerprint2.js
+/fingerprint2.min.js
 /fingerprint3.js
 /fingerprint3.min.js
 /firebase-performance-compat.js
@@ -2361,6 +2435,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /fkunion
 /flashad.asp$subdocument
 /flashad.js$script
+/flipptag.js
 /float.js^$script,domain=~keylol.com
 /float_ad.js$script
 /float_r.js
@@ -2409,6 +2484,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /fprnt.min.js
 /fps/check.php
 /fptrk.min.js
+/fpv2.js
 /freecgi/count.cgi?
 /friendbuy.min.js
 /frm_adv.aspx
@@ -2433,6 +2509,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /fusion/lucid/data/
 /fx168_ad
 /fyckld0t/ckp/fd3w4/*$third-party
+/g-g/
 /g.jsp?uid=$script
 /g_track.php?
 /ga-audiences?
@@ -2494,6 +2571,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /game/aplus/pptv/
 /gamedog_mobile_
 /gamer/*$subdocument,domain=gamer.com.tw
+/gampad/
 /ganalytics.js
 /gao.
 /gao/
@@ -2547,6 +2625,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /getlog.gif
 /getstats.js.php
 /gg-sel.$subdocument
+/gg.$script
 /gg.html|$subdocument
 /gg.php
 /gg/$domain=~cnr.cn|~20-0.net|~health.dahe.cn
@@ -2556,6 +2635,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /gg54.oss-
 /gg7f5kv/
 /gg_a.
+/gg_ad/
 /gg_d.php
 /gg_details_
 /gg_final
@@ -2563,12 +2643,14 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /gg_t.php
 /ggad
 /ggao.
+/ggao/
 /ggaotp/
 /ggclass/
 /ggdata1.
 /ggg/$image,object
 /ggg530.oss-
 /gggg
+/gghead
 /ggimages/
 /ggjs/
 /ggpic/
@@ -2627,24 +2709,29 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /googlevideoads
 /gospel2truth.js$third-party
 /gpt-prebid.js$script
+/gpt.js$script
 /gpt_ads-public.js$script
 /graphql/track-pageview$xmlhttprequest
 /grumi-ip.js
 /gs-analytics-init.js
 /gs-analytics.js
+/gs.gif?
 /gtag.js
 /gtag.min.js
 /gtag/general_tracker.js
+/gtag/js?
 /gtagv4.js
 /gtm-data-layer-$script
 /gtm-listeners.js
 /gtm-suite.js
+/gtm.js
 /gtm.js?$popup
 /gtm.min.js
 /gtm/gtm-
 /gtmdatalayer.js
 /gtmtracking.js
 /gtool.js$domain=51live.com|52waha.com|ccav5.com|zhibo7.com
+/guang/
 /guang/5liao.me.gif
 /guang/guang*.js
 /guang/mhys.jpg
@@ -2652,6 +2739,9 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /guang/twuu.gif
 /guangao/
 /guangg/
+/guanggao
+/guanggao.
+/guanggao/
 /guanggao2.
 /gunosyadssdkv2.js$script
 /gupiao.gif$image
@@ -2738,7 +2828,9 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /htdocs/js/admiral/init.js
 /html.ng/
 /html/709/*.js
+/html/ads
 /html/cbjs.html?id=$subdocument
+/html/click/
 /html/hot_s
 /html/taobao_focus_
 /html/yuedu$subdocument
@@ -2750,6 +2842,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /huya/main/widget/roomgg
 /huya_promotion_content_
 /hxli/$image,object
+/i.gif?
 /i.js^$script
 /i.php?i=
 /i.png?id=
@@ -2765,6 +2858,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /icast/
 /icf-analytics.js
 /id?d_visid_
+/idcgg/
 /if/07top-new
 /if/services/tdg?hs=
 /ifeng_jdttemplate.js
@@ -2818,6 +2912,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /img/skin/tao$domain=firefox.com.cn|firefoxchina.cn
 /img?eid=
 /img_ad/*$image,domain=~daily.co.jp|~ehonnavi.net
+/imgad
 /imgcount.cgi?
 /imgcount.php?
 /imgevent?
@@ -2860,8 +2955,10 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /index.php/customize/list?params=
 /index.php/statistics/ads_show?
 /index.track?
+/index_ad/
 /index_ad/*$image
 /index_banner_
+/indexad.js
 /indexpc.html?agent=$popup
 /indextools.js
 /infinity.js.aspx?$script
@@ -2932,6 +3029,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /jquery.trackstar.js
 /js-sdk-event.min.js
 /js/1.htm$subdocument
+/js/118.
 /js/22.$subdocument
 /js/3000.$domain=~dict.naver.com
 /js/300x250-
@@ -2940,6 +3038,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /js/_analytics.js
 /js/aa.htm$script
 /js/aahome.htm
+/js/acmsd/
 /js/ad1.
 /js/ad_common.js$script
 /js/ad_tv.js
@@ -2947,6 +3046,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /js/adpopup.js$script
 /js/adv-slide-toggle.
 /js/adv.js?
+/js/advert.js
 /js/advrotator.js$script
 /js/analitics.js
 /js/asp.js^$script
@@ -3009,6 +3109,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /js/mmdaohang_2.js
 /js/mob/cpc_bottom.js
 /js/mu/
+/js/newtc.js
 /js/outwin
 /js/page_ad_$script
 /js/pcbook.js?
@@ -3027,11 +3128,13 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /js/utils51.js
 /js/utils78.js
 /js/wahha/
+/js/wlfloat.js
 /js/xia44$subdocument
 /js/you1$subdocument
 /js/yueyupp_3.js
 /js/yun.
 /js/yzgg.js
+/js/yzz/
 /js/zzz.js
 /js_adscommon.js
 /js_ibeat_ext.cms
@@ -3155,9 +3258,11 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /lm/iframe/js/blognew2011
 /lmaz-ads-bannesr/*$script
 /lmt_v
+/load.gif
 /load_analytics.php
 /loader-wp/static/loader.min.js?
 /loader/counter.js
+/loading.gif
 /localga.js
 /locotrack.js
 /log-moltron-interaction?
@@ -3175,6 +3280,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /log/analytics
 /log/browser/event
 /log/client/messages
+/log/collect/
 /log/counter?
 /log/debug?
 /log/error?
@@ -3189,6 +3295,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /log/metrics?
 /log/page-view
 /log/pageview
+/log/report/
 /log/sentry/
 /log/server?
 /log/track/
@@ -3281,6 +3388,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /magpie.js
 /maimg/
 /main.js?v=*&sp=*&ty=
+/main/s?
 /maizhan/js/age.js
 /manduan-dev.oss-
 /marfeelanalytics.js
@@ -3307,6 +3415,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /measure/visit/
 /media/fitad/
 /media_ads/*$image
+/mediacontroller
 /medialaanuniversaltracker.js
 /mediametrie.js
 /mediatega.js
@@ -3391,6 +3500,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /mongoose.fp.js
 /monitor/v1/log
 /monitor?rtype=
+/monitor_analytic.js
 /monitoring?o=$xmlhttprequest
 /monitus.js
 /monsido.js
@@ -3584,6 +3694,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /pagead/conversion.js$script
 /pagecount.php?
 /pagecounter.adp?
+/pagecpv/
 /pagedot.gif?
 /pageear.js$script
 /pageear/*$script
@@ -3603,6 +3714,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /pagetracker?
 /pagetracking.js
 /pageview.ashx
+/pageview.js
 /pageview;
 /pageview?client=
 /pageview?key=
@@ -3627,6 +3739,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /partneradwidget.$subdocument
 /partnerbanner.$~xmlhttprequest,domain=~toltech.cn
 /partnermetrics.js
+/paypic/
 /pbasitetracker.min.js
 /pbjsandwichdirecta9-$script
 /pc/tpl/baibaipc//js/
@@ -3668,6 +3781,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /phpmyvisites.js
 /piano-analytics.js
 /piao.js|
+/piaofu.
 /piaofu.js
 /piaofu/
 /pic.jsp?uid=$script
@@ -3694,6 +3808,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /pinterest-pixels.js
 /pipi1.htm$subdocument
 /piwik-$domain=~github.com|~matomo.org|~piwik.org|~piwik.pro|~piwikpro.de
+/piwik.
 /piwik.$image,script,domain=~matomo.org|~piwik.org|~piwik.pro|~piwikpro.de
 /piwik/*$domain=~github.com|~matomo.org|~piwik.org|~piwik.pro
 /piwik1.
@@ -3822,6 +3937,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /popme.
 /popu.js$script
 /popunder.$popup
+/popunder/in/click/
 /popunder/in/click/*$popup
 /popunder1.js$script
 /popunder1000.js$script
@@ -3853,9 +3969,11 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /prebid1.$script
 /prebid2.$script
 /prebid3.$script
+/prebid4.$script
 /prebid5.$script
 /prebid6.$script
 /prebid7.$script
+/prebid8.$script
 /prebid9.$script
 /prebid_$script
 /prebidlink/*$script
@@ -3883,6 +4001,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /propagate_cookie.php
 /providers/atlabel/load|
 /proxy.htm?id=
+/proxy.html?id=
 /proxy.html?id=$subdocument
 /proxy_top_banner_js.php
 /pt.gif?
@@ -3923,6 +4042,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /pushstart.aspx|$subdocument
 /pushstart.html?$popup
 /pushsystem/attached/image/
+/pv.gif?
 /pv/?aid=
 /pv2.gif?
 /pv?place=
@@ -4053,6 +4173,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /right_ads.$~xmlhttprequest
 /rightad.js$script
 /rightcornerpop/
+/risk_fp_log?
 /riveted.min.js
 /rivraddon.js
 /rkrt_tracker-viajs.php
@@ -4136,6 +4257,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /s.gif?
 /s.php?id=$script
 /s.png?event=
+/s/i.php?id=$script
 /s/js/fshow.js$third-party
 /s/js/ta-2.3.js?
 /s/vestigo/measure
@@ -4208,6 +4330,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /scrollgg_index.js
 /sda/*$domain=chineseinla.com
 /sdaanalytics.js
+/sdc.js
 /sdc1.js
 /sdc2.js
 /sdctag1.js
@@ -4234,6 +4357,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /sendy/t/*$image
 /sensor.modern.ncl.min.js
 /sensor/statistic?
+/sensorsdata-
 /sensorsdata.$domain=~sensorsdata.cn
 /sentry-browser.min.js
 /sentry-browser.tracing.es5.min.js
@@ -4397,6 +4521,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /sp_analytics.js
 /sp_tracker.js
 /spacedesc=
+/spacer.gif?
 /spc.php?$script
 /spcjs.php$script
 /special/specialctrl.js$script
@@ -4426,6 +4551,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /stat/event/
 /stat/event?
 /stat/fe?
+/stat/rt/js?
 /stat/stat.php?type=
 /stat2.aspx?
 /stat2.js
@@ -4718,6 +4844,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /to8to_pc/chunks/slide_and_popup_
 /token?referer=
 /tomflashadchanel
+/tongji.js
 /tongji.js|$domain=~zongheng.com
 /top-ad.$~xmlhttprequest
 /top_950
@@ -4764,6 +4891,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /track/client-events
 /track/cm?
 /track/component/
+/track/event/
 /track/go.php?*&referer_url=
 /track/hit.gif
 /track/identity?
@@ -4782,6 +4910,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /track?*&event=
 /track?_event=
 /track?cb=
+/track?data=
 /track?event=
 /track?event_id=
 /track?eventkey=
@@ -4805,6 +4934,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /track_visit.js
 /track_visit?
 /track_visitor?
+/trackad.js
 /trackbatchevents?
 /trackclick.
 /trackclickevent.js
@@ -4817,6 +4947,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /tracker/imp?
 /tracker_async.js
 /trackerpageanalytics.js
+/trackevent.js
 /trackga.js
 /trackga.min.js
 /tracking-analytics-events.js
@@ -4917,6 +5048,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /trck/etms/
 /trckutil.min.js
 /trendmd.min.js
+/tres/recommend/
 /tres/recommend/*$domain=ifeng.com
 /tres/ylgm/
 /triadshow.asp$script,subdocument
@@ -4977,6 +5109,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /upload/vod/2018-08-05/201808051533458526.png
 /urchin.gif?
 /urchin.html?
+/urchin.js
 /usage/clickstream?
 /usage/reportevent?
 /user-context?referrer=
@@ -5005,6 +5138,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /uutils.fcg?
 /uuzu_
 /v.aspx?bln=$script
+/v.gif?
 /v.gif?logtype=
 /v1/adn/visit|
 /v1/log/web-vitals$xmlhttprequest
@@ -5120,6 +5254,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /vv_moyu
 /vwfiles/analytics/
 /w-z1.
+/w.gif?
 /w300/h250/
 /w728/h90/
 /w_e_b/de_li_ve_ry/a_j_s.php?zid=$domain=cnlmjx.com
@@ -5196,6 +5331,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /wizard.js^
 /wlexpert_tracker.js
 /wmxtracker.js
+/woocommerce-google-adwords-conversion-tracking-tag/
 /woopra.js
 /wordpress-ads-plug-in/*$script,stylesheet
 /wp-admin/admin-ajax.php?action=adblockvisitor$~third-party
@@ -5280,6 +5416,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /wup?cid=
 /wutime-adblocktracker/
 /www/deliver/
+/www/delivery/
 /www/delivery/*$script,subdocument
 /wwwcount.cgi?
 /wwwcpm
@@ -5357,6 +5494,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /yt-track-streamer
 /yuegui.js|
 /yunfile/offline_banner/
+/yxcoupletsad
 /yxkucode
 /yy_transv/js/cmp.js
 /yzjy.$subdocument
@@ -5365,12 +5503,14 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /zaius-min.js
 /zaius.js
 /zanox.js
+/zanzhu
 /zaraz/s.js
 /zcool-analytics.js
 /zcredirect?$document
 /zcredirect?$popup
 /zcvisitor/*$popup
 /zdcc.min.js
+/zhifubao
 /zhugeio.js
 /zone?pub=*&zone_id=
 /zongheng_chat_loader
@@ -5382,10 +5522,13 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /zz/zuoxia2.txt
 /zzzz/assets/js/common/discor_list.js
 /~cdn/ads/
+100.pncdn.cn
 17u.cn
 37cs.com
 37gowan.com
+40017.cn
 4009997658.com
+51.la
 5hte21mz.com
 ://*.justthegays.com/$script,~third-party
 ://*.tv/ad/$domain=~moviedj.tv
@@ -5487,14 +5630,16 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 ://tracking.*/beacon/
 ://tracking.*/event
 ://uads.$third-party,xmlhttprequest
-://www.*.com/article/*/-1/$script,subdocument,xmlhttprequest
-://www.*.com/article/*/a/$subdocument,domain=~edu|~gov
+://www.*.com/*/-1/327/$script,subdocument,xmlhttprequest
+://www.*.com/*/-1/70/$script,subdocument,xmlhttprequest
+://www.*.com/players/*/-1/$script,subdocument,xmlhttprequest
+://www.*.com/players/*/a/$subdocument,domain=~edu|~gov
 ://www.*.com/script/*.com.js|$script
 ://www.*.com/script/*.org.js|$script
 ://www.*.js|$script,domain=159i.com|r3sub.com|thisav.com
-://www.*.xyz/article/*/-1/$script,subdocument,xmlhttprequest
-://www.*.xyz/article/*/a/$subdocument
-://www.*.xyz/article/*?h=$script
+://www.*.xyz/players/*/-1/$script,subdocument,xmlhttprequest
+://www.*.xyz/players/*/a/$subdocument
+://www.*.xyz/players/*?h=$script
 ://www.*.xyz/script/*.com.js|$script
 ://www.vinted.*/relay/events
 ://xingkong6688s.oss-
@@ -5595,6 +5740,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 ?statify_referrer=
 ?type=page&event=
 ?type=pageview&
+?usid=*&utid=
 ?v=2&tid=g-$~third-party
 ?whichad=freestar&
 ?wppaszoneid=
@@ -6071,6 +6217,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 @@||bdimg.com/static/wkcore/widget/adcontrol/adcontrol_
 @@||bdstatic.com/??*,*,*,
 @@||bdstatic.com/po/??*,*,*,
+@@||bdstatic.com/static/common/widget/ui/admanager/
 @@||bdstatic.com/static/common/widget/ui/admanager/$script,domain=image.baidu.com
 @@||bdstatic.com/static/exp-pc/article/widget/cms-banner-ads/cms-banner-ads_*.css
 @@||bdstatic.com^$domain=17k.com
@@ -6301,6 +6448,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 @@||duckduckgo.com/?q=$generichide
 @@||duelmeta.com^$generichide
 @@||dushu.ru^$script,domain=bhshu.net
+@@||dwstatic.com/b=amkit
 @@||dwstatic.com/b=amkit&f=*/adjoin.
 @@||e.cn.miaozhen.com/r/k=*=http
 @@||e9china.net^$generichide
@@ -6557,7 +6705,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 @@||ikea.cn^*/img/ads/
 @@||image.shutterstock.com^$image,domain=icons8.com
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=247sports.com|airtelxstream.in|antena3.ro|api.screen9.com|asianctv.upns.pro|asianembed.cam|autokult.pl|bbc.com|blastingnews.com|bloomberg.co.jp|bloomberg.com|bsfuji.tv|cbc.ca|cbsnews.com|cbssports.com|chicagotribune.com|clickorlando.com|cnet.com|crunchyroll.com|delish.com|digi24.ro|distro.tv|doubtnut.com|einthusan.tv|etonline.com|farfeshplus.com|filmweb.pl|game.pointmall.rakuten.net|gamebox.gesoten.com|gamepix.com|gameplayneo.com|games.usatoday.com|gbnews.com|geo.dailymotion.com|givemesport.com|goodmorningamerica.com|goodstream.uno|gospodari.com|haberler.com|howstuffworks.com|humix.com|ignboards.com|iheart.com|insideedition.com|irctc.co.in|klix.ba|ktla.com|kxan.com|laurelberninteriors.com|lemino.docomo.ne.jp|locipo.jp|maharashtratimes.com|maxpreps.com|metacritic.com|minigame.aeriagames.jp|missoulian.com|myspace.com|nettavisen.no|paralympic.org|paramountplus.com|player.abacast.net|player.amperwave.net|player.earthtv.com|player.performgroup.com|plex.tv|pointmall.rakuten.co.jp|realmadrid.com|rte.ie|rumble.com|s.yimg.jp|scrippsdigital.com|sonyliv.com|southpark.lat|southparkstudios.com|spiele.heise.de|sportsbull.jp|sportsport.ba|stirr.com|success-games.net|synk-casualgames.com|tbs.co.jp|tdn.com|thecw.com|truvid.com|tubitv.com|tunein.com|tv-asahi.co.jp|tv.abcnyheter.no|tv.finansavisen.no|tv.rakuten.co.jp|tver.jp|tvp.pl|univtec.com|utsports.com|video.tv-tokyo.co.jp|vlive.tv|watch.nba.com|wbal.com|weather.com|webdunia.com|wellgames.com|worldsurfleague.com|wowbiz.ro|wsj.com|wtk.pl|zdnet.com|zeebiz.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=247sports.com|airtelxstream.in|antena3.ro|api.screen9.com|asianctv.upns.pro|asianembed.cam|autokult.pl|bbc.com|blastingnews.com|bloomberg.co.jp|bloomberg.com|bsfuji.tv|cbc.ca|cbsnews.com|cbssports.com|chicagotribune.com|clickorlando.com|cnet.com|crunchyroll.com|delish.com|digi24.ro|distro.tv|doubtnut.com|einthusan.tv|etonline.com|farfeshplus.com|filmweb.pl|game.pointmall.rakuten.net|gamebox.gesoten.com|gamepix.com|gameplayneo.com|games.usatoday.com|gbnews.com|geo.dailymotion.com|givemesport.com|goodmorningamerica.com|goodstream.uno|gospodari.com|haberler.com|howstuffworks.com|humix.com|ignboards.com|iheart.com|insideedition.com|irctc.co.in|jilliandescribecompany.com|klix.ba|ktla.com|kxan.com|laurelberninteriors.com|lemino.docomo.ne.jp|locipo.jp|maharashtratimes.com|maxpreps.com|metacritic.com|minigame.aeriagames.jp|missoulian.com|myspace.com|nettavisen.no|paralympic.org|paramountplus.com|player.abacast.net|player.amperwave.net|player.earthtv.com|player.performgroup.com|plex.tv|pointmall.rakuten.co.jp|realmadrid.com|rte.ie|rumble.com|s.yimg.jp|scrippsdigital.com|sonyliv.com|southpark.lat|southparkstudios.com|spiele.heise.de|sportsbull.jp|sportsport.ba|stirr.com|success-games.net|synk-casualgames.com|tbs.co.jp|tdn.com|thecw.com|truvid.com|tubitv.com|tunein.com|tv-asahi.co.jp|tv.abcnyheter.no|tv.finansavisen.no|tv.rakuten.co.jp|tver.jp|tvp.pl|univtec.com|utsports.com|video.tv-tokyo.co.jp|vlive.tv|watch.nba.com|wbal.com|weather.com|webdunia.com|wellgames.com|worldsurfleague.com|wowbiz.ro|wsj.com|wtk.pl|zdnet.com|zeebiz.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=4gtv.tv|881903.com|ani.gamer.com.tw|appledaily.com|ha365.com|hamivideo.hinet.net|line.me|linetv.tw|litv.tv|mytvsuper.com|nextmedia.com|now.com|tvb.com|udn.com|ulifestyle.com.hk
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=247sports.com|4029tv.com|bet.com|bloomberg.co.jp|bloomberg.com|cbc.ca|cbssports.com|cc.com|clickorlando.com|digi24.ro|gbnews.com|history.com|kcci.com|kcra.com|ketv.com|kmbc.com|koat.com|koco.com|ksbw.com|mynbc5.com|paramountplus.com|s.yimg.jp|sbs.com.au|tv.rakuten.co.jp|vk.sportsbull.jp|wapt.com|wbaltv.com|wcvb.com|wdsu.com|wesh.com|wgal.com|wisn.com|wjcl.com|wlky.com|wlwt.com|wmtw.com|wmur.com|worldsurfleague.com|wpbf.com|wtae.com|wvtm13.com|wxii12.com|wyff4.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_debug.js$domain=abcnews.go.com|brightcove.net|cbsnews.com|embed.sportsline.com|insideedition.com|pch.com|utsports.com
@@ -7384,7 +7532,10 @@ _160x600_
 _300-250-
 _300_250_$image
 _300x250-
+_300x250.
+_300x250_
 _300x600.
+_300x600_
 _320x250_
 _323x120_
 _336x120.
@@ -7449,6 +7600,7 @@ _728x60.
 _728x90-
 _728x90.
 _728x90/
+_728x90_
 _728x90_$image
 _750x100.
 _760x100.
@@ -7460,6 +7612,7 @@ _960.$image
 _960_60.$image
 _960_90.$image
 _ad.js|
+_ad.php?
 _ad_250.$image
 _ad_300.$image
 _ad_close.$image
@@ -7502,6 +7655,7 @@ _vwnrsbjs?
 _webanalytics.
 _webvitalsreporter_
 _yad_jsonp_
+a2zapk.io###modalpop
 a2zapk.io###modalpop-content
 abbyychina.com
 ada.baidu.com
@@ -7522,15 +7676,22 @@ dd.yiche.com
 diwenganzaoji.com
 dlads.cn
 douban.com##.talion-nav-footer
+doubleclick.net
 duckduckgo.com##.js-atb-banner
 easyrecoverychina.com
 ediuschina.com
+enennsa.gushiwen.cn
+erebor.douban.com
 flstudiochina.com
+fpb.sohu.com
+g.163.com
+g1.tagtic.cn
 guitarpro.cc
 huishenghuiying.com.cn
 hxsame.hexun.com$domain=~quote.hexun.com
 iconworkshop.cn
 icws.jb51.net
+imasdk.googleapis.com
 img.easypass.cn
 imindmap.cc
 irs01.com
@@ -7550,6 +7711,7 @@ m.yfsp.tv##.container
 mairuanwang.com
 makeding.com
 mathtype.cn
+mediav.com
 meijutt.*/js/pcjs/
 mfp.deliver.ifeng.com
 mindmanager.cc
@@ -7563,29 +7725,38 @@ pagemediacontrol*$script
 parallelsdesktop.cn
 pdfexpert.cc
 pfp.sina.net
+qcvf.ifeng.com
 qpb.sohu.com
 ravenscans.com###teaserbottom
 shankejingling.com
 sina.cn###float-btn
 sspai.com###btn-call-app
 swc.weather.com.cn
+taboola.com
+tanx.com
 taobao.qq.com
 testpages.eyeo.com*js/test-script-regex
 testpages.eyeo.com*js/test-script.js
+track.sohu.com
 tuijian.sogou.com
 u-x.jd.com
 u8.hujiang.com
+ubmcmm.baidustatic.com
+udiab1.jianshu.com
 vegaschina.cn
 webcert.cnmstl.net
+wrating.com
 ws://*/api/wss/getnotreadcount$third-party
 wss://*.*.top/$third-party
 wss://*.top/|
 wss://*.xyz:*?x=$third-party
 wss://*/api/wss/getnotreadcount$third-party
 wss://www.*.xyz/ws^$third-party
+wwads.cn
 www.startpage.com##.mobile-app-promo-banner
 www.txrjy.com###tryOpenApp
 www.zhzzx.com||000webhost.com/images/banners/
+x.jd.com
 xshellcn.com
 yihuifu.cn
 yydstxt*.com/js/cdn.
@@ -7876,6 +8047,7 @@ yydstxt*.com/js/html
 ||122cafc086.com^
 ||123-proxy.net^
 ||123-proxy.org^
+||123-stream.org^
 ||123-stream.org^$popup
 ||123.manga1001.top^
 ||123.sogou.com/discover/?
@@ -8167,6 +8339,7 @@ yydstxt*.com/js/html
 ||1v9.gg^
 ||1wihrq.life^
 ||1wincdn.b-cdn.net^
+||1winpb.com^
 ||1winpb.com^$popup
 ||1wjpvy.life^
 ||1wlvkt.life^
@@ -8605,6 +8778,7 @@ yydstxt*.com/js/html
 ||3g.cn/index.php?s=index/adv&
 ||3g.qq.com/lview?
 ||3ggigb7.com^
+||3gmfw.cn/js/wap/
 ||3gokushi.jp^
 ||3h3.com/gmobile/gujs/
 ||3h3.com/js/homepage.js
@@ -8801,6 +8975,7 @@ yydstxt*.com/js/html
 ||51e3337e65.com^
 ||51fanli.net/misc/images/invite-v4/banner.gif
 ||51gxqm.com^
+||51hanhua.com/2013/
 ||51ifind.com^
 ||51img1.com/v6/my/js/bdm.js
 ||51liucheng.com/js/dialoglogin.js
@@ -9082,6 +9257,7 @@ yydstxt*.com/js/html
 ||7-e-tvms09mard-z.com^
 ||7-h-a-c.com^
 ||7.biz^
+||70.86.24.120:8060/
 ||700055.xyz^
 ||7011.stia.cn^
 ||70822.com/agfile/
@@ -9097,6 +9273,7 @@ yydstxt*.com/js/html
 ||738382910483.com^
 ||73cyql51uekd72.com^
 ||73k2yj.lol^
+||75.125.41.29:8080/
 ||75j6s9.lol^
 ||75win44.com^
 ||76898102.xyz^
@@ -9152,6 +9329,7 @@ yydstxt*.com/js/html
 ||7junshi.com/static/red-envelopes.js
 ||7k7k.com/api/position/
 ||7k7k.com/js/bg-img.js
+||7k7k.com^
 ||7k7k.com^*/loding.htm
 ||7k96-wanduzi6.com^
 ||7kankan.com/scripts/new/indext
@@ -9288,6 +9466,7 @@ yydstxt*.com/js/html
 ||8q88n.icu^
 ||8r80zf2q.com^
 ||8radc6a0m2.com^
+||8s5s.com^
 ||8s5s.com^$popup
 ||8s8s.com/data/banner/
 ||8seaa.com/template/assets1/js/vue.js
@@ -9660,6 +9839,7 @@ yydstxt*.com/js/html
 ||ab360.site^
 ||aba-music.ir^
 ||abab.com/pv.js
+||abadit5rckb.com^
 ||abadit5rckb.com^$popup
 ||abadit5rckd.com^$popup
 ||abanetabipon.top^$popup
@@ -9863,7 +10043,9 @@ yydstxt*.com/js/html
 ||ad-pole.com^
 ||ad-serve.b-cdn.net^
 ||ad-spire.net^
+||ad.
 ||ad.12306.cn/res/*.html
+||ad.22betpartners.com^
 ||ad.22betpartners.com^$popup
 ||ad.52av.one^
 ||ad.52av.tv^
@@ -9912,6 +10094,7 @@ yydstxt*.com/js/html
 ||ad.wsod.com^
 ||ad.wurangxian.top^
 ||ad.xiaomi.com^
+||ad.ymcdn.org^
 ||ad.ymcdn.org^$popup
 ||ad.youku.com/vp?
 ||ad01.tmgrup.com.tr^
@@ -9940,6 +10123,7 @@ yydstxt*.com/js/html
 ||adblock-zen-download.com^$popup
 ||adblock-zen.com^$popup
 ||adblocker-sentinel.net^$popup
+||adblockeromega.com^
 ||adblockeromega.com^$popup
 ||adblockeronstape.me/stat/
 ||adblockeronstreamtape.me/stat/
@@ -9975,6 +10159,7 @@ yydstxt*.com/js/html
 ||addai.cz^
 ||addalzq.com^
 ||addamanage.com^
+||addefenderplus.info^
 ||addefenderplus.info^$popup
 ||addotnet.com^$popup
 ||addplus.org^
@@ -10120,6 +10305,7 @@ yydstxt*.com/js/html
 ||ads-trk.vidible.tv^
 ||ads-union.jd.com^
 ||ads-yallo-production.imgix.net^
+||ads.
 ||ads.audio.thisisdax.com^
 ||ads.betfair.com^
 ||ads.ipfighter.com^
@@ -10156,12 +10342,18 @@ yydstxt*.com/js/html
 ||adschoom.com^
 ||adscientificindex.com^
 ||adsclick.yx.js.cn^
+||adsco.re^
 ||adsco.re^$popup
 ||adsdk.microsoft.com^
 ||adsdk.yandex.ru^
 ||adsdolf.in^
+||adsense.
 ||adserver-2084671375.us-east-1.elb.amazonaws.com^
+||adserver.
 ||adserverplus.com^$popup
+||adservice.
+||adservice.google.
+||adserving.unibet.com^
 ||adserving.unibet.com^$popup
 ||adsfile.
 ||adshostnet.com^$popup
@@ -10577,6 +10769,7 @@ yydstxt*.com/js/html
 ||aiwen.cc^
 ||aixiaofan.cn/content/uploadfile/tpl_options//ad_list_
 ||aixiaoju.com/dbxf/*.js
+||aixifan.com/acsdk/log.min.js?
 ||aixifan.com/appspreadcontents/danmuad
 ||aixifan.com/apsdk/apsdk.js
 ||aixifan.com/cms/*/w/1160/h/100
@@ -10889,6 +11082,7 @@ yydstxt*.com/js/html
 ||allpeople.biz^
 ||allpeoplecn.com^
 ||allpfree.com^
+||allsportsflix.
 ||allsportsflix.best^$popup
 ||allsportsflix.top^$popup
 ||allsporttv.com^$popup
@@ -10973,6 +11167,7 @@ yydstxt*.com/js/html
 ||amax-xyfut.store^
 ||amazing-dating.com^$popup
 ||amazingseasun.com^
+||amazon-adsystem.com^
 ||amazon-adsystem.com^$popup,domain=twitch.tv
 ||amazon-presse.de^
 ||amazon.com/1/aiv-web-player/1/oe^
@@ -11411,6 +11606,7 @@ yydstxt*.com/js/html
 ||anizle.com^
 ||anjuke.com^*/ajax/business_area_search/
 ||ankangwang.com/js/info.js
+||ankdoier.com^
 ||ankdoier.com^$popup
 ||anlegerrechte24.de^
 ||anmdr.link^$popup
@@ -11674,12 +11870,14 @@ yydstxt*.com/js/html
 ||appmifile.com/webfile/globalweb/stat/
 ||appoineditardwide.com^$popup
 ||appointedd.com^
+||appointeeivyspongy.com^
 ||appointeeivyspongy.com^$popup
 ||apprefaculty.pro^$popup
 ||apps-pbd.ctraffic.io^
 ||apps.dfgtfv.com^
 ||apps.omegatheme.com/facebook-pixel/
 ||apps112.com^
+||appslime.com^
 ||appslime.com^$popup
 ||appspot.com/analytics/
 ||appspot.com/api/track/
@@ -11724,6 +11922,7 @@ yydstxt*.com/js/html
 ||aquete.com^$popup
 ||aquilabee.nl^
 ||aqut-mami.online^
+||aqy103.com/js/aqy/
 ||aqyti-iri.store^
 ||aqzvzkdl7.blog^
 ||ar.429men.com^
@@ -12172,6 +12371,7 @@ yydstxt*.com/js/html
 ||autohome.com.cn/ximg/*.png$script
 ||autoimg.cn/admdfs/
 ||autoimg.cn/bi/mda/ahas_body.
+||autoimg.cn/club/v1content/images/heycar
 ||autoimg.cn/club/v1content/images/heycar1111.jpg
 ||autoimg.cn/club/v1content/images/young
 ||autoimg.cn/space/help/helprdtask.js
@@ -12215,6 +12415,7 @@ yydstxt*.com/js/html
 ||av.sharktube.net^
 ||av01.tv/av01/floating_video_ads
 ||av01.tv/images/partners/
+||av30.xyz/cs/
 ||av6k.com/templets/default/%e5%a4%a7%e5%93%a5/ad.js
 ||av6k.com/templets/default/video-ad/
 ||av99.us/player/ad.
@@ -12565,6 +12766,7 @@ yydstxt*.com/js/html
 ||bahco.com^
 ||bahjacars.com^
 ||baidu-jxf.co^$popup
+||baidu-taobao-av.com/js/
 ||baidu-taobao-av.com^*.gif
 ||baidu.com/4.gif?
 ||baidu.com/?action=getadsdata&
@@ -12752,9 +12954,11 @@ yydstxt*.com/js/html
 ||banners.adultfriendfinder.com^
 ||banners.alt.com^
 ||banners.amigos.com^
+||banners.cams.com^
 ||banners.cams.com^$popup
 ||banners.fastcupid.com^
 ||banners.fuckbookhookups.com^
+||banners.livepartners.com^
 ||banners.livepartners.com^$popup
 ||banners.nostringsattached.com^
 ||banners.outpersonals.com^
@@ -13497,6 +13701,7 @@ yydstxt*.com/js/html
 ||bimeh.com^
 ||bimiacg*.net/template/joeleo/asset/js/jquery.leeleo.js
 ||bimnodstz.com^
+||bin.cartwire.co/js/analytics.js
 ||binance.com^$popup,domain=usagoals.sx
 ||binanceapis.com^
 ||binancewv.com^
@@ -13505,6 +13710,7 @@ yydstxt*.com/js/html
 ||bindirect.click^$popup
 ||bing-net.com^
 ||bing.com/adsfetch?
+||bing.com/fd/ls/glinkping.aspx?
 ||bing.com/fd/ls/l?ig=
 ||bing.com/fd/ls/lsp.aspx
 ||bing.com/geolocation/write?
@@ -13600,6 +13806,7 @@ yydstxt*.com/js/html
 ||bitrix.info/ba.js
 ||bitscn.com/js/a2
 ||bitscreener.com^
+||bitskins.com^
 ||bitskins.com^$popup,domain=hltv.org
 ||bitstorage.finance^
 ||bitternet.ua^
@@ -13910,6 +14117,7 @@ yydstxt*.com/js/html
 ||boilhomelab.com^
 ||bojel.com^
 ||bojyvp.xyz^
+||bokecc.com/flash/playlog?
 ||bokecc.com/flash/timerecorder?
 ||bokepindo13.love^
 ||bokepindoh.pics^
@@ -14024,6 +14232,7 @@ yydstxt*.com/js/html
 ||boresh.ca^
 ||boreus.de^
 ||born2protect.de^
+||borneobulletin.com.bn/wp-content/banners/
 ||borowskirace.com^
 ||borussia.de^
 ||bosch-pt.com^
@@ -14156,6 +14365,7 @@ yydstxt*.com/js/html
 ||briefsection.com^
 ||briefupdates.com^
 ||briffrxwgxl.site^
+||brightadnetwork.com^
 ||brightadnetwork.com^$popup
 ||brighteon.tv/assets/arf/
 ||brightlightday.com^
@@ -14880,6 +15090,7 @@ yydstxt*.com/js/html
 ||cbfw.cn/gonggong/chibi/cf_
 ||cbiz.com^
 ||cbjg.cqnews.net^
+||cbjs.baidu.com/
 ||cbjs.baidu.com^
 ||cblms.gov.in^
 ||cbsaavideo.com/measurements/
@@ -15113,6 +15324,7 @@ yydstxt*.com/js/html
 ||cemikefedegoweg.info^
 ||cendien.com^
 ||centenariantips.com^
+||centent.stemplay.cc^
 ||centent.stemplay.cc^$popup
 ||centent.streamp1ay.
 ||centerbase.com^
@@ -15255,8 +15467,10 @@ yydstxt*.com/js/html
 ||chatsaigpt.com^
 ||chatsticker.com^
 ||chatterchat.com^
+||chaturbate.com/affiliates/
 ||chaturbate.com/affiliates/$popup
 ||chaturbate.com/creative/
+||chaturbate.com/in/
 ||chaturbate.com^$popup,domain=xxxbios.com
 ||chazidian.com/all/gg_
 ||chazidian.com/all/mobile_
@@ -15344,6 +15558,7 @@ yydstxt*.com/js/html
 ||china.cn/js/common/daniel_pop/
 ||china.cn/js/common/local_hydn/
 ||china.com.cn*/ads_js/
+||china.com.cn/2016ads/
 ||china.com.cn/2016ads/$subdocument
 ||china.com.cn/statics/js/js_vag/
 ||china.com/images/milapp
@@ -15656,6 +15871,7 @@ yydstxt*.com/js/html
 ||clearspring.com/at/
 ||clearspring.com/t/
 ||clearvox.nl^
+||clearwatch.tv^
 ||clearwatch.tv^$popup
 ||clentrk.com^$popup
 ||cleritas.de^
@@ -16052,8 +16268,10 @@ yydstxt*.com/js/html
 ||cnx-software.com/wp-content/uploads/*/youyeetoo-rk3568-rk3588s-sbc-intel-x1-sbc-december-2024.webp
 ||cnyw.net/autoloader.js
 ||cnzhun.com^
+||cnzz.
 ||cnzz.cn/badu.gif
 ||cnzz.cn/ssp_
+||cnzz.com/c.php?
 ||cnzz.com/stat.
 ||cnzz.trafficmanager.net^
 ||cnzzla.com/public/scripts/money.js
@@ -16604,6 +16822,7 @@ yydstxt*.com/js/html
 ||cpplay.com/inc/
 ||cpro.$domain=~baidu.com
 ||cpro.baidu.com^
+||cpro.baidustatic.com^
 ||cpro.baidustatic.com^$script,domain=sohu.com
 ||cpro.bdrmb.cn^
 ||cpro.xixiliya.cn^
@@ -17394,6 +17613,7 @@ yydstxt*.com/js/html
 ||d1ytalcrl612d7.cloudfront.net^
 ||d1yyhdmsmo3k5p.cloudfront.net^
 ||d1z1vj4sd251u9.cloudfront.net^
+||d1z2jf7jlzjs58.cloudfront.net^
 ||d1z2jf7jlzjs58.cloudfront.net^$rewrite=abp-resource:blank-js,domain=voici.fr
 ||d1z3r0i09bwium.cloudfront.net^
 ||d1z58p17sqvg6o.cloudfront.net^
@@ -18275,6 +18495,7 @@ yydstxt*.com/js/html
 ||datacad.com^
 ||datacareer.ch^
 ||datacenter.fi^
+||datacluster.club^
 ||datacluster.club^$popup
 ||datacollector-dra.dt.hicloud.com^
 ||datacomm.ch^
@@ -19064,7 +19285,9 @@ yydstxt*.com/js/html
 ||dlk457skl57zp.cloudfront.net^
 ||dlkoo.cc/down/$subdocument
 ||dlkoo.cc/down/*.htm$popup
+||dlkoo.cc/down/copy
 ||dlkoo.com/down/$subdocument
+||dlkoo.com/down/copy
 ||dllturkfqt.net^
 ||dllzjd.cn^
 ||dlmr7hpb2buud.cloudfront.net^
@@ -19457,6 +19680,7 @@ yydstxt*.com/js/html
 ||dragon-guide.net/pic001/pic/shangcheng/
 ||dragonflyathletics.com^
 ||dragongamena.com^
+||dragontea.ink^
 ||dragonthumbs.com/adcode.js
 ||dragoongaming.co.uk^
 ||drakecomic.org^
@@ -19716,6 +19940,7 @@ yydstxt*.com/js/html
 ||durianrcs.vip^
 ||durukanbal.com^
 ||dusante.co^
+||dushu.ru^
 ||dusinfo.net^
 ||dusit.com^
 ||dusterclubs.ru^
@@ -19932,6 +20157,7 @@ yydstxt*.com/js/html
 ||ea.youmaker.com^
 ||ea3w.com/pv.js
 ||ea5gamer.com^
+||eaaratte.net^
 ||eaaratte.net^$popup
 ||eabids.com^$popup
 ||eabt5r.lol^
@@ -20110,6 +20336,7 @@ yydstxt*.com/js/html
 ||eclick.360doc.com^
 ||eclick.baidu.com^
 ||eclimiw.top^
+||eclipse-adblocker.pro^
 ||eclipse-adblocker.pro^$popup
 ||eclipseadblock.info^$popup
 ||eclipseadblocker.net^$popup
@@ -20227,6 +20454,7 @@ yydstxt*.com/js/html
 ||eelkeageg.com^
 ||eellgg.com^
 ||eemoj.link^
+||eentent.streampiay.me^
 ||eentent.streampiay.me^$popup
 ||eepw.com.cn/event/action/rightbd/microchip*.js
 ||eepw.com.cn/pub/js/topfullscreen.js
@@ -21127,6 +21355,7 @@ yydstxt*.com/js/html
 ||extreme-case.com^
 ||extremepc.co.nz^
 ||extremescatporn.com/static/images/banners/
+||extsoft.info^
 ||extsoft.info^$popup
 ||exujo-exe.online^
 ||ey43.com^$popup
@@ -21551,7 +21780,9 @@ yydstxt*.com/js/html
 ||fengsui.wtf^
 ||fennyboy.com/js/dabt.js
 ||fennyboy.com/negco-
+||fentent.stre4mplay.one^
 ||fentent.stre4mplay.one^$popup
+||fentent.streampiay.me^
 ||fentent.streampiay.me^$popup
 ||fenxiangdashi.com/img/banner/
 ||fenxiangdashi.com/res/js/detail_
@@ -21743,6 +21974,7 @@ yydstxt*.com/js/html
 ||finnishsaunabuilders.com^
 ||finnonecloud.com^
 ||finom.co^
+||finreporter.net^
 ||finreporter.net^$popup
 ||finsnflora.com^
 ||fintables.com^
@@ -22538,6 +22770,7 @@ yydstxt*.com/js/html
 ||g.pcmag.com^
 ||g.rexian.net.cn/js/
 ||g.yccdn.com^
+||g0wow.net^
 ||g0wow.net^$popup
 ||g1.pptair.com^
 ||g1.tagtic.cn/v1/xingyou/c/
@@ -22878,11 +23111,13 @@ yydstxt*.com/js/html
 ||gengo.com^
 ||geni.us/snippet.js
 ||geni.us/snippet.min.js
+||geniusdexchange.com^
 ||geniusdexchange.com^$popup
 ||genpact.com.cn^
 ||genparts.eu^
 ||genshinlab.com^
 ||gensonal.com^$popup
+||gentent.stre4mplay.one^
 ||gentent.stre4mplay.one^$popup
 ||gentian-frd.hjapi.com^
 ||gentlebreeze85.xyz^
@@ -23030,6 +23265,7 @@ yydstxt*.com/js/html
 ||gg-led.com/uploadfile/uploadcompanylogo/*.gif
 ||gg-rajazeus.online^
 ||gg-rajazeus.space^
+||gg.
 ||gg.*.com/tonglan/tonglan.js
 ||gg.0598yu.com^
 ||gg.7976.top^
@@ -23104,8 +23340,10 @@ yydstxt*.com/js/html
 ||giant.net.uk^
 ||gianteagle.com/webevents/
 ||giaoji.com/runtime/js/
+||gias.jd.com/js/td.js
 ||giba-ebu.online^
 ||gibsonfurn.com^
+||giftandgamecentral.com^
 ||giftandgamecentral.com^$popup
 ||giftblooms.com^
 ||giftexpress.com^
@@ -23371,6 +23609,7 @@ yydstxt*.com/js/html
 ||goat.nhimmeo.cf^
 ||goat.skeetstats.xyz^
 ||goat.tailspace.net^
+||goathaga.top^
 ||goathaga.top^$popup
 ||goatxa.es^
 ||gobankingrates.com/fp/
@@ -23460,6 +23699,8 @@ yydstxt*.com/js/html
 ||goofyorg.com^
 ||google-analysissys.com^
 ||google-analytics-cn.com^
+||google-analytics.com
+||google-analytics.com^
 ||google-analytics.com^$script,xmlhttprequest
 ||google-js-01.xyz^
 ||google-js-02.xyz^
@@ -23487,6 +23728,7 @@ yydstxt*.com/js/html
 ||google.com/pagead/landing?
 ||googleads.github.io^
 ||googleadservices-cn.com^
+||googleadservices.
 ||googleadservices.com^
 ||googleadsserving.cn^
 ||googleapis.com/aam.js
@@ -23500,20 +23742,24 @@ yydstxt*.com/js/html
 ||googleoptimize-cn.com^
 ||googlepol.com^
 ||googlesyndication-cn.com^
+||googlesyndication.com
 ||googlesyndication.com/pagead/
 ||googlesyndication.com/safeframe/
+||googlesyndication.com^
 ||googlesyndication.com^$domain=blogto.com|youtube.com
 ||googletaganalytics.com^
 ||googletagmanage.com^
 ||googletagmanager-cn.com^
 ||googletagmanager.com^
 ||googletagservices-cn.com^
+||googletagservices.com^
 ||googletip.org^
 ||googletraveladservices.com^
 ||googleusercontent.com/*/wf/open?upn=$image
 ||googleusercontent.com/tracker/
 ||googlevideo.com/videoplayback?$rewrite=abp-resource:blank-mp4,domain=laurelberninteriors.com|safeframe.googlesyndication.com
 ||goongateheaviness.com^
+||goosebomb.com^
 ||goosebomb.com^$popup
 ||gop.pk^
 ||gopay.com^
@@ -23631,6 +23877,7 @@ yydstxt*.com/js/html
 ||gravesport.com^
 ||graylog.prod.cams.run^
 ||graymonk.com^
+||grazingmarrywomanhood.com^
 ||grazingmarrywomanhood.com^$popup
 ||grcv.io^
 ||greasevixen.com.au^
@@ -24041,6 +24288,7 @@ yydstxt*.com/js/html
 ||hao123img.com/static/common/js/cpc_
 ||hao123img.com/v4/mb/xu/jy/vy/yx/mbxujyvyyx.js
 ||hao5.net/images/*0-
+||hao6v.com/d/
 ||hao6v.com/d/$script
 ||haochi123.com/j_box/inc_
 ||haode-kk.com^
@@ -24142,6 +24390,7 @@ yydstxt*.com/js/html
 ||hblggz.cn^
 ||hblibank.com.pk^
 ||hbloveinfo.com^$popup
+||hboav.com/guga/
 ||hbxmdf.icu^
 ||hc360.com/images/14826/289x90.jpg
 ||hc360.com/js/*hezuo.js
@@ -24405,6 +24654,7 @@ yydstxt*.com/js/html
 ||heygrowthhub.com^
 ||heyplaces.in^
 ||heys.com^
+||heyserves.com^
 ||heyserves.com^$popup
 ||heyvalaw.com^
 ||hezhenshiye.com^
@@ -24639,6 +24889,7 @@ yydstxt*.com/js/html
 ||hltv.org^*=|$popup,domain=hltv.org
 ||hlwang.cc^
 ||hlzncxmu.icu^
+||hm.baidu.com/
 ||hm.baidu.com/mkt.js
 ||hm9o5ri-9ngfm.com^
 ||hmao9rrco8c.com^
@@ -25281,6 +25532,7 @@ yydstxt*.com/js/html
 ||ibb.co^$domain=ghostbin.me
 ||ibcp.fr^
 ||ibe-gubod.online^
+||ibeeckaidse.net^
 ||ibeeckaidse.net^$popup
 ||ibegin.com^
 ||iber07yk9.com^
@@ -25425,6 +25677,7 @@ yydstxt*.com/js/html
 ||ieix.cn^
 ||iemhotqk.com^
 ||ienergycloud.solutions^
+||ientent.stre4mplay.one^
 ||ientent.stre4mplay.one^$popup
 ||ieryt111.fun^
 ||ietlwso.top^
@@ -25440,12 +25693,14 @@ yydstxt*.com/js/html
 ||ifdnzact.com^$popup
 ||ifeishe.com^
 ||ifej.cn^
+||ifeng.com/a_if/
 ||ifeng.com/a_if/$subdocument
 ||ifeng.com/a_if/taobao/
 ||ifeng.com/i?p=
 ||ifeng.com/iframe/quickbet
 ||ifeng.com/showcode?
 ||ifeng.com/showjs?*apids=
+||ifeng.com/ssi-incs/
 ||ifeng.com/ssi-incs/$subdocument
 ||ifeng.com/statics/comment_baidu.html
 ||ifeng.com/uploadfiles/main_blog/main_child/v3_block
@@ -25466,6 +25721,7 @@ yydstxt*.com/js/html
 ||ifengimg.com/iamsimg/*_w100_h550.
 ||ifengimg.com/ifeng/sources/
 ||ifengimg.com/iis/iis_
+||ifengimg.com/mappa
 ||ifengimg.com/mappa/
 ||ifengimg.com/md/*/v_responsive
 ||ifengimg.com/pmop/2017/*_w600_h793.jpeg
@@ -25583,6 +25839,7 @@ yydstxt*.com/js/html
 ||ikaka.com/globalad/
 ||ikcosales.ir^
 ||ikea.ch^
+||ikea.cn^
 ||ikea.co.id^
 ||ikea.com.tw^
 ||ikea.in^
@@ -25690,6 +25947,7 @@ yydstxt*.com/js/html
 ||img1.kkeji.com/img/2005/
 ||img1.leyun365.com^
 ||img11.biyan8.com^
+||img16.diyifanwen.com
 ||img16.diyifanwen.com^
 ||img2.126.net^
 ||img2.titan007.com^
@@ -26251,6 +26509,7 @@ yydstxt*.com/js/html
 ||iqiyi.com/player/common/adflash
 ||iqiyi.com/player/common/rebull
 ||iqiyi.com/show2?cb=
+||iqiyi.com/track
 ||iqiyi.com/track$popup
 ||iqiyi.com/track2?
 ||iqkrungrikhu.com^
@@ -26305,6 +26564,7 @@ yydstxt*.com/js/html
 ||ironminers.com^
 ||irqaci.xyz^
 ||irresponsibilityhookup.com^$popup
+||irrigatenotwithstandingcommit.com^
 ||irrigatenotwithstandingcommit.com^$popup
 ||irs.gov/h4z97hz8jmrno/
 ||irtliso.top^
@@ -26333,6 +26593,7 @@ yydstxt*.com/js/html
 ||isc-tracking.eventim.com^
 ||isc.ac^
 ||iscelenie-course.ru^
+||isdspeed.qq.com/
 ||isdspeed.qq.com^
 ||isehu-ewo.store^
 ||isharemetric.rediff.com^
@@ -26450,6 +26711,7 @@ yydstxt*.com/js/html
 ||itopdog.cn/itopdog/ad.js
 ||itopdog.cn/itopdog/d*.js
 ||itoqals.com^
+||itponytaa.com^
 ||itponytaa.com^$popup
 ||itpub.net^
 ||itqwesk.icu^
@@ -26471,6 +26733,7 @@ yydstxt*.com/js/html
 ||ituba.cc/uploads/allimg/201610/603/
 ||itunes.ir^
 ||iturl.in/analytics?
+||itv.hexun.com
 ||itv.hexun.com/
 ||itweb.co.za/static/misc/toolbox/
 ||itweb.co.za^*/sponsors
@@ -26690,6 +26953,7 @@ yydstxt*.com/js/html
 ||javhd.com/ascripts/gcu.js
 ||javhd.com/banners-mainpage/
 ||javhd.com/rstat
+||javhd.com/sb/
 ||javhd.com/sb/javhd-970x170.jpg
 ||javhdpro.stream^
 ||javhdz.baby^
@@ -26859,6 +27123,7 @@ yydstxt*.com/js/html
 ||jiasu02.com^
 ||jiasule.com/static/js/http_error.js
 ||jiayu.net/comiis_ad/
+||jiayuan.com^*/pv.js
 ||jibjpk.top^
 ||jibn12.jintang114.org^
 ||jibtdn.top^
@@ -27253,6 +27518,7 @@ yydstxt*.com/js/html
 ||juiceadv.com^$popup
 ||juicer.io/api/page_views
 ||juicy.bio^
+||juicyads.com^
 ||juicyads.com^$popup
 ||juji.tv/runtime/js/
 ||jujutsu-kaizen-jut.su^
@@ -27333,6 +27599,7 @@ yydstxt*.com/js/html
 ||jwjwtw.top^
 ||jwpcdn.com/player/*/googima.js
 ||jwpcdn.com/player/plugins/bidding/
+||jwpcdn.com/player/plugins/googima/
 ||jwpcdn.com^$script,domain=bgr.com|decider.com|dexerto.com
 ||jwplatform.com/libraries/tdeymorh.js
 ||jwplayer.com^$domain=americansongwriter.com|dexerto.com|evoke.ie|ginx.tv|imfdb.org|infoworld.com|kiplinger.com|lifewire.com|soulbounce.com|spokesman-recorder.com|tennis.com|thecooldown.com|tomshardware.com|variety.com|whathifi.com
@@ -27595,6 +27862,7 @@ yydstxt*.com/js/html
 ||kenga.tech^
 ||kensforce.com^
 ||kenshinhardy.store^
+||kentent.stre4mplay.one^
 ||kentent.stre4mplay.one^$popup
 ||kenyalaw.org^
 ||kenzo.com^
@@ -28092,6 +28360,7 @@ yydstxt*.com/js/html
 ||l.erodatalabs.com^$popup
 ||l.ooyala.com^
 ||l.player.ooyala.com^
+||l.qq.com/lview?
 ||l.sharethis.com^
 ||l.typesquare.com^
 ||l.usaa.com/e/v1/
@@ -28259,6 +28528,7 @@ yydstxt*.com/js/html
 ||lbrkjdkvon.net^
 ||lbx777.*/css/300.js
 ||lbx777.*/css/lbxgg02
+||lby2kd27c.com^
 ||lby2kd27c.com^$popup
 ||lc7z.com^
 ||lccs.nu^
@@ -28849,6 +29119,7 @@ yydstxt*.com/js/html
 ||localjobnetwork.com^
 ||localnet.ca^
 ||localssale.com^
+||localtest.me^
 ||locatefamily.com^
 ||location3.com/analytics/
 ||locatory.com^
@@ -29422,6 +29693,7 @@ yydstxt*.com/js/html
 ||magnifying.com.au^
 ||magnitudenetwork.net^
 ||magnolian07.top^
+||magsrv.com^
 ||magsrv.com^$popup
 ||mahacet.org^
 ||mahanair.co.ir^
@@ -29454,6 +29726,7 @@ yydstxt*.com/js/html
 ||mailmarketingmanager.com^
 ||maimemo.com^
 ||main.jiukang.org^
+||mainadcenter.com^
 ||mainadcenter.com^$popup
 ||mainexclkdir.com^$popup
 ||mainhub.com^
@@ -30176,6 +30449,7 @@ yydstxt*.com/js/html
 ||mhiiopll.net^$popup
 ||mhoiia.icu^
 ||mhwy6.icu^
+||mhxk.com^*/main/entry.common.$script
 ||mi-de-ner-nis3.info^
 ||mi.academy.com/p/js/1.js
 ||mi.com/stat/
@@ -30265,6 +30539,7 @@ yydstxt*.com/js/html
 ||mimg.127.net/m/lc/img/loginbackgroundpic/$image
 ||mimikidsonline.com^
 ||mimo.com.br^
+||mimosaavior.top
 ||mimosaavior.top^$popup
 ||minaeanhern.shop^
 ||minaexplorer.com^
@@ -30433,6 +30708,7 @@ yydstxt*.com/js/html
 ||mmwebhandler.888.com^
 ||mmwholesale.com^
 ||mn-tz.com^
+||mnaspm.com^
 ||mnaspm.com^$popup
 ||mncplus.id^
 ||mndsrv.com^$popup
@@ -30697,6 +30973,7 @@ yydstxt*.com/js/html
 ||movshow.com/*portal/
 ||mowenxi.com/1.png
 ||mowplayer.com/media/statistics/
+||moyens.net^
 ||mozaart.com^
 ||mozzartbet.ro^
 ||mp.imgur.com^
@@ -30780,6 +31057,7 @@ yydstxt*.com/js/html
 ||msecnd.net/script/raptor-
 ||msecnd.net/scripts/a/ai.
 ||msecnd.net/scripts/b/ai.
+||msecnd.net/scripts/jsll-
 ||msft.net^
 ||msg-intl.qy.net^$image
 ||msg.71.am^
@@ -31641,6 +31919,7 @@ yydstxt*.com/js/html
 ||newsx.com^
 ||newsyour.net^$popup
 ||newtab-media.com^$popup
+||newtabextension.com^
 ||newtabextension.com^$popup
 ||newtcpconnectiodo.store^
 ||newton.pm/events/track_bulk
@@ -31944,6 +32223,7 @@ yydstxt*.com/js/html
 ||north-olmsted.com^
 ||north-verification.com^
 ||northcoastmoto.nz^
+||northdownload.com^
 ||northdownload.com^$popup
 ||northeasthydraulicsinc.com^
 ||northrtbads.top^$popup
@@ -32186,6 +32466,7 @@ yydstxt*.com/js/html
 ||nxtpen.com^
 ||nxxkxr.xyz^
 ||nya-buro.net^
+||nya2.com^
 ||nya2.com^$popup
 ||nyaa.*/static/js/ccheck.js
 ||nyaa.land/static/p2.jpg
@@ -32512,6 +32793,7 @@ yydstxt*.com/js/html
 ||omdb.app^
 ||omega.fun^
 ||omegaadblock.net^$popup
+||omegadblocker.com^
 ||omegadblocker.com^$popup
 ||omerger.click^
 ||omgbest1.cc^
@@ -32897,6 +33179,7 @@ yydstxt*.com/js/html
 ||osarmapa.net^$popup
 ||osase.net^
 ||oscaranmation.in^
+||oscarey.my.id^
 ||oscarey.my.id^$popup
 ||oschina.net/promotion/
 ||oschina.net/uploads/cooperation/
@@ -32933,6 +33216,7 @@ yydstxt*.com/js/html
 ||other.v.duowan.com^
 ||otherofherlittle.info^$popup
 ||othersideceramics.com^
+||otieu.com^
 ||otieu.com^$popup
 ||otimiyk.top^
 ||otmboutique.com^
@@ -33116,6 +33400,7 @@ yydstxt*.com/js/html
 ||p04qzl.cn^
 ||p0ky833.com^
 ||p0v2ni.cn^
+||p0y.cn^
 ||p0y.cn^$image,domain=~ipinyou.com.cn
 ||p1.360soucha.com^
 ||p1.chinakaoyan.com^
@@ -33144,6 +33429,7 @@ yydstxt*.com/js/html
 ||pa5ka.com^$popup
 ||pa6.fun^
 ||paaawdreboot.ir^
+||paaeeets.net^
 ||paaeeets.net^$popup
 ||paalss.com^
 ||pabau.com^
@@ -33179,6 +33465,7 @@ yydstxt*.com/js/html
 ||pagaloo.com^
 ||page-events-ustats.udemy.com^
 ||page.ca^
+||pagead2.googlesyndication.com^
 ||pagecloud.com/event
 ||pagefly.io/pagefly/core/analytics.js
 ||pageloadstats.pro^$popup
@@ -33385,6 +33672,7 @@ yydstxt*.com/js/html
 ||pbgsrl.it^
 ||pbgufjylmzsym.top^
 ||pbjs-stream.bydata.com^
+||pbmp.ali213.net/
 ||pbmp.ali213.net/js/
 ||pbnvoice.com^
 ||pbucket.com^
@@ -33410,6 +33698,7 @@ yydstxt*.com/js/html
 ||pcexpress.ca/pcx-bff/api/v2/media/ads^
 ||pcgames.com.cn*/index.js
 ||pcgames.com.cn/adpuba/show?
+||pcgames.com.cn/g/
 ||pcgames.com.cn/g/*/fz/
 ||pcgames.com.cn/g/extlin/pcdownpic/$script
 ||pcgamesn.com/cdn-cgi/trace
@@ -33624,6 +33913,7 @@ yydstxt*.com/js/html
 ||pg2bk.icu^
 ||pgatourhq.com^
 ||pgcciax.icu^
+||pgdt.gtimg.cn/gdt/
 ||pgdt.gtimg.cn/gdt/$domain=info.3g.qq.com
 ||pghglj.icu^
 ||pgmediaserve.com^$popup
@@ -33802,6 +34092,7 @@ yydstxt*.com/js/html
 ||pingback.giphy.com^
 ||pingback.issuu.com^
 ||pinggu.org/api/bbsgg.
+||pingjs.qq.com^
 ||pingmeibang.com/zt/zx.jpg
 ||pingo.staticmoly.me^
 ||pingoscope.com^
@@ -34302,6 +34593,7 @@ yydstxt*.com/js/html
 ||porno666.cloud^
 ||porno666.com/code/script/
 ||porno666.tube^
+||pornogramxxx.com/out/
 ||pornogramxxx.com/out/$popup
 ||pornoporno.biz^
 ||pornorips.com/4e6d8469754a.js
@@ -34361,6 +34653,7 @@ yydstxt*.com/js/html
 ||portugalnyt.dk^
 ||porzo.com/js/analytics
 ||pos.baidu.com/
+||pos.baidu.com^
 ||pos4dtototogel51.com^
 ||poshtisar.com^
 ||poshtulsa.com^
@@ -34429,6 +34722,7 @@ yydstxt*.com/js/html
 ||ppsj.com.cn/images/ppsj300.gif
 ||pptv.com/game/aplus/client/gamedetail.html
 ||pptv.com/stg/add?
+||pptv.com/webdelivery/
 ||ppushfeed.com^
 ||ppushplatform.digital^
 ||ppvhsg.com^
@@ -34703,6 +34997,7 @@ yydstxt*.com/js/html
 ||prosv.ru^
 ||protect-ad.com^
 ||protect-your-privacy.net^$popup
+||protected-redirect.click^
 ||protected-redirect.click^$popup
 ||protectflow.life^$popup
 ||protege.com.br^
@@ -34948,6 +35243,7 @@ yydstxt*.com/js/html
 ||pv.hd.sohu.com^
 ||pv.kuaizhan.com^
 ||pv.ltn.com.tw^
+||pv.sohu.com^
 ||pv.sohu.com^$domain=chinafund.cn
 ||pv.xcar.com.cn^
 ||pv.zhiding.cn^
@@ -35641,6 +35937,7 @@ yydstxt*.com/js/html
 ||ramseyoutdoor.com^
 ||ramusiapp.com^
 ||randalls.com/abs/pub/xapi/search/sponsored-carousel?
+||random-affiliate.atimaze.com^
 ||random-affiliate.atimaze.com^$popup
 ||random-name-generator.com^
 ||randstad.ca^
@@ -35891,6 +36188,7 @@ yydstxt*.com/js/html
 ||redwap2.com^
 ||redwingmagazine.com^$popup
 ||redwsx02.live^
+||reebr.com^
 ||reebr.com^$popup
 ||reef2reef.com^
 ||reelgood.com/v3.0/checkip
@@ -36243,6 +36541,7 @@ yydstxt*.com/js/html
 ||rliwiqr.icu^
 ||rlogs.youdao.com^
 ||rltd.io/tags/
+||rltdxt.com/files/h5/
 ||rluprjguiq.net^
 ||rm.sina.com.cn/$script,subdocument
 ||rm99.info^
@@ -36250,6 +36549,7 @@ yydstxt*.com/js/html
 ||rmb-trf.net^
 ||rmbgd.com^
 ||rmbsfh.icu^
+||rmhfrtnd.com^
 ||rmhfrtnd.com^$popup
 ||rmhhge.mom^
 ||rmioswx.icu^
@@ -36354,6 +36654,7 @@ yydstxt*.com/js/html
 ||rotterdam.nl^
 ||rotumal.com^$popup
 ||rou.video/_next/static/chunks/pages/fuli-
+||roudoduor.com^
 ||roudoduor.com^$popup
 ||rougloujouwoate.com^$popup
 ||roulette222es.com^
@@ -36485,6 +36786,7 @@ yydstxt*.com/js/html
 ||rubminer.shop^
 ||rubyandoscar.com^
 ||rubyfaisal.com^
+||rubylife.go2cloud.org^
 ||rubylife.go2cloud.org^$popup
 ||ruclips.net^
 ||rudder-tracking.rudderstack.com^
@@ -36888,6 +37190,7 @@ yydstxt*.com/js/html
 ||savinist.com^$popup
 ||savoryspiceshop.com^
 ||sax*.sina.
+||sax.sina.
 ||saxs.sina.
 ||saymedia.com/latest/tetrapak.js
 ||sayprimer.com^
@@ -37704,6 +38007,7 @@ yydstxt*.com/js/html
 ||sina.com.cn/js/*/advertisingbynewindex_
 ||sina.com.cn/js/*/bgads.js
 ||sina.com.cn/js/87/20140101/hongbao/
+||sina.com.cn/litong/
 ||sina.com.cn/newindexadstart.js
 ||sina.com.cn/other/src/app/financeapppics.js
 ||sina.com.cn/other/src/app/sfanewversionpop.js
@@ -37738,6 +38042,7 @@ yydstxt*.com/js/html
 ||sinaimg.cn/sports/20214c6d/20181128/880_110.png
 ||sinaimg.cn/tech/*/sidebar.js
 ||sinaimg.cn/tech/zcapp2018/zcapp.js
+||sinaimg.cn/unipro/
 ||sinaimg.cn/unipro/$domain=~video.sina.com.cn|~weibo.com
 ||sinaimg.cn/wap/project/blog_to_news_banner/
 ||sinaimg.cn^$domain=04stream.tv|11luba.com|18board.com|18p2p.com|46bk.com|500xxxx.com|522dy.com|63ef.com|7mav2.com|7mshipin.org|94xxmm.com|99a21.com|abminbuy.com|acglover.me|aotu101.com|aotu103.com|blz105.com|blz20.com|blz24.com|caibaojian.com|cangjige.net|ccxx99.com|cnmysoft.com|ems183.cn|fdzone.org|kccdk.com|kiees.cn|kisssub.org|lifan.moe|llj22.com|pianyuan.org|rarbt.cc|sbme.me|se533.com|supfree.net|thztv.cc|tiantianzhibo.com|viidii.info|vx666.com|yaoshe1.com
@@ -37749,6 +38054,8 @@ yydstxt*.com/js/html
 ||sinaimg.cn^*/yyy_pop
 ||sinaimg.cn^*_wap_ad_
 ||sinaimg.com^$domain=dayanzai.me
+||sinajs.cn/open/analytics/
+||sinajs.cn/open/api/js/wb.js
 ||sinajs.cn/t4/apps/publicity/static/wbad.js
 ||sinajs.cn/t6/home/js/pl/guide/adforfqy/
 ||sinajs.cn/t6/home/js/pl/guide/bigday/
@@ -38229,6 +38536,7 @@ yydstxt*.com/js/html
 ||songswave.com^
 ||sonicautomotive.com^
 ||sonichits.com/tf.php
+||sonichits.com^
 ||sonimei.cn/images/gg.png
 ||sonimei.cn/images/llq.png
 ||sonimei.cn/qipai.jpg
@@ -39632,6 +39940,7 @@ yydstxt*.com/js/html
 ||tableone.app^
 ||tabligat-yekta.ir^
 ||taboola.com/vpaid/
+||taboola.com^
 ||taboola.com^$domain=independent.co.uk|outlook.live.com|technobuffalo.com
 ||taboola.com^*/vignette-render.js
 ||tabroom.com^
@@ -39873,6 +40182,7 @@ yydstxt*.com/js/html
 ||tccd.douglas.
 ||tcdkjy.top^
 ||tcdvvv.top^
+||tce.alicdn.com^
 ||tchno.life^
 ||tci-thaijo.org^
 ||tcinvdi.top^
@@ -40609,6 +40919,7 @@ yydstxt*.com/js/html
 ||tm-awx.com/pageview
 ||tm-banners.gamingadult.com^
 ||tm-eps.neutrino.nu^
+||tm-offers.gamingadult.com^
 ||tm-offers.gamingadult.com^$popup
 ||tm.tradetracker.net^
 ||tm.vendemore.com^
@@ -40830,6 +41141,7 @@ yydstxt*.com/js/html
 ||totheglory.im/pic/business/
 ||totheglory.im/pic/fangtuo.jpg
 ||totheglory.im/pic/ttg-
+||totheglory.im/pic/ttg_
 ||totlnkcl.com^$popup
 ||toublii.top^
 ||touch.myntra.com^
@@ -40910,6 +41222,7 @@ yydstxt*.com/js/html
 ||tr.vitals.co^
 ||tr.webantenna.info^
 ||tr.www.cloudflare.com^
+||tra.scds.pmdstatic.net/advertising-core/
 ||tra.scds.pmdstatic.net/sourcepoint/
 ||traccoon.intellectsoft.net^
 ||trace.qq.com^
@@ -40921,6 +41234,7 @@ yydstxt*.com/js/html
 ||traceytruckparts.com^
 ||track-campaing.club^$popup
 ||track-dark-bz.b-cdn.net^
+||track-victoriadates.com^
 ||track-victoriadates.com^$popup
 ||track-visit.monday.com^
 ||track.10bet.com^
@@ -40931,6 +41245,7 @@ yydstxt*.com/js/html
 ||track.bannedcelebs.com^
 ||track.bestpornsites.tv^
 ||track.btdmp.com^
+||track.cam4tracking.com^
 ||track.cam4tracking.com^$popup
 ||track.coherentpath.com^
 ||track.contently.com^
@@ -40945,6 +41260,7 @@ yydstxt*.com/js/html
 ||track.hydro.online^
 ||track.iegcom.com^
 ||track.juno.com^
+||track.kinetiksoft.com^
 ||track.kinetiksoft.com^$popup
 ||track.kueez.com^
 ||track.livesportnet.com^$popup
@@ -41134,6 +41450,7 @@ yydstxt*.com/js/html
 ||tracktion.com^
 ||trackvisible.com^$popup
 ||trackvoluum.com^$popup
+||trackwilltrk.com^
 ||trackwilltrk.com^$popup
 ||tracot.com^$popup
 ||tracyspb.com^
@@ -41442,6 +41759,7 @@ yydstxt*.com/js/html
 ||tsunadetheron.store^
 ||tsunami.gov^
 ||tsw.com^
+||tsyndicate.com^
 ||tsyndicate.com^$popup
 ||tt.biquge.la^
 ||tt1069.com/bbs/zgg_
@@ -41646,6 +41964,7 @@ yydstxt*.com/js/html
 ||twinfill.com^$popup
 ||twinkl.com.vn^
 ||twinkle-fun.net^$popup
+||twinrdengine.com^
 ||twinrdengine.com^$popup
 ||twinrdsrv.com^$popup
 ||twinrdsyn.com^$popup
@@ -42071,6 +42390,7 @@ yydstxt*.com/js/html
 ||unimedpoa.com.br^
 ||union*.365inews.com^
 ||union-wifi.com^
+||union.
 ||union.591.com.tw/cpt?
 ||union.china.com.cn^
 ||union.yihaodian.com^
@@ -42223,7 +42543,9 @@ yydstxt*.com/js/html
 ||uriz-canid.store^
 ||urkt.cn^
 ||url.autos^
+||url.rw/*&a=
 ||url.rw/*&a=$popup
+||url.rw/*&mid=
 ||url.rw/*&mid=$popup
 ||url46.co^
 ||urleecher.com^
@@ -44514,6 +44836,7 @@ yydstxt*.com/js/html
 ||xhovaqdubabj.com^
 ||xhstream.digital^
 ||xhteacher.site^
+||xhvid.com^
 ||xhwe.life^
 ||xhyktech.com^
 ||xhymsq.com/data/attachment/portal/
@@ -44618,6 +44941,7 @@ yydstxt*.com/js/html
 ||xlink.wiki^
 ||xlirdr.com^$popup
 ||xliuits.icu^
+||xlivrdr.com^
 ||xlivrdr.com^$popup
 ||xlmp4.cc/js/wcount.js
 ||xlnlvf.top^
@@ -44629,6 +44953,7 @@ yydstxt*.com/js/html
 ||xltube.nl^
 ||xluz.cn^
 ||xlviiirdr.com^$popup
+||xlviirdr.com^
 ||xlviirdr.com^$popup
 ||xlx1.com^$popup
 ||xlxehr.xyz^
@@ -45160,6 +45485,7 @@ yydstxt*.com/js/html
 ||yi.ximizi.com^
 ||yiagames.com^
 ||yiandrive.com^
+||yibada.com^
 ||yic-electronics.com^
 ||yidengfe.com/launches/01/yd.png
 ||yield-op-idsync.live.streamtheworld.com^
@@ -45176,6 +45502,7 @@ yydstxt*.com/js/html
 ||yigujin.cn/wp-content/themes/three/js/yierlin
 ||yiihuu.com/assets/common/yh/js/yh.ad.
 ||yijfdsu.cn^
+||yijiuningyia.gushiwen.org
 ||yijiuningyia.gushiwen.org^
 ||yikeyz.com/pm.js
 ||yimc.cn^
@@ -45292,6 +45619,7 @@ yydstxt*.com/js/html
 ||you-porn.com/_xa/ads
 ||you.com/api/recordevent
 ||youaima.com/rest/
+||youaima.com/zz/
 ||youarethepineapple.com^
 ||youdao.com/ctlog?
 ||youdao.com/market/banner/banner
@@ -45966,6 +46294,7 @@ yydstxt*.com/js/html
 ||zrbnte.top^
 ||zrcs2.com^
 ||zrkksps.icu^
+||zrlqm.com^
 ||zrlqm.com^$popup
 ||zryc.tech^
 ||zryydi.com^$popup
