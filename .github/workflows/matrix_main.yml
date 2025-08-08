@@ -26,8 +26,7 @@ jobs:
         run: |
           bash scripts/matrix_get.sh
           bash scripts/matrix_lighten.sh
-          bash scripts/matrix_fuel.sh
-          
+          bash scripts/matrix_fuel.sh      
           bash scripts/matrix_launch.sh
 
       - name: Commit via GitHub API
