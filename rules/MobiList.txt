@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202508081923
-! Last modified: 08 Aug 2025 19:23 UTC
+! Version: 202508091923
+! Last modified: 09 Aug 2025 19:23 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -7755,7 +7755,7 @@ wss://www.*.xyz/ws^$third-party
 wwads.cn
 www.startpage.com##.mobile-app-promo-banner
 www.txrjy.com###tryOpenApp
-www.zhzzx.com||000webhost.com/images/banners/
+www.zhzzx.com||ad.pornimg.xyz^$popup
 x.jd.com
 xshellcn.com
 yihuifu.cn
@@ -7812,6 +7812,7 @@ yydstxt*.com/js/html
 ||0.0.0.0^$third-party,domain=~0.0.0.0|~127.0.0.1|~[::1]|~[::]|~local|~localhost
 ||0.0.0.1^
 ||000ooo.ir^
+||000webhost.com/images/banners/
 ||001ht.art^
 ||002100.com^
 ||003600.com^
@@ -9100,8 +9101,7 @@ yydstxt*.com/js/html
 ||5c10.org^
 ||5d7k30pv1u.com^
 ||5dimes.com^$popup
-||5dm.link/html/$image
-||5dm.link/html5/api_aj.
+||5dm.link/ancblmszmd/
 ||5dmail.net/image/$object
 ||5dmail.net/image/ad_
 ||5dmail.net/image/orf_1000.gif
@@ -9670,6 +9670,7 @@ yydstxt*.com/js/html
 ||a.bake818.cn^
 ||a.baomihua.com^
 ||a.bfking.cn^
+||a.blendernation.com^
 ||a.bxwblog.cn^
 ||a.cdnpure.com/analytics/
 ||a.cemir.site^
@@ -9710,6 +9711,7 @@ yydstxt*.com/js/html
 ||a.qsjiajiao.com^
 ||a.qunzou.com^
 ||a.rensheng5.com^
+||a.shemale99.com^
 ||a.shenchuang.com^
 ||a.suptube.com^
 ||a.tainengchong.com^
@@ -10082,7 +10084,6 @@ yydstxt*.com/js/html
 ||ad.norfolkbroads.com^
 ||ad.parkvv.com^
 ||ad.play-lust.com^$popup
-||ad.pornimg.xyz^$popup
 ||ad.qn.img-space.com^
 ||ad.scdn.io^
 ||ad.soicos.com^$popup
@@ -13346,6 +13347,7 @@ yydstxt*.com/js/html
 ||behim.click^$popup
 ||behmelody.in^
 ||behtarino.com^
+||bei5029.xyz^
 ||beiaili.com^
 ||beijing-air.com/images/a/j
 ||beijing.buzhi5.com^
@@ -13548,6 +13550,7 @@ yydstxt*.com/js/html
 ||bfp.capitalone.com^
 ||bfpartners.click^$popup
 ||bfpgf.com/wp-content/uploads/2015/08/360dxs.jpg
+||bfthrelgad.com^
 ||bftv.xxx^
 ||bg-mezonet.info^
 ||bg52w.com^
@@ -14866,6 +14869,7 @@ yydstxt*.com/js/html
 ||camelbackflowershop.com^
 ||camelbak.com^
 ||camerabits.com^
+||camerain.top^
 ||camgirlhookups.com^
 ||camgirls.casa/p.php
 ||camhub.cc/static/js/bgscript.js
@@ -22511,6 +22515,7 @@ yydstxt*.com/js/html
 ||frgam.xyz^
 ||frgf99.fun^
 ||frgre33.fun^
+||frhopo.cn^
 ||fridiskusjon.no^
 ||friendfinder.com^$popup
 ||friendlyduck.com^$popup
@@ -24894,6 +24899,7 @@ yydstxt*.com/js/html
 ||hm9o5ri-9ngfm.com^
 ||hmao9rrco8c.com^
 ||hmbprf.icu^
+||hmd3jvhrf.com^
 ||hmdb.org^
 ||hmghmg.com/tb
 ||hmjmjz.icu^
@@ -30360,6 +30366,7 @@ yydstxt*.com/js/html
 ||meticulous.ai^
 ||metrefluke.com^
 ||metrepeaches.com^$popup
+||metrezaannatto.shop^$popup
 ||metric.huya.com^
 ||metrica-yandex.com^$popup
 ||metricadlabs.com^
@@ -31352,6 +31359,7 @@ yydstxt*.com/js/html
 ||myhomeweb.com^
 ||myhostdata.space^
 ||myhpworld.com^
+||myhuaweicloud.com^
 ||myhuckleberry.com^
 ||myhugewords.com^$popup
 ||myhypestories.com^$popup
@@ -32464,6 +32472,7 @@ yydstxt*.com/js/html
 ||nxrajr.xyz^
 ||nxt-psh.com^$popup
 ||nxtpen.com^
+||nxwm44neo.com^
 ||nxxkxr.xyz^
 ||nya-buro.net^
 ||nya2.com^
@@ -35746,6 +35755,7 @@ yydstxt*.com/js/html
 ||quyr.cn^
 ||qvaa36.lol^
 ||qvcnmty.top^
+||qvdn.cn^
 ||qvir.cn^
 ||qvxtzi.xyz^
 ||qvzabbhovve.com^
@@ -36944,6 +36954,7 @@ yydstxt*.com/js/html
 ||s.radioreference.com/sm/$image
 ||s.smallpdf.com/static/track-js-
 ||s.so.360.cn^
+||s.sofoot.com/script.js
 ||s.srvsynd.com^
 ||s.ssl.qhres2.com/ssl/
 ||s.union.360.cn^
@@ -41405,6 +41416,7 @@ yydstxt*.com/js/html
 ||tracking.markethero.io^
 ||tracking.miui.com^
 ||tracking.musixmatch.com^
+||tracking.offerista.com^
 ||tracking.olx-st.com^
 ||tracking.pacharge.com^
 ||tracking.peopleareeverything.com^
@@ -42154,6 +42166,7 @@ yydstxt*.com/js/html
 ||ucounter.ucoz.net^
 ||ucoz.com/stat/
 ||ucoz.net/stat/
+||uct.service.usercentrics.eu^
 ||ucu-lixyv.store^
 ||ucuma-ynage.store^
 ||ucweb.com/collect/
@@ -42646,6 +42659,7 @@ yydstxt*.com/js/html
 ||utopicmobile.com^$popup
 ||utrack.hexun.com^
 ||utt.pm/utm/
+||uturiw.icu^
 ||utve.cn^
 ||uu09cjylmzsym.top^
 ||uu1.3gu.com^
@@ -42837,6 +42851,7 @@ yydstxt*.com/js/html
 ||vax-now.com^$popup
 ||vaykjwn.top^
 ||vb-audio.com^
+||vbc08091op.com^
 ||vbjm.cn^
 ||vbjzdl.top^
 ||vbllxaaj.icu^
@@ -43574,6 +43589,7 @@ yydstxt*.com/js/html
 ||w2g-ping.b-cdn.net^
 ||w3-reporting.reddit.com^
 ||w3.ting55.com^
+||w3019cdt.top^
 ||w3cfba6ufr.com^
 ||w3cschool.cn/attachments/image/20170919/1505817817281252.jpg
 ||w3cschool.cn/index/*advert
@@ -45446,6 +45462,7 @@ yydstxt*.com/js/html
 ||yf9pkk1q.com^$popup
 ||yfaqgk.xyz^
 ||yfasjfk.icu^
+||yflieu.cn^
 ||yflix.to^
 ||yfminw.cn^
 ||yfoega.xyz^
