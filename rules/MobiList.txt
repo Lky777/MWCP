@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202508091923
-! Last modified: 09 Aug 2025 19:23 UTC
+! Version: 202508101923
+! Last modified: 10 Aug 2025 19:23 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -8801,6 +8801,7 @@ yydstxt*.com/js/html
 ||3p8801.co^
 ||3pefw1lz4.com^
 ||3prn.com/even/ok.js
+||3pzqcv5hc5.com^
 ||3q1lsj.cn^
 ||3rab-naar.com^
 ||3rcld5y1dm.com^
@@ -9342,6 +9343,7 @@ yydstxt*.com/js/html
 ||7q5sz.com^
 ||7rag9q1on.com^
 ||7scs.com/public/img/list-
+||7strqfn56s.com^
 ||7tc.fun^
 ||7u4b8l1zt.com^
 ||7u6h8.xyz^
@@ -13067,6 +13069,7 @@ yydstxt*.com/js/html
 ||bbccn.org^$popup
 ||bbci.co.uk/plugins/dfpadshtml/
 ||bbcrgate.com^$popup
+||bbcz4tta.top^
 ||bbforum.be^
 ||bbgcarchase.cc^
 ||bbjzly.top^
@@ -19287,6 +19290,7 @@ yydstxt*.com/js/html
 ||dlinkddns.com^
 ||dljnjom9md7c.cloudfront.net/02/zara.js
 ||dlk457skl57zp.cloudfront.net^
+||dlkfhlkjoirfgn.com^
 ||dlkoo.cc/down/$subdocument
 ||dlkoo.cc/down/*.htm$popup
 ||dlkoo.cc/down/copy
@@ -25621,6 +25625,7 @@ yydstxt*.com/js/html
 ||icourse163.org/dwr/call/plaincall/commonbean.obtain.dwr
 ||icradairesi.org^
 ||ics.fr^
+||icu.newsroom.bi/ingest.php
 ||icubeswire.co^$popup
 ||icudqq.xyz^
 ||icup.ir^
@@ -31359,7 +31364,6 @@ yydstxt*.com/js/html
 ||myhomeweb.com^
 ||myhostdata.space^
 ||myhpworld.com^
-||myhuaweicloud.com^
 ||myhuckleberry.com^
 ||myhugewords.com^$popup
 ||myhypestories.com^$popup
@@ -34122,6 +34126,7 @@ yydstxt*.com/js/html
 ||pinkvisualgames.com/?revid=
 ||pinkyparadise.com^
 ||pinlue.com/error/bangolike.js
+||pinmgm.com^
 ||pinoymovies.es/links/$popup
 ||pinpuzzlemaster.com^
 ||pinvibe.com^
@@ -38540,7 +38545,7 @@ yydstxt*.com/js/html
 ||somn.io^
 ||somos.com^
 ||somvr.com^
-||sonar.viously.com^$domain=~aufeminin.com|~futura-sciences.com|~gamekult.com|~jeanmarcmorandini.com|~lesnumeriques.com|~marmiton.org|~melty.fr|~nextplz.fr|~the-race.com
+||sonar.viously.com^$domain=~aufeminin.com|~futura-sciences.com|~gamekult.com|~gbnews.com|~jeanmarcmorandini.com|~lesnumeriques.com|~marmiton.org|~melty.fr|~nextplz.fr|~the-race.com
 ||sonarconsuenos.co^
 ||sonet-tos.store^
 ||songsara.net^
@@ -39754,6 +39759,7 @@ yydstxt*.com/js/html
 ||swomanifefashionis.org^$popup
 ||swoole.com/_images/kundian
 ||swoole.com/_images/w7.jpg
+||swqmuo.icu^
 ||swurserb.top^
 ||swurve.com/affiliates/
 ||swv-br.company^
@@ -41748,6 +41754,7 @@ yydstxt*.com/js/html
 ||trypsinneutral.com^
 ||trysavvy.com^
 ||tryzendm.com^
+||ts-analysis.shoalter.com^
 ||ts.delfi.lt^
 ||ts.globtube.com^
 ||ts.tradetracker.net^
@@ -42852,6 +42859,8 @@ yydstxt*.com/js/html
 ||vaykjwn.top^
 ||vb-audio.com^
 ||vbc08091op.com^
+||vbc08100op.com^
+||vbc08101op.com^
 ||vbjm.cn^
 ||vbjzdl.top^
 ||vbllxaaj.icu^
