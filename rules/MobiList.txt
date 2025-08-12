@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202508111926
-! Last modified: 11 Aug 2025 19:26 UTC
+! Version: 202508121925
+! Last modified: 12 Aug 2025 19:25 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -12219,6 +12219,7 @@ yydstxt*.com/js/html
 ||at.cbsi.com^*/event?
 ||atala-apw.com^$popup
 ||atanx.alicdn.com^
+||atarrean.com^
 ||atas.io^$popup
 ||atcdn.co.uk/frostbite/
 ||atcelebitor.com^$popup
@@ -20108,6 +20109,7 @@ yydstxt*.com/js/html
 ||dzu5p9pd5q24b.cloudfront.net^
 ||dzupi9b81okew.cloudfront.net^
 ||dzv1ekshu2vbs.cloudfront.net^
+||dzv56b1o0y.com^
 ||dzwww.com/data/js/asp_$script
 ||dzwww.com/images/ad_down.js
 ||dzwww.com/k.js
@@ -20171,6 +20173,7 @@ yydstxt*.com/js/html
 ||ea.youmaker.com^
 ||ea3w.com/pv.js
 ||ea5gamer.com^
+||ea5s00h6oo.com^
 ||eaaratte.net^
 ||eaaratte.net^$popup
 ||eabids.com^$popup
@@ -29411,6 +29414,7 @@ yydstxt*.com/js/html
 ||ltl-xpo.com^
 ||ltmarilsf.com^
 ||ltn.com.tw/js/ad_door.js
+||ltrs8bv54p.com^
 ||ltvutlyu.icu^
 ||ltwebstatic.com/she_dist/libs/devices/fpv2.
 ||ltwebstatic.com^*/libs/sensors/
@@ -30466,6 +30470,7 @@ yydstxt*.com/js/html
 ||mhdnspro.com^
 ||mhiiopll.net^$popup
 ||mhoiia.icu^
+||mhqcyar.icu^
 ||mhwy6.icu^
 ||mhxk.com^*/main/entry.common.$script
 ||mi-de-ner-nis3.info^
@@ -32626,6 +32631,7 @@ yydstxt*.com/js/html
 ||odow-xyheb.store^
 ||odrama.net/images/clicktoplay.jpg
 ||odxh.cn^
+||odxupm909y.com^
 ||odysee.com/api/v1/metric/
 ||odysee.com/log/
 ||odysee.com/reports/
@@ -33242,6 +33248,7 @@ yydstxt*.com/js/html
 ||otnolabttmup.com^$popup
 ||otnolatrnup.com^$popup
 ||otoadom.com^$popup
+||otoieku.icu^
 ||otomi-games.com/wp-content/uploads/*-ad-728-
 ||otosection.com^
 ||ototoy.jp^
@@ -37781,6 +37788,7 @@ yydstxt*.com/js/html
 ||shemediax.com^
 ||shen4club.com/style/*.js?v=
 ||shengyuic.com^
+||shenxianmaomao.com^
 ||shenyedaohang.com^
 ||shenzo-next.com^
 ||shepherdleader.com^
@@ -42873,6 +42881,8 @@ yydstxt*.com/js/html
 ||vbc08101op.com^
 ||vbc08110op.com^
 ||vbc08111op.com^
+||vbc08120op.com^
+||vbc08121op.com^
 ||vbjm.cn^
 ||vbjzdl.top^
 ||vbllxaaj.icu^
@@ -44493,6 +44503,7 @@ yydstxt*.com/js/html
 ||wpdaxue.com/img/*/txy-
 ||wpengine.com/wp-json/api/advanced_placement/api-in-article-ad/
 ||wpeo.cn^
+||wpizqi.icu^
 ||wpk668.com^
 ||wplace.live^
 ||wples.com/pc/common.js
