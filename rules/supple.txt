@@ -1,20 +1,27 @@
 ! .MALICIOUS
+||6888.site^
+||abc57987257.com^
+||bb77393629.com^
 ||cknr6y.com^
 ||cru0xr.com^
+||fcw1.site^
+||guz4t1.com^
+||kjgbyn.com^
 ||ksrsogd.com^
+||l6ljsm.com^
 ||ojamrej.com^
 ||risliq.com^
 ||rpyislr.com^
 ||sglklgksgrcbv.com^
 
 ! .AdServers
-||6888.site^
 ||ad.52av.one^
 ||ad.scdn.io^
 ||analytics.yahoo.com^
 ||collect-v6.51.la^
 ||coreserver.jp^
 ||diligencejusticeimprobable.com^
+||dl59007.bj.bcebos.com^
 ||lheffapin.com^
 ||mcs.snssdk.com^
 ||mcs.volceapplog.com^
@@ -45,9 +52,12 @@
 *$ping,third-party
 *$websocket
 ||cdn.tapioni.com/adgpt.js
+||connect.facebook.net/*/sdk.js
+||img.alicdn.com/imgextra/i1/4183327079/
 ||lf1-cdn-tos.bytegoofy.com/goofy/
 |p3-sign.toutiaoimg.com/tos-cn-i-eyfl5e3fp8/
 ||playhubconnect.com/bn/
+|https://vk.com/js/api/share.js?
 
 ! 163
 /163/frontend/antnest/
