@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202508121925
-! Last modified: 12 Aug 2025 19:25 UTC
+! Version: 202508131435
+! Last modified: 13 Aug 2025 14:35 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -7794,6 +7794,7 @@ yydstxt*.com/js/html
 |https://m.163.com/touch/behavior.html?
 |https://m.mydrivers.com/m/relatednews.ashx?
 |https://unpkg.zhimg.com/@cfe/sentry-script@
+|https://vk.com/js/api/share.js?
 |https://www.36dm.com/js/
 |https://www.cnblogs.com/*/ajax/post-accessories?
 |https://www.cnblogs.com/*/custom.css?
@@ -9102,6 +9103,7 @@ yydstxt*.com/js/html
 ||5c10.org^
 ||5d7k30pv1u.com^
 ||5dimes.com^$popup
+||5dm.link/ablgld/
 ||5dm.link/ancblmszmd/
 ||5dmail.net/image/$object
 ||5dmail.net/image/ad_
@@ -9857,6 +9859,7 @@ yydstxt*.com/js/html
 ||abc.hkepc.net^
 ||abc.ruodian360.com^
 ||abc.yebaike.com^
+||abc57987257.com^
 ||abcache.com/tg/
 ||abcache.com/xc/image/
 ||abcache.com/youlaohu/
@@ -11517,6 +11520,7 @@ yydstxt*.com/js/html
 ||analytics.vdo.ai^
 ||analytics.vedantu.com^
 ||analytics.vendemore.com^
+||analytics.vitalsignstracker.com^
 ||analytics.viture.dev^
 ||analytics.vixcloud.co^
 ||analytics.vortexscans.com^
@@ -11780,7 +11784,6 @@ yydstxt*.com/js/html
 ||api.wudizuqiu.com/bocai.js
 ||api6687.com^
 ||api777sms.com^
-||apian088.sbs^
 ||apibaza.com/pixel/
 ||apic.in/mmd.gif
 ||apid56erg.com^
@@ -13022,6 +13025,7 @@ yydstxt*.com/js/html
 ||barsyonline.com^
 ||bartarinha.com^
 ||bartarmusics.ir^
+||bartererfaxtingling.com^
 ||barumelectronics.com^
 ||bas.academy^
 ||bas.boshi.tv^
@@ -13066,6 +13070,7 @@ yydstxt*.com/js/html
 ||bazigah.xyz^
 ||bb.itwc.ca/js/cube.js
 ||bb1nn.com/js/i.js
+||bb77393629.com^
 ||bb88winbonus.com^
 ||bb999.net/pic/n/agents/c-79.gif
 ||bbasia.org^
@@ -16582,6 +16587,7 @@ yydstxt*.com/js/html
 ||connatix.com^$third-party,domain=~cheddar.tv|~deadline.com|~elnuevoherald.com|~heraldsun.com|~huffpost.com|~lmaoden.tv|~loot.tv|~miamiherald.com|~olhardigital.com.br|~sacbee.com
 ||connect.airfrance.com/ach/api/event^
 ||connect.bolt.com/v1/log
+||connect.facebook.net/*/sdk.js
 ||connect.idocdn.com^
 ||connecteam.com/bi/api/reporthit/
 ||connectedtot.com^
@@ -18213,6 +18219,7 @@ yydstxt*.com/js/html
 ||d3rxqouo2bn71j.cloudfront.net^
 ||d3s40ry602uhj1.cloudfront.net^
 ||d3s7ggfq1s6jlj.cloudfront.net^
+||d3s9in1sg.com^
 ||d3sbxpiag177w8.cloudfront.net^
 ||d3sdfpysdncs72.cloudfront.net^
 ||d3sdg6egu48sqx.cloudfront.net^
@@ -18734,6 +18741,7 @@ yydstxt*.com/js/html
 ||decsuite.com^
 ||ded-opuj.store^
 ||dedating.online^$popup
+||deductgreedyheadroom.com^
 ||deebcards-themier.com^$popup
 ||deekjdsg-9q87vb3p.org^
 ||deema.agency^
@@ -19287,6 +19295,7 @@ yydstxt*.com/js/html
 ||dl1234.com^
 ||dl1d2m8ri9v3j.cloudfront.net^
 ||dl37p9e5e1vn0.cloudfront.net^
+||dl59007.bj.bcebos.com^
 ||dl5ft52dtazxd.cloudfront.net^
 ||dlayernet.xyz^
 ||dlem1deojpcg7.cloudfront.net^
@@ -21721,6 +21730,7 @@ yydstxt*.com/js/html
 ||fcmatch.youtube.com^
 ||fcporto.pt^
 ||fcroc.nl^
+||fcw1.site^
 ||fd.io^
 ||fd.ivoclar.com^
 ||fd2k1fa6oe.com^
@@ -21739,6 +21749,7 @@ yydstxt*.com/js/html
 ||fdtlfl.xyz^
 ||fdyacma.icu^
 ||fe17ba9b40.com^
+||fe4c0422j.com^
 ||fearlessrevolution.com^
 ||febrisur.com^
 ||februaryinjectionproudly.com^$popup
@@ -23663,6 +23674,8 @@ yydstxt*.com/js/html
 ||gogorenti.wang/js/m_cp
 ||gogreenbyaxa.com^
 ||gogyh5games.com^
+||goi08130kh.com^
+||goi08131kh.com^
 ||goidentitas.id^
 ||gojocavill.store^
 ||gokrafxr.icu^
@@ -24137,6 +24150,7 @@ yydstxt*.com/js/html
 ||guxhag.com^
 ||guxidrookr.com^$popup
 ||guxinglei.net^
+||guz4t1.com^
 ||guzzigioielli.it^
 ||gvcaffiliates.com^$popup
 ||gvda-instrument.com^
@@ -25946,6 +25960,7 @@ yydstxt*.com/js/html
 ||img.0279.net^
 ||img.263y.com^
 ||img.3sjt.com^
+||img.alicdn.com/imgextra/i1/4183327079/
 ||img.cmm.xmfish.com/pages/uploads/20$image
 ||img.eol.cn/images/ed/$~image
 ||img.ferlie.net^
@@ -26902,6 +26917,7 @@ yydstxt*.com/js/html
 ||jacocooking.com^
 ||jacocraft.com^
 ||jade.io^
+||jads.co^
 ||jads.co^$domain=avgle.com
 ||jads.co^$popup
 ||jae.com.br^
@@ -28052,6 +28068,7 @@ yydstxt*.com/js/html
 ||kiykfux.icu^
 ||kiza-heqib.store^
 ||kjdnglps.com^
+||kjgbyn.com^
 ||kjimtyd.top^
 ||kjnodes.com^
 ||kjnsgqe.icu^
@@ -28398,6 +28415,7 @@ yydstxt*.com/js/html
 ||l5id.com^
 ||l5pzbzfnjm.com^
 ||l65ad0ku.com^
+||l6ljsm.com^
 ||l7u3kf.cn^
 ||l936.expressnews.com^
 ||laam.pk^
@@ -30723,6 +30741,7 @@ yydstxt*.com/js/html
 ||mmin.io/embed/
 ||mmkkkkk.com^
 ||mmle.cn^
+||mmoba8myv.com^
 ||mmoga.co.uk^
 ||mmonly.cc/js/mmonlyapp.js
 ||mmosale.com/baner_images/
@@ -31545,6 +31564,7 @@ yydstxt*.com/js/html
 ||na.groupondata.com^
 ||naajie.com/float.js
 ||naaptol.com^
+||naarnurm.com^
 ||naaspublishing.com^
 ||nabauxou.net^$popup
 ||nabgljor.cc^
@@ -35840,6 +35860,7 @@ yydstxt*.com/js/html
 ||r.sax.sina.com.cn^
 ||r.skimresources.com^
 ||r.stripe.com^$ping,script,xmlhttprequest
+||r0hpdbkqs.com^
 ||r0j.fun^
 ||r18.com/track/
 ||r18hub.com^
@@ -36978,6 +36999,7 @@ yydstxt*.com/js/html
 ||s.ssl.qhres2.com/ssl/
 ||s.union.360.cn^
 ||s.vibe.co^
+||s.w-x.co/helios/twc/$script,domain=weather.com|wunderground.com
 ||s.wayfair.com^
 ||s.weibo.com/widget.html
 ||s.yimg.com/ja/ap/$script,subdocument,domain=hk.news.yahoo.com|hk.yahoo.com|tw.news.yahoo.com|tw.stock.yahoo.com|tw.yahoo.com
@@ -40800,6 +40822,7 @@ yydstxt*.com/js/html
 ||tieba.baidu.com/f/urlcheck?
 ||tieba.baidu.com/game/markconf?
 ||tiendeo.*/_statsapi/
+||tiengrelby.com^
 ||tiera.fi^
 ||tierient.com^
 ||tierra.net^
@@ -42241,6 +42264,7 @@ yydstxt*.com/js/html
 ||uewzjy.xyz^
 ||ufasi-ery.online^
 ||ufeci-ynyku.com.tr^
+||ufeuca.icu^
 ||ufgami555.com^
 ||ufgl.cn^
 ||ufiidvv.icu^
