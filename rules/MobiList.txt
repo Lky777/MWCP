@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202508151923
-! Last modified: 15 Aug 2025 19:23 UTC
+! Version: 202508161924
+! Last modified: 16 Aug 2025 19:24 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -73,6 +73,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 &sadbl=1&chu=$third-party
 &sseq=*&dseq=$popup
 &sst.sw_exp=
+&subaffid=%$subdocument
 &t=pageview&
 &xhtml?$script
 &zoneid=*&ad_$popup
@@ -7763,6 +7764,7 @@ xshellcn.com
 yihuifu.cn
 yydstxt*.com/js/cdn.
 yydstxt*.com/js/html
+|about:$popup,domain=22pixx.xyz|adblockstrtape.link|bitporno.com|clipconverter.cc|dailyuploads.net|dood.la|dood.so|dood.to|dood.video|dood.watch|dood.ws|doodcdn.com|flashx.net|gospeljingle.com|hqq.tv|imagetwist.com|mixdrop.bz|mixdrop.sx|mp4upload.com|nextgencloudtools.com|playtube.ws|popads.net|powvideo.net|powvldeo.cc|putlocker.style|run-syndicate.com|soap2day.tf|spcdn.cc|strcloud.link|streamani.net|streamsb.net|streamtape.cc|streamtape.com|streamtape.site|strtape.cloud|strtape.tech|strtapeadblock.club|strtapeadblock.me|strtpe.link|supervideo.cc|tapecontent.net|turboimagehost.com|upstream.to|uptostream.com|uptostream.eu|uptostream.fr|uptostream.link|userload.co|vev.red|vevo.io|vidcloud.co|videobin.co|videowood.tv|vidoza.net|voe.sx|vortez.net|vshare.eu|watchserieshd.tv
 |blob:$popup,domain=hqq.tv|waaw.to|watchadsontape.com
 |data:text$popup,domain=~clker.com
 |data:text/plain$popup,domain=music.163.com
@@ -7902,6 +7904,7 @@ yydstxt*.com/js/html
 ||0oqt9i.cn^
 ||0pdsa.icu^
 ||0r3tyg.cn^
+||0rvv7l6k7g.com^
 ||0sxs.com/js/all.
 ||0tq6ub.cn^
 ||0uvt8b.cn^
@@ -9132,6 +9135,7 @@ yydstxt*.com/js/html
 ||5movierulz.parts^
 ||5movierulz.sarl^
 ||5n2gkcdu.com^
+||5odd5zsn.xyz^
 ||5pub.com^
 ||5rrhdjs.com^
 ||5rrhdjs1.com^
@@ -9929,6 +9933,7 @@ yydstxt*.com/js/html
 ||ac1.pingpingw.com^
 ||acacdn.com^$popup
 ||academia.edu/record_hit?
+||academic96.top^
 ||acam-2.com^$popup
 ||acapellas.eu^
 ||acapniawhute.shop^
@@ -10860,6 +10865,7 @@ yydstxt*.com/js/html
 ||akcloan.com^
 ||akgame.kr^
 ||akhbarelyom.com^
+||akhirzaea.com^
 ||akhwbjyshezaxck.buzz^
 ||akiba-online.com/data/siropu/
 ||akinagames.com^
@@ -18292,6 +18298,7 @@ yydstxt*.com/js/html
 ||d67p.com/love/
 ||d6cto2pyf2ks.cloudfront.net^
 ||d6deij4k3ikap.cloudfront.net^
+||d6hvvn5jvc.com^
 ||d6l5p6w9iib9r.cloudfront.net^
 ||d6rak4b14t5gp.cloudfront.net^
 ||d6sav80kktzcx.cloudfront.net^
@@ -18987,6 +18994,7 @@ yydstxt*.com/js/html
 ||dgyrizngtcfck.cloudfront.net^
 ||dh0c1bz67fuho.cloudfront.net^
 ||dh6dm31izb875.cloudfront.net^
+||dh8azcl753e1e.cloudfront.net^
 ||dhaaralzz.com^
 ||dhannaq.com^
 ||dhcmni6m2kkyw.cloudfront.net^
@@ -20486,6 +20494,7 @@ yydstxt*.com/js/html
 ||eeldamage.com^
 ||eelkeageg.com^
 ||eellgg.com^
+||eelw.cn^
 ||eemoj.link^
 ||eentent.streampiay.me^
 ||eentent.streampiay.me^$popup
@@ -21533,6 +21542,7 @@ yydstxt*.com/js/html
 ||fakenumber.org^
 ||fakings.com/tools/get_banner.php
 ||faktor.de^
+||fakxqq.cn^
 ||falcoware.com^
 ||falke.com^
 ||fallback.attntags.com^
@@ -23686,6 +23696,8 @@ yydstxt*.com/js/html
 ||goi08130kh.com^
 ||goi08131kh.com^
 ||goi08141kh.com^
+||goi08160kh.com^
+||goi08161kh.com^
 ||goidentitas.id^
 ||gojocavill.store^
 ||gokrafxr.icu^
@@ -24085,6 +24097,7 @@ yydstxt*.com/js/html
 ||gtreus.aliexpress.com^
 ||gtrk.s3.amazonaws.com^
 ||gtroid.website^
+||gtrphahmu.com^
 ||gtsboutique.com^
 ||gtuy6el1hd.com^
 ||gtv-pub.com^
@@ -25743,6 +25756,7 @@ yydstxt*.com/js/html
 ||ifeng.com/a_if/taobao/
 ||ifeng.com/i?p=
 ||ifeng.com/iframe/quickbet
+||ifeng.com/relateshare?
 ||ifeng.com/showcode?
 ||ifeng.com/showjs?*apids=
 ||ifeng.com/ssi-incs/
@@ -25763,6 +25777,7 @@ yydstxt*.com/js/html
 ||ifengimg.com/auto/js/*enquiry
 ||ifengimg.com/c337cf1a3749e953/2015/0301/rdn_54f25a4228062.jpg
 ||ifengimg.com/feather/images/$image
+||ifengimg.com/feprod/
 ||ifengimg.com/iamsimg/*_w100_h550.
 ||ifengimg.com/ifeng/sources/
 ||ifengimg.com/iis/iis_
@@ -27839,6 +27854,7 @@ yydstxt*.com/js/html
 ||kbddftp.com^
 ||kbin.earth^
 ||kbjfree.com/assets/scripts/popad.js
+||kc3mmffdbt.com^
 ||kcam.xyz^
 ||kccdk.com/content/img/*.gif
 ||kcglsiv.icu^
@@ -28937,6 +28953,7 @@ yydstxt*.com/js/html
 ||links.cn/mmshow
 ||links.strava.com^$image
 ||links.voyeurweb.com^
+||linksfree.site/pop.php
 ||linkshare.pro/img/btc.gif
 ||linksnappy.com^
 ||linksprf.com^$popup
@@ -32743,6 +32760,7 @@ yydstxt*.com/js/html
 ||ohqp.cn^
 ||ohrdsplu.com^$popup
 ||ohtusgy.icu^
+||ohwb.cn^
 ||oi.429men.com^
 ||oi.lesbianbliss.com^
 ||oia04300klq.com^
@@ -34132,6 +34150,7 @@ yydstxt*.com/js/html
 ||pimpandhost.com/site/trending-banners
 ||pimpandhost.com^$subdocument
 ||pin-host.com^
+||pin6d37stu.com^
 ||pinalli.it^
 ||pinardin.com^
 ||pinardin.ir^
@@ -39873,6 +39892,7 @@ yydstxt*.com/js/html
 ||t.freelancer.com^
 ||t.fullres.net^
 ||t.ghostboard.io^
+||t.greenbids.ai^
 ||t.home.news.cn^
 ||t.hypers.com.cn^
 ||t.id.net/log
@@ -43784,6 +43804,7 @@ yydstxt*.com/js/html
 ||wb.gtimg.com/adwin/
 ||wba.com^
 ||wbamedia.com^$popup
+||wbczkm.icu^
 ||wbe4.cn^
 ||wbiao.cn/common/adapi/
 ||wbiao.cn/common/newsbannerads/
@@ -44524,6 +44545,7 @@ yydstxt*.com/js/html
 ||wspisp.net/logger.php
 ||wsptsportappr66.com^
 ||wssblogs.com^
+||wstats.ageverif.com^
 ||wstats.e-wok.tv^
 ||wstats.slashed.cloud^
 ||wstservices.co.uk^
