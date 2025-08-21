@@ -42,9 +42,11 @@
 /cdn-cgi/speculation
 /clarity.js
 /email-decode.min.js
+/js/adminlte.min.js
 /js/zzz.js
 /load.gif
 /loading.gif
+/popup/adblock/promo/banner/
 .com/images/ad/
 .com/js/ad-provider.js
 .com/js/ad-units.js
@@ -163,7 +165,7 @@ juejin.cn##.open-button
 oschina.net##div[name="detail_show_footer"]
 
 ! pornbest
-/images/friend/0/$image,domain=pornlulu.com|ptt.co|xnnn.org
+/images/friend/0/
 ||xnnn.org/site/all.js
 |https://www.pornbest.org/site/stat?
 
@@ -219,6 +221,9 @@ www.txrjy.com###tryOpenApp
 
 ! xchina
 ||upload.xchina.*/ad/
+
+! xhamster
+||collector.xhamster.com^
 
 ! yfsp
 m.yfsp.tv##.container
