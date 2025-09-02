@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202509020312
-! Last modified: 02 Sep 2025 03:12 UTC
+! Version: 202509021920
+! Last modified: 02 Sep 2025 19:20 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -9814,6 +9814,7 @@ yydstxt*.com/js/html
 ||a1087.b.akamai.net^$popup
 ||a1714.com^$popup
 ||a1tb.com/300x250$subdocument
+||a2.consoletarget.com^
 ||a2.xinhuanet.com^
 ||a2develop.com^
 ||a2kqqw7d.com^
@@ -23315,7 +23316,6 @@ yydstxt*.com/js/html
 ||fc-for-hrd.com^
 ||fc.3dmgame.com^
 ||fc09u3zfm.com^
-||fc2.com/counter_img.php?
 ||fc2fan.net/js/check_focus.js
 ||fc88.vin^
 ||fca6f.icu^
@@ -27048,6 +27048,7 @@ yydstxt*.com/js/html
 ||hopegoo.com^
 ||hopelessrolling.com^$popup
 ||hopghpfa.com^$popup
+||hopper.com/api/v0/tracking/event
 ||hops.id^
 ||horizon3ai.eu^
 ||horizonacademy.site^
@@ -34945,6 +34946,7 @@ yydstxt*.com/js/html
 ||nio09010lt.com^
 ||nio09011lt.com^
 ||nio09020lt.com^
+||nio09021lt.com^
 ||nipez.cz^
 ||niphaumeenses.net^
 ||nipic.com^
@@ -44129,6 +44131,7 @@ yydstxt*.com/js/html
 ||t.pointandplace.com^
 ||t.poki.io^
 ||t.police1.com^
+||t.prageru.com^
 ||t.rainide.com^
 ||t.raptorsmartadvisor.com^
 ||t.regionsjob.com^
@@ -44476,6 +44479,7 @@ yydstxt*.com/js/html
 ||tcragarnh.com^
 ||tcss.qq.com^
 ||tcwouq1gmw.com^
+||tcx0wyp0nn.com^
 ||td.airdroid.com^
 ||td.doubleclick.net^
 ||td86hsmlmggym.top^
