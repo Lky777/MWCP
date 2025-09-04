@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202509031922
-! Last modified: 03 Sep 2025 19:22 UTC
+! Version: 202509041920
+! Last modified: 04 Sep 2025 19:20 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -7982,7 +7982,6 @@ yydstxt*.com/js/html
 ||1.zou114.com^
 ||1.zuowenjun.com^
 ||1.zw3e.com^
-||10.com.au^
 ||100-vampirenovels.net^
 ||100.admin5.com^
 ||100.pncdn.cn^
@@ -8522,12 +8521,10 @@ yydstxt*.com/js/html
 ||24metrics.com^
 ||24nevis.ir^
 ||24newstech.com^
-||24porn.tv^
 ||24sib.com^
 ||24videos.cc^
 ||24vids.com^
 ||24x7report.com^$popup
-||24xxx.porn^
 ||24xxxx.win^
 ||24y0c8hek.com^
 ||2500sz.com/site/
@@ -8615,6 +8612,7 @@ yydstxt*.com/js/html
 ||2xnsxaah.com^
 ||2yjw.com/statics/js/jquery.min.
 ||2za.fun^
+||2zjftxgl5s.com^
 ||2zoo.com^
 ||2zzt.com/file/aliyun
 ||2zzt.com/images/
@@ -8766,7 +8764,6 @@ yydstxt*.com/js/html
 ||3dmgame.com/templets/xiazai/g
 ||3dmgame.com/tools/gamead?
 ||3dmxku.com^
-||3dporndude.com^
 ||3exfu7vaxu.com^
 ||3ff6kjylmjs.top^
 ||3g.cn/baidualading/
@@ -8874,7 +8871,6 @@ yydstxt*.com/js/html
 ||484l.com^
 ||484r.com/images/flash/gallery_
 ||4943999.com^
-||49ers.com^
 ||49win44.com^
 ||4aqoxkesav.com^
 ||4b6994dfa47cee4.com^$popup
@@ -8908,7 +8904,6 @@ yydstxt*.com/js/html
 ||4ir17.icu^
 ||4j.com^
 ||4jc.icu^
-||4kdownload.com^
 ||4kincestporn.com^
 ||4kolesa.co^
 ||4kporn.xxx/static/analytics/
@@ -10106,7 +10101,6 @@ yydstxt*.com/js/html
 ||activemob.co.uk^
 ||activengage.com/overwatch/
 ||activepieces.com^
-||activestate.com^
 ||activistpost.com^$csp=script-src *.leadpages.net *.gstatic.com *.google.com *.googleapis.com *.playwire.com *.facebook.com *.bootstrapcdn.com
 ||activity-flow.vtex.com^
 ||activity-wbsj.com^
@@ -10658,7 +10652,6 @@ yydstxt*.com/js/html
 ||adminbuy.cn/images/
 ||adminer.com^
 ||adminforge.de^
-||administracionelectronica.gob.es^
 ||adminjejik.work^
 ||adminml.com^
 ||adminsoga.xyz^
@@ -11082,7 +11075,6 @@ yydstxt*.com/js/html
 ||adtscriptshark.com^
 ||adtube.media^
 ||adtwister.me^
-||aduana.gob.bo^
 ||aduankonten.id^
 ||adukwai.com^
 ||adult-chess.com^
@@ -11104,14 +11096,8 @@ yydstxt*.com/js/html
 ||adultgalls.com^
 ||adultgirll.com^
 ||adultiptv.net^
-||adultporn.tv^
-||adultsclips.com^
-||adultsearch.com^
-||adultstream.cc^
 ||adultswim.com^
 ||adulttraffic.store^
-||adultvideocentral.top^
-||adultwork.com^
 ||adup-tech.com^
 ||adup.tech^
 ||adups.cn^
@@ -11603,8 +11589,6 @@ yydstxt*.com/js/html
 ||akabebe.com/jgg/*.gif
 ||akachan-meimei.com^
 ||akademivo.website^
-||akadns.net^
-||akadns6.net^
 ||akadns88.net^
 ||akadns99.net^
 ||akado-ural.ru^
@@ -11746,7 +11730,6 @@ yydstxt*.com/js/html
 ||aliasjobs.com^
 ||alibaba.com/async/b2bad.
 ||alibaba.com/ts?
-||alibabadns.com^
 ||alibabatraffic.com^$popup
 ||alicdn.com/ad-product/
 ||alicdn.com/app/wxbpromotion/*/js/cpm/cpm_jq.js
@@ -11926,7 +11909,6 @@ yydstxt*.com/js/html
 ||allsportsflix.top^$popup
 ||allsporttv.com^$popup
 ||allstar.dev^
-||allstate.com^
 ||allthingsapplique.com^
 ||allthingsbeingeco.ca^
 ||alltrack.org^
@@ -12976,7 +12958,6 @@ yydstxt*.com/js/html
 ||artquid.com^
 ||artromanstudio.com^
 ||artshelf.xyz^
-||artstorefronts.com^
 ||artthkhj.sbs^
 ||arttrk.com/pixel/
 ||artunlimitedshop.co.uk^
@@ -13252,7 +13233,6 @@ yydstxt*.com/js/html
 ||audioguru.in^
 ||audiotag.info/images/banner_
 ||audiovk.com^
-||audioz.download^
 ||audiretrade.fm^
 ||audit-it.ru^
 ||audit.303br.net^
@@ -13668,7 +13648,6 @@ yydstxt*.com/js/html
 ||badmintoncn.com^
 ||badnessgimmickposted.com^
 ||badoo.app^
-||badoo.com^
 ||badpixelstudio.net^
 ||badrgo-backend.com^
 ||badrhino.com^
@@ -14245,7 +14224,6 @@ yydstxt*.com/js/html
 ||bee.tc.easebar.com^
 ||beechtalk.com^
 ||beecollection.bg^
-||beeg.porn^
 ||beegpornhub.com^
 ||beegrenugoz.com^
 ||beegsex.tv^
@@ -14914,6 +14892,7 @@ yydstxt*.com/js/html
 ||bitbin.it^
 ||bitbond.com/affiliate-program/
 ||bitcasino.io^
+||bitchute.com/api/beta/doubleplayer/
 ||bitchute.com/data/script.js
 ||bitchute.com/slot1/value?addatakey
 ||bitchute.com/static/ad-sidebar.html
@@ -15190,14 +15169,12 @@ yydstxt*.com/js/html
 ||bmqulua.icu^
 ||bmrb.io^
 ||bmrg.reflected.net^
-||bms-downloads.de^
 ||bmsc.cn^
 ||bmsecure.id^
 ||bmst.pw^
 ||bmtmicro.com^$popup
 ||bmtop.online^
 ||bmv.hr^
-||bmw-motorrad.com^
 ||bmw-motorrad.de^
 ||bmwebm.org^
 ||bmwfans.info^
@@ -15549,7 +15526,6 @@ yydstxt*.com/js/html
 ||broadcloud.com.au^
 ||broadcloud.eu^
 ||broadcloudpbx.net^
-||broadcom.com^
 ||broadconnect.ca^
 ||broadcore.com^
 ||broadensilkslush.com^$popup
@@ -16261,10 +16237,6 @@ yydstxt*.com/js/html
 ||cartographic.info^
 ||cartoon-aa.xyz^
 ||cartoon18.com/images/friend/
-||cartoonporn.pro^
-||cartoonporn.to^
-||cartoonporno.xxx^
-||cartoonpornvideos.com^
 ||cartoonstock.com^
 ||cartrack.com^
 ||cartridgerefills.nz^
@@ -16705,6 +16677,7 @@ yydstxt*.com/js/html
 ||charts.nz^
 ||charttrack.com^
 ||chaseafterinfo.com^
+||chaseherbalpasty.com^
 ||chatchamp.com^
 ||chatever.app^
 ||chatfuel.com/cf-analytics/
@@ -17007,7 +16980,6 @@ yydstxt*.com/js/html
 ||cisco.com/c/dam/cdc/j/at.js
 ||cisslive.com.br^
 ||cistest-load.com^
-||citadel.com^
 ||citadel.one^
 ||citadelpathstatue.com^
 ||cites.org^
@@ -19776,7 +19748,6 @@ yydstxt*.com/js/html
 ||dadata.com.br^
 ||dadata.ru^
 ||dadehbazi.ir^
-||dadeschools.net^
 ||dads-banging-teens.com/polished-
 ||dadsats.com^$popup
 ||daduola.com^
@@ -20126,7 +20097,6 @@ yydstxt*.com/js/html
 ||ddos567.net^
 ||ddoscc.org^
 ||ddow.cn^
-||ddownload.com^
 ||ddrt.org^
 ||ddrvjrfwnij7n.cloudfront.net^
 ||ddshu.net/a_d_code/
@@ -21146,8 +21116,6 @@ yydstxt*.com/js/html
 ||download-file.org^$popup
 ||download-performance.com^$popup
 ||download-send.com^
-||download.com.vn^
-||download.it^
 ||download.megaup.net/download
 ||download1music.ir^
 ||downloadboutique.com^$popup
@@ -22662,7 +22630,6 @@ yydstxt*.com/js/html
 ||etroytj33.fun^
 ||etsy.com/bcn/beacon
 ||etsy.com/clientlog
-||etsy.com/include/tags.js
 ||ettoday.net/banners/
 ||ettoday.net/events/ad-tab/
 ||ettoday.net/funfuntrip/
@@ -22902,6 +22869,7 @@ yydstxt*.com/js/html
 ||exdynsrv.com^$popup
 ||exe-links.com^
 ||execstays.com^
+||execute-api.*.amazonaws.com/forms-impressions
 ||executiveample.com^
 ||exedb.com^
 ||exetools.com^
@@ -23001,6 +22969,7 @@ yydstxt*.com/js/html
 ||eyerootpeeler.cfd^
 ||eyesonff.com^
 ||eyewondermedia.com^$popup
+||eyhv.cn^
 ||eyingxi.com^
 ||eyny.com/data/cache/js_show_ads.js
 ||eyusky.net/weixin-img/zhifubao.jpg
@@ -23342,6 +23311,7 @@ yydstxt*.com/js/html
 ||fc-for-hrd.com^
 ||fc.3dmgame.com^
 ||fc09u3zfm.com^
+||fc2.com/counter_img.php?
 ||fc2fan.net/js/check_focus.js
 ||fc88.vin^
 ||fca6f.icu^
@@ -23369,7 +23339,6 @@ yydstxt*.com/js/html
 ||fdkox-c.online^
 ||fdkox-d.online^
 ||fdmarketplace.com^
-||fdownloader.net^
 ||fdrx7.com^
 ||fdt.kraken.com^
 ||fdtlfl.xyz^
@@ -24211,7 +24180,7 @@ yydstxt*.com/js/html
 ||freeteen.sex/ab/
 ||freetrade.io^
 ||freetrckr.com^$popup
-||freeuseporn.com/tceb29242cf7.js
+||freeuseporn.com/bnrmanage/
 ||freeuseporn.com^
 ||freevbuckgenerator.xyz^
 ||freevideodownload.pro^
@@ -26614,6 +26583,7 @@ yydstxt*.com/js/html
 ||hentai2read.com^
 ||hentai2w.com/ark2023/
 ||hentaianimezone.com/kbgl/
+||hentaiasmr.moe/b4b8.js
 ||hentaiboner.com/wp-content/uploads/2022/07/hentai-boner-gif.gif
 ||hentaibooty.com/uploads/banners/
 ||hentaibux.com^
@@ -26653,7 +26623,6 @@ yydstxt*.com/js/html
 ||herexxxtube.com/tmp/
 ||hermitcrabparadise.com^
 ||herogame.com^$subdocument,domain=gamer.com.tw
-||hertie-school.org^
 ||heryt111.fun^
 ||herzotph.icu^
 ||hesoorda.com^$popup
@@ -26689,7 +26658,6 @@ yydstxt*.com/js/html
 ||heyserves.com^
 ||heyserves.com^$popup
 ||heysports.ca^
-||heytapdownload.com^
 ||hf365.com/0/13/79/87/13798795_912593.jpg
 ||hf365.com/0/14/31/00/14310068_933922.png
 ||hf365.com/0/14/60/93/14609355_921128.jpg
@@ -27578,6 +27546,7 @@ yydstxt*.com/js/html
 ||i-tm.com.tw/api/itm-tracker.js$domain=pixnet.net
 ||i.alipayobjects.com/i/ecmng/$image,domain=my.alipay.com
 ||i.compendium.com^
+||i.ibb.co/spx1r6pf/banner-1.png
 ||i.imgur.com^$domain=hentaitube.icu
 ||i.pokernews.com^
 ||i.posthog.com^
@@ -27955,11 +27924,6 @@ yydstxt*.com/js/html
 ||ikafan.com/js/novel.js
 ||ikafan.com/upload/image/iqiyi_
 ||ikaka.com/globalad/
-||ikea.ch^
-||ikea.cn^
-||ikea.com.tw^
-||ikea.fr^
-||ikea.in^
 ||ikengoti.com^$popup
 ||iklad-chat.biz^
 ||ikstatic.cn^*.gif
@@ -28205,7 +28169,6 @@ yydstxt*.com/js/html
 ||inabsolor.com^$popup
 ||inadsexchange.com^
 ||inaf.it^
-||inah.gob.mx^
 ||inake-utav.online^
 ||inaltariaon.com^$popup
 ||inbound-analytics.pixlee.co^
@@ -28254,6 +28217,7 @@ yydstxt*.com/js/html
 ||indiansuitcompany.com^
 ||indiantw.com^
 ||indiatimes.com/ads_
+||indiatimes.com/it_adslots.js
 ||indiatimes.com/itads_
 ||indiatimes.com/lgads_
 ||indiatimes.com/manageads/
@@ -28431,8 +28395,6 @@ yydstxt*.com/js/html
 ||insta-tool.net^
 ||instadapp.io^
 ||instadelivery.com.br^
-||instadownloader.site^
-||instagold.download^
 ||instagram.com/ajax/bz
 ||instagram.com/ajax/qm/?
 ||instagram.com/api/v1/injected_story_units/
@@ -28509,7 +28471,6 @@ yydstxt*.com/js/html
 ||internationalsexguide.nl/banners/
 ||internationalsexguide.nl/forum/clientscript/popunderisg.js
 ||internetcorkboard.com^
-||internetdownloadmanager.com^
 ||internetfuel.com/tracking/
 ||internetscout.org^
 ||internetshadow.link^
@@ -29201,7 +29162,6 @@ yydstxt*.com/js/html
 ||jditera.top^
 ||jdocs.com^
 ||jdomsia.top^
-||jdownloader.org^
 ||jdqmhay.icu^
 ||jdsports.ca^
 ||jdsports.com.sg^
@@ -29493,6 +29453,7 @@ yydstxt*.com/js/html
 ||johannes-hauschild.de^
 ||johnstonmurphy.com^
 ||johnwebsterjohns.com^
+||joi09041pt.com^
 ||joiidri.work^
 ||joinads.me^
 ||joinladder.com^
@@ -31766,7 +31727,6 @@ yydstxt*.com/js/html
 ||losingoldfry.com^$popup
 ||losobo.xyz^
 ||lost-sword.com^
-||lostfilm.download^
 ||lostproject.club^
 ||lostshorts.com^
 ||lotobet.net^
@@ -32120,6 +32080,7 @@ yydstxt*.com/js/html
 ||m8ryjf38a.com^
 ||m8zgls6zt.com^
 ||m9s3h265lq.com^
+||m9sz0hh3f7.com^
 ||ma-bimbo.com^
 ||ma.logsss.com^
 ||ma.redhat.com^
@@ -33292,7 +33253,6 @@ yydstxt*.com/js/html
 ||minecamerica.com^
 ||minecraft-statistic.net^
 ||minecraftcommand.science^
-||mineduc.cl^
 ||mineinvoice.com^
 ||minerad.com^
 ||mineville.org^
@@ -33779,7 +33739,6 @@ yydstxt*.com/js/html
 ||mp.weixin.qq.com/mp/webcommreport?
 ||mp3-convert.org/p$popup
 ||mp3.haogeba.com^$image,object
-||mp3.pm^
 ||mp3fiber.com/*ml.jpg
 ||mp3tube.club^
 ||mp4.ir^
@@ -36415,6 +36374,7 @@ yydstxt*.com/js/html
 ||ozonerexhaled.click^$popup
 ||ozongees.com^$popup
 ||ozpostcode.com^
+||oztg6i0ass.com^
 ||ozwaxckbt.com^
 ||p-mo.net^
 ||p.7060.la^
@@ -37051,6 +37011,7 @@ yydstxt*.com/js/html
 ||pf.intuit.com^
 ||pf.newegg.com^
 ||pfbmht.icu^
+||pfdqvf.icu^
 ||pferd24.pl^
 ||pfhe.cn^
 ||pfkgl.top/images/*.gif
@@ -37904,7 +37865,6 @@ yydstxt*.com/js/html
 ||pornhoarder.tw^
 ||pornhub-deutsch.net^
 ||pornhub.*/_xa/ads
-||pornhubpremium.com^
 ||pornicom.com/jsb/
 ||pornicom.com^
 ||pornid.name/ffg/
@@ -38163,7 +38123,6 @@ yydstxt*.com/js/html
 ||practiceevolve.net^
 ||practicmagazin.ro^
 ||practostatic.com^
-||prada.com^
 ||pradeo-security.com^
 ||pradn.net^
 ||prado.co^
@@ -38314,6 +38273,7 @@ yydstxt*.com/js/html
 ||privadovpn.com^
 ||privatamateure.com/promotion/
 ||private.com/banner/
+||private.wccftech.com^
 ||privateadserver.com^
 ||privatedqualizebrui.info^$popup
 ||privateermxsupply.com^
@@ -38684,6 +38644,7 @@ yydstxt*.com/js/html
 ||purpleproxies.com^
 ||purradspple.com^
 ||purtel.com^
+||pururin.to/assets/js/pop.js
 ||purwana.net^
 ||push-ad.com^
 ||push-news.click^$popup
@@ -38720,6 +38681,8 @@ yydstxt*.com/js/html
 ||pussyspace.com/fub
 ||putaoys.com/static/js/acb1.js
 ||putchumt.com^$popup
+||putlocker.*/banner/static/
+||putlocker.*/sab_
 ||putmega.com^
 ||putonghua520.com/skins/10ym/3jin.gif
 ||putonghua520.com/skins/10ym/baicai.gif
@@ -38760,6 +38723,7 @@ yydstxt*.com/js/html
 ||pwchaukoieor.com^
 ||pwiic.com^
 ||pwiic.eu^
+||pwinsider.com/advertisement/
 ||pwrgcxaj.icu^
 ||pwrgrowthapi.com^
 ||pwvt.cn^
@@ -39458,6 +39422,7 @@ yydstxt*.com/js/html
 ||radioplayer.org^
 ||radioplayer.ua^
 ||radiorecord.ru^
+||radioreference.com/i/p4/tp/smportalbanner.gif
 ||radioreference.com^
 ||radiorepo.io^
 ||radios.com.br^
@@ -39494,7 +39459,9 @@ yydstxt*.com/js/html
 ||radyushin.com^
 ||raenonx.cc/api/tag
 ||raenonx.cc/g/usage/
+||raenonx.cc/scripts
 ||rafiqamkojaie.ir^
+||rafvertizing.crazygames.com^
 ||ragnarokpinas.com^
 ||ragnastats.com^
 ||raiadrogasil.io^
@@ -39536,6 +39503,7 @@ yydstxt*.com/js/html
 ||rampurikhansama.com^
 ||ramusiapp.com^
 ||ramwebtracking.co.uk^
+||randalls.com/abs/pub/xapi/search/sponsored-carousel?
 ||random-affiliate.atimaze.com^
 ||random-affiliate.atimaze.com^$popup
 ||randombeast.win^
@@ -39607,6 +39575,7 @@ yydstxt*.com/js/html
 ||raw.githubusercontent.com/easylist/easylist/master/docs/1x1.gif
 ||raw.vidyard.com^
 ||rawbit.ninja^
+||rawdogsports.com/data/siropu/
 ||rawpixel.com^
 ||rayanartist.sbs^
 ||rayanpay.com^
@@ -39647,6 +39616,7 @@ yydstxt*.com/js/html
 ||rcruulnot.com^
 ||rcsmetrics.it^
 ||rcweb.de^
+||rd.com/wp-content/plugins/pup-ad-stack/
 ||rdbd.xsread.com^
 ||rdbgxi.top^
 ||rdfjakvgh.com^
@@ -39751,12 +39721,14 @@ yydstxt*.com/js/html
 ||realitykings.com/vbanners/
 ||realitymod.com^
 ||realitytvworld.com/images/pixel.gif
+||realitytvworld.com/includes/loadsticky.html
 ||reallyaweso.me^
 ||reallyzills.top^
 ||reallyzills.top^$popup
 ||realm.hearst3pcc.com^
 ||realmadrid.com^
 ||realperson.de/system/third-party/rpfp/rpfp.min.js
+||realpython.net/tag.js
 ||reals.bet.br^
 ||realsexdoll.com^
 ||realsh.xyz^$popup
@@ -39786,6 +39758,8 @@ yydstxt*.com/js/html
 ||recapads.com^
 ||recargapay.com^
 ||recart.com/tracking/
+||receiptgg.top^
+||receive-sms-online.info/img/banner_
 ||receive.wmcdp.io^
 ||recentconvert.pro^
 ||recharge.com^
@@ -39821,6 +39795,7 @@ yydstxt*.com/js/html
 ||recyclingbees.com^$popup
 ||red-ball4.com^
 ||red-direct-n.com^$popup
+||red-shell.speedrun.com^
 ||redaffil.com^$popup
 ||redballoon.co.nz^
 ||reddit.com/static/pixel.png$image
@@ -40038,6 +40013,7 @@ yydstxt*.com/js/html
 ||reprodigital.com.ar^
 ||reptyle.com^
 ||republiccrypto-source.info^
+||republicmonitor.com/images/lundy-placeholder.jpeg
 ||republik.ch^
 ||reputation.gg^
 ||reputation.ru^
@@ -40107,6 +40083,7 @@ yydstxt*.com/js/html
 ||retrosowenian.shop^$popup
 ||reurl.cc/javascripts/tagtoo.js
 ||reuter.com^
+||rev.frankspeech.com^
 ||rev.io^
 ||revanche.com.br^
 ||revantage.io^
@@ -40133,6 +40110,7 @@ yydstxt*.com/js/html
 ||revlv.net^
 ||revolusi-suro99.com^
 ||revolut.com/api/t/errors
+||revolver.news/wp-content/banners/
 ||revparts.net^
 ||revrtb.com^
 ||rewardtk.com^$popup
@@ -40407,6 +40385,7 @@ yydstxt*.com/js/html
 ||romeosfurniture.com^
 ||romexsoftware.com^
 ||romgoldenage.com^
+||romspacks.com/sfe123.js
 ||romstation.fr^
 ||rond.ir^
 ||rondaoesteenergia.com^
@@ -40529,12 +40508,14 @@ yydstxt*.com/js/html
 ||rsimadinah.com^
 ||rsohvot.xyz^
 ||rsppartners.com^$popup
+||rspro.xyz/wp-content/uploads/*/redotpay.webp
 ||rss-loader.com/track/
 ||rss.dtiserv.com^
 ||rst.pornyhd.com^
 ||rstat.rockmostbet.com^
 ||rsv.ru^
 ||rsvo.ru^
+||rswebsols.com/wp-content/uploads/rsws-banners/
 ||rswqfiy.top^
 ||rsx.afterpay.com^
 ||rsyepnq.icu^
@@ -40768,6 +40749,7 @@ yydstxt*.com/js/html
 ||s-msn.com/portal/js/vendor/manto/
 ||s-msn.com/portal/xiatui.js
 ||s-oman.net^
+||s-opgg-kit.op.gg/gnb/config/*/lol.ads.json
 ||s-protect.online^
 ||s.360.cn^
 ||s.autopilotapp.com^
@@ -40786,6 +40768,7 @@ yydstxt*.com/js/html
 ||s.pinimg.com/ct/core.js
 ||s.pixfs.net/js/pixlogger.min.js
 ||s.pixfs.net/visitor.pixplug.in/
+||s.radioreference.com/sm/$image
 ||s.smallpdf.com/static/track-js-
 ||s.so.360.cn^
 ||s.sofoot.com/script.js
@@ -40793,11 +40776,13 @@ yydstxt*.com/js/html
 ||s.ssl.qhres2.com/ssl/
 ||s.union.360.cn^
 ||s.vibe.co^
+||s.w-x.co/helios/twc/$script,domain=weather.com|wunderground.com
 ||s.wayfair.com^
 ||s.weibo.com/widget.html
 ||s.yimg.com/ja/ap/$script,subdocument,domain=hk.news.yahoo.com|hk.yahoo.com|tw.news.yahoo.com|tw.stock.yahoo.com|tw.yahoo.com
 ||s.yimg.com/ja/ap/tw/js/
 ||s.yimg.com/uv/dm/scripts/syndication.js
+||s.yimg.com/zh/mrr/$image,domain=mail.yahoo.com
 ||s.yimg.com^*/flash_general_$domain=~tw.yahoo.com
 ||s.zixuntop.com^
 ||s0cool.net^$popup
@@ -40816,6 +40801,7 @@ yydstxt*.com/js/html
 ||s2stracking.com^
 ||s2tu.com/images/*.gif
 ||s3.amazonaws.com/downloads.mailchimp.com/$script,domain=confection.io
+||s3.amazonaws.com/runguides2/site_takeovers/$image,domain=runguides.com
 ||s3.amazonaws.com/www.audiencenetwork.ai/
 ||s3.amazonaws.com^*/f10ac63cd7
 ||s3.amazonaws.com^*/secure.js
@@ -40843,6 +40829,7 @@ yydstxt*.com/js/html
 ||sa24.co^
 ||sa669.com^$popup
 ||saa.insideedition.com^
+||saabsunited.com/wp-content/uploads/*banner
 ||saalqvzcpne.com^
 ||saamim.com^
 ||saasexch.cc^
@@ -40952,6 +40939,7 @@ yydstxt*.com/js/html
 ||sam*.baby-kingdom.com^
 ||samage-bility.icu^$popup
 ||samanehha.com^
+||samba.org/banners/$image
 ||sambaporno.com^
 ||same*.stockstar.com^
 ||same-witness.com^
@@ -41013,11 +41001,14 @@ yydstxt*.com/js/html
 ||sascdn.com/mh_audience/
 ||sascdn.com/tag/
 ||sasdigital.com.br^
+||sasinator.realestate.com.au^
 ||sasontnwc.net^$popup
 ||sass.hk/images/hengfu.jpg
 ||sass.hk/js/ggcn.js
 ||sass.hk/plus/mytag_js.php?aid=
 ||sassi2956.xyz^
+||sat-universe.com/wos2.png
+||sat-universe.com/wos3.gif
 ||sat0.net^
 ||satflow.com^
 ||satfyxbt.icu^
@@ -41064,6 +41055,8 @@ yydstxt*.com/js/html
 ||sbenny.com^
 ||sberkassa.site^
 ||sbf.net.nz^
+||sbfull.com/assets/jquery/jquery-3.2.min.js?
+||sbfull.com/js/mainpc.js
 ||sbifm.online^
 ||sbiindo.com^
 ||sbindns.com^
@@ -41121,6 +41114,7 @@ yydstxt*.com/js/html
 ||scibook.cn/tuiguang.
 ||scielo.cl^
 ||sciencechannel.com/events/
+||sciencefocus.com/pricecomparison/$subdocument
 ||sciencenet.cn/field/js/news.
 ||sciencenet.cn/html/js/n
 ||sciencesetavenir.fr^
@@ -41145,6 +41139,7 @@ yydstxt*.com/js/html
 ||scoobymods.com^
 ||scoopwhoop.com^
 ||scoot.co.uk/ajax/log_
+||scoot.co.uk/delivery.php
 ||scope.org.uk^
 ||scopeusers.com^
 ||scopinemina.cfd^
@@ -41154,6 +41149,7 @@ yydstxt*.com/js/html
 ||scoreland.*/tranny.jpg
 ||scoreland.com/banner/
 ||scoreland.com^
+||scores24.live/o/offers?
 ||scorevibe.com^
 ||scorevision.com^
 ||scoring.one^
@@ -41188,6 +41184,7 @@ yydstxt*.com/js/html
 ||scripts.psyma.com^
 ||scripts.stay22.com/letmeallez.js
 ||scripts.swifteq.com/hc_events.js
+||scrolller.com/scrolller/affiliates/
 ||scrollscan.com^
 ||scrorlaets.com^
 ||scroscoi.com^
@@ -41247,6 +41244,7 @@ yydstxt*.com/js/html
 ||seadform.net^
 ||seadn.io^
 ||seafile.com^
+||seafood.media/fis/shared/banner.asp?
 ||sealmetrics.com^
 ||sealthatleak.com^$popup
 ||seamagazine.com^
@@ -41254,6 +41252,8 @@ yydstxt*.com/js/html
 ||search-carousel-widget.snc-prod.aws.cinch.co.uk^
 ||search.anonymous.ads.brave.com^
 ||search.aol.com/beacon/
+||search.brave.com/serp/v1/static/serp-js/paid/
+||search.brave.com/serp/v1/static/serp-js/shopping/
 ||search.brave.com/serp/v1/static/serp-js/telemetry/
 ||search.ch/audit/
 ||search2all.com^
@@ -41261,6 +41261,7 @@ yydstxt*.com/js/html
 ||searchbestinfo.com^
 ||searchcompletion.com/bannerhandler.ashx
 ||searchenginejournal.com/xcs0mhrsfxhg.js
+||searchenginereports.net/theadgmc/$image
 ||searcheshop.site^
 ||searchforjewelry.com^
 ||searchia.ir^
@@ -41329,6 +41330,7 @@ yydstxt*.com/js/html
 ||securitylab.ru^
 ||securitymetrics.com^
 ||sedkanovias.es^
+||sedo.cachefly.net^$domain=~sedoparking.com
 ||sedodna.com^$popup
 ||seducethem.co.uk^
 ||see-even-more.com^
@@ -41355,6 +41357,7 @@ yydstxt*.com/js/html
 ||seg.sharethis.com^
 ||sega.jp^
 ||segmentfault.com/sponsor/
+||segmentnext.com/lhfdy3jswvq8.js
 ||segmetrics.io^
 ||segware.com^
 ||seibuprince.com^
@@ -41424,6 +41427,7 @@ yydstxt*.com/js/html
 ||serialbrokeboy.com^
 ||serialgo.tv^
 ||serlivres.sbs^
+||sermonaudio.com/images/sponsors/
 ||sermoncloud.com/logger/
 ||serourceme.com^
 ||sertaohoje.com.br^
@@ -41560,11 +41564,7 @@ yydstxt*.com/js/html
 ||sexm.xxx^
 ||sexmature.fun/myvids/
 ||sexmix.net^
-||sexneka.com^
-||sexocean.net^
-||sexogratis.page^
 ||sexpennyauctions.com^$popup
-||sexpester.com^
 ||sexprime.xxx^
 ||sexs-xxxl.com^
 ||sexsex10.com^
@@ -41615,6 +41615,7 @@ yydstxt*.com/js/html
 ||sferum.ru^
 ||sfesdef6.fun^
 ||sffyn.com^
+||sfgate.com/juiceexport/production/sfgate.com/loadads.js
 ||sfile.top^
 ||sfnmt.com/dq/
 ||sfp.safe.baidu.com^
@@ -41638,6 +41639,7 @@ yydstxt*.com/js/html
 ||sgroshi.com.ua^
 ||sgsistemas.com.br^
 ||sgsosi.xyz^
+||sgtreport.com/wp-content/uploads/*banner
 ||sgusuite.com.br^
 ||sgwiki.com^
 ||sh.sina.com.cn/iframe/522/
@@ -41699,6 +41701,8 @@ yydstxt*.com/js/html
 ||shareaholic.com/analytics_
 ||shareaholic.com/partners.js
 ||shareboxcustomization.com^
+||sharecast.ws/cum.js
+||sharecast.ws/fufu.js
 ||shared.65twenty.com^
 ||shared.youdao.com/dao/search/outweb/js/
 ||shareholder.com/track/
@@ -41773,6 +41777,7 @@ yydstxt*.com/js/html
 ||shhfnpl.top^
 ||shib.live^
 ||shield-sky.com^
+||shield.knowt.com^
 ||shiftadmin.com^
 ||shigao.icu^
 ||shigotech.io^
@@ -41861,7 +41866,7 @@ yydstxt*.com/js/html
 ||shopsafety.ca^
 ||shopsportzmoms.com^
 ||shopzilla.com^
-||short-wave.info/html/adsense-728.html
+||short-wave.info/html/adsense-
 ||short.bitchute.com^$popup
 ||shorthand.com/analytics/
 ||shortienow.com^
@@ -41937,9 +41942,11 @@ yydstxt*.com/js/html
 ||siauliairsavlt.pw^
 ||sib.swiss^
 ||siberiantimes.com/counter/
+||siberiantimes.com/upload/banners/
 ||sibohei.com^
 ||siboom.co.uk^
 ||siccness.net^
+||sicilianelmondo.com/banner/
 ||siconoi.com^
 ||sid.ir^
 ||sid.nordstrom.com^
@@ -42255,6 +42262,7 @@ yydstxt*.com/js/html
 ||slgnt.us/track
 ||sli.crazyporn.xxx^
 ||slick60s.com^
+||slickdeals.net/ad-stats/
 ||slickdeals.net/ajax/stats/
 ||slideff.com^$popup
 ||slidegeeks.com^
@@ -42300,6 +42308,7 @@ yydstxt*.com/js/html
 ||smallbusinessdevelopmentinstitutes.top^
 ||smallestexpectedspecialty.com^$popup
 ||smallfunnybears.com^$popup
+||smallseotools.com/webimages/a12/$image
 ||smart-data-systems.com^
 ||smart-digital-solutions.com^
 ||smart-flash.jp^
@@ -42371,6 +42380,7 @@ yydstxt*.com/js/html
 ||smjfbjsfvrf.com^
 ||smlog.co.kr^
 ||smlypotr.net^$popup
+||smn-news.com/images/banners/
 ||smoads.com^
 ||smogflycloud.com^
 ||smoggy-construction.com^
@@ -42422,6 +42432,7 @@ yydstxt*.com/js/html
 ||sngmta.qq.com^
 ||snikket.chat^
 ||snipd.com^
+||snipercentral.com/images/banners/
 ||snipershide.com^
 ||snk.wtf^
 ||snl24.com^
@@ -42480,6 +42491,7 @@ yydstxt*.com/js/html
 ||soccer365.net^
 ||soccerbet.rs^
 ||soccergaming.com^
+||soccerinhd.com/aclib.js
 ||soccerodd.com^
 ||soccerstats.com^
 ||sochain.com^
@@ -42504,6 +42516,7 @@ yydstxt*.com/js/html
 ||socket-go.xyz^
 ||socket-makekskql.co^
 ||socket.dev^
+||socket.streamable.com^
 ||soclib.fr^
 ||socomec.it^
 ||socos.gitee.io/ss/poster/
@@ -42525,6 +42538,7 @@ yydstxt*.com/js/html
 ||soft.mumayi.net/js/
 ||soft365.vn^
 ||soft4fun.net/wp-content/themes/arthemia/js/common_footer_min.js
+||softcab.com/google.php?
 ||softonixs.xyz^$popup
 ||softoroom.org^
 ||softwar.io^
@@ -42620,6 +42634,7 @@ yydstxt*.com/js/html
 ||songswave.com^
 ||songswave.net^
 ||sonicautomotive.com^
+||sonichits.com/tf.php
 ||sonichits.com^
 ||sonicsads.com^
 ||sonicscan.org^
@@ -42650,6 +42665,7 @@ yydstxt*.com/js/html
 ||sophiasrugs.com^
 ||sopqvhe.cn^
 ||sora-online.net^
+||sorcerers.net/images/aff/
 ||sorcerers.net/includes/butler/
 ||soren-mashin.ir^
 ||sorrymother.top^
@@ -42678,10 +42694,12 @@ yydstxt*.com/js/html
 ||soulu365.com/images/zhuce.jpg
 ||soundandvision.com^
 ||soundclick.com^
+||soundcloud.com/audio-ads?
 ||soundestlink.com/rest/forms/v2/track/
 ||soundon.global^
 ||soundsleepmmw.com^
 ||soundsoft.de^
+||soundstageultra.com/images/banners/
 ||soundtrack.io^
 ||soundtrackyourbrand.com^
 ||source.chromium.org/v1/logging
@@ -42694,6 +42712,7 @@ yydstxt*.com/js/html
 ||sousefulhead.com^$popup
 ||southasiabp.net^
 ||southernglazers.com^
+||southfloridagaynews.com/images/banners/
 ||southmoney.com/page/pc/
 ||southmoney.com/page/top
 ||southmoney.com^*/inc/
@@ -42815,6 +42834,7 @@ yydstxt*.com/js/html
 ||spicygirlshere.life^$popup
 ||spidertracks.io^
 ||spierswyted.com^
+||spike-plant.valorbuff.com^
 ||spike.chat^
 ||spin83qr.com^$popup
 ||spindl.link/events
@@ -42843,6 +42863,7 @@ yydstxt*.com/js/html
 ||spoaven.top^
 ||spock.es^
 ||spoh.cn^
+||sponsors.vuejs.org^
 ||spore.com^
 ||sport-player.live^
 ||sportadmin.se^
@@ -43227,7 +43248,6 @@ yydstxt*.com/js/html
 ||statdb.pressflex.com^
 ||statdynamic.com^
 ||state.co.us^
-||statefarm.com^
 ||statefoodsafety.com^
 ||statemindpath.com^
 ||statens-it.dk^
@@ -43423,7 +43443,6 @@ yydstxt*.com/js/html
 ||statsforads.com^
 ||statshow.com^
 ||statsig.anthropic.com^
-||statsigapi.net^
 ||statsjs.klevu.com^
 ||statsmobi.com^$popup
 ||statsperform.com^
@@ -43808,7 +43827,6 @@ yydstxt*.com/js/html
 ||sumsub.com/api/tunnel/
 ||sumsub.com/resources/fevents
 ||sumsub.com/stry/
-||sunarp.gob.pe^
 ||suncor.com^
 ||suncs.app^
 ||sundayobserver.lk/sites/default/files/pictures/covid19-flash-1_0.gif
@@ -43934,7 +43952,6 @@ yydstxt*.com/js/html
 ||surfsharkstatus.com^
 ||surfside.io/event/
 ||surfski.wiki^
-||surfstationstore.com^
 ||surge.systems^$popup
 ||surgicalent.com^
 ||surkale.me^
@@ -44611,7 +44628,6 @@ yydstxt*.com/js/html
 ||teeniaole.com^
 ||teenporno.xxx/ab/
 ||teentubeonline.com^
-||teentubexnxx.com^
 ||teezab.com^
 ||tegleebs.com^$popup
 ||tegnadigital.com^
@@ -45499,7 +45515,6 @@ yydstxt*.com/js/html
 ||tondpan.ir^
 ||tondteam.ir^
 ||tonefuse.com^$popup
-||tonercartridgestore.com^
 ||tongabonga.com/nudegirls
 ||tonghuacun.com/js/uc.js
 ||tongitsstar.com^
@@ -46330,7 +46345,6 @@ yydstxt*.com/js/html
 ||triplydb.com^
 ||trippy.com^
 ||tripstance.com^
-||tripuranews24.com^
 ||tripwire.com^
 ||trismegistos.org^
 ||trisquel.info^
@@ -47770,7 +47784,6 @@ yydstxt*.com/js/html
 ||ventureradar.com^
 ||veopornogratis.xxx^
 ||vera.bet.br^
-||verabradley.com^
 ||verabradleymail.com^
 ||veradigmcloud.com^
 ||verbeauty.com^
@@ -48560,7 +48573,6 @@ yydstxt*.com/js/html
 ||walmart.ca/api/home-page/logger
 ||walmart.ca/api/landing-page/beacon-logger
 ||walmartimages.com/dfw/4ff9c6c9-d9a0/$domain=walmart.com
-||walmartjapanseiyu.com^
 ||walnutneckvariability.com^
 ||walruspractitioner.com^
 ||waltdisneypictures.com^
@@ -48703,6 +48715,7 @@ yydstxt*.com/js/html
 ||wc.yahoodns.net^$image
 ||wcareviews.com/bh/
 ||wcareviews.com/bv/
+||wccftech.com/0ldbu6cv0mz.js
 ||wccftech.com/cnt7vfdvvwa3.js
 ||wcdelgtlgh.net^
 ||wcdfxj.xyz^
@@ -48970,6 +48983,7 @@ yydstxt*.com/js/html
 ||wetpussygames.com/t78d42b806a3.js
 ||wetracked.io^
 ||wetrackgames.com^$popup
+||wettigo136.com^$popup
 ||wetuhvgby.com^
 ||wew.dushiwenxue.net^
 ||wewearegogogo.com^$popup
@@ -49185,7 +49199,6 @@ yydstxt*.com/js/html
 ||windll.com^
 ||windows.net/732d.js
 ||windows.net/banners/$domain=hortidaily.com
-||windows10download.com^
 ||windowsfreeapk.com^
 ||windowszj.net/d/js/list/click
 ||windropgames.com^
@@ -49298,6 +49311,7 @@ yydstxt*.com/js/html
 ||wmbd.gamersky.com^
 ||wmeng.feihuadns.com^
 ||wmktew.icu^
+||wmnqifp98t.com^
 ||wmol.cn^
 ||wmptengate.com^$popup
 ||wmtracksys.com^
@@ -50084,16 +50098,11 @@ yydstxt*.com/js/html
 ||xns.one^
 ||xntzvnymmt.net^
 ||xnview.com^
-||xnxx-aflam.com^
-||xnxx-xxx.pro^
 ||xnxx.army/click/
 ||xnxx.com/picserror/
 ||xnxx.tv/picserror/
 ||xnxx.tv/zoneload/
 ||xnxxporn.video/nb39.12/
-||xnxxporn.video^
-||xnxxsexarab.com^
-||xnxxvideos.rest^
 ||xnxxxxarab.live^
 ||xnxxxxx.pro^
 ||xoceonsl.com^
@@ -50253,7 +50262,6 @@ yydstxt*.com/js/html
 ||xxsmad6.com^
 ||xxsmad7.com^
 ||xxsmtz10.com^
-||xxx-sex.one^
 ||xxx-stop.com^
 ||xxx.diet^
 ||xxx.org^
@@ -50387,7 +50395,6 @@ yydstxt*.com/js/html
 ||yaebymob.com^
 ||yageogroup.com^
 ||yahoo.co.jp/js/s_retargeting.js
-||yahoo.com.au^
 ||yahoo.com/_td_api/beacon/
 ||yahoo.com/beacon/
 ||yahoo.com/beacon?
@@ -50766,9 +50773,7 @@ yydstxt*.com/js/html
 ||youngstowncoffee.com^
 ||youpintechs.com^
 ||youporn.com/_xa/ads
-||youporn.com^
 ||youporn.com^$script,subdocument,domain=youporn.com|youporngay.com
-||youpornpremium.com^
 ||your-sugar-girls.com^$popup
 ||youradchoices.com^
 ||youradexchange.com^
@@ -51049,6 +51054,7 @@ yydstxt*.com/js/html
 ||zalando.no^
 ||zalnouiy.com^
 ||zamam.co^
+||zamiasfinable.com^
 ||zamin.uz^
 ||zammad.com^
 ||zamosc.pl^
@@ -51248,6 +51254,7 @@ yydstxt*.com/js/html
 ||zhuwang.cc/api.php?op=ad_
 ||zhuys.com/js/ysmm.
 ||zhuys.com^*.php
+||zhwzsym.top^
 ||zhzyw.com/js/insertjs.js
 ||zi-scripts.com/zi-tag.js
 ||ziajretrs.com^
