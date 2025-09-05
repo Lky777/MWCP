@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202509041920
-! Last modified: 04 Sep 2025 19:20 UTC
+! Version: 202509051921
+! Last modified: 05 Sep 2025 19:21 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -373,6 +373,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 .com/static/js/ad.js
 .com/stats.aspx?
 .com/style/vue.js?v=
+.com/submit.min.js?abvar=
 .com/ta390hz2.js$script
 .com/tonglan.js
 .com/tonglan2.js
@@ -5793,7 +5794,6 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 @@/adloader.$domain=shejiben.com
 @@/admanager/*$domain=woego.cn
 @@/adpic/*$domain=baike.baidu.com|czsrc.com|nieyou.com|ontheup.com.tw|zform.net
-@@/adpro.js$domain=tingfm.com
 @@/ads-api.$domain=moneysave.info|zxmee.com
 @@/ads.js$domain=iyf.tv
 @@/ads/*$domain=189.cn|95516.com
@@ -5830,6 +5830,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 @@/fingerprint2.min.js$domain=csdn.net|neets.cc|passport.vpgame.com|shixiseng.com
 @@/fingerprintjs2.min.js$domain=imooc.com
 @@/fuckadblock.$domain=datehub.co|golangnote.com|joyk.com|liumingye.cn|lnk2.cc|poedb.tw|share1223.com
+@@/ggjs/*$domain=tingfm.com
 @@/gtm.js$domain=amd.com
 @@/guanggao/*$domain=icbc.com.cn|igame.qq.com
 @@/hitcount.$script,domain=on.cc
@@ -12637,6 +12638,7 @@ yydstxt*.com/js/html
 ||api.fastmoonclimbed.com^
 ||api.ffm.to/sl/e/$image
 ||api.fw.tv^
+||api.gleap.io/sessions/ping
 ||api.huo360.com/www/back/$image
 ||api.invideo.io/v3/send_analytics_event
 ||api.ipgeolocation.io/getip
@@ -15944,6 +15946,7 @@ yydstxt*.com/js/html
 ||ca.fapnow.xxx^
 ||ca.gtimg.com/adplugin/js/adplayer.js
 ||ca.gtimg.com/client/
+||ca.lesbianbliss.com^
 ||ca.yangshengtv.com^
 ||caaqot.com^
 ||cabbagereporterpayroll.com^$popup
@@ -17318,6 +17321,7 @@ yydstxt*.com/js/html
 ||clodsplit.com^$popup
 ||clorso.icu^
 ||close-up.be^
+||closercopy.cfd^$popup
 ||closet1951sf.com^
 ||clothingexporter.com^
 ||cloud-lch.email^
@@ -17341,6 +17345,7 @@ yydstxt*.com/js/html
 ||cloudeka.id^
 ||clouderrorreporting.googleapis.com^
 ||cloudfils.com^
+||cloudfilt.com/analyz.js
 ||cloudflare-quic.com/cdn-cgi/trace
 ||cloudflare.com/_cf/analytics.js
 ||cloudflare.com/ajax/libs/jbox/$domain=localmv1.com
@@ -20018,6 +20023,7 @@ yydstxt*.com/js/html
 ||db033pq6bj64g.cloudfront.net^
 ||db4zl9wffwnmb.cloudfront.net^
 ||db7q4jg5rkhk8.cloudfront.net^
+||db8b41ie5.com^
 ||dba9ytko5p72r.cloudfront.net^
 ||dbastatic.dk^
 ||dbcdqp72lzmvj.cloudfront.net^
@@ -21868,6 +21874,7 @@ yydstxt*.com/js/html
 ||eclick.vn^
 ||eclicksmarketing.com^
 ||eclimiw.top^
+||eclinerybelfast.org^$popup
 ||eclipse-adblocker.pro^
 ||eclipse-adblocker.pro^$popup
 ||eclipseadblock.info^$popup
@@ -24524,6 +24531,7 @@ yydstxt*.com/js/html
 ||g4kwve.com^
 ||g4scash360.com^
 ||g4y7uuk.com^
+||g4yk4cyyw.com^
 ||g6tgashb.fun^
 ||g6v97.com^
 ||g7ghdash2.fun^
@@ -25076,6 +25084,7 @@ yydstxt*.com/js/html
 ||gfx-tools.com^
 ||gfy.com^
 ||gg-led.com/uploadfile/uploadcompanylogo/*.gif
+||gg-unleash-prod.azurewebsites.net/proxy/client/metrics
 ||gg.
 ||gg.*.com/tonglan/tonglan.js
 ||gg.0598yu.com^
@@ -27324,6 +27333,7 @@ yydstxt*.com/js/html
 ||hudong.com/flux.js
 ||hudson-furniture.com^
 ||hudsongracesf.com^
+||hue2b.com^$popup
 ||hue2n.com^$popup
 ||hue4c.com^$popup
 ||hueads.com^$popup
@@ -29454,6 +29464,8 @@ yydstxt*.com/js/html
 ||johnstonmurphy.com^
 ||johnwebsterjohns.com^
 ||joi09041pt.com^
+||joi09050pt.com^
+||joi09051pt.com^
 ||joiidri.work^
 ||joinads.me^
 ||joinladder.com^
@@ -29555,6 +29567,7 @@ yydstxt*.com/js/html
 ||js.ea3w.com/pv.js
 ||js.entm.top^
 ||js.eroticmv.com^
+||js.go2sdk.com/v2/tune.js
 ||js.gov.cfd^
 ||js.kakuyomu.in^
 ||js.kkraw.com^
@@ -32727,6 +32740,7 @@ yydstxt*.com/js/html
 ||meadowmist.store^
 ||mealviewer.com^
 ||meaningtake.com^
+||meantimesubside.com^$popup
 ||measure.refinery89.com^
 ||measureadv.com^
 ||meaticawiwi.cfd^
@@ -34901,6 +34915,7 @@ yydstxt*.com/js/html
 ||nigwnagd.xyz^
 ||nihon-api.com^
 ||niif.hu^
+||nijlfx.icu^
 ||nike.com/assets/measure/data-capture/
 ||nikkan-gendai.com^
 ||nikkel-art.co.uk^
@@ -34943,6 +34958,7 @@ yydstxt*.com/js/html
 ||nio09021lt.com^
 ||nio09030lt.com^
 ||nio09031lt.com^
+||nio09051lt.com^
 ||nipez.cz^
 ||niphaumeenses.net^
 ||nipic.com^
@@ -35253,6 +35269,7 @@ yydstxt*.com/js/html
 ||nqlzlr.icu^
 ||nqyrywn.icu^
 ||nr-data.noelleeming.co.nz^
+||nr-js.imaios.com^
 ||nr.noelleeming.co.nz^
 ||nr.static.mmcdn.com^
 ||nraas.net^
@@ -35610,6 +35627,7 @@ yydstxt*.com/js/html
 ||offloading.link^
 ||offshuppetchan.com^$popup
 ||ofincm.icu^
+||ofja.cn^
 ||ofopp.xyz^
 ||ofphanpytor.com^$popup
 ||ofqvca.xyz^
@@ -36742,6 +36760,7 @@ yydstxt*.com/js/html
 ||pbradshaw.online^
 ||pbsadverxo.com^
 ||pbvdlb.xyz^
+||pbwlwdzje.com^
 ||pc161021.com/scripts/noui/eventlogger.js
 ||pc161021.com/scripts/noui/statprovider.js
 ||pc51.com^
@@ -40250,6 +40269,7 @@ yydstxt*.com/js/html
 ||rja3.xyz^
 ||rjctunnelvpn.xyz^
 ||rjdmhl.icu^
+||rjif.cn^
 ||rjmda-cntapp.com^
 ||rjpvnl.icu^
 ||rjsos.com/channel/laomo_dibu.png
@@ -42863,6 +42883,7 @@ yydstxt*.com/js/html
 ||spoaven.top^
 ||spock.es^
 ||spoh.cn^
+||spongeds.com^
 ||sponsors.vuejs.org^
 ||spore.com^
 ||sport-player.live^
@@ -49723,6 +49744,7 @@ yydstxt*.com/js/html
 ||wxs.la^
 ||wxsicu.xyz^
 ||wxwtvlov.com^
+||wxynyij.icu^
 ||wy12cewh4.com^
 ||wy903.com^
 ||wy916.com^
@@ -50809,23 +50831,21 @@ yydstxt*.com/js/html
 ||youth.cn/qwtf2015/
 ||youthtothepeople.com^
 ||youtrack.cloud^
-||youtube-nocookie.com/api/stats/atr?
-||youtube-nocookie.com/api/stats/delayplay?
+||youtube-nocookie.com/api/stats/atr?ns=
 ||youtube-nocookie.com/api/stats/qoe?
 ||youtube-nocookie.com/ptracking?
 ||youtube-nocookie.com/robots.txt?
 ||youtube-nocookie.com/youtubei/v1/log_event?
 ||youtube.com/api/stats/ads?
-||youtube.com/api/stats/atr?
-||youtube.com/api/stats/delayplay?
-||youtube.com/api/stats/qoe?
+||youtube.com/api/stats/atr?ns=
+||youtube.com/api/stats/qoe?fmt=
 ||youtube.com/embed/c-idzdvig1y$domain=biznews.com
 ||youtube.com/embed/wqlwtenbeeq?
 ||youtube.com/get_video?
 ||youtube.com/iframe_api$domain=nownews.com
 ||youtube.com/pagead/
 ||youtube.com/pcs/activeview?
-||youtube.com/ptracking?
+||youtube.com/ptracking?html5=1&
 ||youtube.com/set_awesome?
 ||youtube.com/youtubei/v1/log_event?
 ||youtube.com/youtubei/v1/player/ad_break
@@ -50856,6 +50876,7 @@ yydstxt*.com/js/html
 ||yqrsdfh.top^
 ||yqxsk.com^
 ||yrcny.org^
+||yrgsqi0zc.com^
 ||yrr56.com/mp4/pt_720.
 ||yrxtam.com^
 ||yry62x1vwl.com^
