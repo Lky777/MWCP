@@ -6,11 +6,13 @@
 ||abc29863668.com^
 ||abc57987257.com^
 ||abc96935812.com^
+||adspyglass.net^
 ||agonizingfollowing.pro^
 ||altzpxu.com^
 ||bb77393629.com^
 ||canseldomsulphur.com^
 ||cknr6y.com^
+||clarity.ms^
 ||cnkuqi.net^
 ||collision3550.top^
 ||coreserver.jp^
@@ -42,11 +44,9 @@
 ||staticaly.com^
 ||touristbaconwrath.com^
 ||trackwilltrk.com^
+||traforama.com^
 ||tvhazno.com^
 ||wcydkls.com^
-||www.adspyglass.net^
-||www.clarity.ms^
-||www.traforama.com^
 ||xn--gps-8y0gm25n.xn--55qx5d^
 ||yonyoujcxl.com^
 ||youandmerunfast.com^
@@ -64,6 +64,7 @@
 ||mcs.volceapplog.com^
 ||static-sg.winudf.com^
 ||tags.bluekai.com^
+||video.saawsedge.com^
 ||yan.pqd.org^
 
 ! .C
@@ -96,6 +97,7 @@
 *$websocket
 /load.gif
 /loading.gif
+/loading.jpg
 
 ! 163
 /163/frontend/antnest/
