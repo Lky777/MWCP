@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202509071116
-! Last modified: 07 Sep 2025 11:16 UTC
+! Version: 202509071919
+! Last modified: 07 Sep 2025 19:19 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -17200,6 +17200,7 @@ yydstxt*.com/js/html
 ||clouderrorreporting.googleapis.com^
 ||cloudfils.com^
 ||cloudfilt.com/analyz.js
+||cloudflare-analiytics.pages.dev/analytics.js
 ||cloudflare-quic.com/cdn-cgi/trace
 ||cloudflare.com/_cf/analytics.js
 ||cloudflare.com/ajax/libs/jbox/$domain=localmv1.com
@@ -32029,6 +32030,7 @@ yydstxt*.com/js/html
 ||mc.webvisor.org^
 ||mc.yandex.com^
 ||mc.yandex.ru^
+||mc.yango.com^
 ||mc5e9p8qx.com^
 ||mcahinohez.com^
 ||mcanism.com^
@@ -36004,25 +36006,17 @@ yydstxt*.com/js/html
 ||pastrevolution.pro^
 ||pasxfixs.com^$popup
 ||patagonenki.shop^
-||patents-review.com^
-||patexia.com^
 ||path-2-happiness.com/*/select_adv
-||pathfinderwiki.com^
 ||patientaid.net^
-||patientnow.net^
-||patientpoint.io^
 ||patreon.com/api/tracking
 ||patriotwholesaleclub.com^
 ||patronimproveyourselves.com^$popup
-||patternreview.com^
 ||paulastroid.com^$popup
-||pave.com^
 ||pavelleshchev.ru^
 ||pavlopoulos-lab.org^
 ||pawedrummest.rest^
 ||pawloka.store^
 ||pawno.su^
-||pawpeds.com^
 ||paxsfiss.com^$popup
 ||paxxfiss.com^$popup
 ||pay23bet.cc^
@@ -36036,7 +36030,6 @@ yydstxt*.com/js/html
 ||paycosystems.com^
 ||payhawk.com^
 ||paykbk.bet^
-||paykeeper.ru^
 ||paylab.com^
 ||paylessfurnitureohio.com^
 ||paylessfurnituresource.com^
@@ -36046,7 +36039,6 @@ yydstxt*.com/js/html
 ||paymenttools.net^
 ||paymobsolutions.com^
 ||paynet.my^
-||paynet.uz^
 ||paypal.com/credit-presentment/glog?
 ||paypal.com/credit-presentment/log
 ||paypal.com/platform/tealeaftarget
@@ -36054,7 +36046,6 @@ yydstxt*.com/js/html
 ||paypal.com/webapps/mch/cmd/?
 ||paypal.com/xoplatform/logger/api/logger
 ||paypalobjects.com^*/pixel.gif
-||payping.ir^
 ||paysimple.com^
 ||paytrack.com.br^
 ||payvclick.com^$popup
@@ -36069,10 +36060,8 @@ yydstxt*.com/js/html
 ||pbjs-stream.bydata.com^
 ||pbmp.ali213.net/
 ||pbmp.ali213.net/js/
-||pbnation.com^
 ||pbnvoice.com^
 ||pbqcken.com^
-||pbr.com^
 ||pbradshaw.online^
 ||pbsadverxo.com^
 ||pbvdlb.xyz^
@@ -36101,7 +36090,6 @@ yydstxt*.com/js/html
 ||pcgames.com.cn/g/*/fz/
 ||pcgames.com.cn/g/extlin/pcdownpic/$script
 ||pcgamesn.com/cdn-cgi/trace
-||pcgamingon.it^
 ||pcgnlzkyf.com^
 ||pchat.vn^
 ||pchome.com.tw/iframe/$domain=mail.pchome.com.tw
@@ -36130,7 +36118,6 @@ yydstxt*.com/js/html
 ||pcp.coupert.com^
 ||pcpop.com/pv/pv.js
 ||pcqhe.cn^
-||pcradio.ru^
 ||pcrl.co/js/jstracker.min.js
 ||pcs-electronics.com^
 ||pcstore.com.tw/adm/psearch_payad_
@@ -36141,7 +36128,6 @@ yydstxt*.com/js/html
 ||pcxnrr.icu^
 ||pdfagile.com^
 ||pdfbook.cn/wp-content/uploads/2017/11/049.jpg
-||pdfdrive.to^
 ||pdffilemachine.live^
 ||pdffiller.com/api_v3/experiment/
 ||pdffiller.com/api_v3/uploader/stats
@@ -36151,9 +36137,7 @@ yydstxt*.com/js/html
 ||pdfmasterread.com^
 ||pdfreaderfreeview.com^
 ||pdfreadergoal.live^
-||pdfreaderpro.com^
 ||pdfreaders.net^
-||pdfroom.com^
 ||pdfstandards.shop^
 ||pdfviewerreadpdf.live^
 ||pdfviewfinder.com^
