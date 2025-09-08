@@ -7,15 +7,12 @@
 ||abc57987257.com^
 ||abc96935812.com^
 ||adspyglass.net^
-||agonizingfollowing.pro^
 ||altzpxu.com^
 ||bb77393629.com^
 ||canseldomsulphur.com^
 ||cknr6y.com^
-||clarity.ms^
 ||cnkuqi.net^
 ||collision3550.top^
-||coreserver.jp^
 ||cru0xr.com^
 ||diligencejusticeimprobable.com^
 ||elysiumingreat.top^
@@ -43,7 +40,6 @@
 ||soldierrewet.com^
 ||staticaly.com^
 ||touristbaconwrath.com^
-||trackwilltrk.com^
 ||traforama.com^
 ||tvhazno.com^
 ||wcydkls.com^
@@ -76,9 +72,9 @@
 ||playhubconnect.com/bn/
 
 ! .General Blocking
+*/ad/*
+*/ads/*
 /1x1.
-/ad/
-/ads/
 /cdn-cgi/speculation
 /popup/adblock/promo/banner/
 /ad.js
@@ -86,7 +82,6 @@
 /email-decode.min.js
 /js/adminlte.min.js
 /js/zzz.js
-.com/images/ad/
 .com/js/ad-provider.js
 .com/js/ad-units.js
 .com/js/exopop.js
@@ -100,7 +95,7 @@
 /loading.jpg
 
 ! 163
-/163/frontend/antnest/
+*/163/frontend/antnest/*
 ||m.163.com/touch/nc/api/article/relate/
 ||m.163.com/wap/special/
 ||s6.music.126.net/puzzle/$script
@@ -135,6 +130,7 @@ a2zapk.io###modalpop-content
 ||a.cdnpure.com/analytics/
 
 ! bad.news
+||bad.news/images/lightbox-blank.gif
 bad.news##.download-app-fixed
 
 ! bilibili
@@ -143,6 +139,14 @@ m.bilibili.com##.fixed-openapp
 ! bing
 @@||bing.com/fd/ls/GLinkPing.aspx?
 bing.com###bnp_rich_div
+
+! cna
+/img/line-ad-s.jpg?
+||inrecsys.popin.cc^
+||log.popin.cc^
+||api.popin.cc/test/
+||t.ssp.hinet.net/utag.js
+cna.com.tw##.line-ad
 
 ! cnblog
 ||img2024.cnblogs.com/blog/35695/
@@ -256,9 +260,6 @@ www.txrjy.com###tryOpenApp
 
 ! x1hub
 |https://www.x1hub.com/player/player_ads.html?
-
-! xchina
-||upload.xchina.*/ad/
 
 ! xhamster
 ||collector.xhamster.com^
