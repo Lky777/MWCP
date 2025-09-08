@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202509071919
-! Last modified: 07 Sep 2025 19:19 UTC
+! Version: 202509081922
+! Last modified: 08 Sep 2025 19:22 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -63,6 +63,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 &ga_blocked=$image
 &hittype=pageview&
 &http_referer=$script,xmlhttprequest,domain=~biletomat.pl|~facebook.com|~jobscore.com
+&ii=fingerprintjs-pro-react
 &l=datalayer&cx=c
 &pagegroup=*&url=$script
 &popunder=$popup
@@ -1216,7 +1217,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /adserve/*$script
 /adserver$script,xhr
 /adserver.$popup
-/adserver.$~stylesheet,~xmlhttprequest,domain=~adserver.flytant.com
+/adserver.$~stylesheet,~xmlhttprequest
 /adserver/*$popup
 /adserver3.$image,script
 /adservice$script,xhr
@@ -5571,7 +5572,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 ://adsbb.
 ://adserving.
 ://adsrv.
-://adsserver.$~xmlhttprequest
+://adsserver.$~xmlhttprequest,domain=~adsserver.flytant.com
 ://adv.$popup,domain=~adv.kompas.id|~adv.lack-girl.com
 ://adv.$third-party,domain=~adv.asahi.com|~adv.bet|~adv.blue|~adv.chunichi.co.jp|~adv.cincsys.com|~adv.cryptonetlabs.it|~adv.design|~adv.digimatix.ru|~adv.ec|~adv.ee|~adv.gg|~adv.hokkaido-np.co.jp|~adv.kompas.id|~adv.lack-girl.com|~adv.mcr.club|~adv.mcu.edu.tw|~adv.michaelgat.com|~adv.msk.ru|~adv.neosystem.co.uk|~adv.peronihorowicz.com.br|~adv.rest|~adv.ru|~adv.sciconnect.unsw.edu.au|~adv.tools|~adv.trinet.ru|~adv.ua|~adv.vg|~adv.yomiuri.co.jp|~advancedradiology.com|~advids.co|~farapp.com|~pracuj.pl|~r7.com|~typeform.com|~welaika.com
 ://aff-ads.
@@ -8714,7 +8715,7 @@ yydstxt*.com/js/html
 ||389win.click^
 ||38g2n1ww.icu^$popup
 ||38hgc.com^$popup
-||38ksw.com^*/082903.
+||38ksw.com^*/0
 ||38win44.com^
 ||39.net/a.htm?
 ||39.net/ask/sg.
@@ -8911,6 +8912,7 @@ yydstxt*.com/js/html
 ||4kxczstxil.com^
 ||4kzgame.com^
 ||4life.com^
+||4p04u96158.com^
 ||4paradigm.com^$domain=sina.com.cn
 ||4pics1-word.com^
 ||4play.bet.br^
@@ -9105,6 +9107,7 @@ yydstxt*.com/js/html
 ||5azvpjx8xj.com^
 ||5b7crp.com^
 ||5d7k30pv1u.com^
+||5dariyanews.com/images/adherecolads.jpg
 ||5dimes.com^$popup
 ||5dm.link/a$image
 ||5dmail.net/image/$object
@@ -9513,6 +9516,7 @@ yydstxt*.com/js/html
 ||8upload.com^
 ||8v08mjri7.com^
 ||8wtkfxiss1o2.com^$popup
+||8x14khzwmi.com^
 ||8x3wolchw.com^
 ||8xly.cn^
 ||8y3j.cn^
@@ -16213,6 +16217,7 @@ yydstxt*.com/js/html
 ||cbdm.weathercn.com^
 ||cbdoilxs.com^
 ||cbdqzbi.icu^
+||cbembusgcl.com^
 ||cbf.com.br^
 ||cbfw.cn/gonggong/chibi/cf_
 ||cbjg.cqnews.net^
@@ -16358,6 +16363,7 @@ yydstxt*.com/js/html
 ||cdndm.com/3/2015/$domain=1kkk.com|dm5.com
 ||cdndm.com^*/js/newtc.js
 ||cdndm5.com^*/ad_360_
+||cdnintech.com/web/frontend/www/assets/*/js/adsloader.js
 ||cdnjs.hro-cosmetics.com^
 ||cdnjs.mopair-erm.net^
 ||cdnjs.work/metrics.js
@@ -16400,6 +16406,7 @@ yydstxt*.com/js/html
 ||cehanapilero.info^
 ||ceisip.com/static/js/plugin.js
 ||cek.to^
+||cekdew.icu^
 ||celeb.gate.cc/assets/bilder/bann
 ||celebjihad.com/celeb-jihad/pu_
 ||celebjihad.com^
@@ -20985,6 +20992,7 @@ yydstxt*.com/js/html
 ||dr3k6qonw2kee.cloudfront.net^
 ||dr6su5ow3i7eo.cloudfront.net^
 ||dr6vcclmzwk74.cloudfront.net^
+||dr7dsx6u9.com^
 ||dr8pk6ovub897.cloudfront.net^
 ||dradvice.in^$popup
 ||draftkings.bbgi.com^$subdocument
@@ -21629,6 +21637,7 @@ yydstxt*.com/js/html
 ||ebioweb.com/newsf/js/inpic.js
 ||ebioweb.com/newsf/js/news_top_banner.js
 ||eboblack.com^
+||eboobuv0rk.com^
 ||ebook-hunter.org^
 ||ebox.ca^
 ||ebp.renren.com^
@@ -23675,6 +23684,7 @@ yydstxt*.com/js/html
 ||fp-cdn.azureedge.net^
 ||fp-it-acc.portal101.cn/deviceprofile/
 ||fp-upload.dun.163.com^
+||fp.bizjournals.com^
 ||fp.measure.office.com^
 ||fp.nanrenwo.net^
 ||fpa-cdn.adweek.com^
@@ -25108,6 +25118,7 @@ yydstxt*.com/js/html
 ||good-trading.com^
 ||good8866.com/js/*.js
 ||goodaudience.com^
+||goodcar.com/js/parts/fp.js
 ||goodfellascigarshop.com^
 ||goodfon.com/stat/
 ||goodgupiao.com/skins/default/js/backtop.js
@@ -25389,6 +25400,7 @@ yydstxt*.com/js/html
 ||grtya.com^$popup
 ||grtyj.com^$popup
 ||grtyv.com^$popup
+||gru07o6y3.com^
 ||grulag.click^
 ||grundysshoes.com.au^
 ||grunoaph.net^$popup
@@ -28716,6 +28728,7 @@ yydstxt*.com/js/html
 ||jiexiangtextile.com^
 ||jiexingtai88.com^
 ||jifeng.art^
+||jigool.org^
 ||jigujigu.tech^
 ||jiji.co.ke/tag_event
 ||jiji.com.gh^
@@ -28886,6 +28899,8 @@ yydstxt*.com/js/html
 ||joi09061pt.com^
 ||joi09070pt.com^
 ||joi09071pt.com^
+||joi09080pt.com^
+||joi09081pt.com^
 ||joiidri.work^
 ||joinads.me^
 ||joinladder.com^
@@ -31402,6 +31417,7 @@ yydstxt*.com/js/html
 ||lyricsgem.com^
 ||lyricworld.com^
 ||lysq.com/data/attachment/portal/
+||lywaelm.online^
 ||lywasnothycanty.info^$popup
 ||lywww.com/data/js.php?id=
 ||lywww.com/header_pic.php
@@ -32089,6 +32105,7 @@ yydstxt*.com/js/html
 ||mdfd5c42d8.cc^
 ||mdkblog.com^
 ||mdmexclusives.com^$popup
+||mdn.allizom.net/pong/
 ||mdsave.com^
 ||mdshooters.com^
 ||mdstats.info^
@@ -34300,6 +34317,8 @@ yydstxt*.com/js/html
 ||nio09051lt.com^
 ||nio09061lt.com^
 ||nio09070lt.com^
+||nio09080lt.com^
+||nio09081lt.com^
 ||nipez.cz^
 ||niphaumeenses.net^
 ||nipic.com^
@@ -35441,6 +35460,7 @@ yydstxt*.com/js/html
 ||optimizely.com/public/
 ||optimizely.techtarget.com^
 ||optimizer.apiswidget.com^
+||optimizer.poxo.com^
 ||optimizerpeak.com^
 ||optimizesrv.com^$popup
 ||optinadserving.com^
@@ -38159,6 +38179,7 @@ yydstxt*.com/js/html
 ||qhdlz.net/ssyyss/m.js
 ||qhdlz.net/uploads/glxs/980x120.jpg
 ||qhestrad.com^
+||qhherqral.com^
 ||qhihoins.com^
 ||qhimg.com/11.0.1.js$script
 ||qhimg.com/clk.gif?
@@ -38199,7 +38220,7 @@ yydstxt*.com/js/html
 ||qingkai.com/gg_img/
 ||qingkong.net/skin/htcs/images/980.jpg
 ||qingolor.com^
-||qingqingxs.top/static/xbiquge/wap.js
+||qingqingxs.*/static/xbiquge/wap.js
 ||qingsedhh.com/images/gg.gif
 ||qiniuyun25.xyz^
 ||qinxue100.com/qinxue/pc/js/add_js.js
@@ -39320,6 +39341,8 @@ yydstxt*.com/js/html
 ||rescuecrew7.com^
 ||research.com^
 ||researchbib.com^
+||researchgate.net/beacon/
+||researchgate.net/delivery/manager.js
 ||researchgate.net/track/
 ||researchnow.co.uk^$third-party,domain=~dynata.com
 ||resellerratings.com/popup/include/popup.js
@@ -39417,6 +39440,7 @@ yydstxt*.com/js/html
 ||rfidworld.com.cn/js/rfid.js
 ||rfidworld.com.cn/js/rfidexec.js
 ||rfidworld.com.cn/notice/home
+||rfilmalmz.com^
 ||rfk.biglots.com^
 ||rfk.dsw.com/api/init/1/init.js
 ||rfksrv.com/rfkj/$image
@@ -39429,6 +39453,7 @@ yydstxt*.com/js/html
 ||rgme.cn^
 ||rgshows.me/js/logger.js
 ||rgshows.me/js/statistics.js
+||rgstatic.net/javascript/delivery-manager/delivery-impl.$domain=researchgate.net
 ||rgtghulduk.com^
 ||rgthree.com^
 ||rgvnaqkdho.net^
@@ -39556,6 +39581,7 @@ yydstxt*.com/js/html
 ||rlfans.com^
 ||rliwiqr.icu^
 ||rlogs.youdao.com^
+||rlri.cn^
 ||rls.org^
 ||rlsbb.cc^
 ||rlsbb.in^
@@ -39907,6 +39933,7 @@ yydstxt*.com/js/html
 ||rum.azioncdn.net^
 ||rum.condenastdigital.com^
 ||rum.corewebvitals.io^
+||rum.cronitor.io^
 ||rum.hlx.page^
 ||rum.ingress.layer0.co^
 ||rum.layer0.co^
@@ -44603,6 +44630,7 @@ yydstxt*.com/js/html
 ||tiorb.com^
 ||tipaxco.com^
 ||tipdrains.cfd^
+||tiplink.io/fp-agent.js
 ||tippecanoehistory.org^
 ||tips.gg^
 ||tipspemasaran.com^
@@ -44787,6 +44815,7 @@ yydstxt*.com/js/html
 ||tongji.techweb.com.cn^
 ||tongji.xinmin.cn^
 ||tongji2.vip.duba.net/__infoc.gif?
+||tongueq2.top^
 ||tonnn.com/promotion2/*.js
 ||tonpoker.online^
 ||tonsilsuggestedtortoise.com^$popup
@@ -45792,6 +45821,7 @@ yydstxt*.com/js/html
 ||ttdm.me/upload/files/sss/
 ||ttechsuspension.com^
 ||tteferty33.fun^
+||tthrirgud.com^
 ||tti.com^
 ||ttic.cc^
 ||ttimiyi.top^
@@ -46229,6 +46259,7 @@ yydstxt*.com/js/html
 ||udaff.com^
 ||udamcst.top^
 ||udblog.huya.com^
+||udc.yahoo.com/v2/public/yql?
 ||udd1i5.zhihu.com^
 ||udemy.com/api-2.0/ecl
 ||udesa.net^
@@ -47129,6 +47160,7 @@ yydstxt*.com/js/html
 ||vicars-furniture.com^
 ||vicegoriest.shop^
 ||vicegoriest.shop^$popup
+||vickyellend.com^
 ||viction.xyz^
 ||victor-win.net^
 ||victoryslam.com^$popup
@@ -48780,6 +48812,7 @@ yydstxt*.com/js/html
 ||wtrotilloye.com^
 ||wtroytj33.fun^
 ||wtsparadigm.com^
+||wu2088-603.shop^
 ||wu2088-604.shop^
 ||wu2088-605.shop^
 ||wu2088-606.shop^
@@ -49050,6 +49083,7 @@ yydstxt*.com/js/html
 ||xdh0808.com^$popup
 ||xdnice.com/themes/xdnice/public/assets/images/quna.png
 ||xdnice.com/themes/xdnice/public/assets/images/xdnice.png
+||xdoriq.cn^
 ||xdt3cdevc.com^
 ||xdtraffic.com^$popup
 ||xdyjt.com^
