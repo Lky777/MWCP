@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202509091137
-! Last modified: 09 Sep 2025 11:37 UTC
+! Version: 202509091921
+! Last modified: 09 Sep 2025 19:21 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -27967,7 +27967,8 @@ yydstxt*.com/js/html
 ||imkoa.top^
 ||imleagues.com^
 ||imlive.com^$script,domain=~imnude.com
-||immovlan.be/*/widget/cbc/
+||immovlan.be/*/widget/
+||immovlan.be/js/dist/pub/
 ||immoweb.be/*/dpg/
 ||immoweb.be/*/track/
 ||imniel.com^
@@ -37787,6 +37788,7 @@ yydstxt*.com/js/html
 ||pornogramxxx.com/out/$popup
 ||pornogratisdiario.com^
 ||pornogreece.com^
+||pornohans.net/static/exo
 ||pornohi.net^
 ||pornohirsch.net^
 ||pornohub24.ru^
@@ -43686,6 +43688,7 @@ yydstxt*.com/js/html
 ||suaurl.com/adblock/js/smarttag.js
 ||sub.powerapple.com^
 ||subarelacked.com^
+||subhd.*/kaiyad.
 ||subi.co^
 ||subjectsfaintly.com^$popup
 ||subjeesprang.com^
@@ -49279,17 +49282,6 @@ yydstxt*.com/js/html
 ||wn.com/count.js
 ||wn6y.cn^
 ||wna.cloud^
-||wnacg.*/1605524662751.gif
-||wnacg.*/1sdfdc1/
-||wnacg.*/58s/
-||wnacg.*/5eg/
-||wnacg.*/data/game/
-||wnacg.*/sd
-||wnacg.*/themes/mo/images/*.gif
-||wnacg.*/themes/weitu/images/0
-||wnacg.*/w7z/
-||wnacg.*/w8z/
-||wnacg.*/zec/
 ||wnbtools.com^
 ||wneducation.com^
 ||wneia.iaskhot.com^
