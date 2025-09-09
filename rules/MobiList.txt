@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202509082350
-! Last modified: 08 Sep 2025 23:50 UTC
+! Version: 202509091137
+! Last modified: 09 Sep 2025 11:37 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -10,7 +10,7 @@ $csp=child-src 'none'; frame-src 'self' *; worker-src 'none',domain=fileone.tv|t
 $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vidoza.net
 $csp=script-src 'self' '*' 'unsafe-inline',domain=pirateproxy.live|thehiddenbay.com|downloadpirate.com|thepiratebay10.org|ukpass.co|linksmore.site
 $csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.cloudflare.com *.google.com *.addthis.com *.addthisedge.com *.facebook.net *.twitter.com *.jquery.com *.x.com,domain=kinox.lat|kinos.to|kinox.am|kinox.click|kinox.cloud|kinox.club|kinox.digital|kinox.direct|kinox.express|kinox.fyi|kinox.gratis|kinox.io|kinox.lol|kinox.me|kinox.mobi|kinox.pub|kinox.sh|kinox.to|kinox.tube|kinox.tv|kinox.wtf|kinoz.to,~third-party
-$csp=script-src 'self' * 'unsafe-inline',domain=biqugequ.org|69shumi.com|fxxs3.com|efuxs.com|i3book.com|genbiquge.com|quanbiqu.com|pinshu.org|13xsw.com|bbiquge.cc|taobiquge.com|haijiaobooksw.top|zlobin.net|piaotianxiaoshuo.com|yebiquge.com|jvbiquge.com|vipbiquge.com|jpbqg7.com|zuizhong.net|oldtimeswx.org|5book.cc|softtechsolution.org|product44.com|snxsw.com|xiexinde.net|m.6666xsw.com|m.chenkuan.com|jmshuwu.net|wodexiaoshuoh.com|tetservices.net|haitangsoshu.org|4hrz.net|x33yq.org|56xiaoshuo.net|novelser.com|ykxs.cc|biqudd.com|diyibanzhu44444.com|dbrxs.org|kaixindu.net|1ingatlan.net|gaofuwu.org|yushuwu.cloud|yswxs.com|biquge2345.com|dingdian911.com|bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|1kans.net|aidu123.com|biquluo.info|bqgh.com|jmshuwu.net|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com
+$csp=script-src 'self' * 'unsafe-inline',domain=8181zw.vip|biqugequ.org|69shumi.com|fxxs3.com|efuxs.com|i3book.com|genbiquge.com|quanbiqu.com|pinshu.org|13xsw.com|bbiquge.cc|taobiquge.com|haijiaobooksw.top|zlobin.net|piaotianxiaoshuo.com|yebiquge.com|jvbiquge.com|vipbiquge.com|jpbqg7.com|zuizhong.net|oldtimeswx.org|5book.cc|softtechsolution.org|product44.com|snxsw.com|xiexinde.net|m.6666xsw.com|m.chenkuan.com|jmshuwu.net|wodexiaoshuoh.com|tetservices.net|haitangsoshu.org|4hrz.net|x33yq.org|56xiaoshuo.net|novelser.com|ykxs.cc|biqudd.com|diyibanzhu44444.com|dbrxs.org|kaixindu.net|1ingatlan.net|gaofuwu.org|yushuwu.cloud|yswxs.com|biquge2345.com|dingdian911.com|bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|1kans.net|aidu123.com|biquluo.info|bqgh.com|jmshuwu.net|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com
 $csp=script-src 'self' * 'unsafe-inline',domain=bowoxs.com|guashuge.com|mudanxs.com|mzbook.cc|haduks.com|caimozw.com|zaaizw.com|bogeks.com|oushuku.com|haxu8.com|pucixs.com|tuqisw.com|xueyisw.com|zuye8.com|yawoxs.com|guwoxs.com|jiufuzw.com|beianxs.com|shuying6.com|mafusw.com|cule9.com|riquzw.com|xingksw.com|enbusw.com|waguwk.cc|ruyisw.com|zuxiku.com|jinmusb.com|hunshuge.com|puyewk.com|kaaiwk.com|hadu520.com|qubosw.com|meisibook.com|cuaizw.cc|boxue8.cc|cipubook.com|ququsk.cc|yiyezao.com|shanhuxs.com|jiutusw.com|chahuax.com|candoug.com|hanziwen.com|haduzw.com|modaoshu.com|nipubook.com|nuoshuge.com|puquz.com|wuwusk.com
 $csp=script-src 'self' * 'unsafe-inline',domain=nodejs.cn|smsonline.cloud
 $csp=script-src 'self' *,domain=52niuyanks.cc|90shuyuan.com|hunhunxs.com|sswwxs.com|akexs.com|qqmmxs.com|qimiaoxs.cc|qimiaoxiaoshuo.com|wuwxs.com|biquge678.com|biqugezw.us|zk01.net
@@ -3791,6 +3791,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /phpadsnew/*$image,script
 /phpbb_ads/*$~xmlhttprequest
 /phpmyvisites.js
+/piano-analytics-$script
 /piano-analytics.js
 /piao.js|
 /piaofu.
@@ -5567,7 +5568,7 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 ://adn.*/zone/$popup
 ://adn.*/zone/$subdocument
 ://ads.$popup,domain=~ad.olx.pl|~smartnews.com
-://ads.$~image,~xmlhttprequest,domain=~ads.8designers.com|~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.apple.com|~ads.atmosphere.copernicus.eu|~ads.axon.ai|~ads.band|~ads.bestprints.biz|~ads.bikepump.com|~ads.brave.com|~ads.buscaempresas.co|~ads.business.bell.ca|~ads.cafebazaar.ir|~ads.chewy.com|~ads.colombiaonline.com|~ads.comeon.com|~ads.cvut.cz|~ads.doordash.com|~ads.dosocial.ge|~ads.dosocial.me|~ads.elevateplatform.co.uk|~ads.ferrarichat.com|~ads.finance|~ads.flytant.com|~ads.fund|~ads.google.cn|~ads.google.com|~ads.gree.net|~ads.gurkerl.at|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kaipoke.biz|~ads.kifli.hu|~ads.knuspr.de|~ads.listonic.com|~ads.luarmor.net|~ads.magalu.com|~ads.mercadolivre.com.br|~ads.mgid.com|~ads.microsoft.com|~ads.midwayusa.com|~ads.misskey.io|~ads.mobilebet.com|~ads.mojagazetka.com|~ads.msstate.edu|~ads.mst.dk|~ads.mt|~ads.nc|~ads.nipr.ac.jp|~ads.olx.pl|~ads.pinterest.com|~ads.realizeperformance.com|~ads.remix.es|~ads.rohlik.cz|~ads.rohlik.group|~ads.route.cc|~ads.safi-gmbh.ch|~ads.scotiabank.com|~ads.selfip.com|~ads.shopee.cn|~ads.shopee.co.th|~ads.shopee.com.br|~ads.shopee.com.mx|~ads.shopee.com.my|~ads.shopee.kr|~ads.shopee.ph|~ads.shopee.pl|~ads.shopee.sg|~ads.shopee.tw|~ads.shopee.vn|~ads.siriusxmmedia.com|~ads.smartnews.com|~ads.snapchat.com|~ads.socialtheater.com|~ads.spotify.com|~ads.studyplus.co.jp|~ads.taboola.com|~ads.tiktok.com|~ads.tuver.ru|~ads.twitter.com|~ads.typepad.jp|~ads.us.tiktok.com|~ads.viksaffiliates.com|~ads.vk.com|~ads.vk.ru|~ads.watson.ch|~ads.wildberries.ru|~ads.x.com|~ads.yandex|~reempresa.org
+://ads.$~image,~xmlhttprequest,domain=~ads.8designers.com|~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.apple.com|~ads.atmosphere.copernicus.eu|~ads.axon.ai|~ads.band|~ads.bestprints.biz|~ads.bikepump.com|~ads.brave.com|~ads.buscaempresas.co|~ads.business.bell.ca|~ads.cafebazaar.ir|~ads.chewy.com|~ads.colombiaonline.com|~ads.comeon.com|~ads.cvut.cz|~ads.doordash.com|~ads.dosocial.ge|~ads.dosocial.me|~ads.elevateplatform.co.uk|~ads.ferrarichat.com|~ads.finance|~ads.flytant.com|~ads.fund|~ads.google.cn|~ads.google.com|~ads.gree.net|~ads.gurkerl.at|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kaipoke.biz|~ads.kifli.hu|~ads.knuspr.de|~ads.listonic.com|~ads.luarmor.net|~ads.magalu.com|~ads.mercadolivre.com.br|~ads.mgid.com|~ads.microsoft.com|~ads.midwayusa.com|~ads.misskey.io|~ads.mobilebet.com|~ads.mojagazetka.com|~ads.msstate.edu|~ads.mst.dk|~ads.mt|~ads.nc|~ads.nipr.ac.jp|~ads.olx.pl|~ads.palmettostatearmory.com|~ads.pinterest.com|~ads.realizeperformance.com|~ads.remix.es|~ads.rohlik.cz|~ads.rohlik.group|~ads.route.cc|~ads.safi-gmbh.ch|~ads.scotiabank.com|~ads.selfip.com|~ads.shopee.cn|~ads.shopee.co.th|~ads.shopee.com.br|~ads.shopee.com.mx|~ads.shopee.com.my|~ads.shopee.kr|~ads.shopee.ph|~ads.shopee.pl|~ads.shopee.sg|~ads.shopee.tw|~ads.shopee.vn|~ads.siriusxmmedia.com|~ads.smartnews.com|~ads.snapchat.com|~ads.socialtheater.com|~ads.spotify.com|~ads.studyplus.co.jp|~ads.taboola.com|~ads.tiktok.com|~ads.tuver.ru|~ads.twitter.com|~ads.typepad.jp|~ads.us.tiktok.com|~ads.viksaffiliates.com|~ads.vk.com|~ads.vk.ru|~ads.watson.ch|~ads.wildberries.ru|~ads.x.com|~ads.yandex|~reempresa.org
 ://ads2.
 ://adsbb.
 ://adserving.
@@ -7645,6 +7646,7 @@ _ad.php?
 _ad_250.$image
 _ad_300.$image
 _ad_close.$image
+_ads.html?
 _ads.js|
 _ads.swf|
 _advertise-$domain=~linkedin.com
@@ -7831,7 +7833,6 @@ yydstxt*.com/js/html
 |https://www.cnblogs.com/*/custom.css?
 |https://www.ghxi.com/wp-content/plugins/wp-opt/static/js/front.min.js?
 |https://www.pornbest.org/site/stat?
-|https://www.x1hub.com/player/player_ads.html?
 |https://www.zhihu.com/api/v4/growth/mobile_top_banner?
 |https://www.zhihu.com/api/v4/hot_recommendation?
 |https://www.zhihu.com/api/v4/questions/*/related-readings?
@@ -9178,6 +9179,7 @@ yydstxt*.com/js/html
 ||5imx.com/image/image/
 ||5ips.net/love/
 ||5jucbtxxn6m.com^
+||5kmqy60r7.com^
 ||5mm.zxfw5.cn^
 ||5mno3.com^$popup
 ||5movierulz.irish^
@@ -25074,9 +25076,7 @@ yydstxt*.com/js/html
 ||girls.xyz^$popup
 ||girlsblonde.com^
 ||girlsgonewild.com^
-||girlsofdesire.org/blr3.php
-||girlsofdesire.org/flr2.js
-||girlsofdesire.org/flr6.js
+||girlsofdesire.org/blr8
 ||girlsofdesire.org/images/girlsofdesire.org/analytics.js
 ||girlstaste.life^$popup
 ||girlswithmuscle.com^
@@ -29275,6 +29275,7 @@ yydstxt*.com/js/html
 ||joi09080pt.com^
 ||joi09081pt.com^
 ||joi09090pt.com^
+||joi09091pt.com^
 ||joiidri.work^
 ||join-lemmy.org^
 ||joinads.me^
@@ -34764,6 +34765,7 @@ yydstxt*.com/js/html
 ||nio09080lt.com^
 ||nio09081lt.com^
 ||nio09090lt.com^
+||nio09091lt.com^
 ||nipez.cz^
 ||niphaumeenses.net^
 ||nipome.click^
@@ -47498,6 +47500,7 @@ yydstxt*.com/js/html
 ||uwerpyh.cn^
 ||uwfhyrjwog.net^
 ||uwilmit.top^
+||uwkz.cn^
 ||uwlovullbg.com^
 ||uwsaqoi.icu^
 ||uwtewvalgil.com^
@@ -48490,6 +48493,7 @@ yydstxt*.com/js/html
 ||w59g.icu^
 ||w5ftl8bhu3.com^
 ||w6.chabad.org^
+||w6xdba54n.com^
 ||w740.newstimes.com^
 ||w90sportapp43wp.com^
 ||w9g7dlhw3kaank.www.eldorado.gg^
@@ -50793,6 +50797,7 @@ yydstxt*.com/js/html
 ||yptqys.tianqistatic.com^
 ||ypzy5.com^
 ||yqapi.top^
+||yqg.jobui.com^
 ||yqlog.com^
 ||yqlzccxn.icu^
 ||yqpufcbrz1.blog^
@@ -50894,7 +50899,6 @@ yydstxt*.com/js/html
 ||yvmads.com^
 ||yvtlq.top^
 ||ywakoc.icu^
-||ywg.jobui.com^
 ||ywxi.net^$third-party,domain=~trustedsite.com
 ||yx1.managershare.com^
 ||yxad.com/baidu/
@@ -51408,6 +51412,7 @@ yydstxt*.com/js/html
 ||zuva.jp^
 ||zuxdlxvkry.net^
 ||zv.7vid.net^
+||zvgvenibe.com^
 ||zvuch.com^
 ||zvvsjz.top^
 ||zvxugpcqb.com^
