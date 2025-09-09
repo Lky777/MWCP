@@ -88,6 +88,7 @@
 ||cdn.tapioni.com/adgpt.js
 ||connect.facebook.net/*/sdk.js
 |https://vk.com/js/api/share.js?
+_ads.html?
 *$ping,third-party
 *$websocket
 /load.gif
@@ -257,9 +258,6 @@ www.txrjy.com###tryOpenApp
 
 ! wxsck
 .com/static/js/action.js
-
-! x1hub
-|https://www.x1hub.com/player/player_ads.html?
 
 ! xhamster
 ||collector.xhamster.com^
