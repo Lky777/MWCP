@@ -1,8 +1,8 @@
 domain
 ac.bw
 adelaidenow.com.au
-admin-mcas-gov.us
 admin-mcas.ms
+admin-mcas-gov.us
 aftenbladet.no
 aussiebroadband.com.au
 azores.gov.pt
@@ -12,6 +12,7 @@ banquemisr.com
 bmwbike.com
 bmwfans.info
 bmw-motorrad.de
+bmsc.cn
 boston.com
 bostonglobe.com
 cedia.edu.ec
@@ -22,6 +23,8 @@ filedownload-csw-lenovo.com
 fnac.be
 fnac.com
 fujidreamairlines.com
+fujijuken.co.jp
+fujisan.co.jp
 glassdoor.com.ar
 glassdoor.it
 godaddy.ca
@@ -48,7 +51,11 @@ samsungdk.com
 sapcloud.cn
 shein.com.vn
 sony.com.au
+sony.com.hk
 sony.fr
+sony.lt
+sony.lu
+sony.nl
 sony.pt
 southampton.gov.uk
 srilankan.com
@@ -66,9 +73,6 @@ wixapis.com
 wixstatic.com
 yahoo.co.nz
 yahoo.ie
-zalando-lounge.at
-zalando-lounge.ch
-zalando-prive.com
 ziprecruiter.co.uk
 0-8-0-a.com
 0-p-b-l.com
@@ -97234,9 +97238,12 @@ zakupki.gov.ru
 zakyyervdj.net
 zalan.do
 zalando-lounge.com
+zalando-lounge.at
+zalando-lounge.ch
 zalando-lounge.de
 zalando-lounge.nl
 zalando-lounge.pl
+zalando-prive.com
 zalando-prive.es
 zalando-prive.fr
 zalando-prive.it
