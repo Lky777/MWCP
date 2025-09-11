@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202509111203
-! Last modified: 11 Sep 2025 12:03 UTC
+! Version: 202509111920
+! Last modified: 11 Sep 2025 19:20 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -9018,6 +9018,7 @@ yydstxt*.com/js/html
 ||59bloggers.com^
 ||59xx2yr9i.com^
 ||5azvpjx8xj.com^
+||5b025cnm.top^
 ||5d7k30pv1u.com^
 ||5dariyanews.com/images/adherecolads.jpg
 ||5db016ba6b.com^
@@ -11684,7 +11685,6 @@ yydstxt*.com/js/html
 ||analyticsvidhya.com^
 ||analyticsweb.net^
 ||anamuel-careslie.com^$popup
-||anastasiabeverlyhills.com^
 ||anastasiadate.com^
 ||anbang66.com^
 ||ancalfulpige.co.in^$popup
@@ -20853,14 +20853,12 @@ yydstxt*.com/js/html
 ||firstpromoter.com^
 ||firsttable.net^
 ||fishchipsexpress.com^
-||fisherpaykel.com^
 ||fishingfield.com^
 ||fishki.net/code?
 ||fishki.net/counter/
 ||fishtalesflyshop.com^
 ||fitanalytics.com/metrics/
 ||fitcenterz.com^$popup
-||fitnesswithmaria.com^
 ||fitsazx.xyz^$popup
 ||fittiercutlets.top^$popup
 ||fittingcentermondaysunday.com^$popup
@@ -20878,7 +20876,6 @@ yydstxt*.com/js/html
 ||fiu07100kl.com^
 ||fiu07101kl.com^
 ||fivbedruojld.com^
-||fivemonkeyquilts.com^
 ||fiverr.com/api/v1/activities
 ||fiwf54qahl.com^
 ||fizzlepong.com^
@@ -21008,7 +21005,6 @@ yydstxt*.com/js/html
 ||fo1ykm6ph1.com^
 ||foap.com^
 ||fobshanghai.com/bbsad/
-||focusonthefamily.com^
 ||fodendogostoso.com^
 ||fodsoack.com^$popup
 ||foerpo.com^
@@ -21540,7 +21536,6 @@ yydstxt*.com/js/html
 ||gamcore.com/z0mb24.js
 ||gamdom.com/?utm_source=$popup
 ||game333.net/aainset/
-||gameanalytics.com^
 ||gameanswers.net^
 ||gamebeartech.com^
 ||gamecenter.top^
@@ -21633,7 +21628,6 @@ yydstxt*.com/js/html
 ||gardpro.com/api/collect
 ||gardrops.com^
 ||gargoyle-router.com^
-||garnierusa.com^
 ||garrico.com^
 ||gasaga.xyz^
 ||gasaq.com/public/flash/
@@ -22635,7 +22629,6 @@ yydstxt*.com/js/html
 ||guiltygear.com^
 ||guineasbufo.top^$popup
 ||guitarchina.com/1/*.gif
-||guitartuna.com^
 ||guizuren.com^
 ||gukviels.com^
 ||gulf.moneroocean.stream^
@@ -22751,7 +22744,6 @@ yydstxt*.com/js/html
 ||habboxwiki.com^
 ||haberprofil.biz/assets/*/vast.js
 ||habetar.com^
-||hackaday.com^
 ||hackensackumc.net^
 ||hackhome.com/js/*top.js
 ||hackhome.com/js/bhref.js
@@ -30244,6 +30236,7 @@ yydstxt*.com/js/html
 ||olivebuilder.com^
 ||oliver.pub^
 ||oliviaburton.com^
+||oljqmw.icu^
 ||olkfiloz.com^
 ||olkoins.com^
 ||olkxjrkumbm.com^
@@ -35098,6 +35091,7 @@ yydstxt*.com/js/html
 ||shulihua.net/js/gzlishigoogle.js
 ||shulihua.net/js/topcen.js
 ||shulihua.net/js/yegonggao.js
+||shulugoo.net^$popup
 ||shumilou.co/style/html5.js
 ||shundo.com^
 ||shuowan.com/public/shuo/20160119/569dafddd13be.jpg
@@ -42737,7 +42731,7 @@ yydstxt*.com/js/html
 ||zqydulfzxb.com^
 ||zr3.icu^
 ||zrbb4pc1.com^
-||zrblog.net/gg/
+||zrblog.net*/gg/
 ||zrbnte.top^
 ||zrcs2.com^
 ||zrcvdrhvzm.net^
