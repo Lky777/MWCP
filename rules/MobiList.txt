@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202509160943
-! Last modified: 16 Sep 2025 09:43 UTC
+! Version: 202509161921
+! Last modified: 16 Sep 2025 19:21 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -9001,7 +9001,6 @@ yydstxt*.com/js/html
 ||5dmail.net/image/ad_
 ||5dmail.net/image/orf_1000.gif
 ||5dmail.net/js/
-||5e4e626e702753e8fcb685e803e1ac0463604de3a6f97fb340651096.com^
 ||5escorts.com^
 ||5ffuorve.com^
 ||5fyme6x6uy.com^
@@ -13239,7 +13238,6 @@ yydstxt*.com/js/html
 ||bfpartners.click^$popup
 ||bfpgf.com/wp-content/uploads/2015/08/360dxs.jpg
 ||bfpug.cn^
-||bfsu.edu.cn^
 ||bfthrelgad.com^
 ||bfzyapi.com^
 ||bg52w.com^
@@ -22389,7 +22387,6 @@ yydstxt*.com/js/html
 ||h83k.com^
 ||h8fh295.com^
 ||h8ne.com^
-||ha.cn^
 ||ha9dandadan.com^
 ||haberprofil.biz/assets/*/vast.js
 ||habetar.com^
@@ -26386,7 +26383,6 @@ yydstxt*.com/js/html
 ||liglomsoltuwhax.net^$popup
 ||ligoliveapp.com^
 ||lihatt.icu^
-||liheiat.xyz^
 ||lihuasoft.net/images/ad_
 ||liisex.com/images/banners/
 ||like-blogs.com^
@@ -33867,6 +33863,7 @@ yydstxt*.com/js/html
 ||scoot.co.uk/delivery.php
 ||scopeusers.com^
 ||score-feed.com^$popup
+||scorecardresearch.com^
 ||scoredconnect.com^$popup
 ||scoreland.*/tranny.jpg
 ||scoreland.com/banner/
@@ -40130,6 +40127,7 @@ yydstxt*.com/js/html
 ||ww.sphinxtube.com^
 ||ww7814.win/pic
 ||ww9874.com/asset/playerinit.js
+||wwads.cn^
 ||wwcnmte.top^
 ||wweisie.top^
 ||wweizae.top^
