@@ -1,12 +1,13 @@
 ! .A
 ||18hu.link^
-||1031.academy^
 ||666834.xyz^
 ||ab13568.com^
 ||abc29863668.com^
 ||abc57987257.com^
 ||abc96935812.com^
 ||adspyglass.net^
+||adsrvr.org^
+||advertiserurl.com^
 ||altzpxu.com^
 ||bb77393629.com^
 ||canseldomsulphur.com^
@@ -54,53 +55,59 @@
 ||zrwprhw.xyz^
 
 ! .B
+||collect-v6.51.la^
 ||ad.52av.one^
-||ad.scdn.io^
 ||gome3f-1005-ppp.oss-accelerate.aliyuncs.com^
 ||md18n895f.oss-cn-hangzhou.aliyuncs.com^
 ||admin500cp.s3.ap-east-1.amazonaws.com^
 ||pjgj-gif.s3.ap-east-1.amazonaws.com^
-||analytics.yahoo.com^
-||collect-v6.51.la^
-||d1yw1n0ddlrqxj.cloudfront.net^
 ||dl59007.bj.bcebos.com^
+||tags.bluekai.com^
+||d1yw1n0ddlrqxj.cloudfront.net^
+||fsa-api.feebee.tw^
+||e2elog.fetnet.net^
+||fundingchoicesmessages.google.com^
+||onead.onevision.com.tw^
+||yan.pqd.org^
+||video.saawsedge.com^
+||ad.scdn.io^
 ||mcs.snssdk.com^
+||syndication.twitter.com^
 ||mcs.volceapplog.com^
 ||static-sg.winudf.com^
-||tags.bluekai.com^
-||video.saawsedge.com^
-||yan.pqd.org^
+||analytics.yahoo.com^
 
 ! .C
 ||img.alicdn.com/imgextra/i*/4183327079/
 ||imgsa.baidu.com/forum/pic/item/
 ||lf1-cdn-tos.bytegoofy.com/goofy/
-|p3-sign.toutiaoimg.com/tos-cn-i-eyfl5e3fp8/
 ||playhubconnect.com/bn/
+|p3-sign.toutiaoimg.com/tos-cn-i-eyfl5e3fp8/
 
 ! .General Blocking
+*$ping,third-party
+*$websocket
+*$webrtc
 */ad/*
 */ads/*
 /1x1.
-/cdn-cgi/speculation
-/popup/adblock/promo/banner/
 /ad.js
+/cdn-cgi/speculation
 /clarity.js
 /email-decode.min.js
 /js/adminlte.min.js
 /js/zzz.js
-.com/js/ad-provider.js
-.com/js/ad-units.js
-.com/js/exopop.js
-||cdn.tapioni.com/adgpt.js
-||connect.facebook.net/*/sdk.js
-|https://vk.com/js/api/share.js?
-_ads.html?
-*$ping,third-party
-*$websocket
 /load.gif
 /loading.gif
 /loading.jpg
+/popup/adblock/promo/banner/
+.com/js/ad-provider.js
+.com/js/ad-units.js
+.com/js/exopop.js
+_ads.html?
+||cdn.tapioni.com/adgpt.js
+||connect.facebook.net/*/sdk.js
+|https://vk.com/js/api/share.js?
 
 ! 163
 */163/frontend/antnest/*
@@ -235,6 +242,7 @@ sina.cn###float-btn
 ||js.mewlxy.com/gg-config.js
 
 ! sohu
+||*.cdn.sohucs.com/lemon/
 m.sohu.com##.btn
 
 ! sspai
