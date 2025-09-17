@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202509161921
-! Last modified: 16 Sep 2025 19:21 UTC
+! Version: 202509171019
+! Last modified: 17 Sep 2025 10:19 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -56,7 +56,6 @@ $webrtc,domain=ack.net|allthetests.com|champion.gg|clicknupload.link|colourlover
 &ga_blocked=$image
 &hittype=pageview&
 &http_referer=$script,xmlhttprequest,domain=~biletomat.pl|~facebook.com|~jobscore.com
-&ii=fingerprintjs-pro-react
 &l=datalayer&cx=c
 &pagegroup=*&url=$script
 &popunder=$popup
@@ -73,6 +72,7 @@ $webrtc,domain=ack.net|allthetests.com|champion.gg|clicknupload.link|colourlover
 &zoneid=*&ad_$popup
 &zoneid=*&direct=$popup
 *$ping,third-party
+*$webrtc
 *$websocket
 *&adsc_typpe=
 */163/frontend/antnest/*
@@ -5138,6 +5138,7 @@ $webrtc,domain=ack.net|allthetests.com|champion.gg|clicknupload.link|colourlover
 /utag.sync.js
 /utag_data.js
 /utiqloader.js
+/utm-tags.min.js
 /utm-tracking.js
 /utm.gif?
 /utm_cookie.js
@@ -7809,6 +7810,7 @@ yydstxt*.com/js/html
 |javascript:*window.location$popup
 |p3-sign.toutiaoimg.com/tos-cn-i-eyfl5e3fp8/
 ||*.$image,rewrite=abp-resource:1x1-transparent-gif,domain=rmdown.com
+||*.cdn.sohucs.com/lemon/
 ||*xav.*/guang/*.gif
 ||*xav.*/guang/*.jpg
 ||0.0.0.0^$third-party,domain=~0.0.0.0|~127.0.0.1|~[::1]|~[::]|~local|~localhost
@@ -7970,7 +7972,6 @@ yydstxt*.com/js/html
 ||1024down.com/images/*.gif
 ||1024tera.com/api/analytics?
 ||102tv.cn/js/main.js
-||1031.academy^
 ||104.com.tw/log/
 ||104octaneboost.com^
 ||105app.com/report/?
@@ -10496,6 +10497,7 @@ yydstxt*.com/js/html
 ||adsrv001.com^
 ||adsrv4k.com^$popup
 ||adsrvr.cn^
+||adsrvr.org^
 ||adsrvrun.com^
 ||adssanalytics.com^
 ||adssistem.com^
@@ -10601,6 +10603,7 @@ yydstxt*.com/js/html
 ||adverticum.net^
 ||advertisearea.com^
 ||advertisertape.com/stat/
+||advertiserurl.com^
 ||advertiserurl.com^$popup
 ||advertising.com^
 ||advertizmenttoyou.com^$popup
@@ -11840,6 +11843,8 @@ yydstxt*.com/js/html
 ||app.posthog.com/e/?ip=
 ||app.posthog.com/static/array.js
 ||app.posthog.com/static/recorder-v2.js
+||app.qualified.com/*/sentry/
+||app.qualified.com/*/visitor_events
 ||app.revenuehero.io/logs/ingest
 ||app.trytada.com/addimpression
 ||app8casino.com^
@@ -11933,6 +11938,7 @@ yydstxt*.com/js/html
 ||arabsex1.com^
 ||arabsx.xyz^
 ||arabxporn.net^
+||aralego.com^
 ||aramuz.net/frontapi/*/analyticsevent?
 ||arbada.com^
 ||arbada.net^
@@ -14076,6 +14082,7 @@ yydstxt*.com/js/html
 ||btyrqg.com^
 ||bu1.duba.com^
 ||bu1.vvvdj.com^
+||bu2kak23b.com^
 ||bubadu.com^
 ||bubblerushchallenge.com^
 ||bubmhm.top^
@@ -14597,6 +14604,7 @@ yydstxt*.com/js/html
 ||cc.xiaodapei.com^
 ||cc.xwscg.com^
 ||cc/scriptad/$script
+||cc1ej6d0e.com^
 ||cc1ps.com^
 ||ccav1.com/wp-content/uploads/an-temp/
 ||ccav1.com/wp-content/uploads/bmshkpexgyjd/
@@ -16255,6 +16263,7 @@ yydstxt*.com/js/html
 ||crunchyroll.com/awidget/
 ||crunchyroll.com/tracker?
 ||crushblocks.com^
+||crwdcntrl.net^
 ||crwilladmin.com^
 ||crxs.me/plugins/jquery.modal/
 ||crxs.me/scripts/my_
@@ -19061,6 +19070,7 @@ yydstxt*.com/js/html
 ||e1personalaudio.com^
 ||e1s.fun^
 ||e23.cn/js/aaa.js
+||e2elog.fetnet.net^
 ||e2ma.net/track/
 ||e377.com^
 ||e3c7.com/dh/
@@ -20021,6 +20031,7 @@ yydstxt*.com/js/html
 ||eyankit.com^
 ||eyauknalyticafra.info^$popup
 ||eydvg8.com^
+||eyeota.net^
 ||eyewondermedia.com^$popup
 ||eyhv.cn^
 ||eyny.com/data/cache/js_show_ads.js
@@ -20957,6 +20968,7 @@ yydstxt*.com/js/html
 ||frtye.com^$popup
 ||frtyi.com^$popup
 ||fs-client-logger.herokuapp.com^
+||fsa-api.feebee.tw^
 ||fsbdgef.com^
 ||fsclzs.com/ad_user/
 ||fsdf45.fun^
@@ -21014,6 +21026,7 @@ yydstxt*.com/js/html
 ||fun8.us^$domain=cartoonmad.com
 ||func.tw/image/func2.png
 ||fund.eastmoney.com/trade/hot_$subdocument
+||fundingchoicesmessages.google.com^
 ||funeraltimes.com/databaseimages/adv_
 ||funeraltimes.com/images/banner-ad
 ||funkydaters.com^$popup
@@ -22201,6 +22214,7 @@ yydstxt*.com/js/html
 ||gte.xyz^
 ||gter.net/index.html?c=foot_js&type=footer.js
 ||gtesuperpages.com^
+||gtfccewpo.com^
 ||gtglass.com^
 ||gtimg.cn/mediastyle/event/20160306_music_live/img/skd.jpg
 ||gtimg.cn/music/photo_new/t053xd001001bzyx50ucrrk.
@@ -22285,6 +22299,7 @@ yydstxt*.com/js/html
 ||guokr.com/apis/flowingboard/item/guokrapp_
 ||guokr.com/apis/flowingboard/item/m_
 ||guokr.com/baidu-cbjs/
+||guoshipartners.com^
 ||guowenban.com^
 ||guowenyun.com^
 ||guozh.net/wp-content/plugins/eazy-ad-unblocker/
@@ -22505,6 +22520,7 @@ yydstxt*.com/js/html
 ||hardware-wholesale.com^
 ||hardypaw.com^
 ||harmedciruses.com^
+||harmony573.top^
 ||harrowliquid.com^$popup
 ||harrycorry.com^
 ||harryrosen.com/analytics/
@@ -23790,6 +23806,7 @@ yydstxt*.com/js/html
 ||ifje.cn^
 ||ifkdy.com/_nuxt/44e01dcef4aa1a21d9a6.js
 ||ifkdy.com/ifkdy/weixin/isfollowme
+||ifkyco.icu^
 ||iflucav.icu^
 ||ifmccdn.icu^
 ||ifoh.cn^
@@ -29091,6 +29108,7 @@ yydstxt*.com/js/html
 ||nftfdj.icu^
 ||nftxfd.top^
 ||nfuwow.com/static/nfuwow/source/front/new/images/
+||nfxonb.icu^
 ||nfydd.com/template/wap1/js/dd.js
 ||ng-physics.com^
 ||ngahy.cn^
@@ -29819,6 +29837,7 @@ yydstxt*.com/js/html
 ||one-new-message.com^
 ||one.store/v1/analytics/
 ||one101.xyz/data/images/*.gif
+||onead.onevision.com.tw^
 ||oneadp.com^
 ||oneadtag.com^
 ||oneadvanced.com^
@@ -33454,6 +33473,7 @@ yydstxt*.com/js/html
 ||ruanmei.com^
 ||ruanyifeng.com/9he/
 ||rubetek.com^
+||rubiconproject.com^
 ||rubmdu.top^
 ||rubylife.go2cloud.org^
 ||rubylife.go2cloud.org^$popup
@@ -34612,6 +34632,7 @@ yydstxt*.com/js/html
 ||siteintercept.allegiancetech.com^
 ||siteleaf.net^
 ||sitemaji.com/nownews.php?
+||sitemaji.com^
 ||sitesage.net^
 ||sitescdn.net/ytag/ytag.min.js
 ||siteslikesearch.com^
@@ -36051,6 +36072,7 @@ yydstxt*.com/js/html
 ||synccora.com^$popup
 ||syncedvision.com^$popup
 ||syndicate.payloadz.com^
+||syndication.twitter.com^
 ||synergizeonline.net/trackpoint/
 ||synergyat.work^
 ||syngentadigitalapps.com^
@@ -37164,7 +37186,6 @@ yydstxt*.com/js/html
 ||torrenteditor.com/img/graphical-network-monitor.gif
 ||torrentfreak.com/wp-content/banners/
 ||torrindex.net/images/epv/
-||torrindex.net/static/tinysort.min.js
 ||torteaudiameter.xyz^
 ||toscytheran.com^$popup
 ||totadblock.com^$popup
@@ -38797,6 +38818,7 @@ yydstxt*.com/js/html
 ||vgfunky.top^
 ||vgnhigankih.com^
 ||vgnyli.top^
+||vgovvoinf.com^
 ||vgragvory.com^
 ||vgsi.com^
 ||vgxj.cn^
@@ -39272,6 +39294,7 @@ yydstxt*.com/js/html
 ||w18.9939.com^
 ||w2g-mtrx.w2g.tv^
 ||w2g-ping.b-cdn.net^
+||w2j4kdjma.com^
 ||w3-reporting.reddit.com^
 ||w3.ting55.com^
 ||w3019cdt.top^
@@ -40656,6 +40679,7 @@ yydstxt*.com/js/html
 ||xvideosonly.com^
 ||xvideossexo.net^
 ||xvirelcdn.click^
+||xvkz.cn^
 ||xvleszotu.com^
 ||xvvfpsmp.icu^
 ||xvzcfh.xyz^
@@ -41246,6 +41270,8 @@ yydstxt*.com/js/html
 ||yur09151og.com^
 ||yur09160og.com^
 ||yur09161og.com^
+||yur09170og.com^
+||yur09171og.com^
 ||yushatracking3.xyz^
 ||yushuwen.com/astyle/wap.js
 ||yutoads.com^
