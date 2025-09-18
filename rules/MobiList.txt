@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202509171921
-! Last modified: 17 Sep 2025 19:21 UTC
+! Version: 202509180110
+! Last modified: 18 Sep 2025 01:10 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -8805,6 +8805,7 @@ yydstxt*.com/js/html
 ||4hds.com/js/camstats.js
 ||4hw.com.cn/js/common.js
 ||4i1.icu^
+||4ifhpfi1.xyz^
 ||4jc.icu^
 ||4kporn.xxx/static/analytics/
 ||4kxczstxil.com^
@@ -11701,6 +11702,7 @@ yydstxt*.com/js/html
 ||ao1122kas.top^
 ||ao1123kas.top^
 ||ao1201kas.top^
+||ao5yygeilh.com^
 ||aoao11111iis.top^
 ||aoao11120iis.top^
 ||aoao11121iis.top^
@@ -18044,6 +18046,7 @@ yydstxt*.com/js/html
 ||dfhgry.com^
 ||dfhthh.icu^
 ||dfi09171kq.com^
+||dfi09180kq.com^
 ||dfidhqoaunepq.cloudfront.net^
 ||dfiqvf0syzl54.cloudfront.net^
 ||dfknkbbffb.com^
@@ -21634,6 +21637,7 @@ yydstxt*.com/js/html
 ||gigixo.com^
 ||gigptruetlop.com^
 ||gigsberg.com^
+||gigtoy.icu^
 ||gigya.com^*/cimp.gif?
 ||giiraokvtf.net^
 ||gilith.com^
@@ -22314,6 +22318,7 @@ yydstxt*.com/js/html
 ||gurujitravel.com^
 ||gushiwen.cn/getticket.aspx^$xhr
 ||gushiwen.org/getticket.aspx
+||gusp.cn^
 ||gusspro.com^
 ||guvupade.xyz^
 ||guxhag.com^
@@ -23002,7 +23007,6 @@ yydstxt*.com/js/html
 ||hktvmall.com/api/event
 ||hktvmall.com/api/preroll/getlist?
 ||hl.dyq.cn^
-||hl365.com^
 ||hl4pvqgbyt.com^
 ||hlbg811ic7en.com^
 ||hlfuly.xyz^
@@ -24860,6 +24864,7 @@ yydstxt*.com/js/html
 ||jd.com/static/js/auto.js
 ||jd.com/static/js/cpc.js
 ||jd100.com/cwmpc/
+||jd6wnmvacs.com^
 ||jdamcsa.top^
 ||jdcylvkpky.net^
 ||jddaw.com^
@@ -34076,6 +34081,7 @@ yydstxt*.com/js/html
 ||sensitiveclick.com^
 ||sentcss.com/get/cors/spread/
 ||sentcss.com/get/showcase/
+||sentinelol.com^
 ||sentinelpro.com^
 ||sentres.com^
 ||sentry-cdn.com^$third-party,domain=~sentry.dev|~sentry.io
@@ -36976,6 +36982,7 @@ yydstxt*.com/js/html
 ||titan24.com/scripts/stats.js
 ||titanads2.com^
 ||titaniumveinshaper.com^$popup
+||titjzl.icu^
 ||titroikan.com^
 ||tits-guru.com/js/istripper4.js
 ||titsamateur.com^
@@ -41273,6 +41280,7 @@ yydstxt*.com/js/html
 ||yur09161og.com^
 ||yur09170og.com^
 ||yur09171og.com^
+||yur09180og.com^
 ||yushatracking3.xyz^
 ||yushuwen.com/astyle/wap.js
 ||yutoads.com^
