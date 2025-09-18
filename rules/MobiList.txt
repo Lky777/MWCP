@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202509180110
-! Last modified: 18 Sep 2025 01:10 UTC
+! Version: 202509181920
+! Last modified: 18 Sep 2025 19:20 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -9129,6 +9129,7 @@ yydstxt*.com/js/html
 ||6gbetapp.com^
 ||6gbetpay.com^
 ||6gute.icu^
+||6gvg5saail.com^
 ||6gxs.net/js/
 ||6hezi.com^
 ||6jyi7mzae.com^
@@ -18047,6 +18048,7 @@ yydstxt*.com/js/html
 ||dfhthh.icu^
 ||dfi09171kq.com^
 ||dfi09180kq.com^
+||dfi09181kq.com^
 ||dfidhqoaunepq.cloudfront.net^
 ||dfiqvf0syzl54.cloudfront.net^
 ||dfknkbbffb.com^
@@ -30234,6 +30236,7 @@ yydstxt*.com/js/html
 ||owsrgljb.icu^
 ||owurserk.top^
 ||oxbbzxqfnv.com^$popup
+||oxggiwdp57.com^
 ||oxjb.cn^
 ||oxpgm.cn^
 ||oxtorrent8.com^
@@ -41281,6 +41284,7 @@ yydstxt*.com/js/html
 ||yur09170og.com^
 ||yur09171og.com^
 ||yur09180og.com^
+||yur09181og.com^
 ||yushatracking3.xyz^
 ||yushuwen.com/astyle/wap.js
 ||yutoads.com^
