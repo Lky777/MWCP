@@ -5,6 +5,7 @@
 ||abc29863668.com^
 ||abc57987257.com^
 ||abc96935812.com^
+||adsco.re^
 ||adspyglass.net^
 ||adsrvr.org^
 ||advertiserurl.com^
@@ -140,6 +141,9 @@ _ads.html?
 ! 9imanhua
 .com/addnew.php
 /addnew.js
+
+! 91porna
+||91porna.com/static/web/css/lib/zui.css
 
 ! a2zapk
 a2zapk.io###modalpop
