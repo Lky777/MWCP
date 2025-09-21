@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202509201918
-! Last modified: 20 Sep 2025 19:18 UTC
+! Version: 202509211920
+! Last modified: 21 Sep 2025 19:20 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -8225,6 +8225,7 @@ yydstxt*.com/js/html
 ||18teensex.tv/player/html.php$subdocument
 ||18yo.top^
 ||1905.com/data/js/*.json
+||192168.luyouwang.com^
 ||192ly.com/wp-content/cache/*.js
 ||192ok9.com^
 ||194.59.220.161^
@@ -9027,6 +9028,7 @@ yydstxt*.com/js/html
 ||5ips.net/love/
 ||5jucbtxxn6m.com^
 ||5kmqy60r7.com^
+||5lf5cujc5.com^
 ||5lnzkdf1bk.com^
 ||5milesapp.com^
 ||5mm.zxfw5.cn^
@@ -18069,6 +18071,8 @@ yydstxt*.com/js/html
 ||dfi09191kq.com^
 ||dfi09200kq.com^
 ||dfi09201kq.com^
+||dfi09210kq.com^
+||dfi09211kq.com^
 ||dfidhqoaunepq.cloudfront.net^
 ||dfiqvf0syzl54.cloudfront.net^
 ||dfknkbbffb.com^
@@ -23778,6 +23782,7 @@ yydstxt*.com/js/html
 ||ieplads.com^
 ||ieryt111.fun^
 ||ieshil.com^
+||ieubws.icu^
 ||iexitapp.com^
 ||ieyipznx.art^$popup
 ||if8hhbrk4.com^
@@ -24532,6 +24537,7 @@ yydstxt*.com/js/html
 ||irlj.cn^
 ||ironcladapp.com^
 ||ironmagazineforums.com^
+||irp37bmmt.com^
 ||irresponsibilityhookup.com^$popup
 ||irrigatenotwithstandingcommit.com^$popup
 ||irs.gov/h4z97hz8jmrno/
@@ -26954,7 +26960,6 @@ yydstxt*.com/js/html
 ||lu-games.com^
 ||lu.sogou.com^
 ||lu.sogoucdn.com^
-||lu2.luyouwang.com^
 ||lu228.com/ajs/
 ||luaccakfoo.com^
 ||lubetube.com^
@@ -27313,6 +27318,7 @@ yydstxt*.com/js/html
 ||mangahax.com/images/ima_
 ||mangahub.io/iframe/
 ||mangakoma.net/ajax/manga/view
+||mangaplus.shueisha.tv/page/upload/banner/
 ||mangaxyz.com^
 ||mangmer.com^
 ||mangohost.net^
@@ -29750,6 +29756,7 @@ yydstxt*.com/js/html
 ||ohqp.cn^
 ||ohrdsplu.com^$popup
 ||ohtusgy.icu^
+||ohvk.cn^
 ||ohwb.cn^
 ||oi.429men.com^
 ||oi.lesbianbliss.com^
@@ -32570,6 +32577,7 @@ yydstxt*.com/js/html
 ||qzone.qq.com/wspeed.qq.com^
 ||qzonestyle.gtimg.cn/qzone/v8/ic/iframereport.js
 ||qzoudlrhk.com^
+||qzq1hq3mt.com^
 ||qzs.qq.com/qzone/biz/
 ||qzwb.com/phpstat/
 ||qzzr.com/_uid.gif
@@ -33761,6 +33769,7 @@ yydstxt*.com/js/html
 ||sakaryadahaber.com^
 ||saktuddo.com^
 ||sakuralive.com/dynamicbanner/
+||sal5ab6uf.com^
 ||saladexamples.com^
 ||saladshirazi.com^
 ||salamdonya.com^
@@ -37851,7 +37860,7 @@ yydstxt*.com/js/html
 ||trustcommander.net/iab-tcfapi/
 ||trusted-web-seal.cybertrust.ne.jp^
 ||trustedcpmrevenue.com^$popup
-||trustedform.com/trustedform.js?provide_referrer
+||trustedform.com/trustedform.js
 ||trustedgatetocontent.com^$popup
 ||trustedpeach.com^$popup
 ||trustedzone.info^$popup
@@ -38506,6 +38515,7 @@ yydstxt*.com/js/html
 ||upuplets.com^$popup
 ||upvert.io/api/v3/pixel/
 ||upvx.cn^
+||upwards44.top^
 ||upwork.com/shasta/suit
 ||upwork.com/upi/jslogger
 ||uqdzerwkl.com^
@@ -38807,6 +38817,7 @@ yydstxt*.com/js/html
 ||veewheephime.net^
 ||vegaingi.com^
 ||vegress566.com^
+||vehohx.icu^
 ||veil-project.com^
 ||veilengh.com^
 ||veilsuccessfully.com^$popup
