@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202509211920
-! Last modified: 21 Sep 2025 19:20 UTC
+! Version: 202509221921
+! Last modified: 22 Sep 2025 19:21 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -5555,6 +5555,7 @@ $webrtc,domain=ack.net|allthetests.com|champion.gg|clicknupload.link|colourlover
 ://*:*/yeyue.html?k=$csp=script-src
 ://*btbtt.*/imgs.js
 ://*btbtt.*/view/image/qt_
+://0.www.*/players/*/-1/$script,xmlhttprequest
 ://a.*/ad-provider.js$third-party
 ://a.ads.
 ://a02342.
@@ -5655,8 +5656,6 @@ $webrtc,domain=ack.net|allthetests.com|champion.gg|clicknupload.link|colourlover
 ://www.*.com/*/-1/70/$script,subdocument,xmlhttprequest
 ://www.*.com/players/*/-1/$script,subdocument,xmlhttprequest
 ://www.*.com/players/*/a/$subdocument,domain=~edu|~gov
-://www.*.com/script/*.com.js|$script
-://www.*.com/script/*.org.js|$script
 ://www.*.js|$script,domain=159i.com|r3sub.com|thisav.com
 ://www.*.xyz/players/*/-1/$script,subdocument,xmlhttprequest
 ://www.*.xyz/players/*/a/$subdocument
@@ -9389,6 +9388,7 @@ yydstxt*.com/js/html
 ||8x3wolchw.com^
 ||8xly.cn^
 ||8y3j.cn^
+||8yd2rtikkz.com^
 ||8ziyuan.com/images/infolinksad.jpg
 ||9-j-b-f.com^
 ||9-v.top^
@@ -9535,6 +9535,7 @@ yydstxt*.com/js/html
 ||9kp.cc/js/bbk/
 ||9ku.com/aaa/
 ||9l3s3fnhl.com^$popup
+||9l9ck7mdd2.com^
 ||9o29nhxgp.com^
 ||9oru1vh0w.com^
 ||9s17xiaz.com^
@@ -18073,6 +18074,8 @@ yydstxt*.com/js/html
 ||dfi09201kq.com^
 ||dfi09210kq.com^
 ||dfi09211kq.com^
+||dfi09220kq.com^
+||dfi09221kq.com^
 ||dfidhqoaunepq.cloudfront.net^
 ||dfiqvf0syzl54.cloudfront.net^
 ||dfknkbbffb.com^
@@ -21410,6 +21413,7 @@ yydstxt*.com/js/html
 ||gdt.qq.com/
 ||gdt.qq.com^
 ||gdubnkhpfi.net^
+||gdvghaowyw.com^
 ||gdweiweitoy.com^
 ||gdwudmv.icu^
 ||gdyjs.com^
@@ -22225,6 +22229,7 @@ yydstxt*.com/js/html
 ||gsdpw.com/file/script/a
 ||gsecurecontent.com^$popup
 ||gsght.com/twizards.js
+||gsgxnauqu8.com^
 ||gsm678.com^
 ||gsmarena.com/deals-json.php3
 ||gsmarenabd.net^
@@ -36061,6 +36066,7 @@ yydstxt*.com/js/html
 ||svnf.cn^
 ||svradv.com^
 ||svrsstatus.com^
+||svzkhal2zh.com^
 ||sw76r85eda3k.com/need/h5.
 ||sw7hkmjcio.com^
 ||swa.gtimg.com/
@@ -36708,6 +36714,7 @@ yydstxt*.com/js/html
 ||thaoheakolons.info^$popup
 ||thaqne.com^
 ||thaudray.com^$popup
+||thdjtp.icu^
 ||the-binary-trader.biz^$popup
 ||the-group.net/aether/
 ||the-ken.com^
@@ -38126,6 +38133,7 @@ yydstxt*.com/js/html
 ||typbudnsr.com^
 ||typeform.com/*/insights/events^
 ||typepad.com/t/stats?
+||typhooned.com^
 ||typical-hub.com^$popup
 ||typicalsecuritydevice.com^$popup
 ||tyqwjh23d.com^$popup
@@ -40681,6 +40689,7 @@ yydstxt*.com/js/html
 ||xpxi.cn^
 ||xpya.cn^
 ||xqfujhwpv.com^
+||xqoh.cn^
 ||xqrydt.icu^
 ||xrares.com/xopind.js
 ||xrlzhk.top^
