@@ -883,7 +883,6 @@ domain
 2kweb.online
 2ll.com.cn
 2markers.com
-2mdn.net
 2meta.app
 2miners.com
 2n.cz
@@ -1177,7 +1176,6 @@ domain
 3ivi.com
 3j2y.com
 3kb.xyz
-3lift.com
 3m.com
 3ma79ae7cua.com
 3manager.com
@@ -3206,8 +3204,6 @@ adex.com.ua
 adf.ly
 adfenix.com
 adfinix.com
-adforcast.com
-adgrx.com
 adguard-dns.com
 adguard.com
 adguard.info
@@ -3260,7 +3256,6 @@ adinet.com.uy
 adinsight.co.kr
 adit.com
 adjarabet.com
-adjust.com
 adjux.com
 adkit-advertising.amazon
 adleadevent.com
@@ -3268,8 +3263,6 @@ adlibris.com
 adm.com
 adm.gov.it
 admamax.com
-admantx.com
-admbucket.com
 admidainsight.com
 admin-mcas-gov.us
 admin-mcas.ms
@@ -3278,8 +3271,6 @@ adminbyrequest.com
 adminforge.de
 administracionelectronica.gob.es
 adminolt.com
-admost.com
-adncdn.net
 adnkronos.com
 adobe-addons.com
 adobe-campaign.com
@@ -3322,7 +3313,6 @@ adobetm.com
 adolfodominguez.com
 adonest.com
 adopisoft.com
-adopsboost.com
 adopt.com
 adoptapet.com
 adoptium.net
@@ -3333,10 +3323,8 @@ adp.com
 adpinfo.com
 adpnut.com
 adquint.com
-adrcdn.com
 adres.gov.co
 adright.co
-adscdn.net
 adservice.click
 adsmediabox.com
 adssquared.com
@@ -8735,8 +8723,6 @@ awfed.com
 awfulannouncing.com
 awgprintservices.com
 awi.de
-awin.com
-awin1.com
 awjqxiaokeai.buzz
 awltovhc.com
 awmcdn.net
@@ -20910,7 +20896,6 @@ crisp.help
 crisp.nl
 crispedge.com
 crispnow.com
-criteo.com
 criteo.net
 criteois.com
 criterion.com
@@ -36952,11 +36937,9 @@ googlesanboxsdk.com
 googleserv.tech
 googlesource.com
 googlesyndication-cn.com
-googlesyndication.com
 googletagmanage.com
 googletagmanager.com
 googletagservices-cn.com
-googletagservices.com
 googletip.org
 googleusercontent.com
 googlevideo.com
@@ -55154,7 +55137,6 @@ mgen.fr
 mgenl.cn
 mgfimoveis.com.br
 mghcdn.com
-mgid.com
 mgid.net
 mgionq.cn
 mgjinx.com
@@ -64289,7 +64271,6 @@ outback.com.br
 outbankapp.com
 outboards-motors.ru
 outboundproxy.com
-outbrain.com
 outbrain.org
 outbrainimg.com
 outbyte.com
@@ -69642,7 +69623,6 @@ publix.com
 publixcdn.com
 publuest.com
 publytics.net
-pubmatic.com
 pubmed.gov
 pubmine.com
 pubmnet.com
@@ -72539,7 +72519,6 @@ revation.com
 revbid.io
 revbid.net
 revcatch.com
-revcontent.com
 reve.art
 revebonlo.xyz
 revechat.com
@@ -83528,7 +83507,6 @@ taboodesi.net
 tabooflix.org
 taboola-display.com
 taboola-ocm.com
-taboola.com
 taboolamasters.com
 taboolanews.com
 tabor.ru
@@ -97405,7 +97383,6 @@ xakibone.xyz
 xalabahia.com
 xalaflix.io
 xamvn.com
-xandr.com
 xanga.com
 xanimu.com
 xano.io
@@ -98771,15 +98748,7 @@ yiche.com
 yidaiyiluclub.com
 yidianzixun.com
 yidio.com
-yieldbird.com
-yieldbooster.io
 yieldify-production.com
-yieldify.com
-yieldlab.net
-yieldlove.com
-yieldmo.com
-yieldmrm.com
-yieldoptimizer.com
 yields.site
 yifysubtitles.ch
 yihaogtm.com
@@ -99287,6 +99256,7 @@ yugalabs.io
 yugioh-card.com
 yugipedia.com
 yuglf.com
+yuguosoft.com
 yugtofiction.com
 yuhanglaw.com
 yuio.top
