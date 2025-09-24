@@ -1,19 +1,14 @@
-! .A
+! .A1
 ||18hu.link^
 ||666834.xyz^
 ||ab13568.com^
 ||abc29863668.com^
 ||abc57987257.com^
 ||abc96935812.com^
-||adsco.re^
-||adspyglass.net^
-||adsrvr.org^
-||advertiserurl.com^
 ||altzpxu.com^
 ||bb77393629.com^
 ||canseldomsulphur.com^
 ||cknr6y.com^
-||clarity.ms^
 ||cnkuqi.net^
 ||collision3550.top^
 ||communicatedroopcomer.com^
@@ -28,7 +23,6 @@
 ||guizuren.com^
 ||hfizzakurv.com^
 ||img6890937840.com^
-||jads.co^
 ||jakyaqu.xyz^
 ||kjgbyn.com^
 ||ksrsogd.com^
@@ -53,10 +47,18 @@
 ||traforama.com^
 ||tvhazno.com^
 ||wcydkls.com^
-||xn--gps-8y0gm25n.xn--55qx5d^
 ||yonyoujcxl.com^
 ||youandmerunfast.com^
 ||zrwprhw.xyz^
+
+! .A2
+||adsco.re^
+||adspyglass.net^
+||adsrvr.org^
+||advertiserurl.com^
+||clarity.ms^
+||jads.co^
+||xn--gps-8y0gm25n.xn--55qx5d^
 
 ! .B
 ||collect-v6.51.la^
@@ -70,6 +72,7 @@
 ||d1yw1n0ddlrqxj.cloudfront.net^
 ||fsa-api.feebee.tw^
 ||e2elog.fetnet.net^
+||ads.google.com^
 ||fundingchoicesmessages.google.com^
 ||onead.onevision.com.tw^
 ||yan.pqd.org^
@@ -78,6 +81,7 @@
 ||mcs.snssdk.com^
 ||mcs.volceapplog.com^
 ||static-sg.winudf.com^
+||collector.xhamster.com^
 ||analytics.yahoo.com^
 
 ! .C
@@ -281,9 +285,6 @@ www.txrjy.com###tryOpenApp
 
 ! wxsck
 .com/static/js/action.js
-
-! xhamster
-||collector.xhamster.com^
 
 ! yfsp
 m.yfsp.tv##.container
