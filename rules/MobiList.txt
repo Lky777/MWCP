@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202509240253
-! Last modified: 24 Sep 2025 02:53 UTC
+! Version: 202509240443
+! Last modified: 24 Sep 2025 04:43 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -1954,6 +1954,7 @@ $webrtc,domain=ack.net|allthetests.com|champion.gg|clicknupload.link|colourlover
 /codepic/
 /codesters-analytics.
 /cofinahits.js
+/cogi-etracker.js
 /cohesion-latest.min.js
 /coinhive.min.js
 /coinimp-cache/
@@ -5608,6 +5609,7 @@ $webrtc,domain=ack.net|allthetests.com|champion.gg|clicknupload.link|colourlover
 ://dreemdmbabys.oss-cn-
 ://dwh-prod.*/de.npg/
 ://elqtrk.
+://estats.*/code/e.js
 ://fallback.*/collector
 ://fathom.$domain=~fathom.care|~fathom.fm|~fathom.info|~fathom.io|~fathom.lib.uchicago.edu|~fathom.org|~fathom.video|~fathom.world|~fathomdelivers.com|~fathomseo.com|~usesfathom.com
 ://gtm.*.js?st=
@@ -7915,7 +7917,7 @@ yydstxt*.com/js/html
 ||1-p-o-n.com^
 ||1.07swz.com^
 ||1.1.1.1/cdn-cgi/trace
-||1.1.1.1/dns-query$xmlhttprequest,domain=catbirdnyc.com|gametime.co|ladym.com|libertylondon.com|mediamarkt.de|nobullproject.com|paynow.pmnts.io|theathletesfoot.co.nz|theathletesfoot.com.au
+||1.1.1.1/dns-query$xmlhttprequest,domain=allmodern.com|birchlane.com|catbirdnyc.com|gametime.co|jossandmain.com|ladym.com|libertylondon.com|mediamarkt.de|nobullproject.com|paynow.pmnts.io|perigold.com|theathletesfoot.co.nz|theathletesfoot.com.au|wayfair.*
 ||1.1010pic.com^
 ||1.11130.com.cn^
 ||1.11467.com^
@@ -10457,6 +10459,7 @@ yydstxt*.com/js/html
 ||ads.audio.thisisdax.com^
 ||ads.betfair.com^
 ||ads.com^
+||ads.google.com^
 ||ads.ipfighter.com^
 ||ads.kelkoo.com^
 ||ads.linkedin.com^
@@ -12902,6 +12905,7 @@ yydstxt*.com/js/html
 ||bboy1.com^
 ||bbq-brethren.com^
 ||bbrav96ax.com^
+||bbrdbr.com^
 ||bbrdbr.com^$popup
 ||bbs.a9vg.com/showit/img_show.php
 ||bbs.gmbbk.com^*.js
@@ -14578,6 +14582,7 @@ yydstxt*.com/js/html
 ||cammodels.com/api/metrics
 ||campaign-statistics.com^
 ||campaigns.williamhill.com^
+||campfirecroutondecorator.com^
 ||campsaver.com/nelmio-js-logger/
 ||camptrck.com^$popup
 ||campusphere.net^
@@ -14719,6 +14724,7 @@ yydstxt*.com/js/html
 ||catgojsc.com^
 ||catherinebrochure.com^$popup
 ||cathinfo.com^
+||catiuribripent.com^
 ||catoniclukemia.top^
 ||catsnbootsncats2020.com^$popup
 ||catvpn.xyz^
@@ -17709,6 +17715,7 @@ yydstxt*.com/js/html
 ||d7oskmhnq7sot.cloudfront.net^
 ||d7po8h5dek3wm.cloudfront.net^
 ||d7tst6bnt99p2.cloudfront.net^
+||d7ytrv7yxa.com^
 ||d810.mysanantonio.com^
 ||d81mfvml8p5ml.cloudfront.net^
 ||d85wutc1n854v.cloudfront.net^$domain=~wrapbootstrap.com
@@ -17866,6 +17873,7 @@ yydstxt*.com/js/html
 ||data.allstate.com^
 ||data.angel.digital/images/b/$image
 ||data.armexdef.uk/api/visit/
+||data.armexfort.uk^
 ||data.barry-callebaut.com^
 ||data.bilibili.com^
 ||data.cheatography.com/banana.js
@@ -18271,6 +18279,7 @@ yydstxt*.com/js/html
 ||dfi09230kq.com^
 ||dfi09231kq.com^
 ||dfi09240kq.com^
+||dfi09241kq.com^
 ||dfidhqoaunepq.cloudfront.net^
 ||dfiqvf0syzl54.cloudfront.net^
 ||dfm7wh2x5l4za.cloudfront.net/script.js
@@ -19062,6 +19071,7 @@ yydstxt*.com/js/html
 ||dtq9oy2ckjhxu.cloudfront.net^
 ||dtqs84i8bq.com^
 ||dtrk.slimcdn.com^
+||dtscout.com^
 ||dtssrv.com^$popup
 ||dtths.cn^
 ||dtu0itqvnilimaqlq554qf1.xyz^
@@ -20032,6 +20042,7 @@ yydstxt*.com/js/html
 ||etoro.com/tradesmonitor/
 ||etrack05.com^
 ||etracker.com^
+||etracker.noon.com^
 ||etrader.kalahari.com^
 ||etrader.kalahari.net^
 ||etraveli.com^
@@ -21146,6 +21157,7 @@ yydstxt*.com/js/html
 ||francemediasmonde.com^
 ||francisfrith.com^
 ||fransizporno.com^
+||fraud.blockifyapp.com/s/api/block/update-time
 ||fraudshallnotpass.com^
 ||frawarehou.rest^
 ||frazerhub.com^
@@ -24918,6 +24930,7 @@ yydstxt*.com/js/html
 ||itjcqlp.icu^
 ||itjsb.com/itjsbwx.jpg
 ||itmsc.cn^*ad0
+||itmwpb.com/wp-content/plugins/advertise/modules/stats/assets/track.js
 ||itnuzleafan.com^$popup
 ||itongcheng.cc/amm/
 ||itoolmart.com^
@@ -25292,6 +25305,7 @@ yydstxt*.com/js/html
 ||jikklfexh.com^
 ||jili9.io^
 ||jill.fc.yahoo.com^
+||jilliandescribecompany.com^
 ||jin10.com/assets/img/sites/index/vip_ad
 ||jin10.com/news_service/static/config/details.config.
 ||jinfu.love/files/h5/
@@ -25823,6 +25837,7 @@ yydstxt*.com/js/html
 ||kaoyan1v1.com/iaa/
 ||kape.dataplane.rudderstack.com^
 ||kapetracking.com^
+||kapkh.cn^
 ||kapooclubwebboard.net^
 ||karafshealth.com^
 ||karafutem.com^$popup
@@ -27231,6 +27246,7 @@ yydstxt*.com/js/html
 ||lqlwjr.icu^
 ||lqtih.cn^
 ||lqxzx.com^
+||lrphk.cn^
 ||lrsstream.com^
 ||lrta.cn^
 ||ls-pipe.com^
@@ -29264,6 +29280,7 @@ yydstxt*.com/js/html
 ||neptuneadspush.com^
 ||neptuneplay.com^
 ||neptuntrack.com^$popup
+||nereserv.com^
 ||nereu-gdr.com^$popup
 ||nersionitsumpute.com^$popup
 ||nerveastonishingmeddle.com^
@@ -31723,7 +31740,6 @@ yydstxt*.com/js/html
 ||porndroids.com^
 ||porndude.link/porndudepass$popup,domain=theporndude.com
 ||pornerbros.com/lolaso/
-||pornfhd.com^
 ||pornflip.com^
 ||pornforrelax.com/kiadtgyzi/
 ||porngals4.com/img/b/
@@ -33190,6 +33206,7 @@ yydstxt*.com/js/html
 ||realpython.net/tag.js
 ||realsexdoll.com^
 ||realsh.xyz^$popup
+||realsrv.com^
 ||realsrv.com^$popup
 ||realtime-bid.com^$popup
 ||realty.com^
@@ -33383,6 +33400,7 @@ yydstxt*.com/js/html
 ||repeater.com^
 ||repian.com/a/
 ||replaceexplanationevasion.com^$popup
+||replayapp.io/collect/
 ||replays.net/j/dazui
 ||replays.net/j/pinglunshang.png
 ||replit.app/tap/
@@ -34246,6 +34264,7 @@ yydstxt*.com/js/html
 ||schoolville.com^
 ||sci99.com^
 ||scibook.cn/tuiguang.
+||science.ctf.gg^
 ||sciencechannel.com/events/
 ||sciencefocus.com/pricecomparison/$subdocument
 ||sciencenet.cn/field/js/news.
@@ -34588,7 +34607,6 @@ yydstxt*.com/js/html
 ||sexsex2.com^
 ||sexsex61.com^
 ||sexsq.com^
-||sextb.net^
 ||sextbots.com^
 ||sextgem.com^
 ||sextingfinder.com^
@@ -37463,6 +37481,7 @@ yydstxt*.com/js/html
 ||tms.hft.goodchop.com^
 ||tms.hft.greenchef.com^
 ||tms.hft.hellofresh.com^
+||tmssl.akamaized.net/js/news-viewport-tracking.js
 ||tmtarget.com/tracking/
 ||tmtrck.com^$popup
 ||tmtreader.com^
@@ -38626,6 +38645,7 @@ yydstxt*.com/js/html
 ||ubuyanalytics.ubuy.com^
 ||uc*.atobo.com^
 ||uc.cn/collect?
+||uc.shiprocket.in/v1/track/
 ||uc129.com/images/top_hjsj.jpg
 ||uc129.com/m/
 ||uc9.suinidai.com.cn^
@@ -38911,6 +38931,7 @@ yydstxt*.com/js/html
 ||uptakeraspide.com^
 ||uptightdecreaseclinical.com^$popup
 ||uptime.fastrr.com^
+||uptime2.fastrr.com^
 ||uptimecdn.com^$popup
 ||uptopopunder.com^$popup
 ||upufkg.icu^
@@ -41079,6 +41100,7 @@ yydstxt*.com/js/html
 ||xlforum.net^
 ||xliirdr.com^$popup
 ||xlineker.com^
+||xlirdr.com^
 ||xlirdr.com^$popup
 ||xliuits.icu^
 ||xlivrdr.com^
