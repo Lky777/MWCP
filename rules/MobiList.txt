@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202509240803
-! Last modified: 24 Sep 2025 08:03 UTC
+! Version: 202509241922
+! Last modified: 24 Sep 2025 19:22 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -8546,6 +8546,7 @@ yydstxt*.com/js/html
 ||2m6qxgia5eqt.com^
 ||2makestorage.com^
 ||2mdn.net/videoplayback/$rewrite=abp-resource:blank-mp4,domain=laurelberninteriors.com|safeframe.googlesyndication.com
+||2mdn.net^
 ||2merkato.com/images/banners/
 ||2oceansvibe.com/?custom=takeover
 ||2osq127yy.com^
@@ -8724,6 +8725,7 @@ yydstxt*.com/js/html
 ||3k8.com/d/js/m/thea
 ||3kfvgobkw.com^
 ||3lawey.com^
+||3lift.com^
 ||3lo.icu^
 ||3ml8v.cn^
 ||3movs.com/2ff/
@@ -8851,10 +8853,8 @@ yydstxt*.com/js/html
 ||4hw.com.cn/js/common.js
 ||4i1.icu^
 ||4ifhpfi1.xyz^
-||4j.com^
 ||4jc.icu^
 ||4kporn.xxx/static/analytics/
-||4krealincestporn.com^
 ||4kxczstxil.com^
 ||4kzgame.com^
 ||4nh.cn^
@@ -10226,6 +10226,7 @@ yydstxt*.com/js/html
 ||adfixus.com^
 ||adfjxsrw.cc^
 ||adflycode.com^
+||adforcast.com^
 ||adform.com^
 ||adform.net^
 ||adform.net^$popup
@@ -10247,6 +10248,7 @@ yydstxt*.com/js/html
 ||adglare.net^
 ||adglare.net^$popup
 ||adglidepro.com^
+||adgrx.com^
 ||adguard.com/-/event/
 ||adhaven.com^
 ||adhealers.com^$popup
@@ -10279,6 +10281,7 @@ yydstxt*.com/js/html
 ||adjoe-programmatic.com^
 ||adjuggler.net^$popup
 ||adjust.cn^
+||adjust.com^
 ||adk2.co^$popup
 ||adk2.com^
 ||adk2.com^$popup
@@ -10310,11 +10313,13 @@ yydstxt*.com/js/html
 ||admachina.com^$popup
 ||admaimai.com/inc/adv
 ||admanmedia.com^
+||admantx.com^
 ||admarketplace.net^
 ||admaru.com^
 ||admaster.
 ||admaxim.com^
 ||admaxium.com^
+||admbucket.com^
 ||admd.housefun.com.tw^
 ||admd.yam.com^
 ||admedia.com^
@@ -10354,6 +10359,7 @@ yydstxt*.com/js/html
 ||admongrel.com^
 ||admonitorhub.com^
 ||admooh.com^
+||admost.com^
 ||admothreewallent.com$popup
 ||admozartexchange.com^
 ||admozartxml.com^
@@ -10364,6 +10370,7 @@ yydstxt*.com/js/html
 ||adn-plus.com.cn^
 ||adn.com^
 ||adnade.net^
+||adncdn.net^
 ||adncdnend.azureedge.net^
 ||adnetworkperformance.com^$popup
 ||adnexus.net^
@@ -10390,6 +10397,7 @@ yydstxt*.com/js/html
 ||adokutrtb.com^
 ||adonweb.ru^$popup
 ||adop.co^$popup
+||adopsboost.com^
 ||adopt-a-contractor.com^
 ||adoptionconcerned.com^
 ||adoraboo.net^
@@ -10426,6 +10434,7 @@ yydstxt*.com/js/html
 ||adpumb.com^
 ||adpushup.com^
 ||adrama.to/bbb.php
+||adrcdn.com^
 ||adreactor.com^$popup
 ||adrealclick.com^$popup
 ||adrecover.com^
@@ -10504,6 +10513,7 @@ yydstxt*.com/js/html
 ||adsc.wasu.tv^
 ||adscale.com^
 ||adscdn.baidu.com/
+||adscdn.net^
 ||adscdn.net^$popup
 ||adscendmedia.com^
 ||adschill.com^
@@ -11529,6 +11539,7 @@ yydstxt*.com/js/html
 ||analytics.algolia.com^
 ||analytics.amakings.com^
 ||analytics.analytics-egain.com^
+||analytics.api.justeattakeaway.com^
 ||analytics.apnewsregistry.com^
 ||analytics.archive.org^
 ||analytics.audioeye.com^
@@ -11749,8 +11760,6 @@ yydstxt*.com/js/html
 ||anhuinews.com/include/
 ||anhuinews.com/zhuyeguanli/*ad/
 ||aniltramps.top^$popup
-||animalsexporn.net^
-||animalsexporntube.com^
 ||animationmagazine.net/wordpress/wp-content/uploads/twr_am_
 ||anime-tooon.com^
 ||animeland.tv/zenny/
@@ -11946,8 +11955,6 @@ yydstxt*.com/js/html
 ||aplaceinthesun.com^
 ||apm-engine.meteor.com^$third-party,xmlhttprequest
 ||apoggy.com^
-||aporntv.com^
-||apornvideo.com^
 ||app-ads-services.com^
 ||app-analytics-services.com^
 ||app-bnkr.b-cdn.net/js/lv.js
@@ -12358,6 +12365,7 @@ yydstxt*.com/js/html
 ||auth.services.adobe.com/signin/v1/audit
 ||authedwebmine.cz^$third-party,domain=~webmine.cz
 ||authognu.com^$popup
+||autivnay.com^
 ||auto-online.com.tw/vendor_data/
 ||autoauctionhistory.com^
 ||autobidcar.com^
@@ -12485,7 +12493,9 @@ yydstxt*.com/js/html
 ||awestat.com^*/banner/
 ||awfyuqoidy.com^
 ||awhirteqjy.net^
+||awin.com^
 ||awin1.com/cread.php?s=$popup
+||awin1.com^
 ||awinblackfriday.com^
 ||awistats.com^
 ||awkxf8bbj.com^
@@ -15298,7 +15308,6 @@ yydstxt*.com/js/html
 ||cinemaone.net^
 ||cinemaspathegaumont.com^
 ||cinemaup.top^
-||cinepornogratis.com^
 ||cipdmail.com^
 ||cipledecline.buzz^$popup
 ||ciqtracking.com^
@@ -16129,7 +16138,6 @@ yydstxt*.com/js/html
 ||contactatonce.com/getagentstatusimage.aspx?
 ||contactatonce.com/visitorcontext.aspx?
 ||containers.appdomain.cloud/api/send-log$domain=ibm.com
-||content-loader.com^
 ||content-loader.com^$popup
 ||content-sync.xyz^
 ||content.canadiantire.ca^
@@ -16429,6 +16437,7 @@ yydstxt*.com/js/html
 ||criqai.com^
 ||crisp-freedom.com^$popup
 ||cristochris.com^$popup
+||criteo.com^
 ||criteo.net/banners/
 ||criteo.net/design/
 ||crizzelbelout.com^
@@ -18188,7 +18197,6 @@ yydstxt*.com/js/html
 ||desertsutilizetopless.com^$popup
 ||desgao1zt7irn.cloudfront.net^
 ||deshicheng.com^
-||desi-porn.xyz^
 ||desi-porntube.com^
 ||desibahu.com^
 ||desibf.com^
@@ -20306,7 +20314,6 @@ yydstxt*.com/js/html
 ||expofurnituregallery.com^
 ||exporder-patuility.com^$popup
 ||exporntoons.net/api/stats?
-||exporntoons.net^
 ||exportdialog.com^
 ||exposeunspeakabledynamite.com^
 ||expressoil.com^
@@ -22324,8 +22331,10 @@ yydstxt*.com/js/html
 ||googlesyndication.com
 ||googlesyndication.com/pagead/
 ||googlesyndication.com/safeframe/
+||googlesyndication.com^
 ||googlesyndication.com^$domain=blogto.com|youtube.com
 ||googletagmanager-cn.com^
+||googletagservices.com^
 ||googleusercontent.com/*/wf/open?upn=$image
 ||googleusercontent.com/tracker/
 ||googlevideo.com/videoplayback?$rewrite=abp-resource:blank-mp4,domain=laurelberninteriors.com|safeframe.googlesyndication.com
@@ -27742,6 +27751,7 @@ yydstxt*.com/js/html
 ||marketscreener.com/content_openx.php
 ||marketswiki.com^
 ||marknetalliance.com^
+||markonlive.github.io/analytics/
 ||marksandspencerme.com^
 ||marktbarclay.com^
 ||marmelad.top^
@@ -28190,6 +28200,7 @@ yydstxt*.com/js/html
 ||mgbnlmibzt.net^
 ||mghezaxh.com^
 ||mghkpg.com^$popup
+||mgid.com^
 ||mgid.com^$popup
 ||mgmlcdn.com/stats/
 ||mgmtnode.com^
@@ -30594,6 +30605,7 @@ yydstxt*.com/js/html
 ||outbound.io/v2/track
 ||outbrain.com/nanowidget/externals/cookie/
 ||outbrain.com/widgetobusersync/
+||outbrain.com^
 ||outbrain.com^$domain=bgr.com|buzzfeed.com|dto.to|investing.com|mamasuncut.com|mangatoto.com|tvline.com
 ||outbrain.com^$domain=wenxuecity.com
 ||outbrain.com^*/widgetstatistics.js
@@ -32290,6 +32302,7 @@ yydstxt*.com/js/html
 ||publisherads.click^$popup
 ||publisherroundtable.com^
 ||publited.com^$popup
+||pubmatic.com^
 ||pubops.net^
 ||pubsrv.devhints.io^
 ||pubtrky.com^$popup
@@ -33506,6 +33519,7 @@ yydstxt*.com/js/html
 ||reurl.cc/javascripts/tagtoo.js
 ||rev.frankspeech.com^
 ||revcola.com^
+||revcontent.com^
 ||reve.com^
 ||reveltronics.com^
 ||revenge-games.com^
@@ -36671,6 +36685,7 @@ yydstxt*.com/js/html
 ||tabamusic.com^
 ||tabelafipebrasil.com^
 ||taboola.com/vpaid/
+||taboola.com^
 ||taboola.com^$domain=independent.co.uk|outlook.live.com|technobuffalo.com
 ||taboola.com^*/vignette-render.js
 ||tacolor.com^
@@ -40922,6 +40937,7 @@ yydstxt*.com/js/html
 ||xaiqrania.com^
 ||xaminim.com^
 ||xamniksq.com^
+||xandr.com^
 ||xanhadeattaniceeatgapfog.com^
 ||xanimu.com/prerolls/
 ||xapads.com^
@@ -41623,7 +41639,14 @@ yydstxt*.com/js/html
 ||yidengfe.com/launches/01/yd.png
 ||yield-op-idsync.live.streamtheworld.com^
 ||yield.app^*utm_source=$popup
+||yieldbird.com^
+||yieldify.com^
+||yieldlab.net^
 ||yieldlove-ad-serving.net^
+||yieldlove.com^
+||yieldmo.com^
+||yieldmrm.com^
+||yieldoptimizer.com^
 ||yieldtraffic.com^$popup
 ||yigouw.com/c.js
 ||yigujin.cn/faaa/
@@ -41878,7 +41901,6 @@ yydstxt*.com/js/html
 ||yugjwgg.icu^
 ||yugqqqq.icu^
 ||yuguaab.com^
-||yuguosoft.com^
 ||yuhs.xyz^
 ||yui-nya.com/wp-content/uploads/2016/12/37011.jpg
 ||yui-nya.com/wp-content/uploads/2016/12/neta370-370.jpg
