@@ -1,17 +1,22 @@
 ! .A1
 ||18hu.link^
+||333wy333bb.com^
 ||666834.xyz^
+||7926ccc537.com^
 ||ab13568.com^
 ||abc29863668.com^
 ||abc57987257.com^
 ||abc96935812.com^
 ||altzpxu.com^
+||amung.us^
+||auriclelureful.click^
 ||bb77393629.com^
 ||canseldomsulphur.com^
 ||cknr6y.com^
 ||cnkuqi.net^
 ||collision3550.top^
 ||communicatedroopcomer.com^
+||content-sync.xyz^
 ||cru0xr.com^
 ||diligencejusticeimprobable.com^
 ||elysiumingreat.top^
@@ -23,6 +28,7 @@
 ||guizuren.com^
 ||hfizzakurv.com^
 ||img6890937840.com^
+||impression-sync.xyz^
 ||jakyaqu.xyz^
 ||kjgbyn.com^
 ||ksrsogd.com^
@@ -49,6 +55,7 @@
 ||wcydkls.com^
 ||yonyoujcxl.com^
 ||youandmerunfast.com^
+||zog.link^
 ||zrwprhw.xyz^
 
 ! .A2
@@ -95,8 +102,6 @@
 *$ping,third-party
 *$websocket
 *$webrtc
-*/ad/*
-*/ads/*
 /1x1.
 /ad.js
 /cdn-cgi/speculation
@@ -117,6 +122,7 @@ _ads.html?
 ||cdn.tapioni.com/adgpt.js
 ||connect.facebook.net/*/sdk.js
 |https://vk.com/js/api/share.js?
+||nibuaideren.icu/*.gif
 
 ! 163
 */163/frontend/antnest/*
@@ -211,6 +217,7 @@ douban.com##.talion-nav-footer
 
 ! happymh
 ||m.happymh.com/static/media/
+||m.happymh.com/styles/friendAds.
 
 ! jable
 ||assetscdn.jable.tv/assets/images/uu/
