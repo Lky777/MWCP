@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202509240443
-! Last modified: 24 Sep 2025 04:43 UTC
+! Version: 202509240803
+! Last modified: 24 Sep 2025 08:03 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -76,8 +76,6 @@ $webrtc,domain=ack.net|allthetests.com|champion.gg|clicknupload.link|colourlover
 *$websocket
 *&adsc_typpe=
 */163/frontend/antnest/*
-*/ad/*
-*/ads/*
 *coinhive.min.js^$script
 *gonggao.js|$domain=~lol.qq.com
 -*-*-*-*.alpha^$script
@@ -3656,6 +3654,7 @@ $webrtc,domain=ack.net|allthetests.com|champion.gg|clicknupload.link|colourlover
 /opinionlab.js
 /optiextension.dll?$script
 /optimizelyjs/
+/optimizerapi?event=
 /orichipixel.min.js
 /os1019.oss-cn-quanzhou.
 /os2023001.oss-$script
@@ -8601,6 +8600,7 @@ yydstxt*.com/js/html
 ||3337738.com^
 ||333bet30.com^
 ||333uu.org/config/
+||333wy333bb.com^
 ||33445522.com//admin/adv/
 ||3344ex.com/js/1playerad.js
 ||3344ex.com/js/bot.js
@@ -9109,6 +9109,7 @@ yydstxt*.com/js/html
 ||6080aa.com/template/*/images/g_js/
 ||6080w.com/template/ttk/img/
 ||609999.xyz^
+||60ah.com^
 ||60dxug5hu.click^$popup
 ||61.10.2.86/dev/xopen.php
 ||6109.org^
@@ -9282,6 +9283,7 @@ yydstxt*.com/js/html
 ||78land.com/js/fumeiti.js
 ||78win44.com^
 ||79181531227.com^
+||7926ccc537.com^
 ||797sun.com/include/js/common_footer.
 ||79nova.com^
 ||79pa4bxa86.com^$popup
@@ -10842,6 +10844,7 @@ yydstxt*.com/js/html
 ||afp.chinanews.com^
 ||afr.com/assets/europa.
 ||afranet.net^
+||afrdtech.com^
 ||afreespace.com^
 ||afrhwdumolf.com^
 ||afribaba.com^
@@ -11455,6 +11458,7 @@ yydstxt*.com/js/html
 ||ams.naturalnews.com^
 ||ams.naturalnewsblogs.com^
 ||amsthor.xyz^
+||amung.us^
 ||amusefrontier.com^
 ||amusementt3.top^
 ||amusing-injury.com^
@@ -12336,6 +12340,7 @@ yydstxt*.com/js/html
 ||auntyli.com^
 ||aupied.net^
 ||aurashinehub.com^
+||auriclelureful.click^
 ||auriro.net/views.cfm?
 ||aurn.com/wp-content/banners/
 ||aurora-d3.herokuapp.com^
@@ -14282,7 +14287,8 @@ yydstxt*.com/js/html
 ||bumimi.com/money/
 ||bump-charge.com^
 ||bun1.dayi.org.cn^
-||bundle.dyn-rev.app/loader.js
+||bundle.9gtb.com^
+||bundle.dyn-rev.app^
 ||bundle.ppas.monster^
 ||bunintruder.com^$popup
 ||bunkr.si/lazyhungrilyheadlicks.js
@@ -14494,6 +14500,7 @@ yydstxt*.com/js/html
 ||ca.yangshengtv.com^
 ||caaqot.com^
 ||cabbagereporterpayroll.com^$popup
+||cabnnr.com^
 ||cabtryfnht.net^
 ||cacafly.net^
 ||cache.myth.dev^
@@ -14632,6 +14639,7 @@ yydstxt*.com/js/html
 ||capitalone.com/collector/
 ||capitalthatworks.com^
 ||capitolnutrition.net^
+||capndr.com^
 ||capoplay.net^
 ||cappassessments.com^
 ||capture-api.ap3prod.com^
@@ -16123,6 +16131,7 @@ yydstxt*.com/js/html
 ||containers.appdomain.cloud/api/send-log$domain=ibm.com
 ||content-loader.com^
 ||content-loader.com^$popup
+||content-sync.xyz^
 ||content.canadiantire.ca^
 ||content.cpcache.com^*/js/ga.js
 ||content.discover.com^
@@ -18962,6 +18971,7 @@ yydstxt*.com/js/html
 ||drift.com/track
 ||drihmae.com^
 ||drimage.com^
+||drimquop.com^
 ||dripaparis.com^
 ||dripuploads.com^
 ||drivebestway.com^
@@ -23467,6 +23477,7 @@ yydstxt*.com/js/html
 ||hostadsmarkets.com^
 ||hostadvice.com^
 ||hostave3.net/hvw/banners/
+||hostave3.net^
 ||hostcoder.com^
 ||hosted.muses.org/mrp.js$domain=flamecomics.xyz|mgeko.cc
 ||hostedmovieupdates.aebn.net^$domain=datingpornstar.com
@@ -24396,6 +24407,7 @@ yydstxt*.com/js/html
 ||impmentatsys.com^
 ||importyeti.com^
 ||impress.vcita.com^
+||impression-sync.xyz^
 ||impressionmedia.cz/statistics/
 ||impressions.svc.abillion.com^
 ||impressivetimes.com/wp-content/uploads/2024/07/primary-plus-advt.jpg
@@ -27450,6 +27462,7 @@ yydstxt*.com/js/html
 ||m.facebook.com/ajax/weblite_load_logging/
 ||m.facebook.com/ajax/weblite_resources_timing_logging/
 ||m.happymh.com/static/media/
+||m.happymh.com/styles/friendAds.
 ||m.kankanwu.com/js/
 ||m.lelekan.com/sp/
 ||m.mianbao99.com/js/detail.js
@@ -29495,6 +29508,7 @@ yydstxt*.com/js/html
 ||nhz6q.cn^
 ||niadd.com^
 ||niaobaike.com^
+||nibuaideren.icu/*.gif
 ||nicatethebene.info^$popup
 ||nicedramatv.com^
 ||nicelinks.site/ad-block-
@@ -30196,8 +30210,19 @@ yydstxt*.com/js/html
 ||oncesets.com^$popup
 ||onchilurg.com^
 ||onclasrv.com^$popup
+||onclckbn.net^
+||onclckbnr.com^
+||onclckinp.com^
+||onclckinpg.com^
+||onclckip.com^
 ||onclckmetrics.com^
+||onclckmn.com^
+||onclckpop.com^
 ||onclckpop.com^$popup
+||onclckpp.com^
+||onclckstr.com^
+||onclcktg.com^
+||onclckvd.com^
 ||onclickads.net^
 ||onclickads.net^$popup
 ||onclickalgo.com^
@@ -30416,6 +30441,7 @@ yydstxt*.com/js/html
 ||optmn.cloud/hb/
 ||optnx.com^$popup
 ||optoutadvertising.com^
+||optvz.com^
 ||optvz.com^$popup
 ||optyruntchan.com^$popup
 ||optzsrv.com^$popup
@@ -33240,6 +33266,7 @@ yydstxt*.com/js/html
 ||reclod.com^$popup
 ||reco.target2sell.com^
 ||recod3ui.com^
+||recombee.com^
 ||recommended-twice.com^$popup
 ||recommendedpress.com^
 ||recommendedreads.com^
@@ -40089,6 +40116,7 @@ yydstxt*.com/js/html
 ||webmasters.ksalsocial.online/pixel/
 ||webmd.com/static/v/c?
 ||webmedrtb.com^$popup
+||webmedxml.com^
 ||webmercs.com^
 ||webmercsedge.com^
 ||webnovell.com^
@@ -41729,7 +41757,6 @@ yydstxt*.com/js/html
 ||youlianjiedian.com^
 ||youmaker.com/g/test
 ||youmelive.com/timg/
-||youmustfuck.com^
 ||youngcel.com^
 ||youngstersworld.com^
 ||youpintechs.com^
@@ -42261,6 +42288,7 @@ yydstxt*.com/js/html
 ||zoekarssen.com^
 ||zoeysite.com^
 ||zofmhx.icu^
+||zog.link^
 ||zog.link^$popup
 ||zogzoldop.com^
 ||zoilusdoping.top^$popup
