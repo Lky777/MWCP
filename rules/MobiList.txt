@@ -1,23 +1,20 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202509251922
-! Last modified: 25 Sep 2025 19:22 UTC
+! Version: 202509261921
+! Last modified: 26 Sep 2025 19:21 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
 $csp=child-src 'none'; frame-src 'self' *; worker-src 'none',domain=fileone.tv|theappguruz.com
 $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vidoza.net
-$csp=script-src 'self' '*' 'unsafe-inline',domain=pirateproxy.live|thehiddenbay.com|downloadpirate.com|thepiratebay10.org|ukpass.co|linksmore.site
 $csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.cloudflare.com *.google.com *.addthis.com *.addthisedge.com *.facebook.net *.twitter.com *.jquery.com *.x.com,domain=kinox.lat|kinos.to|kinox.am|kinox.click|kinox.cloud|kinox.club|kinox.digital|kinox.direct|kinox.express|kinox.fyi|kinox.gratis|kinox.io|kinox.lol|kinox.me|kinox.mobi|kinox.pub|kinox.sh|kinox.to|kinox.tube|kinox.tv|kinox.wtf|kinoz.to,~third-party
 $csp=script-src 'self' * 'unsafe-inline',domain=buhesw.com|luenbook.cc|zahubook.com|heciwk.com|quhesw.com|erzuwk.com|bowoxs.com|guashuge.com|mudanxs.com|mzbook.cc|haduks.com|caimozw.com|zaaizw.com|bogeks.com|oushuku.com|haxu8.com|pucixs.com|tuqisw.com|xueyisw.com|zuye8.com|yawoxs.com|guwoxs.com|jiufuzw.com|beianxs.com|shuying6.com|mafusw.com|cule9.com|riquzw.com|xingksw.com|enbusw.com|waguwk.cc|ruyisw.com|zuxiku.com|jinmusb.com|hunshuge.com|puyewk.com|kaaiwk.com|hadu520.com|qubosw.com|meisibook.com|cuaizw.cc|boxue8.cc|cipubook.com|ququsk.cc|yiyezao.com|shanhuxs.com|jiutusw.com|chahuax.com|candoug.com|hanziwen.com|haduzw.com|modaoshu.com|nipubook.com|nuoshuge.com|puquz.com|wuwusk.com
 $csp=script-src 'self' * 'unsafe-inline',domain=nodejs.cn|smsonline.cloud
 $csp=script-src 'self' * 'unsafe-inline',domain=shumi.la|59xs.com|biqugen.com|8181zw.vip|biqugequ.org|69shumi.com|fxxs3.com|efuxs.com|i3book.com|genbiquge.com|quanbiqu.com|pinshu.org|13xsw.com|bbiquge.cc|taobiquge.com|haijiaobooksw.top|zlobin.net|piaotianxiaoshuo.com|yebiquge.com|jvbiquge.com|vipbiquge.com|jpbqg7.com|zuizhong.net|oldtimeswx.org|5book.cc|softtechsolution.org|product44.com|snxsw.com|xiexinde.net|m.6666xsw.com|m.chenkuan.com|jmshuwu.net|wodexiaoshuoh.com|tetservices.net|haitangsoshu.org|4hrz.net|x33yq.org|56xiaoshuo.net|novelser.com|ykxs.cc|biqudd.com|diyibanzhu44444.com|dbrxs.org|kaixindu.net|1ingatlan.net|gaofuwu.org|yushuwu.cloud|yswxs.com|biquge2345.com|dingdian911.com|bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|1kans.net|aidu123.com|biquluo.info|bqgh.com|jmshuwu.net|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com
 $csp=script-src 'self' *,domain=52niuyanks.cc|90shuyuan.com|hunhunxs.com|sswwxs.com|akexs.com|qqmmxs.com|qimiaoxs.cc|qimiaoxiaoshuo.com|wuwxs.com|biquge678.com|biqugezw.us|zk01.net
-$csp=script-src 'self' data: 'unsafe-inline' 'unsafe-hashes' 'unsafe-eval' pic1.mangapicgallery.com www.google.com,domain=mangago.me
-$csp=script-src 'self' data: 'unsafe-inline' 'unsafe-hashes' 'unsafe-eval' www.gstatic.com cdn.jsdelivr.net maxcdn.bootstrapcdn.com,domain=bigwarp.io
 $csp=script-src 'self' data: 'unsafe-inline' 'unsafe-hashes' 'unsafe-eval',domain=thumbs.pro
-$csp=worker-src 'none',domain=torlock.com|alltube.pl|alltube.tv|centrum-dramy.pl|coinfaucet.eu|crictime.com|crictime.is|doodcdn.com|gomo.to|hdvid.fun|hdvid.tv|hitomi.la|lewd.ninja|nflbite.com|pirateproxy.live|plytv.me|powvideo.cc|powvideo.net|putlocker.to|reactor.cc|rojadirecta.direct|sickrage.ca|streamtape.com|thehiddenbay.com|thepiratebay.org|thepiratebay10.org|tpb.party|uptomega.me|ustream.to|vidoza.co|vidoza.net|wearesaudis.net|yazilir.com
+$csp=worker-src 'none',domain=centrum-dramy.pl|coinfaucet.eu|crictime.com|crictime.is|doodcdn.com|gomo.to|hdvid.fun|hdvid.tv|hitomi.la|lewd.ninja|plytv.me|powvideo.cc|powvideo.net|putlocker.to|reactor.cc|streamtape.com|thehiddenbay.com|thepiratebay.org|uptomega.me|ustream.to|vidoza.co|vidoza.net
 $domain=ads.adxadserv.com|adserver.juicyads.com|cs.adxpansion.com|olmsoneenh.info|static.javhd.com|syndication.exosrv.com
 $domain=googleads.g.doubleclick.net
 $image,domain=258zw.com
@@ -2409,6 +2406,7 @@ $webrtc,domain=ack.net|allthetests.com|champion.gg|clicknupload.link|colourlover
 /fduttjalivqpo/
 /fe_logger?
 /feature/metrics$xmlhttprequest
+/federated-analytics.all.min.js
 /fel456.js$script
 /fgh1ijkl.js$script
 /fhhytagnew
@@ -4501,7 +4499,7 @@ $webrtc,domain=ack.net|allthetests.com|champion.gg|clicknupload.link|colourlover
 /smetrics.*/id?
 /smflow/get.*=gadcallback_
 /smg_tracking/js/onthe.io.js
-/smile_elasticsuitetracker/*$script
+/smile_elasticsuitetracker/js/tracking.min.js
 /smmch-mine.js
 /smmch-own.js
 /snowman.gif?p=
@@ -4685,6 +4683,7 @@ $webrtc,domain=ack.net|allthetests.com|champion.gg|clicknupload.link|colourlover
 /stickyads.js$script
 /storeadvimpression.jsp
 /storefront.google-analytics-4.min.js
+/stormcaster.js
 /stp.gif?
 /stracking.js
 /strackstats.js
@@ -5568,8 +5567,8 @@ $webrtc,domain=ack.net|allthetests.com|champion.gg|clicknupload.link|colourlover
 ://ad1.
 ://adn.*/zone/$popup
 ://adn.*/zone/$subdocument
-://ads.$popup,domain=~ad.olx.pl|~smartnews.com
-://ads.$~image,~xmlhttprequest,domain=~ads.8designers.com|~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.apple.com|~ads.atmosphere.copernicus.eu|~ads.axon.ai|~ads.band|~ads.bestprints.biz|~ads.bikepump.com|~ads.brave.com|~ads.buscaempresas.co|~ads.business.bell.ca|~ads.cafebazaar.ir|~ads.chewy.com|~ads.colombiaonline.com|~ads.comeon.com|~ads.cvut.cz|~ads.doordash.com|~ads.dosocial.ge|~ads.dosocial.me|~ads.elevateplatform.co.uk|~ads.ferrarichat.com|~ads.finance|~ads.flytant.com|~ads.fund|~ads.google.cn|~ads.google.com|~ads.gree.net|~ads.gurkerl.at|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kaipoke.biz|~ads.kifli.hu|~ads.knuspr.de|~ads.listonic.com|~ads.luarmor.net|~ads.magalu.com|~ads.mercadolivre.com.br|~ads.mgid.com|~ads.microsoft.com|~ads.midwayusa.com|~ads.misskey.io|~ads.mobilebet.com|~ads.mojagazetka.com|~ads.msstate.edu|~ads.mst.dk|~ads.mt|~ads.nc|~ads.nipr.ac.jp|~ads.olx.pl|~ads.palmettostatearmory.com|~ads.pinterest.com|~ads.realizeperformance.com|~ads.remix.es|~ads.rohlik.cz|~ads.rohlik.group|~ads.route.cc|~ads.safi-gmbh.ch|~ads.scotiabank.com|~ads.selfip.com|~ads.shopee.cn|~ads.shopee.co.th|~ads.shopee.com.br|~ads.shopee.com.mx|~ads.shopee.com.my|~ads.shopee.kr|~ads.shopee.ph|~ads.shopee.pl|~ads.shopee.sg|~ads.shopee.tw|~ads.shopee.vn|~ads.siriusxmmedia.com|~ads.smartnews.com|~ads.snapchat.com|~ads.socialtheater.com|~ads.spotify.com|~ads.studyplus.co.jp|~ads.taboola.com|~ads.tiktok.com|~ads.tuver.ru|~ads.twitter.com|~ads.typepad.jp|~ads.us.tiktok.com|~ads.viksaffiliates.com|~ads.vk.com|~ads.vk.ru|~ads.watson.ch|~ads.wildberries.ru|~ads.x.com|~ads.yandex|~reempresa.org
+://ads.$popup,domain=~ad.olx.pl|~ads.mercadolibre.com.ar|~ads.mercadolibre.com.cl|~ads.mercadolibre.com.co|~ads.mercadolibre.com.ec|~ads.mercadolibre.com.mx|~ads.mercadolibre.com.pe|~ads.mercadolibre.com.ve|~ads.mercadolivre.com.br|~smartnews.com
+://ads.$~image,~xmlhttprequest,domain=~`ads.sociogram.com|~ads.8designers.com|~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.apple.com|~ads.atmosphere.copernicus.eu|~ads.axon.ai|~ads.band|~ads.bestprints.biz|~ads.bikepump.com|~ads.brave.com|~ads.buscaempresas.co|~ads.business.bell.ca|~ads.cafebazaar.ir|~ads.chewy.com|~ads.colombiaonline.com|~ads.comeon.com|~ads.cvut.cz|~ads.doordash.com|~ads.dosocial.ge|~ads.dosocial.me|~ads.elevateplatform.co.uk|~ads.ferrarichat.com|~ads.finance|~ads.flytant.com|~ads.fund|~ads.google.cn|~ads.google.com|~ads.gree.net|~ads.gurkerl.at|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kaipoke.biz|~ads.kifli.hu|~ads.knuspr.de|~ads.listonic.com|~ads.luarmor.net|~ads.magalu.com|~ads.mercadolibre.com.ar|~ads.mercadolibre.com.cl|~ads.mercadolibre.com.co|~ads.mercadolibre.com.ec|~ads.mercadolibre.com.mx|~ads.mercadolibre.com.pe|~ads.mercadolibre.com.ve|~ads.mercadolivre.com.br|~ads.mgid.com|~ads.microsoft.com|~ads.midwayusa.com|~ads.misskey.io|~ads.mobilebet.com|~ads.mojagazetka.com|~ads.msstate.edu|~ads.mst.dk|~ads.mt|~ads.nc|~ads.nipr.ac.jp|~ads.olx.pl|~ads.palmettostatearmory.com|~ads.pinterest.com|~ads.realizeperformance.com|~ads.remix.es|~ads.rohlik.cz|~ads.rohlik.group|~ads.route.cc|~ads.safi-gmbh.ch|~ads.scotiabank.com|~ads.selfip.com|~ads.shopee.cn|~ads.shopee.co.th|~ads.shopee.com.br|~ads.shopee.com.mx|~ads.shopee.com.my|~ads.shopee.kr|~ads.shopee.ph|~ads.shopee.pl|~ads.shopee.sg|~ads.shopee.tw|~ads.shopee.vn|~ads.siriusxmmedia.com|~ads.smartnews.com|~ads.snapchat.com|~ads.socialtheater.com|~ads.spotify.com|~ads.studyplus.co.jp|~ads.taboola.com|~ads.tiktok.com|~ads.tuver.ru|~ads.twitter.com|~ads.typepad.jp|~ads.us.tiktok.com|~ads.viksaffiliates.com|~ads.vk.com|~ads.vk.ru|~ads.watson.ch|~ads.wildberries.ru|~ads.x.com|~ads.yandex|~reempresa.org
 ://ads2.
 ://adsbb.
 ://adserving.
@@ -5610,7 +5609,7 @@ $webrtc,domain=ack.net|allthetests.com|champion.gg|clicknupload.link|colourlover
 ://elqtrk.
 ://estats.*/code/e.js
 ://fallback.*/collector
-://fathom.$domain=~fathom.care|~fathom.fm|~fathom.info|~fathom.io|~fathom.lib.uchicago.edu|~fathom.org|~fathom.video|~fathom.world|~fathomdelivers.com|~fathomseo.com|~usesfathom.com
+://fathom.$domain=~fathom.care|~fathom.co.za|~fathom.fm|~fathom.info|~fathom.io|~fathom.lib.uchicago.edu|~fathom.org|~fathom.video|~fathom.world|~fathomdelivers.com|~fathomseo.com|~usesfathom.com
 ://gtm.*.js?st=
 ://gtrack.*/dye
 ://insights-collector.
@@ -5770,7 +5769,7 @@ $webrtc,domain=ack.net|allthetests.com|champion.gg|clicknupload.link|colourlover
 ?v=2&tid=g-$~third-party
 ?whichad=freestar&
 ?wmcaction=wmctrack&
-?wppaszoneid=
+?wppaszoneid=$subdocument
 ?wpstealthadsjs=
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@&http_referer=$domain=chaopx.com
@@ -8274,6 +8273,7 @@ yydstxt*.com/js/html
 ||1dki0.icu^
 ||1dm6ccvy8.com^
 ||1dor1d6vc.com^
+||1f0l.top^
 ||1gmzo.icu^
 ||1gtp.icu^
 ||1io2m1y8.com^
@@ -10088,6 +10088,7 @@ yydstxt*.com/js/html
 ||adalyser.com^
 ||adalytics.io/api/view
 ||adam.com^
+||adameve.com/emetrics/
 ||adamos.com^
 ||adanxing.com^
 ||adapf.com^
@@ -11915,6 +11916,7 @@ yydstxt*.com/js/html
 ||api.ipgeolocation.io/getip
 ||api.iris.tv/update
 ||api.june.so^
+||api.mambasms.com/monitorevent/
 ||api.meetup.com/pico/v4/web-events
 ||api.mumuglobal.com^
 ||api.narrativ.com/favicon.ico
@@ -11955,6 +11957,7 @@ yydstxt*.com/js/html
 ||apksam.com^
 ||apkstem.com^
 ||aplaceinthesun.com^
+||aplus.qwen.ai/aplus.monitor.log_arrival_rate
 ||apm-engine.meteor.com^$third-party,xmlhttprequest
 ||apoggy.com^
 ||app-ads-services.com^
@@ -11969,6 +11972,7 @@ yydstxt*.com/js/html
 ||app.box.com/gen204
 ||app.carnow.com/dealers/track_visitor
 ||app.clickfunnels.com^$~stylesheet
+||app.gnosispay.com/relay-gp-ph/
 ||app.octaneai.com/get_analytics_engine/
 ||app.opmnstr.com/v2/geolocate/
 ||app.optibase.io^
@@ -13452,6 +13456,7 @@ yydstxt*.com/js/html
 ||bi.banggood.com^
 ||bi.heyloyalty.com^
 ||bi.medscape.com^
+||bi.pst.tech^
 ||bi205u0cx.com^
 ||bi25.cc/js/hf
 ||biabfqq.icu^
@@ -13918,7 +13923,6 @@ yydstxt*.com/js/html
 ||bodsforthemods.com/srennab/
 ||bodskadradio.com^
 ||bodyhealth.com^
-||bodysize.org^$csp=child-src *
 ||boei.help/pageview/
 ||bof8804jn.com^
 ||boffoadsapi.com^
@@ -14791,6 +14795,7 @@ yydstxt*.com/js/html
 ||cc/scriptad/$script
 ||cc1ej6d0e.com^
 ||cc1ps.com^
+||cca-lite.coinbase.com/metrics
 ||ccav1.com/wp-content/uploads/an-temp/
 ||ccav1.com/wp-content/uploads/bmshkpexgyjd/
 ||ccav1.me/block.js
@@ -15360,6 +15365,7 @@ yydstxt*.com/js/html
 ||ck.connatix.com^
 ||ck180.net/mitao
 ||ck444app.net^
+||ck4g3p2x92.com^
 ||ckefmjgpb.com^
 ||ckg.vipyl.com^
 ||cknr6y.com^
@@ -16166,7 +16172,6 @@ yydstxt*.com/js/html
 ||conver2clickapp.com^
 ||conversions.genieventures.co.uk^
 ||convert2mp3.club/dr/
-||convertfiles.com^$csp=script-src 'self' '*' 'unsafe-inline'
 ||convertflow.co^*/visitors/
 ||convertkit.com^*/visit
 ||convertmb.com^$popup
@@ -16512,6 +16517,7 @@ yydstxt*.com/js/html
 ||cryptowheel.net^$popup
 ||crystal-blocker.com^$popup
 ||crystalworldpakistan.com^
+||cs.zg-api.com^
 ||csaa-ig.com^
 ||csbdgef.com^
 ||csdcfvgf4.fun^
@@ -20239,6 +20245,7 @@ yydstxt*.com/js/html
 ||eweizaw.top^
 ||ewerertalpid.com^
 ||ewesmedia.com^$popup
+||ewgu.cn^
 ||ewhareey.com^$popup
 ||ewilmiw.top^
 ||ewogloarge.com^$popup
@@ -20465,6 +20472,7 @@ yydstxt*.com/js/html
 ||fadv.com^
 ||fafvvt.icu^
 ||fagrirtn.com^
+||fahwlqf37l.com^
 ||faidns.com^
 ||fairfax.com.au/js/track/
 ||faiverty-station.com^$popup
@@ -21748,7 +21756,6 @@ yydstxt*.com/js/html
 ||geinkroll.com^
 ||gekhasaks.com^
 ||gelbooru.com/extras/
-||gelbooru.com^$csp=script-src 'self' '*' 'unsafe-inline' *.gstatic.com *.google.com *.googleapis.com *.bootstrapcdn.com
 ||gemfowls.com^$popup
 ||gemoo-resource.com/js/analytics.js
 ||gemtracks.com^
@@ -22013,6 +22020,7 @@ yydstxt*.com/js/html
 ||githubusercontent.com/vip888vip/ug/main/*.gif
 ||givebacks.com^
 ||giverep.com^
+||giwl0p3gx7.com^
 ||gixmi.cn^
 ||gj.mmstat.com^
 ||gjinuqg.top^
@@ -22046,6 +22054,7 @@ yydstxt*.com/js/html
 ||glam.com^*/log.act?
 ||glamipixel.com^
 ||glamnetic.com^
+||glamorous-mail.com^$popup
 ||glanceagi.com^
 ||glancecdn.net^$third-party,domain=~glance.net
 ||glancetree.top^
@@ -22666,6 +22675,7 @@ yydstxt*.com/js/html
 ||gushiwen.org/getticket.aspx
 ||gusp.cn^
 ||gusspro.com^
+||guurniuvgo.com^
 ||guvupade.xyz^
 ||guxhag.com^
 ||guxidrookr.com^$popup
@@ -23343,6 +23353,7 @@ yydstxt*.com/js/html
 ||hl4pvqgbyt.com^
 ||hl7xqn.cn^
 ||hlbg811ic7en.com^
+||hllu.cn^
 ||hlogger.heraldcorp.com^
 ||hlowb.com^
 ||hlsdelivery.net^
@@ -24487,6 +24498,7 @@ yydstxt*.com/js/html
 ||indiatimes.com/toiads_
 ||indiefit.com^
 ||indiegalacdn.com^
+||indiegogo.com/speclayer/stdfp.js
 ||indifferentlanguages.com^
 ||indigobluesandco.com^
 ||indiscreetarcadia.com^$popup
@@ -24511,6 +24523,7 @@ yydstxt*.com/js/html
 ||infinityraine.com^
 ||infinityscans.net/api/collect
 ||inflectionquake.com^$popup
+||influ2.com/tracker?
 ||influglue.com^
 ||info-jerkroulette.com^
 ||info-milfme.com/landing/$popup
@@ -25771,6 +25784,7 @@ yydstxt*.com/js/html
 ||jzb.com/website/fe/pub_js/dbclickshow.js
 ||jzlwbao.cn^
 ||jznltf.cn^
+||jzq915.playmobil.com^
 ||jzzo.com/_ad
 ||k-dyn.com^
 ||k-tuin.com^
@@ -27512,6 +27526,7 @@ yydstxt*.com/js/html
 ||m51.icu^
 ||m5r.hoes.tube^
 ||m6d.icu^
+||m6d3h9vc3z.com^
 ||m6s4z7.cn^
 ||m7xssfiit.com^
 ||m8ryjf38a.com^
@@ -29940,6 +29955,8 @@ yydstxt*.com/js/html
 ||nzherald.co.nz/pf/resources/scripts/tracking/data-ref.js
 ||nzl09250oa.com^
 ||nzl09251oa.com^
+||nzl09260oa.com^
+||nzl09261oa.com^
 ||nzlelmarw.com^
 ||nzoj.cn^
 ||nzpages.co.nz/modules/common/track.js
@@ -30572,6 +30589,7 @@ yydstxt*.com/js/html
 ||otieu.com^
 ||otieu.com^$popup
 ||otimiyk.top^
+||otkwcg.icu^
 ||otlj.cn^
 ||otnbl.cn^
 ||otnolabttmup.com^$popup
@@ -31339,6 +31357,7 @@ yydstxt*.com/js/html
 ||pimpandhost.com/mikakoki/
 ||pimpandhost.com/site/trending-banners
 ||pimpandhost.com^$subdocument
+||pimuedrozt.com^
 ||pin-host.com^
 ||pin6d37stu.com^
 ||pinadmin.com^
@@ -31391,7 +31410,6 @@ yydstxt*.com/js/html
 ||pipwave.com^
 ||piraproxy.net^
 ||piratatunado.com^
-||pirateiro.com^$csp=script-src 'self' 'unsafe-inline' https://hcaptcha.com *.hcaptcha.com
 ||pireca.com^
 ||pirogad.tophosting101.com^
 ||pironet-ndh.com^
@@ -31435,6 +31453,7 @@ yydstxt*.com/js/html
 ||pixel.mtrcs.samba.tv^
 ||pixel.newscred.com^
 ||pixel.nine.com.au^
+||pixel.patch.com^
 ||pixel.pub.lilyai.net^
 ||pixel.redgifs.com^
 ||pixel.roymorgan.com^
@@ -32878,6 +32897,7 @@ yydstxt*.com/js/html
 ||quickgame7.top^
 ||quickmeme.com/tracker/
 ||quickreadpdf.com^
+||quickwittedfeedback.pro^$popup
 ||quietdate.com^
 ||quilladot.org^$popup
 ||quiltingboard.com^
@@ -38402,6 +38422,7 @@ yydstxt*.com/js/html
 ||tttppp.oss-cn-guangzhou.aliyuncs.com^
 ||tttt9659abc.com^
 ||ttunserver.com^
+||ttxjnt.icu^
 ||tu-zi.com^
 ||tu1500919341.cc^
 ||tu2024020388.com^
@@ -38890,6 +38911,7 @@ yydstxt*.com/js/html
 ||units.knotch.it^
 ||unity3d.com/v1/events
 ||universal.wgplayer.com^
+||universe7.top^
 ||universidadeuropea.com^
 ||universozelda.com^
 ||uniway.cn.com^
@@ -40101,6 +40123,7 @@ yydstxt*.com/js/html
 ||weathertrendanalysis.com^
 ||weaveradrenaline.com^$popup
 ||web-adblocker.com^$popup
+||web-beacon.starii-rover.com^
 ||web-guardian.xyz^$popup
 ||web-hosting.net.my/banner/
 ||web-lab5.com^
