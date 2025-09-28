@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202509271919
-! Last modified: 27 Sep 2025 19:19 UTC
+! Version: 202509281919
+! Last modified: 28 Sep 2025 19:19 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -8720,6 +8720,7 @@ yydstxt*.com/js/html
 ||3h3.com/js/listad.js
 ||3h3.com/js/show/
 ||3hads4i5hm.com^
+||3i3w8hl6do.com^
 ||3j0pw4ed7uac-a.akamaihd.net^
 ||3j1fiw14n9.com^
 ||3jjhh.com^
@@ -9466,6 +9467,7 @@ yydstxt*.com/js/html
 ||8wtkfxiss1o2.com^$popup
 ||8x14khzwmi.com^
 ||8x3wolchw.com^
+||8x5vviy4r2.com^
 ||8xly.cn^
 ||8y3j.cn^
 ||8yd2rtikkz.com^
@@ -15243,6 +15245,7 @@ yydstxt*.com/js/html
 ||chongsugy.com^
 ||choogeet.net^$popup
 ||chooncv.icu^
+||choosingoffer.lol^$popup
 ||chooxaur.com^$popup
 ||choppg.com^
 ||choppgapp.com^
@@ -15994,6 +15997,7 @@ yydstxt*.com/js/html
 ||colonistnobilityheroic.com^$popup
 ||colorfulpalette.net^
 ||colorweekly.com^
+||colossal-pathway.life^$popup
 ||colossalanswer.com^$popup
 ||columbus2024.com^
 ||colvk.viki.io^
@@ -16719,6 +16723,7 @@ yydstxt*.com/js/html
 ||d.ziyuanm.com^
 ||d0.xcar.com.cn^
 ||d0101bet.com^
+||d0i8m5ddv6.com^
 ||d0m.icu^
 ||d1.1ppt.com^
 ||d1.3158.cn^
@@ -18311,6 +18316,7 @@ yydstxt*.com/js/html
 ||dfidhqoaunepq.cloudfront.net^
 ||dfiqvf0syzl54.cloudfront.net^
 ||dfm7wh2x5l4za.cloudfront.net/script.js
+||dfmpe7igjx4jo.cloudfront.net^
 ||dfqcp2awt0947.cloudfront.net^
 ||dfsdk.com^
 ||dftoutiao.com/dfpcitv/pcitv?jsonpcallback=
@@ -18614,6 +18620,7 @@ yydstxt*.com/js/html
 ||dlayernet.xyz^
 ||dlazkindgt.net^
 ||dlconsulting.com^
+||dleicukp.com^
 ||dlem1deojpcg7.cloudfront.net^
 ||dlh8c15zw7vfn.cloudfront.net^
 ||dlig.cn^
@@ -20355,6 +20362,7 @@ yydstxt*.com/js/html
 ||extsoft.info^$popup
 ||exvl.cn^
 ||exx-stat.com^
+||exxtended-access.com^$popup
 ||ey43.com^$popup
 ||eyauknalyticafra.info^$popup
 ||eydvg8.com^
@@ -21680,6 +21688,7 @@ yydstxt*.com/js/html
 ||gaygo.tv/gtv/frms/
 ||gayjuice.com^
 ||gayleft.com^
+||gayporntube.com/spots.php?
 ||gayporntube.com^
 ||gays-cruising.com/nb/
 ||gaystream.pw/juicy.js
@@ -24590,6 +24599,7 @@ yydstxt*.com/js/html
 ||inone517.com^
 ||inoreader.com/adv/$domain=inoreader.com
 ||inouva.com^
+||inouva.com^$popup
 ||inovyo.com^
 ||inpagepush.com^$popup
 ||inphais.com^
@@ -26165,6 +26175,7 @@ yydstxt*.com/js/html
 ||klzfri.cn^
 ||km717.com^
 ||km777.xyz^
+||kmcjai.icu^
 ||kmf.com/da/do
 ||kmguol.com^
 ||kmhd.net^
@@ -27401,6 +27412,7 @@ yydstxt*.com/js/html
 ||luvaihoo.com^$popup
 ||luvvoice.com^
 ||luwebs.com^
+||luwkhuku.com^
 ||lux-ad.com^
 ||luxe-crc.com^
 ||luxetalks.com^$popup
@@ -28727,6 +28739,7 @@ yydstxt*.com/js/html
 ||mrkhub.com/sks/js/sks_track.js
 ||mrktmtrcs.net^
 ||mrlg6a.cn^
+||mrlxc51byo.com^
 ||mrmaple.com^
 ||mrmserve.com^
 ||mrskin.com/?_$popup
@@ -29555,6 +29568,7 @@ yydstxt*.com/js/html
 ||nicedramatv.com^
 ||nicelinks.site/ad-block-
 ||niceonesa.com^
+||nicerisle.com^$popup
 ||nicmusic.net^
 ||nicolethemathlady.com^
 ||nicolishop.com^
@@ -29968,6 +29982,8 @@ yydstxt*.com/js/html
 ||nzl09261oa.com^
 ||nzl09270oa.com^
 ||nzl09271oa.com^
+||nzl09280oa.com^
+||nzl09281oa.com^
 ||nzlelmarw.com^
 ||nzoj.cn^
 ||nzpages.co.nz/modules/common/track.js
@@ -30126,6 +30142,7 @@ yydstxt*.com/js/html
 ||ofvgctdxp.com^
 ||ofwq.cn^
 ||ogads-pa.googleapis.com^
+||ogbt4k.site^
 ||ogee.gyimieblockers.biz^
 ||ogfvadunon.com^
 ||oggsk.com^
@@ -30588,6 +30605,7 @@ yydstxt*.com/js/html
 ||ossshucklean.com^$popup
 ||ostellidellagioventu.com^
 ||ostlon.com^$popup
+||osxl.cn^
 ||otaghak.com^
 ||otcash.com/images/
 ||otel-mobile.doordash.com^
@@ -32094,6 +32112,7 @@ yydstxt*.com/js/html
 ||primeearn.com^
 ||primegrid.com^
 ||primeobg.com^
+||primeos.in/wp-content/uploads/*/sidebar-ad.png
 ||primer.typekit.net^$xmlhttprequest
 ||princesinistervirus.com^$popup
 ||princesspinkygirl.com^
@@ -33371,6 +33390,7 @@ yydstxt*.com/js/html
 ||redirect41.net^
 ||redirect52.net^
 ||redirectify.app/script_tags/tracking.js
+||redirecting.online^$popup
 ||redirectingat.com^$popup
 ||redirectland.com^
 ||redirectoff.com^
@@ -38895,6 +38915,7 @@ yydstxt*.com/js/html
 ||uncocolers.com^
 ||unconscious-long.com^
 ||uncoverwords.com^
+||undergoon.com^
 ||understandinstalledalfred.com^
 ||underwriting.allclassical.org/player-banners/
 ||undm.qibulo.com^
@@ -40767,6 +40788,7 @@ yydstxt*.com/js/html
 ||wtbevents.pricespider.com^
 ||wtg-ads.com^
 ||wthizudgdg.com^
+||wthrarner.com^
 ||wtqiutfllv.net^
 ||wtr-digital-analytics.ew.r.appspot.com^
 ||wtrotilloye.com^
@@ -41233,6 +41255,7 @@ yydstxt*.com/js/html
 ||xmlppc.net^
 ||xmlppcbuzz.com^
 ||xmlrtb.com^$popup
+||xmpzln.icu^
 ||xmrc.com.cn/net/info/html/
 ||xmrchain.net^
 ||xmshengchao.com^
@@ -41871,12 +41894,15 @@ yydstxt*.com/js/html
 ||youtube-nocookie.com/robots.txt?
 ||youtube-nocookie.com/youtubei/v1/log_event?
 ||youtube.com/api/stats/ads?
+||youtube.com/api/stats/atr?ns=*&ver=2&cmt=1.*&fs=0&*&euri&lact=
+||youtube.com/api/stats/qoe?*page&ns=yt&fexp=v1%*&event=streamingstats&
 ||youtube.com/embed/c-idzdvig1y$domain=biznews.com
 ||youtube.com/embed/wqlwtenbeeq?
 ||youtube.com/get_video?
 ||youtube.com/iframe_api$domain=nownews.com
 ||youtube.com/pagead/
 ||youtube.com/pcs/activeview?
+||youtube.com/ptracking?html5=1&video_id=*&cpn=*&ei=*&ptk=youtube_*&pltype=content
 ||youtube.com/set_awesome?
 ||youtube.com/youtubei/v1/log_event?
 ||youtube.com/youtubei/v1/player/ad_break
