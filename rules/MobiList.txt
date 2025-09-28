@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202509281919
-! Last modified: 28 Sep 2025 19:19 UTC
+! Version: 202509282057
+! Last modified: 28 Sep 2025 20:57 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2120,6 +2120,7 @@ $webrtc,domain=ack.net|allthetests.com|champion.gg|clicknupload.link|colourlover
 /daocaoren*.gif|$image
 /daocaoren*.jpg|$image
 /data/cache/myad-
+/data/stat.php?*&referer_host=
 /data_collect.js
 /datacollectionapi-client/index.js
 /dataunlocker-prod.js
@@ -11698,6 +11699,7 @@ yydstxt*.com/js/html
 ||analytics.tv189.cn^
 ||analytics.unibuddy.co^
 ||analytics.unilogcorp.com^
+||analytics.usnupjhh.v2008.coreserver.jp^
 ||analytics.vanillaforums.com^
 ||analytics.vdo.ai^
 ||analytics.vedantu.com^
@@ -14907,6 +14909,7 @@ yydstxt*.com/js/html
 ||cdnads.geeksforgeeks.org^
 ||cdnativepush.com^$popup
 ||cdnaz.win/pop-ad.js
+||cdnboostcache.com^
 ||cdncg.com^*/aepku
 ||cdncg.com^*/fcpxku.
 ||cdncg.com^*/kangmey
@@ -15934,7 +15937,6 @@ yydstxt*.com/js/html
 ||collatery.com^
 ||collect-ap2.attraqt.io^
 ||collect-eu.attraqt.io^
-||collect-v6.51.la^
 ||collect.air1.com^
 ||collect.alipay.com^
 ||collect.alphastream.io^
@@ -26834,6 +26836,7 @@ yydstxt*.com/js/html
 ||lilinstall11x.com^$popup
 ||lillypatientesign.com^
 ||lilstts.com^
+||limbecculvers.com^
 ||limbik.com/static/tracking-script.js
 ||limitedbrands.com^
 ||limitlessaerospace.com^
@@ -28285,6 +28288,7 @@ yydstxt*.com/js/html
 ||midifan.com/aaa/
 ||miefow.icu^
 ||miemiedns.com^
+||mifapxodvwa.com^
 ||mifengtd.cn/ad-
 ||migadu.com^
 ||might777.com^
@@ -35947,6 +35951,7 @@ yydstxt*.com/js/html
 ||stat.zol.com.cn^
 ||stat24.com^
 ||statbroadcast.com^
+||statcounter.com^
 ||statdb.pressflex.com^
 ||statdynamic.com^
 ||statemindpath.com^
