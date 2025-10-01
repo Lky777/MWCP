@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202509301922
-! Last modified: 30 Sep 2025 19:22 UTC
+! Version: 202510011459
+! Last modified: 01 Oct 2025 14:59 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2268,7 +2268,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|xyg688.xyz|zz
 /elqscr.js
 /elt.gif?
 /eluminate?
-/email-decode.min.js
 /email/track/*$image
 /email/tracking?
 /email_opened_tracking_pixel?
@@ -8607,6 +8606,7 @@ yydstxt*.com/js/html
 ||321.jintang114.org^
 ||321mh.com/v1/getadvertise?
 ||321watch.com^
+||32876879qxt.com^
 ||32n.icu^
 ||32p31o.cn^
 ||32xp.com/upimg/
@@ -9882,6 +9882,7 @@ yydstxt*.com/js/html
 ||a1tb.com/300x250$subdocument
 ||a2.consoletarget.com^
 ||a2.xinhuanet.com^
+||a2424xe80.com^
 ||a26e7i.cn^
 ||a2develop.com^
 ||a2kqqw7d.com^
@@ -13623,7 +13624,6 @@ yydstxt*.com/js/html
 ||bf99.com/user*/ad_
 ||bf99.com/user/images/bg_blued.jpg
 ||bfa.com^
-||bfbfhao.com^
 ||bfgpk.cn^
 ||bfgqk.cn^
 ||bfhdk.cn^
@@ -14653,6 +14653,7 @@ yydstxt*.com/js/html
 ||bzdiao.com/wp-content/uploads/bhocwjfylefc/
 ||bzhanyy.com^*.gif
 ||bzkmqr6vo4.com^
+||bzlmtuniv.com^
 ||bznrgxkyw.com^
 ||bzo6m8.cn^
 ||bzpics.com/jslib/st.js?
@@ -16852,6 +16853,7 @@ yydstxt*.com/js/html
 ||cuffinliever.shop^$popup
 ||cuglb.cn^
 ||cui3875.xyz^
+||cukeonelo.com^
 ||cukuix.com^
 ||cullemple-motline.com^$popup
 ||cullsweep.com^
@@ -18334,6 +18336,7 @@ yydstxt*.com/js/html
 ||ddooo.com/ddshow/$script
 ||ddosjq.xyz^
 ||ddow.cn^
+||ddrqd9eox.com^
 ||ddrvjrfwnij7n.cloudfront.net^
 ||ddshu.net/a_d_code/
 ||ddu351.com^
@@ -21680,6 +21683,7 @@ yydstxt*.com/js/html
 ||funeraltimes.com/images/banner-ad
 ||funk.net^
 ||funkydaters.com^$popup
+||funlight133.top^
 ||funmatrix.net^$popup
 ||funmora.com^
 ||funnyclick.top^
@@ -23721,6 +23725,8 @@ yydstxt*.com/js/html
 ||hlbg811ic7en.com^
 ||hlgdi.cn^
 ||hlgjn.cn^
+||hlj10010ip.com^
+||hlj10011ip.com^
 ||hllu.cn^
 ||hlogger.heraldcorp.com^
 ||hlowb.com^
@@ -24763,6 +24769,7 @@ yydstxt*.com/js/html
 ||imgdb.cn/item/6098ab56d1a9ae528f16192c.jpg
 ||imgdb.cn/item/66a73333d9c307b7e9dbb6ef.jpg
 ||imgdb.cn^$domain=m4ff.com
+||imgdd.cc^
 ||imgderviches.work/exclusive/bayou_
 ||imgdrive.net/a78bc9401d16.js
 ||imgdrive.net/anex/
@@ -29512,6 +29519,7 @@ yydstxt*.com/js/html
 ||mxradon.com^
 ||mxvl.cn^
 ||mxzmz.com/js/
+||mxzqocie.com^
 ||my-promo7.com^$popup
 ||my-rudderjolly.com^$popup
 ||my.007moms.com^
@@ -30611,6 +30619,8 @@ yydstxt*.com/js/html
 ||nzl09290oa.com^
 ||nzl09291oa.com^
 ||nzl09301oa.com^
+||nzl10010oa.com^
+||nzl10011oa.com^
 ||nzlelmarw.com^
 ||nzoj.cn^
 ||nzpages.co.nz/modules/common/track.js
@@ -31395,6 +31405,7 @@ yydstxt*.com/js/html
 ||oxinst.com^
 ||oxjb.cn^
 ||oxkrcrlw.com^
+||oxozgy.icu^
 ||oxpgm.cn^
 ||oxtsale1.com^$popup
 ||oxtsale2.com^
@@ -32828,6 +32839,7 @@ yydstxt*.com/js/html
 ||prmtracking.com^
 ||prmtracking.com^$popup
 ||pro-adblocker.com^$popup
+||pro-market.net^
 ||pro-touring.com^
 ||pro.iweihai.cn^
 ||pro34.com^
@@ -33119,6 +33131,7 @@ yydstxt*.com/js/html
 ||push-sense.com^$popup
 ||push.zhanzhang.baidu.com/push.js
 ||push1000.top^$popup
+||pushbullet.com^
 ||pushclk.com^$popup
 ||pushcloud.net^
 ||pushking.net^$popup
@@ -33632,6 +33645,7 @@ yydstxt*.com/js/html
 ||qshs6a.cn^
 ||qsko05060mas.com^
 ||qsko05061mas.com^
+||qslhdidxkazlzuuelsz.top^
 ||qsnct.cn^
 ||qsoc.cn^
 ||qsptv.com/tpl/newstyle/js/extension.js
@@ -34975,6 +34989,7 @@ yydstxt*.com/js/html
 ||s.yimg.com/zh/mrr/$image,domain=mail.yahoo.com
 ||s.yimg.com^*/flash_general_$domain=~tw.yahoo.com
 ||s.zixuntop.com^
+||s06g9qvr5.com^
 ||s0cial.com^
 ||s0cool.net^$popup
 ||s0drxaq4v7.com^
@@ -35882,6 +35897,7 @@ yydstxt*.com/js/html
 ||simplertrading.com^
 ||simplethai.net^
 ||simplexonflux.com^
+||simpli.fi^
 ||simply-hentai.com/prod/
 ||simplystaking.xyz^
 ||simptrack.com^
@@ -36711,6 +36727,7 @@ yydstxt*.com/js/html
 ||staketr.com^
 ||stakingdefenseleague.com^
 ||stamenbs4.com^
+||stamina4.top^
 ||stammerail.com^$popup
 ||stan.xing.com^
 ||standx.com^
@@ -38209,11 +38226,9 @@ yydstxt*.com/js/html
 ||thisiswhyimbroke.com/api/user/tracking
 ||thisisyourprize.site^$popup
 ||thisvid.com/enblk/
-||thjpg10.top^
 ||thk4.com^
 ||thljnv.top^
 ||thlro.cn^
-||thm3u8.com^
 ||thnqemehtyfe.com^$popup
 ||thobits.com^
 ||thofteert.com^$popup
@@ -38408,6 +38423,7 @@ yydstxt*.com/js/html
 ||tk.504pk.com^
 ||tk.pathmonk.com^
 ||tk4orh.cn^
+||tkij.cn^
 ||tkiteri.top^
 ||tklygbyaro.net^
 ||tktube.com/adlib/
@@ -39535,6 +39551,7 @@ yydstxt*.com/js/html
 ||tx99y.net^
 ||txahz.com/static/image/tp/
 ||txbgcd1is.com^
+||txbptd.icu^
 ||txczm.cn^
 ||txfund.com^
 ||txjnd2940637fafa.com^
@@ -39631,6 +39648,7 @@ yydstxt*.com/js/html
 ||u652.myplainview.com^
 ||u6u.icu^
 ||u6zsr2xn1.com^
+||u7em9v4hp.com^
 ||u7wnylbb28.top^
 ||u7y.pw^
 ||u83.xyz^
@@ -41566,6 +41584,7 @@ yydstxt*.com/js/html
 ||wiwide.com^
 ||wiwyo988.com^
 ||wixlabs-adsense-v3.uc.r.appspot.com^
+||wixstatic.com^
 ||wiz3.cn^
 ||wizardscharityvisa.com^$popup
 ||wizslots.com*&utm_campaign=$popup
@@ -42064,6 +42083,7 @@ yydstxt*.com/js/html
 ||xanhadeattaniceeatgapfog.com^
 ||xanimu.com/prerolls/
 ||xapads.com^
+||xapi.juicyads.com^
 ||xapu7phoge.com^
 ||xaqnbj.cn^
 ||xarvilo.com^$popup
