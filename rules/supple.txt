@@ -1,5 +1,6 @@
 ! .A1
 ||18hu.link^
+||32876879qxt.com^
 ||333wy333bb.com^
 ||666834.xyz^
 ||7926ccc537.com^
@@ -24,10 +25,12 @@
 ||fgtisiq.com^
 ||fotoimatge.com^
 ||frawarehou.rest^
+||funlight133.top^
 ||guz4t1.com^
 ||guizuren.com^
 ||hfizzakurv.com^
 ||img6890937840.com^
+||imgdd.cc^
 ||impression-sync.xyz^
 ||jakyaqu.xyz^
 ||kjgbyn.com^
@@ -40,6 +43,7 @@
 ||mirakdunes.com^
 ||moujiksverve.shop^
 ||muermoabject.shop^
+||mxzqocie.com^
 ||nudiebutin.click^
 ||ojamrej.com^
 ||promptsgod.com^
@@ -68,6 +72,7 @@
 ||cdnboostcache.com^
 ||clarity.ms^
 ||jads.co^
+||simpli.fi^
 ||xn--gps-8y0gm25n.xn--55qx5d^
 
 ! .B
@@ -109,7 +114,6 @@
 /ad.js
 /cdn-cgi/speculation
 /clarity.js
-/email-decode.min.js
 /js/adminlte.min.js
 /js/zzz.js
 /load.gif
