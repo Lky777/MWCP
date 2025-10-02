@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202510011921
-! Last modified: 01 Oct 2025 19:21 UTC
+! Version: 202510021920
+! Last modified: 02 Oct 2025 19:20 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -18380,6 +18380,7 @@ yydstxt*.com/js/html
 ||dedating.online^$popup
 ||deductgreedyheadroom.com^
 ||deebcards-themier.com^$popup
+||deemainunh.com^
 ||deepaichats.com^
 ||deeperhundredpassion.com^$popup
 ||deepl.com/web/statistics
@@ -18746,6 +18747,7 @@ yydstxt*.com/js/html
 ||dirty-tinder.com^$popup
 ||dirtyvideo.fun/js/script_
 ||discadia.com^
+||discards55.com^
 ||discoveborn.com^
 ||discover-metrics.cloud.seek.com.au^
 ||discoverdirectly.com^
@@ -23727,6 +23729,8 @@ yydstxt*.com/js/html
 ||hlgjn.cn^
 ||hlj10010ip.com^
 ||hlj10011ip.com^
+||hlj10020ip.com^
+||hlj10021ip.com^
 ||hllu.cn^
 ||hlogger.heraldcorp.com^
 ||hlowb.com^
@@ -24336,6 +24340,7 @@ yydstxt*.com/js/html
 ||iask.cn^*model.
 ||iask.sina.com.cn/s-b/mxbg
 ||iaumyc.icu^
+||iauw.cn^
 ||iaxmmw9fbx.com^
 ||iayba.cn^
 ||iayvm.cn^
@@ -27073,6 +27078,7 @@ yydstxt*.com/js/html
 ||lawwwing.com^
 ||layboard.com^
 ||layuicdn.com/layer/layer.js$domain=hanjutvn.com
+||layuion.com/get/showcase/
 ||lazada-seller.cn^
 ||lazybot-autotrading-api-v1.com^
 ||lazzrv.icu^
@@ -29064,6 +29070,7 @@ yydstxt*.com/js/html
 ||mneuxhjeuvrk.com^
 ||mng-ads.com^
 ||mnks.cn/jk/appad_
+||mnkusi.icu^
 ||mnmnck.com^
 ||mnnbbj714.com^
 ||mnnmnn.com^
@@ -31491,6 +31498,7 @@ yydstxt*.com/js/html
 ||p4p.sina.com.cn^
 ||p70y44odg.com^
 ||p72kzgl.com^
+||p7d3miyh2q.com^
 ||p7jroq6xco.com^
 ||p8sx14.cn^
 ||p8u.hinet.net^
@@ -33471,6 +33479,7 @@ yydstxt*.com/js/html
 ||qiyukf.com/webda/da.gif$domain=youdao.com
 ||qiyun.org/images/js/*.htm
 ||qizhihaotian.com^*.js
+||qj9m4nou8t.com^
 ||qjemqa.cn^
 ||qjimtyy.top^
 ||qjlo.cn^
@@ -34593,6 +34602,7 @@ yydstxt*.com/js/html
 ||rntxe.cn^
 ||rnwenpn.icu^
 ||rnxdkjjtar.net^
+||rnxhdv.icu^
 ||ro.aiwan4399.com^
 ||roadcontagion.com^$popup
 ||roaddataay.live^$popup
@@ -35125,6 +35135,7 @@ yydstxt*.com/js/html
 ||santillanacompartir.com^
 ||saohu*.com/config/json/cctv.json?
 ||sapi.tremendous.com^
+||saptuqse29.com^
 ||sarcasmadvisor.com^$popup
 ||sasadown.cn/source/plugin/drk_ledadv/
 ||sascdn.com/config.js
@@ -37507,6 +37518,7 @@ yydstxt*.com/js/html
 ||syteapi.com/et?
 ||syys89.com^
 ||syzjxz2018.cn^
+||sz2xlvu6jq.com^
 ||sz88.oss-cn-shenzhen.aliyuncs.com^
 ||szaction.cc/public/*/assets/js/custom/tt.
 ||szaction.cc/public/*/plugins/
@@ -39266,6 +39278,7 @@ yydstxt*.com/js/html
 ||trumparea.com/_adz/
 ||trumpfanalytics.com^
 ||truncatedactivitiplay.xyz^
+||trundrak.com^
 ||trungtamytemtldct.com^
 ||trusa.xyz^
 ||trusco-sterra2.com^
@@ -43053,7 +43066,6 @@ yydstxt*.com/js/html
 ||youtube-nocookie.com/robots.txt?
 ||youtube-nocookie.com/youtubei/v1/log_event?
 ||youtube.com/api/stats/ads?
-||youtube.com/api/stats/atr?ns=*&ver=2&cmt=1.*&fs=0&*&euri&lact=
 ||youtube.com/api/stats/qoe?*page&ns=yt&fexp=v1%*&event=streamingstats&
 ||youtube.com/embed/c-idzdvig1y$domain=biznews.com
 ||youtube.com/embed/wqlwtenbeeq?
