@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202510021920
-! Last modified: 02 Oct 2025 19:20 UTC
+! Version: 202510031919
+! Last modified: 03 Oct 2025 19:19 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -9610,6 +9610,7 @@ yydstxt*.com/js/html
 ||92c9yq.cn^
 ||92dp.com/home/showga?
 ||92ghai.com/zz/
+||92hjv5r20.com^
 ||92orb.com^
 ||933m.com/1.js
 ||93692zubo66936.com^
@@ -21488,7 +21489,6 @@ yydstxt*.com/js/html
 ||fragment.firefoxchina.cn/html/
 ||fralstamp-genglyric.icu^$popup
 ||frame.enet.com.cn/a.php
-||frameperfect.speedrun.com^
 ||framer.app^$domain=film-grab.com
 ||frameratetech.com^
 ||framercanvas.com^
@@ -22190,6 +22190,7 @@ yydstxt*.com/js/html
 ||getmozo.com^
 ||getmyads.com^$popup
 ||getmysocial.com^
+||getnodejs.com/add-event/
 ||getpdfreader.com^
 ||getpocket.com/web-utilities/public/static/te.js
 ||getpos.de/ext/
@@ -23731,6 +23732,8 @@ yydstxt*.com/js/html
 ||hlj10011ip.com^
 ||hlj10020ip.com^
 ||hlj10021ip.com^
+||hlj10030ip.com^
+||hlj10031ip.com^
 ||hllu.cn^
 ||hlogger.heraldcorp.com^
 ||hlowb.com^
@@ -25081,6 +25084,7 @@ yydstxt*.com/js/html
 ||insteadectoderm.com^
 ||instradns.com^
 ||instructables.com/counter
+||instrument95.com^
 ||instrumentl.com^
 ||insurads.com^
 ||insuranceaum.com^
@@ -26216,7 +26220,6 @@ yydstxt*.com/js/html
 ||junk-call.com^
 ||junk-eraser.com^
 ||junkerasertret.com^
-||junkrat-tire.overbuff.com^
 ||junkyadexchange.com^$popup
 ||junmediadclikrmdi.com^$popup
 ||juno.com/start/javascript.do?message=
@@ -26545,6 +26548,7 @@ yydstxt*.com/js/html
 ||kggdi.cn^
 ||kgimg.com/public/root//images/hardware.jpg
 ||kgium2940637fafa.com^
+||kgoj4nrhe.com^
 ||kgoma.com/v1/stat/
 ||kgorilla.net^$popup
 ||khabarfarsi.com^
@@ -26621,7 +26625,6 @@ yydstxt*.com/js/html
 ||kitchenstuffplus.com^
 ||kitchiepreppie.com^$popup
 ||kitco.com/jscripts/popunders/
-||kitsune-rush.overbuff.com^
 ||kittyfunny.com^
 ||kityc.cn^
 ||kitz.co.uk/files/jump2/
@@ -26794,6 +26797,7 @@ yydstxt*.com/js/html
 ||kqbd.com^
 ||kqbyy.cn^
 ||kqefj.clearstem.com^
+||kqgmea.icu^
 ||kqgn.cn^
 ||kqp1rg.cn^
 ||kqpez.cn^
@@ -28049,6 +28053,7 @@ yydstxt*.com/js/html
 ||lynfp.cn^
 ||lyngsat.com/system/loadclick.js
 ||lynkco.com^
+||lyo1dkdbp.com^
 ||lyricsgem.com^
 ||lyrus.cn^
 ||lysq.com/data/attachment/portal/
@@ -28588,6 +28593,7 @@ yydstxt*.com/js/html
 ||media-serving.com^$popup
 ||media.$third-party,script,subdocument,domain=~ted.com
 ||media.io/trk
+||media.max.com/*/dash.mpd^$domain=cnn.com
 ||media.netrefer.com^
 ||media.tickertape.in/websdk/*/ad.js
 ||media.vivaclix.com^
@@ -31207,6 +31213,7 @@ yydstxt*.com/js/html
 ||orbitpgpay.com^
 ||orbitpgpay1.com^
 ||orbitphonemmr.net^
+||orbk.cn^
 ||orbnet.xyz^
 ||orbsrv.com^
 ||orchidcommerce.com^
@@ -31371,6 +31378,7 @@ yydstxt*.com/js/html
 ||ovdimin.buzz^$popup
 ||oveakmqk.com^
 ||oveneringthfic.com^
+||overbuff.com/cargo.js
 ||overcrowdsillyturret.com^$popup
 ||overdates.com^
 ||overlandbound.com^
@@ -33255,6 +33263,7 @@ yydstxt*.com/js/html
 ||q1bp.icu^
 ||q1nxf2.cn^
 ||q1p47e.cn^
+||q29k22vpu.com^
 ||q2fwgl4q8.com^
 ||q2usj.icu^
 ||q2vwkv.cn^
@@ -36029,6 +36038,7 @@ yydstxt*.com/js/html
 ||sj04d8.cn^
 ||sjbaiduadv1.redou.com^
 ||sjc.cloud.optable.co^
+||sjhgfrvbxrbbr.com^
 ||sjimtyb.top^
 ||sjjpd.com^
 ||sjkxta.cn^
@@ -36518,6 +36528,7 @@ yydstxt*.com/js/html
 ||speednetwork14.com^$popup
 ||speedonline.xyz^
 ||speedostream1.com^
+||speedrun.com/bluepill.js
 ||speedsupermarketdonut.com^$popup
 ||speedtest.cn/api/v2/show
 ||speedtest.cn/assets/images/ce_
@@ -40059,9 +40070,7 @@ yydstxt*.com/js/html
 ||urgayporn.com/bn/
 ||urkt.cn^
 ||urkyrv.cn^
-||url.rw/*&a=
 ||url.rw/*&a=$popup
-||url.rw/*&mid=
 ||url.rw/*&mid=$popup
 ||urmombl.com^
 ||uroha.cn^
@@ -41102,6 +41111,7 @@ yydstxt*.com/js/html
 ||warpleswabian.top^
 ||warriorplus.com^
 ||warriortrading.com^
+||warthog4.top^
 ||wasanasosettoou.org^$popup
 ||wasm.stream
 ||wasqimet.net^$popup
@@ -42438,6 +42448,7 @@ yydstxt*.com/js/html
 ||xqoh.cn^
 ||xqrydt.icu^
 ||xqsvk.cn^
+||xqtcpf.icu^
 ||xrares.com/xopind.js
 ||xrdbr.cn^
 ||xriis2940637fafa.com^
@@ -42758,6 +42769,7 @@ yydstxt*.com/js/html
 ||ybrvrws2p9.com^
 ||ybsll.cn^
 ||ybtqf.cn^
+||ybuneloeh.com^
 ||ycbez.cn^
 ||yccz.net/xml/
 ||ych.asia^
