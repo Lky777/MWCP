@@ -173,6 +173,9 @@ a2zapk.io###modalpop-content
 ||bad.news/images/lightbox-blank.gif
 bad.news##.download-app-fixed
 
+! baidu
+/tb/img/track.gif
+
 ! bilibili
 m.bilibili.com##.fixed-openapp
 
