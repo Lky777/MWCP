@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202510031919
-! Last modified: 03 Oct 2025 19:19 UTC
+! Version: 202510040549
+! Last modified: 04 Oct 2025 05:49 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -4770,6 +4770,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|xyg688.xyz|zz
 /tatari-shopify/tracker-snippet-latest.min.js
 /tb/_/video_frs_head_
 /tb/img/hg/hg.gif?
+/tb/img/track.gif
 /tb_360$subdocument
 /tc-ad.
 /tc.js|$script
@@ -7768,7 +7769,6 @@ yydstxt*.com/js/html
 |data:text$popup,domain=~clker.com
 |data:text/plain$popup,domain=music.163.com
 |dddata:text$popup
-|getmodsapk.com/cloudflare/ads-images/
 |http*://*?$popup,domain=forums.socialmediagirls.com|pornhub.com|redtube.com|tube8.com|youporn.com|youporngay.com
 |http:$script,subdocument,domain=dlkoo.cc
 |http://*.hk/ad/$domain=~sunmobile.com.hk
@@ -8039,11 +8039,9 @@ yydstxt*.com/js/html
 ||122911.xyz^
 ||123-stream.org^
 ||123-stream.org^$popup
-||123.manga1001.top^
 ||123.sogou.com/discover/?
 ||123456.asia^
 ||123923898.com^
-||123animehub.cc/final
 ||123cha.com/counter.js
 ||123jscdn.com^
 ||123movies.ai/sab_
@@ -8068,9 +8066,6 @@ yydstxt*.com/js/html
 ||130.211.$popup,domain=~in-addr.arpa
 ||131458.com/union/
 ||1328f.com/js/jquery.js
-||1337x.*/images/x28.jpg
-||1337x.*/images/x2x8.jpg
-||1337x.to/js/vpn.js
 ||1342a.com/js/jquery.js
 ||138vps.com/image/
 ||1391bets10.com^
@@ -8223,7 +8218,6 @@ yydstxt*.com/js/html
 ||188.42.84.23^$popup
 ||188soft.com/js/pcsoftdetailad.js
 ||189.cn/dns/
-||18adultgames.com/wp-content/litespeed/js/aa3f90c531904167b7dd98e25ff48b2b.js
 ||18avday.*/aa/
 ||18bidibidi.net^
 ||18comic.*/media/albums/*?$media
@@ -8264,6 +8258,7 @@ yydstxt*.com/js/html
 ||1empb6.cn^
 ||1f0l.top^
 ||1gmzo.icu^
+||1gp3p6fkio.com^
 ||1gtp.icu^
 ||1h4ujv.cn^
 ||1i63li.cn^
@@ -8539,6 +8534,7 @@ yydstxt*.com/js/html
 ||2hl.fun^
 ||2hukzz.cn^
 ||2hy12x.cn^
+||2i0lliongn.com^
 ||2i5xyq.cn^
 ||2j8ag6.cn^
 ||2kandy.com/js/123/
@@ -8556,7 +8552,6 @@ yydstxt*.com/js/html
 ||2mjl16.cn^
 ||2mlu4u.cn^
 ||2mn4c3.cn^
-||2oceansvibe.com/?custom=takeover
 ||2osq127yy.com^
 ||2oyg3v.cn^
 ||2q7iok.cn^
@@ -8866,7 +8861,6 @@ yydstxt*.com/js/html
 ||4dsply.com^$popup
 ||4e4356b68404a5138d2d-33393516977f9ca8dc54af2141da2a28.ssl.cf1.rackcdn.com/sa7d76sa/
 ||4e9ynqm47d.com^
-||4f.to/spns/
 ||4f3tsea1m.com^
 ||4fptsi5zxo.com^
 ||4fr.icu^
@@ -9983,7 +9977,6 @@ yydstxt*.com/js/html
 ||abcdcfasda.gushiwen.cn^
 ||abcfws.com^
 ||abcj.dooccn.com^
-||abcnews.com/assets/js/adcalloverride.js
 ||abczxw.com/skin/bbb/pc/js/bd.js
 ||abdadv.com^
 ||abdd*.com/js/abc/
@@ -10007,7 +10000,6 @@ yydstxt*.com/js/html
 ||abo2sadam.net^
 ||abody.39.net^
 ||about.me/track?
-||aboutmyarea.co.uk/images/imgstore/
 ||aboutyoublog.com^
 ||above.tw/blog/wp-content/plugins/popups/public/assets/js/public.js
 ||aboveredirect.top^$popup
@@ -10577,7 +10569,6 @@ yydstxt*.com/js/html
 ||adpt-tech.com^
 ||adpumb.com^
 ||adpushup.com^
-||adrama.to/bbb.php
 ||adrcdn.com^
 ||adreactor.com^$popup
 ||adrealclick.com^$popup
@@ -11000,7 +10991,6 @@ yydstxt*.com/js/html
 ||afocus.com.cn/s?
 ||afodreet.net^$popup
 ||afp.chinanews.com^
-||afr.com/assets/europa.
 ||afrdtech.com^
 ||afreespace.com^
 ||afrhwdumolf.com^
@@ -11107,7 +11097,6 @@ yydstxt*.com/js/html
 ||ailoadbalancer.com^
 ||aim.cloudflare.com/__log
 ||aimarx.com^
-||aimclicks.com/layerad.js
 ||aimging.com^$popup
 ||aimtcl.com^
 ||aimukreegee.net^$popup
@@ -11440,11 +11429,8 @@ yydstxt*.com/js/html
 ||alljapanesepass.com/ascripts/gcu.js
 ||alljapanesepass.com/rstat
 ||allkeyshop.com/analytics/script.js
-||allkeyshop.com/blog/wp-content/uploads/*sale$image
-||allkeyshop.com/blog/wp-content/uploads/allkeyshop_background_
 ||allkmbr.icu^
 ||alllocaljobs.com^
-||allmonitors24.com/ads-
 ||allover.top^
 ||allow-to-continue.com^$popup
 ||alloy.com^
@@ -11565,7 +11551,7 @@ yydstxt*.com/js/html
 ||amazonaws.com/storejs/a/jkrhrqg/ge.js
 ||amazonaws.com/v1/apps/*/events
 ||amazonaws.com/webengage-files/
-||amazonaws.com^$domain=downloadpirate.com|hexupload.net|krunkercentral.com|megaup.net|rexdlbox.com|uploadhaven.com
+||amazonaws.com^$domain=hexupload.net|megaup.net|uploadhaven.com
 ||amazonaws.com^*/prod_analytics
 ||amazononline.xyz/mp4/*.mp4$rewrite=abp-resource:blank-mp3,domain=iyingshi7.tv|localmv1.com
 ||amazonpay.com/customerinsight?
@@ -11574,14 +11560,11 @@ yydstxt*.com/js/html
 ||ambiliarcarwin.com^$popup
 ||ambslot-api.com^
 ||ambuizeler.com^$popup
-||amcdn.co.za/scripts/javascript/dfp.js
 ||amelatrina.com^$popup
 ||amentum.com^
 ||americanexpress.com/beacon
 ||americanlighting.com^
 ||americanlisted.com^
-||americanlookout.com////
-||americanlookout.com/29-we/
 ||americanpridedaily.com^
 ||americanstrategic.com^
 ||americasurveys.com^
@@ -11932,13 +11915,11 @@ yydstxt*.com/js/html
 ||anhuinews.com/zhuyeguanli/*ad/
 ||anijb.cn^
 ||aniltramps.top^$popup
-||animationmagazine.net/wordpress/wp-content/uploads/twr_am_
 ||anime-tooon.com^
 ||animeforum.com^
 ||animeland.tv/zenny/
 ||animeloundry.com^$popup
 ||animemeat.com^$popup
-||anisearch.com/amazon
 ||anixmirai.com^
 ||anixwallpaper.com^$csp=script-src 'self' * 'unsafe-inline'
 ||anjuke.com^*/ajax/business_area_search/
@@ -15614,6 +15595,7 @@ yydstxt*.com/js/html
 ||cl.canva.com^
 ||cl.t3n.de^
 ||claimexercise.com^
+||clammy88.com^
 ||clanbeauty.com^
 ||clanexf.com^
 ||clanker-events.squarespace.com^
@@ -15902,7 +15884,7 @@ yydstxt*.com/js/html
 ||cloudfront.net/vis_opt_no_jquery.js
 ||cloudfront.net/websites/sb.js
 ||cloudfront.net/zephyr.js
-||cloudfront.net^$domain=rexdlbox.com|titantv.com
+||cloudfront.net^$domain=buffsports.io|fbstreams.pm|megaup.net|rexdlbox.com|titantv.com
 ||cloudfront.net^*.bmp?
 ||cloudfront.net^*/sponsors/$domain=pbs.org
 ||cloudfunctions.net/commonbonnierdatalayer
@@ -16074,23 +16056,6 @@ yydstxt*.com/js/html
 ||cnwnews.com/templets/images/artpangu.gif
 ||cnwnews.com/templets/images/jccf
 ||cnwuamf.top^
-||cnx-software.com/wp-content/uploads/*/cexpress-asl-com-express-amston-lake-module.webp
-||cnx-software.com/wp-content/uploads/*/embeddedts-ts-7180-embedded-sbc.webp
-||cnx-software.com/wp-content/uploads/*/forlinx-nxp-system-on-modules.webp
-||cnx-software.com/wp-content/uploads/*/gateworks-rugged-industrial-iot.webp
-||cnx-software.com/wp-content/uploads/*/graperain-samsun-rockchip-qualcomm-system-on-modules.webp
-||cnx-software.com/wp-content/uploads/*/i-pi-smarc-amston-lake-devkit.webp
-||cnx-software.com/wp-content/uploads/*/jetway-jpic-adn1-n97-industrial-sbc.webp
-||cnx-software.com/wp-content/uploads/*/mekotronics-r58.webp
-||cnx-software.com/wp-content/uploads/*/orange-pi-single-board-computer.jpg
-||cnx-software.com/wp-content/uploads/*/radxa-rock-5c-sbc.webp
-||cnx-software.com/wp-content/uploads/*/radxa-rock5-itx.webp
-||cnx-software.com/wp-content/uploads/*/raspberry-pi-4-alternative-2023-sbc.webp
-||cnx-software.com/wp-content/uploads/*/rikomagic-android-digital-signage-player-2023.webp
-||cnx-software.com/wp-content/uploads/*/rockchip-rk3576-som-raspberry-pi-cm4-alternative.webp
-||cnx-software.com/wp-content/uploads/*/rockchip-rk3588s-8k-sbc-with-wifi-6.webp
-||cnx-software.com/wp-content/uploads/*/ugoos-2024-tv-box-remote-control.webp
-||cnx-software.com/wp-content/uploads/*/youyeetoo-rk3568-rk3588s-sbc-intel-x1-sbc-december-2024.webp
 ||cnyw.net/autoloader.js
 ||cnzz.
 ||cnzz.cn/badu.gif
@@ -18132,6 +18097,7 @@ yydstxt*.com/js/html
 ||dap.digitalgov.gov/universal-federated-analytics-min.js
 ||dapdap.net^
 ||daqiso.com/ggbl/
+||daqnetgw.com^
 ||dark-reader.com^$popup
 ||darkadv.com^
 ||darkiworld11.com^
@@ -21527,7 +21493,6 @@ yydstxt*.com/js/html
 ||freedommotorsclassic.com^
 ||freedownloadmanager.org/ajax/th_hit.php
 ||freedownloadmanager.org/ajax/th_view.php
-||freedownloadmanager.org/js/achecker.js
 ||freedraftguide.com^
 ||freefanyi.com^
 ||freeforumzone.com^
@@ -23734,6 +23699,8 @@ yydstxt*.com/js/html
 ||hlj10021ip.com^
 ||hlj10030ip.com^
 ||hlj10031ip.com^
+||hlj10040ip.com^
+||hlj10041ip.com^
 ||hllu.cn^
 ||hlogger.heraldcorp.com^
 ||hlowb.com^
@@ -25415,6 +25382,7 @@ yydstxt*.com/js/html
 ||itita.com^
 ||itjcqlp.icu^
 ||itjsb.com/itjsbwx.jpg
+||itmhqk.icu^
 ||itmsc.cn^*ad0
 ||itmwpb.com/wp-content/plugins/advertise/modules/stats/assets/track.js
 ||itnuzleafan.com^$popup
@@ -28118,6 +28086,7 @@ yydstxt*.com/js/html
 ||m2bp.com^
 ||m2ras.com^
 ||m3b244.cn^
+||m3cqjc3og6.com^
 ||m3uassets.com^
 ||m423ssel79.com^
 ||m4eei1.cn^
@@ -28654,6 +28623,7 @@ yydstxt*.com/js/html
 ||megatron.igraal.com^
 ||megatube.xxx/atrm/
 ||megatypers.com^
+||megaup.net/sw.js
 ||megawin777.top^
 ||megdexchange.com^$popup
 ||megydyk.icu^
@@ -29452,7 +29422,6 @@ yydstxt*.com/js/html
 ||musclesaskewfeeding.com^
 ||museter.com/track.php?
 ||musevpn.net^
-||mushroomtrack.com^
 ||music-free-download.net^
 ||music-irani.com^
 ||music.163.com/device/signature/create/deviceid.js
@@ -30907,6 +30876,7 @@ yydstxt*.com/js/html
 ||olmsoneenh.info^$domain=avgle.com
 ||oln5jx.cn^
 ||oln8yq.cn^
+||olpv.cn^
 ||olpv.onlylady.com^
 ||olqead.com^
 ||olxlampau.com^
@@ -31829,6 +31799,7 @@ yydstxt*.com/js/html
 ||pemsv08.net^
 ||penchair92.com^
 ||pencild4.com^
+||pendo.io/data/ptm.gif/
 ||pendo.scopus.com/data/ptm.gif
 ||pengtu.cc^*.png
 ||pengwei168.com/addons/321.gif
@@ -35850,6 +35821,7 @@ yydstxt*.com/js/html
 ||shuffle.com/*&clickid=$popup
 ||shui5.cn^*/ima/gg
 ||shuidixs.com/1.
+||shukriya90.com^
 ||shulihua.net/js/gzlishi468google.js
 ||shulihua.net/js/gzlishigoogle.js
 ||shulihua.net/js/topcen.js
@@ -38102,7 +38074,6 @@ yydstxt*.com/js/html
 ||the-group.net/aether/
 ||the-lilypad.com^
 ||the-store.com^
-||the75andztclub.co.uk/forum/banner.js
 ||theadwatch.com^
 ||theamegroup.com^
 ||theanvayabali.com^
@@ -38130,8 +38101,6 @@ yydstxt*.com/js/html
 ||theconversation.com/javascripts/lib/content_tracker_hook.js
 ||thedailybeast.com/static/js/thirdparty.
 ||thedailygraceco.com^
-||thedailysheeple.com/images/banners/
-||thedailysheeple.com/wp-content/plugins/tds-ads-plugin/assets/js/campaign.js
 ||thedbcooperforum.com^
 ||thedearestdays.com^
 ||thedistancefrom.com^
@@ -38144,7 +38113,6 @@ yydstxt*.com/js/html
 ||thefactmagic.com^
 ||thefacux.com^$popup
 ||thefilibusterblog.com^
-||thefinancialexpress.com.bd/images/rocket-250-250.png
 ||theflashcentre.com^
 ||thefreedictionary.com/_/tr.ashx?
 ||thefreesite.com/nov99bannov.gif
@@ -39406,11 +39374,7 @@ yydstxt*.com/js/html
 ||tubeadvertising.eu^$popup
 ||tubecup.net^$popup
 ||tubemate.net^
-||tubeoffline.com/itbimg/
 ||tubeoffline.com/js/hot.min.js
-||tubeoffline.com/vpn.php
-||tubeoffline.com/vpn2.php
-||tubeoffline.com/vpnimg/
 ||tubeon.*/templates/base_master/js/jquery.shows2.min.js
 ||tubepornstars.com/js/analytics
 ||tubepornstreaming.com^
@@ -39798,7 +39762,6 @@ yydstxt*.com/js/html
 ||ugprod.geeksforgeeks.org/post/api/usertracking/
 ||ugroocuw.net^$popup
 ||uhc-info.com^
-||uhdmovies.foo/onewinpop.js
 ||uhfoadysw.com^
 ||uhgbo.cn^
 ||uhi02121uik.xyz^
@@ -39823,9 +39786,6 @@ yydstxt*.com/js/html
 ||uipoxy.com^
 ||uiqouw.icu^
 ||uitopadxdy.com^$popup
-||uitvconnect.com/wp-content/uploads/2023/01/2-2
-||uitvconnect.com/wp-content/uploads/2023/01/3-2
-||uitvconnect.com/wp-content/uploads/2023/01/4-2
 ||uivc.cn^
 ||uiwpv.cn^
 ||ujickusgma.net^
@@ -40317,7 +40277,6 @@ yydstxt*.com/js/html
 ||vasteeds.net^$popup
 ||vastool.xyz^
 ||vaststat.com^
-||vastz.b-cdn.net/hsr/hsr*.mp4
 ||vasz.cn^
 ||vatrack.hinet.net^
 ||vatsim-radar.com^
@@ -40563,7 +40522,6 @@ yydstxt*.com/js/html
 ||vidstream.pro/log/
 ||vidstream.pro/ping/
 ||vidyard.com/api/metrics
-||vidzstore.com/popembed.php
 ||viensvoircesite.com^$popup
 ||vietpub.com/banner/
 ||view.news.qq.com/pl_ad$subdocument
@@ -40755,7 +40713,6 @@ yydstxt*.com/js/html
 ||vnuuh.icu^
 ||vnwu.cn^
 ||vo.msecnd.net/api/beyablejsv2.js
-||vobium.com/images/banners/
 ||voc.com.cn/adsclick/
 ||voc.com.cn/js/xc/
 ||voc.com.cn/static/web/js/creattwo11.js
@@ -40902,10 +40859,10 @@ yydstxt*.com/js/html
 ||vtube.to/api/spots/
 ||vturb.com^
 ||vtvanalytics.com^
+||vtzubx.icu^
 ||vubtr6.cn^
 ||vudqth.icu^
 ||vudralqoi.com^
-||vueschool.io/banner.js
 ||vuetifyjs.com/notify.json
 ||vuhf.cn^
 ||vuirssd.icu^
@@ -41218,7 +41175,6 @@ yydstxt*.com/js/html
 ||web-guardian.xyz^$popup
 ||web-hosting.net.my/banner/
 ||web-lab5.com^
-||web-oao.ssp.yahoo.com/admax/
 ||web-perf.booking.com^
 ||web-trace.ksapisrv.com^
 ||web-tracker.smsbump.com^
@@ -41351,8 +41307,6 @@ yydstxt*.com/js/html
 ||wellsfargo.com/tracking/
 ||welltastic-app.com^
 ||wellworn-lead.com^
-||weloma.art/uploads/aichattings.webp
-||welovemanga.one/uploads/bannerv.gif
 ||weltfussball.com^
 ||wencuiba.com^
 ||wendangku.net/js/common.js
@@ -41474,7 +41428,6 @@ yydstxt*.com/js/html
 ||wickedmovie.com^
 ||wickedsetup.com^
 ||wicurio.com^
-||widenetworks.net^$domain=flysat.com
 ||widespread1.top^
 ||widgeo.net/compteur.php?
 ||widgeo.net/geocompteur/
@@ -41556,7 +41509,6 @@ yydstxt*.com/js/html
 ||windowchair92.com^
 ||windows-int.net^
 ||windows.net/732d.js
-||windows.net/banners/$domain=hortidaily.com
 ||windowsfreeapk.com^
 ||windowszj.net/d/js/list/click
 ||windropgames.com^
@@ -41577,7 +41529,6 @@ yydstxt*.com/js/html
 ||wintrck.com^$popup
 ||winwin7.com/statics/js/pos_js/
 ||winwin7.com/statics/js/user/xz.
-||winxclub.com^*/dfp.js?
 ||wio06210j7.com^
 ||wio06230j7.com^
 ||wipestormcarenova.com^
@@ -41706,7 +41657,6 @@ yydstxt*.com/js/html
 ||wondershare.com/trk
 ||wondershare.es/jslibs/track.js
 ||wonderwomenpolestudio.com^
-||wonkychickens.org/data/statics/s2g/$domain=torrentgalaxy.to
 ||woodii.cn^
 ||woodmancastingxxx.com^
 ||woodruffscientific.com^
@@ -41742,9 +41692,7 @@ yydstxt*.com/js/html
 ||worldcoinindex.com^
 ||worldcyclingstats.com^
 ||worldfreshblog.com^$popup
-||worldhistory.org/js/ay-ad-loader.js
 ||worldictown.com^
-||worldofmods.com/wompush-init.js
 ||worldofrcparts.com^
 ||worldoftrucks.com^
 ||worldpanasia.com^
@@ -41769,7 +41717,8 @@ yydstxt*.com/js/html
 ||wowfan.net/static/js/index.
 ||wowhappyclick.xyz^
 ||wowmem.com^
-||wowroms.com/images/banner*.gif
+||wowroms.com/images/banner336x280.gif
+||wowroms.com/images/banner970x250.gif
 ||wowroms.com/images/iptvsmarters.app.jpg
 ||wowshortvideos.com^$popup
 ||wowvision.com^
@@ -42124,7 +42073,6 @@ yydstxt*.com/js/html
 ||xbiquge99.cc/js/dj
 ||xbiqugela.com/js/basisc.
 ||xblognetwork.com^
-||xboxone-hq.com/images/banners/
 ||xbqfc.cn^
 ||xbqm.cn^
 ||xbtw.com^
@@ -42266,8 +42214,6 @@ yydstxt*.com/js/html
 ||xineurope.com/static/image/banner/
 ||xing.com/logjam/
 ||xing.com/xas/
-||xingcdn.com/crate/ad-
-||xingcdn.com/xas/
 ||xingwangzz.com/123/
 ||xingyuanceilings.com^
 ||xinhuanet.com/iframe/ad
@@ -42730,6 +42676,7 @@ yydstxt*.com/js/html
 ||yantp.net^
 ||yanu.qiniudn.com/*x60.
 ||yanu.qiniudn.com/270300.jpg
+||yanwz3t0pi.com^
 ||yanxuanhui1.com^
 ||yao7392.xyz^
 ||yaohuabj.com^
@@ -43159,12 +43106,9 @@ yydstxt*.com/js/html
 ||ytadblock.com^
 ||ytadskip.com^
 ||ytbbs.com/images/index/
-||ytconvert.me/pop.js
 ||ytcrk.cn^
 ||ytdhblk.top^
 ||ytgqg.cn^
-||ytmp3.cc/js/inner.js
-||ytmp3.plus/ba
 ||ytmp4converter.com/wp-content/uploads$popup
 ||yto3kavwud.com^
 ||ytqdu.cn^
@@ -43627,11 +43571,11 @@ yydstxt*.com/js/html
 ||zmbwr.cn^
 ||zmcln.cn^
 ||zmero.com^
-||zmescience.com/1u8t4y8jk6rm.js
+||zmescience.com/o5ate4zbho8.js
 ||zmk.pw/zfb.png
 ||zmkgu.cn^
 ||zmkp6jvq4.com^
-||zmovies.cc/bc1ea2a4e4.php
+||zmovies.cc/e3cf74305b.php
 ||zmpgln.icu^
 ||zmrhsdyd.com^
 ||zmrmbc.xyz^
