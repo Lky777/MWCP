@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202510041919
-! Last modified: 04 Oct 2025 19:19 UTC
+! Version: 202510051919
+! Last modified: 05 Oct 2025 19:19 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -8669,6 +8669,7 @@ yydstxt*.com/js/html
 ||370jj.icu^
 ||373nn.com/java/
 ||37hwdata.com^
+||37lwjdaua.com^
 ||37win44.com^
 ||38.33.15.*.gif
 ||380tv.com/upload/*-ad-
@@ -17361,6 +17362,7 @@ yydstxt*.com/js/html
 ||d24502rd02eo9t.cloudfront.net^
 ||d2483bverkkvsp.cloudfront.net^
 ||d24cze5sab2jwg.cloudfront.net^
+||d24fx92qb.com^
 ||d24g87zbxr4yiz.cloudfront.net^
 ||d24iusj27nm1rd.cloudfront.net^
 ||d24luoisenoi7j.cloudfront.net^
@@ -19210,6 +19212,7 @@ yydstxt*.com/js/html
 ||dreo-tech.com^
 ||drf8e429z5jzt.cloudfront.net^
 ||drfdisvc.walmart.com^
+||drgakaelgp.com^
 ||dri3d.com^
 ||dribbble.com/client_app/events
 ||dribbble.com/client_app/screenshot_boost_ad_events
@@ -21116,6 +21119,7 @@ yydstxt*.com/js/html
 ||finnonecloud.com^
 ||finreporter.net^$popup
 ||finviz.com/gfx/banner_
+||fipphiany.com^
 ||firebase.googleapis.com^$domain=terabox.fun
 ||firebaseinstallations.googleapis.com^$domain=terabox.fun
 ||firebaselogging-pa.googleapis.com^
@@ -23705,6 +23709,8 @@ yydstxt*.com/js/html
 ||hlj10031ip.com^
 ||hlj10040ip.com^
 ||hlj10041ip.com^
+||hlj10050ip.com^
+||hlj10051ip.com^
 ||hllu.cn^
 ||hlogger.heraldcorp.com^
 ||hlowb.com^
@@ -24995,6 +25001,7 @@ yydstxt*.com/js/html
 ||inrecsys.popin.cc^
 ||ins.connatix.com^
 ||insectoid.net^
+||insertup.top^
 ||inshelmetan.com^$popup
 ||insiad.com^
 ||insideevs.com/analytics.js
@@ -29022,6 +29029,7 @@ yydstxt*.com/js/html
 ||mmeimh.xyz/static/100.
 ||mmeimh.xyz/static/images/
 ||mmentorapp.com^$popup
+||mmes30jla.com^
 ||mmi.bemobile.ua^
 ||mmin.io/embed/
 ||mmjiedian.com^
@@ -30817,6 +30825,7 @@ yydstxt*.com/js/html
 ||oj.fapnado.xxx^
 ||ojamrej.com^
 ||ojimtyk.top^
+||ojizau.icu^
 ||ojmv.cn^
 ||ojsbdjn.com^
 ||ojxr.cn^
@@ -33415,6 +33424,7 @@ yydstxt*.com/js/html
 ||qingkai.com/gg_img/
 ||qingkong.net/skin/htcs/images/980.jpg
 ||qingolor.com^
+||qingqingxs.*/static/xbiquge/js/wap.
 ||qingqingxs.*/static/xbiquge/wap.js
 ||qingsedhh.com/images/gg.gif
 ||qiniuyun25.xyz^
@@ -38416,6 +38426,7 @@ yydstxt*.com/js/html
 ||tjqac.cn^
 ||tjv250730ads.com^
 ||tjvcffap.icu^
+||tjvpnh.icu^
 ||tjwsg.com^$popup
 ||tk.504pk.com^
 ||tk.pathmonk.com^
@@ -40229,6 +40240,7 @@ yydstxt*.com/js/html
 ||v2h-cdn.com^
 ||v2rayssr.com/wp-content/plugins/eazy-
 ||v3cars.com/load-ads.php
+||v46uj91gh.com^
 ||v4dwkcv.com/html/click/
 ||v4p.fun^
 ||v6rxv5coo5.com^$popup
@@ -43068,6 +43080,7 @@ yydstxt*.com/js/html
 ||yptqys.tianqistatic.com^
 ||ypvby.cn^
 ||ypvdb.cn^
+||ypyr.cn^
 ||yqdbz.cn^
 ||yqg.jobui.com^
 ||yqlog.com^
