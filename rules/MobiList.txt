@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202510070412
-! Last modified: 07 Oct 2025 04:12 UTC
+! Version: 202510071921
+! Last modified: 07 Oct 2025 19:21 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -7985,7 +7985,6 @@ yydstxt*.com/js/html
 ||100xuexi.com/cssmodel/botad.js
 ||100yangsheng.com/a1/a.js
 ||1010diy.com^
-||1010jiajiao.com^
 ||1010pic.com/scripts/hd/yueyue
 ||1010pic.com/static/js/allpc.js
 ||1017.cn^
@@ -8036,8 +8035,6 @@ yydstxt*.com/js/html
 ||120askimages.com/ask/js/askfrom.js
 ||120askimages.com/ask/js/q
 ||120askimages.com/ask/zhenshi/templates/pub/js/loadpart.js
-||120v.cn^
-||120v.com.cn^
 ||121.204.246.*.gif
 ||121bet42.com^
 ||121zou.com^$subdocument
@@ -9004,7 +9001,6 @@ yydstxt*.com/js/html
 ||51hanhua.com/2013/
 ||51i4uk.cn^
 ||51img1.com/v6/my/js/bdm.js
-||51jiaoxi.com^
 ||51liucheng.com/js/dialoglogin.js
 ||51microshop.com^
 ||51miz.com/index.php?m=ad&
@@ -9012,7 +9008,6 @@ yydstxt*.com/js/html
 ||51offer.com/mod/public/talk/
 ||51offer.com/pagedata/getdatabymoduleidandkey.html?leadkey=adlist&
 ||51pantu.com/pic/1598717206949.gif
-||51papers.com^
 ||51test.net/js_new/a/right_wx.js
 ||51testing.com/templates/default/images/jx2_a.jpg
 ||51tongji.trafficmanager.net^
@@ -9022,14 +9017,12 @@ yydstxt*.com/js/html
 ||51wady.com/me.php?id=
 ||51wan.com/img/js/xyadjs_
 ||51wangdai.com/images/bad_*0
-||51wendang.com^
 ||51xuediannao.com/uploads/un/
 ||51ztzj.com/js/you.js
 ||51ztzj.com/res/web/img/download_sign
 ||51ztzj.com/res/web/img/pic/inshow.jpg
 ||51zxw.net/netclass/images/*_top.jpg
 ||51zyzy.com^
-||520changshi.com^
 ||520click.com/ad.$domain=~video.520cc.cc|~surirt.com
 ||520xingyun.com/images/188*.gif
 ||520xs.la/js/dianrui-
@@ -9739,7 +9732,6 @@ yydstxt*.com/js/html
 ||99lku9e7un.net^
 ||99mst.com/upfiles/adv/main02.jpg
 ||99nets.com/kfb/index.html
-||99re.com^
 ||99tianji.com/hack/
 ||99widgets.com/counters/
 ||99zuowen.com^*/gg.js
@@ -9955,7 +9947,6 @@ yydstxt*.com/js/html
 ||a3c4at.cn^
 ||a3dex.com^
 ||a3games.com^
-||a4ktube.com^
 ||a54a8ff97b.com^
 ||a5adhf38.com^
 ||a5t.icu^
@@ -10111,8 +10102,6 @@ yydstxt*.com/js/html
 ||acbp0020171456.page.tl^
 ||acc-de.com^
 ||acc.3gbizhi.com^
-||acc5.cn^
-||acc5.com^
 ||accecmtrk.com^$popup
 ||acceleratekernellfast.com^
 ||acceptableredheadcaviar.com^$popup
@@ -10574,7 +10563,6 @@ yydstxt*.com/js/html
 ||admulti.com^
 ||admybug.com^
 ||adn-plus.com.cn^
-||adn.com^
 ||adnade.net^
 ||adncdn.net^
 ||adncdnend.azureedge.net^
@@ -10862,7 +10850,6 @@ yydstxt*.com/js/html
 ||adultasianporn.com/puty3s/
 ||adultfilmdatabase.com/graphics/porndude.png
 ||adultfriendfinder.com/piclist?
-||adultgamesworld.com^
 ||adup-tech.com^
 ||adups.cn^
 ||adv-analytics-collector.videograph.ai^
@@ -11169,7 +11156,6 @@ yydstxt*.com/js/html
 ||aipebel.com^
 ||aiphotomania.com^$popup
 ||aipp99.com/haose/
-||aipub.cn^
 ||air-tclon.com^
 ||air360tracker.net^
 ||airakgyl.com^
@@ -12132,7 +12118,6 @@ yydstxt*.com/js/html
 ||api.popin.cc/test/
 ||api.redgifs.com/v2/gifs/promoted
 ||api.samsungfind.com/log-collector
-||api.shinybirdwhispered.com^
 ||api.streamelements.com/science/
 ||api.tsc.ca/tracking/v1/events/
 ||api.vk.com/method/statevents.
@@ -12456,7 +12441,6 @@ yydstxt*.com/js/html
 ||asr7hh.cn^
 ||asrmusics.com^
 ||asryysmn.top^
-||assemblyexchange.com/ana-sentry.js
 ||asset.d5techs.com/script/track.min.js
 ||asset.d5techs.com/script/utm.min.js
 ||assets.apollo.io/micro/website-tracker/
@@ -12550,7 +12534,6 @@ yydstxt*.com/js/html
 ||atyrqg.com^
 ||atyun.com/wp-content/themes/xmag/js/ad.js
 ||atzekromchan.com^$popup
-||au-e.com^
 ||auapptech.com^
 ||aubergineq8.top^
 ||aubrommaiv.com^
@@ -12657,8 +12640,6 @@ yydstxt*.com/js/html
 ||auy07210km.com^
 ||auy07211km.com^
 ||auy07240km.com^
-||av-baron.com^
-||av-channel.com^
 ||av-yoyo.com/images/*.gif
 ||av.sharktube.net^
 ||av01.tv/av01/floating_video_ads
@@ -12666,7 +12647,6 @@ yydstxt*.com/js/html
 ||av30.xyz/cs/
 ||av6k.com/templets/default/%e5%a4%a7%e5%93%a5/ad.js
 ||av6k.com/templets/default/video-ad/
-||av8n.com^
 ||av99.us/player/ad.
 ||avada.com^
 ||avads.net^
@@ -12688,7 +12668,6 @@ yydstxt*.com/js/html
 ||avelango.com^
 ||avengeradblocker.com^$popup
 ||averf.cn^
-||avfan.com^
 ||avgle.topgirlsdating.com^$domain=avgle.com
 ||avgyp.cn^
 ||aviation-sphere.com^
@@ -12867,7 +12846,6 @@ yydstxt*.com/js/html
 ||baadmay.com^
 ||baahkast.com^
 ||baahrakhari.com^
-||bab864a803f122917da8ab1b1742cb91347797dabb6292b9afef5669.com^
 ||babepedia.com/istripper/
 ||babepedia.com/istripper2023/
 ||babepedia.com/istripper2024/$script
@@ -12901,7 +12879,6 @@ yydstxt*.com/js/html
 ||backspinreentryupright.com^
 ||backspinreentryupright.com^$popup
 ||backstopsolutions.com^
-||bacloud.com^
 ||bacninh.com^
 ||bad.news/images/lightbox-blank.gif
 ||bad996.com/dakaads.js
@@ -13012,7 +12989,6 @@ yydstxt*.com/js/html
 ||baiducom.bj.bcebos.com^
 ||baidujs.cnys.com^
 ||baifen.music.baidu.com^
-||baifendian.com^
 ||baigh8eosmgie01.site^
 ||baigh8eosmgie02.site^
 ||baike.baidu.com/*/directad?$xhr
@@ -13665,7 +13641,6 @@ yydstxt*.com/js/html
 ||bgrukidu.com^
 ||bgtdw.cn^
 ||bgxvt.cn^
-||bh3.com^
 ||bh51j8.cn^
 ||bhaelkaers.com^
 ||bhaelnieth.com^
@@ -13927,7 +13902,6 @@ yydstxt*.com/js/html
 ||bkpkk.cn^
 ||bkpmk.cn^
 ||bkqa.cn^
-||bkw.cn^
 ||bl.wavecdn.de^
 ||bl7izardo.com^
 ||blackandwhite-temporary.com^$popup
@@ -14105,7 +14079,6 @@ yydstxt*.com/js/html
 ||boffoadsapi.com^
 ||boffoadsfeeds.com^
 ||bogsolmadon.com^
-||bohe.cn^
 ||bohrium.com^
 ||boilhomelab.com^
 ||boingohotspot.net^
@@ -14506,7 +14479,6 @@ yydstxt*.com/js/html
 ||bursultry-exprights.com^$popup
 ||buscainmueble.com^
 ||buscia.xyz^
-||bushersfrugged.shop^
 ||bushikaku.net^
 ||bushorchimp.com^
 ||business.92wy.com^
@@ -14726,10 +14698,6 @@ yydstxt*.com/js/html
 ||cabnnr.com^
 ||cabtryfnht.net^
 ||cacafly.net^
-||cacaopg.com^
-||cacaopgapp.com^
-||cacaopgpay.com^
-||cacaopgpay1.com^
 ||cacciasgreasy.top^
 ||cache.myth.dev^
 ||cache2.delvenetworks.com^
@@ -14856,7 +14824,6 @@ yydstxt*.com/js/html
 ||capitalthatworks.com^
 ||caplkk.cn^
 ||capndr.com^
-||capo6play.com^
 ||capoplay.net^
 ||captainexperiences.com^
 ||capture-api.ap3prod.com^
@@ -14896,7 +14863,6 @@ yydstxt*.com/js/html
 ||carsgarageautosales.com^
 ||carsized.com^
 ||carstat.bitauto.com^
-||cartoon-aa.xyz^
 ||cartoon18.com/images/friend/
 ||cartseekite.com^
 ||cartx.cloud^
@@ -15301,7 +15267,6 @@ yydstxt*.com/js/html
 ||chekrilsoumpoab.net^$popup
 ||chem960.com^
 ||chengdu.cn/acts/phoneqss/opencornerwin/
-||chengduxiguangtech.com^
 ||chengtongled.com/gg/
 ||chengtu.com/api.php?mod=ad&adid=
 ||chenjiayu.cn/gg.js
@@ -15445,7 +15410,6 @@ yydstxt*.com/js/html
 ||chronomodel.com^
 ||chrysostrck.com^$popup
 ||chtbl.com^$script,xmlhttprequest
-||chuangyetv.com^
 ||chuantu.biz^$domain=7mav2.com|thztv.cc
 ||chuantu.xyz/t6/714/1580707721x3703728804.jpg
 ||chuapp.com/wp-content/picture/2017-08-14/59917b959139f.png
@@ -15459,9 +15423,7 @@ yydstxt*.com/js/html
 ||chunagora.xyz^
 ||chunmeiba.com^
 ||chunmiaosh.com^
-||chunyuyisheng.com^
 ||chupl.icu^
-||chuquge.com^
 ||churchesinusa.com^
 ||chusan.com/js/m*_
 ||chushoushijian.cn^
@@ -15694,7 +15656,6 @@ yydstxt*.com/js/html
 ||clickins.slixa.com^
 ||clickiocdn.com/clickiotag_log/
 ||clickiocdn.com/consent/log/
-||clickiocdn.com/hbadx/
 ||clickiocdn.com/utr/
 ||clickiocmp.com^
 ||clickmetertracking.com^$popup
@@ -15957,6 +15918,7 @@ yydstxt*.com/js/html
 ||cndyybcerk.xyz^
 ||cndzys.com/huanlian/
 ||cndzys.com^
+||cnet.com/prebid-client.js
 ||cnetcontent.com/log?
 ||cnevids.com/metrics/
 ||cnexx.cn^
@@ -16542,7 +16504,6 @@ yydstxt*.com/js/html
 ||creative.idolshow.live^
 ||creative.imagetwistcams.com^$subdocument
 ||creative.javhdporn.live^
-||creative.kbnmnl.com^
 ||creative.live.javdock.com^
 ||creative.live.javmix.tv^
 ||creative.live.missav.com^
@@ -16552,7 +16513,6 @@ yydstxt*.com/js/html
 ||creative.myavlive.com^
 ||creative.nudelive.store^
 ||creative.ohmycams.com^
-||creative.reebr.com^
 ||creative.strip.chat^
 ||creative.stripchat.com^
 ||creative.stripchat.global^
@@ -21817,7 +21777,6 @@ yydstxt*.com/js/html
 ||gateway.dev/log
 ||gateway.foresee.com^
 ||gateway.src-play.com/analytics/
-||gateway.us.zip.co/analytics
 ||gatexx.net^
 ||gauqoith.com^
 ||gauthai-us.com^
@@ -27397,7 +27356,6 @@ yydstxt*.com/js/html
 ||m.clear.link/cpr/external/track
 ||m.diyibanzhu.buzz/17mb/script/tj.js
 ||m.diyibanzhu.buzz/17mb/script/wap.js
-||m.facebook.com/ajax/weblite_load_logging/
 ||m.facebook.com/ajax/weblite_resources_timing_logging/
 ||m.happymh.com/static/media/
 ||m.happymh.com/styles/friendAds.
@@ -30851,6 +30809,7 @@ yydstxt*.com/js/html
 ||p-mo.net^
 ||p.7060.la^
 ||p.aty.sohu.com^
+||p.codio.com^
 ||p.cquotient.com^
 ||p.ctpost.com/article?
 ||p.data.cctv.com^
@@ -37867,7 +37826,6 @@ yydstxt*.com/js/html
 ||track.bestpornsites.tv^
 ||track.btdmp.com^
 ||track.cam4tracking.com^
-||track.cam4tracking.com^$popup
 ||track.coherentpath.com^
 ||track.contently.com^
 ||track.cordial.io^
@@ -38656,6 +38614,7 @@ yydstxt*.com/js/html
 ||u6u.icu^
 ||u6zsr2xn1.com^
 ||u7em9v4hp.com^
+||u7ugo0jr3.com^
 ||u7wnylbb28.top^
 ||u7y.pw^
 ||u83.xyz^
@@ -41081,6 +41040,7 @@ yydstxt*.com/js/html
 ||xpj08.oss-cn-beijing.aliyuncs.com^
 ||xplbxx.icu^
 ||xplicitbootlegs.com^
+||xpncjj.icu^
 ||xpshou.com^
 ||xpsma.cn^
 ||xpvv0rkn.fun^$popup
@@ -41217,10 +41177,7 @@ yydstxt*.com/js/html
 ||xxvidsx.top^
 ||xxvjh.cn^
 ||xxx.sdtraff.com^
-||xxx2024.net^
-||xxx2025.net^
 ||xxx2026.com^
-||xxx2026.net^
 ||xxxbfvideo.net^
 ||xxxbox.me/vcrtlrvw
 ||xxxbule.com^
@@ -41254,7 +41211,6 @@ yydstxt*.com/js/html
 ||xxxx68xxxx.com^
 ||xxxxsx.com/sw.js
 ||xxxxxxxxxz.com^
-||xxxzooporn.net^
 ||xxylabs.com^
 ||xydik.cn^
 ||xygwh.cc/js/p
