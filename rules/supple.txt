@@ -269,6 +269,10 @@ ravenscans.com###teaserbottom
 ! sina
 sina.cn###float-btn
 
+! sm
+|https://image.uczzd.cn/?id=
+|https://m.sm.cn/adclick?
+
 ! smtt
 ||js.mewlxy.com/gg-config.js
 
