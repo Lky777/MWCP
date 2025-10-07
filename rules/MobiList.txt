@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202510071921
-! Last modified: 07 Oct 2025 19:21 UTC
+! Version: 202510072334
+! Last modified: 07 Oct 2025 23:34 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -7787,10 +7787,12 @@ yydstxt*.com/js/html
 |https://api.ithome.com/json/hot/dajia.json^$script
 |https://api.toutiaoapi.com/api/news/feed/v88/?
 |https://gw.m.163.com/search/api/v2/wap/rolling-word?
+|https://image.uczzd.cn/?id=
 |https://img.ithome.com/file/dylive/dylive.min.js^$script
 |https://m.163.com/touch/api/paid-article/well-chosen-rec-list?
 |https://m.163.com/touch/behavior.html?
 |https://m.mydrivers.com/m/relatednews.ashx?
+|https://m.sm.cn/adclick?
 |https://unpkg.zhimg.com/@cfe/sentry-script@
 |https://vk.com/js/api/share.js?
 |https://www.36dm.com/js/
@@ -11132,7 +11134,6 @@ yydstxt*.com/js/html
 ||aigccdn.com^
 ||aigeno.com^$popup
 ||aigfednd.icu^
-||aigirlfriendstudio.com^
 ||aignerlabelholder.com^
 ||aiifest.com^
 ||aiimgvlog.fun/ad$subdocument
@@ -11676,7 +11677,6 @@ yydstxt*.com/js/html
 ||anal.doubledouble.top^
 ||anal.sataniskwijt.be^
 ||analdin.xxx/player/html.php?aid=
-||analogouscolors.com^
 ||analsexstars.com/og/
 ||analy.tuniu.cn^
 ||analyse.bcovery.com^
@@ -19598,7 +19598,6 @@ yydstxt*.com/js/html
 ||easysearch.click^$popup
 ||easytrackbloodpressure.com^
 ||eatcells.com/land/$popup
-||eathotgirls.com^
 ||eatingonadime.com^
 ||eatnontf.icu^
 ||eattravelgeek.com^
@@ -20648,7 +20647,6 @@ yydstxt*.com/js/html
 ||falou.net^
 ||falsifyprobable.com^
 ||fam-ad.com^
-||famegirls.net^
 ||familiohq.com^
 ||familly56.top^
 ||familyborn.com^$popup
@@ -21270,7 +21268,6 @@ yydstxt*.com/js/html
 ||fouwheepoh.com^$popup
 ||fovcy1jg.pro^$popup
 ||fox-gkpf.com^
-||foxporns.net^
 ||foxsports.com.au/akam/
 ||fp-cdn.azureedge.net^
 ||fp-it-acc.portal101.cn/deviceprofile/
@@ -23351,7 +23348,6 @@ yydstxt*.com/js/html
 ||hisense.com/ta.js
 ||histais.com/js/15_as.js
 ||histats.com^
-||historiasporno.net^
 ||historiqueshop.com^
 ||historyactorabsolutely.com^$popup
 ||historytrade.com^
@@ -23519,7 +23515,6 @@ yydstxt*.com/js/html
 ||hollysocialspuse.com^$popup
 ||holmesmind.com^
 ||holy-push.com^
-||holycowporn.com^
 ||holyfamilyradio.org/banners/
 ||home-xxx-videos.com/snowy-
 ||homebarsusa.com^
@@ -26587,7 +26582,6 @@ yydstxt*.com/js/html
 ||leagsmk.icu^
 ||leaguelobster.com^
 ||leaked.cx/promo/
-||leakimedia.com^
 ||leansoft-ai.com^
 ||leapingpenguin.com^
 ||leapretrieval.com^$popup
@@ -27717,14 +27711,9 @@ yydstxt*.com/js/html
 ||matplus.net^
 ||matthews.com^
 ||mature-chicks.com/floral-truth-c224/
-||matureasshole.com^
 ||maturesimages.com/erd/
-||maturetubexxx.net^
 ||matureworld.ws/images/banners/
-||maturexl.com^
-||maturexxxporno.net^
 ||matwbp.iask.sina.com.cn^
-||mauwholesalersllc.com^
 ||maven.io/api/userevent/
 ||mavencoalition.io/collect
 ||mavenglobal.com^
@@ -28194,7 +28183,6 @@ yydstxt*.com/js/html
 ||milfaholic.com^
 ||milffox.com/ai/
 ||milfnut.net/assets/jquery/$script
-||milfsextube.net^
 ||milfz.club/qpvtishridusvt.php
 ||miliantech.com^
 ||milimili.tv/js/loadjs/jquery
@@ -28308,7 +28296,6 @@ yydstxt*.com/js/html
 ||mlgowell.com^
 ||mlgowell.org^
 ||mlog.aipai.com^
-||mlookalporno.com^
 ||mlse.com^
 ||mlswxm.cn^
 ||mluhs.cn^
@@ -28385,7 +28372,6 @@ yydstxt*.com/js/html
 ||moa06221ju.com^
 ||moa06230ju.com^
 ||moanlengthen.com^
-||moantube.com^
 ||moartraffic.com^$popup
 ||moatads.com^
 ||mob1ledev1ces.com^$popup
@@ -28771,7 +28757,6 @@ yydstxt*.com/js/html
 ||mutaz.pro/img/ba/
 ||mutexlabs.com^
 ||muvflix.com^$popup
-||muvluv-girls-garden.com^
 ||muwqiga.icu^
 ||muy4904.com^
 ||muyuge.com/fw.html/
@@ -31432,7 +31417,6 @@ yydstxt*.com/js/html
 ||pickaflick.co^$popup
 ||pickdramas.com^
 ||pickpackapp.com^
-||pickyporno.com^
 ||picnewsss.com^
 ||pico.tools/metrics/
 ||picpar.com^$domain=18board.com|18p2p.com
@@ -32031,7 +32015,6 @@ yydstxt*.com/js/html
 ||praisecharts.com^
 ||praiseddisintegrate.com^$popup
 ||pravda.com.ua/counter/
-||prayporn.com^
 ||prbibo.top^
 ||prd-collector-anon.ex.co^
 ||prd-collector-platform.ex.co^
@@ -32118,7 +32101,6 @@ yydstxt*.com/js/html
 ||primeos.in/wp-content/uploads/*/sidebar-ad.png
 ||primer.typekit.net^$xmlhttprequest
 ||princesinistervirus.com^$popup
-||princesspinkygirl.com^
 ||princetonreview.com/logging/
 ||printblur.com^
 ||printkick.com^
@@ -34176,7 +34158,6 @@ yydstxt*.com/js/html
 ||rusdosug.com/fotos/banners/
 ||rusforum.com^
 ||rushaneautosales.com^
-||rushomeporn.com^
 ||ruskidka.com^
 ||ruslania.com^
 ||rusnuiyu.com^
@@ -34406,7 +34387,6 @@ yydstxt*.com/js/html
 ||samage-bility.icu^$popup
 ||samanehha.com^
 ||samba.org/banners/$image
-||sambaporno.com^
 ||same*.stockstar.com^
 ||same-witness.com^
 ||same.chinadaily.com.cn^
@@ -34427,7 +34407,6 @@ yydstxt*.com/js/html
 ||saohu*.com/config/json/cctv.json?
 ||sapi.tremendous.com^
 ||saptuqse29.com^
-||saradahentai.com^
 ||sarcasmadvisor.com^$popup
 ||sardinepg.com^
 ||sardinepgpay1.com^
@@ -34710,7 +34689,6 @@ yydstxt*.com/js/html
 ||seibuprince.com^
 ||sejzo.cn^
 ||sekdk.cn^
-||sekesporno.net^
 ||sekilasinfo.net^
 ||seksavid.com^
 ||selfcontrolextraordinary.com^
@@ -34782,7 +34760,6 @@ yydstxt*.com/js/html
 ||services.haaretz.com/ms-gstat-campaign/
 ||serving-refor.com^$popup
 ||serving.lookverin.com^
-||serviporno.com^
 ||serviziobit.com^
 ||servo-report.dvdfab.
 ||servsserverz.com^$popup
@@ -34805,59 +34782,27 @@ yydstxt*.com/js/html
 ||sevenbuzz.com^$popup
 ||sewaoffice.com^
 ||sex-and-flirt.com^$popup
-||sex-rach.com^
 ||sex-techniques-and-positions.com/banners
 ||sex141.com/img/banner/
-||sex2fun.com^
 ||sex3.com/ee/s/s/im.php
 ||sex3.com/ee/s/s/js/ssu
 ||sex3.com/ee/s/s/su
-||sex3.com^
-||sex4arabxxx.net^
-||sex4tokens.com^
-||sex8sex8sex8.com^
 ||sexad.net^
 ||sexad.net^$popup
-||sexalarab.com^
-||sexallarab.com^
-||sexarabii.com^
 ||sexbarss.net/wap/
-||sexbebin.com^
-||sexcash.com^
 ||sexcelebrity.net/contents/restfiles/player/
-||sexcelebrity.net^
-||sexchatters.com^
-||sexdeeperporn.com^
-||sexdots.com^
 ||sexei.net^$subdocument,xmlhttprequest
-||sexemodel.com^
 ||sexemulator.com^$popup
 ||sexfamilysim.net^$popup
 ||sexflirtbook.com^$popup
-||sexfortokens.com^
 ||sexgangsters.com/sg-banners/
 ||sexhd.pics/x/x.js
-||sexidude.com^
-||sexindrag.com^
 ||sexintheuk.com^$popup
-||sexjanet.com^
-||sexkomix1.com^
-||sexkomix2.com^
-||sexkomix22.com^
-||sexlilarab.com^
 ||sexmature.fun/myvids/
-||sexmix.net^
-||sexodama.com^
 ||sexpennyauctions.com^$popup
-||sexpicturespass.com^
 ||sexpin.net/ads*.htm
-||sexq.net^
 ||sexsex13.com^
 ||sexsex61.com^
-||sextbots.com^
-||sextgem.com^
-||sextingfinder.com^
-||sextpanther.com^
 ||sextubebox.com/js/239eka836.js
 ||sextubebox.com/js/580eka426.js
 ||sextubepromo.com/ubr/
@@ -34867,15 +34812,7 @@ yydstxt*.com/js/html
 ||sexvid.pro/rrt/
 ||sexvid.pro/ysla/
 ||sexvid.xxx/ghjk/
-||sexx-xxxl.com^
-||sexxxxxl.com^
-||sexyai.top^
-||sexyandfunny.com^
 ||sexybabepics.net/re/?ping
-||sexyforums.com^
-||sexyico.com^
-||sexymilfspics.com^
-||sexymunch.com^
 ||sexyno1.com/mk-banner/
 ||sezzle.com/v1/event/log
 ||sf-syn.com/conversion_outbound_tracker$subdocument,domain=sourceforge.net
@@ -34987,7 +34924,6 @@ yydstxt*.com/js/html
 ||shelfdocclips.com^
 ||shelluiqy.com^
 ||shemale.com/api/metrics
-||shemaleleaks.com^
 ||shemalenova.com/smn/banners/
 ||shen4club.com/style/*.js?v=
 ||shengyidi.com^
@@ -36888,9 +36824,6 @@ yydstxt*.com/js/html
 ||tamarny.com^
 ||tamayatech.com^
 ||tameyatel.com^
-||tamil-porno.com^
-||tamilsexvids.net^
-||tamilsexzone.com^
 ||tamoxiwa.com^
 ||tampermonkey.net/s.js
 ||tangannaifen.com^
@@ -36961,7 +36894,6 @@ yydstxt*.com/js/html
 ||tarteaucitron.io/log/
 ||tarvrf.xyz^
 ||tashanmp3.com/api/pops/
-||tastypornhq.com^
 ||tatadigital.com/analytics-engine/
 ||tatays.com^
 ||tatilsepeti.com^
@@ -37061,12 +36993,8 @@ yydstxt*.com/js/html
 ||techug.com/aatb/
 ||techweb.com/beacon/
 ||tecmugheksoa.com^$popup
-||teehub.com^
 ||teeniaole.com^
 ||teenporno.xxx/ab/
-||teenseks.com^
-||teenssuckingcocks.com^
-||teentubeonline.com^
 ||tegleebs.com^$popup
 ||tegnadigital.com^
 ||tejadosvalencia.com^
@@ -37264,7 +37192,6 @@ yydstxt*.com/js/html
 ||thepaper.cn/bottombanner_
 ||thephuketnews.com/photo/banner/
 ||theporn.cc/anyalytics?
-||thepornlinks.com^
 ||thequizgo.com^
 ||thesafersearch.com^$popup
 ||theseoultimes.com/st/banner/
@@ -37397,7 +37324,6 @@ yydstxt*.com/js/html
 ||tiiqq.cn^
 ||tikagence.com^
 ||tiktok-fly.com^
-||tiktok-pornhub.com^
 ||tiktok.com/captcha/report
 ||tiktok.com/ttwid/check/
 ||tiktok.com/v1/list
@@ -37405,7 +37331,6 @@ yydstxt*.com/js/html
 ||tiktok.com/whale/
 ||tiktokd.net^
 ||tiktokgym.com^
-||tiktokpornstar.com^
 ||tiktokv.com/monitor_browser/
 ||tiktokv.com/web/report?
 ||tiktokv.us/monitor_browser/
@@ -37451,7 +37376,6 @@ yydstxt*.com/js/html
 ||tinypass.com/checkout/offer/trackshow
 ||tinypass.com^*/track?
 ||tinypic.com^$domain=fdzone.org|jandown.com|mimima.com
-||tinysextube.com^
 ||tinyurl.com/pixel.gif/
 ||tiogolhd.com^
 ||tiplink.io/fp-agent.js
@@ -37664,9 +37588,6 @@ yydstxt*.com/js/html
 ||topodat.info^$popup
 ||topparrain.com^
 ||toppayvault.com^
-||topporno.net^
-||toppornsites.com^
-||topresultssearch.com^
 ||toprevenuegate.com^$popup
 ||topthink.com/api/basic/
 ||toptoon03.xyz/app/tuijian.html
@@ -37681,7 +37602,6 @@ yydstxt*.com/js/html
 ||tornoymetalmecanica.com^
 ||toroadvertisingmedia.com^$popup
 ||torobpay.com^
-||toroporno.com^
 ||torpsol.com^$popup
 ||torrent-protection.com^$popup
 ||torrent911.ws/z-
@@ -38368,15 +38288,12 @@ yydstxt*.com/js/html
 ||tub4us.top^
 ||tubator.com/lookout/ex_rendr3.js
 ||tube.hentaistream.com/wp-includes/js/pop4.js
-||tube2017.com^
 ||tube8.*/_xa/ads
 ||tubeadvertising.eu^$popup
 ||tubecup.net^$popup
 ||tubeoffline.com/js/hot.min.js
 ||tubeon.*/templates/base_master/js/jquery.shows2.min.js
 ||tubepornstars.com/js/analytics
-||tubepornstreaming.com^
-||tubered69.com^
 ||tuberel.com/looppy/
 ||tubev.sex/td24f164e52654fc593c6952240be1dc210935fe/
 ||tubi.io/datascience/logging?
@@ -38394,8 +38311,6 @@ yydstxt*.com/js/html
 ||tui555.com/public/gong/js/a_
 ||tuicool.com/images/upload/aliyun
 ||tuieu.cn^
-||tuihaoju.com^
-||tuijubao.com^
 ||tukveks.com^
 ||tumblr.com/pop/js/modern/sentry-
 ||tumblr.com/services/bblog
@@ -38502,8 +38417,6 @@ yydstxt*.com/js/html
 ||two.cm.com^
 ||twofriends2.com^
 ||twpisacnb.com^
-||twpnrn.cn^
-||twpornstars.com^
 ||twrtj0.cn^
 ||twstats.com^
 ||twsxyt.cn^
@@ -39720,6 +39633,7 @@ yydstxt*.com/js/html
 ||vwl15b.cn^
 ||vwn6rw.cn^
 ||vwonwkaqvq-a.global.ssl.fastly.net^
+||vwtbrzymoz.com^
 ||vwuudahnarh.com^
 ||vwvj.cn^
 ||vx323.com^
@@ -40817,28 +40731,22 @@ yydstxt*.com/js/html
 ||xhcdn.com/site/*/ntvb.gif
 ||xhd.cn/topic/leyu-piaofu/
 ||xheydar.com^
-||xhfuck.com^
 ||xhguoduzcy.net^
 ||xhjwvv.cn^
 ||xhreal5.com^
 ||xhrsu.cn^
 ||xhs012.com^
 ||xhsocial.com^
-||xhvid.com^
 ||xhymsq.com/data/attachment/portal/
-||xiadoucloud.com^
 ||xiahunao.cn^
 ||xianliao.voto^
 ||xianshuabao.com/ashx/pt.ashx?cmd=record&filter=&order=all&
 ||xiaobaipan.com/tb.html
 ||xiaobi*.com/layer/layer.js
 ||xiaodutv.com/xda?
-||xiaohe-jiankang.com^
-||xiaohe.cn^
 ||xiaohongshu.com/api/collect
 ||xiaohongshu.com/api/v2/collect
 ||xiaohuks.com/1.
-||xiaohuolongjc.top^
 ||xiaoma.com/kf.php?arg=
 ||xiaoma.com/xiaoma/www/js/article_right
 ||xiaomi.com/js/mstr.js?
@@ -40847,7 +40755,6 @@ yydstxt*.com/js/html
 ||xiaopi.com/statics/skin_js/jquery.posrj.js
 ||xiaopinwo.com^
 ||xiaoshuoyun.cn^
-||xiaowazi.com^
 ||xiaoxiaks.com/1.
 ||xiaoz.top/assets/imgurl.js
 ||xiazaizhijia.com/w2/js/wxzzj.js
@@ -40868,7 +40775,6 @@ yydstxt*.com/js/html
 ||xineurope.com/static/image/banner/
 ||xing.com/logjam/
 ||xing.com/xas/
-||xinglinpukang.com^
 ||xingwangzz.com/123/
 ||xinhuanet.com/iframe/ad
 ||xinhuanet.com/jjimages/jc/js/fla.js
@@ -40899,7 +40805,6 @@ yydstxt*.com/js/html
 ||xitongku.cc^
 ||xitongzhijia.net/theme/2020/js/10033_
 ||xiu8.com/baidu-tieba/*&forum_name=
-||xiuyafan.com^
 ||xiwpi.cn^
 ||xizi.com/js/rotator.js
 ||xjav.tube/ps/hij2yp.js
@@ -41084,7 +40989,6 @@ yydstxt*.com/js/html
 ||xtransfer.com^
 ||xtrasize.pl/banner/
 ||xtrendlite.com^
-||xtvporn.com^
 ||xtvuhitvfs.net^
 ||xtw.com^
 ||xu6.icu^
@@ -41094,10 +40998,7 @@ yydstxt*.com/js/html
 ||xudr8vwe.xyz^
 ||xue.zbyw.cn^
 ||xueaaaw.cn^
-||xuehai.net^
 ||xuehi.cn/reward/reward
-||xuesai.net^
-||xueshu.com^
 ||xuexi.hydcd.com^
 ||xuexila.com^*-xxl.js
 ||xueyuhuangjinyan.com^
@@ -41115,7 +41016,6 @@ yydstxt*.com/js/html
 ||xupoi.cn^
 ||xutvbt.icu^
 ||xuugnuits.com^
-||xuxporner.com^
 ||xuzhi.net/uploadfile/poster/960x50.jpg
 ||xv98.com/js/daohang
 ||xv98.com/js/hengfu
@@ -42300,8 +42200,6 @@ yydstxt*.com/js/html
 ||zoomodsplus.com^
 ||zoomprospector.com^
 ||zooplus.io/static/js/tracking-min.js
-||zooporner.com^
-||zoosexfarm.com^
 ||zoosk.com/cs/tp.png?
 ||zordaustewhoh.com^$popup
 ||zorigtbaatar.com^
@@ -42372,7 +42270,6 @@ yydstxt*.com/js/html
 ||ztyumn.ifeng.com^
 ||ztzci.cn^
 ||zuantu.com^
-||zub-tube.com^
 ||zubtube.com^
 ||zuiacg.com/images/client/
 ||zuifuyun.com^
