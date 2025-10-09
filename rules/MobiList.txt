@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202510081922
-! Last modified: 08 Oct 2025 19:22 UTC
+! Version: 202510091922
+! Last modified: 09 Oct 2025 19:22 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -1800,6 +1800,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|xyg688.xyz|zz
 /cari/banner/
 /cari/daybanner/
 /cc222ads
+/cc6f9acb52d1582671afea808afe10fe.gif
 /cdn-cgi/apps/body/*$script,~third-party
 /cdn-cgi/apps/head/*$script,~third-party
 /cdn-cgi/beacon/
@@ -5152,7 +5153,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|xyg688.xyz|zz
 /v1/log/web-vitals$xmlhttprequest
 /v1/pixel.js
 /v1/pixel?
-/v1/rgstr|
+/v1/rgstr^
 /v1/stats/track
 /v1/tracker.js
 /v1/viewport_events
@@ -12713,6 +12714,7 @@ yydstxt*.com/js/html
 ||awestat.com^*/banner/
 ||awfyuqoidy.com^
 ||awfzj.cn^
+||awh3vupyf.com^
 ||awhirteqjy.net^
 ||awin.com^
 ||awin1.com/cread.php?s=$popup
@@ -13608,6 +13610,7 @@ yydstxt*.com/js/html
 ||bfnbk.cn^
 ||bfnck.cn^
 ||bfnmk.cn^
+||bfocuqeona.com^
 ||bfp.capitalone.com^
 ||bfpartners.click^$popup
 ||bfpgf.com/wp-content/uploads/2015/08/360dxs.jpg
@@ -17016,6 +17019,7 @@ yydstxt*.com/js/html
 ||d1jd9usa22o1l7.cloudfront.net^
 ||d1jnvfp2m6fzvq.cloudfront.net^
 ||d1juimniehopp3.cloudfront.net^
+||d1jum8517nhtf1.cloudfront.net^
 ||d1jwpd11ofhd5g.cloudfront.net^
 ||d1k8mqc61fowi.cloudfront.net^
 ||d1k8sb4xbepqao.cloudfront.net^
@@ -19457,6 +19461,7 @@ yydstxt*.com/js/html
 ||e2210cb7c4c99f22c5b34994401f48d2cb0c8cf0.com^
 ||e23.cn/js/aaa.js
 ||e2elog.fetnet.net^
+||e2jda3h01.com^
 ||e2ma.net/track/
 ||e2rfi1.cn^
 ||e3c7.com/dh/
@@ -21507,7 +21512,7 @@ yydstxt*.com/js/html
 ||fwbntw.com^$popup
 ||fwcdn1.com/js/fwn.js
 ||fwcdn1.com/js/storyblock.js
-||fwcdn3.com^$domain=eonline.com
+||fwcdn3.com^$domain=dailyhive.com|eonline.com
 ||fwcob.com^
 ||fwdcmp.com^
 ||fwdto.net^
@@ -22017,6 +22022,8 @@ yydstxt*.com/js/html
 ||ggjgkbtsie.net^
 ||ggjqywukke.net^
 ||ggjs.d17.cc^
+||ggo10090lq.com^
+||ggo10091lq.com^
 ||ggptnetwork.com^
 ||ggqsidsboa.net^
 ||ggqzg3.cn^
@@ -22544,6 +22551,7 @@ yydstxt*.com/js/html
 ||grandpagooseberrygently.com^
 ||grandpashabet3255.com^
 ||grandrapidsmoldremediation.com^
+||granteesixtes.com^
 ||graphcomment.com/api/thread/*/stats
 ||graphicdesignforums.co.uk/banners/
 ||grapseex.com^$popup
@@ -23417,6 +23425,8 @@ yydstxt*.com/js/html
 ||hlj10071ip.com^
 ||hlj10080ip.com^
 ||hlj10081ip.com^
+||hlj10090ip.com^
+||hlj10091ip.com^
 ||hllu.cn^
 ||hlogger.heraldcorp.com^
 ||hlowb.com^
@@ -27247,6 +27257,7 @@ yydstxt*.com/js/html
 ||lw54.com/js/
 ||lw881.com/public/js/gw.js
 ||lwadm.com^
+||lwbo.cn^
 ||lwcnmtl.top^
 ||lweizal.top^
 ||lwfxx.cn^
@@ -29918,6 +29929,7 @@ yydstxt*.com/js/html
 ||o.027eat.com^
 ||o.aolcdn.com/js/mg1.js
 ||o.jy135.com^
+||o.momently.info^
 ||o.phb123.com^
 ||o02220aokk.com^
 ||o02231aokk.com^
@@ -29934,6 +29946,7 @@ yydstxt*.com/js/html
 ||o5fddf.cn^
 ||o6itbr.cn^
 ||o6lpw5yhk.com^
+||o6oxvugdl.com^
 ||o8m3.com^
 ||o8mbh58yos.net^
 ||o8s.icu^
@@ -30089,6 +30102,7 @@ yydstxt*.com/js/html
 ||ogads-pa.googleapis.com^
 ||ogbt4k.site^
 ||ogdennews.com^
+||ogdoad7.top^
 ||ogee.gyimieblockers.biz^
 ||ogfvadunon.com^
 ||ogfxfg.cn^
@@ -30121,6 +30135,7 @@ yydstxt*.com/js/html
 ||oieo.cn^
 ||oiieuewk77.xyz^
 ||oilofasia.com/images/banners/
+||oiscuy.icu^
 ||oisgyx.cn^
 ||oiu09.cn^
 ||oizs.cn^
@@ -36133,6 +36148,7 @@ yydstxt*.com/js/html
 ||stephaneplazaimmobilier.com^
 ||sterkisg.com^
 ||steroidbazaarbalance.com^$popup
+||sterra.web.id/stera1/
 ||sterra.web.id/stera2/
 ||sterra.web.id/stera4/
 ||stethepsartopo.com^$popup
@@ -37254,6 +37270,7 @@ yydstxt*.com/js/html
 ||tiexue.net/pic/tx_1220.jpg
 ||tiexue.net/zgg/
 ||tif.ionos.com^
+||tifphl.icu^
 ||tiger-spotted.cyou^$popup
 ||tigerbrluck.com^$popup
 ||tigerking.world^$popup
@@ -40101,6 +40118,7 @@ yydstxt*.com/js/html
 ||wixlabs-adsense-v3.uc.r.appspot.com^
 ||wiz3.cn^
 ||wizardscharityvisa.com^$popup
+||wizoevljj.com^
 ||wizslots.com*&utm_campaign=$popup
 ||wiztube.xyz/cdn-cgi/trace
 ||wj.jiancai365.cn^
