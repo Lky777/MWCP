@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202510100832
-! Last modified: 10 Oct 2025 08:32 UTC
+! Version: 202510101046
+! Last modified: 10 Oct 2025 10:46 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -8821,7 +8821,6 @@ yydstxt*.com/js/html
 ||3yq51wjim.com^
 ||3zch62.cn^
 ||3zrr.com^
-||4-wheelclassics.com^
 ||40407.com/plus/rpad/
 ||40407.com/plus_rpad_
 ||407mp3.com/js/*.js
@@ -10133,7 +10132,6 @@ yydstxt*.com/js/html
 ||accountantflowerrespiration.com^
 ||accounts.google.com/gsi/log
 ||accoyblee.com^
-||accruent.com^
 ||accurstscaur.shop^$popup
 ||accuterm.com/data/stat.js
 ||accwww9.53kf.com^
@@ -10156,7 +10154,6 @@ yydstxt*.com/js/html
 ||acgnz.cn/static/i.js
 ||acgtracker.com^
 ||achadosbr.com^
-||achatpublic.com^
 ||achcdn.com^$popup
 ||achophranb.com^
 ||aci-controls.com^
@@ -11479,7 +11476,6 @@ yydstxt*.com/js/html
 ||alljapanesepass.com/rstat
 ||allkeyshop.com/analytics/script.js
 ||allkmbr.icu^
-||alllocaljobs.com^
 ||allmobileserving.com^
 ||allow-to-continue.com^$popup
 ||alloy.com^
@@ -11502,7 +11498,6 @@ yydstxt*.com/js/html
 ||almstda.tv^$popup
 ||aloatchuraimti.net^$popup
 ||alokonweb.com^
-||alopeyk.com^
 ||alowbowsohef.com^$popup
 ||alpco.com^
 ||alpenridge.top^$popup
@@ -11611,7 +11606,6 @@ yydstxt*.com/js/html
 ||ambuizeler.com^$popup
 ||ameamericanamdavadi.com^
 ||amelatrina.com^$popup
-||amentum.com^
 ||americanbuildersoutlet.com^
 ||americanclassicssale.com^
 ||americanexpress.com/beacon
@@ -11651,7 +11645,6 @@ yydstxt*.com/js/html
 ||amoteehoodaumse.net^$popup
 ||amp-error-reporting.appspot.com^
 ||amp.vg/track/
-||amphenolltw.com^
 ||amplayeranydwou.info^$popup
 ||amplifypixel.outbrain.com^
 ||amplitude.chess.com^
@@ -11946,7 +11939,6 @@ yydstxt*.com/js/html
 ||andydns.com^
 ||anemonew33.top^
 ||anews7.nvwu.com^
-||anexia.com^
 ||angdwml6.com^
 ||angege.com^$popup
 ||angelsauto-sale.com^
@@ -12014,7 +12006,6 @@ yydstxt*.com/js/html
 ||anyclip.com/v1/events
 ||anyclip.com/v1/lre-events?
 ||anyclip.com^$third-party,domain=~click2houston.com|~clickondetroit.com|~clickorlando.com|~dictionary.com|~heute.at|~ksat.com|~news4jax.com|~therealdeal.com|~video.timeout.com|~wsls.com
-||anylaw.com^
 ||anymoviesearch.com^$popup
 ||anyporn.com/aa/
 ||anyscdn.com^
@@ -12297,13 +12288,11 @@ yydstxt*.com/js/html
 ||ararazu.com^
 ||arbada.com^
 ||arbada.net^
-||arbapexbank.com^
 ||arbiscan.io/images/gen/*_stylusblitz_arbiscan_ad.png
 ||arborerplanful.shop^$popup
 ||arc.pub/clavis/training/events
 ||arcade-projects.com^
 ||arcadja.com^
-||architecturaldepot.com^
 ||archonph.com^
 ||arclk.net/trax?
 ||arcpublishing.com/beacon
@@ -12383,7 +12372,6 @@ yydstxt*.com/js/html
 ||as8758.net^
 ||asanalytics.booking.com^
 ||asap3sixty.com^
-||asapaerospacehub.com^
 ||asapfulfillment.com^
 ||asapintegrated.com^
 ||asapintegratedlogistics.com^
@@ -12885,7 +12873,6 @@ yydstxt*.com/js/html
 ||backgrounds.wetransfer.net/*.mp4$media
 ||backspinreentryupright.com^
 ||backspinreentryupright.com^$popup
-||backstopsolutions.com^
 ||bacninh.com^
 ||bad.news/images/lightbox-blank.gif
 ||bad996.com/dakaads.js
@@ -13020,7 +13007,6 @@ yydstxt*.com/js/html
 ||bakerias.com^
 ||bakingbusiness.com^
 ||bakjaqa.net^$popup
-||balanz.com^
 ||balconbuildtech.com^
 ||baldo-toj.com^$popup
 ||balerdoits.com^
@@ -13110,7 +13096,6 @@ yydstxt*.com/js/html
 ||basicinvite.com^
 ||basis.net/assets/up.js
 ||bastion1.top^
-||basworld.com^
 ||bat.bing.com^
 ||bat.bing.net^
 ||bat.maydream.com^
@@ -13360,7 +13345,6 @@ yydstxt*.com/js/html
 ||beaglehardware.com^
 ||beam.mjhlifesciences.com^
 ||beamanalytics.b-cdn.net^
-||beaminghealth.com^
 ||beamobserver.com^$popup
 ||beap.gemini.yahoo.com^
 ||bear-joy.com^
@@ -13748,7 +13732,6 @@ yydstxt*.com/js/html
 ||billing.roofnrack.us^
 ||bilqi-omv.com^$popup
 ||bimbim.com^$popup
-||bimedis.com^
 ||bimiacg*.net/template/joeleo/asset/js/jquery.leeleo.js
 ||bimnodstz.com^
 ||bimoshe.com^
@@ -14251,7 +14234,6 @@ yydstxt*.com/js/html
 ||bradecontrols.com^
 ||bradyhomefurnitureqc.com^
 ||bradyid.com^
-||braem.com^
 ||braidsmbalolo.top^$popup
 ||brainberries.co^$popup
 ||brainlyads.com^
@@ -14326,7 +14308,6 @@ yydstxt*.com/js/html
 ||broadly.com^
 ||broadlyjukeboxunrevised.com^
 ||broadpos.com^
-||broadsign.com^
 ||broadwayacrossamerica.com^
 ||brocktongems.com^
 ||brodownload8s.com^
@@ -14450,7 +14431,6 @@ yydstxt*.com/js/html
 ||bujlmitd.icu^
 ||bukusukses.com^$popup
 ||bulkbooks.com^
-||bulkpowders.com^
 ||bullbr.xyz^
 ||bullchat.com/sponsor/
 ||bullfeeding.com^$popup
@@ -14480,7 +14460,6 @@ yydstxt*.com/js/html
 ||bursa33.xyz^$popup
 ||burstcloud.co/jwe?
 ||bursultry-exprights.com^$popup
-||buscainmueble.com^
 ||buscia.xyz^
 ||bushikaku.net^
 ||bushorchimp.com^
@@ -14770,7 +14749,6 @@ yydstxt*.com/js/html
 ||camcaps.to/400514f2db.php
 ||camel.headfarming.com^
 ||camelpharm.com^
-||cameraddns.net^
 ||camerain.top^
 ||cameratatouage.net^
 ||camgirls.casa/p.php
@@ -14858,7 +14836,6 @@ yydstxt*.com/js/html
 ||cargurus.com/cars/cganalyticspageview.action
 ||cargurus.com/tr/
 ||carnations9.com^
-||carnegiefabrics.com^
 ||carnoc.com/noticejs/
 ||carpiumexopt.com^
 ||carsandbids.com/a/p
@@ -14870,7 +14847,6 @@ yydstxt*.com/js/html
 ||cartx.cloud^
 ||carzing.com^
 ||cas.*.criteo.com^
-||casadellibro.com^
 ||casaturismorural.com^
 ||casefyparamos.com^$popup
 ||caseproof.com^
@@ -15135,9 +15111,7 @@ yydstxt*.com/js/html
 ||centeda.com^
 ||centent.stemplay.cc^
 ||centent.stemplay.cc^$popup
-||centerbase.com^
 ||centerblog.net/stats.js
-||century21global.com^
 ||centurys.net/promo_
 ||cenyou.net/wp-content/uploads/1200-200.
 ||ceoaschool.com^
@@ -15187,7 +15161,6 @@ yydstxt*.com/js/html
 ||chaikinanalytics.com^
 ||chaintopdom.nl^$popup
 ||chainweb.com^
-||chaitin.cn^
 ||chakd.com/images/xitie160x60.gif
 ||chaldailg.com^
 ||chalkplayground.co^$popup
@@ -15344,7 +15317,6 @@ yydstxt*.com/js/html
 ||chinatimes.com/analytics/
 ||chinatimes.com/scripts/bennerad.
 ||chinatoweronline.cn^
-||chinatoweronline.com^
 ||chinatruck.org/index.php?m=poster&
 ||chinaxinge.com/gif3/
 ||chinaxinge.com/gif4/
@@ -16192,7 +16164,6 @@ yydstxt*.com/js/html
 ||components-electronic.com^
 ||compracompras.com^
 ||compreperto.com^
-||compugen.com^
 ||computeralliance.com.au/ws/partsws.asmx/getadvertisingleft
 ||computers1000.com^
 ||computerstlouis.com^
@@ -16249,7 +16220,6 @@ yydstxt*.com/js/html
 ||console.uxlens.com^
 ||consprc.com^
 ||constellation.networknmedia.com/cdn-cgi/trace
-||constructionequipmentguide.com^
 ||constructpreachystopper.com^
 ||constructpreachystopper.com^$popup
 ||consulby.com^
@@ -16288,7 +16258,6 @@ yydstxt*.com/js/html
 ||contextualadv.com^
 ||continuity1.com^
 ||controlclickflow.com^$popup
-||controller.com^
 ||conver2clickapp.com^
 ||conversions.genieventures.co.uk^
 ||convert2mp3.club/dr/
@@ -16466,7 +16435,6 @@ yydstxt*.com/js/html
 ||cradlewise.com^
 ||craegvin.com^
 ||crafthead.net^
-||crainscleveland.com^
 ||craivrals.com^
 ||crakrevenue.go2cloud.org^
 ||crall.io/beacon/
@@ -18895,7 +18863,6 @@ yydstxt*.com/js/html
 ||dof9zd9l290mz.cloudfront.net^
 ||dofap.com/banners/
 ||dog89nqcp3al4.cloudfront.net^
-||dogado.net^
 ||dogell.com^
 ||dogfight360.com/usbeam/*_ad/
 ||dogomania.com^
@@ -20233,7 +20200,6 @@ yydstxt*.com/js/html
 ||eudoravet.com^
 ||eudstudio.com^$popup
 ||eueka.cn^
-||eulerpool.com^
 ||eumtl.cn^
 ||eung95wkni.com^
 ||euphoriccommittee.com^$popup
@@ -21227,8 +21193,6 @@ yydstxt*.com/js/html
 ||forscprts.com^
 ||forthdigestive.com^$popup
 ||forticonverter.com^
-||fortigslb.com^
-||fortinet-gov.com^
 ||fortinet-gov.net^
 ||fortinet-tv.com^
 ||fortinetgov.net^
@@ -23763,7 +23727,6 @@ yydstxt*.com/js/html
 ||huarenjie.com/attachment/myfiles/
 ||huasengheng.com^
 ||huawei-api.top^
-||huaweisafedns.com^
 ||huaxiang.eastmoney.com^
 ||hub.reacti.co/index.js
 ||hubbiz.net^
@@ -24492,7 +24455,6 @@ yydstxt*.com/js/html
 ||impdesk.com/smartpix/
 ||impel.io/releases/analytics/
 ||imperiohentai.com/delivery/
-||impervadns.net^
 ||impmentatsys.com^
 ||impress.vcita.com^
 ||impression-sync.xyz^
@@ -25730,7 +25692,6 @@ yydstxt*.com/js/html
 ||jumbo.zomato.com^
 ||jump-path1.com^$popup
 ||jumplisting.com^
-||jumptrading.com^
 ||jun01.oss-cn-beijing.aliyuncs.com^
 ||jun015.com^
 ||junbi-tracker.com^$popup
@@ -26417,8 +26378,6 @@ yydstxt*.com/js/html
 ||labyrinthine.top^
 ||lacework.net.cn^
 ||lacework.org.cn^
-||lacework.top^
-||lacework.xyz^
 ||lacquerreddeform.com^$popup
 ||lactasetooth.shop^$popup
 ||lacunads.com^
@@ -27645,7 +27604,6 @@ yydstxt*.com/js/html
 ||marketplacer.com^
 ||markets.com^
 ||marketscreener.com/content_openx.php
-||marklines.com^
 ||markonlive.github.io/analytics/
 ||marksandspencerme.com^
 ||marlin77official.com^
@@ -27846,7 +27804,6 @@ yydstxt*.com/js/html
 ||meatpoultry.com^
 ||mebdez.cn^
 ||mebeforeyoumovie.net^
-||mechanicadvisor.com^
 ||mecv.cn^
 ||med66.com/lamu/
 ||med66.com^
@@ -29237,7 +29194,6 @@ yydstxt*.com/js/html
 ||nenses.xyz^
 ||nenset.xyz^
 ||nenseu.xyz^
-||nenu.edu.cn^
 ||neocounter.neoworx-blog-tools.net^
 ||neolectura.com^
 ||neometropolis.net^
@@ -29671,7 +29627,6 @@ yydstxt*.com/js/html
 ||nordicbiosite.com^
 ||nordstrom.com/api/cake/
 ||nordstrom.com/api/cupcake/
-||nordu.net^
 ||noreadapp.com^
 ||norman-restaurant.com^
 ||norse.mingxiaow.com^
@@ -29873,7 +29828,6 @@ yydstxt*.com/js/html
 ||nwaf0g.cn^
 ||nwaonline.com^
 ||nwmkq.cn^
-||nwnu.edu.cn^
 ||nwr.static.mmcdn.com^
 ||nwrji.cn^
 ||nwrop.cn^
@@ -30430,7 +30384,6 @@ yydstxt*.com/js/html
 ||opecloud.com/ope-pdmp.js
 ||open-closed.net^
 ||open-pr.com^
-||open-telekom-cloud.com^
 ||open.show.qq.com/cgi-bin/qqshow_user_gdt_ad?
 ||openadserving.com^$popup
 ||openadultdirectory.com/banner-
@@ -32569,7 +32522,6 @@ yydstxt*.com/js/html
 ||qa-analytics.com^
 ||qa.hdclips.fun^
 ||qa6z7kz5r.com^
-||qad.com^
 ||qadko.cn^
 ||qaemphaels.com^
 ||qajidian.cn^
