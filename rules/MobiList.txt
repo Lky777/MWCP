@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202510101046
-! Last modified: 10 Oct 2025 10:46 UTC
+! Version: 202510101922
+! Last modified: 10 Oct 2025 19:22 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -5631,6 +5631,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|xyg688.xyz|zz
 ://posthog.$script,domain=~posthog.com
 ://promo.$~media,domain=~myshopify.com|~promo.com|~shopifycloud.com|~slidely.com
 ://pt.*?psid=$third-party
+://r.*/s1/$subdocument
 ://rou*/_next/static/chunks/pages/home-
 ://rs-stripe.wsj.com/stripe/image?
 ://rum.collector.
@@ -5643,6 +5644,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|xyg688.xyz|zz
 ://sli.*/imp?s=$image
 ://stat.*/pageview/$xmlhttprequest
 ://stats.*/code/e.js
+://t.*/s1/$subdocument
 ://t.targito.
 ://tagging.*.js?aw=
 ://tagging.*/settings.js
@@ -12366,6 +12368,7 @@ yydstxt*.com/js/html
 ||as01281kkp.xyz^
 ||as02010kkp.xyz^
 ||as1.m.hao123.com^
+||as1.maturexxx.vip^
 ||as1.wenku.baidu.com^
 ||as2.wenku.baidu.com/$subdocument
 ||as42831.net^
