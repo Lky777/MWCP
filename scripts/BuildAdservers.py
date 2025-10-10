@@ -63,7 +63,7 @@ def compare_and_append_new_domains():
     if new_domains:
         current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         with open(add_file, 'a', encoding='utf-8') as f:
-            f.write(f"\n# NEW - {current_time}\n")
+            f.write(f"\n! NEW - {current_time}\n")
             for domain in new_domains:
                 f.write(f"{domain}\n")
 
