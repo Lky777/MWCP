@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202510111919
-! Last modified: 11 Oct 2025 19:19 UTC
+! Version: 202510112342
+! Last modified: 11 Oct 2025 23:42 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -67,7 +67,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|xyg688.xyz|zz
 *$webrtc
 *$websocket
 *&adsc_typpe=
-*/163/frontend/antnest/*
 *coinhive.min.js^$script
 *gonggao.js|$domain=~lol.qq.com
 -*-*-*-*.alpha^$script
@@ -13587,6 +13586,7 @@ yydstxt*.com/js/html
 ||bfgqk.cn^
 ||bfhdk.cn^
 ||bfhqk.cn^
+||bfitra1eho.com^
 ||bfjpk.cn^
 ||bfjqk.cn^
 ||bfkbo.cn^
@@ -21160,6 +21160,7 @@ yydstxt*.com/js/html
 ||foudebassin.com^
 ||fouita.com^
 ||foundationpartners.com^
+||foupog90.xyz^
 ||foureyes.io/fe-init.js
 ||fourier.taobao.com^
 ||fourmtagservices.appspot.com^
@@ -41605,6 +41606,7 @@ yydstxt*.com/js/html
 ||zaubee.com^
 ||zavgrj.icu^
 ||zavirand.com^
+||zay7gs1xkl.com^
 ||zazzybabes.com/istr/t2eff4d92a2d.js
 ||zbato.net^
 ||zbcdn.net/__uvjgyw/slb.default.js
