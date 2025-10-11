@@ -111,8 +111,6 @@
 ||ad.scdn.io^
 ||mcs.snssdk.com^
 ||44xoxo1842.spankbang.com^
-||tsyndicate.com/do2/
-||tsyndicate.com/iframes2/
 ||cdn.tsyndicate.com^
 ||pxl.tsyndicate.com^
 ||pxl-eu.tsyndicate.com^
@@ -129,6 +127,8 @@
 ||lf1-cdn-tos.bytegoofy.com/goofy/
 ||playhubconnect.com/bn/
 |p3-sign.toutiaoimg.com/tos-cn-i-eyfl5e3fp8/
+||tsyndicate.com/do2/
+||tsyndicate.com/iframes2/
 
 ! .General Blocking
 *$ping,third-party
@@ -160,7 +160,6 @@ _ads.html?
 ||nibuaideren.icu/*.gif
 
 ! 163
-*/163/frontend/antnest/*
 ||m.163.com/touch/nc/api/article/relate/
 ||m.163.com/wap/special/
 ||s6.music.126.net/puzzle/$script
