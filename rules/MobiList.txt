@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202510120802
-! Last modified: 12 Oct 2025 08:02 UTC
+! Version: 202510121920
+! Last modified: 12 Oct 2025 19:20 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -5631,7 +5631,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|xyg688.xyz|zz
 ://posthog.$script,domain=~posthog.com
 ://promo.$~media,domain=~myshopify.com|~promo.com|~shopifycloud.com|~slidely.com
 ://pt.*?psid=$third-party
-://r.*/s1/$subdocument
+://r.*/s1/$other,subdocument
 ://rou*/_next/static/chunks/pages/home-
 ://rs-stripe.wsj.com/stripe/image?
 ://rum.collector.
@@ -5644,7 +5644,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|xyg688.xyz|zz
 ://sli.*/imp?s=$image
 ://stat.*/pageview/$xmlhttprequest
 ://stats.*/code/e.js
-://t.*/s1/$subdocument
+://t.*/s1/$other,subdocument
 ://t.targito.
 ://tagging.*.js?aw=
 ://tagging.*/settings.js
@@ -5751,6 +5751,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|xyg688.xyz|zz
 ?event=performancelogger:
 ?frm=*&ct=*&dit=$third-party
 ?grouptype=engagement&eventtype=click&
+?id=3&adl=3$subdocument,~third-party
 ?key=$popup,domain=verystream.com
 ?key=*&uuid=$subdocument
 ?local_ga_js=
