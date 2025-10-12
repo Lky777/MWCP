@@ -77,6 +77,7 @@
 ||yonyoujcxl.com^
 ||youandmerunfast.com^
 ||zog.link^
+||zqbao.app^
 ||zqbao.vip^
 ||zrwprhw.xyz^
 
@@ -93,7 +94,7 @@
 ||xchina.click^
 ||xn--gps-8y0gm25n.xn--55qx5d^
 
-! .B
+! .A3
 ||ip385154052.ahcdn.com^
 ||ad.52av.one^
 ||gome3f-1005-ppp.oss-accelerate.aliyuncs.com^
@@ -127,7 +128,8 @@
 ||go.xhamsterlive.com^
 ||analytics.yahoo.com^
 
-! .C
+! .B
+||img.alicdn.com/imgextra/i*/4061867744/
 ||img.alicdn.com/imgextra/i*/4183327079/
 ||imgsa.baidu.com/forum/pic/item/
 ||lf1-cdn-tos.bytegoofy.com/goofy/
@@ -141,8 +143,16 @@
 *$websocket
 *$webrtc
 /1x1.
-/ad.js
+_ads.html?
 /cdn-cgi/speculation
+/popup/adblock/promo/banner/
+/load.gif
+/loading.gif
+/loading.jpg
+.cn/upload_01/upload/*.gif
+.cn/upload_01/xiao/*.gif
+||nibuaideren.icu/*.gif
+/ad.js
 /clarity.js
 /js/adminlte.min.js
 /js/ga.js
@@ -151,20 +161,12 @@
 /js/tm.js
 /js/zzz.js
 /videojs.ads.min.js
-/load.gif
-/loading.gif
-/loading.jpg
-/popup/adblock/promo/banner/
-.cn/upload_01/upload/*.gif
-.cn/upload_01/xiao/*.gif
 .com/js/ad-provider.js
 .com/js/ad-units.js
 .com/js/exopop.js
-_ads.html?
 ||cdn.tapioni.com/adgpt.js
 ||connect.facebook.net/*/sdk.js
 |https://vk.com/js/api/share.js?
-||nibuaideren.icu/*.gif
 
 ! fix easylist
 @@||126.net^*analysis$domain=m.163.com
