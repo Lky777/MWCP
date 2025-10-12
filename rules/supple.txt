@@ -1,4 +1,5 @@
 ! .A1
+||125e269609496c43dctlight203.com^
 ||18hu.link^
 ||32876879qxt.com^
 ||333wy333bb.com^
@@ -12,9 +13,10 @@
 ||abc96935812.com^
 ||aj1987.online^
 ||altzpxu.com^
-||amung.us^
+||app12.cc^
 ||auriclelureful.click^
 ||axvfinzmi.com^
+||baidu-iloveyou.xyz^
 ||bb77393629.com^
 ||canseldomsulphur.com^
 ||cknr6y.com^
@@ -23,6 +25,7 @@
 ||communicatedroopcomer.com^
 ||content-sync.xyz^
 ||cru0xr.com^
+||daigraphia.com^
 ||diligencejusticeimprobable.com^
 ||elysiumingreat.top^
 ||fcw1.site^
@@ -55,6 +58,7 @@
 ||palatable-soft.com^
 ||promptsgod.com^
 ||qrzjmjrblqzqz.top^
+||queachycorer.com^
 ||responsibleharm.pro^
 ||risliq.com^
 ||rpyislr.com^
@@ -81,10 +85,12 @@
 ||adspyglass.net^
 ||adsrvr.org^
 ||advertiserurl.com^
+||amung.us^
 ||cdnboostcache.com^
 ||clarity.ms^
 ||jads.co^
 ||simpli.fi^
+||xchina.click^
 ||xn--gps-8y0gm25n.xn--55qx5d^
 
 ! .B
@@ -144,6 +150,7 @@
 /js/juicy.js
 /js/tm.js
 /js/zzz.js
+/videojs.ads.min.js
 /load.gif
 /loading.gif
 /loading.jpg
@@ -158,6 +165,9 @@ _ads.html?
 ||connect.facebook.net/*/sdk.js
 |https://vk.com/js/api/share.js?
 ||nibuaideren.icu/*.gif
+
+! fix easylist
+@@||126.net^*analysis$domain=m.163.com
 
 ! 163
 ||m.163.com/touch/nc/api/article/relate/
@@ -339,6 +349,13 @@ www.txrjy.com###tryOpenApp
 
 ! wxsck
 .com/static/js/action.js
+
+! xchina
+|https://xchina.co/scripts/push.js?
+||xchina.co/plugins/sweetAlert2/sweetalert2.all.min.js
+||xchina.co/scripts/jquery.blockUI.min.js
+||upload.xchina.io/media/*.webp
+||upload.xchina.io/media/*.mp4
 
 ! yeeyi
 yeeyi.com##.openit
