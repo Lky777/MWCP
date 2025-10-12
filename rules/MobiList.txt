@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202510112342
-! Last modified: 11 Oct 2025 23:42 UTC
+! Version: 202510120136
+! Last modified: 12 Oct 2025 01:36 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -5192,6 +5192,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|xyg688.xyz|zz
 /videojs-analytics.js
 /videojs.ads-$script,stylesheet
 /videojs.ads.css$stylesheet
+/videojs.ads.min.js
 /videojs.ga.js
 /videojs.ga.min.js
 /videojs.ga.videocloud.js
@@ -5917,6 +5918,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|xyg688.xyz|zz
 @@||123dhang.com/supo/advertisement.js
 @@||126.net/163/frontend/share/js/
 @@||126.net/images/blank.gif
+@@||126.net^*analysis$domain=m.163.com
 @@||127.0.0.1/admin/admin_ad.php?$domain=127.0.0.1
 @@||159i.com/a_d/$media
 @@||163.com/user/event?id=
@@ -7812,6 +7814,7 @@ yydstxt*.com/js/html
 |https://www.zhihu.com/api/v4/growth/mobile_top_banner?
 |https://www.zhihu.com/api/v4/hot_recommendation?
 |https://www.zhihu.com/api/v4/questions/*/related-readings?
+|https://xchina.co/scripts/push.js?
 |javascript:*settimeout$popup
 |javascript:*window.location$popup
 |p3-sign.toutiaoimg.com/tos-cn-i-eyfl5e3fp8/
@@ -8063,6 +8066,7 @@ yydstxt*.com/js/html
 ||123rf.com/apicore-index/traffic_log
 ||123ru.net^
 ||123vidz.com^$popup
+||125e269609496c43dctlight203.com^
 ||126.com/get.do?*=themehandler.
 ||126.net/2022/0315/c82ed9e0g00r8seoy015pd00104003cp.gif
 ||126.net/caipiao/js2/dialog.js
@@ -12174,6 +12178,7 @@ yydstxt*.com/js/html
 ||app.qualified.com/*/visitor_events
 ||app.revenuehero.io/logs/ingest
 ||app.trytada.com/addimpression
+||app12.cc^
 ||app8casino.com^
 ||appadstrk.com^
 ||appanalysis.banggood.com^
@@ -12881,6 +12886,7 @@ yydstxt*.com/js/html
 ||bagpz.cn^
 ||bahamaslocal.com/img/banners/
 ||baicaishequ.com^
+||baidu-iloveyou.xyz^
 ||baidu-jxf.co^$popup
 ||baidu-taobao-av.com/js/
 ||baidu-taobao-av.com^*.gif
@@ -14454,6 +14460,7 @@ yydstxt*.com/js/html
 ||busterry.com^$popup
 ||bustle.com^*/prebid-
 ||bustlerloins.com^
+||bustles1.com^
 ||butkhidmat.com^
 ||butterfly-api.masterworks.com/v1/
 ||butterly.com/node_modules/detect.js/detect.min.js
@@ -17863,6 +17870,7 @@ yydstxt*.com/js/html
 ||dai18.mumu01.com^
 ||dai9146.xyz^
 ||daichoho.com^$popup
+||daigraphia.com^
 ||daiichiseiko.com^
 ||daiitmk.cn^
 ||daikokuya-oisii.com^
@@ -21944,6 +21952,7 @@ yydstxt*.com/js/html
 ||ggo10101lq.com^
 ||ggo10110lq.com^
 ||ggo10111lq.com^
+||ggo10120lq.com^
 ||ggptnetwork.com^
 ||ggqsidsboa.net^
 ||ggqzg3.cn^
@@ -32444,6 +32453,7 @@ yydstxt*.com/js/html
 ||qecnz.cn^
 ||qedgcxi.cn^
 ||qegeh.cn^
+||qegkek.icu^
 ||qeih.cn^
 ||qej74p.cn^
 ||qejfl.cn^
@@ -32804,6 +32814,7 @@ yydstxt*.com/js/html
 ||qucnwty.top^
 ||qudajie.com^
 ||qudao.com/common/minisite.js
+||queachycorer.com^
 ||queendancer.com^
 ||queenpedia.com^
 ||queerbio.com^
@@ -38380,6 +38391,7 @@ yydstxt*.com/js/html
 ||udn.com/common2/iframe/
 ||udofk.cn^
 ||udpf.com^
+||udsf.cn^
 ||udwlki.icu^
 ||udxi.cn^
 ||udyi.cn^
@@ -38598,6 +38610,8 @@ yydstxt*.com/js/html
 ||upload.cc/i1/2020/07/13/8bgjil.gif
 ||upload.cc^$domain=141jj.com|mizhiav.com
 ||upload.cc^$domain=99re.com
+||upload.xchina.io/media/*.mp4
+||upload.xchina.io/media/*.webp
 ||uploadcloud.pro/altad/
 ||uploadhouse.com^*.gif$domain=wishct.com
 ||uponelectabuzzor.club^$popup
@@ -40396,6 +40410,9 @@ yydstxt*.com/js/html
 ||xchina.*/plugins/jquery.modal/
 ||xchina.*/plugins/sweetalert2/
 ||xchina.*/scripts/modal/modal.js
+||xchina.click^
+||xchina.co/plugins/sweetAlert2/sweetalert2.all.min.js
+||xchina.co/scripts/jquery.blockUI.min.js
 ||xcity.org/tc2ca02c24c5.js
 ||xcmfu.com/cp.
 ||xcmvypnvgd.net^
