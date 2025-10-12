@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202510120136
-! Last modified: 12 Oct 2025 01:36 UTC
+! Version: 202510120802
+! Last modified: 12 Oct 2025 08:02 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -21953,6 +21953,7 @@ yydstxt*.com/js/html
 ||ggo10110lq.com^
 ||ggo10111lq.com^
 ||ggo10120lq.com^
+||ggo10121lq.com^
 ||ggptnetwork.com^
 ||ggqsidsboa.net^
 ||ggqzg3.cn^
@@ -24254,6 +24255,7 @@ yydstxt*.com/js/html
 ||img.0279.net^
 ||img.263y.com^
 ||img.3sjt.com^
+||img.alicdn.com/imgextra/i*/4061867744/
 ||img.alicdn.com/imgextra/i*/4183327079/
 ||img.cmm.xmfish.com/pages/uploads/20$image
 ||img.eol.cn/images/ed/$~image
@@ -38672,6 +38674,7 @@ yydstxt*.com/js/html
 ||usaw.top^
 ||usbdgef.com^
 ||usbfmi.com^
+||usbpalsmfz.com^
 ||uschhuncgd.net^
 ||useblackbox.io/telemetry
 ||usejj.makepolo.cn^
@@ -38964,6 +38967,7 @@ yydstxt*.com/js/html
 ||veryshortoffice.com^
 ||vespymedia.com^$popup
 ||vetoembrace.com^$popup
+||vetxpx.icu^
 ||vewsplode.com^
 ||vezeqzyb.com^
 ||vf.startpage.com^
@@ -41962,6 +41966,7 @@ yydstxt*.com/js/html
 ||zpoan.cn^
 ||zpzatutb.com^
 ||zq.lansedir.com^
+||zqbao.app^
 ||zqbao.vip^
 ||zqdtg.cn^
 ||zqdzv.cn^
@@ -42037,6 +42042,7 @@ yydstxt*.com/js/html
 ||zuxdlxvkry.net^
 ||zv.7vid.net^
 ||zvcexe.cn^
+||zvciaoan1k.com^
 ||zvgvenibe.com^
 ||zvvsjz.top^
 ||zvxugpcqb.com^
