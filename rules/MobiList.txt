@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202510121920
-! Last modified: 12 Oct 2025 19:20 UTC
+! Version: 202510130700
+! Last modified: 13 Oct 2025 07:00 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -7808,6 +7808,7 @@ yydstxt*.com/js/html
 |https://unpkg.zhimg.com/@cfe/sentry-script@
 |https://vk.com/js/api/share.js?
 |https://www.36dm.com/js/
+|https://www.99re.com/player/html.php?
 |https://www.cnblogs.com/*/ajax/post-accessories?
 |https://www.cnblogs.com/*/custom.css?
 |https://www.ghxi.com/wp-content/plugins/wp-opt/static/js/front.min.js?
@@ -8413,6 +8414,7 @@ yydstxt*.com/js/html
 ||22112211.xyz^
 ||222aa333bb.com^
 ||222xs.com/js/greentea.js
+||2231tpc.com^
 ||22588888.com^$popup
 ||229912.xyz^
 ||22bettracking.online^$popup
@@ -8898,6 +8900,7 @@ yydstxt*.com/js/html
 ||488apa.com^
 ||48dz.cn^
 ||4943999.com^
+||49588f.app^
 ||49ui.cn^
 ||4aqoxkesav.com^
 ||4b6994dfa47cee4.com^$popup
@@ -9131,7 +9134,9 @@ yydstxt*.com/js/html
 ||591hx.com/lunbo/
 ||591hx.com/zyrk_dy/gwjl.html
 ||594983949.com^
+||5959s03tupian.com^
 ||595image.com^
+||595image.vip^
 ||598282485421.com^
 ||59xx2yr9i.com^
 ||5a693.com^
@@ -9702,6 +9707,7 @@ yydstxt*.com/js/html
 ||95590.org/v1.
 ||95k62nnvnh.com^
 ||95qwz1.cn^
+||95tuchuang1.top^
 ||95urbehxy2dh.top^$popup
 ||95win44.com^
 ||962.net/show/all.js
@@ -14438,6 +14444,7 @@ yydstxt*.com/js/html
 ||buondua.com/hit/
 ||buondua.com/templatesygfo76jp36enw15_/
 ||bup.bankofamerica.com^
+||bupsbp.icu^
 ||buqkrzbrucz.com^$popup
 ||buresdv.top^
 ||burkerwatches.com^
@@ -18152,7 +18159,6 @@ yydstxt*.com/js/html
 ||ddvbjehruuj5y.cloudfront.net^
 ||ddvfoj5yrl2oi.cloudfront.net^
 ||ddxwjtou7avz0.cloudfront.net^
-||ddyunbo.com^
 ||ddzswov1e84sp.cloudfront.net^
 ||de-cix.net^
 ||de-nfast.com^
@@ -18238,7 +18244,6 @@ yydstxt*.com/js/html
 ||demdex.net^
 ||demksw.cn^
 ||demo-chat-airport.com^
-||demosphere.com^
 ||demowebcode.online^$popup
 ||demwi.cn^
 ||dendrito.name^$popup
@@ -21719,6 +21724,7 @@ yydstxt*.com/js/html
 ||gcsh3bxck.com^
 ||gct.americanexpress.com^
 ||gcw*.2liang.cn^
+||gcxg67.cc^
 ||gd.189.cn*/push/$popup
 ||gd.ct10000.com/js/ecssstat.js
 ||gd.sina.com.cn/iframe/22/
@@ -21955,6 +21961,8 @@ yydstxt*.com/js/html
 ||ggo10111lq.com^
 ||ggo10120lq.com^
 ||ggo10121lq.com^
+||ggo10130lq.com^
+||ggo10131lq.com^
 ||ggptnetwork.com^
 ||ggqsidsboa.net^
 ||ggqzg3.cn^
@@ -24256,6 +24264,7 @@ yydstxt*.com/js/html
 ||img.0279.net^
 ||img.263y.com^
 ||img.3sjt.com^
+||img.alicdn.com/imgextra/i*/3382900570/
 ||img.alicdn.com/imgextra/i*/4061867744/
 ||img.alicdn.com/imgextra/i*/4183327079/
 ||img.cmm.xmfish.com/pages/uploads/20$image
@@ -24787,6 +24796,7 @@ yydstxt*.com/js/html
 ||irlad.cn^
 ||irlj.cn^
 ||irp37bmmt.com^
+||irr7idq6i.com^
 ||irresponsibilityhookup.com^$popup
 ||irrigatenotwithstandingcommit.com^$popup
 ||irs.gov/h4z97hz8jmrno/
@@ -26509,6 +26519,7 @@ yydstxt*.com/js/html
 ||lewdspot.com/img/aff_
 ||lex5pr.cn^
 ||lexology.com/pd.js
+||leyf5q4rk.com^
 ||lezkm.cn^
 ||lf1-cdn-tos.bytegoofy.com/goofy/
 ||lf2sgn.cn^
@@ -30482,6 +30493,7 @@ yydstxt*.com/js/html
 ||otzyvru.com^
 ||ouaisweb.com^
 ||ouaxc.cn^
+||ouccoc.icu^
 ||oucnmtk.top^
 ||ouebfue.com^
 ||ougeechimp.net^$popup
@@ -32110,7 +32122,6 @@ yydstxt*.com/js/html
 ||pstatp.com/origin/1381500009611bc201d61
 ||pstatp.com/origin/13816000374e83a453717.jpg
 ||pstatp.com/origin/fef20000e7013b3511b6
-||pstatp.com^
 ||pstatp.com^$domain=5217kdy1.xyz
 ||pstatp.com^*/bannersdk/
 ||pstatp.com^*/push.js
@@ -32626,6 +32637,7 @@ yydstxt*.com/js/html
 ||qlghunil.com^
 ||qlkysc.icu^
 ||qllfkl.com^
+||qloxy-35839.cc^
 ||qlpef.cn^
 ||qls2.cn^
 ||qm.redbull.com^
@@ -33390,6 +33402,7 @@ yydstxt*.com/js/html
 ||renuevatucloset.com^
 ||renwai.ren/cdn/pic/ad
 ||reorganizeache.com^$popup
+||reorganizes64.com^
 ||reown.com^
 ||repian.com/a/
 ||replaceexplanationevasion.com^$popup
@@ -33548,6 +33561,7 @@ yydstxt*.com/js/html
 ||rhinoaffiliates.com^$popup
 ||rhinoslist.com/sideb/get_laid-300.gif
 ||rhkrf.cn^
+||rhmt1jjyo.com^
 ||rhndvagz.icu^
 ||rhoditegrunter.shop^$popup
 ||rhombusads.com^
@@ -35144,6 +35158,7 @@ yydstxt*.com/js/html
 ||slv525627.com^
 ||slview.psne.jp^
 ||slysoft.com/img/banner/
+||sm2ralisg.com^
 ||smac-ad.com^
 ||smadaver.com^
 ||smallcab.net^
@@ -36303,6 +36318,7 @@ yydstxt*.com/js/html
 ||svtcu.cn^
 ||svualcsutr.net^
 ||svvpi.cn^
+||svwo.cn^
 ||svydv.cn^
 ||svzkhal2zh.com^
 ||sw76r85eda3k.com/need/h5.
