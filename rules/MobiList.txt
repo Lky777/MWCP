@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202510141922
-! Last modified: 14 Oct 2025 19:22 UTC
+! Version: 202510151922
+! Last modified: 15 Oct 2025 19:22 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -32,7 +32,7 @@ $script,subdocument,websocket,xmlhttprequest,domain=bhshu.net|louzhong8.com|miwe
 $script,websocket,domain=52codes.net
 $third-party,websocket,xmlhttprequest,domain=qiyoudy2.com|qiyoudy4.com
 $third-party,xmlhttprequest,domain=opensubtitles.org
-$third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|xyg688.xyz|zzzzz688.com
+$third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 &&sub19=undefined&sub20=undefined
 &action=js_stats
 &adb=y&adb=y^$popup
@@ -7453,8 +7453,8 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|xyg688.xyz|zz
 @@||wwads.cn/js/makemoney.js$domain=baomidou.com
 @@||www.gamersky.com/gsinc/$subdocument
 @@||www.google.*/adsense/$~third-party,domain=google.cn
-@@||www.google.*/search?$domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fi|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se|google.sk
 @@||www.google.*/search?$generichide
+@@||www.google.*/search?$xmlhttprequest
 @@||www.google.*/search?q=*&oq=*&aqs=chrome.*&sourceid=chrome&$popup
 @@||www.google.com/ads/preferences/$image,script,subdocument
 @@||www.microsoft.com/onerfstatics/marketingsites-*/ad-$script
@@ -19084,6 +19084,7 @@ zrwprhw.xyz
 ||donghuastore.com^
 ||dongtukj.oss-cn-hongkong.aliyuncs.com^
 ||donkeyflower.xyz^$popup
+||donorstuffed.com^$popup
 ||dontol.net^
 ||donut-equipment.com^
 ||doo9gpa5xdov2.cloudfront.net^
@@ -21776,6 +21777,7 @@ zrwprhw.xyz
 ||galacg.me/wp-content/uploads/*750x
 ||galaxsys-gamesalt4-54rg78cw.com^
 ||galaxy.sogoucdn.com/galaxy/
+||galaxyearningsfly.com^$popup
 ||galaxymedia.xyz/app/images/banner.gif
 ||galaxypush.com^$popup
 ||galerie-sakura.com^
@@ -22172,8 +22174,11 @@ zrwprhw.xyz
 ||ggo10131lq.com^
 ||ggo10140lq.com^
 ||ggo10141lq.com^
+||ggo10150lq.com^
+||ggo10151lq.com^
 ||ggqsidsboa.net^
 ||ggqzg3.cn^
+||ggrumillu.com^
 ||ggs.myzaker.com^
 ||ggtp-1255424916.cos.ap-chengdu.myqcloud.com^
 ||ggw.gusuwang.com^
@@ -25597,6 +25602,7 @@ zrwprhw.xyz
 ||jkn05310loi.com^
 ||jkn05311loi.com^
 ||jktkhn.top^
+||jkwybt9hc.com^
 ||jl15c2.cn^
 ||jldsfd.icu^
 ||jlgfyp.com^
@@ -26873,6 +26879,7 @@ zrwprhw.xyz
 ||lhinsights.com/collect?
 ||lhranp.icu^
 ||lhrzl.cn^
+||lhvlkgbkjmrnc.com^
 ||lhvzlzzb5.com^
 ||lhxolz.icu^
 ||liadm.com^
@@ -30320,6 +30327,7 @@ zrwprhw.xyz
 ||ojucohstech.net^
 ||ojxr.cn^
 ||ok.com^
+||ok3o5s3xi.com^
 ||ok5.fun^
 ||ok55rio.com^
 ||ok55rio1.com^
@@ -34664,6 +34672,7 @@ zrwprhw.xyz
 ||scroogefrog.com^
 ||scrorlaets.com^
 ||scroscoi.com^
+||scruffy.top^
 ||scrugokl.com^
 ||scrutinizer-ci.com^
 ||sctclick2.com^
@@ -35553,6 +35562,7 @@ zrwprhw.xyz
 ||sneakerfright.xyz^
 ||sneakerpolitics.com^
 ||sneakersq5.com^
+||sneakyadministration.com^$popup
 ||sngmta.qq.com^
 ||snipercentral.com/images/banners/
 ||snipermob.com^
@@ -37192,6 +37202,7 @@ zrwprhw.xyz
 ||telyn610zoanthropy.com^$popup
 ||temksrtd.net^$popup
 ||temperrunnersdale.com^$popup
+||templates.cds.yahoo.com/remote/widget?
 ||tempr.email/public/responsive/gfx/awrapper/
 ||temquever.top^
 ||temu.com/api/adx/
@@ -38347,6 +38358,7 @@ zrwprhw.xyz
 ||trkred.com^$popup
 ||trksmorestreacking.com^$popup
 ||trlptm.top^
+||trmn.cn^
 ||trmobc.com^$popup
 ||trofp.com^
 ||trohycv.top^
@@ -38710,6 +38722,7 @@ zrwprhw.xyz
 ||u25022.com^
 ||u2uyu876x.com^
 ||u33011.com^
+||u3qrlykp2.com^
 ||u3r7hi.cn^
 ||u408n6z4f.top^
 ||u46.pnc.com^
@@ -40897,6 +40910,7 @@ zrwprhw.xyz
 ||xapi.juicyads.com^
 ||xapu7phoge.com^
 ||xaqnbj.cn^
+||xarfxj.icu^
 ||xarvilo.com^$popup
 ||xatakamovil.com^
 ||xav*.icu/base/js/other.js
@@ -41110,6 +41124,7 @@ zrwprhw.xyz
 ||xlbra.cn^
 ||xldja.cn^
 ||xldyxnzo6.com^
+||xleemek84.com^
 ||xliirdr.com^$popup
 ||xlirdr.com^
 ||xlirdr.com^$popup
