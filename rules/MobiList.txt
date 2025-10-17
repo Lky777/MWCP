@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202510161921
-! Last modified: 16 Oct 2025 19:21 UTC
+! Version: 202510171921
+! Last modified: 17 Oct 2025 19:21 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -1555,6 +1555,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /assets/ads/*$~image,domain=~outlook.live.com
 /assets/banners/600x100/
 /assets/beacons.js
+/assets/bn/movie.jpg$image,domain=vidstream.pro
 /assets/dayu/ainfiniteactivity-
 /assets/performance_timing-
 /assets/sidebar/*$domain=v2ex.com
@@ -3032,6 +3033,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /js/ad1.
 /js/ad_common.js$script
 /js/ad_tv.js
+/js/adblockdetect.js$script
 /js/admiral-
 /js/adpopup.js$script
 /js/adv-slide-toggle.
@@ -4676,6 +4678,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /sticky_ads.js$script
 /stickyad.js$script
 /stickyads.js$script
+/storage/js/videojs.sda.js$script
 /storeadvimpression.jsp
 /storefront.google-analytics-4.min.js
 /stormcaster.js
@@ -5194,7 +5197,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /videojs.ga.js
 /videojs.ga.min.js
 /videojs.ga.videocloud.js
-/videojs.sda.js$script
 /videojs/video-conrtib-ads.js
 /videotracking.js
 /vidtrack.js
@@ -5648,6 +5650,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 ://rou*/_next/static/chunks/pages/home-
 ://rs-stripe.wsj.com/stripe/image?
 ://rum.collector.
+://s.*.com/venor.php$third-party
 ://s.htkk*.top:$script
 ://segment-api.
 ://segment-cdn.
@@ -7853,7 +7856,7 @@ wss://www.*.xyz/ws^$third-party
 wwads.cn
 www.startpage.com##.mobile-app-promo-banner
 www.txrjy.com###tryOpenApp
-www.zhzzx.com/assets/bn/movie.jpg$image,domain=vidstream.pro
+www.zhzzx.com||18onlygirls.tv/wp-content/banners/
 x.jd.com
 xshellcn.com
 yeeyi.com##.openit
@@ -8341,7 +8344,6 @@ zrwprhw.xyz
 ||18comic.*/static/resources/images/*.gif
 ||18comic.*/static/resources/images/photo(3).jpg
 ||18comic.*/templates/frontend/airav/emoji/emojionearea.css
-||18onlygirls.tv/wp-content/banners/
 ||18porn.sex/ptr18.js
 ||18pussy.porn/ab/
 ||18qozm.cn^
@@ -9302,6 +9304,7 @@ zrwprhw.xyz
 ||6-partner.com^$popup
 ||6.cn/coop/pub/getrand.php?
 ||60.190.139.164^
+||600g3yf2p.com^
 ||6080.tv/public/js/m/uaredirectformobile.js
 ||6080aa.com/template/*/images/g_js/
 ||6080w.com/template/ttk/img/
@@ -9406,6 +9409,7 @@ zrwprhw.xyz
 ||6hezi.com^
 ||6hl83j.cn^
 ||6hlabh.cn^
+||6jei0t6xp.com^
 ||6jt7al.cn^
 ||6jubu0.cn^
 ||6jyi7mzae.com^
@@ -14539,6 +14543,7 @@ zrwprhw.xyz
 ||btguard.com/images/
 ||btime.com/api/weblog?
 ||btimiyv.top^
+||btjsvl.icu^
 ||btkat.com/style/l.js
 ||btkqi.cn^
 ||btldr.net^
@@ -14647,6 +14652,7 @@ zrwprhw.xyz
 ||butkhidmat.com^
 ||butterfly-api.masterworks.com/v1/
 ||butterly.com/node_modules/detect.js/detect.min.js
+||buttocks33.com^
 ||buttonsandbowsny.com^
 ||buucp.cn^
 ||buwpu.cn^
@@ -16317,6 +16323,7 @@ zrwprhw.xyz
 ||com/union/$script,domain=~linkstars.com
 ||com/vshow.php?id=
 ||com/webad/
+||com052bin.com^
 ||come-get-s0me.com^$popup
 ||come-get-s0me.net^$popup
 ||comefromchina.com/images/128bestbuy
@@ -18940,6 +18947,7 @@ zrwprhw.xyz
 ||dm1.ddwk8.cn^
 ||dm1.zjydt.com^
 ||dm50eugvywuiu.cloudfront.net^
+||dm568354.xyz^
 ||dm62uysn32ppt.cloudfront.net^
 ||dm7gsepi27zsx.cloudfront.net^
 ||dm7ii62qkhy9z.cloudfront.net^
@@ -26514,6 +26522,7 @@ zrwprhw.xyz
 ||kvhee.com^
 ||kvpkm.cn^
 ||kvqp.cn^
+||kw17vswzu.com^
 ||kwcnmtd.top^
 ||kweisid.top^
 ||kweizad.top^
@@ -30352,6 +30361,7 @@ zrwprhw.xyz
 ||oklink.com/api/explorer/v2/index/text-advertisement?
 ||oklink.com/jsstat/
 ||okooo.com/i/?method=system.data.ad&
+||okoy.cn^
 ||okpl04301ai.com^
 ||okpl05010ai.com^
 ||okpl05011ai.com^
@@ -34370,6 +34380,7 @@ zrwprhw.xyz
 ||s.cdin.me/i.php
 ||s.click.aliexpress.com^$popup,domain=dzapk.com|up-4ever.net
 ||s.collectiveaudience.co^
+||s.dspbw7.com^
 ||s.everydayporn.co^
 ||s.go.sohu.com^*/?callback=
 ||s.gofile.io^
@@ -42267,6 +42278,7 @@ zrwprhw.xyz
 ||zhanqi.tv/api/static/v2.1/actives.lists/
 ||zhaofuli.*/data/content
 ||zhaopinningxiang.com^
+||zhbhivvoid.com^
 ||zhekv.cn^
 ||zhenben.cc/2000/
 ||zhenbuka*/statics/js/toastr/jquery.toast.js
@@ -42520,6 +42532,8 @@ zrwprhw.xyz
 ||zsjxwj.com^
 ||zsomc.cn^
 ||zsy10161yok.com^
+||zsy10170yok.com^
+||zsy10171yok.com^
 ||zt.chuanke.com/?mod=
 ||zt2088.com^
 ||ztcnq.cn^
