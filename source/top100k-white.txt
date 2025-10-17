@@ -1,32 +1,4 @@
 domain
-workfrontdam.com
-pollev.com
-pushbullet.com
-raycast-releases.com
-zassets.com
-savvaseasybridge.com
-proctorio.net
-munisselfservice.com
-padletusercontent.com
-solgenomics.net
-mycardinfo.com
-onpointcu.com
-secure-marinersbk.com
-tpicap.com
-mynagad.com
-aetnabetterhealth.com
-modmedcloud.com
-premera.com
-wcgclinical.com
-rhcloud.com
-aliyunddos0015.com
-earthlink-vadesecure.net
-aman.com
-asadventure.com
-beaches.com
-georgiadogs.com
-nouvelair.com
-sdmts.com
 0-8-0-a.com
 0-p-b-l.com
 0.sb
@@ -3594,6 +3566,7 @@ aethir.com
 aetn.com
 aetna.com
 aetnabetherhealth.com
+aetnabetterhealth.com
 aetnd.com
 aetrex.com
 aetv.com
@@ -4756,6 +4729,7 @@ aliyunddos0008.com
 aliyunddos0009.com
 aliyunddos0010.com
 aliyunddos0013.com
+aliyunddos0015.com
 aliyunddos0017.com
 aliyunddos0018.com
 aliyunddos0019.com
@@ -5282,6 +5256,7 @@ amaicdn.com
 amainhobbies.com
 amaldate.com
 amalgama-lab.com
+aman.com
 amandahot.com
 amandahugnkiss.org
 amandascookin.com
@@ -7511,6 +7486,7 @@ asaas.com
 asacloud.eu
 asacp.org
 asadcdn.com
+asadventure.com
 asafavidanmusic.com
 asahi.co.jp
 asahi.com
@@ -10538,6 +10514,7 @@ bea-brak.de
 beachab.com
 beachbody.com
 beachbodyondemand.com
+beaches.com
 beachpark.com.br
 beacon.li
 beaconbank.jp
@@ -26749,6 +26726,7 @@ earth.com
 earth2trust.com
 earthcam.com
 earthcam.net
+earthlink-vadesecure.net
 earthlink.net
 earthmc.net
 earthnetworks.com
@@ -35681,6 +35659,7 @@ geopop.it
 geoportal.gov.pl
 geoproapp.com
 georgescreek.org
+georgiadogs.com
 georgiamls.com
 georiot.com
 geosapp.com
@@ -57823,6 +57802,7 @@ modlily.com
 modlily.net
 modmed.com
 modmedapp.com
+modmedcloud.com
 modmedpay.com
 modmyi.com
 modo.us
@@ -59069,6 +59049,7 @@ municipalonlinepayments.com
 municode.com
 munimob.com
 munimob123.com
+munisselfservice.com
 muniu.cloud
 munpia.com
 muoapeicp.top
@@ -59412,6 +59393,7 @@ mycache.org
 mycactus.com
 mycadent.com
 mycafe.games
+mycardinfo.com
 mycardplace.com
 mycareersfuture.gov.sg
 mycarfax.com
@@ -59749,6 +59731,7 @@ mymusic2025.com
 mymusicstaff.com
 mymuslimdaily.com
 myn4me.online
+mynagad.com
 mynavi.jp
 mynavyexchange.com
 myneighboralice.com
@@ -62721,6 +62704,7 @@ nou.edu.ng
 nourishcare.co.uk
 nourishcare.com
 nournews.ir
+nouvelair.com
 nouvelle-page-sante.info
 nouvelobs.com
 nov.com
@@ -64686,6 +64670,7 @@ onpbx.ru
 onpdr.com
 onpeterconnects.com
 onpixhst.ru
+onpointcu.com
 onpoowu.com
 onprospects.com
 onpwe.club
@@ -66087,6 +66072,7 @@ padlet.com
 padlet.net
 padlet.org
 padletcdn.com
+padletusercontent.com
 padmapper.com
 paessler.ag
 paessler.com
@@ -69294,6 +69280,7 @@ poll.fish
 polldaddy.com
 pollen.com
 pollensense.com
+pollev.com
 polleverywhere.com
 pollfish.com
 pollinationgroup.com
@@ -70056,6 +70043,7 @@ prehrajto.cz
 preissmurphy.com
 preludesecurity.com
 premcrashdata.com
+premera.com
 premet.com
 premicloud.net
 premid.app
@@ -70479,6 +70467,7 @@ proctersharp.com
 proctor.io
 proctorauth.com
 proctorcollect.com
+proctorio.net
 proctoru.com
 procurify.com
 procyclingstats.com
@@ -71385,6 +71374,7 @@ pushauction.com
 pushbaza.com
 pushbr.com
 pushbt.com
+pushbullet.com
 pushclk.com
 pushcrew.com
 pushd.com
@@ -72887,6 +72877,7 @@ ray.life
 ray.so
 rayatheapp.com
 rayban.com
+raycast-releases.com
 raycast.com
 raycast.com
 raychat.io
@@ -74359,6 +74350,7 @@ rhapsody.com
 rhbgroup.com
 rhbjlfy.org
 rhbms.net
+rhcloud.com
 rhebo.net
 rheem.com
 rheemconnect.com
@@ -76711,6 +76703,7 @@ savoryspiceshop.com
 savoyhouse.com
 savsp.com
 savsq.com
+savvaseasybridge.com
 savvasrealize.com
 savvis.net
 savvy.security
@@ -77336,6 +77329,7 @@ sdl.pw
 sdlcdn.com
 sdmc.tv
 sdmccloud.com
+sdmts.com
 sdn.cz
 sdna.gr
 sdnode.top
@@ -77589,6 +77583,7 @@ secure-dbprimary.com
 secure-dns.eu
 secure-hotel-booking.com
 secure-mailgate.com
+secure-marinersbk.com
 secure-messaging.com
 secure-platform.com
 secure-primarysite.net
@@ -81507,6 +81502,7 @@ soleustalions.top
 solflare.com
 solflare.network
 solfrin.com
+solgenomics.net
 solibri.com
 solides.com
 solides.com.br
@@ -89758,6 +89754,7 @@ tpgl.app
 tpgtelecom.com.au
 tphcm.gov.vn
 tpi.li
+tpicap.com
 tplatform.net
 tplink.com
 tplinkcloud.com
@@ -97168,6 +97165,7 @@ wcdn.co.il
 wcdnga.com
 wcentrix.com
 wcfbc.net
+wcgclinical.com
 wchat.app
 wchatlink.com
 wcipeg.com
@@ -99191,6 +99189,7 @@ workforceaustralia.gov.au
 workforcetna.com
 workfront.com
 workfront.com
+workfrontdam.com
 workhuman.com
 workindia.in
 working-dog.com
@@ -102119,6 +102118,7 @@ zarpop.ir
 zascdn.me
 zasilkovna.cz
 zasobygwp.pl
+zassets.com
 zastupnik.help
 zatca.gov.sa
 zatpark.com
