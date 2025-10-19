@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202510181920
-! Last modified: 18 Oct 2025 19:20 UTC
+! Version: 202510191920
+! Last modified: 19 Oct 2025 19:20 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -948,7 +948,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /aadd/$image,object
 /aap/stats
 /aas/r45d/vki/*$third-party
-/ab_fl.js$script
 /ab_my/pc_pf.js
 /ab_res/m/common.js
 /ab_res/pc/fixed/fixed.js
@@ -9065,6 +9064,7 @@ zrwprhw.xyz
 ||4wmiuiyd70.com^
 ||4wu8cr.cn^
 ||4xicd08qs.com^
+||4z50jczq2.com^
 ||4za8z0.cn^
 ||4zn.fun^
 ||5.45.79.15^$popup
@@ -9622,6 +9622,7 @@ zrwprhw.xyz
 ||83win44.com^
 ||842e61e68b.com^
 ||843848394.com^
+||84dwl4bbq.com^
 ||84l223op.com^
 ||84laet.cn^
 ||84lg.cn^
@@ -11436,6 +11437,7 @@ zrwprhw.xyz
 ||albonsa.com^$popup
 ||albws.cn^
 ||alby.net/tracking-service/
+||alcoholic56.top^
 ||aldevadigital.com^
 ||aldrx.cn^
 ||aldtop.com/scrtips/
@@ -16411,6 +16413,7 @@ zrwprhw.xyz
 ||consent.trustarc.com/noticemsg?
 ||console-telemetry.oci.oraclecloud.com^
 ||console.uxlens.com^
+||consoletarget.com/js/pp.js
 ||consprc.com^
 ||constellation.networknmedia.com/cdn-cgi/trace
 ||construct-arcade.com^
@@ -24620,6 +24623,7 @@ zrwprhw.xyz
 ||imgs.signifyd.com^
 ||imgsa.baidu.com/forum/pic/item/
 ||imgsrc.baidu.com/tieba/pic/item/$image
+||imgsrv4.com/sponsor/$image
 ||imgsrv4.com^
 ||imgstat.baidu.com^
 ||imgtaxi.com/ea/
@@ -26852,6 +26856,7 @@ zrwprhw.xyz
 ||lezhinus.com^
 ||lezkm.cn^
 ||lf1-cdn-tos.bytegoofy.com/goofy/
+||lf2cgxz0b.com^
 ||lf2sgn.cn^
 ||lfangshuo.com^
 ||lfarewesbeginn.com^
@@ -37528,6 +37533,7 @@ zrwprhw.xyz
 ||tiktokv.com/monitor_browser/
 ||tiktokv.com/web/report?
 ||tiktokv.us/monitor_browser/
+||tikz.cn^
 ||tilanalytics.timesinternet.in^
 ||tildacdn.com/pixel.png
 ||tildadns.com^
@@ -40887,6 +40893,7 @@ zrwprhw.xyz
 ||x360xs.com/tops/
 ||x3mads.com^
 ||x3os.com^$popup
+||x3pfkiohz.com^
 ||x43slxjwzx.com^
 ||x49re8uk.xyz^
 ||x4d.icu^
@@ -41152,6 +41159,7 @@ zrwprhw.xyz
 ||xlzbearing.com^
 ||xmatch.com^$popup
 ||xmbb.net^
+||xmbfrn.icu^
 ||xmcdn.com/storages/f651-customerservice/e3/40/gaqhntalzruhaaj3lgotttoz.
 ||xmcimg.com/js/m.js
 ||xmegadrive.com^
@@ -41351,6 +41359,7 @@ zrwprhw.xyz
 ||xxik04.cn^
 ||xxip9.top^
 ||xxipz.com^
+||xxir.com/static/images/ad.
 ||xxjcy.com^
 ||xxllrpd.top^
 ||xxm0.cn^
@@ -42522,6 +42531,8 @@ zrwprhw.xyz
 ||zsy10171yok.com^
 ||zsy10180yok.com^
 ||zsy10181yok.com^
+||zsy10190yok.com^
+||zsy10191yok.com^
 ||zt.chuanke.com/?mod=
 ||zt2088.com^
 ||ztcnq.cn^
