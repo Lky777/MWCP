@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202510191920
-! Last modified: 19 Oct 2025 19:20 UTC
+! Version: 202510201923
+! Last modified: 20 Oct 2025 19:23 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -7980,6 +7980,7 @@ zrwprhw.xyz
 ||0a7baba6f0.com^
 ||0a7vil.cn^
 ||0b4qu3nxa.com^
+||0b6rvr210q.com^
 ||0cep1v.cn^
 ||0dwm.icu^
 ||0elksx.cn^
@@ -9581,6 +9582,7 @@ zrwprhw.xyz
 ||7u6h8.xyz^
 ||7wbwv2k6.com^
 ||7we8hnfgj.xyz^
+||7wzx9.com/tbad.
 ||7x7n.com/static/image/888.jpg
 ||7x7n.com/static/pic/*.jpg
 ||7x9i88rvn.com^
@@ -9910,6 +9912,7 @@ zrwprhw.xyz
 ||9pgy4f.cn^
 ||9rtjz0.cn^
 ||9s17xiaz.com^
+||9swovqnp52.com^
 ||9sy5k2.cn^
 ||9t5.me^$popup
 ||9tata.com/js/pbanner.js
@@ -14448,6 +14451,7 @@ zrwprhw.xyz
 ||brieflizard.com^$popup
 ||brightadnetwork.com^
 ||brightadnetwork.com^$popup
+||brightcove.com/playback/v1/accounts/6415665815001/videos/$domain=s.yimg.com
 ||brighteon.tv/assets/arf/
 ||brighter.com^
 ||brighthorip.xyz^
@@ -19213,6 +19217,7 @@ zrwprhw.xyz
 ||dpuppers.com^$popup
 ||dpuz3hexyabm1.cloudfront.net^
 ||dpvzw.cn^
+||dpxadf.icu^
 ||dpycz.cn^
 ||dq06u9lt5akr2.cloudfront.net^
 ||dq38rjje7qjm3.cloudfront.net^
@@ -23984,7 +23989,6 @@ zrwprhw.xyz
 ||hujiang.com/web/tx.ashx
 ||hujro.cn^
 ||hujwly.cn^
-||hulichuang.mobi^
 ||hulkshare.com/ajax/tracker.php
 ||hulu.com/metricsconfig
 ||huluads.info^$popup
@@ -24928,6 +24932,7 @@ zrwprhw.xyz
 ||interracial-girls.com/chaturbate/
 ||interracial-girls.com/i/$image
 ||intersc.igaming-service.io^$domain=hltv.org
+||interviewbq.com^
 ||intg.snapchat.com^
 ||inthatmovie.com^
 ||intimtur.com^
@@ -27641,6 +27646,7 @@ zrwprhw.xyz
 ||m6d3h9vc3z.com^
 ||m6njgd.cn^
 ||m6s4z7.cn^
+||m78vxjm35d.com^
 ||m7xssfiit.com^
 ||m81mfege2.com^
 ||m8ryjf38a.com^
@@ -27901,6 +27907,7 @@ zrwprhw.xyz
 ||masklink.org^$popup
 ||masonicgenealogy.com^
 ||masonrycruor.shop^$popup
+||masque.com/games/api/advert/
 ||masralyoum.net^
 ||massages-montreal.com^
 ||massariuscdn.com/pubs/
@@ -34873,6 +34880,8 @@ zrwprhw.xyz
 ||servemyad.com^
 ||serveonsite.com^
 ||serveradd.com^
+||serververify.com/advertisement/
+||serververify.com/providers/ad-load/
 ||servetean.site^$popup
 ||servewareindia.com^
 ||service.iwara.tv/z/z.php
@@ -37899,6 +37908,7 @@ zrwprhw.xyz
 ||tqpsp.cn^
 ||tqrad.com^
 ||tqslt.cn^
+||tqub.cn^
 ||tqwrj.cn^
 ||tqx82f.cn^
 ||tr-boost.com^$popup
@@ -38931,6 +38941,7 @@ zrwprhw.xyz
 ||ultraprotrack.com^
 ||ultravnc.net^
 ||ultravpnoffers.com^$popup
+||ulwzinqlh0.com^
 ||um.contentstudio.io^
 ||um5xcgngmart.xyz^
 ||umami.aigenerations.net^
@@ -41698,13 +41709,17 @@ zrwprhw.xyz
 ||yikeyz.com/pm.js
 ||yilianmeiti.com^
 ||yimc.cn^
+||yimg.com/aaq/benji/benji-
 ||yimg.com/aaq/vzm/$script,domain=news.yahoo.com
+||yimg.com/aaq/vzm/cs_*.js
 ||yimg.com/aaq/wf/wf-darla-
 ||yimg.com/cv/ae/default/*_static-jpeg_
 ||yimg.com/cv/api/hk/fp_czy_ad/
 ||yimg.com/cx/vzm/cs.js
 ||yimg.com/no/$domain=~yahoo.com
 ||yimg.com/rq/darla/$domain=yahoo.com
+||yimg.com/rx/ev/lib/comscore-
+||yimg.com/ss/analytics3.js
 ||yimg.com/ss/vops.js
 ||yimg.com/wi/ytc.js
 ||yimh.cn^
@@ -42533,6 +42548,8 @@ zrwprhw.xyz
 ||zsy10181yok.com^
 ||zsy10190yok.com^
 ||zsy10191yok.com^
+||zsy10200yok.com^
+||zsy10201yok.com^
 ||zt.chuanke.com/?mod=
 ||zt2088.com^
 ||ztcnq.cn^
