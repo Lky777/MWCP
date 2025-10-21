@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202510201923
-! Last modified: 20 Oct 2025 19:23 UTC
+! Version: 202510211924
+! Last modified: 21 Oct 2025 19:24 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -1554,7 +1554,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /assets/ads/*$~image,domain=~outlook.live.com
 /assets/banners/600x100/
 /assets/beacons.js
-/assets/bn/movie.jpg$image,domain=vidstream.pro
 /assets/dayu/ainfiniteactivity-
 /assets/performance_timing-
 /assets/sidebar/*$domain=v2ex.com
@@ -7855,7 +7854,7 @@ wss://www.*.xyz/ws^$third-party
 wwads.cn
 www.startpage.com##.mobile-app-promo-banner
 www.txrjy.com###tryOpenApp
-www.zhzzx.com||18onlygirls.tv/wp-content/banners/
+www.zhzzx.com/assets/bn/movie.jpg$image,domain=vidstream.pro
 x.jd.com
 xshellcn.com
 yeeyi.com##.openit
@@ -8344,6 +8343,7 @@ zrwprhw.xyz
 ||18comic.*/static/resources/images/*.gif
 ||18comic.*/static/resources/images/photo(3).jpg
 ||18comic.*/templates/frontend/airav/emoji/emojionearea.css
+||18onlygirls.tv/wp-content/banners/
 ||18porn.sex/ptr18.js
 ||18pussy.porn/ab/
 ||18qozm.cn^
@@ -9485,6 +9485,7 @@ zrwprhw.xyz
 ||75db8ff512.com^
 ||75lb.cn^
 ||75r551.cn^
+||75rakcovr.com^
 ||75win44.com^
 ||7620007.com^
 ||766lnwfo7h.com^
@@ -12414,6 +12415,7 @@ zrwprhw.xyz
 ||aqczwowu.com^
 ||aqdy.net/js/banner.js
 ||aqdy.net/js/tj.js
+||aqftgalqig.com^
 ||aqgjqy.icu^
 ||aqkid.cn^
 ||aqkjt.cn^
@@ -12644,6 +12646,7 @@ zrwprhw.xyz
 ||atcdn.co.uk/frostbite/
 ||atcelebitor.com^$popup
 ||atechmemory.com^
+||atekag.cn^
 ||atentherel.org^$popup
 ||atepcs.icu^
 ||atgjt.cn^
@@ -13766,6 +13769,7 @@ zrwprhw.xyz
 ||bfpartners.click^$popup
 ||bfpgf.com/wp-content/uploads/2015/08/360dxs.jpg
 ||bfthrelgad.com^
+||bftvpp.icu^
 ||bfza8z.cn^
 ||bfzdkf.cn^
 ||bfzyapi.com^
@@ -13849,6 +13853,7 @@ zrwprhw.xyz
 ||bidverdrd.com^$popup
 ||bidverdrs.com^$popup
 ||bidvertiser.com^$popup
+||biejdy1d1.com^
 ||bieow.cn^
 ||bieuc.icu^
 ||big-boss-tracker.net^
@@ -14451,7 +14456,6 @@ zrwprhw.xyz
 ||brieflizard.com^$popup
 ||brightadnetwork.com^
 ||brightadnetwork.com^$popup
-||brightcove.com/playback/v1/accounts/6415665815001/videos/$domain=s.yimg.com
 ||brighteon.tv/assets/arf/
 ||brighter.com^
 ||brighthorip.xyz^
@@ -21305,6 +21309,7 @@ zrwprhw.xyz
 ||fnboom.com^
 ||fncgk.cn^
 ||fngmeat.top^
+||fnoc.cn^
 ||fnpyl.cn^
 ||fntrl.cn^
 ||fnysdmot.com^
@@ -22800,6 +22805,7 @@ zrwprhw.xyz
 ||growingtotallycandied.com^$popup
 ||growthol22.com^
 ||grqeb.cn^
+||grrergiol.com^
 ||grscty.com/images/banner/
 ||grsnhiawf.com^
 ||grtimed.com/material/*_960x110_
@@ -28331,6 +28337,7 @@ zrwprhw.xyz
 ||mewe.com/ubk4jrxn.js
 ||mexicanok.com^
 ||mf1mrn.cn^
+||mf6xyfh3c.com^
 ||mfacelive.com/scripts/social/openchannel_min.js
 ||mfadsrvr.com^
 ||mfasa.chase.com/auth/js/jpmc_bb_check.js
@@ -29691,6 +29698,7 @@ zrwprhw.xyz
 ||nicolethemathlady.com^
 ||nid.thesun.co.uk^
 ||nid.thetimes.com^
+||nidckjnc.com^
 ||niecarsg.com^
 ||nievolmqn.com^
 ||nightbesties.com^$popup
@@ -30570,6 +30578,7 @@ zrwprhw.xyz
 ||onykp.com^
 ||oo-syringe.com/prod/moat.js
 ||oo3z.icu^
+||oocommapi2.aswatson.com/kf/*/tracking/
 ||oodcd.cn/pan/config/ad.json
 ||oodcd.cn/pan/config/copy.
 ||oodcd.cn/pan/config/history.
@@ -31158,6 +31167,7 @@ zrwprhw.xyz
 ||path-2-happiness.com/*/select_adv
 ||patientaid.net^
 ||patreon.com/api/tracking
+||patriotic66.top^
 ||patronimproveyourselves.com^$popup
 ||paul-uk.com^
 ||paulastroid.com^$popup
@@ -41719,7 +41729,6 @@ zrwprhw.xyz
 ||yimg.com/no/$domain=~yahoo.com
 ||yimg.com/rq/darla/$domain=yahoo.com
 ||yimg.com/rx/ev/lib/comscore-
-||yimg.com/ss/analytics3.js
 ||yimg.com/ss/vops.js
 ||yimg.com/wi/ytc.js
 ||yimh.cn^
@@ -41758,6 +41767,7 @@ zrwprhw.xyz
 ||yjklxu.cn^
 ||yjnlk.com^
 ||yjoyse.icu^
+||yjprlwskt.com^
 ||ykc5.cn^
 ||ykdgmofwi.com^
 ||yki9xpcuc.com^
@@ -42550,6 +42560,8 @@ zrwprhw.xyz
 ||zsy10191yok.com^
 ||zsy10200yok.com^
 ||zsy10201yok.com^
+||zsy10210yok.com^
+||zsy10211yok.com^
 ||zt.chuanke.com/?mod=
 ||zt2088.com^
 ||ztcnq.cn^
