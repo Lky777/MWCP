@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202510211924
-! Last modified: 21 Oct 2025 19:24 UTC
+! Version: 202510221921
+! Last modified: 22 Oct 2025 19:21 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -3261,6 +3261,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /loading.jpg
 /localga.js
 /locotrack.js
+/log-adblock.php?
 /log-moltron-interaction?
 /log-nt/
 /log-reporter.js
@@ -9548,6 +9549,7 @@ zrwprhw.xyz
 ||7hk19x.cn^
 ||7imz0d5nay.com^
 ||7iv3od.com^
+||7jf3kxi6bq.com^
 ||7junshi.com/con/ad
 ||7junshi.com/static/red-envelopes.js
 ||7k7k.com/api/position/
@@ -9726,6 +9728,7 @@ zrwprhw.xyz
 ||8pad.xyz^
 ||8qp2w2.cn^
 ||8radc6a0m2.com^
+||8rnmj0roe1.com^
 ||8s5s.com^$popup
 ||8s8s.com/data/banner/
 ||8seaa.com/template/assets1/js/vue.js
@@ -13400,7 +13403,7 @@ zrwprhw.xyz
 ||bdcmwcl.icu^
 ||bdcode.2345.com^
 ||bdcode.35d1.com^
-||bdcode.qinglm.com^
+||bdcode.qinglue.com^
 ||bdcode.youke.com^
 ||bdcpro*.techweb.com.cn^
 ||bdcrihraly.com^
@@ -14601,6 +14604,7 @@ zrwprhw.xyz
 ||bugsfighter.com/wp-content/uploads/2020/07/malwarebytes-banner.jpg
 ||bugsnag.shopbop.amazon.dev^
 ||buhitter.com^
+||buhvjv.icu^
 ||buidlpad.com^
 ||buikolered.com^$popup
 ||build4world.com^
@@ -29003,6 +29007,7 @@ zrwprhw.xyz
 ||music.163.com/weapi/feedback/weblog
 ||music.163.com/weapi/pl/count
 ||music.163.com^$domain=mvcat.com
+||musicallv.top^
 ||musicbama.com^
 ||musicca.com^
 ||musicchi.net^
@@ -29417,6 +29422,7 @@ zrwprhw.xyz
 ||ncbi.xyz^
 ||ncdn22.xyz/cdn-cgi/trace
 ||ncg1h2.cn^
+||nchanado.com^
 ||ncjejx.cn^
 ||ncjqjp.icu^
 ||nctc.com^
@@ -30353,6 +30359,7 @@ zrwprhw.xyz
 ||ojimtyk.top^
 ||ojizau.icu^
 ||ojmv.cn^
+||ojrgbc6kfz.com^
 ||ojucohstech.net^
 ||ojxr.cn^
 ||ok.com^
@@ -39752,6 +39759,7 @@ zrwprhw.xyz
 ||vnig0.cn^
 ||vns86.oss-*.aliyuncs.com^
 ||vnte9urn.click^$popup
+||vnurqroibt.com^
 ||vnuuh.icu^
 ||vnwu.cn^
 ||vo.msecnd.net/api/beyablejsv2.js
@@ -39812,6 +39820,7 @@ zrwprhw.xyz
 ||vqaj6smlmtpym.top^
 ||vqbrbb.icu^
 ||vqfdg.cn^
+||vqia.cn^
 ||vqjcs.cn^
 ||vqkr3aegh0.net^
 ||vqle.cn^
@@ -42383,6 +42392,7 @@ zrwprhw.xyz
 ||zion-telemetry.api.cnn.io^
 ||zion.qbo.intuit.com^
 ||zip.co/analytics
+||zipnzz.icu^
 ||zippingpong.com^
 ||zippyonline.com^
 ||ziqi462ni.com^
@@ -42400,6 +42410,7 @@ zrwprhw.xyz
 ||zjg.js.cn/public/config/couplet/index4
 ||zjib0.icu^
 ||zjjhfc.com/js/zt.js
+||zjkt6ew4cp.com^
 ||zjliloveyou.ixiunv.com^
 ||zjlsn.cn^
 ||zjst.net/3.gif
@@ -42562,6 +42573,8 @@ zrwprhw.xyz
 ||zsy10201yok.com^
 ||zsy10210yok.com^
 ||zsy10211yok.com^
+||zsy10220yok.com^
+||zsy10221yok.com^
 ||zt.chuanke.com/?mod=
 ||zt2088.com^
 ||ztcnq.cn^
