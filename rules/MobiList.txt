@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202510221921
-! Last modified: 22 Oct 2025 19:21 UTC
+! Version: 202510231923
+! Last modified: 23 Oct 2025 19:23 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -6164,7 +6164,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||aliyundrive.com^*/share_link/$xmlhttprequest
 @@||almayadeen.net/content/videojs/js/videoplayer/videoads.js$script,~third-party
 @@||am730.com.hk^$generichide
-@@||amazon-adsystem.com/aax2/apstag.js$domain=accuweather.com|barstoolsports.com|blastingnews.com|cnn.com|familyhandyman.com|foxbusiness.com|gamingbible.co.uk|history.com|independent.co.uk|inquirer.com|keloland.com|radio.com|rd.com|si.com|sportbible.com|tasteofhome.com|the-independent.com|thehealthy.com|time.com|wboy.com|wellgames.com|wkrn.com|wlns.com|wvnstv.com
+@@||amazon-adsystem.com/aax2/apstag.js$domain=accuweather.com|barstoolsports.com|blastingnews.com|familyhandyman.com|foxbusiness.com|gamingbible.co.uk|history.com|independent.co.uk|inquirer.com|keloland.com|radio.com|rd.com|si.com|sportbible.com|tasteofhome.com|the-independent.com|thehealthy.com|time.com|wboy.com|wellgames.com|wkrn.com|wlns.com|wvnstv.com
 @@||amazon-adsystem.com/widgets/q?$image
 @@||amazonaws.com/prod.iqdcontroller.iqdigital/cdn_iqdspiegel/live/iqadcontroller.js.gz$domain=spiegel.de
 @@||amebame.com/pub/ads/$image,domain=abema.tv|ameba.jp|ameblo.jp
@@ -8992,6 +8992,7 @@ zrwprhw.xyz
 ||49ui.cn^
 ||4aqoxkesav.com^
 ||4b6994dfa47cee4.com^$popup
+||4bo5t8fzd.com^
 ||4bxdvy.cn^
 ||4bxg7d.cn^
 ||4c37d2.cn^
@@ -9485,6 +9486,7 @@ zrwprhw.xyz
 ||75b9dfiyb.com^
 ||75db8ff512.com^
 ||75lb.cn^
+||75ossyemu.com^
 ||75r551.cn^
 ||75rakcovr.com^
 ||75win44.com^
@@ -9750,6 +9752,7 @@ zrwprhw.xyz
 ||8y3j.cn^
 ||8yd2rtikkz.com^
 ||8yu4q1.cn^
+||8yuwd5lpj.com^
 ||8ziyuan.com/images/infolinksad.jpg
 ||8zzo4c.cn^
 ||9-v.top^
@@ -14401,6 +14404,7 @@ zrwprhw.xyz
 ||bqiapp.com/api/config/ad?
 ||bqkrk.cn^
 ||bqlda.cn^
+||bqloqigu.com^
 ||bqquan.com.cn^
 ||bqted.cn^
 ||bqtgg.cn^
@@ -21248,6 +21252,7 @@ zrwprhw.xyz
 ||flixtheatre.com^
 ||fljcy.cn^
 ||flkgjlfghm.com^
+||fllilr.icu^
 ||floathomes.com^
 ||flocdn.com/*/ads-coordinator/
 ||flocdn.com^*/dpl/
@@ -27560,6 +27565,7 @@ zrwprhw.xyz
 ||lxsz0w0aw.com^
 ||lxting.com^
 ||lxueh.cn^
+||lxwp426ao.com^
 ||lyb-jewelry.com^
 ||lycanitesmobs.com^
 ||lycc72.com/resources/js/content.js
@@ -31529,6 +31535,7 @@ zrwprhw.xyz
 ||phrnk.cn^
 ||phryctoria.net^
 ||phtracker.com^
+||phue.cn^
 ||phumpauk.com^$popup
 ||phuustikd.com^
 ||phx9cqla2.com^
@@ -35566,6 +35573,7 @@ zrwprhw.xyz
 ||smn-news.com/images/banners/
 ||smoads.com^
 ||smooth-ops.com^
+||smooth33.com^
 ||smpkh.cn^
 ||smqzj.com/seo.js
 ||smrt-content.com^$popup
@@ -40657,6 +40665,7 @@ zrwprhw.xyz
 ||wqqtu.cn^
 ||wqrv.cn^
 ||wr.yiyouliao.com^
+||wravorzt.com^
 ||wrdamoe.icu^
 ||wrg7.cn^
 ||wrgsb.com^
@@ -41793,6 +41802,7 @@ zrwprhw.xyz
 ||ylog.huya.com^
 ||ylt0cf.cn^
 ||ylumj.cn^
+||ymapiatm.xyz^
 ||ymcart.net^
 ||ymcm.top^
 ||ymgbwkw.icu^
@@ -42229,6 +42239,8 @@ zrwprhw.xyz
 ||zd0xj.com^
 ||zdcj.net/html/weibo
 ||zdcj.net^*/ad
+||zdh10230lo.com^
+||zdh10231lo.com^
 ||zdiivb.cn^
 ||zdlcyz.cn^
 ||zdnet.com.cn/js/pv.js
@@ -42575,6 +42587,8 @@ zrwprhw.xyz
 ||zsy10211yok.com^
 ||zsy10220yok.com^
 ||zsy10221yok.com^
+||zsy10230yok.com^
+||zsy10231yok.com^
 ||zt.chuanke.com/?mod=
 ||zt2088.com^
 ||ztcnq.cn^
