@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202510240404
-! Last modified: 24 Oct 2025 04:04 UTC
+! Version: 202510241923
+! Last modified: 24 Oct 2025 19:23 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -12430,6 +12430,7 @@ yydstxt*.com/js/html
 ||arkoselabs.com/metrics/
 ||arksgame.com^
 ||arksurvivalascendedservers.com^
+||arlavilqyt.com^
 ||arlequim.com^
 ||armanax.com^
 ||armdk.cn^
@@ -19606,6 +19607,7 @@ yydstxt*.com/js/html
 ||e1s.fun^
 ||e2210cb7c4c99f22c5b34994401f48d2cb0c8cf0.com^
 ||e23.cn/js/aaa.js
+||e26fr9qb4m.com^
 ||e2elog.fetnet.net^
 ||e2jda3h01.com^
 ||e2ma.net/track/
@@ -32225,6 +32227,7 @@ yydstxt*.com/js/html
 ||presearch.com/coupons|$xmlhttprequest
 ||presearch.com/tiles^
 ||present5.com^
+||preserved32.top^
 ||presidiario.top^
 ||press-here-to-continue.com^$popup
 ||press-start.com/affgames/
@@ -38381,6 +38384,7 @@ yydstxt*.com/js/html
 ||tripadvisor.*/garecord^
 ||tripadvisor.*/metricsajax
 ||tripadvisor.*/wm/record
+||tripcdn.cn^
 ||tripcdn.com/bee/collect$domain=trip.com
 ||tripcdn.com^
 ||triplewhale-pixel.web.app^
@@ -41251,6 +41255,7 @@ yydstxt*.com/js/html
 ||xn--gps-8y0gm25n.xn--55qx5d^
 ||xn--mes34jx0kfx3c.com^
 ||xn--sssy7vrppusjyv0a.com^
+||xn--tlqz3aj77agil76ww4ni2k.com^
 ||xn--uirw6qy5u.com^
 ||xn--w9q675dm1p7em.net^
 ||xn--wgvp78a61swpe6zdozj.cn^
@@ -42266,6 +42271,7 @@ yydstxt*.com/js/html
 ||zdh10230lo.com^
 ||zdh10231lo.com^
 ||zdh10240lo.com^
+||zdh10241lo.com^
 ||zdiivb.cn^
 ||zdlcyz.cn^
 ||zdnet.com.cn/js/pv.js
