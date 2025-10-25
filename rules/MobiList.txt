@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202510241923
-! Last modified: 24 Oct 2025 19:23 UTC
+! Version: 202510251921
+! Last modified: 25 Oct 2025 19:21 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -8950,6 +8950,7 @@ yydstxt*.com/js/html
 ||4lastunblock.com^
 ||4mex5p.cn^
 ||4mh8f7.cn^
+||4nc4qc1fo.com^
 ||4oe3wr.com^
 ||4p04u96158.com^
 ||4paradigm.com^$domain=sina.com.cn
@@ -9210,6 +9211,7 @@ yydstxt*.com/js/html
 ||5qw3fn.cn^
 ||5s68e0.cn^
 ||5s98.com/img/
+||5u3tzh6tc.com^
 ||5uazcu2o1.com^
 ||5vbs96dea.com^$popup
 ||5vdd.com/360
@@ -9349,6 +9351,7 @@ yydstxt*.com/js/html
 ||6pan.cc/ps/vip.jpg
 ||6park.com/img/*0.gif
 ||6park.com/parks/$script
+||6pctuhriw.com^
 ||6pm.com/err.cgi?
 ||6pm.com/onload.cgi?
 ||6pm.com/track.cgi?
@@ -9807,6 +9810,7 @@ yydstxt*.com/js/html
 ||9clasfdc3.com^
 ||9cnzn3.cn^
 ||9cnzo4.cn^
+||9cwcu1574.com^
 ||9duvhi.cn^
 ||9duw.com/js/sj
 ||9duw.com/pic/
@@ -13552,6 +13556,7 @@ yydstxt*.com/js/html
 ||bent39.com^
 ||bento.agoda.com^
 ||benumelan.com^$popup
+||benvjt.icu^
 ||beoecomapim.bang-olufsen.com^
 ||beqnnobwt.com^
 ||berapt-medii.com^$popup
@@ -13896,6 +13901,7 @@ yydstxt*.com/js/html
 ||biquge96.com/123.
 ||biqugie.com/js/wap.
 ||bir-music.com^
+||birbmcmp.icu^
 ||birdforum.net/data/siropu/
 ||birdsend.co/assets/static/js/pixel/
 ||birdsend.email/pixel
@@ -16421,6 +16427,7 @@ yydstxt*.com/js/html
 ||conver2clickapp.com^
 ||conversionai.com^
 ||conversions.genieventures.co.uk^
+||convert.guru/pageview^
 ||convert2mp3.club/dr/
 ||convertcase.net^
 ||convertflow.co^*/visitors/
@@ -16628,6 +16635,7 @@ yydstxt*.com/js/html
 ||creative.camonade.com^
 ||creative.camsplanetlive.com^
 ||creative.favy.cam^
+||creative.homejavlive.com^
 ||creative.idolshow.live^
 ||creative.imagetwistcams.com^$subdocument
 ||creative.javhdporn.live^
@@ -16734,6 +16742,7 @@ yydstxt*.com/js/html
 ||crta.metro.co.uk^
 ||crtqa.cn^
 ||cru0xr.com^
+||cruhliip.com^
 ||cruhut.com^
 ||cruisingpower.com^
 ||crumbs.robinhood.com^
@@ -28863,6 +28872,7 @@ yydstxt*.com/js/html
 ||mql5.com/tr?
 ||mqlf2v.cn^
 ||mqlgpa.cn^
+||mqndhoceat.com^
 ||mqrbj.cn^
 ||mqwjgr.cn^
 ||mr.homedepot.ca^
@@ -29352,6 +29362,8 @@ yydstxt*.com/js/html
 ||nasosettoourm.com^$popup
 ||nasssmedia.com^$popup
 ||nastydollars.com/trk/
+||natgeomedia.com/js/ads-parallax.
+||natgeomedia.com/scripts/adajax.
 ||nathanaeldan.pro^$popup
 ||naticr.com^
 ||nationsbenefits.com^
@@ -36687,6 +36699,7 @@ yydstxt*.com/js/html
 ||support.google.com/apis/logjourney
 ||support.streamjav.top^
 ||supportmetrics.apple.com^
+||suppose84.com^
 ||suprclicks.com^
 ||supremeadblocker.com^$popup
 ||suptraf.com^$popup
@@ -42272,6 +42285,8 @@ yydstxt*.com/js/html
 ||zdh10231lo.com^
 ||zdh10240lo.com^
 ||zdh10241lo.com^
+||zdh10250lo.com^
+||zdh10251lo.com^
 ||zdiivb.cn^
 ||zdlcyz.cn^
 ||zdnet.com.cn/js/pv.js
