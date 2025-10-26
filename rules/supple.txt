@@ -14,6 +14,7 @@
 ||61fe2d132b.com^
 ||666834.xyz^
 ||7926ccc537.com^
+||858227.top^
 ||95tuchuang1.top^
 ||ab13568.com^
 ||abc29863668.com^
@@ -24,6 +25,7 @@
 ||app12.cc^
 ||auriclelureful.click^
 ||axvfinzmi.com^
+||b3400dda56f2.com^
 ||baidu-iloveyou.xyz^
 ||bb77393629.com^
 ||binthimupo.com^
@@ -33,11 +35,13 @@
 ||collision3550.top^
 ||communicatedroopcomer.com^
 ||content-sync.xyz^
+||cosman106.top^
 ||cru0xr.com^
 ||daigraphia.com^
 ||dakawm.cc^
 ||dfrujh.site^
 ||diligencejusticeimprobable.com^
+||dxy63665563.com^
 ||elysiumingreat.top^
 ||fcw1.site^
 ||fgtisiq.com^
@@ -57,7 +61,9 @@
 ||impression-sync.xyz^
 ||jakyaqu.xyz^
 ||jasrocd.xyz^
+||jmz55628371.com^
 ||kjgbyn.com^
+||kqs37917559.com^
 ||ksrsogd.com^
 ||kufdozv.xyz^
 ||l6ljsm.com^
@@ -97,9 +103,11 @@
 ||tvhazno.com^
 ||wcydkls.com^
 ||waust.at^
+||ycs99877171.com^
 ||yonyoujcxl.com^
 ||youandmerunfast.com^
 ||yxq373.com^
+||zctcd-63379.cc^
 ||zog.link^
 ||zqbao.app^
 ||zqbao.vip^
@@ -126,6 +134,7 @@
 ||md18n895f.oss-cn-hangzhou.aliyuncs.com^
 ||admin500cp.s3.ap-east-1.amazonaws.com^
 ||pjgj-gif.s3.ap-east-1.amazonaws.com^
+||miaowu.baidu.com^
 ||dl59007.bj.bcebos.com^
 ||tags.bluekai.com^
 ||d1yw1n0ddlrqxj.cloudfront.net^
@@ -376,11 +385,9 @@ www.txrjy.com###tryOpenApp
 ||link.mzlinks.com/js/*.manhua
 ||www.veryim.com/js/z.manhua
 
-! wxsck
+! wxsck|wxscs
 .com/static/js/action.js
-
-! wxscs
-||wxscs.com/static/js/up.js
+.com/static/js/up.js
 
 ! xchina
 |https://xchina.co/scripts/push.js?
