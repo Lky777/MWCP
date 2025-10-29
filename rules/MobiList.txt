@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202510281924
-! Last modified: 28 Oct 2025 19:24 UTC
+! Version: 202510291923
+! Last modified: 29 Oct 2025 19:23 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -1757,6 +1757,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /brighttag-min.js
 /bsa-plugin-pro-scripteo/frontend/js/script.js$script
 /bsa-pro-scripteo/frontend/js/script.js$script
+/bsf-bing-scripts/custom-pixels/
 /bsp-analytics.min.
 /bstat.js
 /bt*.com/imgs.js?t=
@@ -8316,6 +8317,7 @@ yydstxt*.com/js/html
 ||1ed8ae4970.com^
 ||1empb6.cn^
 ||1f0l.top^
+||1futnsio0.com^
 ||1g53n3gtdo.com^
 ||1gmzo.icu^
 ||1gp3p6fkio.com^
@@ -9201,6 +9203,7 @@ yydstxt*.com/js/html
 ||598282485421.com^
 ||59bloggers.com^
 ||59xx2yr9i.com^
+||5adbjiwp.xyz^
 ||5azvpjx8xj.com^
 ||5b025cnm.top^
 ||5bn.net^
@@ -12859,6 +12862,7 @@ yydstxt*.com/js/html
 ||averf.cn^
 ||avgle.topgirlsdating.com^$domain=avgle.com
 ||avgyp.cn^
+||avh3nuhxm.com^
 ||avhut.com^
 ||aviationaxis.com^
 ||aviationdistribution.com^
@@ -13208,7 +13212,6 @@ yydstxt*.com/js/html
 ||bakabok.com^$popup
 ||bakingbusiness.com^
 ||bakjaqa.net^$popup
-||bakstotre.com^
 ||baldo-toj.com^$popup
 ||balearics4less.com^
 ||balerdoits.com^
@@ -13526,6 +13529,7 @@ yydstxt*.com/js/html
 ||bdunion1.suxiazai.com^
 ||bdwmhz.120askimages.com^
 ||bdx.playnext.cn^
+||bdxydp.icu^
 ||be2beats.com^
 ||be880990f9.com^
 ||bea-s.dinghuoche.com^
@@ -14975,7 +14979,6 @@ yydstxt*.com/js/html
 ||c7rvud.cn^
 ||c7sza8.cn^
 ||c81.ipanocloud.com^
-||c81358859121583b7adf2ace89cb39f44.com^
 ||c9msz.cn^
 ||c9w.net^
 ||c9zxdr.cn^
@@ -15151,6 +15154,7 @@ yydstxt*.com/js/html
 ||careerjournalonline.com^$popup
 ||careerwebsite.com/distrib_pages/jobs.cfm?
 ||careerwebsite.com^
+||careless05.com^
 ||carexpert.com.tw/wp-content/uploads/*800x90.
 ||carezen.net^
 ||carfax.com/img_myap/
@@ -15476,7 +15480,6 @@ yydstxt*.com/js/html
 ||cf-img.com^
 ||cf-pixelfront-analytics.widencdn.net^
 ||cf.overblog.com^
-||cf343b8b96364c015a23155b1e46ed1832b13796.com^
 ||cf6fae15c3.com^
 ||cfa.fidelity.com^
 ||cfbvideo.com^
@@ -19865,7 +19868,6 @@ yydstxt*.com/js/html
 ||e10000.cn/images/link_td01.gif
 ||e11956.x.akamaiedge.net^$popup
 ||e1s.fun^
-||e2210cb7c4c99f22c5b34994401f48d2cb0c8cf0.com^
 ||e23.cn/js/aaa.js
 ||e26fr9qb4m.com^
 ||e2elog.fetnet.net^
@@ -19905,6 +19907,7 @@ yydstxt*.com/js/html
 ||eadaily.com^
 ||eadsrv.com^
 ||eafmkv.cn^
+||eagb.cn^
 ||eaglemrtn.com^
 ||eaglerarewhisky.com^
 ||eaglevalleycutlery.com^
@@ -24500,6 +24503,7 @@ yydstxt*.com/js/html
 ||i3zh.com/wp-content/plugins/cm-pop-up-banners/
 ||i4vpnu.cn^
 ||i5q1t8vj9.com^
+||i73u6dnnh.com^
 ||i8.chinanews.com^$subdocument
 ||i8m6.com^
 ||i8tq.com/adimg/
@@ -24831,6 +24835,7 @@ yydstxt*.com/js/html
 ||ikengoti.com^$popup
 ||ikexpress.com^
 ||ikqcg.cn^
+||ikronzealu.com^
 ||ikstatic.cn^*.gif
 ||ikuaimi.com^
 ||ikwb.com^
@@ -27569,6 +27574,7 @@ yydstxt*.com/js/html
 ||llnmo.cn^
 ||llpgpro.com^$popup
 ||llvakn.cn^
+||llw67onw6.com^
 ||lm.ijq.tv^
 ||lm1.tuliu.com^
 ||lm1.wkpcw.cn^
@@ -31024,6 +31030,7 @@ yydstxt*.com/js/html
 ||ooqiu.com/ad_js/
 ||ooublik.top^
 ||ooulx.cn^
+||oovruczakz.com^
 ||oowve.cn^
 ||ooxxuuww55.com^
 ||ooyala.com/3rdparty/comscore_
@@ -34625,6 +34632,7 @@ yydstxt*.com/js/html
 ||rphqsexfo.com^
 ||rpidrgames-cf.com^
 ||rpmtrades.com^
+||rpox.cn^
 ||rps-p2.rockpapershotgun.com^
 ||rps-uk.rockpapershotgun.com^
 ||rptdhu.top^
@@ -35573,6 +35581,7 @@ yydstxt*.com/js/html
 ||shimo.im^*/ads?
 ||shinebliss.com^$popup
 ||shink.in/js/script.js
+||shinpa.me^
 ||shipwreckclassmate.com^$popup
 ||shiyaokejishanghai.com^
 ||shkonews.net^
@@ -38915,6 +38924,7 @@ yydstxt*.com/js/html
 ||truuhmoen.com^
 ||truxedku.com^
 ||trvl-px.com/trvl-px/
+||trvsdlckg.icu^
 ||trw12.com^$popup
 ||trwl1.com/ascripts/gcrt.js
 ||trx-cdn.zip.co^
@@ -39728,6 +39738,7 @@ yydstxt*.com/js/html
 ||uwilmit.top^
 ||uwkz.cn^
 ||uwlovullbg.com^
+||uwrr.cn^
 ||uwsaqoi.icu^
 ||uwtewvalgil.com^
 ||uwucdn.top^
@@ -39771,7 +39782,6 @@ yydstxt*.com/js/html
 ||v1.wphonelife.com^
 ||v1ca5m.cn^
 ||v2006.com^
-||v2507a8c49efb13546e291bc10fa73d18973530f9fc36b30e2ec72.xyz^
 ||v2ekey.cn^
 ||v2ex.assets.uxengine.net/assets/sidebar/$image
 ||v2ex.com/pro/emitter
@@ -39863,6 +39873,7 @@ yydstxt*.com/js/html
 ||vcfdnn1b.com^
 ||vcita.com/tr_
 ||vcj643ss.com^
+||vcjzjnef.icu^
 ||vcmar.cn^
 ||vcommission.com^$popup
 ||vcqqn.cn^
@@ -42723,6 +42734,8 @@ yydstxt*.com/js/html
 ||zdh10271lo.com^
 ||zdh10280lo.com^
 ||zdh10281lo.com^
+||zdh10290lo.com^
+||zdh10291lo.com^
 ||zdiivb.cn^
 ||zdnet.com.cn/js/pv.js
 ||zdoiodhtqahjizqq.net^
@@ -43099,6 +43112,7 @@ yydstxt*.com/js/html
 ||zulacasino.com^
 ||zulipade.xyz^
 ||zumneojf.icu^
+||zumnervl.com^
 ||zumper.com/events
 ||zumvu.com^
 ||zunsoach.com^$popup
