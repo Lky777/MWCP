@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202510291923
-! Last modified: 29 Oct 2025 19:23 UTC
+! Version: 202510301923
+! Last modified: 30 Oct 2025 19:23 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -330,6 +330,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/myjs/alljs.js
 .com/myjs/mys_alljs.js
 .com/piaozi/*.js
+.com/players/*/-1/70/*?hash=-$script
 .com/public/js/duileft.js
 .com/public/js/duiright.js
 .com/qxads/
@@ -3033,6 +3034,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /js/aa.htm$script
 /js/aahome.htm
 /js/acmsd/
+/js/ad.js$domain=69shuba.com
 /js/ad1.
 /js/ad_common.js$script
 /js/ad_tv.js
@@ -9356,7 +9358,6 @@ yydstxt*.com/js/html
 ||693836.com^$popup
 ||69adu.com/bootstrap.
 ||69games.xxx/ajax/skr?
-||69shuba.com/js/ad.js
 ||69shuba.cx^*/shu.js
 ||69shux.com/js/otherad.
 ||69t49.com/floating/layer.js
@@ -13823,6 +13824,7 @@ yydstxt*.com/js/html
 ||bfjqk.cn^
 ||bfkbo.cn^
 ||bfkdk.cn^
+||bflvxv.icu^
 ||bfnbk.cn^
 ||bfnck.cn^
 ||bfnmk.cn^
@@ -14534,6 +14536,7 @@ yydstxt*.com/js/html
 ||brainlyads.com^
 ||brainmodular.com^
 ||brainwavzaudio.com^
+||braised58.top^
 ||brand.sogou.com/micro?yyid=
 ||brandcdn.com/pixel/
 ||branderblender.com^
@@ -19114,6 +19117,7 @@ yydstxt*.com/js/html
 ||dljoi8.cn^
 ||dlk457skl57zp.cloudfront.net^
 ||dlkfhlkjoirfgn.com^
+||dlkliqrxt2.com^
 ||dlkoo.cc/down/$subdocument
 ||dlkoo.cc/down/*.htm$popup
 ||dlkoo.cc/down/copy
@@ -20026,6 +20030,7 @@ yydstxt*.com/js/html
 ||ebock.cn^
 ||eboobuv0rk.com^
 ||ebp.renren.com^
+||ebqonaidz.com^
 ||ebrid.cn^
 ||ebroktean.com^
 ||ebrun.com/jfile/position/js/*.js
@@ -20477,6 +20482,7 @@ yydstxt*.com/js/html
 ||eqfgp.cn^
 ||eqieg6yn5.com^
 ||eqlikh.cn^
+||eqqp.cn^
 ||equbx.cn^
 ||equict.top^
 ||equilibriumfestive.com^$popup
@@ -23273,6 +23279,7 @@ yydstxt*.com/js/html
 ||guxidrookr.com^$popup
 ||guy-croft.com^
 ||guz4t1.com^
+||gv0oi9ecji.com^
 ||gvcaffiliates.com^$popup
 ||gviudclrb.com^
 ||gvsy5m.cn^
@@ -23421,6 +23428,7 @@ yydstxt*.com/js/html
 ||haochi123.com/j_box/inc_
 ||haociso.com^
 ||haofs.com/haofs/ggapi.asp
+||haogushi88.cc/static/simple/yue
 ||haoimgs.com/images/*.gif
 ||haokan5.com/js/haokanjs/2014_
 ||haokan5.com/js/haokanjs/playa
@@ -24825,6 +24833,7 @@ yydstxt*.com/js/html
 ||ijo3rp0g9hn4n.com^
 ||ijuxs.com^
 ||ijvi8.cn^
+||ijxi.cn^
 ||ijyj.cn^
 ||ik01x8.cn^
 ||ik123.com/js/dd.js
@@ -25335,6 +25344,7 @@ yydstxt*.com/js/html
 ||iotsrv.com^
 ||ioublio.top^
 ||iouvxlio.top^
+||ip-check-perf.radar.cloudflare.com^
 ||ip-secrets.com/img/nv
 ||ip-whois-lookup.com^
 ||ip.cliphunter.com^
@@ -34598,7 +34608,6 @@ yydstxt*.com/js/html
 ||rotabanner.kulichki.net^
 ||rotator.tradetracker.net^
 ||rothfussteam.com^
-||rottentomatoes.com/assets/pizza-pie/javascripts/bundles/roma/rt-common.js
 ||rotumal.com^$popup
 ||rou.video/_next/static/chunks/pages/fuli-
 ||roudoduor.com^$popup
@@ -39746,6 +39755,7 @@ yydstxt*.com/js/html
 ||uxfa.cn^
 ||uxieks.com^
 ||uxmatters.com/images/sponsors/
+||uxx1sawfwm.com^
 ||uxxux.com/js/zd.js
 ||uy0ttd.cn^
 ||uy0yh7.cn^
@@ -40297,6 +40307,7 @@ yydstxt*.com/js/html
 ||vpydjogaytpg.xyz^
 ||vq4b0q.fun^$popup
 ||vqaj6smlmtpym.top^
+||vqbmxyzda.icu^
 ||vqbrbb.icu^
 ||vqfdg.cn^
 ||vqia.cn^
@@ -42703,6 +42714,7 @@ yydstxt*.com/js/html
 ||zbdmoa.cn^
 ||zbislaernv.com^
 ||zbjimg.com/static/union/
+||zbl40hvzzy.com^
 ||zbldxf.icu^
 ||zbporn.com/ttt/
 ||zbzix.cn^
@@ -42736,6 +42748,8 @@ yydstxt*.com/js/html
 ||zdh10281lo.com^
 ||zdh10290lo.com^
 ||zdh10291lo.com^
+||zdh10300lo.com^
+||zdh10301lo.com^
 ||zdiivb.cn^
 ||zdnet.com.cn/js/pv.js
 ||zdoiodhtqahjizqq.net^
