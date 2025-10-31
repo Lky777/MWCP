@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202510301923
-! Last modified: 30 Oct 2025 19:23 UTC
+! Version: 202510311921
+! Last modified: 31 Oct 2025 19:21 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -9068,6 +9068,7 @@ yydstxt*.com/js/html
 ||51cto.com/home/web/js/new_login/iframe.js
 ||51cto.com/iframe/get-station-ads
 ||51cto.com/js/activity_pop.js
+||51dh.xin^
 ||51dxs.com^
 ||51fanli.net/misc/images/invite-v4/banner.gif
 ||51gowan.com^
@@ -12195,6 +12196,7 @@ yydstxt*.com/js/html
 ||aos01070ss.xyz^
 ||aos01080ss.xyz^
 ||aoshi.com/rbc.jpg
+||aovk.cn^
 ||aoyaovip.com^
 ||aoydwg.icu^
 ||ap20250909.xyz^
@@ -17427,6 +17429,7 @@ yydstxt*.com/js/html
 ||d1lnjzqqshwcwg.cloudfront.net^
 ||d1lo4oi08ke2ex.cloudfront.net^
 ||d1lxhc4jvstzrp.cloudfront.net^
+||d1ly453dyhh7xf.cloudfront.net^
 ||d1m6l9dfulcyw7.cloudfront.net^
 ||d1mahxde95gw5l.cloudfront.net^
 ||d1mar6i7bkj1lr.cloudfront.net^
@@ -17715,6 +17718,7 @@ yydstxt*.com/js/html
 ||d2fbvay81k4ji3.cloudfront.net^
 ||d2fhrdu08h12cc.cloudfront.net^
 ||d2fj3s7h83rb61.cloudfront.net
+||d2flxwxbgh2er.cloudfront.net^
 ||d2fmtc7u4dp7b2.cloudfront.net^
 ||d2focgxak1cn74.cloudfront.net^
 ||d2foi16y3n0s3e.cloudfront.net^
@@ -19830,6 +19834,7 @@ yydstxt*.com/js/html
 ||dzkkt4.cn^
 ||dznvg.cn^
 ||dzoox.cn^
+||dzqsslysklwgo.cloudfront.net^
 ||dzr4v2ld8fze2.cloudfront.net^
 ||dzu5p9pd5q24b.cloudfront.net^
 ||dzupi9b81okew.cloudfront.net^
@@ -27998,6 +28003,7 @@ yydstxt*.com/js/html
 ||lyfdrh.icu^
 ||lyft.com/api/track
 ||lyftp.cn^
+||lyjq9gwob.com^
 ||lynfp.cn^
 ||lyngsat.com/system/loadclick.js
 ||lyntario.xyz^
@@ -28052,6 +28058,7 @@ yydstxt*.com/js/html
 ||m1.vodjk.com^
 ||m1.we556.com^
 ||m12x7x.cn^
+||m17d1e83q.com^
 ||m1905.cn/afp/mdsfw.js
 ||m1905.cn/data/suspension_
 ||m1905.cn/images/vod/vod*-90.jpg
@@ -33170,6 +33177,7 @@ yydstxt*.com/js/html
 ||pzjbkdtuug.net^
 ||pzje7g.cn^
 ||pznnvt.top^
+||pzq7ilwvv.com^
 ||pzzedx.icu^
 ||q.tubetruck.com^
 ||q06g.com^
@@ -34825,6 +34833,7 @@ yydstxt*.com/js/html
 ||rvnblockexplorer.com^
 ||rvo-cohesion.healthline.com^
 ||rvodw.cn^
+||rvrl1srlq.com^
 ||rvrpushserv.com^$popup
 ||rvtrader.com^
 ||rvvle.cn^
@@ -36367,6 +36376,7 @@ yydstxt*.com/js/html
 ||special-offers.online^$popup
 ||special-promotions.online^$popup
 ||special-trending-news.com^$popup
+||specialty75.com^
 ||spectrum.gettyimages.com^
 ||speed.cloudflare.com/__log
 ||speedfoxllc.com^
@@ -37895,6 +37905,7 @@ yydstxt*.com/js/html
 ||thegay.porn/gdtatrco/
 ||thegirlsline.com^
 ||thehackernews.com/zscripts/
+||thehiveworks.com/*/fallback.js$domain=snafu-comics.com
 ||thehun.net/banners/
 ||theindependentbd.com/assets/images/banner/
 ||theirbellstudio.co^$popup
@@ -41737,6 +41748,7 @@ yydstxt*.com/js/html
 ||xp85.com/common/js/allpage.js
 ||xpariz.com^
 ||xpcha.com/js/notice.js
+||xpdgvlxwn.icu^
 ||xpe9.com^
 ||xpensieve.net^
 ||xpicj0.icu^
@@ -42750,6 +42762,8 @@ yydstxt*.com/js/html
 ||zdh10291lo.com^
 ||zdh10300lo.com^
 ||zdh10301lo.com^
+||zdh10310lo.com^
+||zdh10311lo.com^
 ||zdiivb.cn^
 ||zdnet.com.cn/js/pv.js
 ||zdoiodhtqahjizqq.net^
@@ -42892,6 +42906,7 @@ yydstxt*.com/js/html
 ||ziffdavisb2b.com^*/tracker.js
 ||ziffstatic.com/pg/
 ||ziffstatic.com/zmg/pogoadk.js
+||zihqjf.icu^
 ||zikao365.com/upload/js/pfgg/
 ||zikeke7.com^
 ||zikroarg.com^$popup
@@ -43192,6 +43207,7 @@ yydstxt*.com/js/html
 ||zzsky.com/images/a_d_
 ||zzsosn.cn^
 ||zztongyun.com/static/js/sh.
+||zztxt.net/public/wapbiquge/js/static.js
 ||zzup.com/ad.php
 ||zzz4.com/js_ad/
 ||zzzyk.com/js/
