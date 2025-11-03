@@ -85,6 +85,7 @@
 ||qloxy-35839.cc^
 ||qrzjmjrblqzqz.top^
 ||queachycorer.com^
+||qypjuwy.xyz^
 ||responsibleharm.pro^
 ||risliq.com^
 ||rpyislr.com^
@@ -121,6 +122,8 @@
 ||amung.us^
 ||cdnboostcache.com^
 ||clarity.ms^
+||ddav.tv^
+||eroadvertising.com^
 ||jads.co^
 ||simpli.fi^
 ||xchina.click^
@@ -168,6 +171,7 @@
 ||img.alicdn.com/imgextra/i*/4183327079/
 ||imgsa.baidu.com/forum/pic/item/
 ||lf1-cdn-tos.bytegoofy.com/goofy/
+||cdnjs.cloudflare.com/ajax/libs/fuckadblock/
 ||playhubconnect.com/bn/
 |p3-sign.toutiaoimg.com/tos-cn-i-eyfl5e3fp8/
 ||tsyndicate.com/do2/
@@ -351,6 +355,9 @@ sina.cn###float-btn
 ! sm
 |https://image.uczzd.cn/?id=
 |https://m.sm.cn/adclick?
+
+! smzdm
+m.smzdm.com##.damo-footer-open-app
 
 ! smtt
 ||js.mewlxy.com/gg-config.js
