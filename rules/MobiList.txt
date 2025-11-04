@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202511031923
-! Last modified: 03 Nov 2025 19:23 UTC
+! Version: 202511041923
+! Last modified: 04 Nov 2025 19:23 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -4855,6 +4855,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /tomflashadchanel
 /tongji.js
 /tongji.js|$domain=~zongheng.com
+/tongji/ad.js
 /top-ad.$~xmlhttprequest
 /top_950
 /top_ad.$~xmlhttprequest,domain=~sunco.co.jp
@@ -8752,6 +8753,7 @@ yydstxt*.com/js/html
 ||38g2n1ww.icu^$popup
 ||38hgc.com^$popup
 ||38ksw.com^*/0
+||38ksw.com^*/1
 ||38l12w.cn^
 ||38win44.com^
 ||39.net/a.htm?
@@ -8868,6 +8870,7 @@ yydstxt*.com/js/html
 ||3xplanetimg2.com/promo/iirt8d.gif
 ||3xtraffic.com/common/000/cads/
 ||3yq51wjim.com^
+||3yx95kv3at.com^
 ||3zch62.cn^
 ||4-g-c-v.com^
 ||40407.com/plus/rpad/
@@ -9816,6 +9819,7 @@ yydstxt*.com/js/html
 ||9duw.com/pic/
 ||9e0917xf7x.com^
 ||9ez.me/embd.php?type=
+||9f0usaep8c.com^
 ||9f850daa38.com^
 ||9femzoiro.com^
 ||9fum.ifeng.com^
@@ -14050,7 +14054,6 @@ yydstxt*.com/js/html
 ||biqingwu.com^
 ||biqivge.cc/js/d
 ||biqivge.cc/js/p
-||biquge.ac/tongji/ad.
 ||biquge7.com^
 ||biquge96.com/123.
 ||biqugetxt.net^
@@ -15364,6 +15367,7 @@ yydstxt*.com/js/html
 ||cbearq.cn^
 ||cbembusgcl.com^
 ||cbewin.com^
+||cbff1ao9.xyz^
 ||cbfw.cn/gonggong/chibi/cf_
 ||cbjg.cqnews.net^
 ||cbjs.baidu.com/
@@ -17013,6 +17017,7 @@ yydstxt*.com/js/html
 ||cralphal.com^
 ||cramanya.com^
 ||crambidnonutilitybayadeer.com^$popup
+||crandrad.com^
 ||crashingpong.com^
 ||craviton.xyz^
 ||crawlsingeshell.com^
@@ -19260,6 +19265,7 @@ yydstxt*.com/js/html
 ||dive77kt.com^$popup
 ||divebyleo.com^
 ||divekcl7q9fxi.cloudfront.net^
+||divergentld.com^
 ||diversityjobs.com^
 ||divorceematrimony.com^
 ||dixyporn.com/include/
@@ -19301,6 +19307,7 @@ yydstxt*.com/js/html
 ||djz9es32qen64.cloudfront.net^
 ||dk4w74mt6naf3.cloudfront.net^
 ||dk57sacpbi4by.cloudfront.net^
+||dkc63u5su8.com^
 ||dkfjlkgjbhbv.com^
 ||dkgp834o9n8xl.cloudfront.net^
 ||dklhflksd.com^
@@ -21583,6 +21590,7 @@ yydstxt*.com/js/html
 ||fiberoptics4sale.com^
 ||fictiondb.com^
 ||fidk.cn^
+||fidruqwny.com^
 ||fiedze.com^
 ||fieldera.com^
 ||fiezaits.com^
@@ -31354,6 +31362,7 @@ yydstxt*.com/js/html
 ||ohqp.cn^
 ||ohrdsplu.com^$popup
 ||ohvk.cn^
+||ohvtrokyq.com^
 ||ohwb.cn^
 ||oi.429men.com^
 ||oi.lesbianbliss.com^
@@ -34941,6 +34950,7 @@ yydstxt*.com/js/html
 ||retyn.cn^
 ||reuit.cn^
 ||reurl.cc/javascripts/tagtoo.js
+||reuters.com/pf/resources/dist/*/js/index.js?
 ||rev.frankspeech.com^
 ||revcola.com^
 ||reve.com^
@@ -38423,6 +38433,7 @@ yydstxt*.com/js/html
 ||taxisubsea.com^
 ||taxsdkgo.com^
 ||tb3.bdstatic.com/uniapp/static/icon/
+||tb4gv2cp5z.com^
 ||tb58.net/plugin.php?id=tb58_
 ||tbadk.cn^
 ||tbank-online.com^
@@ -41164,6 +41175,7 @@ yydstxt*.com/js/html
 ||vkcams.com^
 ||vkcdnservice.com^$popup
 ||vkgtrack.com^$popup
+||vksy.cn^
 ||vkxn.cn^
 ||vl3rw9roj.com^
 ||vlbos.cn^
@@ -43775,6 +43787,8 @@ yydstxt*.com/js/html
 ||zdh11021lo.com^
 ||zdh11030lo.com^
 ||zdh11031lo.com^
+||zdh11040lo.com^
+||zdh11041lo.com^
 ||zdic.net^
 ||zdiivb.cn^
 ||zdnet.com.cn/js/pv.js
