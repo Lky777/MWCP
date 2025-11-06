@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202511051924
-! Last modified: 05 Nov 2025 19:24 UTC
+! Version: 202511061924
+! Last modified: 06 Nov 2025 19:24 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -3382,6 +3382,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /magento/page-visit?
 /magento2.js
 /magpie.js
+/mai-publisher-ads.js$script
 /maimg/
 /main.js?v=*&sp=*&ty=
 /main/s?
@@ -9702,6 +9703,7 @@ yydstxt*.com/js/html
 ||90oo.com/tp/hg
 ||90oo.com/tp/msn.jpg
 ||90q0tq3bwo.com^
+||90qxskdmn9.com^
 ||91160.com/nykj/f=static/v4/common/tj.js
 ||915d46.cn^
 ||916ghr.cn^
@@ -9832,6 +9834,7 @@ yydstxt*.com/js/html
 ||9gg23.com^$popup
 ||9gtb.com^
 ||9gti.com^
+||9h3s1ew2qn.com^
 ||9he8qp.cn^
 ||9hitshop.com^
 ||9hyf6wsiv5.com^
@@ -17808,6 +17811,7 @@ yydstxt*.com/js/html
 ||d23guct4biwna6.cloudfront.net^
 ||d23h3o5tkgytgm.cloudfront.net^
 ||d23i0h7d50duv0.cloudfront.net^
+||d23obxyzbkncgu.cloudfront.net^
 ||d23p9gffjvre9v.cloudfront.net^
 ||d23pdhuxarn9w2.cloudfront.net^
 ||d23rx8p5l6yry7.cloudfront.net^
@@ -28069,6 +28073,8 @@ yydstxt*.com/js/html
 ||llnmo.cn^
 ||llpgpro.com^$popup
 ||lls11050ko.com^
+||lls11060ko.com^
+||lls11061ko.com^
 ||llssg.com^
 ||llua.cn^
 ||llvakn.cn^
@@ -33264,6 +33270,7 @@ yydstxt*.com/js/html
 ||ppluoli.xyz^*.gif
 ||ppmxp.com^
 ||ppnix.com^
+||pppteennal.com^
 ||ppshk.com^*banner/
 ||ppsj.com.cn/images/ppsj300.gif
 ||pptt33333.com^
@@ -38021,6 +38028,7 @@ yydstxt*.com/js/html
 ||svc2.sc.com^
 ||svcnmtb.top^
 ||svhao.cn^
+||svhk4bt874.com^
 ||svhmo.cn^
 ||svibeacon.onezapp.com^
 ||svjbb.cn^
@@ -41316,6 +41324,7 @@ yydstxt*.com/js/html
 ||vrlbns.cn^
 ||vrnhvh.cn^
 ||vrosqutsgh.com^
+||vrovadwd.com^
 ||vrow.cn^
 ||vrrw.net//templets/default/js/ad.js
 ||vrufj.cn^
@@ -41376,6 +41385,7 @@ yydstxt*.com/js/html
 ||vunqrotm.com^
 ||vuodatus.net^
 ||vupload.duowan.com^
+||vurr.cn^
 ||vut6.cn^
 ||vuukle.com/bq-publish?
 ||vuukle.com/getgeo
@@ -42088,6 +42098,7 @@ yydstxt*.com/js/html
 ||workers.dev/api/event
 ||workers.dev/js/script.js
 ||workshop-email-tracking.com^
+||workshop39.top^
 ||workshopplus.com^
 ||worktrucksolutions.com^
 ||worldfreshblog.com^$popup
@@ -42861,6 +42872,7 @@ yydstxt*.com/js/html
 ||xutvbt.icu^
 ||xuugnuits.com^
 ||xuvemira.xyz^
+||xuwmylm697.com^
 ||xuzhi.net/uploadfile/poster/960x50.jpg
 ||xv-ru1.com^
 ||xv98.com/js/daohang
@@ -43801,6 +43813,8 @@ yydstxt*.com/js/html
 ||zdh11041lo.com^
 ||zdh11050lo.com^
 ||zdh11051lo.com^
+||zdh11060lo.com^
+||zdh11061lo.com^
 ||zdic.net^
 ||zdiivb.cn^
 ||zdnet.com.cn/js/pv.js
@@ -44199,6 +44213,7 @@ yydstxt*.com/js/html
 ||zujz.cn^
 ||zukoremi.xyz^
 ||zulacasino.com^
+||zulaedha.com^
 ||zulipade.xyz^
 ||zumneojf.icu^
 ||zumnervl.com^
