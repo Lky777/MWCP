@@ -13,13 +13,18 @@
 ||595image.vip^
 ||61fe2d132b.com^
 ||666834.xyz^
+||666bb777yy.com^
 ||7926ccc537.com^
 ||858227.top^
+||888hh999vv.com^
+||888qq999hh.com^
+||888rr999dd.com^
 ||95tuchuang1.top^
 ||ab13568.com^
 ||abc29863668.com^
 ||abc57987257.com^
 ||abc96935812.com^
+||ad287.com^
 ||aj1987.online^
 ||altzpxu.com^
 ||app12.cc^
@@ -27,6 +32,7 @@
 ||axvfinzmi.com^
 ||b3400dda56f2.com^
 ||baidu-iloveyou.xyz^
+||bamaolmjgfj.com^
 ||bb77393629.com^
 ||binthimupo.com^
 ||canseldomsulphur.com^
@@ -40,6 +46,7 @@
 ||daigraphia.com^
 ||dakawm.cc^
 ||dfrujh.site^
+||dhkgjyf.site^
 ||diligencejusticeimprobable.com^
 ||dxy63665563.com^
 ||elysiumingreat.top^
@@ -50,18 +57,21 @@
 ||frawarehou.rest^
 ||funlight133.top^
 ||g55uuy.shop^
+||gbkeuir.com^
 ||gcxg67.cc^
-||guz4t1.com^
 ||guizuren.com^
+||guz4t1.com^
 ||haurau.click^
 ||hearanimatewillingness.com^
 ||hfizzakurv.com^
+||img5504422276.com^
 ||img6890937840.com^
 ||imgdd.cc^
 ||impression-sync.xyz^
 ||jakyaqu.xyz^
 ||jasrocd.xyz^
 ||jmz55628371.com^
+||juese.icu^
 ||kjgbyn.com^
 ||kqs37917559.com^
 ||ksrsogd.com^
@@ -91,6 +101,7 @@
 ||rpyislr.com^
 ||sda1.dev^
 ||sglklgksgrcbv.com^
+||shsrdzs.com^
 ||silent-basis.pro^
 ||sitetag.us^
 ||slushycharacter.com^
@@ -101,9 +112,14 @@
 ||touristbaconwrath.com^
 ||traforama.com^
 ||tripcdn.com^
+||tscprts.com^
 ||tvhazno.com^
 ||wcydkls.com^
 ||waust.at^
+||what.qpon^
+||wxinny.com^
+||xlviirdr.com^
+||yan.pqd.org^
 ||ycs99877171.com^
 ||yonyoujcxl.com^
 ||youandmerunfast.com^
@@ -141,6 +157,7 @@
 ||dl59007.bj.bcebos.com^
 ||tags.bluekai.com^
 ||d1yw1n0ddlrqxj.cloudfront.net^
+||d3ccefxs96519j.cloudfront.net^
 ||dq38rjje7qjm3.cloudfront.net^
 ||analytics.usnupjhh.v2008.coreserver.jp^
 ||fsa-api.feebee.tw^
@@ -166,14 +183,14 @@
 ||analytics.yahoo.com^
 
 ! .B
-||img.alicdn.com/imgextra/i*/3382900570/
-||img.alicdn.com/imgextra/i*/4061867744/
-||img.alicdn.com/imgextra/i*/4183327079/
+||img.alicdn.com/imgextra/i*/
 ||imgsa.baidu.com/forum/pic/item/
 ||lf1-cdn-tos.bytegoofy.com/goofy/
 ||cdnjs.cloudflare.com/ajax/libs/fuckadblock/
+||pic1.imgdb.cn/item/*.gif
+||p0.meituan.net/csc/
 ||playhubconnect.com/bn/
-|p3-sign.toutiaoimg.com/tos-cn-i-eyfl5e3fp8/
+||p3-sign.toutiaoimg.com/tos-cn-i-eyfl5e3fp8/
 ||tsyndicate.com/do2/
 ||tsyndicate.com/iframes2/
 
@@ -219,6 +236,9 @@ _ads.html?
 |https://gw.m.163.com/search/api/v2/wap/rolling-word?
 |https://m.163.com/touch/api/paid-article/well-chosen-rec-list?
 |https://m.163.com/touch/behavior.html?
+
+! 169bbs
+||169bbs.com/AllRes/
 
 ! 18comic
 /ajax/user_daily_event?
@@ -299,6 +319,7 @@ douban.com##.talion-nav-footer
 
 ! ghxi
 ||www.ghxi.com/wp-content/plugins/core-ai-power/
+|https://www.ghxi.com/wp-content/plugins/wp-opt/static/js/ai-summary.min.js?
 |https://www.ghxi.com/wp-content/plugins/wp-opt/static/js/front.min.js?
 
 ! hanguomanhua
@@ -361,6 +382,10 @@ m.smzdm.com##.damo-footer-open-app
 
 ! smtt
 ||js.mewlxy.com/gg-config.js
+
+! sobt18
+|https://sobt18.icu/Public/static/js/common.js?
+||s1.filec.top/Blotter.js
 
 ! sohu
 ||*.cdn.sohucs.com/lemon/
