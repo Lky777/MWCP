@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202511071923
-! Last modified: 07 Nov 2025 19:23 UTC
+! Version: 202511081921
+! Last modified: 08 Nov 2025 19:21 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -5152,6 +5152,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /v.aspx?bln=$script
 /v.gif?
 /v.gif?logtype=
+/v/image.php?spot=$image
 /v1/adn/visit|
 /v1/log/web-vitals$xmlhttprequest
 /v1/pixel.js
@@ -9400,6 +9401,7 @@ yydstxt*.com/js/html
 ||6s665y.cn^
 ||6s8w2ck1g.com^
 ||6t51r3ge18.com^
+||6tdz25urqj.com^
 ||6thgenaccord.com^
 ||6u2h.cn^
 ||6uiprd.cn^
@@ -19838,6 +19840,7 @@ yydstxt*.com/js/html
 ||dtq9oy2ckjhxu.cloudfront.net^
 ||dtqs84i8bq.com^
 ||dtrk.slimcdn.com^
+||dtroldad.com^
 ||dtscout.com^
 ||dtssrv.com^$popup
 ||dtstatic.com^
@@ -26311,6 +26314,7 @@ yydstxt*.com/js/html
 ||jjjgame.com/images/ad11.jpg
 ||jjjxsw.com/js/common.
 ||jjmrmeovo.world^$popup
+||jjnyzeck.icu^
 ||jjplaqyo.icu^
 ||jjpqc.cn^
 ||jjpyaj214.com^
@@ -27990,6 +27994,8 @@ yydstxt*.com/js/html
 ||lls11060ko.com^
 ||lls11061ko.com^
 ||lls11071ko.com^
+||lls11080ko.com^
+||lls11081ko.com^
 ||llssg.com^
 ||llua.cn^
 ||llvakn.cn^
@@ -29892,6 +29898,7 @@ yydstxt*.com/js/html
 ||mvcat.com/sitefiles/services/cms/adv/
 ||mvcat.com/wx/follow.js
 ||mvcnmtx.top^
+||mvdrecrull.com^
 ||mvgll.cn^
 ||mviidhnbaf.net^
 ||mvlfurniture.com^
@@ -33937,6 +33944,7 @@ yydstxt*.com/js/html
 ||qjimtyy.top^
 ||qjiz.cn^
 ||qjlo.cn^
+||qjqdkli0ag.com^
 ||qjsalia.com^
 ||qjsalib.com^
 ||qjthc.cn^
@@ -34814,7 +34822,7 @@ yydstxt*.com/js/html
 ||retyn.cn^
 ||reuit.cn^
 ||reurl.cc/javascripts/tagtoo.js
-||reuters.com/pf/resources/dist/*/js/index.js?
+||reuters.com/pf/resources/dist/reuters/js/index.js
 ||rev.frankspeech.com^
 ||revcola.com^
 ||reve.com^
@@ -35757,6 +35765,7 @@ yydstxt*.com/js/html
 ||scwbc.net^
 ||sd-tagging.azurefd.net^
 ||sd.cn^
+||sd0ycgs3n0.com^
 ||sd124.com/statics/mystyle/js/1699.js
 ||sd173.com/images/
 ||sd7l2a.cn^
@@ -37875,6 +37884,7 @@ yydstxt*.com/js/html
 ||svjxs.cn^
 ||svnf.cn^
 ||svradv.com^
+||svrj.cn^
 ||svrsi.cn^
 ||svtcu.cn^
 ||svvpi.cn^
@@ -38092,6 +38102,7 @@ yydstxt*.com/js/html
 ||t2.profityi.com/api/visit/
 ||t2.t2b.click^
 ||t2lgo.com^$popup
+||t2q0gv7zjg.com^
 ||t2rytwsha.com^
 ||t2s.fun^
 ||t3.chat/api/event
@@ -39561,6 +39572,7 @@ yydstxt*.com/js/html
 ||travelclube.com^
 ||travelleaders.com^
 ||travellermania.com^
+||traveloka.com/api/v1/metrics
 ||traveloka.com/api/v1/tvlk/events
 ||traveltourismm.com^
 ||travistathree.com^
@@ -41993,6 +42005,7 @@ yydstxt*.com/js/html
 ||wqrv.cn^
 ||wr.yiyouliao.com^
 ||wravorzt.com^
+||wrestle22.top^
 ||wrg7.cn^
 ||wrgsb.com^
 ||writeestatal.space^$popup
