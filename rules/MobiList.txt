@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202511081921
-! Last modified: 08 Nov 2025 19:21 UTC
+! Version: 202511091920
+! Last modified: 09 Nov 2025 19:20 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -1683,11 +1683,13 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /beacon?cust=
 /beacons?data=
 /beardeddragon/armadillo.js$script
+/beardeddragon/axolotl.js$script
 /beardeddragon/drake.js$script
 /beardeddragon/gilamonster.js$script
 /beardeddragon/iguana.js$script
 /beardeddragon/tortoise.js$script
 /beardeddragon/turtle.js$script
+/beardeddragon/wyrm.js$script
 /beardeddragon/wyvern.js$script
 /behavior/web/pv?
 /benchmarketingsmarttag/get?
@@ -2141,6 +2143,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /detroitchicago/cmbdv2.js$script
 /detroitchicago/cmbv2.js$script
 /detroitchicago/denver.js$script
+/detroitchicago/ezconfig$xmlhttprequest
 /detroitchicago/gateway.js$script
 /detroitchicago/houston.js$script
 /detroitchicago/kenai.js$script
@@ -7445,7 +7448,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||www.gamersky.com/gsinc/$subdocument
 @@||www.google.*/adsense/$~third-party,domain=google.cn
 @@||www.google.*/search?$generichide
-@@||www.google.*/search?$xmlhttprequest
+@@||www.google.*/search?$xmlhttprequest,domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fi|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se|google.sk
 @@||www.google.*/search?q=*&oq=*&aqs=chrome.*&sourceid=chrome&$popup
 @@||www.google.com/ads/preferences/$image,script,subdocument
 @@||www.microsoft.com/onerfstatics/marketingsites-*/ad-$script
@@ -9515,6 +9518,7 @@ yydstxt*.com/js/html
 ||7kankan.com/scripts/new/indext
 ||7kyrov.cn^
 ||7l00qf.cn^
+||7lavkpncj.com^
 ||7m7xqm.cn^
 ||7mk.fun^
 ||7mmtv.tv/js/ad_js/
@@ -11825,6 +11829,7 @@ yydstxt*.com/js/html
 ||ams-pageview-public.s3.amazonaws.com^
 ||ams.fx678.com^
 ||ams.lelong.com.my^
+||ams.lustytube.net^
 ||ams.naturalnews.com^
 ||ams.naturalnewsblogs.com^
 ||amsqh.cn^
@@ -23818,6 +23823,7 @@ yydstxt*.com/js/html
 ||hbx.com^
 ||hbxmdf.icu^
 ||hbzhan.com^
+||hc1kycrud.com^
 ||hc360.com/images/14826/289x90.jpg
 ||hc360.com/js/*hezuo.js
 ||hc360.com/js/build/source/widgets/flowbao/flowbao.js
@@ -24576,6 +24582,7 @@ yydstxt*.com/js/html
 ||hsrvz.com^$popup
 ||hsvtdj.top^
 ||hsyipos.com/template/mxone/html_tplmx/vod/*.gif
+||ht9s1j1bf.com^
 ||htcoms.com^
 ||htecng2bd.com^
 ||htglbo.cn^
@@ -27215,6 +27222,7 @@ yydstxt*.com/js/html
 ||kqpez.cn^
 ||kqrdyshvc.com^
 ||kqs37917559.com^
+||kr1cbkoow.com^
 ||kraloyun.com^
 ||kramerav.com^
 ||kraonwbi.com^
@@ -27651,6 +27659,7 @@ yydstxt*.com/js/html
 ||letv.com/pzt/hyhmzq/index.shtml
 ||letvcdn.com/lc02_live/201803/18/23/40/1521387641261new.
 ||letzonke.com^$popup
+||leue.cn^
 ||level.18huhu.com^
 ||levelaccess.net/analytics/
 ||levelupgame7.com^
@@ -27996,6 +28005,8 @@ yydstxt*.com/js/html
 ||lls11071ko.com^
 ||lls11080ko.com^
 ||lls11081ko.com^
+||lls11090ko.com^
+||lls11091ko.com^
 ||llssg.com^
 ||llua.cn^
 ||llvakn.cn^
@@ -28600,7 +28611,6 @@ yydstxt*.com/js/html
 ||maisiethenewfieandcompany.com^
 ||maithilmatrimony.com^
 ||majile.vip^
-||majorgeeks.com/mg/slide/mg-slide.js
 ||makaidong.com/img/
 ||makegizmos.com^
 ||makeheadway.com^
@@ -32426,6 +32436,7 @@ yydstxt*.com/js/html
 ||pheniter.com^$popup
 ||phenotypebest.com^$popup
 ||pheqae.com^
+||phfuhedbph.com^
 ||phidonatome.com^
 ||phiglerdail.net^
 ||philasearch.com^
@@ -33180,6 +33191,7 @@ yydstxt*.com/js/html
 ||prbibo.top^
 ||prd-collector-anon.ex.co^
 ||prd-collector-platform.ex.co^
+||prd.media.cnn.com/global/*/dash.mpd$domain=cnn.com
 ||prdgsvc.com^
 ||prdredir.com^$popup
 ||prebid-server.newsbreak.com^
@@ -37743,6 +37755,7 @@ yydstxt*.com/js/html
 ||suanzsd6.com^
 ||suaurl.com/adblock/js/smarttag.js
 ||sub.powerapple.com^
+||sub1.gebeall.info^
 ||subarelacked.com^
 ||subdeliver.com^
 ||subhd.*/kaiyad.
@@ -38527,6 +38540,7 @@ yydstxt*.com/js/html
 ||tgb.cn^
 ||tgcx.top^
 ||tgcxw.com^
+||tghigvud.com^
 ||tghrfv.icu^
 ||tgjxzf.top^
 ||tglab.com^
@@ -38882,6 +38896,7 @@ yydstxt*.com/js/html
 ||tjpea.cn^
 ||tjqac.cn^
 ||tjv250730ads.com^
+||tjv251109ads.com^
 ||tjvcffap.icu^
 ||tjvpnh.icu^
 ||tjwsg.com^$popup
@@ -41071,6 +41086,7 @@ yydstxt*.com/js/html
 ||voc.com.cn/adsclick/
 ||voc.com.cn/js/xc/
 ||voc.com.cn/static/web/js/creattwo11.js
+||vocabulary83.com^
 ||voclu.cn^
 ||vod-common.com^
 ||vodconcepts.com^*/banners/
@@ -41272,6 +41288,7 @@ yydstxt*.com/js/html
 ||vyadd.com^
 ||vyght.cn^
 ||vyncrest.xyz^
+||vyqn.cn^
 ||vyrian.com^
 ||vytn.cn^
 ||vyvebroadband.net^
