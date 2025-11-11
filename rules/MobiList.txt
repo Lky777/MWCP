@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202511101923
-! Last modified: 10 Nov 2025 19:23 UTC
+! Version: 202511111923
+! Last modified: 11 Nov 2025 19:23 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -81,6 +81,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 -1316899192.cos.
 -1321533417.cos.
 -1325890192.cos.
+-1367066484.cos.
 -160-600.
 -160-600.jpg|$image
 -160x600-$image,subdocument
@@ -1472,6 +1473,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /api/click/*?c=
 /api/cmp_tracker|
 /api/collect|$ping,xmlhttprequest
+/api/datafast/
 /api/direct/*?s1=$script
 /api/drpstats
 /api/event-rfkj/
@@ -6850,7 +6852,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||liulanmi.com/wp-content/uploads/*/statcounter-
 @@||liumingye.cn^$generichide
 @@||live.lequipe.fr/thirdparty/prebid.js$~third-party
-@@||live.primis.tech^$script,domain=eurogamer.net|independent.co.uk|klaq.com|loudwire.com|screencrush.com|vg247.com|xxlmag.com
+@@||live.primis.tech^$script,domain=eurogamer.net|independent.co.uk|klaq.com|loudwire.com|screencrush.com|the-independent.com|vg247.com|xxlmag.com
 @@||live.primis.tech^$xmlhttprequest,domain=xxlmag.com
 @@||live.streamtheworld.com/partnerids$domain=iheart.com|player.amperwave.net
 @@||livew.l.qq.com/livemsg?pf=h5&ad$domain=m.v.qq.com
@@ -8612,6 +8614,7 @@ yydstxt*.com/js/html
 ||2osq127yy.com^
 ||2otg5.com^
 ||2qj7mq3w4uxe.com^$popup
+||2r1jqii2c.com^
 ||2r69dkb1a.com^
 ||2rq6q.com^
 ||2scjr.com^
@@ -16164,6 +16167,7 @@ yydstxt*.com/js/html
 ||codeceo.com/images/2020/04/kaikebabanner.png
 ||codedexchange.com^$popup
 ||codedrink.com^
+||codefa.st/js/script.js
 ||codefuture.top^
 ||codejie.net/img/xiandai.gif
 ||codejie.net/wp-content/uploads/*/1120-50.
@@ -18234,6 +18238,7 @@ yydstxt*.com/js/html
 ||datadrivencooking.com^
 ||datadrivenpromotion.com^
 ||datads.cn^
+||datafa.st/js/script.js
 ||datafeedfile.com/ez_banner/
 ||datafeedfile.com/widget/readywidget/
 ||datafeedwatch.com^
@@ -21243,6 +21248,7 @@ yydstxt*.com/js/html
 ||fitsazx.xyz^$popup
 ||fittiercutlets.top^$popup
 ||fittingcentermondaysunday.com^$popup
+||fitymi.app/js/script.js
 ||fiu07031kl.com^
 ||fiu07041kl.com^
 ||fiu07050kl.com^
@@ -27185,6 +27191,8 @@ yydstxt*.com/js/html
 ||lls11091ko.com^
 ||lls11100ko.com^
 ||lls11101ko.com^
+||lls11110ko.com^
+||lls11111ko.com^
 ||llssg.com^
 ||llua.cn^
 ||llw67onw6.com^
@@ -27304,6 +27312,7 @@ yydstxt*.com/js/html
 ||logintrade.net^
 ||loglady.kiwi.com^
 ||loglady.skypicker.com^
+||logofa.st/js/script.js
 ||logonvalidation.net^
 ||logoquan.com/upload/prd/
 ||logs-api.shoprunner.com^
@@ -28059,6 +28068,7 @@ yydstxt*.com/js/html
 ||mdamcsx.top^
 ||mddsp.info^$popup
 ||mdhmx.com^
+||mdhotidv.com^
 ||mdkpw.com^
 ||mdmexclusives.com^$popup
 ||mdn.allizom.net/pong/
@@ -29223,6 +29233,7 @@ yydstxt*.com/js/html
 ||n72bn5s7uu.top^
 ||n7a.icu^
 ||n8u.icu^
+||n906n29tm.com^
 ||n91hg.com^$popup
 ||na.groupondata.com^
 ||naajie.com/float.js
@@ -30219,6 +30230,7 @@ yydstxt*.com/js/html
 ||ogyca.com^
 ||oh100.com/js/pubuliu.
 ||ohaan.cn^
+||ohaereatw.com^
 ||ohm-dot-hackster-io.appspot.com^
 ||ohmygore.com/ef_pub
 ||ohmywishes.com^
@@ -30577,6 +30589,7 @@ yydstxt*.com/js/html
 ||opus-whisky.com^$popup
 ||opwc.cn^
 ||opwqkq.icu^
+||oqcw1f9yw.com^
 ||oqea.cn^
 ||oqidsgkq.com^
 ||oqipegjz.icu^
@@ -34731,6 +34744,7 @@ yydstxt*.com/js/html
 ||shinebliss.com^$popup
 ||shink.in/js/script.js
 ||shinpa.me^
+||shipfa.st/js/script.js
 ||shipin188.com/66
 ||shipwreckclassmate.com^$popup
 ||shishangka.com^
@@ -38621,6 +38635,7 @@ yydstxt*.com/js/html
 ||uvfrl.cn^
 ||uviu.com/_xd/
 ||uviu.com/activity/
+||uvj2.com^
 ||uvoisbg.xyz^
 ||uvoonaix.top^$popup
 ||uvxrso.cn^
@@ -38860,6 +38875,7 @@ yydstxt*.com/js/html
 ||vickyellend.com^
 ||victoriaelmae.com^
 ||victoryslam.com^$popup
+||victual21.com^
 ||vid-adblocker.com^$popup
 ||vid-bx.com^
 ||vid-pt.com^
@@ -39250,6 +39266,7 @@ yydstxt*.com/js/html
 ||vwiy.cn^
 ||vwjimezoa.com^
 ||vwonwkaqvq-a.global.ssl.fastly.net^
+||vwowvu9ha.com^
 ||vwtbrzymoz.com^
 ||vwuudahnarh.com^
 ||vwvj.cn^
@@ -39860,6 +39877,7 @@ yydstxt*.com/js/html
 ||wooblzlhl524.com^
 ||woodmancastingxxx.com^
 ||woodynotioncredibility.com^
+||woonkruthf.com^
 ||woovoree.net^$popup
 ||woowhois.com^
 ||wooymoon.com^
@@ -41522,6 +41540,7 @@ yydstxt*.com/js/html
 ||ziffdavisb2b.com^*/tracker.js
 ||ziffstatic.com/pg/
 ||ziffstatic.com/zmg/pogoadk.js
+||zigq.cn^
 ||zihavcwrtcatsfsjkuk.top^
 ||zihqjf.icu^
 ||zikao365.com/upload/js/pfgg/
