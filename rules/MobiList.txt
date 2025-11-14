@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202511131923
-! Last modified: 13 Nov 2025 19:23 UTC
+! Version: 202511141923
+! Last modified: 14 Nov 2025 19:23 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -12641,6 +12641,7 @@ yydstxt*.com/js/html
 ||ats.alot.com^
 ||atsg.me^$popup
 ||atsgiu.icu^
+||att.com/scripts/adobe/prod/marketing.min.js
 ||att.ydss.cn/attachments/portal/
 ||attachedkneel.com^$popup
 ||attelaoe.com^
@@ -12956,6 +12957,7 @@ yydstxt*.com/js/html
 ||b5media.com/bbpixel.php
 ||b629.electronicdesign.com^
 ||b79e4u3hz7.com^
+||b7ijghyla1.com^
 ||b7sw62.pingshu8.xyz^
 ||b7tp47v2nb3x-a.akamaihd.net^
 ||b82q168jgj.com^
@@ -14706,6 +14708,7 @@ yydstxt*.com/js/html
 ||bxhm.cn^
 ||bxjddjt.com^
 ||bxlulr.icu^
+||bxmo.cn^
 ||bxqkwpija.com^
 ||bxw666.com/storage/*.gif
 ||bxwx7.com^
@@ -19599,6 +19602,7 @@ yydstxt*.com/js/html
 ||dynamicyield.com/uia?
 ||dynamicyield.com/var?
 ||dynara3.com^
+||dynatrace.att.com^
 ||dynatrace.com^$third-party,domain=~dynatracelabs.com
 ||dynsrvtbg.com^$popup
 ||dynsrvwer.com^$popup
@@ -25872,6 +25876,7 @@ yydstxt*.com/js/html
 ||jucnwta.top^
 ||jucoin.com^
 ||judebelii.com^$popup
+||judicial4.com^
 ||judkq.cn^
 ||judysbook.com^
 ||jueepsafds.com^
@@ -28835,6 +28840,7 @@ yydstxt*.com/js/html
 ||mtfc8.com^
 ||mtg.macpaw.com^
 ||mtgzone.com^
+||mthonpga.com^
 ||mtiicw.icu^
 ||mtime.cn/library/*/ecommerce/goodsandfeaturectrl.js
 ||mtime.cn/tg/
@@ -30021,6 +30027,7 @@ yydstxt*.com/js/html
 ||o8u3n4q7fe.com^
 ||o8urtime.com^
 ||o8zoz.icu^
+||o9qdqbu6nu.com^
 ||o9tt6h08li.execute-api.eu-west-1.amazonaws.com^
 ||o9urtime.com^
 ||oa.hinews.cn/work/img/
@@ -32946,6 +32953,7 @@ yydstxt*.com/js/html
 ||qyer.com^*/base_beacon_ga.js
 ||qyerstatic.com/common/models/common/component/footerbanner/
 ||qypjuwy.xyz^
+||qyplvnzcm1.com^
 ||qyun.vip/pic/*.gif
 ||qywbslk.top^
 ||qyxxpd.com^
@@ -40589,6 +40597,8 @@ yydstxt*.com/js/html
 ||xxsy.net^
 ||xxts11130zs.com^
 ||xxts11131zs.com^
+||xxts11140zs.com^
+||xxts11141zs.com^
 ||xxx-halyava.net^
 ||xxx.sdtraff.com^
 ||xxxbfvideo.net^
@@ -41207,6 +41217,7 @@ yydstxt*.com/js/html
 ||yxqmryq.top^
 ||yxrcr.com^
 ||yxs158.com^
+||yxwg21lyyn.com^
 ||yxzp.net/left.js
 ||yy17173.dtime.com^
 ||yy18.info/yyads/
