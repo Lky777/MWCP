@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202511141923
-! Last modified: 14 Nov 2025 19:23 UTC
+! Version: 202511151920
+! Last modified: 15 Nov 2025 19:20 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -3746,6 +3746,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /partneradwidget.$subdocument
 /partnerbanner.$~xmlhttprequest,domain=~toltech.cn
 /partnermetrics.js
+/pay/collect|$xmlhttprequest
 /paypic/
 /pbasitetracker.min.js
 /pbjsandwichdirecta9-$script
@@ -9224,6 +9225,7 @@ yydstxt*.com/js/html
 ||5pub.com^
 ||5qjspf2c.xyz^
 ||5s98.com/img/
+||5u1zleadi.com^
 ||5u3tzh6tc.com^
 ||5uazcu2o1.com^
 ||5vbs96dea.com^$popup
@@ -12564,6 +12566,7 @@ yydstxt*.com/js/html
 ||asset.d5techs.com/script/track.min.js
 ||asset.d5techs.com/script/utm.min.js
 ||assets-cosme.net^
+||assets.9gtb.com^
 ||assets.apollo.io/micro/website-tracker/
 ||assets.engoo-static.com/tracking.js
 ||assets.hearstapps.com/commerce/release/affiliate-bundle.
@@ -12596,6 +12599,7 @@ yydstxt*.com/js/html
 ||astxt.top^
 ||asurascanz.com^
 ||aswoptimo.com^
+||asy76rvai.com^
 ||async-px.dynamicyield.com^
 ||asypwo.icu^
 ||asyy6.com/dm/
@@ -15330,6 +15334,7 @@ yydstxt*.com/js/html
 ||cf-emailsecurity.net^
 ||cf-img.com^
 ||cf-pixelfront-analytics.widencdn.net^
+||cf.api.instant.one^
 ||cf.overblog.com^
 ||cfa.fidelity.com^
 ||cffpng.com^
@@ -15700,6 +15705,7 @@ yydstxt*.com/js/html
 ||classifiedsmanitoba.com^
 ||classino.com^
 ||classistatic.com^*/js/lib/prebid-7.5.0.min.js$script,domain=kijiji.ca
+||classroomlf.com^
 ||claude.ai/sentry^
 ||claydar.com^
 ||clayton-group.com^
@@ -20478,6 +20484,7 @@ yydstxt*.com/js/html
 ||eventlog.inspsearchapi.com^
 ||eventlog.jackpot.de^
 ||events-endpoint.pointandplace.com^
+||events-ocu.zipify.com^
 ||events-prod.autolist.com^
 ||events-proxy.mintlify.com
 ||events-tracker.deliveroo.net^
@@ -21381,6 +21388,7 @@ yydstxt*.com/js/html
 ||fo0qofhtaw.com^
 ||fo1ykm6ph1.com^
 ||fobshanghai.com/bbsad/
+||fodh.cn^
 ||fodsoack.com^$popup
 ||fofoyy.com^
 ||fog.pixual.co^
@@ -23285,6 +23293,7 @@ yydstxt*.com/js/html
 ||hdapp1008-a.akamaihd.net^
 ||hdbkell.com^
 ||hdbltq.top^
+||hdbvfhjebfiendhr.com^
 ||hdc.maxli.cn^
 ||hdduhcs.com^
 ||hdinmau.top^
@@ -24893,6 +24902,7 @@ yydstxt*.com/js/html
 ||instancesflushedslander.com^$popup
 ||instant-adblock.xyz^$popup
 ||instant-gaming.com/affgames/
+||instant.one/a/tk
 ||instantpaydaynetwork.com^$popup
 ||instapage.com^$third-party,domain=~pagedemo.co
 ||instapagemetrics.com^
@@ -27153,6 +27163,7 @@ yydstxt*.com/js/html
 ||lmneuquen.com^
 ||lmp3.org^$popup
 ||lms.roblox.com^
+||lmtruueagl.com^
 ||lmwwbrgjj.com^
 ||lnaup.cn^
 ||lnd.com.cn/sys/real_calc.js
@@ -30052,6 +30063,7 @@ yydstxt*.com/js/html
 ||obaivrek.com^
 ||obamapeoplemeet.com^
 ||obesityhelp.com^
+||obgk.cn^
 ||obi4wan.com^
 ||obiknmm.icu^
 ||obiwankenode.com^
@@ -31536,6 +31548,7 @@ yydstxt*.com/js/html
 ||pixel.tuko.co.ke^
 ||pixel.veritone-ce.com^
 ||pixel.videohub.tv^
+||pixel.wetracked.io^
 ||pixel.wp.com^
 ||pixel.yabidos.com^
 ||pixel.yola.com^
@@ -32345,6 +32358,7 @@ yydstxt*.com/js/html
 ||pufawu.com^
 ||puhmtt.icu^
 ||puldhukelpmet.com^$popup
+||pulfinik.com^
 ||pulinkme.com^$popup
 ||pullvisa.com^
 ||pulpulyy.club/cdn-cgi/trace
@@ -32521,6 +32535,7 @@ yydstxt*.com/js/html
 ||qaqvec.icu^
 ||qavldoqkab.net^
 ||qaxl.cn^
+||qayjvrxso.com^
 ||qayqa.com:6868/jquery/
 ||qazwsxedc.xyz^
 ||qazwsxedd.com^
@@ -36395,6 +36410,7 @@ yydstxt*.com/js/html
 ||t.splicky.com^
 ||t.spot.im^
 ||t.ssp.hinet.net/utag.js
+||t.vibe.co^
 ||t.wayfair.ca^
 ||t.wayfair.co.uk^
 ||t.wayfair.com^
@@ -39053,6 +39069,7 @@ yydstxt*.com/js/html
 ||vnurqroibt.com^
 ||vnuuh.icu^
 ||vnwu.cn^
+||vnyqemhir.com^
 ||vo.msecnd.net/api/beyablejsv2.js
 ||voc.com.cn/adsclick/
 ||voc.com.cn/js/xc/
@@ -39926,6 +39943,7 @@ yydstxt*.com/js/html
 ||wsj.net/pb/pb.js
 ||wsls.com^
 ||wsmcdn.audioeye.com^
+||wsnxw6ihs.com^
 ||wspisp.net/logger.php
 ||wsptsportappr66.com^
 ||wssolver.net^
@@ -40599,6 +40617,7 @@ yydstxt*.com/js/html
 ||xxts11131zs.com^
 ||xxts11140zs.com^
 ||xxts11141zs.com^
+||xxts11150zs.com^
 ||xxx-halyava.net^
 ||xxx.sdtraff.com^
 ||xxxbfvideo.net^
