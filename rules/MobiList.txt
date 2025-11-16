@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202511151920
-! Last modified: 15 Nov 2025 19:20 UTC
+! Version: 202511161922
+! Last modified: 16 Nov 2025 19:22 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -8338,6 +8338,7 @@ yydstxt*.com/js/html
 ||1pwx.com/js/ck.js
 ||1qa5x1k5v.com^
 ||1qfxm8hgqd.com^
+||1qkssfop4l.com^
 ||1qv.fun^
 ||1r4.com^
 ||1redirb.com^$popup
@@ -8947,6 +8948,7 @@ yydstxt*.com/js/html
 ||4gtv.tv/4gtv_ott.json
 ||4gtv.tv/js/ga_
 ||4gu.fun^
+||4h87y9pc59.com^
 ||4hds.com/js/camstats.js
 ||4hr54w.cn^
 ||4hw.com.cn/js/common.js
@@ -10349,6 +10351,7 @@ yydstxt*.com/js/html
 ||adblock-zen-download.com^$popup
 ||adblock-zen.com^$popup
 ||adblock1.static-cloudflare.workers.dev^
+||adblock2.static-cloudflare.workers.dev^
 ||adblockanalytics.com^
 ||adblocker-sentinel.net^$popup
 ||adblockerexpert.com^
@@ -13154,6 +13157,7 @@ yydstxt*.com/js/html
 ||ballewsaw.com^
 ||ballive.*/addm/
 ||ballreviews.com^
+||ballyhoopla.club^$popup
 ||baltini.com^
 ||bamaolmjgfj.com^
 ||bambosunsash.top^
@@ -15761,6 +15765,7 @@ yydstxt*.com/js/html
 ||click.ggpickyaff.com^$popup
 ||click.nudevista.com^
 ||click.oneplus.cn^
+||click.quk.com^$popup
 ||click.rypr.ru^
 ||click.taobao.com/$third-party,popunder
 ||click.taobao.com^$popup,domain=steamcn.com
@@ -18633,6 +18638,7 @@ yydstxt*.com/js/html
 ||dh0c1bz67fuho.cloudfront.net^
 ||dh6dm31izb875.cloudfront.net^
 ||dh8azcl753e1e.cloudfront.net^
+||dh8ypn3lq8.com^
 ||dhaaralzz.com^
 ||dhannaq.com^
 ||dhbgjv37e.com^
@@ -22861,6 +22867,7 @@ yydstxt*.com/js/html
 ||greenxiazai.com/d/js/v/
 ||greewepi.net^$popup
 ||grefutiwhe.com^$popup
+||greikvuth.com^
 ||grerzieds.com^
 ||greygrid.net^$popup
 ||greytechnology.top^
@@ -24256,6 +24263,7 @@ yydstxt*.com/js/html
 ||iboray.com^
 ||ibpah.cn^
 ||ibqemk.icu^
+||ibqh.cn^
 ||ibreader.com^
 ||ibspark.com^
 ||ibtimes.com/front/js/counter.js
@@ -27965,6 +27973,7 @@ yydstxt*.com/js/html
 ||mbgaws.net^
 ||mbid.marfeelrev.com^
 ||mbidadm.com^
+||mbjaob.cn^
 ||mbjrkm2.com^$popup
 ||mbliigwoad.net^
 ||mbm06.com^
@@ -29245,6 +29254,7 @@ yydstxt*.com/js/html
 ||nasosettoourm.com^$popup
 ||nasssmedia.com^$popup
 ||nastydollars.com/trk/
+||naszig.cn^
 ||natgeomedia.com/js/ads-parallax.
 ||nathanaeldan.pro^$popup
 ||naticr.com^
@@ -29874,6 +29884,7 @@ yydstxt*.com/js/html
 ||nsxafiliados.com^
 ||ntce.com/images/js/ntce_public.js
 ||ntdtv.com/assets/themes/ntd/js/article_ads.js
+||ntegrodvtu.com^
 ||ntfusiongame.com^
 ||ntimg.cn/original/images/www_ads.jpg
 ||ntlgbtkgge.net^
@@ -32073,6 +32084,7 @@ yydstxt*.com/js/html
 ||pressreleasepoint.com^
 ||pressyour.com^$popup
 ||prestop.com^
+||pretension48.top^
 ||preternatural.cn^
 ||pretrackings.com^
 ||pretrackings.com^$popup
@@ -38280,6 +38292,7 @@ yydstxt*.com/js/html
 ||ueqo.cn^
 ||uestat.video.qiyi.com^
 ||uesv3jjf6.com^
+||uetx75ibcu.com^
 ||ueuwvgco19.com^
 ||uewotga.top^
 ||uewzjy.xyz^
@@ -40618,6 +40631,8 @@ yydstxt*.com/js/html
 ||xxts11140zs.com^
 ||xxts11141zs.com^
 ||xxts11150zs.com^
+||xxts11160zs.com^
+||xxts11161zs.com^
 ||xxx-halyava.net^
 ||xxx.sdtraff.com^
 ||xxxbfvideo.net^
