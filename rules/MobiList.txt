@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202511170902
-! Last modified: 17 Nov 2025 09:02 UTC
+! Version: 202511171924
+! Last modified: 17 Nov 2025 19:24 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -8546,7 +8546,6 @@ yydstxt*.com/js/html
 ||24htopnews.net^
 ||24metrics.com^
 ||24sib.com^
-||24vids.com^
 ||24x7report.com^$popup
 ||24y0c8hek.com^
 ||2500sz.com/site/
@@ -11268,7 +11267,6 @@ yydstxt*.com/js/html
 ||aiwen.cc^
 ||aixiaofan.cn/content/uploadfile/tpl_options//ad_list_
 ||aixiaoju.com/dbxf/*.js
-||aixiaoxiao.xyz^
 ||aixifan.com/acsdk/log.min.js?
 ||aixifan.com/appspreadcontents/danmuad
 ||aixifan.com/apsdk/apsdk.js
@@ -15031,6 +15029,7 @@ yydstxt*.com/js/html
 ||cargurus.com/cars/cganalyticspageview.action
 ||cargurus.com/tr/
 ||carj8sa3.com^
+||carlinaframh.com^
 ||carlocksmithstcharles.com^
 ||carlook.net^
 ||carnations9.com^
@@ -15698,6 +15697,7 @@ yydstxt*.com/js/html
 ||cl.canva.com^
 ||cl.t3n.de^
 ||clammy88.com^
+||clammyendearedkeg.com^
 ||clanker-events.squarespace.com^
 ||clapper.life/update_deeplink_stats/
 ||clapperapp.com/clpixgif?
@@ -21554,6 +21554,7 @@ yydstxt*.com/js/html
 ||frbit.net^
 ||frbiz.com^
 ||frbkvv.com^
+||frchavvati.com^
 ||free-cdn.oss-cn-shanghai.aliyuncs.com^
 ||free-converter.com^
 ||free-daily-spins.com^
