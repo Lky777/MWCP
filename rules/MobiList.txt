@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202511171924
-! Last modified: 17 Nov 2025 19:24 UTC
+! Version: 202511181035
+! Last modified: 18 Nov 2025 10:35 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -274,6 +274,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/by389.js$script
 .com/clk?
 .com/code.php?a=index&z=$script,xmlhttprequest
+.com/config/v7.js
 .com/core/js/the_pf.js
 .com/count?
 .com/counter?
@@ -520,6 +521,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .op2.web.kuaiwan.
 .org/ad/$domain=~ylilauta.org
 .org/ads/$~xmlhttprequest
+.org/config/v7.js
 .org/script/compatibility.js$third-party
 .org/topjs/
 .outbound-links.pageview-props.revenue.tagged-events.js
@@ -7829,6 +7831,9 @@ yydstxt*.com/js/html
 |https://www.ghxi.com/wp-content/plugins/wp-opt/static/js/ai-summary.min.js?
 |https://www.ghxi.com/wp-content/plugins/wp-opt/static/js/front.min.js?
 |https://www.pornbest.org/site/stat?
+|https://www.ytsptv.com/Php/Home/kakaxiaikakaxi.php
+|https://www.ytsptv.com/popup_api.php?
+|https://www.ytsptv.com/right_float_api.php?
 |https://www.zhihu.com/api/v4/growth/mobile_top_banner?
 |https://www.zhihu.com/api/v4/hot_recommendation?
 |https://www.zhihu.com/api/v4/questions/*/related-readings?
@@ -8677,7 +8682,6 @@ yydstxt*.com/js/html
 ||3337738.com^
 ||333bet30.com^
 ||333uu.org/config/
-||333wy333bb.com^
 ||33445522.com//admin/adv/
 ||3344ex.com/js/1playerad.js
 ||3344ex.com/js/bot.js
@@ -9149,7 +9153,6 @@ yydstxt*.com/js/html
 ||58.com/show/ads?
 ||580590.com^
 ||580bk.com/ceshi/
-||5845-xxpp.oss-accelerate.aliyuncs.com^
 ||5888.tv/js/topbanner.js
 ||5888.tv/user_ad/
 ||588bam1.net^
@@ -9302,7 +9305,6 @@ yydstxt*.com/js/html
 ||6669667.com^
 ||666aa777bb.com^
 ||666bb777rr.com^
-||666bb777ss.com^
 ||666bb777ww.com^
 ||666bb777yy.com^
 ||667bet.net^
@@ -9424,7 +9426,6 @@ yydstxt*.com/js/html
 ||766cdn.com^
 ||766lnwfo7h.com^
 ||76898102.xyz^
-||768tup.oss-cn-hongkong.aliyuncs.com^
 ||76e.org^
 ||76fengyun.com/70070.gif
 ||76fengyun.com/jsa/
@@ -9601,8 +9602,6 @@ yydstxt*.com/js/html
 ||888media.net^$popup
 ||888pg000.com^
 ||888promos.com^$popup
-||888qq999hh.com^
-||888rr999dd.com^
 ||888rrr10.com^
 ||888rrr11.com^
 ||888rrr20.com^
@@ -9855,6 +9854,7 @@ yydstxt*.com/js/html
 ||9y01.xyz/app/index.html
 ||9ya.net/con/ad
 ||9zvip.net/hi5asd/
+||[0-9][0-9][0-9][a-z][a-z][0-9][0-9][0-9][a-z][a-z].com^
 ||[::]^$third-party,domain=~0.0.0.0|~127.0.0.1|~[::1]|~[::]|~local|~localhost
 ||a*.chajiaotong.com^
 ||a-5-g-g.com^
@@ -10072,10 +10072,8 @@ yydstxt*.com/js/html
 ||abc.hkepc.net^
 ||abc.ruodian360.com^
 ||abc.yebaike.com^
-||abc29863668.com^
-||abc57987257.com^
-||abc96935812.com^
 ||abc99999999999.com^
+||abc[0-9][0-9][0-9][0-9][0-9][0-9][0-9]*.com^
 ||abcache.com/tg/
 ||abcache.com/xc/image/
 ||abcache.com/youlaohu/
@@ -10580,7 +10578,6 @@ yydstxt*.com/js/html
 ||admetricspro.com^
 ||admidadsp.com^
 ||admile.xyz^
-||admin500cp.s3.ap-east-1.amazonaws.com^
 ||adminbuy.cn/images/
 ||adminer.com^
 ||adminml.com^
@@ -18606,6 +18603,7 @@ yydstxt*.com/js/html
 ||dfi09250kq.com^
 ||dfidhqoaunepq.cloudfront.net^
 ||dfiqvf0syzl54.cloudfront.net^
+||dfkj88.com^
 ||dflow.net^
 ||dfm7wh2x5l4za.cloudfront.net/script.js
 ||dfmpe7igjx4jo.cloudfront.net^
@@ -19555,6 +19553,7 @@ yydstxt*.com/js/html
 ||dw9uc6c6b8nwx.cloudfront.net^
 ||dwangairmen.top^
 ||dwbaazotho.com^
+||dwchovra.com^
 ||dwd11wtouhmea.cloudfront.net^
 ||dwearcouture.com^
 ||dwebwj8qthne8.cloudfront.net^
@@ -22673,7 +22672,6 @@ yydstxt*.com/js/html
 ||golfsvc.com^
 ||golmalreturn.com^
 ||gome.com.cn/flight?
-||gome3f-1005-ppp.oss-accelerate.aliyuncs.com^
 ||gomiedns.com^
 ||gomo.cc^$popup
 ||gomoxie.solutions^*/events
@@ -22934,6 +22932,7 @@ yydstxt*.com/js/html
 ||gsecurecontent.com^$popup
 ||gseuw.cn^
 ||gsght.com/twizards.js
+||gsght.com^
 ||gsgxnauqu8.com^
 ||gskng.cn^
 ||gsmarena.com/deals-json.php3
@@ -23650,6 +23649,7 @@ yydstxt*.com/js/html
 ||hjfile.cn/site/hj-lzs/
 ||hjfile.cn/site/js/pop_gift_plugin.js
 ||hjimtyu.top^
+||hjjwxb.icu^
 ||hjkhxfh.360doc.cn^
 ||hjncn.cn^
 ||hjvprx.top^
@@ -24635,11 +24635,10 @@ yydstxt*.com/js/html
 ||img599.net/images/*0x
 ||img599.net^$domain=18board.com|18p2p.com
 ||img6.126.net/
-||img6890937840.com^
 ||img8341816451.com^
-||img8440419639.com^
 ||img898.com^
 ||img999.com^$popup,domain=tt1069.com
+||img[0-9][0-9][0-9][0-9][0-9][0-9][0-9]*.com^
 ||imgadult.com/ea2/
 ||imganalytics.com^
 ||imgbaiduxz.xyz/jsjsjs/
@@ -25617,6 +25616,7 @@ yydstxt*.com/js/html
 ||jitapu.com/inc/adv
 ||jitashe.org/template/jitashe/image/bc/3
 ||jitdlj.icu^
+||jiumaomldaxssd.com^
 ||jiuwert.online^$popup
 ||jixiangnh.com^
 ||jixurt.icu^
@@ -25760,6 +25760,7 @@ yydstxt*.com/js/html
 ||jpts1.top^
 ||jq68g1y.com^
 ||jqbgy.cn^
+||jqmr7zssmd.com^
 ||jqs77n9x.xyz^
 ||jqsex.com^
 ||jqtfoe92.com^$popup
@@ -25826,6 +25827,7 @@ yydstxt*.com/js/html
 ||js1i75.cn^
 ||js1jbn.cn^
 ||js22f.net^
+||js88js.net^
 ||jsb.qianzhan.com^
 ||jsbdgef.com^
 ||jsbsy4.com^
@@ -26028,6 +26030,7 @@ yydstxt*.com/js/html
 ||k.p-n.io/event-stream
 ||k.qwant.com^
 ||k.streamrail.com^
+||k06kldksi3.com^
 ||k0j5n7.com^
 ||k1.dancihu.com^
 ||k1.wanwenwan.cn^
@@ -26038,6 +26041,7 @@ yydstxt*.com/js/html
 ||k42.fun^
 ||k5a.io/?i=
 ||k5uj.icu^
+||k5w06v2yzh.com^
 ||k6pr.com^
 ||k7dj.com^
 ||k7kpkvhg.com^
@@ -28042,7 +28046,6 @@ yydstxt*.com/js/html
 ||mcurrentlysea.info^$popup
 ||md-static.com^
 ||md.tvzhe.com^
-||md18n895f.oss-cn-hangzhou.aliyuncs.com^
 ||mdamcsx.top^
 ||mddsp.info^$popup
 ||mdhmx.com^
@@ -30654,7 +30657,10 @@ yydstxt*.com/js/html
 ||ospkm.cn^
 ||osrbwehfobh.com^
 ||osrra.com^
+||oss-accelerate.aliyuncs.com^$third-party
 ||oss-ap-southeast-1.aliyuncs.com/js/copy.js
+||oss-cn-hangzhou.aliyuncs.com^$third-party
+||oss-cn-hongkong.aliyuncs.com^$third-party
 ||oss888rio1.com^
 ||oss99rio.com^
 ||oss99rio1.com^
@@ -31620,7 +31626,6 @@ yydstxt*.com/js/html
 ||pjbbhj.icu^
 ||pjcg3864p.com^
 ||pjdhguh14.com^
-||pjgj-gif.s3.ap-east-1.amazonaws.com^
 ||pjiptn.com^
 ||pjnfs.cn^
 ||pjtime.com/js/show_ad
@@ -33308,6 +33313,7 @@ yydstxt*.com/js/html
 ||redclawgaming.com^
 ||reddingo.com^
 ||reddit.com/static/pixel.png$image
+||reddit.com/svc/shreddit/perfMetrics
 ||reddit.com/timings/
 ||redditmedia.com/gtm/jail?
 ||redditsave.com/api/event
@@ -34063,6 +34069,7 @@ yydstxt*.com/js/html
 ||s3.amazonaws.com/www.audiencenetwork.ai/
 ||s3.amazonaws.com^*/f10ac63cd7
 ||s3.amazonaws.com^*/secure.js
+||s3.ap-east-1.amazonaws.com^$third-party
 ||s31u.com^
 ||s3g6.com^$popup
 ||s3lb34625c085b60d7e3bcf3edf4d8e8eeb44a264bc3eba8ed99166f086e7.xyz^
@@ -36244,6 +36251,7 @@ yydstxt*.com/js/html
 ||surfshark.events^
 ||surfside.io/event/
 ||surge.systems^$popup
+||surgeon38.top^
 ||surplusrecord.com^
 ||surrogateausteritywhence.com^$popup
 ||surstrom.com^
@@ -38040,7 +38048,6 @@ yydstxt*.com/js/html
 ||tundrafolder.com^$popup
 ||tunein.com/api/v1/log/
 ||tunisienumerique.com^
-||tunshixingkong2.com/config/v7.js
 ||tunwg.com^
 ||tupazime.xyz^
 ||tupian888.*.bcebos.com^
@@ -38283,6 +38290,7 @@ yydstxt*.com/js/html
 ||ucoz.com/stat/
 ||ucoz.net/stat/
 ||ucranianaspobres.top^
+||ucriqupq.com^
 ||uct.service.usercentrics.eu^
 ||ucweb.com/collect/
 ||uczfl.com/data/content
@@ -38856,6 +38864,7 @@ yydstxt*.com/js/html
 ||vhaig.cn^
 ||vhanime.com/js/bnanime.js
 ||vhaugmotn.com^
+||vhgu5ivtew.com^
 ||vhid.cn^
 ||vhje.cn^
 ||vhrhnh.icu^
@@ -40535,7 +40544,6 @@ yydstxt*.com/js/html
 ||xpicj0.icu^
 ||xpics.me/everyone.
 ||xpj08.oss-cn-beijing.aliyuncs.com^
-||xpj46-xz.oss-accelerate.aliyuncs.com^
 ||xplbxx.icu^
 ||xpncjj.icu^
 ||xpvv0rkn.fun^$popup
@@ -40660,6 +40668,8 @@ yydstxt*.com/js/html
 ||xxts11161zs.com^
 ||xxts11170zs.com^
 ||xxts11171zs.com^
+||xxts11180zs.com^
+||xxts11181zs.com^
 ||xxx-halyava.net^
 ||xxx.sdtraff.com^
 ||xxxbfvideo.net^
@@ -41152,6 +41162,7 @@ yydstxt*.com/js/html
 ||yqxsk.com^
 ||yrgsqi0zc.com^
 ||yrmqtv.xyz^
+||yrnv.cn^
 ||yrolduiyie.net^
 ||yrr56.com/mp4/pt_720.
 ||yrxtam.com^
@@ -41187,6 +41198,7 @@ yydstxt*.com/js/html
 ||ytoontoteh.com^
 ||ytqvuq.icu^
 ||ytse*.top/static/home/gonggao/img/
+||ytsptv.com/Static/Home/GongGao/img/
 ||ytv7335mt.com^
 ||ytvl4k.cn^
 ||ytwqse.cn^
@@ -41245,6 +41257,7 @@ yydstxt*.com/js/html
 ||yur09180og.com^
 ||yur09181og.com^
 ||yushuwen.com/astyle/wap.js
+||yutuzy.com/static/images/yutu.gif
 ||yuwangshe.net/astyle/wap.
 ||yuwenbin.host^
 ||yuzhounews.com^
