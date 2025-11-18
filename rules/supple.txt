@@ -1,4 +1,12 @@
 ! .A1
+||dfkj88.com^
+||jiumaomldaxssd.com^
+||js88js.net^
+||[0-9][0-9][0-9][a-z][a-z][0-9][0-9][0-9][a-z][a-z].com^
+||abc[0-9][0-9][0-9][0-9][0-9][0-9][0-9]*.com^
+||img[0-9][0-9][0-9][0-9][0-9][0-9][0-9]*.com^
+
+! .A2
 ||0ff6b7.com^
 ||0ghwbi.com^
 ||125e269609496c43dctlight203.com^
@@ -6,7 +14,6 @@
 ||18hu.link^
 ||2231tpc.com^
 ||32876879qxt.com^
-||333wy333bb.com^
 ||365tp.cc^
 ||3onalt.com^
 ||49588f.app^
@@ -15,19 +22,11 @@
 ||595image.vip^
 ||61fe2d132b.com^
 ||666834.xyz^
-||666bb777ss.com^
-||666bb777yy.com^
 ||7926ccc537.com^
 ||858227.top^
-||888hh999vv.com^
-||888qq999hh.com^
-||888rr999dd.com^
 ||92uhf73ad.com^
 ||95tuchuang1.top^
 ||ab13568.com^
-||abc29863668.com^
-||abc57987257.com^
-||abc96935812.com^
 ||ad287.com^
 ||aj1987.online^
 ||altzpxu.com^
@@ -70,9 +69,6 @@
 ||haurau.click^
 ||hearanimatewillingness.com^
 ||hfizzakurv.com^
-||img5504422276.com^
-||img6890937840.com^
-||img8440419639.com^
 ||imgdd.cc^
 ||impression-sync.xyz^
 ||intell0330.top^
@@ -143,7 +139,7 @@
 ||zqbao.vip^
 ||zrwprhw.xyz^
 
-! .A2
+! .B1
 ||adsco.re^
 ||adspyglass.net^
 ||adsrvr.org^
@@ -159,16 +155,13 @@
 ||xn--6rtq6phwfhva.com^
 ||xn--gps-8y0gm25n.xn--55qx5d^
 
-! .A3
+! .B2
 ||ip385154052.ahcdn.com^
 ||ad.52av.one^
-||5845-xxpp.oss-accelerate.aliyuncs.com^
-||768tup.oss-cn-hongkong.aliyuncs.com^
-||gome3f-1005-ppp.oss-accelerate.aliyuncs.com^
-||md18n895f.oss-cn-hangzhou.aliyuncs.com^
-||xpj46-xz.oss-accelerate.aliyuncs.com^
-||admin500cp.s3.ap-east-1.amazonaws.com^
-||pjgj-gif.s3.ap-east-1.amazonaws.com^
+||oss-accelerate.aliyuncs.com^$third-party
+||oss-cn-hangzhou.aliyuncs.com^$third-party
+||oss-cn-hongkong.aliyuncs.com^$third-party
+||s3.ap-east-1.amazonaws.com^$third-party
 ||miaowu.baidu.com^
 ||dl59007.bj.bcebos.com^
 ||tags.bluekai.com^
@@ -198,7 +191,7 @@
 ||go.xhamsterlive.com^
 ||analytics.yahoo.com^
 
-! .B
+! .C
 ||img.alicdn.com/imgextra/i*/
 ||imgsa.baidu.com/forum/pic/item/
 ||lf1-cdn-tos.bytegoofy.com/goofy/
@@ -382,6 +375,9 @@ oschina.net##div[name="detail_show_footer"]
 ||ravenscans.com/wp-content/themes/mangareader/assets/img/readerarea.svg
 ravenscans.com###teaserbottom
 
+! reddit
+||reddit.com/svc/shreddit/perfMetrics
+
 ! ruanyifeng
 ||www.ruanyifeng.com/blog/checker.js
 ||www.ruanyifeng.com/blog/stats.js
@@ -452,6 +448,15 @@ yeeyi.com##.openit
 
 ! yfsp
 m.yfsp.tv##.container
+
+! ytsptv
+||ytsptv.com/Static/Home/GongGao/img/
+|https://www.ytsptv.com/Php/Home/kakaxiaikakaxi.php
+|https://www.ytsptv.com/popup_api.php?
+|https://www.ytsptv.com/right_float_api.php?
+
+! yutuzy
+||yutuzy.com/static/images/yutu.gif
 
 ! zhihu
 ||static.zhihu.com/heifetz/chunks/$script
