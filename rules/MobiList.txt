@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202511181035
-! Last modified: 18 Nov 2025 10:35 UTC
+! Version: 202511181649
+! Last modified: 18 Nov 2025 16:49 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -7700,6 +7700,7 @@ chemdraw.com.cn
 cm.jd.com
 cna.com.tw##.line-ad
 coreldrawchina.com
+d1bkj2yip30514.cloudfront.net##.slider-wrapper
 data:image/gif;base64,
 dd.yiche.com
 diwenganzaoji.com
@@ -7716,6 +7717,7 @@ fpb.sohu.com
 g.163.com
 g1.tagtic.cn
 guitarpro.cc
+heiliao.com##.slider-wrapper
 huishenghuiying.com.cn
 hxsame.hexun.com$domain=~quote.hexun.com
 iconworkshop.cn
@@ -9304,6 +9306,7 @@ yydstxt*.com/js/html
 ||666834.xyz^
 ||6669667.com^
 ||666aa777bb.com^
+||666bb777gg.com^
 ||666bb777rr.com^
 ||666bb777ww.com^
 ||666bb777yy.com^
@@ -9854,7 +9857,6 @@ yydstxt*.com/js/html
 ||9y01.xyz/app/index.html
 ||9ya.net/con/ad
 ||9zvip.net/hi5asd/
-||[0-9][0-9][0-9][a-z][a-z][0-9][0-9][0-9][a-z][a-z].com^
 ||[::]^$third-party,domain=~0.0.0.0|~127.0.0.1|~[::1]|~[::]|~local|~localhost
 ||a*.chajiaotong.com^
 ||a-5-g-g.com^
@@ -10073,7 +10075,6 @@ yydstxt*.com/js/html
 ||abc.ruodian360.com^
 ||abc.yebaike.com^
 ||abc99999999999.com^
-||abc[0-9][0-9][0-9][0-9][0-9][0-9][0-9]*.com^
 ||abcache.com/tg/
 ||abcache.com/xc/image/
 ||abcache.com/youlaohu/
@@ -17129,6 +17130,7 @@ yydstxt*.com/js/html
 ||d1bi6hxlc51jjw.cloudfront.net^
 ||d1bioqbsunwnrb.cloudfront.net^
 ||d1bkis4ydqgspg.cloudfront.net^
+||d1bkj2yip30514.cloudfront.net/static/pc/icons/
 ||d1bxkgbbc428vi.cloudfront.net^
 ||d1bz.xyz/static/book/static.
 ||d1cg2aopojxanm.cloudfront.net^
@@ -23385,7 +23387,6 @@ yydstxt*.com/js/html
 ||heibaizhibo.com/_nuxt/87a5efd04908651591f7.js
 ||heiguang.com/_r/2015/js/hrbottombar.
 ||heiguang.com/f/uad/
-||heiliao.com^
 ||heimalesssinpad.com/overroll/
 ||heinekenalpha.top^
 ||heipa666.xyz/hp/
@@ -24638,7 +24639,6 @@ yydstxt*.com/js/html
 ||img8341816451.com^
 ||img898.com^
 ||img999.com^$popup,domain=tt1069.com
-||img[0-9][0-9][0-9][0-9][0-9][0-9][0-9]*.com^
 ||imgadult.com/ea2/
 ||imganalytics.com^
 ||imgbaiduxz.xyz/jsjsjs/
@@ -24754,7 +24754,6 @@ yydstxt*.com/js/html
 ||inadsexchange.com^
 ||inaltariaon.com^$popup
 ||inautia.com^
-||inbdp.cn^
 ||inbound-analytics.pixlee.co^
 ||inbrowserplay.com^$popup
 ||incapdns.net/monitor.js
@@ -27455,6 +27454,7 @@ yydstxt*.com/js/html
 ||ltlkm.cn^
 ||ltlxc.com^
 ||ltmarilsf.com^
+||ltn.com.tw/impression?
 ||ltn.com.tw/js/ad_door.js
 ||ltrs8bv54p.com^
 ||ltsmeet.com^
@@ -28655,7 +28655,6 @@ yydstxt*.com/js/html
 ||moerats.com/usr/affpc/
 ||mofidonline.com^
 ||moilizoi.com^$popup
-||mojeek.com^
 ||mokhtalefmusic.com^
 ||moksoxos.com^$popup
 ||molang007.com^
