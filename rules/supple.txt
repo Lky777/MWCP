@@ -1,10 +1,8 @@
 ! .A1
+||666bb777gg.com^
 ||dfkj88.com^
 ||jiumaomldaxssd.com^
 ||js88js.net^
-||[0-9][0-9][0-9][a-z][a-z][0-9][0-9][0-9][a-z][a-z].com^
-||abc[0-9][0-9][0-9][0-9][0-9][0-9][0-9]*.com^
-||img[0-9][0-9][0-9][0-9][0-9][0-9][0-9]*.com^
 
 ! .A2
 ||0ff6b7.com^
@@ -341,11 +339,19 @@ douban.com##.talion-nav-footer
 ||m.happymh.com/static/media/
 ||m.happymh.com/styles/friendAds.
 
+! heiliao
+||d1bkj2yip30514.cloudfront.net/static/pc/icons/
+d1bkj2yip30514.cloudfront.net##.slider-wrapper
+heiliao.com##.slider-wrapper
+
 ! jable
 ||assetscdn.jable.tv/assets/images/uu/
 
 ! juejin
 juejin.cn##.open-button
+
+! ltn
+||ltn.com.tw/impression?
 
 ! mydrivers
 ||11.mydrivers.com/common/js/trimpath-template-
