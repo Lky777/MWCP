@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202511191442
-! Last modified: 19 Nov 2025 14:42 UTC
+! Version: 202511191924
+! Last modified: 19 Nov 2025 19:24 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -33972,7 +33972,6 @@ yydstxt*.com/js/html
 ||retrosowenian.shop^$popup
 ||reuit.cn^
 ||reurl.cc/javascripts/tagtoo.js
-||reuters.com/pf/resources/dist/reuters/js/index.js
 ||rev.frankspeech.com^
 ||revcola.com^
 ||reve.com^
