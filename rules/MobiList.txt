@@ -1,15 +1,15 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202511191924
-! Last modified: 19 Nov 2025 19:24 UTC
+! Version: 202511201924
+! Last modified: 20 Nov 2025 19:24 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
 $csp=child-src 'none'; frame-src 'self' *; worker-src 'none',domain=fileone.tv|theappguruz.com
 $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vidoza.net
 $csp=script-src 'self' * 'unsafe-inline',domain=7zhens.com|wamuku.cc|scmmxs.com|jinduxs.com|buhesw.com|luenbook.cc|zahubook.com|heciwk.com|quhesw.com|erzuwk.com|bowoxs.com|guashuge.com|mudanxs.com|mzbook.cc|haduks.com|caimozw.com|zaaizw.com|bogeks.com|oushuku.com|haxu8.com|pucixs.com|tuqisw.com|xueyisw.com|zuye8.com|yawoxs.com|guwoxs.com|jiufuzw.com|beianxs.com|shuying6.com|mafusw.com|cule9.com|riquzw.com|xingksw.com|enbusw.com|waguwk.cc|ruyisw.com|zuxiku.com|jinmusb.com|hunshuge.com|puyewk.com|kaaiwk.com|hadu520.com|qubosw.com|meisibook.com|cuaizw.cc|boxue8.cc|cipubook.com|ququsk.cc|yiyezao.com|shanhuxs.com|jiutusw.com|chahuax.com|candoug.com|hanziwen.com|haduzw.com|modaoshu.com|nipubook.com|nuoshuge.com|puquz.com|wuwusk.com
-$csp=script-src 'self' * 'unsafe-inline',domain=iqmxs.cc|jinpai123.net|hshfm.com|xbiqige.cc|1qxs.com|xddxsw.net|jakxs.net|bisowu.net|zyywenxue.com|xiakezw.com|biqul.com|biqugeks.org|minaeast.net|shumi.la|59xs.com|biqugen.com|8181zw.vip|biqugequ.org|69shumi.com|fxxs3.com|efuxs.com|i3book.com|genbiquge.com|quanbiqu.com|pinshu.org|13xsw.com|bbiquge.cc|taobiquge.com|haijiaobooksw.top|zlobin.net|piaotianxiaoshuo.com|yebiquge.com|jvbiquge.com|vipbiquge.com|jpbqg7.com|zuizhong.net|oldtimeswx.org|5book.cc|softtechsolution.org|product44.com|snxsw.com|xiexinde.net|m.6666xsw.com|m.chenkuan.com|jmshuwu.net|wodexiaoshuoh.com|tetservices.net|haitangsoshu.org|4hrz.net|x33yq.org|56xiaoshuo.net|novelser.com|ykxs.cc|biqudd.com|diyibanzhu44444.com|dbrxs.org|kaixindu.net|1ingatlan.net|gaofuwu.org|yushuwu.cloud|yswxs.com|biquge2345.com|dingdian911.com|bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|1kans.net|aidu123.com|biquluo.info|bqgh.com|jmshuwu.net|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com|zk01.net
+$csp=script-src 'self' * 'unsafe-inline',domain=feiguaks.com|iqmxs.cc|jinpai123.net|hshfm.com|xbiqige.cc|1qxs.com|xddxsw.net|jakxs.net|bisowu.net|zyywenxue.com|xiakezw.com|biqul.com|biqugeks.org|minaeast.net|shumi.la|59xs.com|biqugen.com|8181zw.vip|biqugequ.org|69shumi.com|fxxs3.com|efuxs.com|i3book.com|genbiquge.com|quanbiqu.com|pinshu.org|13xsw.com|bbiquge.cc|taobiquge.com|haijiaobooksw.top|zlobin.net|piaotianxiaoshuo.com|yebiquge.com|jvbiquge.com|vipbiquge.com|jpbqg7.com|zuizhong.net|oldtimeswx.org|5book.cc|softtechsolution.org|product44.com|snxsw.com|xiexinde.net|m.6666xsw.com|m.chenkuan.com|jmshuwu.net|wodexiaoshuoh.com|tetservices.net|haitangsoshu.org|4hrz.net|x33yq.org|56xiaoshuo.net|novelser.com|ykxs.cc|biqudd.com|diyibanzhu44444.com|dbrxs.org|kaixindu.net|1ingatlan.net|gaofuwu.org|yushuwu.cloud|yswxs.com|biquge2345.com|dingdian911.com|bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|1kans.net|aidu123.com|biquluo.info|bqgh.com|jmshuwu.net|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com|zk01.net
 $csp=script-src 'self' * 'unsafe-inline',domain=smsonline.cloud
 $csp=script-src 'self' *,domain=zduxs.com|52niuyanks.cc|90shuyuan.com|hunhunxs.com|sswwxs.com|akexs.com|qqmmxs.com|qimiaoxs.cc|qimiaoxiaoshuo.com|wuwxs.com|biquge678.com|biqugezw.us
 $csp=script-src 'self' data: 'unsafe-inline' 'unsafe-hashes' 'unsafe-eval',domain=thumbs.pro
@@ -6265,7 +6265,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||bdstatic.com/static/common/widget/ui/admanager/
 @@||bdstatic.com/static/common/widget/ui/admanager/$script,domain=image.baidu.com
 @@||bdstatic.com/static/exp-pc/article/widget/cms-banner-ads/cms-banner-ads_*.css
-@@||bdstatic.com^$domain=17k.com
+@@||bdstatic.com^$domain=feiguaks.com|17k.com
 @@||beanfun.com/adclient/
 @@||betterads.org/hubfs/$image,~third-party
 @@||beyondsoft.com/dataservice/img/ad_
@@ -8643,6 +8643,7 @@ yydstxt*.com/js/html
 ||2mdn.net^
 ||2merkato.com/images/banners/
 ||2mundos.net^
+||2omfz9ygz2.com^
 ||2osq127yy.com^
 ||2qj7mq3w4uxe.com^$popup
 ||2r1jqii2c.com^
@@ -9224,6 +9225,7 @@ yydstxt*.com/js/html
 ||5gg466kzv.com^
 ||5gtb.com^
 ||5h3wnuhr8.com^
+||5hffr1p22j.com^
 ||5hiroshilunch.net^
 ||5icool.org/uploadfile/poster/
 ||5ik.icu^
@@ -9411,6 +9413,7 @@ yydstxt*.com/js/html
 ||7299tu75.cc^
 ||72gq3z.cn^
 ||730294994.com^
+||732quilulv.com^
 ||73336zubo25326.com^
 ||735pwa.com^$popup
 ||738382910483.com^
@@ -13258,6 +13261,8 @@ yydstxt*.com/js/html
 ||banquetunarmedgrater.com^$popup
 ||bans.bride.ru^
 ||banyaikipe.top^$popup
+||banzhu*.com/js/cdn.
+||banzhu*.com/js/html
 ||banzhu33333.net/js/cdn.
 ||banzhu33333.net/js/html
 ||banzou.name/qq/qq2.js
@@ -18441,6 +18446,7 @@ yydstxt*.com/js/html
 ||datoporn.com^$popup
 ||datum.jsdelivr.com^
 ||daughterinlawrib.com^$popup
+||dauzaebe.com^
 ||davatvttst.net^
 ||davcoin.com^
 ||davesource.com^
@@ -21452,6 +21458,7 @@ yydstxt*.com/js/html
 ||fitsazx.xyz^$popup
 ||fittiercutlets.top^$popup
 ||fittingcentermondaysunday.com^$popup
+||fittomniku.com^
 ||fitymi.app/js/script.js
 ||fiu07031kl.com^
 ||fiu07041kl.com^
@@ -27091,6 +27098,7 @@ yydstxt*.com/js/html
 ||lbx777.*/css/300.js
 ||lbx777.*/css/lbxgg02
 ||lby2kd27c.com^$popup
+||lcbmtd.icu^
 ||lcd.aivote.com^
 ||lcds-display.com^
 ||lciapi.ninthdecimal.com^
@@ -28402,6 +28410,7 @@ yydstxt*.com/js/html
 ||mcahinohez.com^
 ||mcc-tags.cisco.com^
 ||mcc.godaddy.com/park/
+||mccdn.me/assets/js/widget.js
 ||mcdp-*.outbrain.com^
 ||mcfstats.com^$popup
 ||mcgrocer.com^
@@ -29652,6 +29661,7 @@ yydstxt*.com/js/html
 ||n213.com^
 ||n214.com^
 ||n26iiffw9.com^
+||n2d79v41a3.com^
 ||n3567.com^
 ||n38m3d.cn^
 ||n3zx.com^
@@ -34974,6 +34984,7 @@ yydstxt*.com/js/html
 ||sensitiveclick.com^
 ||sentcss.com/get/cors/spread/
 ||sentcss.com/get/showcase/
+||sentiment39.top^
 ||sentimentalrailing.com^
 ||sentinelol.com^
 ||sentinelpro.com^
@@ -36479,6 +36490,7 @@ yydstxt*.com/js/html
 ||storage.googleapis.com/adtags/
 ||storage.googleapis.com/afs-prod/tags
 ||storage.googleapis.com/ba_utils/stab.js
+||storage.googleapis.com/builder-preview/iframe/pixel.js
 ||storage.googleapis.com/cdn.newsfirst.lk/advertisements/$domain=newsfirst.lk
 ||storage.googleapis.com/cdn2.guard.io/webflow/tracking-grd.js
 ||storage.googleapis.com/global-attribution/global_attribution.js
@@ -36493,6 +36505,7 @@ yydstxt*.com/js/html
 ||storehourss.com^
 ||storelocations411.com^
 ||storm.mg/ad?
+||stormgate.production.raptive.com^
 ||stormgleam42.xyz^
 ||storyren.top/imgg/
 ||storyunicornupper.com^$popup
@@ -40251,6 +40264,7 @@ yydstxt*.com/js/html
 ||wfphw.cn^
 ||wfrag.com^
 ||wfredir.net^$popup
+||wfvs.cn^
 ||wg-aff.com^$popup
 ||wgbot.top^
 ||wgceetonr.com^
@@ -40623,6 +40637,7 @@ yydstxt*.com/js/html
 ||wudizuqiu.com/img/dasai8/ybbj.png
 ||wueyninj7r.com^
 ||wugroansaghadry.com^
+||wugrorud.com^
 ||wuhaolin.cn/c/ls
 ||wuiwui.com^
 ||wujinzy.com/images/ok.gif
@@ -41008,6 +41023,8 @@ yydstxt*.com/js/html
 ||xjishu.com^
 ||xjvunf.top^
 ||xjx11191ts.com^
+||xjx11200ts.com^
+||xjx11201ts.com^
 ||xkarma.net^$popup
 ||xkd*.com/layer/layer.js
 ||xklv.cn^
@@ -41276,6 +41293,8 @@ yydstxt*.com/js/html
 ||xxts11181zs.com^
 ||xxts11190zs.com^
 ||xxts11191zs.com^
+||xxts11200zs.com^
+||xxts11201zs.com^
 ||xxx-halyava.net^
 ||xxx.sdtraff.com^
 ||xxxbfvideo.net^
@@ -41716,6 +41735,7 @@ yydstxt*.com/js/html
 ||yourlust.com*/serve
 ||yourlust.com/assets/script.js
 ||yourlust.com/js/scripts.js
+||yournames.click^
 ||yourtopwords.com^$popup
 ||yourupload.com/jwe?
 ||yout.pw/button/$popup
