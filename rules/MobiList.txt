@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202511211924
-! Last modified: 21 Nov 2025 19:24 UTC
+! Version: 202511221922
+! Last modified: 22 Nov 2025 19:22 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -5581,8 +5581,8 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 ://ad1.
 ://adn.*/zone/$popup
 ://adn.*/zone/$subdocument
-://ads.$popup,domain=~ad.olx.pl|~ads.mercadolibre.com.ar|~ads.mercadolibre.com.cl|~ads.mercadolibre.com.co|~ads.mercadolibre.com.ec|~ads.mercadolibre.com.mx|~ads.mercadolibre.com.pe|~ads.mercadolibre.com.ve|~ads.mercadolivre.com.br|~axon.ai|~kakaku.com|~reddit.com|~smartnews.com
-://ads.$~image,~xmlhttprequest,domain=~ads.8designers.com|~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.apple.com|~ads.atmosphere.copernicus.eu|~ads.axon.ai|~ads.band|~ads.bestprints.biz|~ads.bikepump.com|~ads.brave.com|~ads.buscaempresas.co|~ads.business.bell.ca|~ads.cafebazaar.ir|~ads.chewy.com|~ads.colombiaonline.com|~ads.comeon.com|~ads.cvut.cz|~ads.doordash.com|~ads.dosocial.ge|~ads.dosocial.me|~ads.elevateplatform.co.uk|~ads.ferrarichat.com|~ads.finance|~ads.flytant.com|~ads.fund|~ads.google.cn|~ads.google.com|~ads.gree.net|~ads.gurkerl.at|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kaipoke.biz|~ads.kifli.hu|~ads.knuspr.de|~ads.listonic.com|~ads.luarmor.net|~ads.magalu.com|~ads.mercadolibre.com.ar|~ads.mercadolibre.com.cl|~ads.mercadolibre.com.co|~ads.mercadolibre.com.ec|~ads.mercadolibre.com.mx|~ads.mercadolibre.com.pe|~ads.mercadolibre.com.ve|~ads.mercadolivre.com.br|~ads.mgid.com|~ads.microsoft.com|~ads.midwayusa.com|~ads.misskey.io|~ads.mobilebet.com|~ads.mojagazetka.com|~ads.msstate.edu|~ads.mst.dk|~ads.mt|~ads.nc|~ads.nipr.ac.jp|~ads.olx.pl|~ads.palmettostatearmory.com|~ads.pinterest.com|~ads.realizeperformance.com|~ads.remix.es|~ads.rohlik.cz|~ads.rohlik.group|~ads.route.cc|~ads.safi-gmbh.ch|~ads.scotiabank.com|~ads.selfip.com|~ads.shopee.cn|~ads.shopee.co.th|~ads.shopee.com.br|~ads.shopee.com.mx|~ads.shopee.com.my|~ads.shopee.kr|~ads.shopee.ph|~ads.shopee.pl|~ads.shopee.sg|~ads.shopee.tw|~ads.shopee.vn|~ads.siriusxmmedia.com|~ads.smartnews.com|~ads.snapchat.com|~ads.socialtheater.com|~ads.sociogram.com|~ads.spotify.com|~ads.studyplus.co.jp|~ads.taboola.com|~ads.tiktok.com|~ads.tuver.ru|~ads.twitter.com|~ads.typepad.jp|~ads.us.tiktok.com|~ads.viksaffiliates.com|~ads.vk.com|~ads.vk.ru|~ads.watson.ch|~ads.wildberries.ru|~ads.x.com|~ads.yandex|~reempresa.org
+://ads.$popup,domain=~ad.olx.pl|~ads.mercadolibre.com.ar|~ads.mercadolibre.com.cl|~ads.mercadolibre.com.co|~ads.mercadolibre.com.ec|~ads.mercadolibre.com.mx|~ads.mercadolibre.com.pe|~ads.mercadolibre.com.ve|~ads.mercadolivre.com.br|~ads.umd.edu|~axon.ai|~kakaku.com|~reddit.com|~smartnews.com
+://ads.$~image,~xmlhttprequest,domain=~ads.8designers.com|~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.apple.com|~ads.atmosphere.copernicus.eu|~ads.axon.ai|~ads.band|~ads.bestprints.biz|~ads.bikepump.com|~ads.brave.com|~ads.buscaempresas.co|~ads.business.bell.ca|~ads.cafebazaar.ir|~ads.chewy.com|~ads.colombiaonline.com|~ads.comeon.com|~ads.cvut.cz|~ads.doordash.com|~ads.dosocial.ge|~ads.dosocial.me|~ads.elevateplatform.co.uk|~ads.ferrarichat.com|~ads.finance|~ads.flytant.com|~ads.fund|~ads.google.cn|~ads.google.com|~ads.gree.net|~ads.gurkerl.at|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kaipoke.biz|~ads.kifli.hu|~ads.knuspr.de|~ads.listonic.com|~ads.luarmor.net|~ads.magalu.com|~ads.mercadolibre.com.ar|~ads.mercadolibre.com.cl|~ads.mercadolibre.com.co|~ads.mercadolibre.com.ec|~ads.mercadolibre.com.mx|~ads.mercadolibre.com.pe|~ads.mercadolibre.com.ve|~ads.mercadolivre.com.br|~ads.mgid.com|~ads.microsoft.com|~ads.midwayusa.com|~ads.misskey.io|~ads.mobilebet.com|~ads.mojagazetka.com|~ads.msstate.edu|~ads.mst.dk|~ads.mt|~ads.nc|~ads.nipr.ac.jp|~ads.olx.pl|~ads.palmettostatearmory.com|~ads.pinterest.com|~ads.realizeperformance.com|~ads.remix.es|~ads.rohlik.cz|~ads.rohlik.group|~ads.route.cc|~ads.safi-gmbh.ch|~ads.scotiabank.com|~ads.selfip.com|~ads.shopee.cn|~ads.shopee.co.th|~ads.shopee.com.br|~ads.shopee.com.mx|~ads.shopee.com.my|~ads.shopee.kr|~ads.shopee.ph|~ads.shopee.pl|~ads.shopee.sg|~ads.shopee.tw|~ads.shopee.vn|~ads.siriusxmmedia.com|~ads.smartnews.com|~ads.snapchat.com|~ads.socialtheater.com|~ads.sociogram.com|~ads.spotify.com|~ads.studyplus.co.jp|~ads.taboola.com|~ads.tiktok.com|~ads.tuver.ru|~ads.twitter.com|~ads.typepad.jp|~ads.umd.edu|~ads.us.tiktok.com|~ads.viksaffiliates.com|~ads.vk.com|~ads.vk.ru|~ads.watson.ch|~ads.wildberries.ru|~ads.x.com|~ads.yandex|~reempresa.org
 ://ads2.
 ://adsbb.
 ://adserving.
@@ -8838,6 +8838,7 @@ yydstxt*.com/js/html
 ||3j0pw4ed7uac-a.akamaihd.net^
 ||3j1fiw14n9.com^
 ||3jjhh.com^
+||3k2frl8r79.com^
 ||3k8.com/d/js/m/thea
 ||3kfvgobkw.com^
 ||3lawey.com^
@@ -10017,6 +10018,7 @@ yydstxt*.com/js/html
 ||a8h4zhbmxi.com^
 ||a8op.com^
 ||aa.avvo.com^
+||aa.com/aileron/api/log
 ||aa.fapnado.xxx^
 ||aa.gushiwen.org^
 ||aa.xiangxiangmf.com^
@@ -10348,8 +10350,8 @@ yydstxt*.com/js/html
 ||adblock-one-protection.com^$popup
 ||adblock-zen-download.com^$popup
 ||adblock-zen.com^$popup
-||adblock1.static-cloudflare.workers.dev^
 ||adblock2.static-cloudflare.workers.dev^
+||adblock3.static-cloudflare.workers.dev^
 ||adblockanalytics.com^
 ||adblocker-sentinel.net^$popup
 ||adblockerexpert.com^
@@ -11153,6 +11155,7 @@ yydstxt*.com/js/html
 ||ahadns.net^
 ||ahadsply.com^$popup
 ||ahbdsply.com^$popup
+||ahfaihethh.com^
 ||ahgame.com/js/new_ad.js
 ||ahlife.com/api.php?mod=adv&
 ||ahm.135320.com^
@@ -11908,6 +11911,7 @@ yydstxt*.com/js/html
 ||analytics.paddle.com^
 ||analytics.pagefly.io^
 ||analytics.pangle-ads.com^
+||analytics.passes.com^
 ||analytics.pgncs.notion.so^
 ||analytics.piksel.com^
 ||analytics.pixels.ai^
@@ -13599,7 +13603,7 @@ yydstxt*.com/js/html
 ||beiquwordgame.com^
 ||beiwo888.com/runtime/js/
 ||beixisys.com^
-||bejson.com/static/ydxyt/
+||bejson.com/static/la.
 ||bekafun.com^
 ||bekd.cn^
 ||belavoplay.com^$popup
@@ -14657,6 +14661,7 @@ yydstxt*.com/js/html
 ||budl.cn^
 ||buenavistascooters.com^
 ||buercamp.com^
+||buffet.identityservices.io^
 ||buffooncountabletreble.com^$popup
 ||bug-ts.com^
 ||bugsfighter.com/wp-content/uploads/2020/07/malwarebytes-banner.jpg
@@ -14871,6 +14876,7 @@ yydstxt*.com/js/html
 ||c08ls11j.top^
 ||c0me-get-s0me.net^$popup
 ||c0nect.com^$popup
+||c0nmelm3y2.com^
 ||c0zwsdryg.com^
 ||c1.4qx.net^
 ||c1.chajiaotong.com^
@@ -15853,6 +15859,7 @@ yydstxt*.com/js/html
 ||clgserv.pro^
 ||click-cdn.com^$popup
 ||click-ecom.com^
+||click-for-preview.com^$popup
 ||click-sec.com^
 ||click-trk.com^
 ||click.ali213.net/
@@ -18460,6 +18467,7 @@ yydstxt*.com/js/html
 ||dbw.cn/eap/js/hl/hlj_ad
 ||dbw7j2q14is6l.cloudfront.net^
 ||dby7kx9z9yzse.cloudfront.net^
+||dbzolzzy7s.com^
 ||dc-rotator.com^$popup
 ||dc.banggood.com^
 ||dc08i221b0n8a.cloudfront.net^
@@ -20322,6 +20330,7 @@ yydstxt*.com/js/html
 ||emojimakerlauncher.com^
 ||emojisky.com^
 ||emoney.cn/www/officalwebstatic/js/slidead.js
+||emotomalf.com^$popup
 ||empflix.com/mew.php
 ||emphidaho.com^
 ||empirescort.com^
@@ -20362,6 +20371,7 @@ yydstxt*.com/js/html
 ||engagefront.meteomedia.com^
 ||engagefront.theweathernetwork.com^
 ||engagement.feedly.com^
+||engageplatform.com/api/trace/d/record?
 ||engagereaders.net^
 ||engagesrvr.filefactory.com^
 ||engine.eroge.com^
@@ -21490,6 +21500,7 @@ yydstxt*.com/js/html
 ||fldcdn.com^
 ||fldop.com^
 ||fleamx.com^
+||fleamx.com^$popup
 ||fleeteurope.com^
 ||fleshlight.com/?link=$popup
 ||fleshlight.com/api/collect
@@ -23385,6 +23396,7 @@ yydstxt*.com/js/html
 ||h2porn.com/new-hit/?
 ||h353.ncadvertiser.com^
 ||h3d.fun^
+||h4htfgrei0.com^
 ||h5.analytics.126.net^
 ||h559.stamfordadvocate.com^
 ||h5doppler.com^
@@ -23844,6 +23856,7 @@ yydstxt*.com/js/html
 ||hideip.me/src/img/rekl/
 ||hidencloud.com^
 ||hideousplay.com^
+||hidzrf.icu^
 ||hiend.xyz^$popup
 ||hifamiapp.com^
 ||hifel389min.com^
@@ -28310,6 +28323,7 @@ yydstxt*.com/js/html
 ||mayips.com^
 ||mayyam.com^
 ||mazeedplus.com^
+||mazincike.com^
 ||mb-d.com^
 ||mb-npltfpro.com^$popup
 ||mb.gulongbbs.com^
@@ -30399,6 +30413,7 @@ yydstxt*.com/js/html
 ||nvxq.cn^
 ||nvxzy.cn^
 ||nwaf0g.cn^
+||nwbuhr.icu^
 ||nwh-groups.com^
 ||nwr.static.mmcdn.com^
 ||nwrji.cn^
@@ -31353,6 +31368,7 @@ yydstxt*.com/js/html
 ||pagexl.com^
 ||paid.outbrain.com^$popup
 ||paige.com^
+||paikapiglauthi.com^$popup
 ||paintmaps.com^
 ||pair.com/itero/tracker_ftc/
 ||pajlada.com^
@@ -31599,6 +31615,7 @@ yydstxt*.com/js/html
 ||pecanpos.com^
 ||pecialukizeias.info^$popup
 ||peclevnl.icu^
+||peculiar93.top^
 ||peethach.com^$popup
 ||peezette-intial.com^$popup
 ||pega.com/logserver
@@ -31805,6 +31822,7 @@ yydstxt*.com/js/html
 ||phukiendientu.com^
 ||phumpauk.com^$popup
 ||phuustikd.com^
+||phwv.cn^
 ||phx9cqla2.com^
 ||phxdrf.icu^
 ||physical-meaning.com^
@@ -33814,6 +33832,7 @@ yydstxt*.com/js/html
 ||rekhtadictionary.com^
 ||rekipion.com^$popup
 ||rel-s.com^
+||rel-s.com^$popup
 ||relatelist.com^
 ||relay.fiverr.com^
 ||relayblog.com^
@@ -35898,6 +35917,7 @@ yydstxt*.com/js/html
 ||spellingdelicatessenremove.com^
 ||spendcrazy.net^$popup
 ||sperans-beactor.com^$popup
+||sperebnf.click^$popup
 ||spexaccess.net^
 ||spgrl.cn^
 ||spicygirlshere.life^$popup
@@ -38772,6 +38792,7 @@ yydstxt*.com/js/html
 ||uel-uel-fie.com^$popup
 ||uenqeotul.com^
 ||ueqo.cn^
+||ueqy.cn^
 ||uestat.video.qiyi.com^
 ||uesv3jjf6.com^
 ||uetx75ibcu.com^
@@ -39463,6 +39484,7 @@ yydstxt*.com/js/html
 ||viijxyqp.com^$popup
 ||viikqoye.com^
 ||viikttcq.com^$popup
+||viikuhhs.com^$popup
 ||viinyzfu.com^
 ||viioplds.com^
 ||viiporfu.com^
@@ -39490,6 +39512,7 @@ yydstxt*.com/js/html
 ||vinoinqih.com^
 ||vinoshipper.com^
 ||vinsgcs.com^
+||vinstigo.com^$popup
 ||vintagecarsandpartssupply.com^
 ||vintagegasstationcollecting.com^
 ||vintageisthenewold.com^
@@ -40422,6 +40445,7 @@ yydstxt*.com/js/html
 ||wolfram.com/common/javascript/wal/latest/walload.js
 ||wolsretet.net^$popup
 ||wonder.xhamster.com^$popup
+||wonderblockoffer.com^$popup
 ||wondershare.com/trk
 ||wondershare.es/jslibs/track.js
 ||wongsobet-vip.com^
@@ -40952,6 +40976,8 @@ yydstxt*.com/js/html
 ||xjx11201ts.com^
 ||xjx11210ts.com^
 ||xjx11211ts.com^
+||xjx11220ts.com^
+||xjx11221ts.com^
 ||xkarma.net^$popup
 ||xkd*.com/layer/layer.js
 ||xklv.cn^
