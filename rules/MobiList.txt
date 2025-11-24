@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202511231923
-! Last modified: 23 Nov 2025 19:23 UTC
+! Version: 202511241923
+! Last modified: 24 Nov 2025 19:23 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -8362,6 +8362,7 @@ yydstxt*.com/js/html
 ||1l27pkxp5w.com^
 ||1lqw75ogo.com^
 ||1lzz.com^$popup
+||1mb71rr5oo.com^
 ||1movs.com^
 ||1nrlydgrr.com^
 ||1ozmv9.cn^
@@ -10353,6 +10354,7 @@ yydstxt*.com/js/html
 ||adblock-zen.com^$popup
 ||adblock2.static-cloudflare.workers.dev^
 ||adblock3.static-cloudflare.workers.dev^
+||adblock4.static-cloudflare.workers.dev^
 ||adblockanalytics.com^
 ||adblocker-sentinel.net^$popup
 ||adblockerexpert.com^
@@ -12567,6 +12569,7 @@ yydstxt*.com/js/html
 ||ashow.pcpop.com/
 ||ashow.pcpop.com^
 ||ashrafidoria.com^
+||asi.linksex.club^
 ||asia-eur.com^
 ||asia-home.com^
 ||asiacarbonsearch.com^
@@ -14480,6 +14483,7 @@ yydstxt*.com/js/html
 ||bqxyns0hv.com^
 ||br.fling.com^
 ||br0vjqh7pe.com^
+||braagniddp.com^
 ||bradecontrols.com^
 ||bradfordassocri.com^
 ||bradymensuit.com^
@@ -26532,6 +26536,7 @@ yydstxt*.com/js/html
 ||keen.io^$third-party,domain=~keen.github.io|~keen.io
 ||keenmagwife.live^$popup
 ||keewoach.net^$popup
+||kegll5mwl2.com^
 ||keirin.netkeiba.com/ndtracker/
 ||kejiwanjia.com/wp-content/uploads/*/1040x100.
 ||kekenet.com/images/*/akasuo
@@ -27063,6 +27068,7 @@ yydstxt*.com/js/html
 ||lbjupq.top^
 ||lbsshk.com^
 ||lbv325627.com^
+||lbvmnh.icu^
 ||lbx777.*/css/300.js
 ||lbx777.*/css/lbxgg02
 ||lby2kd27c.com^$popup
@@ -29666,6 +29672,7 @@ yydstxt*.com/js/html
 ||naiadsystems.com^
 ||naijanews.com^
 ||nail-ariumu.com^
+||naivety48.com^
 ||naivtyu.icu^
 ||naiwoalooca.net^$popup
 ||naiz.eus/visits
@@ -36609,6 +36616,7 @@ yydstxt*.com/js/html
 ||suaurl.com/adblock/js/smarttag.js
 ||sub.powerapple.com^
 ||sub1.gebeall.info^
+||sub2.abcbest.info^
 ||subarelacked.com^
 ||subhd.*/kaiyad.
 ||subjectsfaintly.com^$popup
@@ -37477,6 +37485,7 @@ yydstxt*.com/js/html
 ||thor-tech.com.cn^
 ||thoroughlypantry.com^$popup
 ||thouptoorg.com^$popup
+||thragmoth.com^
 ||thraittidz.com^
 ||threadloom.com/ga/
 ||threedy.ai/api/event/
@@ -38834,6 +38843,7 @@ yydstxt*.com/js/html
 ||ugc-gaming.net^
 ||uggrianvo.com^
 ||ugheqrikui.com^
+||ugox.cn^
 ||ugprod.geeksforgeeks.org/post/api/usertracking/
 ||ugroocuw.net^$popup
 ||ugurl.cn^
@@ -41004,6 +41014,8 @@ yydstxt*.com/js/html
 ||xjx11221ts.com^
 ||xjx11230ts.com^
 ||xjx11231ts.com^
+||xjx11240ts.com^
+||xjx11241ts.com^
 ||xkarma.net^$popup
 ||xkd*.com/layer/layer.js
 ||xklv.cn^
@@ -41322,6 +41334,7 @@ yydstxt*.com/js/html
 ||xxxyun.top^
 ||xxylabs.com^
 ||xy846.com^
+||xyf21yawkj.com^
 ||xygwh.cc/js/p
 ||xygwh.cc/js/x
 ||xyimg.net^$domain=~xy.com
@@ -41532,6 +41545,7 @@ yydstxt*.com/js/html
 ||yhak0o7rtz.com^
 ||yhbcii.com^$popup
 ||yhbt.net^
+||yhcca8h69o.com^
 ||yhcys.cn^
 ||yhdm335.com/piao/
 ||yhdm44.com/123.html
