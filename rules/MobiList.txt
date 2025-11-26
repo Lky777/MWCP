@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202511251925
-! Last modified: 25 Nov 2025 19:25 UTC
+! Version: 202511261922
+! Last modified: 26 Nov 2025 19:22 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -4013,6 +4013,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /promo.php?c=$third-party
 /promo/ads/*$~xmlhttprequest
 /promo/impression?
+/promo/next/mural/
 /promotools.$subdocument
 /propagate_cookie.php
 /providers/atlabel/load|
@@ -9385,6 +9386,7 @@ yydstxt*.com/js/html
 ||6pm.com/track.cgi?
 ||6pnw88.cn^
 ||6qo.fun^
+||6s0zo8jzbb.com^
 ||6s665y.cn^
 ||6s8w2ck1g.com^
 ||6t51r3ge18.com^
@@ -12747,6 +12749,7 @@ yydstxt*.com/js/html
 ||auto-online.com.tw/vendor_data/
 ||autoauctionhistory.com^
 ||autobidcar.com^
+||autoblog.com/.api/admiral
 ||autobooking.com^
 ||autobrr.com^
 ||autocerto.com^
@@ -16515,7 +16518,7 @@ yydstxt*.com/js/html
 ||connatix.com/rtb/
 ||connatix.com/tr/
 ||connatix.com/us/google/
-||connatix.com^$third-party,domain=~accuweather.com|~cheddar.tv|~deadline.com|~elnuevoherald.com|~heraldsun.com|~hollywoodreporter.com|~huffpost.com|~lmaoden.tv|~loot.tv|~miamiherald.com|~olhardigital.com.br|~sacbee.com
+||connatix.com^$third-party,domain=~accuweather.com|~businessinsider.de|~cheddar.tv|~deadline.com|~elnuevoherald.com|~heraldsun.com|~hollywoodreporter.com|~huffpost.com|~lmaoden.tv|~loot.tv|~miamiherald.com|~olhardigital.com.br|~sacbee.com
 ||connect-bajisitan.com^
 ||connect-concord.xyz^
 ||connect-social-live.com^
@@ -16534,6 +16537,7 @@ yydstxt*.com/js/html
 ||conqueredallrightswell.com^$popup
 ||cons-suph.com^
 ||consali.com^$popup
+||conscience34.top^
 ||consensu.org/?log=
 ||consensu.org/geoip
 ||consent.api.osano.com/record
@@ -19174,6 +19178,7 @@ yydstxt*.com/js/html
 ||dms.xuexxing.com^
 ||dmsg.cn^
 ||dmtgvn.com/wrapper/js/common-engine.js$domain=rt.com
+||dmw2pzbenclyd.cloudfront.net^
 ||dmxhgf4zuwdvu.cloudfront.net^
 ||dmym.aixyy.com^
 ||dmz3nd5oywtsw.cloudfront.net^
@@ -23201,7 +23206,7 @@ yydstxt*.com/js/html
 ||gsght.com^
 ||gsgxnauqu8.com^
 ||gskng.cn^
-||gsmarena.com/deals-json.php3
+||gsmarena.com/top-skin.min.js
 ||gsmarenabd.net^
 ||gsmpartscenter.com^
 ||gsniper.com/images/
@@ -24396,6 +24401,7 @@ yydstxt*.com/js/html
 ||hunkvoluntaryanalogy.com^
 ||hunt007.com^
 ||huntvisiongames.com^
+||hunzlj.icu^
 ||huo07091hy.com^
 ||huo07100hy.com^
 ||huo07101hy.com^
@@ -25004,6 +25010,7 @@ yydstxt*.com/js/html
 ||imgur.com^*.gif$domain=18p2p.com
 ||imgwallet.com/ea/
 ||imgxr.com^$domain=xiuren.org
+||imgzxr.cn^
 ||imhentai.xxx/js/slider.js
 ||imhentai.xxx/js/slider_
 ||imitrk13.com^$popup
@@ -26102,6 +26109,7 @@ yydstxt*.com/js/html
 ||jqsex.com^
 ||jqtfoe92.com^$popup
 ||jquery.envi-met.com.cn^
+||jqz8z7gqxw.com^
 ||jr5yu01aa.com^
 ||jrblfv.icu^
 ||jrbnxw.top^
@@ -26693,6 +26701,7 @@ yydstxt*.com/js/html
 ||klikxxi.com^
 ||klipy.com^
 ||kllastroad.com^
+||klljo2cp63.com^
 ||kllpelaa.net^$popup
 ||klm.us/cwzuvc/
 ||kloova.com^
@@ -27064,6 +27073,7 @@ yydstxt*.com/js/html
 ||lcbmtd.icu^
 ||lcd.aivote.com^
 ||lcds-display.com^
+||lcgcrldp6m.com^
 ||lciapi.ninthdecimal.com^
 ||lcidauv.top^
 ||lclimil.top^
@@ -30054,6 +30064,7 @@ yydstxt*.com/js/html
 ||nguonsang.com^
 ||nguyenkim.com^
 ||ngxzkaxf.icu^
+||ngygalitlv.com^
 ||nh3ymjjdkx.com^
 ||nh7.icu^
 ||nhcdn.cn^
@@ -31682,6 +31693,7 @@ yydstxt*.com/js/html
 ||periboxquest.net^
 ||perimeterx.net/api/v1/collector/
 ||periodpaper.com^
+||periscope73.com^
 ||perispro.com^$popup
 ||perk.com^
 ||perledelune.com^
@@ -34117,6 +34129,7 @@ yydstxt*.com/js/html
 ||rlano.com^
 ||rlavvoeo.com^
 ||rliwiqr.icu^
+||rlkx.cn^
 ||rlogs.youdao.com^
 ||rlpbld.icu^
 ||rlri.cn^
@@ -35208,6 +35221,7 @@ yydstxt*.com/js/html
 ||shitaraba.net^
 ||shixueyu.com^
 ||shiyaokejishanghai.com^
+||shiyiyuefalkjui.com^
 ||shjinganlib.net^
 ||shkonews.net^
 ||shmsbi.com^
@@ -39300,6 +39314,7 @@ yydstxt*.com/js/html
 ||vehohx.icu^
 ||veilengh.com^
 ||veilsuccessfully.com^$popup
+||veirkaey.com^
 ||vejrp6iq25.com^
 ||vekicp.cn^
 ||vekostan.com^
@@ -40996,6 +41011,8 @@ yydstxt*.com/js/html
 ||xjx11241ts.com^
 ||xjx11250ts.com^
 ||xjx11251ts.com^
+||xjx11260ts.com^
+||xjx11261ts.com^
 ||xkarma.net^$popup
 ||xkd*.com/layer/layer.js
 ||xklv.cn^
