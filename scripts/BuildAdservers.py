@@ -46,7 +46,7 @@ def find_unique_domains_robust(base_file, new_file, output_file):
 def compare_and_append_new_domains():
     current_file = Path('rules') / 'adservers.txt'
     old_file = Path('rules') / 'adservers-old.txt'
-    add_file = Path('rules') / 'adservers-add.txt'
+    add_file = Path('rules') / 'week-add.txt'
 
     with open(old_file, 'r', encoding='utf-8') as f:
         old_domains = frozenset(
