@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202511291922
-! Last modified: 29 Nov 2025 19:22 UTC
+! Version: 202511301923
+! Last modified: 30 Nov 2025 19:23 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -8076,7 +8076,6 @@ yydstxt*.com/js/html
 ||11x11.com^$popup
 ||11xkkhe8hd.com^
 ||11y28w7y.com^
-||11yun.xyz^
 ||12.cookcai.com^
 ||120.132.57.41/pjk/pag/ys.php
 ||120181311.xyz^
@@ -10039,6 +10038,7 @@ yydstxt*.com/js/html
 ||a3.jandan.net^
 ||a3games.com^
 ||a3mntrk.com^
+||a4xvv2g18l.com^
 ||a5t.icu^
 ||a5xiazai.com/z/
 ||a6.hujiang.com^$domain=~class.hujiang.com
@@ -10227,6 +10227,7 @@ yydstxt*.com/js/html
 ||acgtracker.com^
 ||achadosbr.com^
 ||achcdn.com^$popup
+||achievement44.top^
 ||achophranb.com^
 ||acidpoll.top^
 ||acinggentler.com^
@@ -10934,7 +10935,6 @@ yydstxt*.com/js/html
 ||adultasianporn.com/puty3s/
 ||adultfilmdatabase.com/graphics/porndude.png
 ||adultfriendfinder.com/piclist?
-||adunblock.static-cloudflare.workers.dev^
 ||adup-tech.com^
 ||adups.cn^
 ||adutp.com^
@@ -11219,6 +11219,7 @@ yydstxt*.com/js/html
 ||aid10.top^
 ||aidcgroup.net^
 ||aideasolutions.com^
+||aidfni7yk0.com^
 ||aidzcp3rxv.com^
 ||aieasypic.com^
 ||aifasthub.com^
@@ -12636,6 +12637,7 @@ yydstxt*.com/js/html
 ||asmedoc.com^
 ||asnfreeclassifieds.com^
 ||aso1.net^$popup
+||asp.sexmy.site^
 ||asp300.*/2012adimg/
 ||asp300.*/2012js/
 ||asp300.*/2017js/
@@ -14351,6 +14353,7 @@ yydstxt*.com/js/html
 ||bnp5.com^
 ||bnp6.com^
 ||bnsepserv.com^
+||bnti.cn^
 ||bnw3w.com^
 ||bnyxgd.com^
 ||boaconsulta.com^
@@ -15216,6 +15219,7 @@ yydstxt*.com/js/html
 ||cashraa.com^
 ||cashshare.net^
 ||casino.betsson.com^$popup
+||casinobet.com*&click_id=$popup
 ||casinocontroller.com^
 ||casinoplus.top^
 ||casinoroyalgirisadresleri.com^
@@ -15297,7 +15301,6 @@ yydstxt*.com/js/html
 ||ccav1.me/block.js
 ||ccav5.com/static/js/floatimgad.js
 ||ccavbox.com^
-||ccb.cn^
 ||ccb.com.cn/v5/images5/left0.gif
 ||ccb.com.cn/v5/images5/right0.gif
 ||ccbluex.net^
@@ -15485,6 +15488,7 @@ yydstxt*.com/js/html
 ||cee1.iteye.com^
 ||ceethipt.com^$popup
 ||cefjpo89s.com^
+||cehb1d1lsm.com^
 ||cehome.com^
 ||cehui8.com^
 ||ceisip.com/static/js/plugin.js
@@ -18591,6 +18595,7 @@ yydstxt*.com/js/html
 ||daxpren.xyz^
 ||day13vh1xl0gh.cloudfront.net^
 ||dayanismamerkezleri.com^
+||daydhuhatz.com^
 ||dayfund.*/images/uds/
 ||dayi.org.cn^
 ||daylongtrigae.top^$popup
@@ -21041,6 +21046,7 @@ yydstxt*.com/js/html
 ||eyqbpifffccdc.net^
 ||eyusky.net/weixin-img/zhifubao.jpg
 ||eyuyao.com/yyad/
+||eyzerannl.com^
 ||ezadblocker.com^$popup
 ||ezadlive.com^
 ||ezadtv.com^
@@ -25502,6 +25508,7 @@ yydstxt*.com/js/html
 ||instructables.com/counter
 ||instrument.com.cn^
 ||instrument95.com^
+||insulator05.top^
 ||insurads.com^
 ||insurancebusinessmag.com^
 ||insurancesnext.com^
@@ -25951,6 +25958,7 @@ yydstxt*.com/js/html
 ||jable.tv/assets/*0.gif
 ||jable.tv/assets/images/*-slider.
 ||jackapex.com^
+||jackpotcitycasino.com/*&a=$popup
 ||jackpotfriendsslots.com^
 ||jackpotlandslots.com^
 ||jackpotmasterslots.com^
@@ -32057,6 +32065,7 @@ yydstxt*.com/js/html
 ||pcxnrr.icu^
 ||pdapr.cn^
 ||pdaws.net^
+||pdf.static-cloudflare.workers.dev^
 ||pdfagile.com^
 ||pdfbook.cn/wp-content/uploads/2017/11/049.jpg
 ||pdffiller.com/api_v3/experiment/
@@ -33277,6 +33286,7 @@ yydstxt*.com/js/html
 ||ptupsewo.net^$popup
 ||ptwmcd.com^$popup
 ||ptwmjmp.com^$popup
+||ptxcfn.icu^
 ||ptxya.cn^
 ||ptyalinbrattie.com^$popup
 ||pu220ev.com^
@@ -33627,7 +33637,6 @@ yydstxt*.com/js/html
 ||qingqingxs.*/static/xbiquge/js/wap.
 ||qingqingxs.*/static/xbiquge/wap.js
 ||qingsedhh.com/images/gg.gif
-||qiniucloud.net^
 ||qinxue100.com/qinxue/pc/js/add_js.js
 ||qiota.com/assets/qiotasession.gif?
 ||qipvfaoz.com^
@@ -33834,6 +33843,7 @@ yydstxt*.com/js/html
 ||qtbo.cn^
 ||qtboq.cn^
 ||qtimiyy.top^
+||qtozietgp.com^
 ||qtqv3cy43w.com^
 ||qtthehnor.com^
 ||qu06.cn^
@@ -36723,6 +36733,7 @@ yydstxt*.com/js/html
 ||ssylianjie2.com^
 ||ssyw2018.com^
 ||ssyy881.com/zz/
+||st.asiaxbit.com^
 ||st.cdnco.us^
 ||st.linkfire.com^
 ||st.mapleranks.com^
@@ -42666,6 +42677,7 @@ yydstxt*.com/js/html
 ||yqrsdfh.top^
 ||yqugcnciju.net^
 ||yqxsk.com^
+||yr2spd4ucy.com^
 ||yrgsqi0zc.com^
 ||yrmqtv.xyz^
 ||yrnv.cn^
