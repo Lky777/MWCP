@@ -1,17 +1,27 @@
 ! .A1
+||1dgfdw.com^
 ||5386sz.com^
 ||666bb777gg.com^
 ||666bb777ss.com^
 ||888qq999hh.com^
 ||888rr999dd.com^
 ||a7nb76.com^
+||beatricecza.com^
+||berthacatherineyj.com^
 ||dfkj88.com^
 ||f7vfm6.com^
+||hrt21.com^
 ||img6890937840.com^
 ||jiumaomldaxssd.com^
 ||js88js.net^
 ||mitsmax.com^
+||ngoqdn.com^
+||odqfitju.com^
 ||piccaiccq.com^
+||safa88.com^
+||spyf2.com^
+||tokoy42.com^
+||xceowhnigpiz.com^
 ||yntbwk-376592.cc^
 
 ! .A2
@@ -218,6 +228,7 @@
 _ads.html?
 /cdn-cgi/speculation
 /popup/adblock/promo/banner/
+/imgloading.gif
 /load.gif
 /loading.gif
 /loading.jpg
@@ -338,6 +349,9 @@ douban.com##.talion-nav-footer
 |https://www.ghxi.com/wp-content/plugins/wp-opt/static/js/ai-summary.min.js?
 |https://www.ghxi.com/wp-content/plugins/wp-opt/static/js/front.min.js?
 
+! haijiaoshipin
+haijiaoshipin.com###popup-mask
+
 ! hanguomanhua
 ||img.hanguomanhua.me/style2/Loading200x200.png
 ||www.hanguomanhua.me/cache.js
@@ -361,6 +375,9 @@ juejin.cn##.open-button
 
 ! ltn
 ||ltn.com.tw/impression?
+
+! mhjia
+|https://mhjia.com/js/foot.js?
 
 ! mydrivers
 ||11.mydrivers.com/common/js/trimpath-template-
