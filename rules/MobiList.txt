@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202512011929
-! Last modified: 01 Dec 2025 19:29 UTC
+! Version: 202512020324
+! Last modified: 02 Dec 2025 03:24 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2913,6 +2913,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /imgcount.cgi?
 /imgcount.php?
 /imgevent?
+/imgloading.gif
 /imguang/*.gif$third-party
 /imp.gif?
 /imp.php?
@@ -7719,6 +7720,7 @@ fpb.sohu.com
 g.163.com
 g1.tagtic.cn
 guitarpro.cc
+haijiaoshipin.com###popup-mask
 heiliao.com##.slider-wrapper
 huishenghuiying.com.cn
 hxsame.hexun.com$domain=~quote.hexun.com
@@ -7825,6 +7827,7 @@ yydstxt*.com/js/html
 |https://m.163.com/touch/behavior.html?
 |https://m.mydrivers.com/m/relatednews.ashx?
 |https://m.sm.cn/adclick?
+|https://mhjia.com/js/foot.js?
 |https://sobt18.icu/Public/static/js/common.js?
 |https://unpkg.zhimg.com/@cfe/sentry-script@
 |https://vk.com/js/api/share.js?
@@ -8332,6 +8335,7 @@ yydstxt*.com/js/html
 ||1buo.icu^
 ||1buu1.penyouw.com^
 ||1clickpopup.com^
+||1dgfdw.com^
 ||1dlvai.com^
 ||1dm6ccvy8.com^
 ||1dor1d6vc.com^
@@ -13625,8 +13629,10 @@ yydstxt*.com/js/html
 ||beastiepedia.net^
 ||beatleader.com^
 ||beatricecandanceyd.com^
+||beatricecza.com^
 ||beauprime.com^
 ||beauties-of-ukraine.com/export.js
+||beautiful45.com^
 ||beautyfulgarden.com^
 ||beautykarta.com^
 ||beautylisher.com^
@@ -13732,6 +13738,7 @@ yydstxt*.com/js/html
 ||bernama.com/storage/banner/
 ||bernardkhoury.com^
 ||berrybet.com^
+||berthacatherineyj.com^
 ||bertonshop.com^
 ||besc.baidustatic.com^
 ||bescore.com/libs/e.js
@@ -20718,6 +20725,7 @@ yydstxt*.com/js/html
 ||esportsgameinforay.com^
 ||espy.boehs.org^
 ||esquiades.com^
+||essential-apps-analytics.herokuapp.com^
 ||essentialed.com^
 ||essentiallysports.com/api/track/
 ||essentiallysports.com/api/v1/counts
@@ -24515,6 +24523,7 @@ yydstxt*.com/js/html
 ||hrmgekyq.com^
 ||hrrdn.cn^
 ||hrsstatic.com^
+||hrt21.com^
 ||hrtya.com^$popup
 ||hrtye.com^$popup
 ||hrtyh.com^$popup
@@ -25946,6 +25955,7 @@ yydstxt*.com/js/html
 ||j4bu2ju5.xyz^
 ||j4ehcgluds.com^
 ||j4mxrs21gh.com^
+||j4s12kfavg.com^
 ||j5t2n.com^
 ||j67z85nx4.com^
 ||j694fx3bp.com^
@@ -30062,6 +30072,7 @@ yydstxt*.com/js/html
 ||n2.hk/promo/
 ||n26iiffw9.com^
 ||n2d79v41a3.com^
+||n2xj2mxg3z.com^
 ||n3567.com^
 ||n38m3d.cn^
 ||n3zx.com^
@@ -30578,6 +30589,7 @@ yydstxt*.com/js/html
 ||niugupan.com/js/tj.js
 ||niuk11291gi.com^
 ||niuk12011gi.com^
+||niuk12020gi.com^
 ||niupic.com/images/2019/11/17/_17.
 ||nixstats.com^
 ||njdaily.cn/templates/njdaily2014/widget/njdaily-slideads
@@ -31066,6 +31078,7 @@ yydstxt*.com/js/html
 ||odnzjlfqv.com^
 ||odorex.com^
 ||odplabs.com^
+||odqfitju.com^
 ||odrama.net/images/clicktoplay.jpg
 ||odxh.cn^
 ||odxupm909y.com^
@@ -32502,6 +32515,7 @@ yydstxt*.com/js/html
 ||pixel.newscred.com^
 ||pixel.nine.com.au^
 ||pixel.patch.com^
+||pixel.propublica.org^
 ||pixel.pub.lilyai.net^
 ||pixel.redgifs.com^
 ||pixel.roymorgan.com^
@@ -35145,6 +35159,7 @@ yydstxt*.com/js/html
 ||sadpandastudios.com^
 ||sadslj88.com^
 ||saelphol.com^
+||safa88.com^
 ||safariltd.com^
 ||safarinow.com/affiliate-zone/
 ||safe-connection21.com^$popup
@@ -36642,6 +36657,7 @@ yydstxt*.com/js/html
 ||spuppeh.net^$popup
 ||sputniknews.cn^
 ||spxxxtube.com^
+||spyf2.com^
 ||spygenix.xyz^$popup
 ||spys.one/fpe.png
 ||sqbwcoeam.com^
@@ -37310,6 +37326,7 @@ yydstxt*.com/js/html
 ||suibiankan.co/runtime/js/
 ||suibianlu.com/zb_users/theme/tx_fzy/script/zhao.js
 ||suishenyy.com^
+||suitcase890.top^
 ||suiyishop.cn/zhuangxiu_
 ||sujlhaxilfk.com^
 ||suk2c9.cn^
@@ -38464,6 +38481,7 @@ yydstxt*.com/js/html
 ||tokenscope.com^
 ||tokensformtg.com^
 ||tokiapp.net^
+||tokoy42.com^
 ||tokube-job.net^
 ||tokyogamestory.com^
 ||tokyootakumode.com^
@@ -39622,6 +39640,7 @@ yydstxt*.com/js/html
 ||uilts.com^$popup
 ||uim.tifbs.net^
 ||uimcnsesze.net^
+||uimr.cn^
 ||uimz80fgj.com^
 ||uiqoqdlewwvggs.com^
 ||uiqouw.icu^
@@ -40058,6 +40077,7 @@ yydstxt*.com/js/html
 ||vbc08121op.com^
 ||vbc08200op.com^
 ||vbc08201op.com^
+||vbgyniffuy.com^
 ||vbjm.cn^
 ||vbjtxwezf.com^
 ||vbjzdl.top^
@@ -41700,6 +41720,7 @@ yydstxt*.com/js/html
 ||xcar.com.cn/dsp/ad
 ||xcar.com.cn/exp/
 ||xcddos.xyz^
+||xceowhnigpiz.com^
 ||xcf-bd-js.chuimg.com^
 ||xchina.*/plugins/jquery.modal/
 ||xchina.*/plugins/sweetalert2/
@@ -42363,6 +42384,7 @@ yydstxt*.com/js/html
 ||yccz.net/xml/
 ||ych.asia^
 ||ychahlollfb.com^
+||ycikokryl.com^
 ||ycn-redirect.com^
 ||ycs99877171.com^
 ||yddsha2.com^
