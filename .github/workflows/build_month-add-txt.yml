@@ -15,7 +15,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v5
 
-      - name: Run update script
+      - name: Run Script
         run: |
           bash scripts/month-add.sh
 
@@ -24,8 +24,7 @@ jobs:
         with:
           author_name: github-actions[bot]
           author_email: github-actions[bot]@users.noreply.github.com
-          message: "Update month-add
-txt"
+          message: "Update month-add.txt"
           add: |
             rules/month-add.txt
             rules/week-add.txt
