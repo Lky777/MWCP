@@ -1,0 +1,39 @@
+name: build month-add.txt
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 5 28 * *'
+
+permissions:
+  contents: write
+
+jobs:
+  update-filter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Run update script
+        run: |
+          bash scripts/month-add.sh
+
+      - name: Commit and push changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions[bot]
+          author_email: github-actions[bot]@users.noreply.github.com
+          message: "Update month-add
+txt"
+          add: |
+            rules/month-add.txt
+            rules/week-add.txt
+          detect_unchanged: true
+          push: true
+          fetch: false
+
+      - name: Final cleanup
+        if: always()
+        run: |
+          rm -rf rules/ scripts/
