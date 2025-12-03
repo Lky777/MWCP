@@ -191,6 +191,7 @@
 ||ads.google.com^
 ||fundingchoicesmessages.google.com^
 ||go.homejavlive.com^
+||a.magsrv.com^
 ||onead.onevision.com.tw^
 ||yan.pqd.org^
 ||media-hls.saawsedge.com^
@@ -409,6 +410,7 @@ ravenscans.com###teaserbottom
 
 ! reddit
 ||reddit.com/svc/shreddit/perfMetrics
+reddit.com###blocking-modal
 
 ! ruanyifeng
 ||www.ruanyifeng.com/blog/checker.js
@@ -466,11 +468,23 @@ www.txrjy.com###tryOpenApp
 .com/static/js/up.js
 
 ! xchina
+|https://8se.me/ajax.php
+|https://xchina.fit/ajax.php
 |https://xchina.co/scripts/push.js?
-||xchina.co/plugins/sweetAlert2/sweetalert2.all.min.js
-||xchina.co/scripts/jquery.blockUI.min.js
 ||upload.xchina.io/media/*.webp
 ||upload.xchina.io/media/*.mp4
+||xchina.co/plugins/sweetAlert2/sweetalert2.all.min.js
+||xchina.co/scripts/jquery.blockUI.min.js
+||zh.xchina.bond^
+/scripts/push.js?
+/scripts/jquery.blockUI.min.js
+/scripts/myDialog/core-ui.
+/scripts/myDialog/myDialog.
+/videojs.ads.min.
+8se.me##.block-overlay
+xchina.fit##.block-overlay
+8se.me##.push-top-container
+8se.me##.push-slider
 
 ! xxav
 ||xxav.one/i/app/
