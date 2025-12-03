@@ -19,7 +19,7 @@ def process_domains():
     rules_dir = Path('rules')
     rules_dir.mkdir(exist_ok=True)
     
-    # 第一步：备份旧文件
+    # 备份旧文件
     current_file = rules_dir / 'adservers.txt'
     old_file = rules_dir / 'adservers-old.txt'
     
@@ -45,7 +45,6 @@ def process_domains():
     output_file = rules_dir / 'adservers.txt'
     with open(output_file, 'w') as f:
         f.write('\n'.join(final_domains))
- 
     
     # 记录周新增域名
     if old_file.exists():
