@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+
 import os
 import requests
 
@@ -26,3 +27,4 @@ def fetch_top_domains():
 
 if __name__ == "__main__":
     fetch_top_domains()
+
