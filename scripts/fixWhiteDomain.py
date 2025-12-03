@@ -28,12 +28,24 @@ def sort_white_list(white_list_file):
             # 保持原有的换行符格式
             for line in rest_lines_sorted:
                 f.write(line)
+        
+        print(f"成功排序文件: {white_list_file}")
+        return True
+        
+    except Exception as e:
+        print(f"处理文件时出错: {e}")
+        return False
 
 def main():
     """
-    主函数：直接指定文件路径
+    主函数：指定文件路径
     """
     white_list_file = "source/top100k-white.txt"
+    
+    # 检查文件是否存在
+    if not Path(white_list_file).exists():
+        print(f"文件不存在: {white_list_file}")
+        sys.exit(1)
     
     # 执行排序
     if sort_white_list(white_list_file):
