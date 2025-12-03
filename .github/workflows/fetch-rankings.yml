@@ -29,15 +29,20 @@ jobs:
       - name: Fetch Cloudflare Radar Rankings
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-        run: python3 scripts/fetch_rankings.py
+        run: |
+          python3 scripts/fetch_rankings.py
+          python3 scripts/BuildAdservers.py
 
       - name: Commit and push changes
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions[bot]
           author_email: github-actions[bot]@users.noreply.github.com
-          message: "Update top100k.txt"
-          add: source/top100k.txt
+          message: "Update adservers.txt"
+          add: |
+            rules/adservers.txt
+            rules/week-add.txt
+            source/top100k.txt
           detect_unchanged: true
           push: true
           fetch: false
@@ -45,4 +50,4 @@ jobs:
       - name: Final cleanup
         if: always()
         run: |
-          rm -rf scripts/ source/
+          rm -rf rules/ scripts/ source/
