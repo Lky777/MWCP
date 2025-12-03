@@ -1,187 +1,98 @@
 #!/usr/bin/env python3
+"""
+GitHub Action专用版 - 获取Cloudflare Top域名
+简洁优化版
+"""
 
 import os
 import sys
-import requests
-import json
 import time
-from datetime import datetime
+import requests
 
-def fetch_top_domains():
-
-    api_token = os.getenv("CLOUDFLARE_API_TOKEN")
+def fetch_domains():
+    """主获取函数"""
+    # 配置
+    API_TOKEN = os.getenv("CLOUDFLARE_API_TOKEN")
+    OUTPUT_FILE = "source/top100k.txt"
+    MAX_DOMAINS = 100000
+    BATCH_SIZE = 100
     
-    # API 配置
-    url = "https://api.cloudflare.com/client/v4/radar/ranking/top"
-    headers = {
-        "Authorization": f"Bearer {api_token}",
-        "Content-Type": "application/json"
-    }
-    
-    # 分页获取数据
+    # 准备
+    os.makedirs("source", exist_ok=True)
     domains = []
     offset = 0
-    batch_size = 100000  # 较小的批量大小
-    limit = 100000
-    max_retries = 3
+    session = requests.Session()
+    session.headers.update({"Authorization": f"Bearer {API_TOKEN}"})
     
-    print(f"开始获取 Cloudflare Radar 热门域名数据")
-    print(f"目标数量: {limit} 个域名")
-    print(f"输出目录: source/")
+    print(f"🚀 开始获取域名 (目标: {MAX_DOMAINS}个)")
+    print(f"📁 输出文件: {OUTPUT_FILE}")
+    start_time = time.time()
     
-    while len(domains) < limit:
-        retry_count = 0
-        success = False
-        
-        while not success and retry_count < max_retries:
+    try:
+        while len(domains) < MAX_DOMAINS:
+            # API请求
             try:
-                params = {
-                    "limit": batch_size,
-                    "offset": offset,
-                    "rankingType": "POPULAR",
-                    "format": "json"
-                }
+                resp = session.get(
+                    "https://api.cloudflare.com/client/v4/radar/ranking/top",
+                    params={"limit": BATCH_SIZE, "offset": offset, "rankingType": "POPULAR"},
+                    timeout=10
+                )
                 
-                print(f"请求参数: 偏移量={offset}, 批量大小={batch_size}")
-                
-                response = requests.get(url, headers=headers, params=params, timeout=60)
-                
-                if response.status_code == 429:
-                    # 速率限制，等待更长时间
-                    wait_time = 30 * (retry_count + 1)
-                    print(f"遇到速率限制，等待 {wait_time} 秒后重试...")
-                    time.sleep(wait_time)
-                    retry_count += 1
+                # 速率限制
+                if resp.status_code == 429:
+                    print("⏳ 速率限制，等待30秒...")
+                    time.sleep(30)
                     continue
-                
-                if response.status_code != 200:
-                    print(f"HTTP 状态码: {response.status_code}")
-                    print(f"响应内容: {response.text[:500]}")
-                    response.raise_for_status()
                     
-                data = response.json()
+                data = resp.json()
                 
-                if not data.get("success"):
-                    print(f"API 错误: {data.get('errors', ['未知错误'])}")
-                    # 如果是速率限制错误，等待后重试
-                    if any("rate limit" in str(err).lower() for err in data.get("errors", [])):
-                        wait_time = 30 * (retry_count + 1)
-                        print(f"API 速率限制，等待 {wait_time} 秒后重试...")
-                        time.sleep(wait_time)
-                        retry_count += 1
-                        continue
-                    else:
-                        sys.exit(1)
-                
-                # 检查响应结构
-                if "result" in data and "top_0" in data["result"]:
-                    batch = data["result"]["top_0"]
-                elif "result" in data and isinstance(data["result"], list):
-                    batch = data["result"]
-                else:
-                    print(f"警告: 未找到预期的数据结构")
-                    print(f"响应键: {list(data.keys())}")
-                    batch = []
+                # 提取域名
+                batch = [
+                    item["domain"] for item in 
+                    data.get("result", {}).get("top_0", []) 
+                    if item.get("domain")
+                ]
                 
                 if not batch:
-                    print("没有更多数据")
-                    success = True
+                    print("⚠️ 没有更多数据，停止获取")
                     break
-                
-                print(f"获取到 {len(batch)} 个域名")
+                    
                 domains.extend(batch)
-                offset += batch_size
+                offset += BATCH_SIZE
                 
-                # 显示进度
-                if len(domains) % 1000 == 0:
-                    print(f"进度: {len(domains)}/100000")
-                    print(f"已处理批次: {offset // batch_size}")
+                # 进度显示
+                if len(domains) % 5000 == 0 or len(domains) >= MAX_DOMAINS:
+                    progress = min(len(domains) / MAX_DOMAINS * 100, 100)
+                    elapsed = time.time() - start_time
+                    print(f"📊 进度: {len(domains)}/{MAX_DOMAINS} ({progress:.1f}%) | 耗时: {elapsed:.0f}秒")
                 
-                # 数据不足时退出
-                if len(batch) < batch_size:
-                    print(f"批次数据不足 {batch_size}，可能已到末尾")
-                    success = True
-                    break
+                # 请求间隔
+                time.sleep(0.5)
                 
-                success = True
-                
-                # 请求成功后添加延迟以避免速率限制
-                if success:
-                    time.sleep(1)  # 每次请求后等待1秒
-                
-            except requests.exceptions.RequestException as e:
-                print(f"网络请求失败: {e}")
-                if retry_count < max_retries - 1:
-                    wait_time = 10 * (retry_count + 1)
-                    print(f"等待 {wait_time} 秒后重试...")
-                    time.sleep(wait_time)
-                    retry_count += 1
-                else:
-                    sys.exit(1)
             except Exception as e:
-                print(f"处理数据失败: {e}")
-                import traceback
-                traceback.print_exc()
-                if retry_count < max_retries - 1:
-                    wait_time = 10 * (retry_count + 1)
-                    print(f"等待 {wait_time} 秒后重试...")
-                    time.sleep(wait_time)
-                    retry_count += 1
-                else:
-                    sys.exit(1)
-        
-        if not success:
-            print(f"::error::在 {max_retries} 次重试后仍然失败")
-            sys.exit(1)
-        
-        # 如果批次数据不足，说明已获取所有数据
-        if len(batch) < batch_size:
-            break
+                print(f"❌ 请求失败: {e}，5秒后重试...")
+                time.sleep(5)
+                continue
+                
+    except KeyboardInterrupt:
+        print(f"\n⏹️ 用户中断，已获取 {len(domains)} 个域名")
     
-    if not domains:
-        print("::error::未获取到任何数据")
-        sys.exit(1)
-    
-    print(f"✓ 成功获取 {len(domains)} 个热门域名")
-    
-    # 准备输出数据
-    result = {
-        "metadata": {
-            "fetch_date": datetime.now().isoformat(),
-            "total_domains": len(domains),
-            "ranking_type": "POPULAR",
-            "source": "Cloudflare Radar Latest",
-            "batch_size": batch_size,
-            "final_offset": offset
-        },
-        "domains": domains
-    }
-    
-    # 创建 source 目录并保存数据
-    try:
-        os.makedirs("source", exist_ok=True)
-        output_path = "source/top100k.json"
+    # 保存结果
+    if domains:
+        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+            f.write("\n".join(domains[:MAX_DOMAINS]))
         
-        with open(output_path, "w", encoding="utf-8") as f:
-            json.dump(result, f, indent=2, ensure_ascii=False)
+        elapsed = time.time() - start_time
+        print(f"\n✅ 完成！保存 {len(domains)} 个域名")
+        print(f"⏱️  耗时: {elapsed:.0f}秒 ({len(domains)/elapsed:.1f} 域名/秒)")
         
-        print(f"✓ 数据已保存到 {output_path}")
-        
-        # 输出文件信息
-        file_size = os.path.getsize(output_path)
-        print(f"✓ 文件大小: {file_size / 1024 / 1024:.2f} MB")
-        
-        # 显示前几个域名作为示例
-        print(f"✓ 示例域名 (前5个):")
-        for i, domain in enumerate(domains[:5]):
-            if isinstance(domain, dict):
-                print(f"  {i+1}. {domain.get('domain', 'N/A')}")
-            else:
-                print(f"  {i+1}. {domain}")
-        
-    except Exception as e:
-        print(f"::error::保存文件失败: {e}")
+        # GitHub Action输出
+        if os.getenv('GITHUB_ACTIONS'):
+            print(f"::set-output name=count::{len(domains)}")
+            print(f"::set-output name=file::{OUTPUT_FILE}")
+    else:
+        print("\n❌ 未获取到域名")
         sys.exit(1)
 
 if __name__ == "__main__":
-    fetch_top_domains()
+    fetch_domains()
