@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202512030702
-! Last modified: 03 Dec 2025 07:02 UTC
+! Version: 202512031927
+! Last modified: 03 Dec 2025 19:27 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -10313,6 +10313,7 @@ yydstxt*.com/js/html
 ||ad.l2b.co.za^
 ||ad.mail.ru/static/admanhtml/
 ||ad.mail.ru^$~image,domain=~mail.ru|~sportmail.ru
+||ad.mediamixer.co.kr^
 ||ad.moe.video^
 ||ad.netmedia.hu^
 ||ad.norfolkbroads.com^
@@ -30701,6 +30702,7 @@ yydstxt*.com/js/html
 ||niuk12020gi.com^
 ||niuk12021gi.com^
 ||niuk12030gi.com^
+||niuk12031gi.com^
 ||niupic.com/images/2019/11/17/_17.
 ||nixstats.com^
 ||njdaily.cn/templates/njdaily2014/widget/njdaily-slideads
@@ -39950,6 +39952,7 @@ yydstxt*.com/js/html
 ||ummn.nu^$subdocument
 ||umozf.cn^
 ||umpsl.cn^
+||umqigvethe.com^
 ||umrr.cn^
 ||umshyrpicollege.com^
 ||umtxe.com^
@@ -40488,6 +40491,7 @@ yydstxt*.com/js/html
 ||vid-vx.com^
 ||vid-xm.com^
 ||vid.media.cm/m.js
+||vid12031hl.com^
 ||vid123.net^
 ||vidazoo.com/aggregate?
 ||vidazoo.com/event/
