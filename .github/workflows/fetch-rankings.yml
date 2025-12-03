@@ -2,7 +2,7 @@ name: Fetch Cloudflare Radar Rankings
 
 on:
   schedule:
-    - cron: '0 17 * * 1'
+    - cron: '5 17 * * 1'
   workflow_dispatch:
 
 permissions:
@@ -36,8 +36,8 @@ jobs:
       with:
         author_name: github-actions[bot]
         author_email: github-actions[bot]@users.noreply.github.com
-        message: "Update top100k.txt"
-        add: source/top100k.txt
+        message: "Update top100k.json"
+        add: source/top100k.json
         detect_unchanged: true
         push: true
         fetch: false
