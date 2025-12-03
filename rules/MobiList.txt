@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202512021928
-! Last modified: 02 Dec 2025 19:28 UTC
+! Version: 202512030702
+! Last modified: 03 Dec 2025 07:02 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -4337,8 +4337,12 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /scripts/clickjs.php
 /scripts/flyad.js
 /scripts/hbx.js
+/scripts/jquery.blockUI.min.js
 /scripts/js3caf.js$script
 /scripts/lchjs.php?
+/scripts/myDialog/core-ui.
+/scripts/myDialog/myDialog.
+/scripts/push.js?
 /scripts/sdk/everflow.js
 /scripts/showad.js|
 /scripts/statistics/
@@ -5211,6 +5215,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /videojs-analytics.js
 /videojs.ads-$script,stylesheet
 /videojs.ads.css$stylesheet
+/videojs.ads.min.
 /videojs.ads.min.js
 /videojs.ga.js
 /videojs.ga.min.js
@@ -5566,6 +5571,9 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 4009997658.com
 51.la
 5hte21mz.com
+8se.me##.block-overlay
+8se.me##.push-slider
+8se.me##.push-top-container
 ://*.justthegays.com/$script,~third-party
 ://*.tv/ad/$domain=~moviedj.tv
 ://*.z*.xyz/$object
@@ -7764,6 +7772,7 @@ pfp.sina.net
 qcvf.ifeng.com
 qpb.sohu.com
 ravenscans.com###teaserbottom
+reddit.com###blocking-modal
 shankejingling.com
 sina.cn###float-btn
 sspai.com###btn-call-app
@@ -7793,6 +7802,7 @@ www.startpage.com##.mobile-app-promo-banner
 www.txrjy.com###tryOpenApp
 www.zhzzx.com/pmc-adm-v2/build/setup-ads.js$domain=bgr.com|deadline.com|rollingstone.com
 x.jd.com
+xchina.fit##.block-overlay
 xshellcn.com
 yeeyi.com##.openit
 yihuifu.cn
@@ -7818,6 +7828,7 @@ yydstxt*.com/js/html
 |https://*.baidu.com/mo/q/getUpConfigData?
 |https://*.baidu.com/mo/q/getVersionInfo?
 |https://11.mydrivers.com/js/2022/storageHelper.js?
+|https://8se.me/ajax.php
 |https://api.ithome.com/json/hot/dajia.json^$script
 |https://api.toutiaoapi.com/api/news/feed/v88/?
 |https://gw.m.163.com/search/api/v2/wap/rolling-word?
@@ -7845,6 +7856,7 @@ yydstxt*.com/js/html
 |https://www.zhihu.com/api/v4/hot_recommendation?
 |https://www.zhihu.com/api/v4/questions/*/related-readings?
 |https://xchina.co/scripts/push.js?
+|https://xchina.fit/ajax.php
 |javascript:*settimeout$popup
 |javascript:*window.location$popup
 ||*.$image,rewrite=abp-resource:1x1-transparent-gif,domain=rmdown.com
@@ -8344,6 +8356,7 @@ yydstxt*.com/js/html
 ||1jlp1qbgu.com^
 ||1jok.icu^
 ||1jutu5nnx.com^$popup
+||1jzocofm4.com^
 ||1k-cdn.com^
 ||1k8j786ks5.com^
 ||1kb4atu6x.com^
@@ -9032,6 +9045,7 @@ yydstxt*.com/js/html
 ||4vid.top^
 ||4wank.com/bump/
 ||4wank.net/bump/
+||4wbvq8yl2.com^
 ||4wdsc.com^
 ||4we.icu^
 ||4wg67b9vb.com^
@@ -9935,6 +9949,7 @@ yydstxt*.com/js/html
 ||a.llysc.cn^
 ||a.lz13.cn/
 ||a.lz13.cn^
+||a.magsrv.com^
 ||a.mfcad.net^
 ||a.miyudaquan.top^
 ||a.mobify.com^
@@ -10623,7 +10638,6 @@ yydstxt*.com/js/html
 ||adnuntius.com^
 ||adnxs-simple.com^
 ||adnxs-simple.com^$popup
-||adnxs.com^
 ||adnxs.net^
 ||adnxtr.com^
 ||adnz.co/api/ws-events-sink/
@@ -19789,6 +19803,7 @@ yydstxt*.com/js/html
 ||dtpbt6teapmm3.cloudfront.net^
 ||dtq9oy2ckjhxu.cloudfront.net^
 ||dtqs84i8bq.com^
+||dtrinzael.com^
 ||dtrk.slimcdn.com^
 ||dtroldad.com^
 ||dtscout.com^
@@ -26396,7 +26411,6 @@ yydstxt*.com/js/html
 ||jpkvs.com^
 ||jpmarkets.net^
 ||jpts1.top^
-||jpxjpg2.top^
 ||jpxs123.com^
 ||jqbgy.cn^
 ||jqbhtv.icu^
@@ -30566,6 +30580,7 @@ yydstxt*.com/js/html
 ||nftfdj.icu^
 ||nftxfd.top^
 ||nfuwow.com/static/nfuwow/source/front/new/images/
+||nfvj.cn^
 ||nfvp.cn^
 ||nfxonb.icu^
 ||nfydd.com/template/wap1/js/dd.js
@@ -30685,9 +30700,11 @@ yydstxt*.com/js/html
 ||niuk12011gi.com^
 ||niuk12020gi.com^
 ||niuk12021gi.com^
+||niuk12030gi.com^
 ||niupic.com/images/2019/11/17/_17.
 ||nixstats.com^
 ||njdaily.cn/templates/njdaily2014/widget/njdaily-slideads
+||njdwxxyem.com^
 ||njlqx.cn^
 ||njnhzh.icu^
 ||njoftime.com^
@@ -32645,7 +32662,6 @@ yydstxt*.com/js/html
 ||pixel.wp.com^
 ||pixel.yabidos.com^
 ||pixel.yola.com^
-||pixeldrain.com^
 ||pixelfederation.com^
 ||pixelgorithm.com^
 ||pixelgrade.com^
@@ -34825,6 +34841,7 @@ yydstxt*.com/js/html
 ||rjzxw.com/include/
 ||rjzxw.com/temp/index.files/logo2.gif
 ||rkanr.com/data/cpcache/cp*.js
+||rkcfmfm97.com^
 ||rkdfbd.cn^
 ||rklrpx.com^
 ||rklzpo.com^
@@ -35939,6 +35956,7 @@ yydstxt*.com/js/html
 ||shejiben.com/common/widgets/ui/*zb.js
 ||shekhedge.com^
 ||shelluiqy.com^
+||shelter57.com^
 ||shemale.com/api/metrics
 ||shemalenova.com/smn/banners/
 ||shemalez.com^
@@ -37449,6 +37467,7 @@ yydstxt*.com/js/html
 ||ststandard.com/ping
 ||stt6.cfd^$popup
 ||sttas.com^
+||stubborn80.top^
 ||stubhub.com/a/icph
 ||studiocity-macau.com^
 ||studiocustomers.com^$popup
@@ -43376,6 +43395,7 @@ yydstxt*.com/js/html
 ||zgm1.com^
 ||zgo8rgvuaf.com^
 ||zgzxm.weathercn.com^
+||zh.xchina.bond^
 ||zhainanba.org/ac/
 ||zhan.com^
 ||zhan.com^*/middle_ad_modal.js
