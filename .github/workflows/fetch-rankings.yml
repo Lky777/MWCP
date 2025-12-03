@@ -36,8 +36,8 @@ jobs:
       with:
         author_name: github-actions[bot]
         author_email: github-actions[bot]@users.noreply.github.com
-        message: "Update top100k.json"
-        add: source/top100k.json
+        message: "Update top100k.csv"
+        add: source/top100k.csv
         detect_unchanged: true
         push: true
         fetch: false
