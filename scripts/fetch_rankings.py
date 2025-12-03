@@ -4,7 +4,7 @@ import os
 import sys
 import requests
 import json
-from datetime import datetime, timedelta
+from datetime import datetime
 
 def fetch_top_domains():
     """
@@ -22,11 +22,6 @@ def fetch_top_domains():
     url = "https://api.cloudflare.com/client/v4/radar/ranking/top"
     headers = {"Authorization": f"Bearer {api_token}"}
     
-    # 使用最近7天的数据
-    end_date = datetime.now().strftime("%Y-%m-%d")
-    start_date = (datetime.now() - timedelta(days=7)).strftime("%Y-%m-%d")
-    date_range = [start_date, end_date]
-    
     # 分页获取数据
     domains = []
     offset = 0
@@ -34,7 +29,6 @@ def fetch_top_domains():
     limit = 100000
     
     print(f"开始获取 Cloudflare Radar 热门域名数据")
-    print(f"日期范围: {start_date} 至 {end_date}")
     print(f"目标数量: {limit} 个域名")
     print(f"输出目录: source/")
     
@@ -44,8 +38,8 @@ def fetch_top_domains():
                 "limit": batch_size,
                 "offset": offset,
                 "rankingType": "POPULAR",
-                "format": "JSON",
-                "date": date_range
+                "format": "JSON"
+                # 移除 date 参数，使用默认的最新数据
             }
             
             response = requests.get(url, headers=headers, params=params, timeout=60)
@@ -90,7 +84,7 @@ def fetch_top_domains():
             "fetch_date": datetime.now().isoformat(),
             "total_domains": len(domains),
             "ranking_type": "POPULAR",
-            "date_range": date_range
+            "source": "Cloudflare Radar Latest"
         },
         "domains": domains
     }
