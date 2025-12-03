@@ -20,12 +20,15 @@ def fetch_top_domains():
     
     # API 配置
     url = "https://api.cloudflare.com/client/v4/radar/ranking/top"
-    headers = {"Authorization": f"Bearer {api_token}"}
+    headers = {
+        "Authorization": f"Bearer {api_token}",
+        "Content-Type": "application/json"
+    }
     
     # 分页获取数据
     domains = []
     offset = 0
-    batch_size = 1000
+    batch_size = 100
     limit = 100000
     
     print(f"开始获取 Cloudflare Radar 热门域名数据")
@@ -38,31 +41,53 @@ def fetch_top_domains():
                 "limit": batch_size,
                 "offset": offset,
                 "rankingType": "POPULAR",
-                "format": "JSON"
-                # 移除 date 参数，使用默认的最新数据
+                "format": "json"
             }
             
+            print(f"请求参数: {params}")
+            
             response = requests.get(url, headers=headers, params=params, timeout=60)
-            response.raise_for_status()
+            
+            # 输出详细的错误信息
+            if response.status_code != 200:
+                print(f"HTTP 状态码: {response.status_code}")
+                print(f"响应内容: {response.text}")
+                response.raise_for_status()
+                
             data = response.json()
             
             if not data.get("success"):
                 print(f"::error::API 错误: {data.get('errors', ['未知错误'])}")
                 sys.exit(1)
             
-            batch = data["result"]["top_0"]
+            # 检查响应结构
+            print(f"响应数据结构: {list(data.keys())}")
+            if "result" in data and "top_0" in data["result"]:
+                batch = data["result"]["top_0"]
+            else:
+                print(f"::warning::未找到预期的数据结构")
+                print(f"完整响应: {json.dumps(data, indent=2)}")
+                # 尝试其他可能的键
+                if "result" in data:
+                    batch = data["result"]
+                else:
+                    batch = []
+            
             if not batch:
+                print("没有更多数据")
                 break
             
+            print(f"获取到 {len(batch)} 个域名")
             domains.extend(batch)
             offset += batch_size
             
             # 显示进度
-            if len(domains) % 10000 == 0:
+            if len(domains) % 1000 == 0:
                 print(f"进度: {len(domains)}/100000")
             
             # 数据不足时退出
             if len(batch) < batch_size:
+                print(f"批次数据不足 {batch_size}，可能已到末尾")
                 break
             
         except requests.exceptions.RequestException as e:
@@ -70,6 +95,8 @@ def fetch_top_domains():
             sys.exit(1)
         except Exception as e:
             print(f"::error::处理数据失败: {e}")
+            import traceback
+            traceback.print_exc()
             sys.exit(1)
     
     if not domains:
