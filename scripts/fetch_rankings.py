@@ -12,9 +12,15 @@ def fetch_top_domains():
     
     if response.status_code == 200:
         os.makedirs('source', exist_ok=True)
-        with open('source/top100k.csv', 'w', encoding='utf-8') as f:
+
+        csv_file = 'source/top100k.csv'
+        txt_file = 'source/top100k.txt'
+        
+        with open(csv_file, 'w', encoding='utf-8') as f:
             f.write(response.text)
-        print(f"成功保存 top100k.csv")
+
+        os.rename(csv_file, txt_file)
+        print(f"已生成 {txt_file}")
     else:
         print(f"错误: {response.status_code}")
 
