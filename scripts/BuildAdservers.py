@@ -1,78 +1,64 @@
 #!/usr/bin/env python3
 
+import re
 from pathlib import Path
-from datetime import datetime
 
-def sort_white_list(white_list_file):
-    with open(white_list_file, 'r', encoding='utf-8') as f:
-        lines = f.readlines()
-
-    first_line = lines[0]
-    rest_lines = lines[1:]
-
-    rest_lines_sorted = sorted(rest_lines, key=lambda x: x.strip().lower())
-
-    with open(white_list_file, 'w', encoding='utf-8') as f:
-        f.write(first_line)
-        f.writelines(rest_lines_sorted)
-
-def find_unique_domains_robust(base_file, new_file, output_file):
-    sort_white_list(base_file)
+def filter_domains_by_pattern(domains):
+    """过滤域名：只保留允许的后缀，排除特定后缀"""
+    allowed_pattern = re.compile(r'\.(com|cn|net|top|xyz)$')
+    excluded_pattern = re.compile(r'\.(gov|edu|mil)\.cn$')
     
-    output_path = Path(output_file)
-    old_file = output_path.parent / "adservers-old.txt"
-    if output_path.exists():
-        output_path.rename(old_file)
+    return [
+        domain for domain in domains
+        if allowed_pattern.search(domain) and not excluded_pattern.search(domain)
+    ]
+
+def process_domains():
+    """主处理函数"""
+    source_dir = Path('source')
+    rules_dir = Path('rules')
+    rules_dir.mkdir(exist_ok=True)
     
-    Path(output_file).parent.mkdir(parents=True, exist_ok=True)
+    # 第一步：备份旧文件
+    current_file = rules_dir / 'adservers.txt'
+    old_file = rules_dir / 'adservers-old.txt'
     
-    max_len = 100
-    with open(base_file, 'r', encoding='utf-8') as f:
-        base_domains = frozenset(
-            domain[:max_len].strip()
-            for domain in f 
-            if domain.strip()
-        )
-
-    buffer_size = 1_000_000
-    with open(new_file, 'r', encoding='utf-8') as f_new, \
-         open(output_file, 'w', encoding='utf-8', buffering=buffer_size) as f_out:
-        
-        for line in f_new:
-            domain = line[:max_len].strip()
-            if domain and domain not in base_domains:
-                f_out.write(f"{domain}\n")
-
-def compare_and_append_new_domains():
-    current_file = Path('rules') / 'adservers.txt'
-    old_file = Path('rules') / 'adservers-old.txt'
-    add_file = Path('rules') / 'week-add.txt'
-
-    with open(old_file, 'r', encoding='utf-8') as f:
-        old_domains = frozenset(
-            domain.strip() for domain in f if domain.strip()
-        )
- 
-    new_domains = []
-    with open(current_file, 'r', encoding='utf-8') as f:
+    if current_file.exists():
+        current_file.rename(old_file)
+    
+    # 读取白名单
+    with open(source_dir / 'top100k-white.txt', 'r') as f:
+        white_domains = {line.strip() for line in f if line.strip()}
+    
+    # 读取top100k
+    filtered_domains = []
+    with open(source_dir / 'top100k.txt', 'r') as f:
         for line in f:
             domain = line.strip()
-            if domain and domain not in old_domains:
-                new_domains.append(domain)
+            if domain and domain not in white_domains:
+                filtered_domains.append(domain)
     
-    if new_domains:
-        current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        with open(add_file, 'a', encoding='utf-8') as f:
-            f.write(f"\n! NEW - {current_time}\n")
-            for domain in new_domains:
-                f.write(f"{domain}\n")
+    # 查找top100k独有行
+    final_domains = filter_domains_by_pattern(filtered_domains)
+    
+    # 写入新结果
+    output_file = rules_dir / 'adservers.txt'
+    with open(output_file, 'w') as f:
+        f.write('\n'.join(final_domains))
+ 
+    
+    # 记录周新增域名
+    if old_file.exists():
+        with open(old_file, 'r') as f:
+            old_domains = {line.strip() for line in f if line.strip()}
+        
+        new_domains = [d for d in final_domains if d not in old_domains]
+        if new_domains:
+            add_file = rules_dir / 'week-add.txt'
+            with open(add_file, 'a') as f:
+                f.write(f"\n! NEW - 更新\n")
+                f.write('\n'.join(new_domains))
+                f.write('\n')
 
 if __name__ == "__main__":
-    base_dir = Path('source')
-    find_unique_domains_robust(
-        base_file=base_dir / 'top100k-white.txt',
-        new_file=base_dir / 'top100k.txt',
-        output_file=Path('rules') / 'adservers.txt'
-    )
-    
-    compare_and_append_new_domains()
+    process_domains()
