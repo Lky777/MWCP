@@ -1,0 +1,43 @@
+name: Fetch Cloudflare Radar Rankings
+
+on:
+  schedule:
+    - cron: '0 17 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-rankings:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v5
+
+    - name: Set up Python
+      uses: actions/setup-python@v6
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    - name: Fetch Cloudflare Radar Rankings
+      env:
+        CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      run: python fetch_rankings.py
+
+    - name: Commit and push changes
+      uses: EndBug/add-and-commit@v9
+      with:
+        author_name: github-actions[bot]
+        author_email: github-actions[bot]@users.noreply.github.com
+        message: "Update top100k.json"
+        add: source/top100k.json
+        detect_unchanged: true
+        push: true
+        fetch: false
