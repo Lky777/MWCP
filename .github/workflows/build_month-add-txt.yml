@@ -1,9 +1,9 @@
 name: build month-add.txt
 
 on:
-  workflow_dispatch:
   schedule:
     - cron: '0 5 28 * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
