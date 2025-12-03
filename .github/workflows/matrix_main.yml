@@ -5,6 +5,7 @@ on:
   workflow_dispatch:
   push:
     paths:
+      - 'rules/adservers.txt'
       - 'rules/supple.txt'
 
 permissions:
