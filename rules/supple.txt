@@ -1,25 +1,37 @@
 ! .A1
 ||1dgfdw.com^
+||1764819094000743442183e70dd7ctlight203.com^
+||4743442183e70dd7ctlight203.com^
 ||5386sz.com^
 ||666bb777gg.com^
 ||666bb777ss.com^
 ||888qq999hh.com^
 ||888rr999dd.com^
 ||a7nb76.com^
+||ai-ue.com^
 ||beatricecza.com^
 ||berthacatherineyj.com^
 ||dfkj88.com^
+||dhtfvvfdrb.live^
 ||f7vfm6.com^
+||fsyeuah.icu^
 ||hrt21.com^
 ||img6890937840.com^
+||jj555kk999.com^
+||jhdh173.com^
 ||jiumaomldaxssd.com^
 ||js88js.net^
+||kjcakncxl.com^
 ||mitsmax.com^
+||nceiadld.icu^
 ||ngoqdn.com^
 ||odqfitju.com^
 ||piccaiccq.com^
+||pixfnz.icu^
 ||safa88.com^
+||sng.link^
 ||spyf2.com^
+||t1p192a3d4.com^
 ||tokoy42.com^
 ||xceowhnigpiz.com^
 ||yntbwk-376592.cc^
@@ -222,6 +234,14 @@
 ||tsyndicate.com/iframes2/
 
 ! .General Blocking
+/960-120.gif
+/960-60.gif
+/960x60-1.gif
+/960x60-1.gif
+/960x80.gif
+/bt960-60.gif
+/gg980-90.gif
+/1200-60.gif
 *$ping,third-party
 *$websocket
 *$webrtc
@@ -245,6 +265,7 @@ _ads.html?
 /videojs.ads.min.js
 .com/js/ad-provider.js
 .com/js/ad-units.js
+.com/js/dom.js
 .com/js/exopop.js
 ||cdn.tapioni.com/adgpt.js
 ||connect.facebook.net/*/sdk.js
@@ -252,6 +273,11 @@ _ads.html?
 
 ! fix easylist
 @@||126.net^*analysis$domain=m.163.com
+
+! 112pm
+||112pm.com/1987.js
+||112pm.com/google.js
+||112pm.com/okle/js1/
 
 ! 163
 ||m.163.com/touch/nc/api/article/relate/
@@ -286,6 +312,9 @@ _ads.html?
 ! 91porna
 ||91porna.com/static/web/css/lib/zui.css
 
+! 91porny
+91porny.com##.mobile-jsv
+
 ! 99re
 |https://www.99re.com/player/html.php?
 
@@ -295,6 +324,10 @@ a2zapk.io###modalpop-content
 
 ! apkpure
 ||a.cdnpure.com/analytics/
+
+! av6k
+|https://av6k.com/templets/default/parts/txt.js?
+||av6k.com/video-ads/
 
 ! bad.news
 ||bad.news/images/lightbox-blank.gif
@@ -351,6 +384,7 @@ douban.com##.talion-nav-footer
 |https://www.ghxi.com/wp-content/plugins/wp-opt/static/js/front.min.js?
 
 ! haijiaoshipin
+|https://www.haijiaoshipin.com/build/assets/popup-
 haijiaoshipin.com###popup-mask
 
 ! hanguomanhua
