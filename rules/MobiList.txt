@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202512041927
-! Last modified: 04 Dec 2025 19:27 UTC
+! Version: 202512051925
+! Last modified: 05 Dec 2025 19:25 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -3380,6 +3380,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /logrecorder.php
 /logreferrer.php?
 /logs/report_js_error
+/logs?ddsource=
 /logstat.js
 /logstats.php
 /logview.js
@@ -3521,6 +3522,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /monitor/v1/log
 /monitor?rtype=
 /monitor_analytic.js
+/monitor_browser/collect/
 /monitoring?o=$xmlhttprequest
 /monitus.js
 /monsido.js
@@ -5680,6 +5682,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 ://signal.*/hardal
 ://signals.*/hardal
 ://sli.*/imp?s=$image
+://sp.*/sp/h|$xmlhttprequest
 ://stat.*/pageview/$xmlhttprequest
 ://stats.*/code/e.js
 ://t.*/s1/$other,subdocument
@@ -8637,6 +8640,7 @@ yydstxt*.com/js/html
 ||2addicts.com^
 ||2annalea.com^$popup
 ||2backpage.com^
+||2bqlkznz.xyz^
 ||2btcoservice.com^
 ||2btu.com/gg.jpg
 ||2c7c6e05ff.com^
@@ -9441,6 +9445,7 @@ yydstxt*.com/js/html
 ||7281581.com^
 ||7299tu75.cc^
 ||72gq3z.cn^
+||72xh073u9.com^
 ||730294994.com^
 ||732quilulv.com^
 ||73336zubo25326.com^
@@ -14936,6 +14941,7 @@ yydstxt*.com/js/html
 ||c114.com.cn/js/channel.js
 ||c114.com.cn^*/js/ad_load-new.js
 ||c1km4.com/mobile/app.js
+||c1qm3mg41.com^
 ||c2000.cn/c2000/
 ||c21media.net/wp-content/plugins/sam-images/
 ||c21p6h.cn^
@@ -18978,6 +18984,7 @@ yydstxt*.com/js/html
 ||diabrowser.com/js/arcnet-script.js
 ||diagnose.igstatic.com^
 ||diagramjawlineunhappy.com^$popup
+||dialogue32.com^
 ||dialtoen.com^
 ||diamberproetid.com^
 ||diamiu.com/wp-content/uploads/1200-200.
@@ -20387,6 +20394,7 @@ yydstxt*.com/js/html
 ||electricautomationnetwork.com^
 ||electricbikesco.com^
 ||electrifyhome.com^
+||electronic23.com^
 ||electronics3sixty.com^
 ||elegantvoguess.com^
 ||elements.video/tr/
@@ -26704,6 +26712,7 @@ yydstxt*.com/js/html
 ||kawai-jav.com/en/load-ads?
 ||kawaiix.com^
 ||kawancara.com^
+||kawf.cn^
 ||kawfulxh.com^
 ||kawxkg.icu^
 ||kaxcdn.com^
@@ -29685,6 +29694,7 @@ yydstxt*.com/js/html
 ||msuradiolive.com^
 ||msvht.cn^
 ||mt0a4f.cn^
+||mt1exxfnf.com^
 ||mtabuscis.net^
 ||mtbnj.com^
 ||mtchvllns.com^
@@ -31975,6 +31985,7 @@ yydstxt*.com/js/html
 ||patchmeet.com^
 ||paternitymarmaladethirteen.com^
 ||path-2-happiness.com/*/select_adv
+||patient.info/scripts/doda.js
 ||patientaid.net^
 ||patreon.com/api/tracking
 ||patriotic66.top^
@@ -32258,6 +32269,7 @@ yydstxt*.com/js/html
 ||pgdt.gtimg.cn/gdt/
 ||pgdt.gtimg.cn/gdt/$domain=info.3g.qq.com
 ||pghglj.icu^
+||pgiguiqult.com^
 ||pglstatp-toutiao.com^
 ||pgmediaserve.com^$popup
 ||pgoriginad.com^
@@ -33623,6 +33635,7 @@ yydstxt*.com/js/html
 ||qhaazaduez.com^
 ||qhaccid.com^
 ||qhaelqata.com^
+||qhangrotl.com^
 ||qhanphietd.com^
 ||qhatarsl.com^
 ||qhdlz.net/ssyyss/m.js
@@ -36449,6 +36462,7 @@ yydstxt*.com/js/html
 ||sofire.bdstatic.com^
 ||sofire.terabox.app^
 ||sofsuite.com^
+||sofsxz.com^
 ||soft.mumayi.net/images/download.gif
 ||soft.mumayi.net/js/
 ||soft4fun.net/wp-content/themes/arthemia/js/common_footer_min.js
@@ -36612,6 +36626,7 @@ yydstxt*.com/js/html
 ||sp.dnqc.com^
 ||sp.ecosia.org^
 ||sp.justwatch.com^
+||sp.pcid.ca^
 ||sp.pcoptimum.ca^
 ||sp.qf.56.com^
 ||sp.tinymce.com^
@@ -40130,6 +40145,7 @@ yydstxt*.com/js/html
 ||v46uj91gh.com^
 ||v4dwkcv.com/html/click/
 ||v4p.fun^
+||v53groc9v.com^
 ||v6rxv5coo5.com^$popup
 ||v75uhl.cn^
 ||v92.net^
@@ -40347,6 +40363,8 @@ yydstxt*.com/js/html
 ||vid.media.cm/m.js
 ||vid12031hl.com^
 ||vid12040hl.com^
+||vid12050hl.com^
+||vid12051hl.com^
 ||vid123.net^
 ||vidazoo.com/aggregate?
 ||vidazoo.com/event/
@@ -43023,6 +43041,8 @@ yydstxt*.com/js/html
 ||yy8090.vip/js/abc/
 ||yy8fgl2bdv.com^$popup
 ||yybdbb.cn^
+||yydsxs.com/js/cnzzpiao.
+||yydsxs.com/js/guding.
 ||yyetss.com/static/modal.js
 ||yylady.cn^
 ||yyplaygames.com^
