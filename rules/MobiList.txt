@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202512061922
-! Last modified: 06 Dec 2025 19:22 UTC
+! Version: 202512071922
+! Last modified: 07 Dec 2025 19:22 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -1710,6 +1710,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /better-analytics/js/loader.php
 /bf.gif?ac=
 /bg5t4h.oss-
+/bgfwb3n0zs5uzxq.js$third-party
 /bill/s201$subdocument
 /bineos.min.js
 /bing-bat.js
@@ -1784,6 +1785,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /busting/google-tracking/
 /buysellads.js$script
 /bv-analytics.js
+/bxlmb3jly2fzdc5jb20.js$third-party
 /c.gif?
 /c.wrating.com/
 /c/674_rlt.js
@@ -1859,6 +1861,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /cgi/count?
 /cgi/stats.pl?
 /cgi/trk.js
+/cglja3mubxk.js$third-party
 /chartbeat.js
 /chartbeat.min.js
 /chcounter/counter.php
@@ -2123,6 +2126,10 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /d/f3.js|
 /d/f4.js|
 /d/f6.js|
+/d3d3lm5ld3nlci5jb20.js$third-party
+/d3d3lmrly2tzag9wlnbybw.js$third-party
+/d3d3lnntaxroc29uawfubwfnlmnvbq.js$third-party
+/d3d3lnplcm9nchquy29t.js$third-party
 /d8adf801/?ref=
 /daocaoren*.gif|$image
 /daocaoren*.jpg|$image
@@ -2183,6 +2190,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /dfpnew.min.js$script
 /dg/default/rest/
 /dg_measurement_protocol.js
+/dghlznjlzwjpzwd1es5jb20.js$third-party
 /dh-analytics-prod/
 /diantan.js
 /dibun5nodnbmp.js
@@ -14920,6 +14928,7 @@ yydstxt*.com/js/html
 ||c2shb.pubgw.yahoo.com^
 ||c3j7rk-rtbix.top^$popup
 ||c3metrics.medifast1.com^
+||c3q6l5oeq.com^
 ||c3rf.com^
 ||c3s.bionestraff.pro^
 ||c43a3cd8f99413891.com^$popup
@@ -15192,6 +15201,7 @@ yydstxt*.com/js/html
 ||catcat321.com^
 ||catchtheclick.com^$popup
 ||catgojsc.com^
+||catherineagnesmj.com^
 ||catherinebrochure.com^$popup
 ||catiuribripent.com^
 ||catmjstudio.com^
@@ -21447,6 +21457,7 @@ yydstxt*.com/js/html
 ||finviz.com/gfx/banner_
 ||fioxp.cn^
 ||fipphiany.com^
+||fircokqe.com^
 ||firebase.googleapis.com^$domain=terabox.fun
 ||firebaseinstallations.googleapis.com^$domain=terabox.fun
 ||firebaselogging-pa.googleapis.com^
@@ -22437,6 +22448,7 @@ yydstxt*.com/js/html
 ||generalblue.com/js/pages/shared/analytics.min.js
 ||generalblue.com/js/pages/shared/lazyads.min.js
 ||generation456.com^
+||generation74.com^
 ||generflow.com/client-logs/
 ||generic-function-log-data-7il2midpaa-nn.a.run.app^$domain=telus.com
 ||genesis.malwarebytes.com^
@@ -25340,6 +25352,7 @@ yydstxt*.com/js/html
 ||instapage.com^$third-party,domain=~pagedemo.co
 ||instapagemetrics.com^
 ||instawebnm.com^
+||institution2.com^
 ||instradns.com^
 ||instride.com^
 ||instructables.com/counter
@@ -27132,6 +27145,7 @@ yydstxt*.com/js/html
 ||lamnia.com^
 ||lamovies123.com^
 ||lamplynx.com^$popup
+||lamtc2wny.com^
 ||lancdn.com/public/images/view/tencent-
 ||lancdn.com/tmp3/gg_notice.png
 ||land.pixelsee.app^$popup
@@ -34970,6 +34984,7 @@ yydstxt*.com/js/html
 ||rythtg.top^
 ||ryvvzl.icu^
 ||rz2xtcvuy.com^
+||rz38db915.com^
 ||rzcruzullr.com^
 ||s-microsoft.com/mscc/$~stylesheet
 ||s-msn.com/portal/js/vendor/manto/
@@ -39306,6 +39321,7 @@ yydstxt*.com/js/html
 ||tvoya-terrasa.com^
 ||tvpage.com/tvpa.min.js
 ||tvpage.com^*/__tvpa.gif?
+||tvqagropu.com^
 ||tvsou.com/js/360ad.js
 ||tvsou.com^
 ||tvxuwxsynp.com^
@@ -40191,6 +40207,8 @@ yydstxt*.com/js/html
 ||vid12051hl.com^
 ||vid12060hl.com^
 ||vid12061hl.com^
+||vid12070hl.com^
+||vid12071hl.com^
 ||vid123.net^
 ||vidazoo.com/aggregate?
 ||vidazoo.com/event/
@@ -41277,6 +41295,7 @@ yydstxt*.com/js/html
 ||wlyjiedian7.com^
 ||wm.mipcdn.com^
 ||wm.szdushi.com.cn^
+||wm6b9l1av.com^
 ||wmaroll.com^
 ||wmbd.gamersky.com^
 ||wmeng.feihuadns.com^
