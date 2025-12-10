@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/Lky777/MWCP/main/rules/MobiList.txt
 ### 🙌 支持我
 （微信赞赏码WeChatRewardQR）
 
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/Lky777/resources@main/WeChatRewardQRCode.png" width="200" />
 </p>
 
