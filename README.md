@@ -19,6 +19,6 @@ Like this project? Buy me a coffee!
 
 **微信赞赏码 / WeChat Reward Code**
 
-<img src="https://cdn.jsdelivr.net/gh/Lky777/resources@main/WeChatRewardQRCode.png" alt="WeChat Reward QR Code" width="300" style="max-width: 80%; height: auto; display: block; margin: 0 auto;" />  
+<img src="https://cdn.jsdelivr.net/gh/Lky777/resources@main/WeChatRewardQRCode.png" alt="WeChat Reward QR Code" width="300" style="max-width: 60%; height: auto; display: block; margin: 0 auto;" />  
 
 ---
