@@ -413,6 +413,9 @@ haijiaoshipin.com###popup-mask
 d1bkj2yip30514.cloudfront.net##.slider-wrapper
 heiliao.com##.slider-wrapper
 
+! huxiu
+m.huxiu.com##.bottom-open-app-btn-wrap
+
 ! jable
 ||assetscdn.jable.tv/assets/images/uu/
 
