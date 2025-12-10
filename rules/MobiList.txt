@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202512091922
-! Last modified: 09 Dec 2025 19:22 UTC
+! Version: 202512100027
+! Last modified: 10 Dec 2025 00:27 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -7737,7 +7737,6 @@ cm.jd.com
 cna.com.tw##.line-ad
 coreldrawchina.com
 d1bkj2yip30514.cloudfront.net##.slider-wrapper
-data:image/gif;base64,
 dd.yiche.com
 diwenganzaoji.com
 dlads.cn
@@ -9298,6 +9297,7 @@ yydstxt*.com/js/html
 ||5ssip.net^
 ||5u1zleadi.com^
 ||5u3tzh6tc.com^
+||5u8mjz9tx0.com^
 ||5uazcu2o1.com^
 ||5vbs96dea.com^$popup
 ||5vdd.com/360
@@ -9831,6 +9831,7 @@ yydstxt*.com/js/html
 ||99496.com/static/
 ||99496.com/v9/head.js
 ||9966663.xyz^
+||9992kl2wx3.com^
 ||999aa666bb.com^
 ||999bb222ww.com^
 ||999meiju.com/js/tj
@@ -9989,6 +9990,7 @@ yydstxt*.com/js/html
 ||a.vturb.net^
 ||a.wanzhuang.com^
 ||a.wifi33.com^
+||a.wishabi.com/track.gif?
 ||a.wzu.com^
 ||a.xixiyishu.com^
 ||a.xue126.com^
