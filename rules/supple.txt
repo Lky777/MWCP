@@ -496,7 +496,6 @@ baidu.com/mo/q/recommendpb/
 baidu.com##.btn
 
 ! toutiao
-data:image/gif;base64,
 ||sf3-cdn-tos.toutiaostatic.com/obj/card-platform/
 |https://api.toutiaoapi.com/api/news/feed/v88/?
 m.toutiao.com##.m-bottom
@@ -513,24 +512,24 @@ www.txrjy.com###tryOpenApp
 .com/static/js/up.js
 
 ! xchina
-|https://8se.me/ajax.php
-|https://xchina.fit/ajax.php
-|https://xchina.co/scripts/push.js?
-||upload.xchina.io/media/*.webp
-||upload.xchina.io/media/*.mp4
-||xchina.co/plugins/sweetAlert2/sweetalert2.all.min.js
-||xchina.co/scripts/jquery.blockUI.min.js
-||zh.xchina.bond^
 /scripts/push.js?
 /scripts/jquery.blockUI.min.js
 /scripts/myDialog/core-ui.
 /scripts/myDialog/myDialog.
 /videojs.ads.min.
+||iamcdn.net/players/replace-domain.js
+||upload.xchina.io/media/*.webp
+||upload.xchina.io/media/*.mp4
+||xchina.co/plugins/sweetAlert2/sweetalert2.all.min.js
+||xchina.co/scripts/jquery.blockUI.min.js
+||zh.xchina.bond^
+|https://8se.me/ajax.php
+|https://xchina.fit/ajax.php
+|https://xchina.co/scripts/push.js?
 8se.me##.block-overlay
 xchina.fit##.block-overlay
 8se.me##.push-top-container
 8se.me##.push-slider
-||iamcdn.net/players/replace-domain.js
 
 ! xxav
 ||xxav.one/i/app/
