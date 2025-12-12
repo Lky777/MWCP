@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202512111929
-! Last modified: 11 Dec 2025 19:29 UTC
+! Version: 202512121926
+! Last modified: 12 Dec 2025 19:26 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -327,7 +327,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/myjs/alljs.js
 .com/myjs/mys_alljs.js
 .com/piaozi/*.js
-.com/players/*/-1/70/*?hash=-$script
+.com/players/*/-1/70/$script
 .com/public/js/duileft.js
 .com/public/js/duiright.js
 .com/qxads/
@@ -4937,6 +4937,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /track.v2.js
 /track/?*&event=
 /track/?data=
+/track/?verbose=
 /track/aggregate?
 /track/batch?
 /track/capture.aspx?
@@ -8900,6 +8901,7 @@ yydstxt*.com/js/html
 ||3movs.xxx/2ff/
 ||3nbf4.com^
 ||3ni.icu^
+||3nopvvhju5.com^
 ||3onalt.com^
 ||3p-geo.yahoo.com^
 ||3p-udc.yahoo.com^
@@ -12605,6 +12607,7 @@ yydstxt*.com/js/html
 ||assets.engoo-static.com/tracking.js
 ||assets.hearstapps.com/commerce/release/affiliate-bundle.
 ||assets.hearstapps.com/moapt/moapt-hdm.latest.js
+||assets.minutemediacdn.com/mm-cwv-tracker/
 ||assets.moneymade.io/js/fp.min.js
 ||assets.presearch.com/backgrounds/
 ||assets.prod.abebookscdn.com/cdn/com/scripts/abepixel-$domain=abebooks.com
@@ -20375,6 +20378,7 @@ yydstxt*.com/js/html
 ||endocorpas.com^
 ||endorico.com^$popup
 ||endorsal.io/check/
+||enelveufry.com^
 ||enennsa.gushiwen.cn^
 ||energetic-staff.com^
 ||energycentral.com^
@@ -20431,6 +20435,7 @@ yydstxt*.com/js/html
 ||entrandingswon.com^
 ||entreesmoothstir.com^
 ||entremaqueros.com^
+||entrepreneurs46.com^
 ||entropiapartners.com^
 ||entry.baidu.com/$subdocument
 ||entry.baidu.com/rp/home?
@@ -30798,6 +30803,7 @@ yydstxt*.com/js/html
 ||odintsures.click^$popup
 ||odjfd.com^
 ||odjsk.com^
+||odmerorlzo.com^
 ||odnjhk.cn^
 ||odorex.com^
 ||odplabs.com^
@@ -30820,6 +30826,7 @@ yydstxt*.com/js/html
 ||oesnwi.icu^
 ||oexk.cn^
 ||oeya.com^$domain=myptt.cc
+||of384py2xt.com^
 ||ofcuboneom.com^$popup
 ||ofettail.com^
 ||offaces-butional.com^$popup
@@ -38081,6 +38088,8 @@ yydstxt*.com/js/html
 ||tkij.cn^
 ||tkll12110nb.com^
 ||tkll12111nb.com^
+||tkll12120nb.com^
+||tkll12121nb.com^
 ||tksiuthwz2.net^
 ||tktube.com/adlib/
 ||tkx.mp.lura.live/rest/v2/server_time
@@ -38737,6 +38746,7 @@ yydstxt*.com/js/html
 ||traukvan.com^
 ||travapo.com^
 ||travel.mediaalpha.com/js/serve.js
+||travel44.top^
 ||travelandtourworld.com/vf1h/
 ||travellermania.com^
 ||traveloka.com/api/v1/metrics
@@ -39877,6 +39887,7 @@ yydstxt*.com/js/html
 ||vetogate.com^
 ||vetraproperty.com^
 ||vetxpx.icu^
+||veuf2obzc8.com^
 ||vewsplode.com^
 ||vexzora.xyz^
 ||vezeqzyb.com^
@@ -40380,6 +40391,7 @@ yydstxt*.com/js/html
 ||vvv.ieduw.com^
 ||vvvkp.com/template/ttk/img/
 ||vwdealerdigital.com/cdn/sd.js
+||vwe5pjt0jq.com^
 ||vwiy.cn^
 ||vwjimezoa.com^
 ||vwonwkaqvq-a.global.ssl.fastly.net^
@@ -41140,6 +41152,7 @@ yydstxt*.com/js/html
 ||wravorzt.com^
 ||wray.xyz^
 ||wreckedulpan.com^
+||wres.cn^
 ||wrestle22.top^
 ||wric.com^
 ||writeestatal.space^$popup
