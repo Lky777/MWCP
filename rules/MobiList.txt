@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202512121926
-! Last modified: 12 Dec 2025 19:26 UTC
+! Version: 202512131923
+! Last modified: 13 Dec 2025 19:23 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2431,7 +2431,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /figanalytics-short-ttl.js
 /files/adv/
 /fingerprint-3.4.1.js
-/fingerprint.js$domain=~github.com
+/fingerprint.js^$domain=~github.com
 /fingerprint.min.js
 /fingerprint/iife.min.js
 /fingerprint2.js
@@ -7983,6 +7983,7 @@ yydstxt*.com/js/html
 ||0ff6b7.com^
 ||0ghwbi.com^
 ||0h9yewgei.com^
+||0hagz9mdc.com^
 ||0i0i0i0.com^$popup
 ||0iem8mw1lx.com^
 ||0kkbb.com/js/i.js
@@ -9894,6 +9895,7 @@ yydstxt*.com/js/html
 ||9pzoz6taf.com^
 ||9r0v0go0el.com^
 ||9rkg3h748mm.com^
+||9soefyenw.com^
 ||9swovqnp52.com^
 ||9sy5k2.cn^
 ||9t5.me^$popup
@@ -11444,6 +11446,7 @@ yydstxt*.com/js/html
 ||ali213.net/zt/twtk/images/tzxf.png
 ||ali213.net^*/promotion/
 ||aliavpn.xyz^
+||alib.nine.com.au^
 ||alibaba.com/async/b2bad.
 ||alibaba.com/ts?
 ||alibabatraffic.com^$popup
@@ -12357,6 +12360,7 @@ yydstxt*.com/js/html
 ||appmifile.com/webfile/globalweb/stat/
 ||appmimi.com^
 ||appoineditardwide.com^$popup
+||appoint38.com^
 ||appointeeivyspongy.com^
 ||appointeeivyspongy.com^$popup
 ||apponer.com^
@@ -12560,10 +12564,12 @@ yydstxt*.com/js/html
 ||asg.bhabhiporn.pro^
 ||asg.faperoni.com^
 ||asg.irontube.net^
+||asg.likexxxtube.com^
 ||asg.moviesex.org^
 ||asg.pornvids.fr^
 ||asg.prettytube.net^
 ||asg.sdtraff.com^
+||asg.xnxxxnxx.site^
 ||asgclickpp.com^$popup
 ||asgg.ghostbin.me^
 ||ashoupsu.com^$popup
@@ -14293,6 +14299,7 @@ yydstxt*.com/js/html
 ||bngtrak.com^$popup
 ||bnodeapi.com^
 ||bnp6.com^
+||bnqektutom.com^
 ||bnsepserv.com^
 ||bnti.cn^
 ||bntyh.com^
@@ -20461,6 +20468,7 @@ yydstxt*.com/js/html
 ||epc-data.com^
 ||epccm19.com^
 ||epgtrack.com^
+||ephothuwi.com^
 ||epiccosplay.com^
 ||epicgameads.com^$popup
 ||epicgfs.com/pocoloco_epic.js
@@ -21899,6 +21907,7 @@ yydstxt*.com/js/html
 ||fsho.st/tracker.js
 ||fsiblog5.com^
 ||fsjfnp.top^
+||fsmnmorgb.com^
 ||fsnazsmk.icu^
 ||fsshu.com^
 ||fstdeviceinformationhubd.com^
@@ -25251,6 +25260,7 @@ yydstxt*.com/js/html
 ||insurance-forums.com^
 ||insurance-forums.net^
 ||insurance-schengen.com^
+||insurance55.top^
 ||insurancebusinessmag.com^
 ||insurancesnext.com^
 ||insurgencytracker.com^
@@ -25737,6 +25747,7 @@ yydstxt*.com/js/html
 ||jasmined544.com^
 ||jasrocd.xyz^
 ||jav-bukkake.net/images/download-bukkake.jpg
+||jav.sb/videojs/300.php
 ||jav.sb/videojs/300x100.php
 ||jav0.com^
 ||jav101.com/img5bbb0096f242f.gif
@@ -26175,6 +26186,7 @@ yydstxt*.com/js/html
 ||js.mangalove.top^
 ||js.mangaraw.bid^
 ||js.mewlxy.com/gg-config.js
+||js.monitor.azure.com/scripts/c/ms.analytics-web-4.min.js$domain=microsoft.com
 ||js.monitor.azure.com/scripts/c/ms.shared.analytics.$domain=microsoft.com
 ||js.mumayi.net/9495.gif
 ||js.mumayi.net/jiujiang
@@ -34791,6 +34803,7 @@ yydstxt*.com/js/html
 ||s.weibo.com/widget.html
 ||s.yimg.com/ja/ap/$script,subdocument,domain=hk.news.yahoo.com|hk.yahoo.com|tw.news.yahoo.com|tw.stock.yahoo.com|tw.yahoo.com
 ||s.yimg.com/ja/ap/tw/js/
+||s.yimg.com/ss/analytics-$script,domain=yahoo.com
 ||s.yimg.com/uv/dm/scripts/syndication.js
 ||s.yimg.com/zh/mrr/$image,domain=mail.yahoo.com
 ||s.yimg.com^*/flash_general_$domain=~tw.yahoo.com
@@ -36609,6 +36622,7 @@ yydstxt*.com/js/html
 ||static.gridsumdissector.com^
 ||static.ichehome.com^
 ||static.ifruplink.net/static_src/mc-banner/
+||static.javxxx.me^
 ||static.klaviyo.com/onsite/js/event_adapter.
 ||static.meijiacun.com^
 ||static.oschina.net/*_banner_$image
@@ -38090,6 +38104,8 @@ yydstxt*.com/js/html
 ||tkll12111nb.com^
 ||tkll12120nb.com^
 ||tkll12121nb.com^
+||tkll12130nb.com^
+||tkll12131nb.com^
 ||tksiuthwz2.net^
 ||tktube.com/adlib/
 ||tkx.mp.lura.live/rest/v2/server_time
@@ -39729,6 +39745,7 @@ yydstxt*.com/js/html
 ||v75uhl.cn^
 ||v7n.com^
 ||v7world.com^
+||v84tz11w7.com^
 ||v9pj.com^
 ||v9t2x.com^
 ||va.tawk.to/log
@@ -40317,6 +40334,7 @@ yydstxt*.com/js/html
 ||vrosqutsgh.com^
 ||vrovadwd.com^
 ||vrow.cn^
+||vrrm.cn^
 ||vrrw.net//templets/default/js/ad.js
 ||vruzexzl.com^
 ||vrydd.com^
@@ -42045,6 +42063,7 @@ yydstxt*.com/js/html
 ||yaorinet.cn^
 ||yaoyl.com/js/ds.js
 ||yaozh.com/public/js/widget/dbaddownload.
+||yarcokme.com^
 ||yardiasptx11.com^
 ||yarpp.org/pixels/
 ||yaseok.com//static/src/images/loading.gif
