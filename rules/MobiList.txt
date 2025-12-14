@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202512131923
-! Last modified: 13 Dec 2025 19:23 UTC
+! Version: 202512141923
+! Last modified: 14 Dec 2025 19:23 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -7997,6 +7997,7 @@ yydstxt*.com/js/html
 ||0sg1gx04is.com^
 ||0sm.com^
 ||0sxs.com/js/all.
+||0tc1bdbgsm.com^
 ||0ts7e3.cn^
 ||0vc.fun^
 ||0vllsf2g2.com^
@@ -9737,6 +9738,7 @@ yydstxt*.com/js/html
 ||8u6stvyww.top^
 ||8v08mjri7.com^
 ||8world.com^
+||8wvb8xoqgq.com^
 ||8x14khzwmi.com^
 ||8x3wolchw.com^
 ||8x5vviy4r2.com^
@@ -14272,6 +14274,7 @@ yydstxt*.com/js/html
 ||bmmads.com^$popup
 ||bmmadspay.com^
 ||bmmenieoiw.com^
+||bmmpotgeaz.com^
 ||bmndx.com^$popup
 ||bmnr.pw^
 ||bmoharris.com/www/assets/analytics/loader.js
@@ -19899,6 +19902,7 @@ yydstxt*.com/js/html
 ||e.ebidtech.com/cv/
 ||e.hnr.cn/choose/view/
 ||e.quizlet.com^
+||e.revenue.cat^
 ||e.seksohub.com^
 ||e.so.com/search/pcnew?
 ||e.used.ca/event
@@ -23529,6 +23533,7 @@ yydstxt*.com/js/html
 ||hardcoreluv.com/hmt.gif
 ||harfington.com^
 ||harleydavidsontouring.com^
+||harmful26.top^
 ||harmony573.top^
 ||harrowliquid.com^$popup
 ||harryrosen.com/analytics/
@@ -25883,6 +25888,7 @@ yydstxt*.com/js/html
 ||jgapcsi.icu^
 ||jggegj-rtbix.top^$popup
 ||jggnmdcmns.net^
+||jgid.cn^
 ||jgpyjc.top^
 ||jguhqbe.top^
 ||jgxirv.icu^
@@ -30831,6 +30837,7 @@ yydstxt*.com/js/html
 ||odysseahotels.com^
 ||odz12g5ag.com^
 ||oedi.net^
+||oekkuthy.com^
 ||oeko-tex.com^
 ||oelj.cn^
 ||oemappnw.com^
@@ -31694,6 +31701,7 @@ yydstxt*.com/js/html
 ||partners.etoro.com^$script
 ||partners.hostgator.com^
 ||partners.rochen.com^
+||partnership75.com^
 ||parts-catalogs.com^
 ||parts.akibablog.net^$subdocument
 ||partsdr.com^
@@ -37526,6 +37534,7 @@ yydstxt*.com/js/html
 ||targl.com^
 ||taroads.com^$popup
 ||tarteaucitron.io/log/
+||tasgxk4ia6.com^
 ||tashanmp3.com/api/pops/
 ||tat-adz.com^
 ||tatadigital.com/analytics-engine/
@@ -38106,6 +38115,8 @@ yydstxt*.com/js/html
 ||tkll12121nb.com^
 ||tkll12130nb.com^
 ||tkll12131nb.com^
+||tkll12140nb.com^
+||tkll12141nb.com^
 ||tksiuthwz2.net^
 ||tktube.com/adlib/
 ||tkx.mp.lura.live/rest/v2/server_time
@@ -39549,6 +39560,7 @@ yydstxt*.com/js/html
 ||uproarumbles.com^
 ||ups.com/img/icp.gif
 ||ups2up.fun/js/anti.js
+||upsell-app.logbase.io/metrics
 ||upstract.com/tokei/
 ||uptightdecreaseclinical.com^$popup
 ||uptime.fastrr.com^
@@ -39739,6 +39751,7 @@ yydstxt*.com/js/html
 ||v3pnvck24.com^
 ||v46uj91gh.com^
 ||v4dwkcv.com/html/click/
+||v4ox630nia.com^
 ||v4p.fun^
 ||v53groc9v.com^
 ||v6rxv5coo5.com^$popup
@@ -39796,6 +39809,7 @@ yydstxt*.com/js/html
 ||vastiptest.com^
 ||vasz.cn^
 ||vatrack.hinet.net^
+||vault.gostatera.com^
 ||vaultbenefits.net^
 ||vave.com^
 ||vawoo.com^
@@ -40664,6 +40678,7 @@ yydstxt*.com/js/html
 ||web-tracker.smsbump.com^
 ||web.900.la^
 ||web.adblade.com^
+||web.aips-sol.com/v1/events?
 ||web.analytics.metrobyt-mobile.com^
 ||web.snapchat.com/web-analytics-v2/web/events
 ||web.valiuz.com^*/tag.js
@@ -42755,6 +42770,7 @@ yydstxt*.com/js/html
 ||zerobuff.com^
 ||zerohedge.com/statistics-ajax?
 ||zeropartyforms.com^
+||zeropartyforms.com^*/digibox.gif?
 ||zeroredirect1.com^$popup
 ||zerowakegates.com^
 ||zetadisplay.com^
