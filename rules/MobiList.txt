@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202512151929
-! Last modified: 15 Dec 2025 19:29 UTC
+! Version: 202512161928
+! Last modified: 16 Dec 2025 19:28 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -3672,6 +3672,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /oo/*/l.js
 /oo/*/lsync.
 /oo/cl*.js?rd=
+/oo/cl-$~third-party
 /oo/cl.js|$~third-party
 /op/analytics.js?domain=
 /opbb/float.js
@@ -7965,6 +7966,7 @@ yydstxt*.com/js/html
 ||07pv7k61z.com^
 ||07ys.com^
 ||084kk.com^
+||086123.xyz^
 ||086win44.com^
 ||088jogo.com^
 ||090cdn.com^
@@ -8719,6 +8721,7 @@ yydstxt*.com/js/html
 ||321cdn.com^
 ||321mh.com/v1/getadvertise?
 ||321moviesfree.com^
+||3245duu17z.com^
 ||326xm1zkl.com^
 ||32876879qxt.com^
 ||32n.icu^
@@ -9383,6 +9386,7 @@ yydstxt*.com/js/html
 ||6d1e5b5068.com^
 ||6ecards.com^
 ||6fast.com^
+||6fm4dcpj31.com^
 ||6fyy.cn^
 ||6fzaxrds.com^
 ||6gbet16.com^
@@ -9498,6 +9502,7 @@ yydstxt*.com/js/html
 ||7app.top^$popup
 ||7artisan.net^
 ||7awf4fi9k7.com^
+||7b6c81b4c2.com^
 ||7bfst8xxtc.com^
 ||7c96k2gysn.com^
 ||7ca78m3csgbrid7ge.com^$popup
@@ -9649,6 +9654,7 @@ yydstxt*.com/js/html
 ||88liu.com/data/attachment/portal/
 ||88lmfff666.com^
 ||88p2p.com^$popup
+||88r6s1hecp.com^
 ||88ys.cc/js/abcd.js
 ||8961.jianbihua.com^
 ||8989c.net^
@@ -9889,6 +9895,7 @@ yydstxt*.com/js/html
 ||a.78yx.net^
 ||a.91nets.cn^
 ||a.91zhongkao.com^
+||a.apkeditor.io^
 ||a.armystar.com^
 ||a.aylix.xyz^
 ||a.baidinet.com^
@@ -12922,6 +12929,7 @@ yydstxt*.com/js/html
 ||axvfinzmi.com^
 ||ayaka0.top^
 ||ayana.com^
+||aybikaemg.com^
 ||ayhal.com^
 ||aylo.com^
 ||ayodanuauw.com^
@@ -12968,6 +12976,7 @@ yydstxt*.com/js/html
 ||b.unjs.com^
 ||b.w3techs.com^
 ||b.xlineker.com^
+||b053d0h076.com^
 ||b0rz2s5ik.com^
 ||b1.51scw.net^
 ||b1.91jucai.com^
@@ -15183,6 +15192,7 @@ yydstxt*.com/js/html
 ||catvpn.xyz^
 ||caughtmycoach.com^
 ||cautelaunsent.com^
+||cautious60.com^
 ||cautols.com^
 ||cautommityring.com^$popup
 ||cavanhabg.com^
@@ -21788,6 +21798,7 @@ yydstxt*.com/js/html
 ||fortknoxartifacts.com^
 ||fortunateone.com^
 ||fortune.com/comscore-json/
+||fortune59.com^
 ||fortyphlosiona.com^$popup
 ||forum-lance.com^
 ||forum.miata.net/sp/
@@ -33817,6 +33828,7 @@ yydstxt*.com/js/html
 ||qsptv.com/tpl/newstyle/js/extension.js
 ||qssweb.com^
 ||qtbo.cn^
+||qtevriko.com^
 ||qtimiyy.top^
 ||qtozietgp.com^
 ||qtqv3cy43w.com^
@@ -38488,6 +38500,8 @@ yydstxt*.com/js/html
 ||tkll12141nb.com^
 ||tkll12150nb.com^
 ||tkll12151nb.com^
+||tkll12160nb.com^
+||tkll12161nb.com^
 ||tktube.com/adlib/
 ||tkx.mp.lura.live/rest/v2/server_time
 ||tl.tradetracker.net^
@@ -42802,6 +42816,7 @@ yydstxt*.com/js/html
 ||youngricedrap.com^
 ||youporn.com/_xa/ads
 ||youporn.com^$script,subdocument,domain=youporn.com|youporngay.com
+||your-name.click^
 ||your-sugar-girls.com^$popup
 ||youradchoices.com^
 ||youradexchange.com^
@@ -43097,6 +43112,7 @@ yydstxt*.com/js/html
 ||zazzybabes.com/istr/t2eff4d92a2d.js
 ||zbcdn.net/__uvjgyw/slb.default.js
 ||zbcxw.cn^
+||zbfo.cn^
 ||zbislaernv.com^
 ||zbjimg.com/static/union/
 ||zbjimg.com^
