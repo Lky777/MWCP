@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202512161928
-! Last modified: 16 Dec 2025 19:28 UTC
+! Version: 202512171258
+! Last modified: 17 Dec 2025 12:58 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -382,6 +382,9 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com:12289/$script
 .com:2*/static/lbsite/*/*.js?v=$script
 .com:3*/static/lbsite/*/*.js?v=$script
+.com:8005/cc/*?*=
+.com:8007/d/*?*=
+.com:8007/sc/*?*=
 .com:91/runtime/js/pscreat.js
 .com:9120/discor_list.js
 .content_tracking.js
@@ -2894,6 +2897,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /images/*.gif$domain=maichun5.info|myhhg.com
 /images/*gamble$domain=tvboxnow.com
 /images/169$object
+/images/ad1.gif
 /images/ad960.
 /images/ak47/*$domain=hanzify.net|hanzify.org
 /images/banner$domain=~ipo.chinairn.com|~www.shuame.com|~exp.qq.com
@@ -5386,6 +5390,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /wfloat.
 /whisper?event=
 /white_pixel.gif?
+/whob.gif?
 /widget-advert?$subdocument
 /widget.jsp?bid$subdocument
 /wildfire/i/cimp.gif?
@@ -6788,7 +6793,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=247sports.com|airtelxstream.in|antena3.ro|api.screen9.com|asianctv.upns.pro|asianembed.cam|autokult.pl|bbc.com|blastingnews.com|bloomberg.co.jp|bloomberg.com|bsfuji.tv|cbc.ca|cbsnews.com|cbssports.com|chicagotribune.com|clickorlando.com|cnet.com|crunchyroll.com|delish.com|digi24.ro|distro.tv|doubtnut.com|einthusan.tv|etonline.com|farfeshplus.com|filmweb.pl|france24.com|game.pointmall.rakuten.net|gamebox.gesoten.com|gamepix.com|gameplayneo.com|games.usatoday.com|gbnews.com|geo.dailymotion.com|givemesport.com|goodmorningamerica.com|goodstream.uno|gospodari.com|haberler.com|howstuffworks.com|humix.com|ignboards.com|iheart.com|insideedition.com|irctc.co.in|jilliandescribecompany.com|klix.ba|ktla.com|kxan.com|laurelberninteriors.com|lemino.docomo.ne.jp|locipo.jp|maharashtratimes.com|maxpreps.com|metacritic.com|minigame.aeriagames.jp|missoulian.com|myspace.com|nettavisen.no|newsweek.com|paralympic.org|paramountplus.com|player.abacast.net|player.amperwave.net|player.earthtv.com|player.performgroup.com|plex.tv|pointmall.rakuten.co.jp|realmadrid.com|rte.ie|rumble.com|s.yimg.jp|scrippsdigital.com|sonyliv.com|southpark.lat|southparkstudios.com|spiele.heise.de|sportsbull.jp|sportsport.ba|stirr.com|success-games.net|synk-casualgames.com|tbs.co.jp|tdn.com|thecw.com|truvid.com|tubitv.com|tunein.com|tv-asahi.co.jp|tv.abcnyheter.no|tv.finansavisen.no|tv.rakuten.co.jp|tver.jp|tvp.pl|univtec.com|utsports.com|video.tv-tokyo.co.jp|vlive.tv|watch.nba.com|wbal.com|weather.com|webdunia.com|wellgames.com|worldsurfleague.com|wowbiz.ro|wsj.com|wtk.pl|zdnet.com|zeebiz.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=mingpao.com|4gtv.tv|881903.com|ani.gamer.com.tw|appledaily.com|ha365.com|hamivideo.hinet.net|line.me|linetv.tw|litv.tv|mytvsuper.com|nextmedia.com|now.com|tvb.com|udn.com|ulifestyle.com.hk
-@@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=247sports.com|4029tv.com|bet.com|bloomberg.co.jp|bloomberg.com|cbc.ca|cbssports.com|cc.com|clickorlando.com|digi24.ro|gbnews.com|history.com|kcci.com|kcra.com|ketv.com|kmbc.com|koat.com|koco.com|ksbw.com|mynbc5.com|paramountplus.com|s.yimg.jp|sbs.com.au|tv.rakuten.co.jp|vk.sportsbull.jp|wapt.com|watchcharge.com|wbaltv.com|wcvb.com|wdsu.com|wesh.com|wgal.com|wisn.com|wjcl.com|wlky.com|wlwt.com|wmtw.com|wmur.com|worldsurfleague.com|wpbf.com|wtae.com|wvtm13.com|wxii12.com|wyff4.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=247sports.com|4029tv.com|bet.com|bloomberg.co.jp|bloomberg.com|cbc.ca|cbssports.com|cc.com|clickorlando.com|digi24.ro|gbnews.com|history.com|kcci.com|kcra.com|ketv.com|kmbc.com|koat.com|koco.com|ksbw.com|mynbc5.com|paramountplus.com|s.yimg.jp|sbs.com.au|sonyliv.com|tv.rakuten.co.jp|vk.sportsbull.jp|wapt.com|watchcharge.com|wbaltv.com|wcvb.com|wdsu.com|wesh.com|wgal.com|wisn.com|wjcl.com|wlky.com|wlwt.com|wmtw.com|wmur.com|worldsurfleague.com|wpbf.com|wtae.com|wvtm13.com|wxii12.com|wyff4.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_debug.js$domain=abcnews.go.com|brightcove.net|cbsnews.com|embed.sportsline.com|insideedition.com|pch.com|utsports.com
 @@||imasdk.googleapis.com/pal/sdkloader/pal.js$domain=pluto.tv|stirr.com|tunein.com
 @@||imfeifan.com/adv/$~third-party
@@ -7739,6 +7744,7 @@ beyondcompare.cc
 bing.com###bnp_rich_div
 bingdianhuanyuan.cn
 chemdraw.com.cn
+cj.sina.cn##.m-guss-caijing
 cm.jd.com
 cna.com.tw##.line-ad
 coreldrawchina.com
@@ -7778,6 +7784,7 @@ kingdeecn.cn
 kstj.baidu.com
 logoshejishi.com
 m.bilibili.com##.fixed-openapp
+m.happymh.com###layui-m-layer0
 m.huxiu.com##.bottom-open-app-btn-wrap
 m.smzdm.com##.damo-footer-open-app
 m.sohu.com##.btn
@@ -7865,6 +7872,7 @@ yydstxt*.com/js/html
 |https://api.toutiaoapi.com/api/news/feed/v88/?
 |https://av6k.com/templets/default/parts/txt.js?
 |https://gw.m.163.com/search/api/v2/wap/rolling-word?
+|https://heiliao.com/index/statistics_common
 |https://image.uczzd.cn/?id=
 |https://img.ithome.com/file/dylive/dylive.min.js^$script
 |https://m.163.com/touch/api/paid-article/well-chosen-rec-list?
@@ -7897,7 +7905,6 @@ yydstxt*.com/js/html
 ||*.cdn.sohucs.com/lemon/
 ||*xav.*/guang/*.gif
 ||*xav.*/guang/*.jpg
-||0-x-y-y.com^
 ||0.0.0.0^$third-party,domain=~0.0.0.0|~127.0.0.1|~[::1]|~[::]|~local|~localhost
 ||0.0.0.1^
 ||000444.cn^
@@ -7952,6 +7959,7 @@ yydstxt*.com/js/html
 ||0606kk.com/js/index/index.js
 ||06789.xyz^
 ||067kk.com^
+||06evyxnibl.com^
 ||06f7bf5b8f.com^
 ||07073.com/api/getkflist?
 ||07073.com/pc/js/right-ad.
@@ -9797,6 +9805,7 @@ yydstxt*.com/js/html
 ||98k0ocqaf6.com^
 ||990215.xyz^
 ||9906g.com/js/jquery.js
+||990ir3zfu.com^
 ||9938.net/video/tvg/footer.js
 ||9938.net/video/tvg/hot.js
 ||99496.com/static/
@@ -12419,6 +12428,7 @@ yydstxt*.com/js/html
 ||arclk.net/trax?
 ||arcpublishing.com/beacon
 ||arcraiders.com^
+||ardatlom.com^
 ||ardoqxdinqucirei.info^$popup
 ||ardsklangr.com^$popup
 ||ardslediana.com^$popup
@@ -13298,6 +13308,7 @@ yydstxt*.com/js/html
 ||basariopticals.com^
 ||base44.com^
 ||bashny.net^
+||basically97.top^
 ||basiccca.com^
 ||basis.net/assets/up.js
 ||bastion1.top^
@@ -14862,6 +14873,7 @@ yydstxt*.com/js/html
 ||c.live.com^
 ||c.m.163.com^$subdocument
 ||c.mgid.com^
+||c.mipcdn.com/static/v2/mip-stats-baidu/mip-stats-baidu.js
 ||c.mnjkw.cn^
 ||c.newyorker.com^
 ||c.nuhcpf.com^
@@ -17239,6 +17251,7 @@ yydstxt*.com/js/html
 ||czrdz.xyz^
 ||czsp12.com/api/*=advert&
 ||czsp12.com/api/*=announce&
+||czt4gnz57.com^
 ||cztv.com/201506/02/124d35111e8f180c96f99acbcbdf5de6.jpg
 ||d*.ruiwen.com^
 ||d*.xinshipu.com^
@@ -19113,6 +19126,7 @@ yydstxt*.com/js/html
 ||discards55.com^
 ||discomax.com/adtech/
 ||discopond.com^
+||discount63.top^
 ||discountmags.com^
 ||discover-metrics.cloud.seek.com.au^
 ||discoverdownriver.com^
@@ -21463,6 +21477,7 @@ yydstxt*.com/js/html
 ||finalice.net^$popup
 ||finallyy2.top^
 ||finance-hot-news.com^$popup
+||finance.sina.com.cn/api/hq_popup_api.json
 ||financebr.com^
 ||financecharts.com^
 ||financescam.com^
@@ -24707,6 +24722,7 @@ yydstxt*.com/js/html
 ||i0y0i9vz0.com^
 ||i2s1n.com^
 ||i2wj211yk.com^
+||i2ye9dnle.com^
 ||i322.com/ad_avshow/
 ||i3zh.com/wp-content/plugins/cm-pop-up-banners/
 ||i5q1t8vj9.com^
@@ -25690,6 +25706,7 @@ yydstxt*.com/js/html
 ||it-romehotels.com^
 ||it165.net/index.php?m=poster&
 ||it168.com/pv.js
+||it3c4jmx.xyz^
 ||it610.com/views/front/js/special/
 ||italiangenealogy.com/images/banners/
 ||itaozi.xyz^
@@ -26171,6 +26188,7 @@ yydstxt*.com/js/html
 ||jjmhw2.top^
 ||jjmrmeovo.world^$popup
 ||jjnyzeck.icu^
+||jjpe6btbb.com^
 ||jjplaqyo.icu^
 ||jjpqc.cn^
 ||jjpyaj214.com^
@@ -27179,6 +27197,7 @@ yydstxt*.com/js/html
 ||l4s.love4porn.com^
 ||l5id.com^
 ||l5pzbzfnjm.com^
+||l6906qxga.com^
 ||l6h17ybxe.com^
 ||l6ljsm.com^
 ||l936.expressnews.com^
@@ -27538,7 +27557,6 @@ yydstxt*.com/js/html
 ||lieerr222.cn^
 ||liepin.com/event/jobadver/
 ||lieqinews.com/json/zhiketj/
-||lietou-static.com^
 ||life1999.com^
 ||lifehack.org/tm73fwa1stxf.js
 ||lifeintlat.com^
@@ -29014,6 +29032,7 @@ yydstxt*.com/js/html
 ||mg888888888.com^
 ||mgbethd.com^
 ||mgbetpay.com^
+||mgfikuktpi.com^
 ||mghezaxh.com^
 ||mghkpg.com^$popup
 ||mgid.com^
@@ -30558,6 +30577,7 @@ yydstxt*.com/js/html
 ||nmulwz.cn^
 ||nmzbrd.icu^
 ||nn125.com^
+||nn125.com^$popup
 ||nn51in.com^
 ||nnbet25.com^
 ||nnbet28.com^
@@ -31741,6 +31761,7 @@ yydstxt*.com/js/html
 ||p4p.sina.com.cn^
 ||p59h5yuu.top^
 ||p5staging.com^
+||p66jed4iv.com^
 ||p70y44odg.com^
 ||p7d3miyh2q.com^
 ||p7jroq6xco.com^
@@ -34763,6 +34784,7 @@ yydstxt*.com/js/html
 ||rod8.com^
 ||rodale.com/ga/
 ||rodenstock.com^
+||roj7ah16d.com^
 ||rojj.cn^
 ||rokofo.com^
 ||rokslide.com^
@@ -35450,7 +35472,6 @@ yydstxt*.com/js/html
 ||searchmulty.com^$popup
 ||searchnowexpert.com/sr/
 ||searchnowexpert.com^
-||searchpstatp.com^
 ||searchresultsworld.com^
 ||searchrys.com/dot.php
 ||searchs-hub.com^
@@ -36963,6 +36984,7 @@ yydstxt*.com/js/html
 ||static.youku.com/*/index/js/iresearch.js
 ||static.youku.com/*/js/cps.js
 ||static.yxdown.com/cj/$script
+||static.zhihu.com/ad-raccoon-web/
 ||static.zhihu.com/heifetz/chunks/$script
 ||static.zhihu.com/heifetz/column.*.css
 ||static.zhihu.com/heifetz/column.app.$script
@@ -38502,6 +38524,8 @@ yydstxt*.com/js/html
 ||tkll12151nb.com^
 ||tkll12160nb.com^
 ||tkll12161nb.com^
+||tkll12170nb.com^
+||tkll12171nb.com^
 ||tktube.com/adlib/
 ||tkx.mp.lura.live/rest/v2/server_time
 ||tl.tradetracker.net^
@@ -40086,6 +40110,7 @@ yydstxt*.com/js/html
 ||utve.cn^
 ||utycz.cn^
 ||utyrqg.com^
+||utzacheiye.com^
 ||uu09cjylmzsym.top^
 ||uu1.3gu.com^
 ||uu11881.com^
@@ -40136,6 +40161,7 @@ yydstxt*.com/js/html
 ||uxxux.com/js/zd.js
 ||uy8f8z9uy.com^
 ||uyag.cn^
+||uybq.cn^
 ||uymon.top^
 ||uypg.cn^
 ||uyqx.cn^
@@ -40617,6 +40643,7 @@ yydstxt*.com/js/html
 ||vitalentum.net^
 ||vitalmx.com^
 ||vitalrust.com^
+||vitals.flyingpress.com^
 ||vitals.groww.in/collect
 ||vitqzd.icu^
 ||vitraglobal.com^
@@ -40892,6 +40919,7 @@ yydstxt*.com/js/html
 ||vzmz.com/template/paody/aaaa/357.js
 ||vzoplazaoi.com^
 ||vzorzilmf.com^
+||vzuu.com/HD/
 ||w-profiling.cibc.com^$script
 ||w-profiling.simplii.com^
 ||w.xiaopiaoyou.com^
@@ -42178,6 +42206,7 @@ yydstxt*.com/js/html
 ||xn--80aaoahicaa2ajgc4hub.com^
 ||xn--bwwx30f.top^
 ||xn--chqu2nzsxv3y.com^
+||xn--czru2dx3eszw3lat53b.com^
 ||xn--fmrp88cgha5o061o.com^
 ||xn--ghqu5fm27b67w.com^
 ||xn--gmqz83awjh.com^
@@ -42261,6 +42290,7 @@ yydstxt*.com/js/html
 ||xqtcpf.icu^
 ||xrares.com/xopind.js
 ||xray-s.net^
+||xrkbhl2cp.com^
 ||xrlzhk.top^
 ||xrplwin.com^
 ||xrpsq2940637fafa.com^
@@ -43278,6 +43308,7 @@ yydstxt*.com/js/html
 ||zhimg.com/80/v2-725c659194eeebb8c6b970e52e2dc8aa.
 ||zhimg.com/80/v2-c991beef44875fa5971c6bbfc6dc0ad2.
 ||zhimg.com/80/v2-f4b209014eeea058dd5b43f085aaef02.
+||zhimg.com/v2-*.jpg?source=||0-x-y-y.com^
 ||zhimg.com^*_600x250
 ||zhimg.com^*adx
 ||zhitongwu.com^
