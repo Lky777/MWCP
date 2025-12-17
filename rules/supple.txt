@@ -1,3 +1,9 @@
+!====fix filters====
+! ||126.net^*analysis
+@@||126.net^*analysis$domain=m.163.com
+! /guanggao
+@@https://gitee.com/damengzhudamengzhu/guanggaoguolv
+
 ! .A1
 
 ! .A2
@@ -192,7 +198,6 @@
 ||xchina.click^
 ||xlviirdr.com^
 ||xn--6rtq6phwfhva.com^
-||xn--czru2dx3eszw3lat53b.com^
 ||xn--gps-8y0gm25n.xn--55qx5d^
 
 ! .B2
@@ -211,7 +216,7 @@
 ||analytics.usnupjhh.v2008.coreserver.jp^
 ||fsa-api.feebee.tw^
 ||e2elog.fetnet.net^
-||ads.google.com^
+||ads.google.com^$third-party
 ||fundingchoicesmessages.google.com^
 ||go.homejavlive.com^
 ||a.magsrv.com^
@@ -289,9 +294,6 @@ _ads.html?
 .com/js/dom.js
 .com/js/exopop.js
 ||c.mipcdn.com/static/v2/mip-stats-baidu/mip-stats-baidu.js
-
-! fix easylist
-@@||126.net^*analysis$domain=m.163.com
 
 ! 112pm
 ||112pm.com/1987.js
