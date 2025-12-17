@@ -11,8 +11,6 @@ sed -i '
   /##\.embed-responsive-trendmd/d
   /removeparam/d
   /\$ping$/d
-  /^|.*third-party$/d
-  s/,third-party//g
   /^\$websocket,domain/d
  ' rules/matrix.txt
 sed -i '
