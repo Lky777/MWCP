@@ -24,6 +24,7 @@
 ||666bb777ss.com^
 ||7926ccc537.com^
 ||858227.top^
+||888qq999ee.com^
 ||888qq999hh.com^
 ||888rr999dd.com^
 ||92uhf73ad.com^
@@ -38,6 +39,7 @@
 ||apkadventurehub.com^
 ||apkgamingnest.com^
 ||app12.cc^
+||ardatlom.com^
 ||auriclelureful.click^
 ||axvfinzmi.com^
 ||b3400dda56f2.com^
@@ -190,6 +192,7 @@
 ||xchina.click^
 ||xlviirdr.com^
 ||xn--6rtq6phwfhva.com^
+||xn--czru2dx3eszw3lat53b.com^
 ||xn--gps-8y0gm25n.xn--55qx5d^
 
 ! .B2
@@ -245,6 +248,9 @@
 *$ping,third-party
 *$websocket
 *$webrtc
+.com:8005/cc/*?*=
+.com:8007/sc/*?*=
+.com:8007/d/*?*=
 /1200-60.gif
 /1x1.
 /960-120.gif
@@ -254,11 +260,13 @@
 /a960x55.gif
 /ad.js
 /bt960-60.gif
+/whob.gif?
 /cdn-cgi/speculation
 .cn/upload_01/upload/*.gif
 .cn/upload_01/xiao/*.gif
 /frontend-gtag.min.js?
 /gg980-90.gif
+/images/ad1.gif
 /imgloading.gif
 /js/ga.js
 /js/hilltop.js
@@ -280,6 +288,7 @@ _ads.html?
 .com/js/ad-units.js
 .com/js/dom.js
 .com/js/exopop.js
+||c.mipcdn.com/static/v2/mip-stats-baidu/mip-stats-baidu.js
 
 ! fix easylist
 @@||126.net^*analysis$domain=m.163.com
@@ -407,8 +416,10 @@ haijiaoshipin.com###popup-mask
 ! happymh
 ||m.happymh.com/static/media/
 ||m.happymh.com/styles/friendAds.
+m.happymh.com###layui-m-layer0
 
 ! heiliao
+|https://heiliao.com/index/statistics_common
 ||d1bkj2yip30514.cloudfront.net/static/pc/icons/
 d1bkj2yip30514.cloudfront.net##.slider-wrapper
 heiliao.com##.slider-wrapper
@@ -465,6 +476,8 @@ reddit.com###blocking-modal
 ||www.ruanyifeng.com/blog/stats.js
 
 ! sina
+||finance.sina.com.cn/api/hq_popup_api.json
+cj.sina.cn##.m-guss-caijing
 sina.cn###float-btn
 
 ! sm
@@ -557,6 +570,7 @@ m.yfsp.tv##.container
 @@||static.zhihu.com/heifetz/chunks/lib-$script
 @@||static.zhihu.com/heifetz/chunks/mobile-$script
 @@||static.zhihu.com/heifetz/chunks/shared-$script
+||static.zhihu.com/ad-raccoon-web/
 ||static.zhihu.com/heifetz/column.*.css
 ||static.zhihu.com/heifetz/column.app.$script
 ||pic4.zhimg.com/50/v2-e377a39f81b4cdc2373b9c43c46f5f12_720w.webp
@@ -565,3 +579,5 @@ m.yfsp.tv##.container
 |https://www.zhihu.com/api/v4/growth/mobile_top_banner?
 |https://www.zhihu.com/api/v4/hot_recommendation?
 |https://www.zhihu.com/api/v4/questions/*/related-readings?
+||vzuu.com/HD/
+||zhimg.com/v2-*.jpg?source=
