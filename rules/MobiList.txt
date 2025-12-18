@@ -1,15 +1,15 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202512171928
-! Last modified: 17 Dec 2025 19:28 UTC
+! Version: 202512181925
+! Last modified: 18 Dec 2025 19:25 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
 $csp=child-src 'none'; frame-src 'self' *; worker-src 'none',domain=fileone.tv|theappguruz.com
 $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vidoza.net
 $csp=script-src 'self' * 'unsafe-inline',domain=bijiyd.com|7zhens.com|wamuku.cc|scmmxs.com|jinduxs.com|buhesw.com|luenbook.cc|zahubook.com|heciwk.com|quhesw.com|erzuwk.com|bowoxs.com|guashuge.com|mudanxs.com|mzbook.cc|haduks.com|caimozw.com|zaaizw.com|bogeks.com|oushuku.com|haxu8.com|pucixs.com|tuqisw.com|xueyisw.com|zuye8.com|yawoxs.com|guwoxs.com|jiufuzw.com|beianxs.com|shuying6.com|mafusw.com|cule9.com|riquzw.com|xingksw.com|enbusw.com|waguwk.cc|ruyisw.com|zuxiku.com|jinmusb.com|hunshuge.com|puyewk.com|kaaiwk.com|hadu520.com|qubosw.com|meisibook.com|cuaizw.cc|boxue8.cc|cipubook.com|ququsk.cc|yiyezao.com|shanhuxs.com|jiutusw.com|chahuax.com|candoug.com|hanziwen.com|haduzw.com|modaoshu.com|nipubook.com|nuoshuge.com|puquz.com|wuwusk.com
-$csp=script-src 'self' * 'unsafe-inline',domain=feiguaks.com|iqmxs.cc|jinpai123.net|hshfm.com|xbiqige.cc|1qxs.com|xddxsw.net|jakxs.net|bisowu.net|zyywenxue.com|xiakezw.com|biqul.com|biqugeks.org|minaeast.net|shumi.la|59xs.com|biqugen.com|8181zw.vip|biqugequ.org|69shumi.com|fxxs3.com|efuxs.com|i3book.com|genbiquge.com|quanbiqu.com|pinshu.org|13xsw.com|bbiquge.cc|taobiquge.com|haijiaobooksw.top|zlobin.net|piaotianxiaoshuo.com|yebiquge.com|jvbiquge.com|vipbiquge.com|jpbqg7.com|zuizhong.net|oldtimeswx.org|5book.cc|softtechsolution.org|product44.com|snxsw.com|xiexinde.net|m.6666xsw.com|m.chenkuan.com|jmshuwu.net|wodexiaoshuoh.com|tetservices.net|haitangsoshu.org|4hrz.net|x33yq.org|56xiaoshuo.net|novelser.com|ykxs.cc|biqudd.com|diyibanzhu44444.com|dbrxs.org|kaixindu.net|1ingatlan.net|gaofuwu.org|yushuwu.cloud|yswxs.com|biquge2345.com|dingdian911.com|bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|1kans.net|aidu123.com|biquluo.info|bqgh.com|jmshuwu.net|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com|zk01.net
+$csp=script-src 'self' * 'unsafe-inline',domain=feiguaks.com|iqmxs.cc|jinpai123.net|hshfm.com|xbiqige.cc|1qxs.com|xddxsw.net|jakxs.net|bisowu.net|zyywenxue.com|xiakezw.com|biqul.com|biqugeks.org|girlsoncam.net|japonfilmleri.com|minaeast.net|shumi.la|59xs.com|biqugen.com|8181zw.vip|biqugequ.org|69shumi.com|fxxs3.com|efuxs.com|i3book.com|genbiquge.com|quanbiqu.com|pinshu.org|13xsw.com|bbiquge.cc|taobiquge.com|haijiaobooksw.top|zlobin.net|piaotianxiaoshuo.com|yebiquge.com|jvbiquge.com|vipbiquge.com|jpbqg7.com|zuizhong.net|oldtimeswx.org|5book.cc|softtechsolution.org|product44.com|snxsw.com|xiexinde.net|m.6666xsw.com|m.chenkuan.com|jmshuwu.net|wodexiaoshuoh.com|tetservices.net|haitangsoshu.org|4hrz.net|x33yq.org|56xiaoshuo.net|novelser.com|ykxs.cc|biqudd.com|diyibanzhu44444.com|dbrxs.org|kaixindu.net|1ingatlan.net|gaofuwu.org|yushuwu.cloud|yswxs.com|biquge2345.com|dingdian911.com|bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|1kans.net|aidu123.com|biquluo.info|bqgh.com|jmshuwu.net|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com|zk01.net
 $csp=script-src 'self' * 'unsafe-inline',domain=smsonline.cloud
 $csp=script-src 'self' *,domain=zduxs.com|90shuyuan.com|hunhunxs.com|sswwxs.com|akexs.com|qqmmxs.com|qimiaoxs.cc|qimiaoxiaoshuo.com|wuwxs.com|biquge678.com|biqugezw.us
 $csp=script-src 'self' data: 'unsafe-inline' 'unsafe-hashes' 'unsafe-eval',domain=thumbs.pro
@@ -5424,6 +5424,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /wp-content/plugins/pageviews/pageviews.min.js
 /wp-content/plugins/platinumpopup/*$script,stylesheet
 /wp-content/plugins/popad/*$script,stylesheet
+/wp-content/plugins/script-manager/assets/js/script-manager.js?
 /wp-content/plugins/the-moneytizer/*$script
 /wp-content/plugins/upprev/
 /wp-content/plugins/useful-banner-manager/
@@ -6166,7 +6167,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||adsninja.ca/ads_$script,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@||adsninja.ca/adsninja_client.js$script,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@||adsninja.ca^$stylesheet,xmlhttprequest,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
-@@||adswizz.com/adswizz/js/synchroclient*.js$script,third-party,domain=jjazz.net
+@@||adswizz.com/adswizz/js/synchroclient*.js$script,third-party,domain=jjazz.net|lamusica.com
 @@||adswizz.com/sca_newenco/$domain=triplem.com.au
 @@||adtng.com/get/$subdocument,domain=hanime.tv
 @@||adtraction.com^$image,domain=ebjudande.se
@@ -7833,6 +7834,7 @@ wrating.com
 ws://*/api/wss/getnotreadcount$third-party
 wss://*.*.top/$third-party
 wss://*.top/|
+wss://*.xyz:*?e=$third-party
 wss://*.xyz:*?x=$third-party
 wss://*/api/wss/getnotreadcount$third-party
 wss://www.*.xyz/ws^$third-party
@@ -9982,6 +9984,7 @@ yydstxt*.com/js/html
 ||9wcn.com/gcld/500.gif
 ||9y01.xyz/app/index.html
 ||9ya.net/con/ad
+||9z6p1shhsh.top^
 ||9zpg.net^
 ||9zvip.net/hi5asd/
 ||[::]^$third-party,domain=~0.0.0.0|~127.0.0.1|~[::1]|~[::]|~local|~localhost
@@ -10654,6 +10657,7 @@ yydstxt*.com/js/html
 ||adextrem.com^$third-party
 ||adf.dahe.cn^
 ||adf.uhn.cx^
+||adfenix.com^$third-party
 ||adfgetlink.net^$popup
 ||adfinitys.com^
 ||adfixus.com^
@@ -15342,6 +15346,7 @@ yydstxt*.com/js/html
 ||bvmlt.top^
 ||bvsvfb8c.com^
 ||bvtpk.com^
+||bvtwtwp.xyz^
 ||bvvvvvvv7f.com^
 ||bvzc.cn^
 ||bw2rt48fe4qzld6bd4bq.top^
@@ -15952,6 +15957,7 @@ yydstxt*.com/js/html
 ||cdn.http.anno.channel4.com/m/1/$media,domain=uktvplay.co.uk
 ||cdn.iciba.com/web/co/ci/$image
 ||cdn.jsdelivr.net/npm/@adshield/
+||cdn.lr-hv-in.com/logger.min.js
 ||cdn.manga9.co^
 ||cdn.neighbourly.co.nz/widget/$subdocument
 ||cdn.one.store/xdomain_cookie.html
@@ -20148,6 +20154,7 @@ yydstxt*.com/js/html
 ||djz9es32qen64.cloudfront.net^
 ||dk4w74mt6naf3.cloudfront.net^
 ||dk57sacpbi4by.cloudfront.net^
+||dkaon1jjeo.com^
 ||dkc63u5su8.com^
 ||dkcustomproducts.com^
 ||dkfjlkgjbhbv.com^
@@ -21328,6 +21335,7 @@ yydstxt*.com/js/html
 ||efpyo.cn^
 ||eframe.com^
 ||efreecode.com^
+||eftd.cn^
 ||efxh.cn^
 ||eg2bjo5x5r8yjb5.xyz^
 ||eg4electronics.com^
@@ -22088,6 +22096,7 @@ yydstxt*.com/js/html
 ||extreme-dm.com^$third-party
 ||extreme-ip-lookup.com^$third-party
 ||extremeintimo.com^
+||extremely58.top^
 ||extremescatporn.com/static/images/banners/
 ||extremetech.com/js/ga.js
 ||extremetracking.com^
@@ -24031,6 +24040,8 @@ yydstxt*.com/js/html
 ||gg86.pinggu.org^
 ||gg88.bj.bcebos.com^
 ||ggai12171cp.com^
+||ggai12180cp.com^
+||ggai12181cp.com^
 ||ggbet-online.net^$popup
 ||ggbetapk.com^$popup,third-party
 ||ggbetpromo.com^$popup
@@ -25938,6 +25949,7 @@ yydstxt*.com/js/html
 ||hqvkbn.icu^
 ||hrahdmon.com^$popup
 ||hrihubstudio.xyz^
+||hriy.cn^
 ||hrjciqyu.icu^
 ||hrjg.com.cn^$third-party
 ||hrmdirect.com^
@@ -27583,6 +27595,7 @@ yydstxt*.com/js/html
 ||jads.co^$popup
 ||jagged-staff.com^
 ||jailbaitchan.com/tp/
+||jaimbai2b1.com^
 ||jakyaqu.xyz^
 ||jam.hearstapps.com/js/renderer.js
 ||jamanetwork.com/ama/adtag
@@ -28907,6 +28920,7 @@ yydstxt*.com/js/html
 ||kwhcgsqn2f.com^
 ||kwilmid.top^
 ||kwimgs.com^
+||kwn91x0jke.top^
 ||kworb.net^
 ||kwsugo.icu^
 ||kx.com^
@@ -29759,6 +29773,7 @@ yydstxt*.com/js/html
 ||log.tagtic.cn^
 ||log.vdisk.cn^
 ||log.webnovel.com^
+||log.zcool.com.cn^
 ||log.zongheng.com^
 ||log2.mtime.cn^
 ||log2.sina.cn^
@@ -31050,6 +31065,7 @@ yydstxt*.com/js/html
 ||mgtrailer.com^
 ||mgux.cn^
 ||mh3666.com^*.jsonp
+||mhaqoffcj7.com^
 ||mhaw.cn^
 ||mhcampus.com^
 ||mhdnspro.com^
@@ -34058,6 +34074,7 @@ yydstxt*.com/js/html
 ||p4gdt4um6.com^
 ||p4p.sina.com.cn^
 ||p59h5yuu.top^
+||p5si0mu8u7.com^
 ||p5staging.com^
 ||p66jed4iv.com^
 ||p70y44odg.com^
@@ -34293,6 +34310,7 @@ yydstxt*.com/js/html
 ||pb.i.sogou.com^
 ||pb.s3wfg.com^
 ||pb.shuxigua.com^
+||pb1b7cqwvs.com^
 ||pbbl.co^$third-party
 ||pbcdn.com/data/attachment/album/$image
 ||pbcshsnp.com^
@@ -36136,6 +36154,7 @@ yydstxt*.com/js/html
 ||qemh16ihyw.com^
 ||qertewrt.com^$popup
 ||qewoppwes.com^
+||qezkdby1jj.com^
 ||qfagyky.com^
 ||qfirgakpv.com^
 ||qflm.net^$third-party
@@ -36258,6 +36277,7 @@ yydstxt*.com/js/html
 ||qjuy.cn^
 ||qk6.org/file/script/
 ||qkax.cn^
+||qkixeld.xyz^
 ||qksapp.net/gif/
 ||qksrv.cc^$popup
 ||qksrv1.com^$popup
@@ -38360,6 +38380,7 @@ yydstxt*.com/js/html
 ||sendspace.com/defaults/sendspace-pop.html$popup
 ||sendtonews.com/stn_trk.gif?
 ||sendtraffic.com^$third-party
+||senior82.com^
 ||senioras.com^
 ||senonsiatinus.com^$popup
 ||senprints.com^
@@ -39627,6 +39648,7 @@ yydstxt*.com/js/html
 ||sperebnf.click^$popup
 ||spexaccess.net^
 ||spexjs.com^
+||sphdigital.com.sg/_plat/$domain=zaobao.com.sg
 ||sphengineering.com^
 ||spicygirlshere.life^$popup
 ||spin83qr.com^$popup
@@ -41720,6 +41742,7 @@ yydstxt*.com/js/html
 ||tkll12161nb.com^
 ||tkll12170nb.com^
 ||tkll12171nb.com^
+||tkll12181nb.com^
 ||tkqlhce.com^$third-party
 ||tktube.com/adlib/
 ||tkx.mp.lura.live/rest/v2/server_time
@@ -43824,6 +43847,7 @@ yydstxt*.com/js/html
 ||vgfj.cn^
 ||vghd.com^$third-party
 ||vgjump.top^
+||vglkx9lick.com^
 ||vgnhigankih.com^
 ||vgnyli.top^
 ||vgovvoinf.com^
@@ -44674,6 +44698,7 @@ yydstxt*.com/js/html
 ||web-hosting.net.my/banner/
 ||web-lab5.com^
 ||web-perf.booking.com^
+||web-rabbit.meitustat.com/report?
 ||web-stat.com^$third-party
 ||web-stat.fr^$third-party
 ||web-stat.net^$third-party
@@ -45354,6 +45379,7 @@ yydstxt*.com/js/html
 ||wujinyuzhou.top/ny/ny852x116.
 ||wujinzy.com/images/ok.gif
 ||wujiupic.com^
+||wuk1ruqhcs.com^
 ||wukihow.com^
 ||wukongtongji.com^
 ||wuliao.chzsport.cn^
@@ -46596,6 +46622,7 @@ yydstxt*.com/js/html
 ||yptqys.tianqistatic.com^
 ||ypyr.cn^
 ||yqg.jobui.com^
+||yqhorcill.com^
 ||yqlog.com^
 ||yqn.com^
 ||yqniu.com^
@@ -46859,7 +46886,6 @@ yydstxt*.com/js/html
 ||zcidclink.com^
 ||zcnmjb.icu^
 ||zconnect.cn^
-||zcool.com.cn/track/
 ||zcrddj.icu^
 ||zctcd-63379.cc^
 ||zd10086.com^
