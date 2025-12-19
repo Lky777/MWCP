@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202512181925
-! Last modified: 18 Dec 2025 19:25 UTC
+! Version: 202512191925
+! Last modified: 19 Dec 2025 19:25 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -8018,6 +8018,7 @@ yydstxt*.com/js/html
 ||0vc.fun^
 ||0vllsf2g2.com^
 ||0w58wpq55.com^
+||0wpfe0duo.com^
 ||0x7c0.com^
 ||0x7iufg8hy.com^
 ||0xa579p7.com^
@@ -9317,6 +9318,7 @@ yydstxt*.com/js/html
 ||5b025cnm.top^
 ||5d7k30pv1u.com^
 ||5dariyanews.com/images/adherecolads.jpg
+||5dfiuae82.com^
 ||5dimes.com^$popup
 ||5dm.link/htm1/$image
 ||5dmail.net/image/$object
@@ -9492,6 +9494,7 @@ yydstxt*.com/js/html
 ||6lx.fun^
 ||6m8tk53pw.com^
 ||6mwnqm9h.com^
+||6o719vq4x.com^
 ||6oj.fun^
 ||6opo.com^
 ||6p2g1kk03.com^
@@ -10154,6 +10157,7 @@ yydstxt*.com/js/html
 ||aa.gushiwen.org^
 ||aa.xiangxiangmf.com^
 ||aa03010iiko.com^
+||aa3zx8wko.top^
 ||aa666qq888.com^
 ||aaa.tumanyi.com^
 ||aaaa888866.com^
@@ -15344,6 +15348,7 @@ yydstxt*.com/js/html
 ||bvek.cn^
 ||bvmbnr.xyz^$popup
 ||bvmlt.top^
+||bvraciedl.com^
 ||bvsvfb8c.com^
 ||bvtpk.com^
 ||bvtwtwp.xyz^
@@ -20110,6 +20115,7 @@ yydstxt*.com/js/html
 ||ditchdigging.lat^$popup
 ||dithodackee.com^$popup
 ||ditingdecording.info^$popup
+||ditruntp.com^
 ||divaresnapshareagido.com^$popup
 ||divcss5.com*/ibeifeng/
 ||divcss5.com*/liping/
@@ -20713,6 +20719,7 @@ yydstxt*.com/js/html
 ||dtindrofe.com^
 ||dtiserv2.com^
 ||dtiserv2.com^$third-party
+||dtjal7b1f.com^
 ||dtjcvd.icu^
 ||dtjyszw1q.com^
 ||dtksoft.com/ajax/log^
@@ -21401,6 +21408,7 @@ yydstxt*.com/js/html
 ||eknz.cn^
 ||ekzf.cn^
 ||el.quizlet.com^
+||el2m3qr7v.com^
 ||ela-3-tnk.com^$third-party
 ||eladove.com^
 ||elastx.net^$third-party
@@ -21620,6 +21628,7 @@ yydstxt*.com/js/html
 ||epikads.com^
 ||epilot.com^$third-party
 ||epimg.net/js/gdt/
+||episerver.net/ia.js
 ||epitrack.com^$third-party
 ||epl.paypal-communication.com^$script
 ||eplanetbrokers.com^
@@ -22112,6 +22121,7 @@ yydstxt*.com/js/html
 ||eyesift.com^
 ||eyewondermedia.com^$popup
 ||eyhv.cn^
+||eyiyoxz.xyz^
 ||eyny.com/data/cache/js_show_ads.js
 ||eyqbpifffccdc.net^
 ||eyusky.net/weixin-img/zhifubao.jpg
@@ -24042,6 +24052,8 @@ yydstxt*.com/js/html
 ||ggai12171cp.com^
 ||ggai12180cp.com^
 ||ggai12181cp.com^
+||ggai12190cp.com^
+||ggai12191cp.com^
 ||ggbet-online.net^$popup
 ||ggbetapk.com^$popup,third-party
 ||ggbetpromo.com^$popup
@@ -27927,6 +27939,7 @@ yydstxt*.com/js/html
 ||jnwucna.top^
 ||jnxn7mtnb.com^
 ||jo4.icu^
+||jo9q3dhqf.com^
 ||joammi.com^
 ||job592.com^
 ||jobberbase.com^
@@ -28217,6 +28230,7 @@ yydstxt*.com/js/html
 ||junbi-tracker.com^$popup
 ||junclikrmedi.com^
 ||junior-satisfaction.com^
+||junior48.com^
 ||junk-eraser.com^
 ||junkcchaser.com^
 ||junkwhisper.com^
@@ -28909,6 +28923,7 @@ yydstxt*.com/js/html
 ||kuzip.cn^
 ||kvadgroup.com^
 ||kvbh.cn^
+||kvdxvqw.xyz^
 ||kvhee.com^
 ||kvhkp.com^
 ||kvov.com^
@@ -30699,6 +30714,7 @@ yydstxt*.com/js/html
 ||mdxprod.io/analytics.js
 ||me-cho.com^
 ||me360.com/swt/swt.js
+||me4b65enw.com^
 ||me4track.com^$popup
 ||me680.com/js/*.js
 ||mealviewer.com^
@@ -32157,6 +32173,7 @@ yydstxt*.com/js/html
 ||n2.hk/promo/
 ||n26iiffw9.com^
 ||n2d79v41a3.com^
+||n2ivsbik2.com^
 ||n2xj2mxg3z.com^
 ||n3567.com^
 ||n4sredirect.com^$popup
@@ -33281,6 +33298,7 @@ yydstxt*.com/js/html
 ||offcn.com/index.php?m=dbsource&c=call&a=get&id=75
 ||offcn.com/index.php?m=dbsource&c=call&a=get&id=77
 ||offcn.com/offcnewm/
+||offer.alibaba.com/cps/*rc=$popup
 ||offerclk.net^
 ||offergate-ecommerce-cdn5.com^$popup
 ||offergate-ecommerce-update11.com^
@@ -36408,6 +36426,7 @@ yydstxt*.com/js/html
 ||qrumphathu.com^
 ||qrzhumfdx.com^
 ||qrzjmjrblqzqz.top^
+||qrzwjfq.xyz^
 ||qsbdgef.com^
 ||qsearch-a.akamaihd.net^
 ||qsgglmzytz.com^
@@ -36548,6 +36567,7 @@ yydstxt*.com/js/html
 ||qwerty24.net^$third-party
 ||qwikln.com^$popup
 ||qwilmiy.top^
+||qwsbegovo.top^
 ||qwti.cn^
 ||qwyxg.com^
 ||qwzjh.com^
@@ -37705,6 +37725,7 @@ yydstxt*.com/js/html
 ||rule34archive.com^
 ||rule34hentai.net^$subdocument,~third-party
 ||rule34hub.com^
+||rum-collector.leaderint.workers.dev^
 ||rum.api.intuit.com^
 ||rum.azion.com^
 ||rum.azioncdn.net^
@@ -39641,6 +39662,7 @@ yydstxt*.com/js/html
 ||speedtest.dailymotion.com/latencies.js
 ||speedtrap.shopdirect.com^
 ||speetals.com^$third-party
+||spellbind33.com^
 ||spellingdelicatessenremove.com^
 ||spencerstuartllc.top^
 ||spendcrazy.net^$popup
@@ -41215,6 +41237,7 @@ yydstxt*.com/js/html
 ||telemetry.smartframe.io^
 ||telemetry.soundcloud.com^
 ||telemetry.stytch.com^
+||telemetry.svc.transifex.net^
 ||telemetry.tableausoftware.com^
 ||telemetry.tradingview.com^
 ||telemetry.transcend.io^
@@ -43345,6 +43368,7 @@ yydstxt*.com/js/html
 ||unpkg.com/web-vitals?
 ||unpkg.top^
 ||unpw0czu7.com^
+||unqvaof.xyz^
 ||unreshiramor.com^$popup
 ||unseenrazorcaptain.com^$popup
 ||unspedtaction.com^
@@ -44704,6 +44728,7 @@ yydstxt*.com/js/html
 ||web-stat.net^$third-party
 ||web-trace.ksapisrv.com^
 ||web-tracker.smsbump.com^
+||web-vitals-script.leaderint.workers.dev^
 ||web.900.la^
 ||web.adblade.com^
 ||web.aips-sol.com/v1/events?
@@ -44917,6 +44942,7 @@ yydstxt*.com/js/html
 ||wf7.icu^
 ||wfinterface.com/tracking/$domain=wellsfargo.com
 ||wfredir.net^$popup
+||wftihvn.xyz^
 ||wfvs.cn^
 ||wg-aff.com^$popup
 ||wgceetonr.com^
@@ -47314,6 +47340,7 @@ yydstxt*.com/js/html
 ||zv.7vid.net^
 ||zvciaoan1k.com^
 ||zvgvenibe.com^
+||zvou.cn^
 ||zvuch.com^
 ||zvvsjz.top^
 ||zvxugpcqb.com^
