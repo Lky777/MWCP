@@ -1,15 +1,15 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202512191925
-! Last modified: 19 Dec 2025 19:25 UTC
+! Version: 202512201923
+! Last modified: 20 Dec 2025 19:23 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
 $csp=child-src 'none'; frame-src 'self' *; worker-src 'none',domain=fileone.tv|theappguruz.com
 $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vidoza.net
 $csp=script-src 'self' * 'unsafe-inline',domain=bijiyd.com|7zhens.com|wamuku.cc|scmmxs.com|jinduxs.com|buhesw.com|luenbook.cc|zahubook.com|heciwk.com|quhesw.com|erzuwk.com|bowoxs.com|guashuge.com|mudanxs.com|mzbook.cc|haduks.com|caimozw.com|zaaizw.com|bogeks.com|oushuku.com|haxu8.com|pucixs.com|tuqisw.com|xueyisw.com|zuye8.com|yawoxs.com|guwoxs.com|jiufuzw.com|beianxs.com|shuying6.com|mafusw.com|cule9.com|riquzw.com|xingksw.com|enbusw.com|waguwk.cc|ruyisw.com|zuxiku.com|jinmusb.com|hunshuge.com|puyewk.com|kaaiwk.com|hadu520.com|qubosw.com|meisibook.com|cuaizw.cc|boxue8.cc|cipubook.com|ququsk.cc|yiyezao.com|shanhuxs.com|jiutusw.com|chahuax.com|candoug.com|hanziwen.com|haduzw.com|modaoshu.com|nipubook.com|nuoshuge.com|puquz.com|wuwusk.com
-$csp=script-src 'self' * 'unsafe-inline',domain=feiguaks.com|iqmxs.cc|jinpai123.net|hshfm.com|xbiqige.cc|1qxs.com|xddxsw.net|jakxs.net|bisowu.net|zyywenxue.com|xiakezw.com|biqul.com|biqugeks.org|girlsoncam.net|japonfilmleri.com|minaeast.net|shumi.la|59xs.com|biqugen.com|8181zw.vip|biqugequ.org|69shumi.com|fxxs3.com|efuxs.com|i3book.com|genbiquge.com|quanbiqu.com|pinshu.org|13xsw.com|bbiquge.cc|taobiquge.com|haijiaobooksw.top|zlobin.net|piaotianxiaoshuo.com|yebiquge.com|jvbiquge.com|vipbiquge.com|jpbqg7.com|zuizhong.net|oldtimeswx.org|5book.cc|softtechsolution.org|product44.com|snxsw.com|xiexinde.net|m.6666xsw.com|m.chenkuan.com|jmshuwu.net|wodexiaoshuoh.com|tetservices.net|haitangsoshu.org|4hrz.net|x33yq.org|56xiaoshuo.net|novelser.com|ykxs.cc|biqudd.com|diyibanzhu44444.com|dbrxs.org|kaixindu.net|1ingatlan.net|gaofuwu.org|yushuwu.cloud|yswxs.com|biquge2345.com|dingdian911.com|bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|1kans.net|aidu123.com|biquluo.info|bqgh.com|jmshuwu.net|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com|zk01.net
+$csp=script-src 'self' * 'unsafe-inline',domain=erciyan.com|feiguaks.com|iqmxs.cc|jinpai123.net|hshfm.com|xbiqige.cc|1qxs.com|xddxsw.net|jakxs.net|bisowu.net|zyywenxue.com|xiakezw.com|biqul.com|biqugeks.org|girlsoncam.net|japonfilmleri.com|minaeast.net|shumi.la|59xs.com|biqugen.com|8181zw.vip|biqugequ.org|69shumi.com|fxxs3.com|efuxs.com|i3book.com|genbiquge.com|quanbiqu.com|pinshu.org|13xsw.com|bbiquge.cc|taobiquge.com|haijiaobooksw.top|zlobin.net|piaotianxiaoshuo.com|yebiquge.com|jvbiquge.com|vipbiquge.com|jpbqg7.com|zuizhong.net|oldtimeswx.org|5book.cc|softtechsolution.org|product44.com|snxsw.com|xiexinde.net|m.6666xsw.com|m.chenkuan.com|jmshuwu.net|wodexiaoshuoh.com|tetservices.net|haitangsoshu.org|4hrz.net|x33yq.org|56xiaoshuo.net|novelser.com|ykxs.cc|biqudd.com|diyibanzhu44444.com|dbrxs.org|kaixindu.net|1ingatlan.net|gaofuwu.org|yushuwu.cloud|yswxs.com|biquge2345.com|dingdian911.com|bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|1kans.net|aidu123.com|biquluo.info|bqgh.com|jmshuwu.net|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com|zk01.net
 $csp=script-src 'self' * 'unsafe-inline',domain=smsonline.cloud
 $csp=script-src 'self' *,domain=zduxs.com|90shuyuan.com|hunhunxs.com|sswwxs.com|akexs.com|qqmmxs.com|qimiaoxs.cc|qimiaoxiaoshuo.com|wuwxs.com|biquge678.com|biqugezw.us
 $csp=script-src 'self' data: 'unsafe-inline' 'unsafe-hashes' 'unsafe-eval',domain=thumbs.pro
@@ -6793,7 +6793,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||ikea.cn^*/img/ads/
 @@||image.shutterstock.com^$image,domain=icons8.com
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=247sports.com|airtelxstream.in|antena3.ro|api.screen9.com|asianctv.upns.pro|asianembed.cam|autokult.pl|bbc.com|blastingnews.com|bloomberg.co.jp|bloomberg.com|bsfuji.tv|cbc.ca|cbsnews.com|cbssports.com|chicagotribune.com|clickorlando.com|cnet.com|crunchyroll.com|delish.com|digi24.ro|distro.tv|doubtnut.com|einthusan.tv|etonline.com|farfeshplus.com|filmweb.pl|france24.com|game.pointmall.rakuten.net|gamebox.gesoten.com|gamepix.com|gameplayneo.com|games.usatoday.com|gbnews.com|geo.dailymotion.com|givemesport.com|goodmorningamerica.com|goodstream.uno|gospodari.com|haberler.com|howstuffworks.com|humix.com|ignboards.com|iheart.com|insideedition.com|irctc.co.in|jilliandescribecompany.com|klix.ba|ktla.com|kxan.com|laurelberninteriors.com|lemino.docomo.ne.jp|locipo.jp|maharashtratimes.com|maxpreps.com|metacritic.com|minigame.aeriagames.jp|missoulian.com|myspace.com|nettavisen.no|newsweek.com|paralympic.org|paramountplus.com|player.abacast.net|player.amperwave.net|player.earthtv.com|player.performgroup.com|plex.tv|pointmall.rakuten.co.jp|realmadrid.com|rte.ie|rumble.com|s.yimg.jp|scrippsdigital.com|sonyliv.com|southpark.lat|southparkstudios.com|spiele.heise.de|sportsbull.jp|sportsport.ba|stirr.com|success-games.net|synk-casualgames.com|tbs.co.jp|tdn.com|thecw.com|truvid.com|tubitv.com|tunein.com|tv-asahi.co.jp|tv.abcnyheter.no|tv.finansavisen.no|tv.rakuten.co.jp|tver.jp|tvp.pl|univtec.com|utsports.com|video.tv-tokyo.co.jp|vlive.tv|watch.nba.com|wbal.com|weather.com|webdunia.com|wellgames.com|worldsurfleague.com|wowbiz.ro|wsj.com|wtk.pl|zdnet.com|zeebiz.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=247sports.com|airtelxstream.in|antena3.ro|api.screen9.com|asianctv.upns.pro|asianembed.cam|autokult.pl|bbc.com|blastingnews.com|bloomberg.co.jp|bloomberg.com|bsfuji.tv|cbc.ca|cbsnews.com|cbssports.com|chicagotribune.com|clickorlando.com|cnet.com|crunchyroll.com|delish.com|digi24.ro|distro.tv|doubtnut.com|einthusan.tv|etonline.com|farfeshplus.com|filmweb.pl|france24.com|game.pointmall.rakuten.net|gamebox.gesoten.com|gamepix.com|gameplayneo.com|games.usatoday.com|gbnews.com|geo.dailymotion.com|givemesport.com|goodmorningamerica.com|goodstream.uno|gospodari.com|haberler.com|howstuffworks.com|humix.com|ignboards.com|iheart.com|insideedition.com|irctc.co.in|jilliandescribecompany.com|klix.ba|ktla.com|kxan.com|laurelberninteriors.com|lemino.docomo.ne.jp|locipo.jp|maharashtratimes.com|maxpreps.com|metacritic.com|minigame.aeriagames.jp|missoulian.com|myspace.com|nettavisen.no|newsweek.com|paralympic.org|paramountplus.com|player.abacast.net|player.amperwave.net|player.earthtv.com|player.performgroup.com|plex.tv|pointmall.rakuten.co.jp|realmadrid.com|rfi.fr|rte.ie|rumble.com|s.yimg.jp|scrippsdigital.com|sonyliv.com|southpark.lat|southparkstudios.com|spiele.heise.de|sportsbull.jp|sportsport.ba|stirr.com|success-games.net|synk-casualgames.com|tbs.co.jp|tdn.com|thecw.com|truvid.com|tubitv.com|tunein.com|tv-asahi.co.jp|tv.abcnyheter.no|tv.finansavisen.no|tv.rakuten.co.jp|tver.jp|tvp.pl|univtec.com|utsports.com|video.tv-tokyo.co.jp|vlive.tv|watch.nba.com|wbal.com|weather.com|webdunia.com|wellgames.com|worldsurfleague.com|wowbiz.ro|wsj.com|wtk.pl|zdnet.com|zeebiz.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=mingpao.com|4gtv.tv|881903.com|ani.gamer.com.tw|appledaily.com|ha365.com|hamivideo.hinet.net|line.me|linetv.tw|litv.tv|mytvsuper.com|nextmedia.com|now.com|tvb.com|udn.com|ulifestyle.com.hk
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=247sports.com|4029tv.com|bet.com|bloomberg.co.jp|bloomberg.com|cbc.ca|cbssports.com|cc.com|clickorlando.com|digi24.ro|gbnews.com|history.com|kcci.com|kcra.com|ketv.com|kmbc.com|koat.com|koco.com|ksbw.com|mynbc5.com|paramountplus.com|s.yimg.jp|sbs.com.au|sonyliv.com|tv.rakuten.co.jp|vk.sportsbull.jp|wapt.com|watchcharge.com|wbaltv.com|wcvb.com|wdsu.com|wesh.com|wgal.com|wisn.com|wjcl.com|wlky.com|wlwt.com|wmtw.com|wmur.com|worldsurfleague.com|wpbf.com|wtae.com|wvtm13.com|wxii12.com|wyff4.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_debug.js$domain=abcnews.go.com|brightcove.net|cbsnews.com|embed.sportsline.com|insideedition.com|pch.com|utsports.com
@@ -7963,6 +7963,7 @@ yydstxt*.com/js/html
 ||0606kk.com/js/index/index.js
 ||06789.xyz^
 ||067kk.com^
+||06cp8ypn8j.com^
 ||06evyxnibl.com^
 ||06f7bf5b8f.com^
 ||07073.com/api/getkflist?
@@ -8351,6 +8352,7 @@ yydstxt*.com/js/html
 ||17k.com/jump/uh
 ||17ok.com/focus/3j_right_jdt.shtml
 ||17pytzy5p.com^
+||17ryi4j3qb.com^
 ||17yy.com/style/ifra_ad/
 ||17zwd.com^
 ||180.96.27.85^*.htm
@@ -9783,6 +9785,7 @@ yydstxt*.com/js/html
 ||8h93.com^*.gif
 ||8jfbt5va3r.com^
 ||8jkx.com^
+||8k9ynfczfd.com^
 ||8lyyu1vb4.com^
 ||8lz3swf01q.com^
 ||8maple.ru/dzcm$rewrite=abp-resource:1x1-transparent-gif,domain=8maple.ru
@@ -9958,6 +9961,7 @@ yydstxt*.com/js/html
 ||9hyf6wsiv5.com^
 ||9ihome.com/info/adtopvnet/
 ||9j3pwdsa4cp.com^
+||9j9gc694o4.com^
 ||9j9n6t3n8w.top^
 ||9jsp.com/pay.png
 ||9k9k.com/jscode/js/
@@ -13370,6 +13374,7 @@ yydstxt*.com/js/html
 ||ayhal.com^
 ||aylo.com^
 ||ayodanuauw.com^
+||ayqwjhh4cn.com^
 ||ayxz.com/images/$script
 ||ayxz.com/images/enkj_small.gif
 ||az.nzn.io^
@@ -17545,6 +17550,7 @@ yydstxt*.com/js/html
 ||cordinghology.info^$popup
 ||core-apps.b-cdn.net^
 ||core-cen-54.com^$third-party
+||core-features.cambridge.org/proxy/client/metrics
 ||core-url.com^
 ||coreadness.com^
 ||corecaller.com^
@@ -17702,6 +17708,7 @@ yydstxt*.com/js/html
 ||cpxdeliv.com^$popup
 ||cpylzuozp.com^
 ||cq12318.com^
+||cq2f5kn85c.top^
 ||cqcounter.com^
 ||cqcounter.com^$third-party
 ||cqloud.com/measurements/
@@ -20880,6 +20887,7 @@ yydstxt*.com/js/html
 ||dxg0070.top/img/
 ||dxgo95ahe73e8.cloudfront.net^
 ||dxh2ivs16758.cloudfront.net^
+||dxix.cn^
 ||dxj6cq8hj162l.cloudfront.net^
 ||dxk5g04fo96r4.cloudfront.net^
 ||dxkkb5tytkivf.cloudfront.net^
@@ -22915,6 +22923,7 @@ yydstxt*.com/js/html
 ||fmlabsonline.com^
 ||fmlmbf.top^
 ||fmnetwork.nl/tracking/
+||fmnoaqebhe.com^
 ||fmotn.com^
 ||fmz.com^
 ||fmzupkirh.com^
@@ -23542,6 +23551,7 @@ yydstxt*.com/js/html
 ||g55uuy.shop^
 ||g8hi6r3odr.com^
 ||g8ygkqhm9p.com^
+||g9cvic3khh.com^
 ||g9r6.com^
 ||ga-analytics.com^$third-party
 ||ga-beacon.appspot.com^
@@ -24054,6 +24064,8 @@ yydstxt*.com/js/html
 ||ggai12181cp.com^
 ||ggai12190cp.com^
 ||ggai12191cp.com^
+||ggai12200cp.com^
+||ggai12201cp.com^
 ||ggbet-online.net^$popup
 ||ggbetapk.com^$popup,third-party
 ||ggbetpromo.com^$popup
@@ -24633,6 +24645,7 @@ yydstxt*.com/js/html
 ||gov-oss.cn^
 ||govalos.com^
 ||govevents.com/display-file/
+||govisibl.io^$third-party
 ||govmetric.com^$third-party
 ||gowatching.com^
 ||gowatchit.com/analytics.js
@@ -25501,6 +25514,7 @@ yydstxt*.com/js/html
 ||highway.18manwa.com^
 ||highway.cablecar.sph.com.sg^
 ||highwaycpmrevenue.com^$popup
+||highwayfk.com^
 ||highwebmedia.com/cache/js/output.92c98302d256.js
 ||higomobi.com^
 ||hiido.com^$third-party
@@ -27534,6 +27548,7 @@ yydstxt*.com/js/html
 ||iyfnz.com^$popup
 ||iyfnzgb.com^$popup
 ||iyfsearch.com^$popup
+||iyhaatedew.com^
 ||iyingdi.com/goood?
 ||iyinghua.io/bar/
 ||iyisayfa.net/inc.php?
@@ -27893,7 +27908,6 @@ yydstxt*.com/js/html
 ||jjj*.com/static/js/common.js
 ||jjjgame.com/images/ad11.jpg
 ||jjjxsw.com/js/common.
-||jjmhw2.top^
 ||jjmrmeovo.world^$popup
 ||jjnyzeck.icu^
 ||jjpe6btbb.com^
@@ -28929,6 +28943,7 @@ yydstxt*.com/js/html
 ||kvov.com^
 ||kvqp.cn^
 ||kvue.com^
+||kvzscvzk0t.com^
 ||kw17vswzu.com^
 ||kwcnmtd.top^
 ||kwflvcdn.000dn.com^*.flv
@@ -31162,6 +31177,7 @@ yydstxt*.com/js/html
 ||miliantech.com^
 ||milimili.tv/js/loadjs/jquery
 ||milimili.tv/template/joeleo/*.js
+||military1st.com/datalayer/index/events?
 ||militarygames.net^
 ||milk.yesky.com.cn^
 ||milkenfr.com^
@@ -32320,7 +32336,6 @@ yydstxt*.com/js/html
 ||nbarizona.com/metrics/
 ||nbastreamswatch.com/z-6229510.js
 ||nbc.com/webevents/
-||nbcnews.com/_next/static/chunks/ads.$script,domain=nbcnews.com
 ||nbcudigitaladops.com/hosted/housepix.gif
 ||nbcudigitaladops.com/hosted/util/geo_data.js
 ||nbdeli.com^
@@ -36583,6 +36598,7 @@ yydstxt*.com/js/html
 ||qyer.com/qcross/home/ajax?action=banner
 ||qyer.com^*/base_beacon_ga.js
 ||qyerstatic.com/common/models/common/component/footerbanner/
+||qykezpy.xyz^
 ||qypjuwy.xyz^
 ||qyplvnzcm1.com^
 ||qyun.vip/pic/*.gif
@@ -38070,6 +38086,7 @@ yydstxt*.com/js/html
 ||satrapintune.com^
 ||satroki.tech/api/jdunion
 ||saturntube.com^
+||sausage34.com^
 ||savefiles.com^$domain=hentaidays.com
 ||saveit.us/img/$third-party
 ||saverapi.com^
@@ -46319,7 +46336,9 @@ yydstxt*.com/js/html
 ||yconslab.com^
 ||ycs99877171.com^
 ||ycwt.com^
+||yczl5qg8jr.com^
 ||yddsha2.com^
+||ydeyivh.xyz^
 ||ydfik8up.xyz^
 ||ydgal.com/axfile/
 ||ydhilninhp.com^
@@ -47304,6 +47323,7 @@ yydstxt*.com/js/html
 ||zsy10230yok.com^
 ||zsy10231yok.com^
 ||zsy10240yok.com^
+||zsz8xljo8y.top^
 ||zt.chuanke.com/?mod=
 ||zt2088.com^
 ||ztdbfz.top^
