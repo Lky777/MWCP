@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202512231115
-! Last modified: 23 Dec 2025 11:15 UTC
+! Version: 202512231926
+! Last modified: 23 Dec 2025 19:26 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -9393,6 +9393,7 @@ yydstxt*.com/js/html
 ||5tmobi.cn^$third-party
 ||5u1zleadi.com^
 ||5u3tzh6tc.com^
+||5u6ku3n9k.com^
 ||5u8mjz9tx0.com^
 ||5uazcu2o1.com^
 ||5vbs96dea.com^$popup
@@ -20163,6 +20164,7 @@ yydstxt*.com/js/html
 ||dhbgjv37e.com^
 ||dhcareny.com^
 ||dhcmni6m2kkyw.cloudfront.net^
+||dhduc.com^
 ||dheilgorsy.com^
 ||dhemixu.com^
 ||dhgamesdownload.com^
@@ -24489,6 +24491,7 @@ yydstxt*.com/js/html
 ||ggai12220cp.com^
 ||ggai12221cp.com^
 ||ggai12230cp.com^
+||ggai12231cp.com^
 ||ggbet-online.net^$popup
 ||ggbetapk.com^$popup,third-party
 ||ggbetpromo.com^$popup
@@ -34199,6 +34202,7 @@ yydstxt*.com/js/html
 ||ondeestameupedido.com^
 ||ondigitalocean.app/insight-analytics.js
 ||ondraits.com^
+||ondrotnw.com^
 ||ondu.ru^$third-party
 ||one-mob-app-k.com^
 ||one-name-studio.com^$popup
@@ -34720,6 +34724,7 @@ yydstxt*.com/js/html
 ||oysterspgpay.com^
 ||oysterspgpay1.com^
 ||oyuzh.com^
+||oyz61nhz8.com^
 ||ozautoelectrics.com^
 ||ozcarcupboard.com^$popup
 ||ozelmedikal.com^$third-party
