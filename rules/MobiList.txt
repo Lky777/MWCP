@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202512221926
-! Last modified: 22 Dec 2025 19:26 UTC
+! Version: 202512231115
+! Last modified: 23 Dec 2025 11:15 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -262,6 +262,8 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/4/js/$third-party
 .com/?aff=$popup,third-party
 .com/?intr=$popup,third-party
+.com/Scripts/LogTracer.js
+.com/Scripts/idleAD.js
 .com/_.gif?
 .com/a_d/
 .com/ad/$~image,third-party,domain=~espn.com|~mediaplex.com|~warpwire.com|~wsj.com
@@ -312,6 +314,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/js/discor_list.js
 .com/js/dom.js
 .com/js/exopop.js
+.com/js/ga/googleanalytics.js
 .com/js/indextop.js
 .com/js/lad.js
 .com/js/o.js$domain=qdmm.com|qdwenxue.com|qidian.com
@@ -383,6 +386,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com:2*/static/lbsite/*/*.js?v=$script,third-party
 .com:3*/static/lbsite/*/*.js?v=$script,third-party
 .com:8005/cc/*?*=
+.com:8005/sc/*?*=
 .com:8007/d/*?*=
 .com:8007/sc/*?*=
 .com:91/runtime/js/pscreat.js
@@ -5048,7 +5052,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /tracking/user_sync_widget?
 /tracking/views/
 /tracking202/static/landing.php
-/tracking?id=
 /tracking?referrer
 /tracking?t=
 /tracking?vs=
@@ -6572,6 +6575,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||emome.net/files/advertising/
 @@||entitlements.jwplayer.com^$xmlhttprequest,domain=iheart.com
 @@||eolinker.com^$generichide
+@@||eporner.com^$~third-party
 @@||epubit.com/static/epubit/share/js/share.min.js
 @@||esko.cloud^*_300x600_$~third-party
 @@||eslite.com^*/ad
@@ -8264,6 +8268,7 @@ yydstxt*.com/js/html
 ||1551210.top^
 ||1558334541.rsc.cdn77.org^
 ||156zw.com/css/js/tools.
+||157.185.146.120^
 ||157.90.183.248^$popup
 ||158.247.208.$popup
 ||158.247.208.115^$popup
@@ -9139,6 +9144,7 @@ yydstxt*.com/js/html
 ||4wheelparts.com^
 ||4wm.fun^
 ||4wmiuiyd70.com^
+||4wym8gups.com^
 ||4xicd08qs.com^
 ||4yl3e3fmv.com^
 ||4z50jczq2.com^
@@ -9822,6 +9828,7 @@ yydstxt*.com/js/html
 ||8tbllquzr6.com^
 ||8u0.fun^
 ||8u6stvyww.top^
+||8uuxq3tvn.com^
 ||8v08mjri7.com^
 ||8wines.com^
 ||8wvb8xoqgq.com^
@@ -10512,6 +10519,7 @@ yydstxt*.com/js/html
 ||ad.pornimg.xyz^$popup
 ||ad.qn.img-space.com^
 ||ad.scdn.io^
+||ad.setn.com^
 ||ad.soicos.com^$popup
 ||ad.szhsx.net^
 ||ad.tpmn.co.kr^
@@ -12696,6 +12704,7 @@ yydstxt*.com/js/html
 ||apollo-core.com^
 ||apollofind.com^$third-party
 ||apolloprogram.io^$third-party
+||apologiesoccursdepressed.com^
 ||app-ads-services.com^
 ||app-analytics-services.com^
 ||app-bnkr.b-cdn.net/js/lv.js
@@ -13340,6 +13349,7 @@ yydstxt*.com/js/html
 ||avazudsp.net^$third-party
 ||avazunativeads.com^
 ||avbase.net^
+||avbebe.com/wp-content/uploads/*.gif
 ||avcao.cc/js/p.js
 ||avcity.twavtv.com/iframe/
 ||avdao.pw/dist/js/sc_check
@@ -13821,6 +13831,7 @@ yydstxt*.com/js/html
 ||banzhu33333.net/js/cdn.
 ||banzhu33333.net/js/html
 ||banzou.name/qq/qq2.js
+||baocps.com^
 ||baofeng.com/images/yiqi
 ||baofuer.com^
 ||baojia.steelcn.cn/images/$object
@@ -15453,6 +15464,7 @@ yydstxt*.com/js/html
 ||bupsbp.icu^
 ||buqkrzbrucz.com^$popup
 ||burbio.com^
+||burette34.com^
 ||burgkeilerloeffingen.com^
 ||burniecrepes.com^
 ||burpee.xyz^$third-party
@@ -15869,6 +15881,7 @@ yydstxt*.com/js/html
 ||capacity88.top^
 ||capcom-games.com^
 ||capedge.com^
+||capi.connatix.com^
 ||capital.com/widgets/$third-party
 ||capitalbankcard.com^
 ||capitalone.com/collector/
@@ -18142,6 +18155,7 @@ yydstxt*.com/js/html
 ||crystal-blocker.com^$popup
 ||crystalradio.cn^
 ||cs.37see.com^$third-party
+||cs.media.net^
 ||cs.zg-api.com^
 ||csaa-aws.com^
 ||csaimall.com^$popup,third-party
@@ -22921,6 +22935,7 @@ yydstxt*.com/js/html
 ||fhl05160ps.com^
 ||fhl05170ps.com^
 ||fhl05181ps.com^
+||fhnahnad.com^
 ||fhopqw.com^
 ||fhovoldaw.com^
 ||fhpap.cn^
@@ -23881,6 +23896,7 @@ yydstxt*.com/js/html
 ||fyreball.com^$third-party
 ||fyrsbckgi-c.global.ssl.fastly.net^
 ||fyubin.com^
+||fz94px.site^
 ||fzb0.com^
 ||fzbm.com/bbs/static/js/bma.js
 ||fzcis.com^
@@ -24472,6 +24488,7 @@ yydstxt*.com/js/html
 ||ggai12211cp.com^
 ||ggai12220cp.com^
 ||ggai12221cp.com^
+||ggai12230cp.com^
 ||ggbet-online.net^$popup
 ||ggbetapk.com^$popup,third-party
 ||ggbetpromo.com^$popup
@@ -27126,7 +27143,7 @@ yydstxt*.com/js/html
 ||img.0279.net^
 ||img.263y.com^
 ||img.3sjt.com^
-||img.alicdn.com/imgextra/i*/
+||img.alicdn.com/imgextra/i*/$domain=~aliyundrive.com
 ||img.cmm.xmfish.com/pages/uploads/20$image
 ||img.eol.cn/images/ed/$~image
 ||img.ferlie.net^
@@ -30910,6 +30927,7 @@ yydstxt*.com/js/html
 ||magnify360.com^$third-party
 ||magnobase.com^
 ||magnolian07.top^
+||magsrv.com^
 ||magsrv.com^$popup
 ||mahally.com^
 ||maharaniweddings.com^
@@ -31279,6 +31297,7 @@ yydstxt*.com/js/html
 ||mccdn.me/assets/js/widget.js
 ||mcdp-*.outbrain.com^
 ||mcfstats.com^$popup
+||mcge.cn^
 ||mcgrocer.com^
 ||mcgscloud.com^
 ||mckumf5ii4.com^
@@ -32313,6 +32332,7 @@ yydstxt*.com/js/html
 ||mrdzuibek.com^$popup
 ||mrj6nrqwz.com^
 ||mrkhub.com/sks/js/sks_track.js
+||mrko3xiug.com^
 ||mrktmtrcs.net^
 ||mrlxc51byo.com^
 ||mrmoneymustache.com^
@@ -34112,6 +34132,7 @@ yydstxt*.com/js/html
 ||omegaadblock.net^$popup
 ||omegadblocker.com^
 ||omegadblocker.com^$popup
+||omelette12.top^
 ||ometria.com^$third-party
 ||omgpm.com^$popup
 ||omgt3.com^$popup
@@ -34422,6 +34443,7 @@ yydstxt*.com/js/html
 ||opus-whisky.com^$popup
 ||opwc.cn^
 ||opwqkq.icu^
+||opzphurkro.com^
 ||oqcjv42m.xyz^
 ||oqcw1f9yw.com^
 ||oqea.cn^
@@ -35957,6 +35979,8 @@ yydstxt*.com/js/html
 ||poperblocker.com^$popup
 ||popgeeks.com^
 ||popgoldblocker.info^$popup
+||popin.cc^
+||popin.tw^
 ||popmarket.com^
 ||popmog.com^
 ||popmyads.com^$popup
@@ -41823,6 +41847,7 @@ yydstxt*.com/js/html
 ||tagsrvcs.com^$third-party
 ||tagstaticx.com^$third-party
 ||tagtoo.co/js/unitrack.js
+||tagtoo.co^
 ||tagtracking.vibescm.com^
 ||tagtray.com/api^$third-party
 ||tahlilbazaar.com^
@@ -42682,6 +42707,7 @@ yydstxt*.com/js/html
 ||tmetrix.my.chick-fil-a.com^
 ||tmjzlr.icu^
 ||tmll7.com^
+||tmlyhh.icu^
 ||tmmp.io^$third-party
 ||tmp.argusplatform.com/js/wid.tracker.js
 ||tmpxl.com^
@@ -44010,6 +44036,7 @@ yydstxt*.com/js/html
 ||ub-reserv.com^
 ||ub.galaxus.
 ||ub1.job592.com^
+||ubas.setn.com^
 ||ubbcentral.com^
 ||ubeeludrt.com^
 ||uber.com/_events
@@ -47210,6 +47237,7 @@ yydstxt*.com/js/html
 ||xyzvw.cn^
 ||xz7.com/js/
 ||xzji.com/data/block_js/softshow_
+||xzkumjdqj.com^
 ||xzx68.com^
 ||xzzsz.com^
 ||y-2-l-c.com^
@@ -48171,7 +48199,7 @@ yydstxt*.com/js/html
 ||zhimg.com/80/v2-725c659194eeebb8c6b970e52e2dc8aa.
 ||zhimg.com/80/v2-c991beef44875fa5971c6bbfc6dc0ad2.
 ||zhimg.com/80/v2-f4b209014eeea058dd5b43f085aaef02.
-||zhimg.com/v2-*.jpg?source=||0-x-y-y.com^
+||zhimg.com/v2-*.jpg?source=
 ||zhimg.com^*_600x250
 ||zhimg.com^*adx
 ||zhinst.com^
@@ -48414,7 +48442,7 @@ yydstxt*.com/js/html
 ||zrlxl.cn^
 ||zrnvh.cn^
 ||zrseh.cn^
-||zrwprhw.xyz^
+||zrwprhw.xyz^||0-x-y-y.com^
 ||zryydi.com^$popup
 ||zrzgsdocqm.com^
 ||zsezt.com^
