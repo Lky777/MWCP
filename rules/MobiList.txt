@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202512231926
-! Last modified: 23 Dec 2025 19:26 UTC
+! Version: 202512241924
+! Last modified: 24 Dec 2025 19:24 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -9148,6 +9148,7 @@ yydstxt*.com/js/html
 ||4xicd08qs.com^
 ||4yl3e3fmv.com^
 ||4z50jczq2.com^
+||4zm6p17ppr.com^
 ||4zn.fun^
 ||5-6.top^
 ||5.45.79.15^$popup
@@ -9655,6 +9656,7 @@ yydstxt*.com/js/html
 ||7mmtv.tv/u_banner/
 ||7moor.com^$third-party
 ||7mts.com^
+||7mxn77h4vr.com^
 ||7o2l520r0a.com^
 ||7p5ruxflv0.com^
 ||7psj.com^
@@ -11545,6 +11547,7 @@ yydstxt*.com/js/html
 ||aimukreegee.net^$popup
 ||aimxecbvy.com^
 ||ainandev.com^
+||ainb12241zh.com^
 ||ainoob.com^
 ||ainunu.*/vad.js
 ||aiophotoz.com^
@@ -16957,6 +16960,7 @@ yydstxt*.com/js/html
 ||clickzzs.nl^$third-party
 ||clictrck.com^$popup
 ||client-analytics.braintreegateway.com^
+||client-errors.rebble.io/log-client-error
 ||client-log.box.com^
 ||client-logger.beta.salemove.com^
 ||client-logger.salemove.com^
@@ -21908,6 +21912,7 @@ yydstxt*.com/js/html
 ||entfernungberechnen.com^
 ||enthusiasmdev.com^
 ||entjgcr.com^$popup
+||entrance79.top^
 ||entravision.com^$third-party
 ||entreesmoothstir.com^
 ||entremaqueros.com^
@@ -24492,6 +24497,8 @@ yydstxt*.com/js/html
 ||ggai12221cp.com^
 ||ggai12230cp.com^
 ||ggai12231cp.com^
+||ggai12240cp.com^
+||ggai12241cp.com^
 ||ggbet-online.net^$popup
 ||ggbetapk.com^$popup,third-party
 ||ggbetpromo.com^$popup
@@ -29852,6 +29859,7 @@ yydstxt*.com/js/html
 ||lemagon.com^
 ||lementwrencespri.info^$popup
 ||lemnisk.co^$third-party
+||lemrock.com/v1/publishers/tracking/
 ||lendingtree.com/analytics/
 ||lendingtree.com/pixel/
 ||lenkmio.com^$popup
@@ -32016,6 +32024,7 @@ yydstxt*.com/js/html
 ||mnwor.xuanlishi.com^
 ||mo-tuo.com^
 ||mo.gushiji.cc^
+||mo0lqi51s1.com^
 ||mo8it.com/count.js
 ||moa06190ju.com^
 ||moa06191ju.com^
@@ -35546,6 +35555,7 @@ yydstxt*.com/js/html
 ||pipajam.com^
 ||pipe-collect.ebu.io^
 ||pipedream.wistia.com^
+||pipette22.top^
 ||pipi.cn/player/
 ||pipiads.com^
 ||pipigou523.top^
@@ -37086,6 +37096,7 @@ yydstxt*.com/js/html
 ||qmav.cn^
 ||qmavyy.icu^
 ||qmffld55.com^
+||qmj89db55u.com^
 ||qmsrl.cn^
 ||qmw.cn^
 ||qmwxb.com/skins/2/images/qp001.gif
@@ -37604,6 +37615,7 @@ yydstxt*.com/js/html
 ||rc.vtex.com.br^
 ||rcdn-web.com^$popup
 ||rcgi.video.qq.com^
+||rchqtr.icu^
 ||rcilgeill.com^
 ||rcld32.cn^
 ||rcruulnot.com^
@@ -43998,6 +44010,7 @@ yydstxt*.com/js/html
 ||u2licai.com^
 ||u2uyu876x.com^
 ||u33011.com^
+||u39q45jzoj.com^
 ||u3qrlykp2.com^
 ||u3v.cn^
 ||u408n6z4f.top^
@@ -44135,6 +44148,7 @@ yydstxt*.com/js/html
 ||ufo777link.com^
 ||ufpcdn.com^$popup
 ||ufvbq.cn^
+||ufxs.cn^
 ||uggrianvo.com^
 ||ugheqrikui.com^
 ||ugo.com^
@@ -44688,6 +44702,7 @@ yydstxt*.com/js/html
 ||vbindustrialsupply.com^
 ||vbjkzfcso.com^
 ||vbjm.cn^
+||vbjmrh.cn^
 ||vbjtxwezf.com^
 ||vbjzdl.top^
 ||vbkci.cn^
@@ -45637,6 +45652,7 @@ yydstxt*.com/js/html
 ||waywubi83.com^
 ||wazfsviocavtls.com^
 ||wb.gtimg.com/adwin/
+||wb7i614qen.com^
 ||wbamedia.com^$popup
 ||wbbbg.com^
 ||wbczkm.icu^
@@ -46212,6 +46228,7 @@ yydstxt*.com/js/html
 ||wmykyw.icu^
 ||wn.com/count.js
 ||wn6y.cn^
+||wnacammull.com^
 ||wneia.iaskhot.com^
 ||wnt-s0me-push.net^$popup
 ||wnvu.cn^
@@ -46804,6 +46821,7 @@ yydstxt*.com/js/html
 ||xiexingcun.com/tyong.js
 ||xigfsk.cn^
 ||xiguasuwu.com/static/m.
+||xii1ybb2hk.com^
 ||xiiur.cn^
 ||xijgedjgg5f55.com^$popup
 ||ximad.com^
@@ -47794,6 +47812,7 @@ yydstxt*.com/js/html
 ||yto3kavwud.com^
 ||ytoontoteh.com^
 ||ytqvuq.icu^
+||ytralvbmto.com^
 ||ytse*.top/static/home/gonggao/img/
 ||ytsptv.com/Static/Home/GongGao/img/
 ||yttalk.com^
@@ -47958,6 +47977,7 @@ yydstxt*.com/js/html
 ||z4v.icu^
 ||z4z8.com^
 ||z5x.net^$popup
+||z60ft9y8lj.com^
 ||z680.beaumontenterprise.com^
 ||z737.thestar.com^
 ||z8t.icu^
