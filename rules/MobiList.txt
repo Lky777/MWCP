@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202512241924
-! Last modified: 24 Dec 2025 19:24 UTC
+! Version: 202512251924
+! Last modified: 25 Dec 2025 19:24 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -6775,6 +6775,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||hkcards.com^$generichide
 @@||hkjc.com/bannerad/
 @@||hmvod.com.hk/website/static/skin/images/share/
+@@||holmesmind.com/js/drawv2.$domain=bingfong.com
 @@||hopto.org/js/prebid-ads.
 @@||hopto.org^$generichide
 @@||hotstar.com/vs/getad.php$domain=hotstar.com
@@ -8463,6 +8464,7 @@ yydstxt*.com/js/html
 ||1pel.com^$third-party
 ||1pokerroomcasino.com^
 ||1ppt.com/ad$image
+||1pt7wq8di.com^
 ||1pwx.com/js/ck.js
 ||1qa5x1k5v.com^
 ||1qfxm8hgqd.com^
@@ -8472,6 +8474,7 @@ yydstxt*.com/js/html
 ||1redirb.com^$popup
 ||1rer.hummel.net^
 ||1rwa5e8a6.com^
+||1s8hpetv3.com^
 ||1st-art-gallery.com^
 ||1stmggv7.xyz^
 ||1svpn.com^
@@ -9082,6 +9085,7 @@ yydstxt*.com/js/html
 ||4bo5t8fzd.com^
 ||4ce.fun^
 ||4clik.com^
+||4d45i6p0g.com^
 ||4d9f09z8c.com^
 ||4dsply.com^$popup
 ||4dvisions.com^
@@ -9279,6 +9283,7 @@ yydstxt*.com/js/html
 ||5554287.com^
 ||5559716956.top^
 ||55726zubo56686.com^
+||557ma7bd9.com^
 ||558158.xyz^
 ||5588.tv/js/piaofuimg.js
 ||55bbs.com/east.html
@@ -9343,6 +9348,7 @@ yydstxt*.com/js/html
 ||5adbjiwp.xyz^
 ||5azvpjx8xj.com^
 ||5b025cnm.top^
+||5bess6df0.com^
 ||5c87e7c7f62cefac3d05a7941b0ba56ef829035568ea79dd29f7e92e.com^
 ||5d7k30pv1u.com^
 ||5dariyanews.com/images/adherecolads.jpg
@@ -9554,6 +9560,7 @@ yydstxt*.com/js/html
 ||7011.stia.cn^
 ||70822.com/agfile/
 ||7087053.com^
+||70ba9ncke.com^
 ||70dyhx66vhvu70.com^
 ||7160.com/js/tiaozhuanquanju.js
 ||7189099.com^
@@ -11548,6 +11555,8 @@ yydstxt*.com/js/html
 ||aimxecbvy.com^
 ||ainandev.com^
 ||ainb12241zh.com^
+||ainb12250zh.com^
+||ainb12251zh.com^
 ||ainoob.com^
 ||ainunu.*/vad.js
 ||aiophotoz.com^
@@ -11578,6 +11587,7 @@ yydstxt*.com/js/html
 ||airlogak.com^$third-party
 ||airouba.com/public/js/global.js
 ||airplanobsracle.com^
+||airport89.com^
 ||airpr.com^$third-party
 ||airserve.net^$third-party
 ||airshedcoart.com^
@@ -20776,6 +20786,7 @@ yydstxt*.com/js/html
 ||douyinmusicpromotion.com^
 ||douyu.com/japi/sign/web/getinfo
 ||douyu.com/member/gamegift/gamelist/
+||douyucdn.cn/adxdsp/
 ||douyucdn.cn/butterfly-java/*?width=1200&height=100&
 ||douyucdn.cn/butterfly-java/*?width=1200&height=120&
 ||douyucdn.cn/butterfly-java/*?width=242&height=489&
@@ -21428,6 +21439,7 @@ yydstxt*.com/js/html
 ||easycounter.com^$third-party
 ||easycutgo.com^
 ||easydigitaldownloads.com^
+||easydmarc.com/tools/$third-party
 ||easydownloadpro.com^
 ||easyflirt.com^$third-party
 ||easyfood247.com^
@@ -21571,6 +21583,7 @@ yydstxt*.com/js/html
 ||edchargina.pro^$popup
 ||edel-optics.com^
 ||edelkey.net^
+||edethrelhf.com^
 ||edge-client^$script,domain=barrons.com
 ||edge-hls.doppiocdn.com/ping
 ||edge-hls.doppiocdn.live/ping
@@ -24499,6 +24512,7 @@ yydstxt*.com/js/html
 ||ggai12231cp.com^
 ||ggai12240cp.com^
 ||ggai12241cp.com^
+||ggai12250cp.com^
 ||ggbet-online.net^$popup
 ||ggbetapk.com^$popup,third-party
 ||ggbetpromo.com^$popup
@@ -25123,6 +25137,7 @@ yydstxt*.com/js/html
 ||gracefullouisatemperature.com^$popup
 ||gracematrix.net^
 ||gradelink.com^
+||graduate59.com^
 ||grafana.net/collect/
 ||grainajz.com^
 ||graitsie.com^$popup
@@ -28018,6 +28033,7 @@ yydstxt*.com/js/html
 ||iviewui.com/v1/*?name=
 ||ivisa.com/widgets/*utm_medium=affiliate$subdocument,third-party
 ||ivitrack.com^
+||ivonnurb.com^
 ||ivpnoffers.com^$popup
 ||ivrokpyr.com^
 ||ivuzb.cn^
@@ -38650,6 +38666,7 @@ yydstxt*.com/js/html
 ||ryplay11.com^
 ||rythtg.top^
 ||ryvvzl.icu^
+||rz0f7uxv9.com^
 ||rz2xtcvuy.com^
 ||rz38db915.com^
 ||rzcruzullr.com^
@@ -43824,6 +43841,7 @@ yydstxt*.com/js/html
 ||turbobit.net/pus/
 ||turbovidhls.com^
 ||turboviplay.com/ads_gala.js
+||turcailnt.com^
 ||turisme-montseny.com^
 ||turkeyend.com^
 ||turkiyetoday.com^
@@ -44578,6 +44596,7 @@ yydstxt*.com/js/html
 ||uy8f8z9uy.com^
 ||uyag.cn^
 ||uybq.cn^
+||uyfv.cn^
 ||uygop.cn^
 ||uypg.cn^
 ||uyqx.cn^
@@ -46741,6 +46760,7 @@ yydstxt*.com/js/html
 ||xepith.com^
 ||xero.com/api/events/
 ||xerpagltl.com^
+||xfdlfj.icu^
 ||xfinity.com/event/
 ||xflimg.com^
 ||xformity.com^
@@ -47610,6 +47630,7 @@ yydstxt*.com/js/html
 ||ylih6ftygq7.com^$popup
 ||ylog.huya.com^
 ||yltfspace.com^
+||ym3jmnu05.com^
 ||ymaa.com^
 ||ymapiatm.xyz^
 ||ymcart.net^
