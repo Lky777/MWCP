@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202512251924
-! Last modified: 25 Dec 2025 19:24 UTC
+! Version: 202512261924
+! Last modified: 26 Dec 2025 19:24 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -6190,6 +6190,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||advert.kf5.com^
 @@||adx.yiche.com/cityindex.ashx
 @@||adx.yiche.com/ssp/echo/v1.0/en?*,*,*&cs=
+@@||aeradot.ismcdn.jp/resources/aeradigital/css/smartphone/ad.css?$domain=dot.asahi.com
 @@||aetv.com^$generichide
 @@||affyun.com^$generichide
 @@||ahhhhfs.com^$generichide
@@ -8441,6 +8442,7 @@ yydstxt*.com/js/html
 ||1futnsio0.com^
 ||1fxs.com^$third-party
 ||1gp3p6fkio.com^
+||1gqd0o687z.com^
 ||1jlp1qbgu.com^
 ||1jugabet.com^
 ||1jutu5nnx.com^$popup
@@ -10206,6 +10208,7 @@ yydstxt*.com/js/html
 ||aa.xiangxiangmf.com^
 ||aa03010iiko.com^
 ||aa3zx8wko.top^
+||aa52jm08ly.com^
 ||aa666qq888.com^
 ||aaa.tumanyi.com^
 ||aaaa888866.com^
@@ -11557,6 +11560,8 @@ yydstxt*.com/js/html
 ||ainb12241zh.com^
 ||ainb12250zh.com^
 ||ainb12251zh.com^
+||ainb12260zh.com^
+||ainb12261zh.com^
 ||ainoob.com^
 ||ainunu.*/vad.js
 ||aiophotoz.com^
@@ -12562,6 +12567,7 @@ yydstxt*.com/js/html
 ||anzhaiwang.com^
 ||anzhaiwu.com^
 ||ao-freegeoip.herokuapp.com^
+||ao2doihore.com^
 ||ao5yygeilh.com^
 ||aobocn.com^
 ||aocsw.cn^
@@ -12751,6 +12757,7 @@ yydstxt*.com/js/html
 ||app12.cc^
 ||appanalysis.banggood.com^
 ||appapi-rjvn.com^
+||apparatus49.top^
 ||apparelnow.com^
 ||appblockads.com^
 ||appboycdn.com^$third-party
@@ -22534,6 +22541,7 @@ yydstxt*.com/js/html
 ||f362.nola.com^
 ||f3k194f9i7.com^
 ||f4dc6d8n.com^
+||f4h123m89w.com^
 ||f4re1a.com^
 ||f56.com^
 ||f5b08aa54a17c0eb0a328ccf0cd1a594a9c778048b08398382c63c77.com^
@@ -28127,6 +28135,7 @@ yydstxt*.com/js/html
 ||j5t2n.com^
 ||j67z85nx4.com^
 ||j694fx3bp.com^
+||j7kv55pr70.com^
 ||j7tracker.com^
 ||j8jp.com/fhfjfj.js
 ||j8tzoy3xwn.com^
@@ -28330,6 +28339,7 @@ yydstxt*.com/js/html
 ||jfpo.cn^
 ||jfrrnf.icu^
 ||jfxefv.icu^
+||jg0y00ciyr.com^
 ||jg4gn7s1.com^
 ||jgapcsi.icu^
 ||jggegj-rtbix.top^$popup
@@ -33767,6 +33777,7 @@ yydstxt*.com/js/html
 ||nv3tosjqd.com^$popup
 ||nvdst.com/adx_
 ||nvidia.partners/telemetry/
+||nvielkaa.com^
 ||nvpokyko.icu^
 ||nvrealtygroup.com^
 ||nvsheng.com/js/gg.js
@@ -42850,6 +42861,7 @@ yydstxt*.com/js/html
 ||toopsoug.net^$popup
 ||tooreldretpl.com^
 ||toothcauldron.com^$popup
+||toothpick75.com^
 ||top-charts.com^
 ||top-fwz1.mail.ru^
 ||top-performance.best^$popup
@@ -43903,6 +43915,7 @@ yydstxt*.com/js/html
 ||tweakwise.com^
 ||twfovierbz.com^
 ||twho.cn^
+||twhyhf.icu^
 ||twigwisp.com^$popup
 ||twilmii.top^
 ||twincn.com^
@@ -44138,6 +44151,7 @@ yydstxt*.com/js/html
 ||udxi.cn^
 ||udyi.cn^
 ||udzpel.com^
+||ueaeahze.com^
 ||uedas.$domain=qdmm.com|qdwenxue.com|qidian.com
 ||uefa.com/imgml/uefacom/sponsors/
 ||uehbf.cn^
@@ -44201,6 +44215,7 @@ yydstxt*.com/js/html
 ||uiqouw.icu^
 ||uitopadxdy.com^$popup
 ||uivc.cn^
+||ujhu.cn^
 ||ujmz.cn^
 ||ujof.cn^
 ||ujw1y54r.fun^$popup
@@ -45185,6 +45200,7 @@ yydstxt*.com/js/html
 ||vixenlive.com/api/metrics
 ||vizcloud.co/ping/
 ||vizcom.com^
+||vizgrt.icu^
 ||vizisense.net^$third-party
 ||vizoalygrenn.com^$popup
 ||vizury.com/analyze/
@@ -45232,6 +45248,7 @@ yydstxt*.com/js/html
 ||vlpq.cn^
 ||vlzxtdajo.com^
 ||vm.aty.sohu.com^
+||vm5xs8nvqh.com^
 ||vmcnl.xyz^
 ||vmemkhhgjigrjefb.com^
 ||vmidutpti.com^
@@ -45514,6 +45531,7 @@ yydstxt*.com/js/html
 ||w4sn20zpvz.com^
 ||w4vecl1cks.com^$third-party
 ||w51t.com^$subdocument
+||w5bi16f3co.com^
 ||w5ftl8bhu3.com^
 ||w6.chabad.org^
 ||w6qp6.com^
@@ -47402,6 +47420,7 @@ yydstxt*.com/js/html
 ||yb27b.com^
 ||yb8xge8jmj.com^
 ||ybb-network.com^$popup
+||ybbreqrake.com^
 ||ybbserver.com^$popup
 ||ybcnvqf.cn^
 ||ybotvisit.com^$third-party
