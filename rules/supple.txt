@@ -6,11 +6,12 @@
 @@||eporner.com^$~third-party
 
 ! .A1
-||157.185.146.120^
 ||apologiesoccursdepressed.com^
 ||baocps.com^
+||su0k43kcy.com^
 
 ! .B1
+||157.185.146.120^
 ||adsco.re^
 ||adspyglass.net^
 ||adsrvr.org^
@@ -26,6 +27,7 @@
 ||popin.cc^
 ||simpli.fi^
 ||tagtoo.co^
+||uslook.top^
 ||xchina.click^
 ||xlviirdr.com^
 ||xn--6rtq6phwfhva.com^
@@ -50,7 +52,7 @@
 ||ads.google.com^$third-party
 ||fundingchoicesmessages.google.com^
 ||go.homejavlive.com^
-||a.magsrv.com^
+||tongji.kaixinman.com^
 ||onead.onevision.com.tw^
 ||yan.pqd.org^
 ||media-hls.saawsedge.com^
@@ -88,53 +90,58 @@
 *$webrtc
 .com:8005/cc/*?*=
 .com:8005/sc/*?*=
+.com:8007/cc/*?*=
 .com:8007/sc/*?*=
 .com:8007/d/*?*=
+.com:8008/d/*?*=
+.xyz:8283/home?channel=
+/1x1.
+_ads.html?
+://analytics.*.com/api/event
+/cdn-cgi/speculation
+/popup/adblock/promo/banner/
+.com/1987.js
+.com/google.js
+.com/js/ad-provider.js
+.com/js/ad-units.js
+.com/js/dom.js
+.com/js/exopop.js
 .com/js/ga/googleanalytics.js
 .com/Scripts/idleAD.js
 .com/Scripts/LogTracer.js
+.com/static/js/action.js
+.com/static/js/up.js
+/ad.js
+/js/ga.js
+/js/hilltop.js
+/js/juicy.js
+/js/tm.js
+/js/zzz.js
+/videojs.ads.min.js
+||cdn.tapioni.com/adgpt.js
+||connect.facebook.net/*/sdk.js
+|https://vk.com/js/api/share.js?
+||c.mipcdn.com/static/v2/mip-stats-baidu/mip-stats-baidu.js
 /1200-60.gif
-/1x1.
 /960-120.gif
 /960-60.gif
 /960x60-1.gif
 /960x80.gif
 /a960x55.gif
-/ad.js
 /bt960-60.gif
 /whob.gif?
-/cdn-cgi/speculation
 .cn/upload_01/upload/*.gif
 .cn/upload_01/xiao/*.gif
 /frontend-gtag.min.js?
 /gg980-90.gif
 /images/ad1.gif
 /imgloading.gif
-/js/ga.js
-/js/hilltop.js
-/js/juicy.js
-/js/tm.js
-/js/zzz.js
 /load.gif
 /loading.gif
 /loading.jpg
-/popup/adblock/promo/banner/
-/videojs.ads.min.js
-_ads.html?
-://analytics.*.com/api/event
-||cdn.tapioni.com/adgpt.js
-||connect.facebook.net/*/sdk.js
 ||nibuaideren.icu/*.gif
-|https://vk.com/js/api/share.js?
-.com/js/ad-provider.js
-.com/js/ad-units.js
-.com/js/dom.js
-.com/js/exopop.js
-||c.mipcdn.com/static/v2/mip-stats-baidu/mip-stats-baidu.js
 
 ! 112pm
-||112pm.com/1987.js
-||112pm.com/google.js
 ||112pm.com/okle/js1/
 
 ! 163
@@ -364,10 +371,6 @@ www.txrjy.com###tryOpenApp
 ! veryim
 ||link.mzlinks.com/js/*.manhua
 ||www.veryim.com/js/z.manhua
-
-! wxsck|wxscs
-.com/static/js/action.js
-.com/static/js/up.js
 
 ! xchina
 /scripts/push.js?
