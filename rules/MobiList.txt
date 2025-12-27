@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202512261924
-! Last modified: 26 Dec 2025 19:24 UTC
+! Version: 202512271626
+! Last modified: 27 Dec 2025 16:26 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -259,6 +259,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/*markerclusterer_compiled.js$script,third-party
 .com/0gg/gg*.js
 .com/1784b8bs/
+.com/1987.js
 .com/4/js/$third-party
 .com/?aff=$popup,third-party
 .com/?intr=$popup,third-party
@@ -296,6 +297,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/g.gif?
 .com/gg.js
 .com/gg/*?x=$script,third-party
+.com/google.js
 .com/images/102.js
 .com/java/shang1.js
 .com/java/xia1.js
@@ -387,8 +389,10 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com:3*/static/lbsite/*/*.js?v=$script,third-party
 .com:8005/cc/*?*=
 .com:8005/sc/*?*=
+.com:8007/cc/*?*=
 .com:8007/d/*?*=
 .com:8007/sc/*?*=
+.com:8008/d/*?*=
 .com:91/runtime/js/pscreat.js
 .com:9120/discor_list.js
 .content_tracking.js
@@ -662,6 +666,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .xyz:*?c=$script,third-party
 .xyz:*?x=$script,third-party
 .xyz:8009/11?x=
+.xyz:8283/home?channel=
 .y2126.
 .yebai.
 .yiqiwin.
@@ -8150,8 +8155,6 @@ yydstxt*.com/js/html
 ||111cn.net/gg_ad/
 ||111cn.net/js/downc*.js
 ||112421.net^
-||112pm.com/1987.js
-||112pm.com/google.js
 ||112pm.com/okle/js1/
 ||113.105.248.169^
 ||1133.cc^$third-party
@@ -10100,7 +10103,6 @@ yydstxt*.com/js/html
 ||a.llysc.cn^
 ||a.lz13.cn/
 ||a.lz13.cn^
-||a.magsrv.com^
 ||a.mfcad.net^
 ||a.miyudaquan.top^
 ||a.mobify.com^
@@ -11562,6 +11564,8 @@ yydstxt*.com/js/html
 ||ainb12251zh.com^
 ||ainb12260zh.com^
 ||ainb12261zh.com^
+||ainb12270zh.com^
+||ainb12271zh.com^
 ||ainoob.com^
 ||ainunu.*/vad.js
 ||aiophotoz.com^
@@ -14653,6 +14657,7 @@ yydstxt*.com/js/html
 ||biqu68.com^
 ||biqu86.com^
 ||biquge50.com^
+||biquge700.com/h5/wap.
 ||biquge96.com/123.
 ||biqugie.com/js/wap.
 ||bir-music.com^
@@ -15610,7 +15615,6 @@ yydstxt*.com/js/html
 ||bz13t74nt.com^
 ||bzabwir.icu^
 ||bzbrd.cn^
-||bzcdn.net^
 ||bzclk.baidu.com^
 ||bzdiao.com/wp-content/uploads/bhocwjfylefc/
 ||bzhanyy.com^*.gif
@@ -15709,6 +15713,7 @@ yydstxt*.com/js/html
 ||c6.friok.com^
 ||c6.paypal.com^$image
 ||c64ihqx0gj.com^
+||c6hhfkvxv.com^
 ||c7o9xp4e4.com^
 ||c7sfxl6s3.com^
 ||c81.ipanocloud.com^
@@ -16012,6 +16017,7 @@ yydstxt*.com/js/html
 ||casinoworld.com^
 ||casiyouaffiliates.com^$popup
 ||caspionlog.appspot.com^
+||casserole59.top^
 ||castbox.top^
 ||casterland.com^
 ||casthill.net^
@@ -23722,6 +23728,7 @@ yydstxt*.com/js/html
 ||fruitsfamily.com^
 ||frutrun.com^$third-party
 ||fruugoindia.com^
+||frzlftr9y.com^
 ||fs-client-logger.herokuapp.com^
 ||fsa-api.feebee.tw^
 ||fsbdgef.com^
@@ -27102,6 +27109,7 @@ yydstxt*.com/js/html
 ||ikeanangelsaidthe.com^
 ||ikengoti.com^$popup
 ||ikeono.com^
+||iklparx8i.com^
 ||ikolesa-darom.com^
 ||ikronzealu.com^
 ||ikstatic.cn^*.gif
@@ -35411,6 +35419,7 @@ yydstxt*.com/js/html
 ||phongnhaexplorer.com^
 ||phoognol.com^$popup
 ||phorralut.com^
+||phosphate50.com^
 ||photo.*.html?tk=$script,third-party
 ||photo.*/native?tk=$third-party
 ||photo4me.com^
@@ -41399,6 +41408,7 @@ yydstxt*.com/js/html
 ||stytch.com/sdk/v1/events
 ||su.bdimg.com/static/dspui/js/
 ||su.pr/hosted_js$third-party
+||su0k43kcy.com^
 ||su3ca.com^
 ||sualecolly.com^
 ||suaurl.com/adblock/js/smarttag.js
@@ -42844,6 +42854,7 @@ yydstxt*.com/js/html
 ||tongj.xilu.com/
 ||tongj.xilu.com^
 ||tongji-res.meizu.com^
+||tongji.kaixinman.com^
 ||tongji.mafengwo.cn^
 ||tongji.techweb.com.cn^
 ||tongji.xinmin.cn^
@@ -43539,6 +43550,7 @@ yydstxt*.com/js/html
 ||trendsbongo.com^
 ||trendshub.xyz^
 ||treqonwyp.com^
+||trerqekuw.com^
 ||trfbe.cn^
 ||trfcclbs.com^
 ||trfcstrs-redirect.com^
@@ -43963,6 +43975,7 @@ yydstxt*.com/js/html
 ||txdl1.com^
 ||txnczz.icu^
 ||txre.cn^
+||txru.cn^
 ||txshz.com^
 ||txt9999.cc/ml.js
 ||txvq.cn^
@@ -43987,6 +44000,7 @@ yydstxt*.com/js/html
 ||tyrotation.com^$popup
 ||tyserving.com^$popup
 ||tyuwq.com^
+||tyvybl.icu^
 ||tywgg.com^
 ||tyxo.com^$third-party
 ||tz-68-fabb.com/qiye/
@@ -44258,9 +44272,8 @@ yydstxt*.com/js/html
 ||ulwzinqlh0.com^
 ||um.contentstudio.io^
 ||um5xcgngmart.xyz^
-||umami.aigenerations.net^
+||umami.*/script.js|$script
 ||umami.flixer.su^
-||umami.heroku.uk^
 ||umami.is^$third-party
 ||umami.spencerdevs.xyz^
 ||umami.vidfast.pro^
@@ -44513,6 +44526,7 @@ yydstxt*.com/js/html
 ||usi.net^
 ||usingageghoaft.net^$popup
 ||usizy.com/external/pageview
+||uslook.top^
 ||usmetric.rediff.com^
 ||usnews.com/static/esi/usn-geo.json
 ||usqhk.cn^
@@ -48014,6 +48028,7 @@ yydstxt*.com/js/html
 ||z4a.net/images/*/960-60.
 ||z4a.net^
 ||z4a.net^*/960x
+||z4tnhm97b.com^
 ||z4v.icu^
 ||z4z8.com^
 ||z5x.net^$popup
@@ -48354,6 +48369,7 @@ yydstxt*.com/js/html
 ||zisu.cn.com^
 ||zitadel.com^
 ||ziyuanm.com/js/g11.js
+||zj7coeb5i.com^
 ||zj9puq8ycu.com^
 ||zjacbc.com^
 ||zjen.cn^
@@ -48401,6 +48417,7 @@ yydstxt*.com/js/html
 ||zm-gateio.com^
 ||zmaedftc.cn^
 ||zmcln.cn^
+||zmdttx.icu^
 ||zmescience.com/o5ate4zbho8.js
 ||zmgkzryddts.com^
 ||zmk.pw/zfb.png
