@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202512291925
-! Last modified: 29 Dec 2025 19:25 UTC
+! Version: 202512301926
+! Last modified: 30 Dec 2025 19:26 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -615,6 +615,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .top/cuid/?$third-party
 .top/g3/mystring3asyncg?$third-party
 .top/gd/*?md=$third-party
+.top/herebyad
 .top/upload/ad.js
 .top^*-960x80-*.gif
 .topad.
@@ -8453,6 +8454,7 @@ yydstxt*.com/js/html
 ||1bz4r7sdl.xyz^
 ||1c-dn.com^
 ||1clickpopup.com^
+||1dgfd.cc^
 ||1dgfdw.com^
 ||1dlvai.com^
 ||1dm6ccvy8.com^
@@ -8754,6 +8756,7 @@ yydstxt*.com/js/html
 ||2kbmdtlgme.com^
 ||2kdm.net^
 ||2ld8mx979a.com^
+||2lj9n8sz0w.com^
 ||2ltm627ho.com^$popup
 ||2lzg9mqzw.com^
 ||2makestorage.com^
@@ -9015,6 +9018,7 @@ yydstxt*.com/js/html
 ||3pointdata.com^
 ||3prn.com/even/ok.js
 ||3pzqcv5hc5.com^
+||3q9j4w2r9d.com^
 ||3qx0pnhyzi.com^
 ||3rcld5y1dm.com^
 ||3rre9r4t2.com^
@@ -9567,6 +9571,7 @@ yydstxt*.com/js/html
 ||6gxs.net/js/
 ||6jei0t6xp.com^
 ||6jyi7mzae.com^
+||6kpudsordv.com^
 ||6ku.icu^
 ||6lx.fun^
 ||6m8tk53pw.com^
@@ -9616,6 +9621,7 @@ yydstxt*.com/js/html
 ||7087053.com^
 ||70ba9ncke.com^
 ||70dyhx66vhvu70.com^
+||711dm.com/color.
 ||7160.com/js/tiaozhuanquanju.js
 ||7189099.com^
 ||719api.com^
@@ -10106,6 +10112,7 @@ yydstxt*.com/js/html
 ||9tata.com/js/www.js
 ||9tour.cn/x2/images/czmf.jpg
 ||9trx.com^
+||9txnu9rlmd.com^
 ||9vviyje1s.top^
 ||9w2zed1szg.execute-api.us-east-1.amazonaws.com^
 ||9wcn.com/gcld/500.gif
@@ -10266,6 +10273,7 @@ yydstxt*.com/js/html
 ||a3games.com^
 ||a3win.com^
 ||a4b-tracking.com^$third-party
+||a4bbltm3u2.com^
 ||a4xvv2g18l.com^
 ||a5t.icu^
 ||a5xiazai.com/z/
@@ -11668,6 +11676,8 @@ yydstxt*.com/js/html
 ||ainb12281zh.com^
 ||ainb12290zh.com^
 ||ainb12291zh.com^
+||ainb12300zh.com^
+||ainb12301zh.com^
 ||ainoob.com^
 ||ainunu.*/vad.js
 ||aipage.com^
@@ -12206,6 +12216,7 @@ yydstxt*.com/js/html
 ||ammankeyan.com^$popup
 ||ammcg.imgscloud.com/toy/
 ||ammmkoaxz.com^
+||ammonia20.com^
 ||amnesty.org/collect/
 ||amnet.tw^$third-party
 ||amnupower.com^
@@ -15496,6 +15507,7 @@ yydstxt*.com/js/html
 ||bridged.media^$third-party
 ||bridgestone.com^
 ||bridgevine.com^$third-party
+||briefcase95.com^
 ||brieflizard.com^$popup
 ||brightadnetwork.com^
 ||brightadnetwork.com^$popup
@@ -15826,6 +15838,8 @@ yydstxt*.com/js/html
 ||byvngx98ssphwzkrrtsjhnbyz5zss81dxygxvlqd05.com^$popup
 ||byvue.com^$popup
 ||byxxxporn.com/300x250.html
+||bz*.com/js/cdn.
+||bz*.com/js/html$~third-party,script
 ||bz13t74nt.com^
 ||bzabwir.icu^
 ||bzclk.baidu.com^
@@ -21655,6 +21669,7 @@ yydstxt*.com/js/html
 ||e50.icu^
 ||e5yx.com^$popup
 ||e6ai.net^
+||e75liqii98.com^
 ||e77lmzbqou0n-a.akamaihd.net^
 ||e7cod.com^
 ||e7h.fun^
@@ -27223,6 +27238,7 @@ yydstxt*.com/js/html
 ||i2wj211yk.com^
 ||i2ye9dnle.com^
 ||i322.com/ad_avshow/
+||i3j6h7j9cj.com^
 ||i3z.cn^$third-party
 ||i3zh.com/wp-content/plugins/cm-pop-up-banners/
 ||i5q1t8vj9.com^
@@ -29802,6 +29818,7 @@ yydstxt*.com/js/html
 ||kj5uv2of4zt2xk4x.com^
 ||kjamzdsfdfdx.com^
 ||kjcakncxl.com^
+||kje9v2ic57.com^
 ||kjgbyn.com^
 ||kjmz8.com^
 ||kjokuxr.xyz^
@@ -30101,6 +30118,7 @@ yydstxt*.com/js/html
 ||kxri.cn^
 ||kxs8848.com^
 ||kxsdxgifig.net^
+||kxsu.cn^
 ||kxyumk.icu^
 ||ky595images.com^
 ||ky891.oss-*.aliyuncs.com^
@@ -30267,6 +30285,7 @@ yydstxt*.com/js/html
 ||laurencolby.com^
 ||lavatorydownybasket.com^$popup
 ||lavender64369.com^$popup
+||lavtcyojffug.com^
 ||law-lib.com/wstyle/images/gffirm.jpg
 ||lawdepot.com/affiliate/$third-party
 ||lawinfo.com^
@@ -46402,6 +46421,7 @@ yydstxt*.com/js/html
 ||vuetifyjs.com/notify.json
 ||vuhf.cn^
 ||vuielmilg.com^
+||vujglx.icu^
 ||vukndsb01.com^
 ||vulkan-bt.com^$popup
 ||vulkanbet.me^$popup
@@ -49281,6 +49301,7 @@ yydstxt*.com/js/html
 ||zhulang.com/zlpv.php
 ||zhulong.com/detail/flooronead?
 ||zhulong.com^
+||zhuqellv.com^
 ||zhuqiy.com^
 ||zhushou.360.cn/script/plugin_tiper.js
 ||zhuwang.cc/api.php?op=ad_
