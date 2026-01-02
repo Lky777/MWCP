@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202601011926
-! Last modified: 01 Jan 2026 19:26 UTC
+! Version: 202601021921
+! Last modified: 02 Jan 2026 19:21 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -8026,6 +8026,7 @@ yydstxt*.com/js/html
 ||0ff6b7.com^
 ||0ghwbi.com^
 ||0h9yewgei.com^
+||0hagal2csg.com^
 ||0hagz9mdc.com^
 ||0i0i0i0.com^$popup
 ||0iem8mw1lx.com^
@@ -9073,6 +9074,7 @@ yydstxt*.com/js/html
 ||421studios.net^
 ||4275.com/css/91kf.
 ||429men.com/zdoink/
+||42vaywaovr.com^
 ||4399.com/baiduad/
 ||4399.com/js/4399stat.js
 ||4399.com/jss/*coup.js
@@ -9426,6 +9428,7 @@ yydstxt*.com/js/html
 ||5h3wnuhr8.com^
 ||5hej.com^
 ||5hffr1p22j.com^
+||5hu7hee0pt.com^
 ||5iccp.com^
 ||5icool.org/uploadfile/poster/
 ||5ik.icu^
@@ -11273,7 +11276,6 @@ yydstxt*.com/js/html
 ||adultfilmdatabase.com/graphics/porndude.png
 ||adultforce.com^$third-party
 ||adultfriendfinder.com/banners/$popup,third-party
-||adultfriendfinder.com/go/$popup,third-party
 ||adultfriendfinder.com/go/$third-party
 ||adultfriendfinder.com/piclist?
 ||adultfriendfinder.com^*/affiliate/$third-party
@@ -11673,6 +11675,8 @@ yydstxt*.com/js/html
 ||ainandev.com^
 ||ainb01010zh.com^
 ||ainb01011zh.com^
+||ainb01020zh.com^
+||ainb01021zh.com^
 ||ainb12241zh.com^
 ||ainb12250zh.com^
 ||ainb12251zh.com^
@@ -16614,6 +16618,7 @@ yydstxt*.com/js/html
 ||cfzhushou.com^*/king_chance_layer.js
 ||cgcg01010ht.com^
 ||cgcg01011ht.com^
+||cgcg01020ht.com^
 ||cgeib2940637fafa.com^
 ||cgicounter.oneandone.co.uk^
 ||cgicounter.puretec.de^
@@ -20731,6 +20736,7 @@ yydstxt*.com/js/html
 ||disqus.com/stats.html
 ||disquscdn.com/next/embed/alfalfalfa.
 ||disruptive49.com^
+||dissolution06.com^
 ||distancecity.com^
 ||distancescalculator.com^
 ||distantscience.com^
@@ -24884,6 +24890,7 @@ yydstxt*.com/js/html
 ||geuba.xyz^
 ||gexing.com/i/*960x
 ||gexing.com/j/??zmask.js,easing.js?
+||gexq.cn^
 ||geyqws.cn^
 ||gez.io^$third-party
 ||gezinomi.com^
@@ -37070,6 +37077,7 @@ yydstxt*.com/js/html
 ||pr0gram.org^$third-party
 ||pr2711.com^
 ||pr9bf9i5.com^
+||praairfo.com^
 ||pracc.com^
 ||practicalhealthadvice.com^
 ||practicallyfire.com^$popup
@@ -39340,6 +39348,7 @@ yydstxt*.com/js/html
 ||rt.newswire.ca^
 ||rt.prnewswire.com^
 ||rt.whitebridge.ai^
+||rt5x78mhcq.com^
 ||rta.dailymail.co.uk^
 ||rta2.inews.co.uk^
 ||rta2.metro.co.uk^
@@ -39539,6 +39548,7 @@ yydstxt*.com/js/html
 ||rz2xtcvuy.com^
 ||rz38db915.com^
 ||rz6jf5oqz.com^
+||rzbvxn.icu^
 ||rzcruzullr.com^
 ||rztrkr.com^$third-party
 ||s-ge.com^
@@ -44945,6 +44955,7 @@ yydstxt*.com/js/html
 ||twjrxo.top^
 ||twkan.com/js/otherad
 ||twlcyc.cn^
+||twlw3vuz5f.com^
 ||two.cm.com^
 ||twochihuahuas.com^
 ||twonfans.com^
@@ -45805,6 +45816,7 @@ yydstxt*.com/js/html
 ||vekseptaufin.com^$popup
 ||vektrapc.com^
 ||velaro.com^$third-party
+||velocity30.com^
 ||velocitycdn.com^$popup
 ||velodran.com^$popup
 ||velvet-anchor.com^
