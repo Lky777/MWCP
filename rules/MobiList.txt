@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202601021921
-! Last modified: 02 Jan 2026 19:21 UTC
+! Version: 202601031924
+! Last modified: 03 Jan 2026 19:24 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -275,6 +275,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/adv1/?q=
 .com/api/posts?token=$third-party
 .com/b.js|
+.com/bn.js$third-party
 .com/by389.js$script,third-party
 .com/clk?
 .com/code.php?a=index&z=$script,third-party,xmlhttprequest
@@ -300,6 +301,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/gg/*?x=$script,third-party
 .com/google.js
 .com/images/102.js
+.com/in.js$third-party
 .com/java/shang1.js
 .com/java/xia1.js
 .com/java/youxia.js
@@ -332,6 +334,9 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/mediacontroller.php?pid=$script,third-party
 .com/myjs/alljs.js
 .com/myjs/mys_alljs.js
+.com/on.js$third-party
+.com/papi/*/327/
+.com/papi/*/456/
 .com/piaozi/*.js
 .com/players/*/-1/70/$script,third-party
 .com/public/js/duileft.js
@@ -5752,10 +5757,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 ://www.*.com/players/*/-1/$script,subdocument,third-party,xmlhttprequest
 ://www.*.com/players/*/a/$subdocument,third-party,domain=~edu|~gov
 ://www.*.js|$script,third-party,domain=159i.com|r3sub.com|thisav.com
-://www.*.xyz/players/*/-1/$script,subdocument,third-party,xmlhttprequest
-://www.*.xyz/players/*/a/$subdocument,third-party
-://www.*.xyz/players/*?h=$script,third-party
-://www.*.xyz/script/*.com.js|$script,third-party
 ://www.*/player/*/a/$third-party,xmlhttprequest
 ://www.*/player/*/m/$script,third-party
 ://www.vinted.*/relay/events
@@ -9117,6 +9118,7 @@ yydstxt*.com/js/html
 ||488apa.com^
 ||488cnd.com^
 ||489pro.com^
+||48dswtxkw.com^
 ||48mgbet.com^
 ||4943999.com^
 ||49588f.app^
@@ -9445,6 +9447,7 @@ yydstxt*.com/js/html
 ||5mno3.com^$popup
 ||5nwv22q5.com^
 ||5odd5zsn.xyz^
+||5p35xkp1p.com^
 ||5post.com^
 ||5prismcoaching.com^
 ||5pub.com^
@@ -11677,6 +11680,8 @@ yydstxt*.com/js/html
 ||ainb01011zh.com^
 ||ainb01020zh.com^
 ||ainb01021zh.com^
+||ainb01030zh.com^
+||ainb01031zh.com^
 ||ainb12241zh.com^
 ||ainb12250zh.com^
 ||ainb12251zh.com^
@@ -15917,6 +15922,7 @@ yydstxt*.com/js/html
 ||c0ml.com^
 ||c0nect.com^$popup
 ||c0nmelm3y2.com^
+||c0xz0b2dy.com^
 ||c0zwsdryg.com^
 ||c1.4qx.net^
 ||c1.chajiaotong.com^
@@ -16109,6 +16115,7 @@ yydstxt*.com/js/html
 ||canadianlisted.com^
 ||canalbd.net^
 ||canarysell.com^
+||cancellation58.top^
 ||cancerimagingarchive.net^
 ||canddi.com^$third-party
 ||candere.com^
@@ -16619,6 +16626,8 @@ yydstxt*.com/js/html
 ||cgcg01010ht.com^
 ||cgcg01011ht.com^
 ||cgcg01020ht.com^
+||cgcg01030ht.com^
+||cgcg01031ht.com^
 ||cgeib2940637fafa.com^
 ||cgicounter.oneandone.co.uk^
 ||cgicounter.puretec.de^
@@ -23136,6 +23145,7 @@ yydstxt*.com/js/html
 ||faucetearning.com^
 ||faueo.com^
 ||favoredplate.com^
+||fawb62hh9.com^
 ||fawema.com^
 ||faxadmin.net^
 ||faxingw.cn/js/*0
@@ -24378,6 +24388,7 @@ yydstxt*.com/js/html
 ||g1.tagtic.cn/v1/xingyou/c/
 ||g1.tagtic.cn^
 ||g1.taijuba.com^
+||g12tm6xl3.com^
 ||g13game.com^
 ||g15wt3ci68.com^
 ||g1thub.com^
@@ -26626,6 +26637,7 @@ yydstxt*.com/js/html
 ||hltv.org/scripts/hltv-tracking.js
 ||hltv.org/staticimg/*?ixlib=
 ||hltv.org^*=|$popup,domain=hltv.org
+||hluraiwoy.com^
 ||hlxgq2940637fafa.com^
 ||hlzncxmu.icu^
 ||hm.baidu.com/
@@ -32354,6 +32366,7 @@ yydstxt*.com/js/html
 ||metrics.imdb.com^
 ||metrics.kmsmep.com^
 ||metrics.mdstrm.com^
+||metrics.morethings.digital^
 ||metrics.mzstatic.com^
 ||metrics.nsureapi.com^
 ||metrics.onewegg.com^
@@ -37063,6 +37076,7 @@ yydstxt*.com/js/html
 ||ppushfeed.com^
 ||ppx.com/tracking/
 ||ppxndfgf.icu^
+||ppxqhx.icu^
 ||pq7hdf.com^
 ||pq9alk18ik.com^
 ||pqav.cn^
@@ -42534,6 +42548,7 @@ yydstxt*.com/js/html
 ||swarthid.github.io/*/invoke.js$third-party
 ||swat-adping.com^
 ||swathedneural.shop^$popup
+||swaw.cn^
 ||swcnmtb.top^
 ||swedbankpay.com^
 ||swedishtouristassociation.com^
@@ -42691,6 +42706,7 @@ yydstxt*.com/js/html
 ||t.indeed.com^
 ||t.ionos.com^
 ||t.irtyc.com^
+||t.jasper.ai^
 ||t.jobsyn.org^
 ||t.jossandmain.com^
 ||t.kck.st^
@@ -42844,6 +42860,7 @@ yydstxt*.com/js/html
 ||taijuwang.com/template/alifun/js/unfavui.
 ||taimpt.com^
 ||taisha.org/statics/js/pc2.0/common/form.bottom.
+||taiverturena.com^
 ||taiwan.cn^
 ||taiwandaily.net/wp-content/uploads*_600x100.
 ||taiwannutrition.com/blog/wp-content/plugins/arscode-ninja-popups/
@@ -45401,6 +45418,7 @@ yydstxt*.com/js/html
 ||uoqc.cn^
 ||uowr.cn^
 ||uoxm.cn^
+||up.nextfunup.com^
 ||up.qingdaonews.com/up/$object,script
 ||up4stream.com/js/anti.js
 ||upaiyun.com/system/post_tile/new_web_banners/
@@ -45500,6 +45518,7 @@ yydstxt*.com/js/html
 ||usbdgef.com^
 ||usbpalsmfz.com^
 ||uscamerapro.com^
+||use.hetzner.com^
 ||useblackbox.io/telemetry
 ||useinsider.com^$third-party
 ||useitbetter.com^$third-party
@@ -46386,6 +46405,7 @@ yydstxt*.com/js/html
 ||vps234.com/resources/images/hosting-promotion/
 ||vpvq.cn^
 ||vpvxjw.com^
+||vpw1lig85.com^
 ||vpydjogaytpg.xyz^
 ||vq12376.com^
 ||vq4b0q.fun^$popup
@@ -46558,6 +46578,7 @@ yydstxt*.com/js/html
 ||w4o7aea80ss3-a.akamaihd.net^
 ||w4sn20zpvz.com^
 ||w4vecl1cks.com^$third-party
+||w505cb.cc^
 ||w51t.com^$subdocument
 ||w5bi16f3co.com^
 ||w5ftl8bhu3.com^
@@ -46567,6 +46588,7 @@ yydstxt*.com/js/html
 ||w6xbr7hc.xyz^
 ||w6xdba54n.com^
 ||w740.newstimes.com^
+||w75zr9nfj.com^
 ||w766ewvx75.com^
 ||w8.com.cn^
 ||w90sportapp43wp.com^
@@ -47462,6 +47484,7 @@ yydstxt*.com/js/html
 ||ws.audioeye.com^
 ||ws.sharethis.com^$script
 ||ws.wenshenxiu.com^
+||ws_storage.funnyjunk.com^
 ||wsbdgef.com^
 ||wsbridge.com^
 ||wshufa.com^$third-party
