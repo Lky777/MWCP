@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202601031924
-! Last modified: 03 Jan 2026 19:24 UTC
+! Version: 202601041925
+! Last modified: 04 Jan 2026 19:25 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -157,6 +157,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 -universal-analytics/
 -web-advert-$image
 -wrapper-analytics-prod.cloudfunctions.net/
+.*.*.com/papi/$third-party
 .012*sop.xyz/$script,xmlhttprequest,third-party
 .1.1.1.l80.js^$third-party
 .120x600.
@@ -10070,6 +10071,7 @@ yydstxt*.com/js/html
 ||9a4v0clpi.com^
 ||9appsappstore.com^
 ||9b5efc2b0e.com^
+||9ck9umcyvt.com^
 ||9clasfdc3.com^
 ||9cwcu1574.com^
 ||9drr67evm.com^
@@ -11682,6 +11684,8 @@ yydstxt*.com/js/html
 ||ainb01021zh.com^
 ||ainb01030zh.com^
 ||ainb01031zh.com^
+||ainb01040zh.com^
+||ainb01041zh.com^
 ||ainb12241zh.com^
 ||ainb12250zh.com^
 ||ainb12251zh.com^
@@ -16628,6 +16632,8 @@ yydstxt*.com/js/html
 ||cgcg01020ht.com^
 ||cgcg01030ht.com^
 ||cgcg01031ht.com^
+||cgcg01040ht.com^
+||cgcg01041ht.com^
 ||cgeib2940637fafa.com^
 ||cgicounter.oneandone.co.uk^
 ||cgicounter.puretec.de^
@@ -22140,6 +22146,7 @@ yydstxt*.com/js/html
 ||elevenlabs.io/hog/e/
 ||elexmobile.com^
 ||elhacker.net^
+||eliezerpmsa.com^
 ||elil.cc/pdev/
 ||elil.cc/reqe.js
 ||eliteadulta.com^
@@ -25263,6 +25270,7 @@ yydstxt*.com/js/html
 ||go.hangzhou.com.cn^
 ||go.homejavlive.com^
 ||go.nsfwlivechat.com^$popup
+||go.nutraingredients.com/pd.js
 ||go.onelink.me^$image,script
 ||go.pardot.com^
 ||go.pornav.net^
@@ -27890,6 +27898,7 @@ yydstxt*.com/js/html
 ||incentivesnetwork.net^$third-party
 ||incomaker.com//tracking/
 ||incoone.com^
+||increaserev2.static-cloudflare.workers.dev^
 ||increasingcustomers-tag.com^$third-party
 ||incrementxplay.com/api/adserver/
 ||ind.sh/view.php?$third-party
@@ -30569,6 +30578,7 @@ yydstxt*.com/js/html
 ||lezuocai.com^
 ||lf1-cdn-tos.bytegoofy.com/goofy/
 ||lf2cgxz0b.com^
+||lfamuxkaqobp.com^
 ||lfangshuo.com^
 ||lfbme2940637fafa.com^
 ||lfbupf.icu^
@@ -31301,6 +31311,7 @@ yydstxt*.com/js/html
 ||lspqh.cn^
 ||lsxvnzif.icu^
 ||lsyaicl.icu^
+||lt3f9p5ox2.com^
 ||lt4rpcdn1.com^
 ||ltbyw.top/data/images/*.gif
 ||ltdbroadband.com^
@@ -34144,6 +34155,7 @@ yydstxt*.com/js/html
 ||nicerisle.com^$popup
 ||nicknamedb.com^
 ||nicmusic.net^
+||nid.mansionglobal.com^
 ||nid.thesun.co.uk^
 ||nid.thetimes.com^
 ||nidckjnc.com^
@@ -34494,6 +34506,7 @@ yydstxt*.com/js/html
 ||nsnunlimited.com^
 ||nspfmha3qv.com^
 ||nssurge.com^
+||nstltp.icu^
 ||nstracking.com^$third-party
 ||nsultingcoe.net^$popup
 ||nsvohb.top^
@@ -35868,6 +35881,7 @@ yydstxt*.com/js/html
 ||patrontequila.com^
 ||patternlinks.com^
 ||paulastroid.com^$popup
+||pavdiibdvr.com^
 ||pavonita.xyz^
 ||pavwrr.icu^
 ||paxilparoxetines.com^
@@ -37136,6 +37150,7 @@ yydstxt*.com/js/html
 ||pregchan.com/.static/pages/dlsite.html
 ||prelanding3.cuntempire.com/?utm_$popup
 ||prelert.com^
+||prelude69.com^
 ||premiereradio.com^
 ||premierleaguedigital.com^
 ||premiermylodei.com^
@@ -37872,6 +37887,7 @@ yydstxt*.com/js/html
 ||qidw.cn^
 ||qifake.com^
 ||qighodetfg.com^
+||qigreveth.com^
 ||qihuashidai.cn^
 ||qihucdn.com/11.0.1.js$script
 ||qiji1.jdwx.info^
@@ -37949,6 +37965,7 @@ yydstxt*.com/js/html
 ||qjy168.com^
 ||qk6.org/file/script/
 ||qkax.cn^
+||qkg7yplpfo.com^
 ||qkixeld.xyz^
 ||qksapp.net/gif/
 ||qksrv.cc^$popup
@@ -42885,6 +42902,7 @@ yydstxt*.com/js/html
 ||talkabouttrials.com^
 ||talkfx.*/showtkimg?
 ||talkingdata.com^*/sdk_release.js
+||talkingpointsmemo.com/whoami
 ||talkshopbot.com^
 ||talkwus.com^
 ||tallatesics.top^
@@ -44798,6 +44816,7 @@ yydstxt*.com/js/html
 ||tthrirgud.com^
 ||tti.com^
 ||ttimg.net^
+||ttimhethzm.com^
 ||ttimiyi.top^
 ||ttnjhlhys.icu^
 ||ttoc8ok.com^$popup
@@ -44992,6 +45011,7 @@ yydstxt*.com/js/html
 ||txbptd.icu^
 ||txd8s0oif.com^
 ||txdl1.com^
+||txh201a51k.com^
 ||txjnd2940637fafa.com^
 ||txnczz.icu^
 ||txpbvh.icu^
@@ -45096,6 +45116,7 @@ yydstxt*.com/js/html
 ||u652.myplainview.com^
 ||u655vlo5.xyz^
 ||u6u.icu^
+||u6uy9lzdcj.com^
 ||u6zsr2xn1.com^
 ||u7em9v4hp.com^
 ||u7u9.com^$third-party
@@ -47459,6 +47480,7 @@ yydstxt*.com/js/html
 ||wppmedia.com^
 ||wpri.com^
 ||wpuzzcudultv.com^
+||wpy6xuq4.xyz^
 ||wpzoom.com/images/aff/
 ||wqah.com/images/banners/
 ||wqhmzb.cn^
@@ -47739,6 +47761,7 @@ yydstxt*.com/js/html
 ||x2tsa.com^$popup
 ||x3322.net^
 ||x360xs.com/tops/
+||x3lps9uuog.com^
 ||x3mads.com^
 ||x3os.com^$popup
 ||x3pfkiohz.com^
@@ -47883,6 +47906,7 @@ yydstxt*.com/js/html
 ||xgogi.com^$third-party
 ||xgroovy.com/65
 ||xgroovy.com/static/js/script.js
+||xgsvpsz7f4.com^
 ||xh04i9ine.com^
 ||xh33g.net^
 ||xhaccess.com^*/vast?
@@ -49555,6 +49579,7 @@ yydstxt*.com/js/html
 ||zp365.com/newhousered/hb-index-pop-
 ||zpabeta.net^
 ||zpcloud.top^
+||zpgb.cn^
 ||zpiyi.com/public/js/global.js
 ||zpkkll1m.com^
 ||zpmwi.com^
