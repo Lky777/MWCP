@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202601051929
-! Last modified: 05 Jan 2026 19:29 UTC
+! Version: 202601061926
+! Last modified: 06 Jan 2026 19:26 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -11663,6 +11663,8 @@ yydstxt*.com/js/html
 ||ainb01041zh.com^
 ||ainb01050zh.com^
 ||ainb01051zh.com^
+||ainb01060zh.com^
+||ainb01061zh.com^
 ||ainb12241zh.com^
 ||ainb12250zh.com^
 ||ainb12251zh.com^
@@ -12349,6 +12351,7 @@ yydstxt*.com/js/html
 ||analytics.bitchute.com^
 ||analytics.bitrix.info^
 ||analytics.blue^
+||analytics.bomiv.com^
 ||analytics.brave.com^
 ||analytics.carambo.la^
 ||analytics.carbaselive.com^
@@ -15938,6 +15941,7 @@ yydstxt*.com/js/html
 ||c44n.net^
 ||c4d.cn/api.php?mod=ad&adid=
 ||c4d.com^
+||c4ru5li2sa.com^
 ||c4tracking01.com^$popup
 ||c4tracking01.com^$third-party
 ||c5q2g2.com^
@@ -16271,6 +16275,7 @@ yydstxt*.com/js/html
 ||cat3saiko.com^
 ||catagle.com^
 ||catalogkiosk.com^
+||catalysis39.top^
 ||catbox.moe/bb5wdv.jpg
 ||catcat321.com^
 ||catchit.com^
@@ -16621,6 +16626,8 @@ yydstxt*.com/js/html
 ||cgcg01041ht.com^
 ||cgcg01050ht.com^
 ||cgcg01051ht.com^
+||cgcg01060ht.com^
+||cgcg01061ht.com^
 ||cgeib2940637fafa.com^
 ||cghobe.com^
 ||cgicounter.oneandone.co.uk^
@@ -29731,6 +29738,7 @@ yydstxt*.com/js/html
 ||kdou.com/ad_js.php?adid=
 ||kdow.cn^
 ||kdpdigitalpublishers.com^
+||kduwvaq3dt.com^
 ||kdw*.com/layer/layer.js
 ||kdyurlid.top^
 ||kechengku.cn^
@@ -35201,6 +35209,7 @@ yydstxt*.com/js/html
 ||ooproxy.azurewebsites.net^$xmlhttprequest,domain=imasdk.googleapis.com
 ||ooqiu.com/ad_js/
 ||oortech.com^
+||oot59rxrwm.com^
 ||oovruczakz.com^
 ||ooxepiyzii.net^
 ||ooxxuuww55.com^
@@ -35575,6 +35584,7 @@ yydstxt*.com/js/html
 ||owrkwilxbw.com^$popup
 ||owwoedu.com^
 ||ox-bio.com^$third-party
+||ox3e5wyy79.com^
 ||oxbbzxqfnv.com^$popup
 ||oxcluster.com^$third-party
 ||oxdtangx.top^
@@ -36575,6 +36585,7 @@ yydstxt*.com/js/html
 ||pk910324e.com^$popup
 ||pkeeper3.ru^$third-party
 ||pkgmirrors.com^
+||pkhottoqai.com^
 ||pki-infra.com^
 ||pki87n.pro^$popup
 ||pkk1.zuimeiniwo.com^
@@ -39158,6 +39169,7 @@ yydstxt*.com/js/html
 ||rlri.cn^
 ||rltd.io/tags/
 ||rltdxt.com/files/h5/
+||rlvyrr.icu^
 ||rm.sina.com.cn/$script,subdocument
 ||rmapsaminle.com^
 ||rmaticalacm.info^$popup
@@ -42643,6 +42655,7 @@ yydstxt*.com/js/html
 ||syncedvision.com^$popup
 ||synchelpers.com^
 ||synclusiveinno.com^
+||syncope12.top^
 ||syndicate.payloadz.com^
 ||synergizeonline.net/trackpoint/
 ||synergy-e.com^$third-party
@@ -43108,6 +43121,7 @@ yydstxt*.com/js/html
 ||teatvapkpro.com^
 ||teawarecoinfer.com^
 ||tebubio.com^
+||tebv.cn^
 ||teccod2000.com^
 ||tecforlily.com^
 ||tech-lagoon.com^
@@ -43476,6 +43490,7 @@ yydstxt*.com/js/html
 ||thetrafficbid.com^
 ||thetravelingtourguide.com^
 ||thetruth.com/pd.js
+||thetruthaboutcars.com/api/slots
 ||theusualsuspects.biz^$popup
 ||thevalley-inn.com^
 ||thevcdn.com^
@@ -44147,6 +44162,7 @@ yydstxt*.com/js/html
 ||track.atgstores.com^$third-party
 ||track.bannedcelebs.com^
 ||track.bestpornsites.tv^
+||track.bomiv.com^
 ||track.btdmp.com^
 ||track.cam4tracking.com^
 ||track.coherentpath.com^
@@ -46481,6 +46497,7 @@ yydstxt*.com/js/html
 ||vpvq.cn^
 ||vpvxjw.com^
 ||vpw1lig85.com^
+||vpx4fmj4z6.com^
 ||vpydjogaytpg.xyz^
 ||vq12376.com^
 ||vq4b0q.fun^$popup
@@ -46791,6 +46808,7 @@ yydstxt*.com/js/html
 ||wattpad.com/js/tracker/app.
 ||waudit.cz^$third-party
 ||waufooke.com^$popup
+||waulzelnvh.com^
 ||waust.at^
 ||wave-internal.com^
 ||waveblueship.com^
@@ -47378,6 +47396,7 @@ yydstxt*.com/js/html
 ||wm.mipcdn.com^
 ||wm.szdushi.com.cn^
 ||wm0.net^
+||wm02x4gcnx.com^
 ||wm6b9l1av.com^
 ||wmbd.gamersky.com^
 ||wmcdp.io^$third-party
@@ -48293,6 +48312,7 @@ yydstxt*.com/js/html
 ||xszpuvwr7.com^$popup
 ||xszwb.com^
 ||xt-trk.com^
+||xt1nx0rs7n.com^
 ||xtdvvp.icu^
 ||xtend-a-hitchnorthwest.com^
 ||xtendmedia.com^$popup
