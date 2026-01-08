@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202601071929
-! Last modified: 07 Jan 2026 19:29 UTC
+! Version: 202601080305
+! Last modified: 08 Jan 2026 03:05 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -274,7 +274,9 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/ads?$popup
 .com/adv/$domain=~adv.asahi.com|~advantabankcorp.com|~alltransistors.com|~archiproducts.com|~tritondigital.com
 .com/adv1/?q=
+.com/api/models/
 .com/api/posts?token=$third-party
+.com/api/v1/mediation/tracking?adUnit=
 .com/b.js|
 .com/bn.js$third-party
 .com/by389.js$script,third-party
@@ -387,6 +389,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/vodad.js
 .com/vtrack
 .com/watch.*.js?key=
+.com/wp-content/plugins/ai-share-summarize/
 .com/zz/*2.txt$xmlhttprequest
 .com/zz/tcc2.js
 .com/zz/yd2.js
@@ -7903,6 +7906,7 @@ yydstxt*.com/js/html
 |https://api.toutiaoapi.com/api/news/feed/v88/?
 |https://av6k.com/templets/default/parts/txt.js?
 |https://gw.m.163.com/search/api/v2/wap/rolling-word?
+|https://hanmanjd.org/jt.php?
 |https://heiliao.com/index/statistics_common
 |https://image.uczzd.cn/?id=
 |https://img.ithome.com/file/dylive/dylive.min.js^$script
@@ -9446,6 +9450,7 @@ yydstxt*.com/js/html
 ||5kmqy60r7.com^
 ||5lf5cujc5.com^
 ||5lu8.com^$popup,third-party
+||5lz3u8s5uq.com^
 ||5mm.zxfw5.cn^
 ||5mn041cdz.com^
 ||5mno3.com^$popup
@@ -15543,6 +15548,8 @@ yydstxt*.com/js/html
 ||browser-update.org^$third-party
 ||browser.covatic.io^
 ||browser.events.data.microsoft.com/onecollector/
+||browser.events.data.msn.cn/OneCollector/
+||browser.events.data.msn.com/OneCollector/
 ||browser.pipe.aria.microsoft.com^
 ||browserling.com/api/stats-browsing
 ||browsermine.com^$third-party
@@ -15646,6 +15653,7 @@ yydstxt*.com/js/html
 ||buglytics.com^
 ||bugs01070ko.com^
 ||bugs01071ko.com^
+||bugs01080ko.com^
 ||bugsfighter.com/wp-content/uploads/2020/07/malwarebytes-banner.jpg
 ||bugsnag.com^$third-party
 ||bugsnag.shopbop.amazon.dev^
@@ -16610,6 +16618,7 @@ yydstxt*.com/js/html
 ||cgcg01061ht.com^
 ||cgcg01070ht.com^
 ||cgcg01071ht.com^
+||cgcg01080ht.com^
 ||cgeib2940637fafa.com^
 ||cghobe.com^
 ||cgicounter.oneandone.co.uk^
@@ -17020,6 +17029,7 @@ yydstxt*.com/js/html
 ||cizige.com^
 ||cizxjpahssbq.com^
 ||cj81gcvm2.com^
+||cj99fbulb4.com^
 ||cjdby.net/public/home/images/advimg/
 ||cjewz.com^$popup
 ||cjjd02.com^
@@ -22005,6 +22015,7 @@ yydstxt*.com/js/html
 ||ee.shixunwang.net^
 ||ee021.com/runtime/js/
 ||ee5.icu^
+||ee555aa888.com^
 ||ee888pg.com^
 ||eebbgo.com^
 ||eec.crunchyroll.com^
@@ -22060,6 +22071,7 @@ yydstxt*.com/js/html
 ||egretswamper.com^$popup
 ||egrowads.com^
 ||egs-expertise.com^
+||egvhd2ggc1.com^
 ||egxo.cn^
 ||egygold.xyz^
 ||egz.cn^
@@ -33847,6 +33859,7 @@ yydstxt*.com/js/html
 ||nemppa.com^$popup
 ||nen.com.cn/eap/
 ||nen.com.cn/service/js/beitou
+||nenlnl.icu^
 ||neo7x.com^
 ||neocounter.neoworx-blog-tools.net^
 ||neoknet.com^
@@ -35768,6 +35781,7 @@ yydstxt*.com/js/html
 ||panpan.org/plus/img/
 ||pansoso.com^*pss.
 ||pantheon1137.xyz^
+||pantomime32.top^
 ||pantyhosecool.com/stig/
 ||pantyhosepornstars.com/mze/
 ||pantyhoseposing.com/ed/
@@ -38259,6 +38273,7 @@ yydstxt*.com/js/html
 ||qxgolds.com^
 ||qxn9qlvmca.com^
 ||qxqxa.com^
+||qy0.ru/*.gif
 ||qy0.ru/data/game/
 ||qy1.ru/data/game/
 ||qyel.cn^
@@ -38758,6 +38773,7 @@ yydstxt*.com/js/html
 ||regalrise.net^
 ||regalrisemedia.com^
 ||register.boostymark.com/a/reg
+||register04.top^
 ||registration09.top^
 ||regulushamal.top^$popup
 ||rehasense.com^
@@ -41655,6 +41671,7 @@ yydstxt*.com/js/html
 ||srootshare.com^
 ||srpx.net^$third-party
 ||srstracker.com^
+||srtb.msn.cn/notify/
 ||srtb.msn.com^
 ||srtrak.com^$popup
 ||srv.dynamicyield.com^
@@ -42190,6 +42207,7 @@ yydstxt*.com/js/html
 ||storiespace.com^
 ||storiftgames.com^
 ||storm.mg/ad?
+||storm.mg/api/logs/
 ||stormcontainertag.com^$third-party
 ||stormgate.production.raptive.com^
 ||stormgleam42.xyz^
@@ -44763,6 +44781,7 @@ yydstxt*.com/js/html
 ||ts.delfi.lt^
 ||ts.globtube.com^
 ||ts.tradetracker.net^
+||ts1.tc.mm.bing.net^
 ||ts166.net^
 ||tsarvgh.com^
 ||tsarvoyages.com^
@@ -45275,6 +45294,7 @@ yydstxt*.com/js/html
 ||uhpdsplo.com^$popup
 ||uhyf.cn^
 ||uiadmin.net/uview-plus/assets/js/3.1b3a95a0.
+||uiakvibuzy.com^
 ||uiclap.com^
 ||uid.mediacorp.sg^
 ||uidhealth.com^$popup
@@ -46051,6 +46071,7 @@ yydstxt*.com/js/html
 ||video.oms.eu^$third-party
 ||video.qq.com/checktime?
 ||video.saawsedge.com^
+||video.sacdnssedge.com^
 ||video231.oss-cn-beijing.aliyuncs.com^
 ||videoadblockerpro.com^$popup
 ||videoamp.com^$third-party
@@ -47386,6 +47407,9 @@ yydstxt*.com/js/html
 ||wn.com/count.js
 ||wn6y.cn^
 ||wnacammull.com^
+||wnacg.com/game/
+||wnacg.com/themes/mo/images/domain.js
+||wnacg.com/themes/mo/images/int_bg.png
 ||wneia.iaskhot.com^
 ||wnt-s0me-push.net^$popup
 ||wnvu.cn^
