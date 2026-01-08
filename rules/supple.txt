@@ -8,6 +8,7 @@
 ! .A1
 ||apologiesoccursdepressed.com^
 ||baocps.com^
+||ee555aa888.com^
 ||su0k43kcy.com^
 
 ! .B1
@@ -57,6 +58,7 @@
 ||yan.pqd.org^
 ||media-hls.saawsedge.com^
 ||video.saawsedge.com^
+||video.sacdnssedge.com^
 ||ad.scdn.io^
 ||ad.setn.com^
 ||ubas.setn.com^
@@ -100,6 +102,9 @@ _ads.html?
 ://analytics.*.com/api/event
 /cdn-cgi/speculation
 /popup/adblock/promo/banner/
+.com/api/v1/mediation/tracking?adUnit=
+.com/api/models/
+.com/wp-content/plugins/ai-share-summarize/
 .com/1987.js
 .com/google.js
 .com/js/ad-provider.js
@@ -140,6 +145,7 @@ _ads.html?
 /loading.gif
 /loading.jpg
 ||nibuaideren.icu/*.gif
+||qy0.ru/*.gif
 
 ! 112pm
 ||112pm.com/okle/js1/
@@ -210,6 +216,7 @@ m.bilibili.com##.fixed-openapp
 
 ! bing
 @@||bing.com/fd/ls/GLinkPing.aspx?
+||ts1.tc.mm.bing.net^
 bing.com###bnp_rich_div
 
 ! cna
@@ -262,6 +269,9 @@ haijiaoshipin.com###popup-mask
 ||www.hanguomanhua.me/style2/001.gif
 ||www.hanguomanhua.me/style2/fc.js
 
+! hanmanjd
+|https://hanmanjd.org/jt.php?
+
 ! happymh
 ||m.happymh.com/static/media/
 ||m.happymh.com/styles/friendAds.
@@ -287,6 +297,11 @@ juejin.cn##.open-button
 
 ! mhjia
 |https://mhjia.com/js/foot.js?
+
+! msn
+||browser.events.data.msn.cn/OneCollector/
+||browser.events.data.msn.com/OneCollector/
+||srtb.msn.cn/notify/
 
 ! mydrivers
 ||11.mydrivers.com/common/js/trimpath-template-
@@ -353,6 +368,9 @@ sspai.com###btn-call-app
 ! startpage
 www.startpage.com##.mobile-app-promo-banner
 
+! storm.mg
+||storm.mg/api/logs/
+
 ! tieba
 ||tb3.bdstatic.com/uniapp/static/icon/
 |https://*.baidu.com/mo/q/getUpConfigData?
@@ -371,6 +389,11 @@ www.txrjy.com###tryOpenApp
 ! veryim
 ||link.mzlinks.com/js/*.manhua
 ||www.veryim.com/js/z.manhua
+
+! wnacg
+||wnacg.com/game/
+||wnacg.com/themes/mo/images/domain.js
+||wnacg.com/themes/mo/images/int_bg.png
 
 ! xchina
 /scripts/push.js?
