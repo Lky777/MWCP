@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202601081929
-! Last modified: 08 Jan 2026 19:29 UTC
+! Version: 202601091928
+! Last modified: 09 Jan 2026 19:28 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -157,7 +157,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 -universal-analytics/
 -web-advert-$image
 -wrapper-analytics-prod.cloudfunctions.net/
-.*.*.com/papi/$third-party
 .012*sop.xyz/$script,xmlhttprequest,third-party
 .1.1.1.l80.js^$third-party
 .120x600.
@@ -338,10 +337,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/myjs/alljs.js
 .com/myjs/mys_alljs.js
 .com/on.js$third-party
-.com/papi/*/327/
-.com/papi/*/456/
 .com/piaozi/*.js
-.com/players/*/-1/70/$script,third-party
 .com/public/js/duileft.js
 .com/public/js/duiright.js
 .com/qxads/
@@ -5797,6 +5793,9 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 :8888/zhu/wap_
 :8891/v*/$script,third-party
 :8898/ads_
+:900*/d/*n=$script,third-party
+:900*/d/*t=$script,third-party
+:900*/sc/*n=$script,third-party
 :9001/code/
 :9875/vh2/
 :9875/vj2/
@@ -8781,6 +8780,7 @@ yydstxt*.com/js/html
 ||2osq127yy.com^
 ||2owlsmonch.com^
 ||2plyr.com^
+||2pqma2nuv.com^
 ||2qj7mq3w4uxe.com^$popup
 ||2r1jqii2c.com^
 ||2r69dkb1a.com^
@@ -9223,6 +9223,7 @@ yydstxt*.com/js/html
 ||51dh.xin^
 ||51dongshi.com^
 ||51dongshi.net^
+||51dxs.com^
 ||51fanli.net/misc/images/invite-v4/banner.gif
 ||51fuman.com^
 ||51gowan.com^
@@ -9644,6 +9645,7 @@ yydstxt*.com/js/html
 ||76fengyun.com/70070.gif
 ||76fengyun.com/jsa/
 ||76fengyun.com/vip.php$popup
+||76qrln0bb.com^
 ||76wmm.com:8888/js
 ||77.162.125.199^
 ||775mz.com/js/jquery.js
@@ -10050,6 +10052,7 @@ yydstxt*.com/js/html
 ||9clasfdc3.com^
 ||9cwcu1574.com^
 ||9dizhi.com^
+||9dl3w12u5.com^
 ||9dnymh.com^
 ||9drr67evm.com^
 ||9duw.com/js/sj
@@ -11322,6 +11325,7 @@ yydstxt*.com/js/html
 ||adwstats.com^$third-party
 ||adx-exchange.toast.com^
 ||adx-t.com^$popup
+||adx.fulcrum.com.fj^
 ||adx.io^$popup,third-party
 ||adx.mala.cn^
 ||adx.opera.com^
@@ -13079,6 +13083,7 @@ yydstxt*.com/js/html
 ||as2.wenku.baidu.com/$subdocument
 ||as215638.net^
 ||as29550.net^
+||as3.hotasiangirl.xyz^
 ||as5b7.net^
 ||as61049.net^
 ||as7akp.cn^
@@ -15602,6 +15607,8 @@ yydstxt*.com/js/html
 ||bugs01070ko.com^
 ||bugs01071ko.com^
 ||bugs01080ko.com^
+||bugs01090ko.com^
+||bugs01091ko.com^
 ||bugsfighter.com/wp-content/uploads/2020/07/malwarebytes-banner.jpg
 ||bugsnag.com^$third-party
 ||bugsnag.shopbop.amazon.dev^
@@ -17700,6 +17707,7 @@ yydstxt*.com/js/html
 ||collector.megaxh.com^
 ||collector.net-logger.com^
 ||collector.pi.spectrum.net^
+||collector.pmc.com^
 ||collector.quillbot.com^
 ||collector.spankbang.party^
 ||collector.sspinc.io^
@@ -20728,6 +20736,7 @@ yydstxt*.com/js/html
 ||dkc63u5su8.com^
 ||dkfjlkgjbhbv.com^
 ||dkgp834o9n8xl.cloudfront.net^
+||dkhtmc7ko8puc.cloudfront.net^
 ||dklhflksd.com^
 ||dklnxtcj.icu^
 ||dklvhfrnvr.com^
@@ -21147,6 +21156,7 @@ yydstxt*.com/js/html
 ||dqnajb.icu^
 ||dqv45r33u0ltv.cloudfront.net^
 ||dqzsteel.com/website/image/index/ytgg.gif
+||dqzuroorrt.com^
 ||dr-imperiale.com^
 ||dr3k6qonw2kee.cloudfront.net^
 ||dr6su5ow3i7eo.cloudfront.net^
@@ -24333,6 +24343,7 @@ yydstxt*.com/js/html
 ||g33ktr4ck.com^$popup
 ||g3f3.com/love/
 ||g3ksll1y.xyz^
+||g3m92egwo.com^
 ||g4kwve.com^
 ||g4scash360.com^
 ||g4yk4cyyw.com^
@@ -25896,6 +25907,7 @@ yydstxt*.com/js/html
 ||h1.cfxinxi.cn^
 ||h1.kukuw.com^
 ||h1.wk2.com^
+||h1yfrt.com^
 ||h2porn.com/new-hit/?
 ||h353.ncadvertiser.com^
 ||h3d.fun^
@@ -30083,6 +30095,7 @@ yydstxt*.com/js/html
 ||kystfort.com^
 ||kyxld.com^
 ||kzac51-resources.com^
+||kzi6mbwbk.com^
 ||kziti.com^
 ||kzsiok.com^
 ||kzt2afc1rp52.com^$popup
@@ -30104,6 +30117,7 @@ yydstxt*.com/js/html
 ||l1qu1d.net^
 ||l2.io^$third-party
 ||l235cj20z.com^
+||l4otxc.com^
 ||l4s.love4porn.com^
 ||l5id.com^
 ||l5pzbzfnjm.com^
@@ -31937,6 +31951,8 @@ yydstxt*.com/js/html
 ||mcc-tags.cisco.com^
 ||mcc.godaddy.com/park/
 ||mccdn.me/assets/js/widget.js
+||mcdonalds.com/tags/js/*/mparticle.js
+||mcdonalds.com/webevents/
 ||mcdougallshome.net^
 ||mcdp-*.outbrain.com^
 ||mcfstats.com^$popup
@@ -35058,6 +35074,7 @@ yydstxt*.com/js/html
 ||operafootball.com^
 ||operamini.com^
 ||operarymishear.store^$popup
+||operetta17.com^
 ||opexsupplies.com^
 ||ophan.theguardian.com^
 ||ophoacit.com^$popup
@@ -35832,6 +35849,7 @@ yydstxt*.com/js/html
 ||pdzagrsme.com^
 ||peakd.com^
 ||peaknatural.com^
+||pealefe.com^
 ||pearlsocialsb.com^
 ||pearlysweepoverface.com^$popup
 ||pearsoneltusa.com^
@@ -36099,6 +36117,7 @@ yydstxt*.com/js/html
 ||pianistguttate.com^
 ||piano.io/api/v3/customform/log/impression
 ||piano.io/tracker/
+||pianola76.com^
 ||pianyuan.org/zfb.
 ||piaodown.com/xtm/
 ||piaohua.com/js/yzz/$script
@@ -38113,6 +38132,7 @@ yydstxt*.com/js/html
 ||r5gcp9.com^
 ||r5twojylmzsym.top^
 ||r6q4mtfno.com^
+||r6yigjfvp.com^
 ||r7ls.net^$third-party
 ||r7n.cn^
 ||r7tqkqrvuz.com^
@@ -45475,6 +45495,7 @@ yydstxt*.com/js/html
 ||v7n.com^
 ||v84tz11w7.com^
 ||v8fqqw.com^
+||v8j1rkai1.com^
 ||v92.net^
 ||v9pj.com^
 ||va-endpoint.com^$third-party
@@ -46371,6 +46392,7 @@ yydstxt*.com/js/html
 ||w505cb.cc^
 ||w51t.com^$subdocument
 ||w537a7.cc^
+||w58547.cc^
 ||w58ce6.cc^
 ||w5bi16f3co.com^
 ||w5ftl8bhu3.com^
@@ -48835,6 +48857,7 @@ yydstxt*.com/js/html
 ||yy18.info^*thanks$popup
 ||yy8090.vip/js/abc/
 ||yy8fgl2bdv.com^$popup
+||yyax.cn^
 ||yydsxs.com/js/cnzzpiao.
 ||yydsxs.com/js/guding.
 ||yyetss.com/static/modal.js
