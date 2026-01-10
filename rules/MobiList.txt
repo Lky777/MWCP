@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202601091928
-! Last modified: 09 Jan 2026 19:28 UTC
+! Version: 202601101924
+! Last modified: 10 Jan 2026 19:24 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -7087,8 +7087,8 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||pagead2.googlesyndication.com/pagead/*/show_ads_impl$domain=bilinovel.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl$domain=ff14angler.com|logi.im
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=doitwell.tw
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=akashio.com|1991421.cn|kantie.org|kejilion.pro|bilinovel.com|mcappx.com|yeeach.com|blog.6ziz.com|docsmall.com|uiadmin.net|4horlover.com|23qb.net|4spaces.org|aboluowang.com|assbbs.com|chaojizhibo.net|chtoen.com|daxiaamu.com|demo.ama.pub|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|fsbot.xyz|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|mens1069.com|monnsutogatya.com|mpyit.com|myqqjd.com|numberempire.com|ozabc.com|pansearch.me|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wandhi.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org|yummy.best|zaixianjisuan.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=allb.game-db.tw|battlecats-db.com|cpu-world.com|game.anymanager.io|games.wkb.jp|html5.gamedistribution.com|knowfacts.info|lacoste.com|megagames.com|megaleech.us|newson.us|radioviainternet.nl|real-sports.jp|slideplayer.com|sudokugame.org|tampermonkey.net|thefreedictionary.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=tt1069.com|akashio.com|1991421.cn|kantie.org|kejilion.pro|bilinovel.com|mcappx.com|yeeach.com|blog.6ziz.com|docsmall.com|uiadmin.net|4horlover.com|23qb.net|4spaces.org|aboluowang.com|assbbs.com|chaojizhibo.net|chtoen.com|daxiaamu.com|demo.ama.pub|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|fsbot.xyz|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|mens1069.com|monnsutogatya.com|mpyit.com|myqqjd.com|numberempire.com|ozabc.com|pansearch.me|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wandhi.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org|yummy.best|zaixianjisuan.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=duelmeta.com|linetv.tw|liout.com|moneysave.info|raenonx.cc|zxmee.com
 @@||pagead2.googlesyndication.com/pagead/js/google_top_exp.js$domain=ebb.io
 @@||pagead2.googlesyndication.com/pagead/managed/js/*/show_ads_impl$script,domain=battlecats-db.com|game.anymanager.io|games.wkb.jp|sudokugame.org
@@ -8757,6 +8757,7 @@ yydstxt*.com/js/html
 ||2d4f.com/love/
 ||2dehands.com^
 ||2dgalleries.com^
+||2e4xnyfeae.com^
 ||2euqnxt25.com^
 ||2ghub.com^
 ||2hhgg.com^
@@ -9637,6 +9638,7 @@ yydstxt*.com/js/html
 ||75ossyemu.com^
 ||75rakcovr.com^
 ||7606b66bee.com^
+||7649s7szsu.com^
 ||766api.com^
 ||766cdn.com^
 ||766lnwfo7h.com^
@@ -9728,6 +9730,7 @@ yydstxt*.com/js/html
 ||7moor.com^$third-party
 ||7mts.com^
 ||7mxn77h4vr.com^
+||7nb71ub2xi.com^
 ||7o2l520r0a.com^
 ||7p5ruxflv0.com^
 ||7post.com^
@@ -12567,6 +12570,7 @@ yydstxt*.com/js/html
 ||anode67.top^
 ||anon-stats.eff.org^
 ||anoneko.com^*.*?$image
+||anonm.io^$third-party
 ||anonymised.io^$third-party
 ||anonymster.com^
 ||anootha.com^
@@ -15449,6 +15453,7 @@ yydstxt*.com/js/html
 ||bridgewell.com^
 ||briefcase95.com^
 ||brieflizard.com^$popup
+||briefly.co.za/banners/
 ||brightadnetwork.com^
 ||brightadnetwork.com^$popup
 ||brightdata.com^$third-party
@@ -15609,6 +15614,8 @@ yydstxt*.com/js/html
 ||bugs01080ko.com^
 ||bugs01090ko.com^
 ||bugs01091ko.com^
+||bugs01100ko.com^
+||bugs01101ko.com^
 ||bugsfighter.com/wp-content/uploads/2020/07/malwarebytes-banner.jpg
 ||bugsnag.com^$third-party
 ||bugsnag.shopbop.amazon.dev^
@@ -17798,6 +17805,7 @@ yydstxt*.com/js/html
 ||come-get-s0me.net^$popup
 ||come4buy.com^
 ||comedearthmonthchallenge.com^
+||comedy34.com^
 ||comefromchina.com/images/128bestbuy
 ||comefromchina.com^
 ||comeon.com/tracking.php
@@ -18163,6 +18171,7 @@ yydstxt*.com/js/html
 ||cozyhomefurniture.com^
 ||cozylacal.com^
 ||cp.7y7.com^
+||cp.filext.com^
 ||cp.jfcdns.com^
 ||cp.official-coupons.com^
 ||cp.official-deals.co.uk^
@@ -21651,6 +21660,7 @@ yydstxt*.com/js/html
 ||e23.cn/js/aaa.js
 ||e26fr9qb4m.com^
 ||e2elog.fetnet.net^
+||e2icbtrs1g.com^
 ||e2jda3h01.com^
 ||e2ma.net/track/
 ||e3c7.com/dh/
@@ -22845,6 +22855,7 @@ yydstxt*.com/js/html
 ||f.cdngeek.com^$domain=edugeek.net
 ||f.email.bjs.com^*/1x2.gif
 ||f.pie.org^
+||f0zvx9koy3.com^
 ||f1.06ps.com^
 ||f1.ichong123.com^
 ||f1.pig66.com^
@@ -25101,6 +25112,7 @@ yydstxt*.com/js/html
 ||gleam.io^$script,third-party
 ||glersakr.com^$popup
 ||glersooy.net^$popup
+||glevvoqy.com^
 ||gliacloud.com/player/adgeek_teep
 ||glimmerstacktwist.com^
 ||glimpsemankind.com^$popup
@@ -26390,6 +26402,7 @@ yydstxt*.com/js/html
 ||hi.hellobar.com^
 ||hi.xiunm.cn^
 ||hi.xiunm.com^
+||hi2pv3e9pr.com^
 ||hi407ezyz.com^
 ||hi4c61mi8d.com^
 ||hiad.myweb.hinet.net^
@@ -27884,6 +27897,7 @@ yydstxt*.com/js/html
 ||indicia.com^$third-party
 ||indiegogo.com/speclayer/stdfp.js
 ||indifferentlanguages.com^
+||indigitall.com/v1/browser?
 ||indigo-nails.com^
 ||indigorenderer.com^
 ||indiscreetarcadia.com^$popup
@@ -29650,6 +29664,7 @@ yydstxt*.com/js/html
 ||key8.com/cache/www/banner_
 ||keyade.com^$third-party
 ||keyakijyuken.net^
+||keyboard88.top^
 ||keydatadashboard.com^
 ||keyes.com^
 ||keymetric.net^$third-party
@@ -29670,6 +29685,7 @@ yydstxt*.com/js/html
 ||kfvq.cn^
 ||kg5rnm9trk.com^
 ||kgcfsasp.com^
+||kgdp030vm1.com^
 ||kgfjrb711.com^$popup
 ||kgimg.com/public/root//images/hardware.jpg
 ||kgium2940637fafa.com^
@@ -32346,6 +32362,7 @@ yydstxt*.com/js/html
 ||mg.32r.com^
 ||mg.glwxw.net^
 ||mg188.cn^
+||mgaru.dev^$third-party
 ||mgbethd.com^
 ||mgfikuktpi.com^
 ||mghezaxh.com^
@@ -37546,6 +37563,7 @@ yydstxt*.com/js/html
 ||py.cn/static/images/advert/
 ||pylon.micstatic.com^
 ||pymx5.com^$third-party
+||pyntbz.icu^
 ||pyonbrj41b.com^
 ||pyrfpb.icu^
 ||pyrwsaeth.com^
@@ -39326,6 +39344,7 @@ yydstxt*.com/js/html
 ||rvkhazel.com^
 ||rvnblockexplorer.com^
 ||rvo-cohesion.healthline.com^
+||rvr3psha.xyz^
 ||rvrl1srlq.com^
 ||rvrpushserv.com^$popup
 ||rvt.com^
@@ -39426,6 +39445,7 @@ yydstxt*.com/js/html
 ||s1.wesiedu.com^
 ||s1.wp.com^$subdocument,third-party
 ||s11.cn^$third-party
+||s1918.cc^
 ||s20dh7e9dh.com^$popup
 ||s2c5n1o1d2e4.com^
 ||s2stracking.com^
@@ -42792,6 +42812,7 @@ yydstxt*.com/js/html
 ||tatayab.com^
 ||tatlgroup.com^
 ||tatrck.com^$popup
+||taunphoik.com^
 ||tauriwow.com^
 ||tawk.to^$third-party
 ||taxidrivermovie.com^$~third-party,xmlhttprequest
@@ -46464,6 +46485,7 @@ yydstxt*.com/js/html
 ||wanderworldwonders.com^
 ||wandhi.com/img/
 ||wandouys.com/runtime/js/
+||wandzcdn.com^$third-party
 ||wane.com^
 ||wanfumei.net^$third-party
 ||wangbase.com/blogimg/asset/201806/bg2018060604.jpg
@@ -48311,6 +48333,7 @@ yydstxt*.com/js/html
 ||yaudience.com^$third-party
 ||yavli.com^$popup
 ||yazts2940637fafa.com^
+||yb2es1rd82.com^
 ||yb8xge8jmj.com^
 ||ybb-network.com^$popup
 ||ybbreqrake.com^
@@ -48697,6 +48720,7 @@ yydstxt*.com/js/html
 ||yqqv.cn^
 ||yqrsdfh.top^
 ||yqshuw.com^
+||yqsu.cn^
 ||yqugcnciju.net^
 ||yqxxs.com^
 ||yr2spd4ucy.com^
