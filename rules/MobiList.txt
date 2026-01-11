@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202601101924
-! Last modified: 10 Jan 2026 19:24 UTC
+! Version: 202601111924
+! Last modified: 11 Jan 2026 19:24 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -5802,7 +5802,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 =300x250/
 =336x280,
 =468x60/
-=468x60_
 =468x80_
 =728x90/
 =ad_top_slider&
@@ -7858,6 +7857,7 @@ webcert.cnmstl.net
 wrating.com
 ws://*/api/wss/getnotreadcount$third-party
 wss://*.*.top/$third-party
+wss://*.com:29*/$third-party
 wss://*.top/|
 wss://*.xyz:*?e=$third-party
 wss://*.xyz:*?x=$third-party
@@ -8022,6 +8022,7 @@ yydstxt*.com/js/html
 ||0dee724991ddef2cb61d3cbc98952dbd9d54c8b34c403cf3fc75f0fb.com^
 ||0diups1rj4.com^
 ||0e1y8x7ft.com^
+||0e9knynfb.com^
 ||0emm.com^$third-party
 ||0ff6b7.com^
 ||0ghwbi.com^
@@ -8477,6 +8478,7 @@ yydstxt*.com/js/html
 ||1kiaxb3kl.com^
 ||1kkk.com^
 ||1km.net^
+||1ko8eg0c4.com^
 ||1l1.cc^
 ||1l27pkxp5w.com^
 ||1linshop.com^
@@ -9639,6 +9641,7 @@ yydstxt*.com/js/html
 ||75rakcovr.com^
 ||7606b66bee.com^
 ||7649s7szsu.com^
+||765f76kcx.com^
 ||766api.com^
 ||766cdn.com^
 ||766lnwfo7h.com^
@@ -10079,6 +10082,7 @@ yydstxt*.com/js/html
 ||9j3pwdsa4cp.com^
 ||9j9gc694o4.com^
 ||9j9n6t3n8w.top^
+||9jk7puqza.com^
 ||9jsp.com/pay.png
 ||9k9k.com/jscode/js/
 ||9kp.cc/js/bbk/
@@ -10375,6 +10379,7 @@ yydstxt*.com/js/html
 ||abillion.com^
 ||abiyefon.com^
 ||abl.com^
+||ablecdp.com^$third-party
 ||ablogica.com^$popup
 ||ablsrv.com^$third-party
 ||ablyft.com^$third-party
@@ -12387,6 +12392,7 @@ yydstxt*.com/js/html
 ||analytics.mouthshut.com^
 ||analytics.myfidevs.io^
 ||analytics.myfinance.com^
+||analytics.netronline.dev^
 ||analytics.newscred.com^
 ||analytics.nike.com^
 ||analytics.oceanengine.com^
@@ -15616,6 +15622,8 @@ yydstxt*.com/js/html
 ||bugs01091ko.com^
 ||bugs01100ko.com^
 ||bugs01101ko.com^
+||bugs01110ko.com^
+||bugs01111ko.com^
 ||bugsfighter.com/wp-content/uploads/2020/07/malwarebytes-banner.jpg
 ||bugsnag.com^$third-party
 ||bugsnag.shopbop.amazon.dev^
@@ -16392,6 +16400,7 @@ yydstxt*.com/js/html
 ||cdn.tapioni.com/adgpt.js
 ||cdn.thejournal.ie/media/hpto/$image
 ||cdn.throatbulge.com^
+||cdn.tolt.io/tolt.js
 ||cdn.tsyndicate.com^
 ||cdn.turboviplay.com/ads.js
 ||cdn.usefathom.com^
@@ -18900,6 +18909,7 @@ yydstxt*.com/js/html
 ||d1mbihpm2gncx7.cloudfront.net^
 ||d1mcwmzol446xa.cloudfront.net^
 ||d1mikxzr3lp4va.cloudfront.net^
+||d1mkq4fbm7j30i.cloudfront.net^
 ||d1my7gmbyaxdyn.cloudfront.net^
 ||d1myn4ixnn41tz.cloudfront.net^
 ||d1n00d49gkbray.cloudfront.net^
@@ -18957,6 +18967,7 @@ yydstxt*.com/js/html
 ||d1rguclfwp7nc8.cloudfront.net^
 ||d1rkd1d0jv6skn.cloudfront.net^
 ||d1rkf0bq85yx06.cloudfront.net^
+||d1rnejrnt2c4br.cloudfront.net^
 ||d1rnknz34k1ko0.cloudfront.net^
 ||d1ros97qkrwjf5.cloudfront.net^
 ||d1rp4yowwe587e.cloudfront.net^
@@ -19224,6 +19235,7 @@ yydstxt*.com/js/html
 ||d2jtzjb71xckmj.cloudfront.net^
 ||d2juccxzu13rax.cloudfront.net^
 ||d2jw88zdm5mi8i.cloudfront.net^
+||d2jycu2xjxmle1.cloudfront.net^
 ||d2k487jakgs1mb.cloudfront.net^
 ||d2k7b1tjy36ro0.cloudfront.net^
 ||d2k7gvkt8o1fo8.cloudfront.net^
@@ -19260,6 +19272,7 @@ yydstxt*.com/js/html
 ||d2muzdhs7lpmo0.cloudfront.net^
 ||d2mw3lu2jj5laf.cloudfront.net^
 ||d2n2qdkjbbe2l7.cloudfront.net^
+||d2n5v45616cm6u.cloudfront.net^
 ||d2na2p72vtqyok.cloudfront.net^
 ||d2nin2iqst0txp.cloudfront.net^
 ||d2nlytvx51ywh9.cloudfront.net^
@@ -19498,6 +19511,7 @@ yydstxt*.com/js/html
 ||d3dq1nh1l1pzqy.cloudfront.net^
 ||d3ea0dyj1ehgcr.cloudfront.net^
 ||d3ec0pbimicc4r.cloudfront.net^
+||d3edfxwiftnsxy.cloudfront.net^
 ||d3efeah7vk80fy.cloudfront.net^
 ||d3ej838ds58re9.cloudfront.net^
 ||d3ejxyz09ctey7.cloudfront.net^
@@ -19673,6 +19687,7 @@ yydstxt*.com/js/html
 ||d41j1hzuhqg2.cloudfront.net^
 ||d4ax0r5detcsu.cloudfront.net^
 ||d4bt5tknhzghh.cloudfront.net^
+||d4bx2if8xmi89.cloudfront.net^
 ||d4donline.com^
 ||d4eqyxjqusvjj.cloudfront.net^
 ||d4m1o1.com^
@@ -20769,6 +20784,7 @@ yydstxt*.com/js/html
 ||dl1234.com^
 ||dl1d2m8ri9v3j.cloudfront.net^
 ||dl37p9e5e1vn0.cloudfront.net^
+||dl4d3y1ajyv3q.cloudfront.net^
 ||dl59007.bj.bcebos.com^
 ||dl5ft52dtazxd.cloudfront.net^
 ||dlacroonomic66.com^
@@ -21520,6 +21536,7 @@ yydstxt*.com/js/html
 ||dxy.net^
 ||dxy63665563.com^
 ||dxz454z33ibrc.cloudfront.net^
+||dxzgwti.com^
 ||dy116999.com^
 ||dy126999.com^
 ||dy2018.com/js/tj.js
@@ -25070,6 +25087,7 @@ yydstxt*.com/js/html
 ||gkkmobile.com^
 ||gkloot.com^
 ||gkrtmc.com^$popup
+||gkuresx.com^
 ||gkvrdf.com^
 ||gkzhan.com^
 ||glacier32.com^
@@ -26065,6 +26083,7 @@ yydstxt*.com/js/html
 ||harmony573.top^
 ||harna-app.com^
 ||harplonkhq.com^
+||harpsichord34.com^
 ||harrowliquid.com^$popup
 ||harryrosen.com/analytics/
 ||harvest.graindata.com^
@@ -27098,6 +27117,7 @@ yydstxt*.com/js/html
 ||hupu.com/_dace.gif?
 ||hupu.com^*/interfacead/
 ||hupu.com^*/stream.js
+||huqraedu.com^
 ||hur.cn/ahurd/*.gif
 ||hur05071kns.com^
 ||hur05101kns.com^
@@ -29970,6 +29990,7 @@ yydstxt*.com/js/html
 ||kraftads.com^
 ||krastrading.com^
 ||krcgtv.com^
+||kreirkaer.com^
 ||kreviton.xyz^
 ||krevn0cq4.com^
 ||krirkroins.com^
@@ -30035,6 +30056,7 @@ yydstxt*.com/js/html
 ||kuheju.com^$popup
 ||kuiv.cn^
 ||kuk8.com^$third-party
+||kukanmanhua.cyou^
 ||kuke99.com/static/home/js/index/index.js
 ||kuku99.com^$third-party
 ||kulezito.xyz^
@@ -32047,6 +32069,7 @@ yydstxt*.com/js/html
 ||media.max.com/*/dash.mpd^$domain=cnn.com
 ||media.max.com/*/main.mpd^$domain=cnn.com
 ||media.mykodial.com^$third-party
+||media.net^$third-party
 ||media.netrefer.com^
 ||media.tickertape.in/websdk/*/ad.js
 ||media.vivaclix.com^
@@ -35740,6 +35763,7 @@ yydstxt*.com/js/html
 ||paypal.com/webapps/mch/cmd/?
 ||paypal.com/xoplatform/logger/api/logger
 ||paypal.com^*/pixel.gif$third-party
+||paypalobjects.com/web/res/*/js/ad.js
 ||paypalobjects.com^*/pixel.gif
 ||paypayhh55.com^
 ||paypointcyprus.com^
@@ -38592,6 +38616,7 @@ yydstxt*.com/js/html
 ||registration09.top^
 ||regulushamal.top^$popup
 ||rehasense.com^
+||rehearsal55.top^
 ||rehold.com^
 ||rehvbghwe.cc^$popup
 ||rei.com/customer-analytics-attributes/
@@ -43984,6 +44009,7 @@ yydstxt*.com/js/html
 ||track.yfret.com^
 ||track.yieldsoftware.com^
 ||track.zappos.com^
+||track1.avplayer.com^
 ||track4ref.com^$popup
 ||track718.net^
 ||trackabcd.com^
@@ -44922,6 +44948,7 @@ yydstxt*.com/js/html
 ||u7y.pw^
 ||u83.xyz^
 ||u833ij.com^
+||u8rnuky6e.com^
 ||u927.sfgate.com^
 ||ua-cam.com^
 ||ua.financialexpress.com/api/capture
@@ -45465,6 +45492,7 @@ yydstxt*.com/js/html
 ||uxfa.cn^
 ||uxlxel.com^
 ||uxmatters.com/images/sponsors/
+||uxtlrah.com^
 ||uxx1sawfwm.com^
 ||uxxux.com/js/zd.js
 ||uxzaxumozp.net^
@@ -45730,12 +45758,14 @@ yydstxt*.com/js/html
 ||vfgte.com^$popup
 ||vfgtg.com^$popup
 ||vfjxvt.icu^
+||vfnq.cn^
 ||vfreecams.com^$third-party
 ||vfsb.cn^
 ||vftq.cn^
 ||vftrfmia.icu^
 ||vfuke.net^
 ||vfw38329sh.com^
+||vfymgla.com^
 ||vg247-uk.vg247.com^
 ||vgao.xyz/images/*.gif
 ||vgfj.cn^
@@ -46179,6 +46209,7 @@ yydstxt*.com/js/html
 ||voicelinkhub.net^
 ||voicewave.xyz^
 ||voitaky.com^
+||vojolj.icu^
 ||vokut.com^$popup
 ||volantix.com^$third-party
 ||volcano98.com^
@@ -48540,6 +48571,7 @@ yydstxt*.com/js/html
 ||yjcf360.com/ad.
 ||yjcf360.com^
 ||yjdxzksqp.com^
+||yjigiv1ic.com^
 ||yjnlk.com^
 ||yjoydej.xyz^
 ||yjoyse.icu^
@@ -49122,6 +49154,7 @@ yydstxt*.com/js/html
 ||zgm1.com^
 ||zgo8rgvuaf.com^
 ||zgostar.com^
+||zgqsc3shr.com^
 ||zgsocks.com^
 ||zgzxm.weathercn.com^
 ||zgzzzx.com^
@@ -49316,6 +49349,7 @@ yydstxt*.com/js/html
 ||zmero.com^
 ||zmescience.com/o5ate4zbho8.js
 ||zmk.pw/zfb.png
+||zmk852tp7.com^
 ||zmkp6jvq4.com^
 ||zmovies.cc/e3cf74305b.php
 ||zmpgln.icu^
