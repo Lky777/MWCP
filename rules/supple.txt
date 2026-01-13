@@ -8,7 +8,11 @@
 ! .A1
 ||apologiesoccursdepressed.com^
 ||baocps.com^
+||faayuuk.icu^
 ||ee555aa888.com^
+||jgxohmdr.icu^
+||ojkandwaza.com^
+||qzybazja.com^
 ||su0k43kcy.com^
 
 ! .B1
@@ -41,6 +45,7 @@
 ||oss-cn-hangzhou.aliyuncs.com^$third-party
 ||oss-cn-hongkong.aliyuncs.com^$third-party
 ||s3.ap-east-1.amazonaws.com^$third-party
+||hmcdn.baidu.com^
 ||miaowu.baidu.com^
 ||dl59007.bj.bcebos.com^
 ||tags.bluekai.com^
@@ -96,14 +101,18 @@
 .com:8007/sc/*?*=
 .com:8007/d/*?*=
 .com:8008/d/*?*=
+.com/api/v1/mediation/tracking?adUnit=
+.com/jserror?type=
 .xyz:8283/home?channel=
+.xyz/jt.php?
 /1x1.
 _ads.html?
 ://analytics.*.com/api/event
 /cdn-cgi/speculation
 /popup/adblock/promo/banner/
-.com/api/v1/mediation/tracking?adUnit=
 .com/api/models/
+.com/static/image/
+.com/static/video/bn/
 .com/wp-content/plugins/ai-share-summarize/
 .com/1987.js
 .com/google.js
@@ -146,6 +155,11 @@ _ads.html?
 /loading.jpg
 ||nibuaideren.icu/*.gif
 ||qy0.ru/*.gif
+||rzpsrl.cn/imc/*.gif
+!
+! ========== Ele blocking ==========
+kuaidi100.com##.index__download-box
+smzdm.com##.damo-footer-open-app
 
 ! 112pm
 ||112pm.com/okle/js1/
@@ -170,6 +184,7 @@ _ads.html?
 /templates/frontend/airav/css/2025-headerRWD.css
 /templates/frontend/airav/css/style_blog.css?
 /templates/frontend/airav/css/style_game.css?
+://18comic.*/templates/frontend/airav/js/*_*.js
 ||18comic.*/media/blog/blank.jpg
 ||18comic.*/static/resources/files/*.gif
 ||18comic.*/static/resources/images/*.gif
@@ -184,15 +199,12 @@ _ads.html?
 ||91porna.com/static/web/css/lib/zui.css
 
 ! 91porny
-91porny.com##.mobile-jsv
 
 ! 99re
 |https://www.99re.com/player/html.php?
 
 ! a2zapk
 |https://a2zapk.io/js/apk2019.js?
-a2zapk.io###modalpop
-a2zapk.io###modalpop-content
 
 ! apkpure
 ||a.cdnpure.com/analytics/
@@ -206,18 +218,15 @@ a2zapk.io###modalpop-content
 
 ! bad.news
 ||bad.news/images/lightbox-blank.gif
-bad.news##.download-app-fixed
 
 ! baidu
 /tb/img/track.gif
 
 ! bilibili
-m.bilibili.com##.fixed-openapp
 
 ! bing
 @@||bing.com/fd/ls/GLinkPing.aspx?
 ||ts1.tc.mm.bing.net^
-bing.com###bnp_rich_div
 
 ! cna
 /img/line-ad-s.jpg?
@@ -225,7 +234,6 @@ bing.com###bnp_rich_div
 ||log.popin.cc^
 ||api.popin.cc/test/
 ||t.ssp.hinet.net/utag.js
-cna.com.tw##.line-ad
 
 ! cnblog
 ||img2024.cnblogs.com/blog/35695/
@@ -246,10 +254,8 @@ cna.com.tw##.line-ad
 ||statistic.csdn.net^
 
 ! ddg
-duckduckgo.com##.js-atb-banner
 
 ! douban
-douban.com##.talion-nav-footer
 
 ! eporner
 ||eporner.com/getadb/
@@ -261,7 +267,6 @@ douban.com##.talion-nav-footer
 
 ! haijiaoshipin
 |https://www.haijiaoshipin.com/build/assets/popup-
-haijiaoshipin.com###popup-mask
 
 ! hanguomanhua
 ||img.hanguomanhua.me/style2/Loading200x200.png
@@ -275,22 +280,17 @@ haijiaoshipin.com###popup-mask
 ! happymh
 ||m.happymh.com/static/media/
 ||m.happymh.com/styles/friendAds.
-m.happymh.com###layui-m-layer0
 
 ! heiliao
 |https://heiliao.com/index/statistics_common
 ||d1bkj2yip30514.cloudfront.net/static/pc/icons/
-d1bkj2yip30514.cloudfront.net##.slider-wrapper
-heiliao.com##.slider-wrapper
 
 ! huxiu
-m.huxiu.com##.bottom-open-app-btn-wrap
 
 ! jable
 ||assetscdn.jable.tv/assets/images/uu/
 
 ! juejin
-juejin.cn##.open-button
 
 ! ltn
 ||ltn.com.tw/impression?
@@ -316,7 +316,6 @@ juejin.cn##.open-button
 ||g1.tagtic.cn/v1/xingyou/c/
 
 ! oschina
-oschina.net##div[name="detail_show_footer"]
 
 ! pornbaker
 ||pornbaker.com/wp-json/adblock/
@@ -329,11 +328,9 @@ oschina.net##div[name="detail_show_footer"]
 ! ravenscans
 ||ravenscans.com/wp-content/themes/mangareader/assets/img/btn_close.gif
 ||ravenscans.com/wp-content/themes/mangareader/assets/img/readerarea.svg
-ravenscans.com###teaserbottom
 
 ! reddit
 ||reddit.com/svc/shreddit/perfMetrics
-reddit.com###blocking-modal
 
 ! ruanyifeng
 ||www.ruanyifeng.com/blog/checker.js
@@ -341,15 +338,12 @@ reddit.com###blocking-modal
 
 ! sina
 ||finance.sina.com.cn/api/hq_popup_api.json
-cj.sina.cn##.m-guss-caijing
-sina.cn###float-btn
 
 ! sm
 |https://image.uczzd.cn/?id=
 |https://m.sm.cn/adclick?
 
 ! smzdm
-m.smzdm.com##.damo-footer-open-app
 
 ! smtt
 ||js.mewlxy.com/gg-config.js
@@ -360,15 +354,12 @@ m.smzdm.com##.damo-footer-open-app
 
 ! sohu
 ||*.cdn.sohucs.com/lemon/
-m.sohu.com##.btn
 
 ! sspai
-sspai.com###btn-call-app
 
 ! startpage
-www.startpage.com##.mobile-app-promo-banner
 
-! storm.mg
+! storm
 ||storm.mg/api/logs/
 
 ! tieba
@@ -376,15 +367,12 @@ www.startpage.com##.mobile-app-promo-banner
 |https://*.baidu.com/mo/q/getUpConfigData?
 |https://*.baidu.com/mo/q/getVersionInfo?
 baidu.com/mo/q/recommendpb/
-baidu.com##.btn
 
 ! toutiao
 ||sf3-cdn-tos.toutiaostatic.com/obj/card-platform/
 |https://api.toutiaoapi.com/api/news/feed/v88/?
-m.toutiao.com##.m-bottom
 
 ! txrjy
-www.txrjy.com###tryOpenApp
 
 ! veryim
 ||link.mzlinks.com/js/*.manhua
@@ -410,19 +398,13 @@ www.txrjy.com###tryOpenApp
 |https://8se.me/ajax.php
 |https://xchina.fit/ajax.php
 |https://xchina.co/scripts/push.js?
-8se.me##.block-overlay
-xchina.fit##.block-overlay
-8se.me##.push-top-container
-8se.me##.push-slider
 
 ! xxav
 ||xxav.one/i/app/
 
 ! yeeyi
-yeeyi.com##.openit
 
 ! yfsp
-m.yfsp.tv##.container
 
 ! ytsptv
 ||ytsptv.com/Static/Home/GongGao/img/
