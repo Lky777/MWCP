@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202601131928
-! Last modified: 13 Jan 2026 19:28 UTC
+! Version: 202601141928
+! Last modified: 14 Jan 2026 19:28 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -4738,6 +4738,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /statscounter/
 /statscript.js
 /statsd_proxy
+/statsig-proxy/
 /statsna.js
 /statspage.php
 /statspixel?
@@ -7933,6 +7934,7 @@ yydstxt*.com/js/html
 ||0244912d638a881df23144d8de3170982c31a3869ed761acfd86d188.com^
 ||025yimei.com/templets/default/js/swt.js
 ||027art.com^
+||02exl1ql2l.com^
 ||02wq.com/script/
 ||02wq.com/script1/
 ||03012009.xyz^
@@ -8279,6 +8281,7 @@ yydstxt*.com/js/html
 ||15ftgllk1.com^
 ||15gifts.com^$third-party
 ||15hn.net/data/content
+||15mxfnk6sw.com^
 ||15tianqi.com^$third-party
 ||160.com/statics/statics/js/code_13.js
 ||160.com/statics/statics/js/code_15.js
@@ -8402,6 +8405,7 @@ yydstxt*.com/js/html
 ||18comic.*/static/resources/images/photo(3).jpg
 ||18comic.*/templates/frontend/airav/emoji/emojionearea.css
 ||18hu.link^
+||18mo21a2ji.com^
 ||18naked.com^$third-party
 ||18onlygirls.tv/wp-content/banners/
 ||18porn.sex/ptr18.js
@@ -8470,6 +8474,7 @@ yydstxt*.com/js/html
 ||1mpi.com^
 ||1nb.com^
 ||1nrlydgrr.com^
+||1o0g85u7k1.com^
 ||1paujqtq9.com^
 ||1pel.com^$third-party
 ||1ppt.com/ad$image
@@ -9514,6 +9519,7 @@ yydstxt*.com/js/html
 ||6gbet16.com^
 ||6gbet19.com^
 ||6gbetpay.com^
+||6ggstcmglf.com^
 ||6gvg5saail.com^
 ||6gxs.net/js/
 ||6jei0t6xp.com^
@@ -10213,6 +10219,7 @@ yydstxt*.com/js/html
 ||a5xiazai.com/z/
 ||a6.hujiang.com^$domain=~class.hujiang.com
 ||a64x.com^$popup
+||a6cfvavw1.xyz^
 ||a7nb76.com^
 ||a7wiuh3she.com^
 ||a8.net^$third-party
@@ -12117,6 +12124,7 @@ yydstxt*.com/js/html
 ||amethyst.6pm.com^
 ||amethyst.zappos.com^
 ||amf653.com^
+||amftsawknf.com^
 ||amhib.com^
 ||ami-admin.com^
 ||amiese.com^
@@ -15456,6 +15464,8 @@ yydstxt*.com/js/html
 ||bugs01121ko.com^
 ||bugs01130ko.com^
 ||bugs01131ko.com^
+||bugs01140ko.com^
+||bugs01141ko.com^
 ||bugsfighter.com/wp-content/uploads/2020/07/malwarebytes-banner.jpg
 ||bugsnag.com^$third-party
 ||bugsnag.shopbop.amazon.dev^
@@ -17674,6 +17684,7 @@ yydstxt*.com/js/html
 ||concave88.top^
 ||concealmentmimic.com^$popup
 ||concedederaserskyline.com^$popup
+||conceptualhq.com/api/v1/track?
 ||conceptualhq.com^
 ||concert.io/lookup/
 ||concerty.com^
@@ -18366,6 +18377,7 @@ yydstxt*.com/js/html
 ||currencyconvert.net^
 ||currencyexchangein.com^
 ||currentwavedata.com^
+||cursor.com/analytics/
 ||curtsyapp.com^
 ||curvert.com^
 ||curvyalpaca.cc^$popup
@@ -18514,14 +18526,12 @@ yydstxt*.com/js/html
 ||d12czbu0tltgqq.cloudfront.net^
 ||d12dky1jzngacn.cloudfront.net^
 ||d12e9f83wyj0ww.cloudfront.net^
-||d12llxoeoqg343.cloudfront.net^
 ||d12t7h1bsbq1cs.cloudfront.net^
 ||d12tu1kocp8e8u.cloudfront.net^
 ||d12ylqdkzgcup5.cloudfront.net^
 ||d12zgccgt6pwjz.cloudfront.net^
 ||d133y3h5r255gq.cloudfront.net^
 ||d13gni3sfor862.cloudfront.net^
-||d13i9p5451i433.cloudfront.net^
 ||d13j11nqjt0s84.cloudfront.net^
 ||d13jhr4vol1304.cloudfront.net^
 ||d13k7prax1yi04.cloudfront.net^
@@ -18704,7 +18714,6 @@ yydstxt*.com/js/html
 ||d1lnjzqqshwcwg.cloudfront.net^
 ||d1lo4oi08ke2ex.cloudfront.net^
 ||d1lxhc4jvstzrp.cloudfront.net^
-||d1ly453dyhh7xf.cloudfront.net^
 ||d1m6l9dfulcyw7.cloudfront.net^
 ||d1mahxde95gw5l.cloudfront.net^
 ||d1mar6i7bkj1lr.cloudfront.net^
@@ -18876,7 +18885,6 @@ yydstxt*.com/js/html
 ||d21rudljp9n1rr.cloudfront.net^
 ||d21uxxljl9m8ns.cloudfront.net^
 ||d21y75miwcfqoq.cloudfront.net^
-||d222yr38kqru7v.cloudfront.net^
 ||d223xrf0cqrzzz.cloudfront.net^
 ||d227cncaprzd7y.cloudfront.net^
 ||d227n6rw2vv5cw.cloudfront.net^
@@ -18897,7 +18905,6 @@ yydstxt*.com/js/html
 ||d23guct4biwna6.cloudfront.net^
 ||d23h3o5tkgytgm.cloudfront.net^
 ||d23i0h7d50duv0.cloudfront.net^
-||d23obxyzbkncgu.cloudfront.net^
 ||d23p9gffjvre9v.cloudfront.net^
 ||d23pdhuxarn9w2.cloudfront.net^
 ||d23rx8p5l6yry7.cloudfront.net^
@@ -18998,7 +19005,6 @@ yydstxt*.com/js/html
 ||d2fbvay81k4ji3.cloudfront.net^
 ||d2fhrdu08h12cc.cloudfront.net^
 ||d2fj3s7h83rb61.cloudfront.net
-||d2flxwxbgh2er.cloudfront.net^
 ||d2fmtc7u4dp7b2.cloudfront.net^
 ||d2focgxak1cn74.cloudfront.net^
 ||d2foi16y3n0s3e.cloudfront.net^
@@ -19185,13 +19191,11 @@ yydstxt*.com/js/html
 ||d2zbrsgwxpxcye.cloudfront.net^
 ||d2zcblk8m9mzq5.cloudfront.net^
 ||d2zd0wa1vpt7j9.cloudfront.net^
-||d2zdzxjekh1km6.cloudfront.net^
 ||d2zf5gu5e5mp87.cloudfront.net^
 ||d2zh7okxrw0ix.cloudfront.net^
 ||d2zi8ra5rb7m89.cloudfront.net^
 ||d2zk8mk8hghu3d.cloudfront.net^
 ||d2zrhnhjlfcuhf.cloudfront.net^
-||d2zs9z3hmfhcr6.cloudfront.net^
 ||d2zzazjvlpgmgi.cloudfront.net^
 ||d3-rgr-diva.com^
 ||d3.sina.com.cn/
@@ -19260,7 +19264,6 @@ yydstxt*.com/js/html
 ||d37ax1qs52h69r.cloudfront.net^
 ||d37byya7cvg7qr.cloudfront.net^
 ||d37d9zbli5ytch.cloudfront.net^
-||d37j8pfxu2iogi.cloudfront.net^
 ||d37pempw0ijqri.cloudfront.net^
 ||d37sevptuztre3.cloudfront.net^
 ||d37tb4r0t9g99j.cloudfront.net^
@@ -19314,7 +19317,6 @@ yydstxt*.com/js/html
 ||d3dq1nh1l1pzqy.cloudfront.net^
 ||d3ea0dyj1ehgcr.cloudfront.net^
 ||d3ec0pbimicc4r.cloudfront.net^
-||d3edfxwiftnsxy.cloudfront.net^
 ||d3efeah7vk80fy.cloudfront.net^
 ||d3ej838ds58re9.cloudfront.net^
 ||d3ejxyz09ctey7.cloudfront.net^
@@ -20562,7 +20564,6 @@ yydstxt*.com/js/html
 ||dkc63u5su8.com^
 ||dkfjlkgjbhbv.com^
 ||dkgp834o9n8xl.cloudfront.net^
-||dkhtmc7ko8puc.cloudfront.net^
 ||dklhflksd.com^
 ||dklnxtcj.icu^
 ||dklvhfrnvr.com^
@@ -21382,7 +21383,6 @@ yydstxt*.com/js/html
 ||dzgwautxzdtn9.cloudfront.net^
 ||dzhjmp.com^$popup
 ||dzjzg.com^
-||dzqsslysklwgo.cloudfront.net^
 ||dzr4v2ld8fze2.cloudfront.net^
 ||dzu5p9pd5q24b.cloudfront.net^
 ||dzupi9b81okew.cloudfront.net^
@@ -21588,6 +21588,7 @@ yydstxt*.com/js/html
 ||ebioweb.com/newsf/js/inpic.js
 ||ebioweb.com/newsf/js/news_top_banner.js
 ||eblens.com^
+||eblindap.com^
 ||ebnsina.top^
 ||eboblack.com^
 ||ebony123.com^
@@ -26706,6 +26707,7 @@ yydstxt*.com/js/html
 ||humankindprosecutorinept.com^
 ||humanpresence.app^$third-party
 ||humansecurity.com^
+||humiliatedaboveboardwho.com^
 ||humix.com/video.js
 ||humkt.com^
 ||hummingbird-canyon.com^
@@ -28766,6 +28768,7 @@ yydstxt*.com/js/html
 ||jr5yu01aa.com^
 ||jrblfv.icu^
 ||jrbnxw.top^
+||jrge.cn^
 ||jrj.com.cn/h5ad?
 ||jrj.com.cn/s?z=
 ||jrjimg.cn/common/foot/allfc.js
@@ -28899,6 +28902,7 @@ yydstxt*.com/js/html
 ||jsylianjie5.com^
 ||jsylianjie6.com^
 ||jsylianjie8.com^
+||jsyunjihui.com^
 ||jsyzmkliq.com^
 ||jsztl.com/img/particular/tbyhq.jpg
 ||jszyapi.com^
@@ -30982,6 +30986,7 @@ yydstxt*.com/js/html
 ||lz-cdn.com^
 ||lz-cdn8.com^
 ||lzbao.net/mtvbox.
+||lzbao.net/syster.
 ||lzep.cn/ep/sda/
 ||lzfile26.com^
 ||lzk.hl.cn/lctp/
@@ -40644,6 +40649,7 @@ yydstxt*.com/js/html
 ||sourcesecurity.com^
 ||sourcesync.io/analytics
 ||sourcingbags.com^
+||sourdine34.com^
 ||soureicdn.com^
 ||sourshaped.com^
 ||sousefulhead.com^$popup
@@ -41916,6 +41922,7 @@ yydstxt*.com/js/html
 ||t.fastcmp.com^
 ||t.freelancer.com^
 ||t.fullres.net^
+||t.gazetteer.co^
 ||t.ghostboard.io^
 ||t.goodchop.com^
 ||t.greenbids.ai^
@@ -44904,6 +44911,7 @@ yydstxt*.com/js/html
 ||vastiptest.com^
 ||vasz.cn^
 ||vatrack.hinet.net^
+||vaudeville44.top^
 ||vault.gostatera.com^
 ||vave.com^
 ||vawoo.com^
@@ -47700,6 +47708,7 @@ yydstxt*.com/js/html
 ||yfdpco2.com^
 ||yflieu.cn^
 ||yfminw.cn^
+||yfmwnkd1ti.com^
 ||yfp2p.net^
 ||yg006.com/attachment/js/
 ||yg006.com/attachment/xjdb.jpg
