@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202601151301
-! Last modified: 15 Jan 2026 13:01 UTC
+! Version: 202601151934
+! Last modified: 15 Jan 2026 19:34 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -8010,6 +8010,7 @@ yydstxt*.com/js/html
 ||0dee724991ddef2cb61d3cbc98952dbd9d54c8b34c403cf3fc75f0fb.com^
 ||0diups1rj4.com^
 ||0e1y8x7ft.com^
+||0e7mnbmbb.com^
 ||0e8s.com^
 ||0e9knynfb.com^
 ||0emm.com^$third-party
@@ -9126,6 +9127,7 @@ yydstxt*.com/js/html
 ||4tube.com/assets/padb-
 ||4tube.com/iframe/$third-party
 ||4tube.com/nyordo.js
+||4u3222y7.xyz^
 ||4ufutzmihl.com^
 ||4umf.com^
 ||4v6a7i3dkz.com^
@@ -15432,6 +15434,7 @@ yydstxt*.com/js/html
 ||bugs01140ko.com^
 ||bugs01141ko.com^
 ||bugs01150ko.com^
+||bugs01151ko.com^
 ||bugsfighter.com/wp-content/uploads/2020/07/malwarebytes-banner.jpg
 ||bugsnag.com^$third-party
 ||bugsnag.shopbop.amazon.dev^
@@ -24249,6 +24252,7 @@ yydstxt*.com/js/html
 ||gc.newsweek.com/front/js/counter.js
 ||gc.zgo.at^$third-party
 ||gcion.com/gcion.ashx?
+||gcjg3ry7m.com^
 ||gcloudcache.com^
 ||gcmlgxrmkp.net^
 ||gcprivacy.net^
@@ -27203,6 +27207,7 @@ yydstxt*.com/js/html
 ||ikronzealu.com^
 ||ikstatic.cn^*.gif
 ||ikuailian.com^$third-party
+||ikuaiquwan6.com^
 ||il7dd1v3t.com^
 ||ilaterdeallyig.info^$popup
 ||ilcq.cn^
@@ -45029,6 +45034,7 @@ yydstxt*.com/js/html
 ||vfgtg.com^$popup
 ||vfjxvt.icu^
 ||vfnq.cn^
+||vfpkraveam.com^
 ||vfreecams.com^$third-party
 ||vfrworld.com^
 ||vfsb.cn^
