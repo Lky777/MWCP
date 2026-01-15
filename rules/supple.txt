@@ -8,12 +8,15 @@
 ! .A1
 ||apologiesoccursdepressed.com^
 ||baocps.com^
+||dtazafmadnc.com^
 ||faayuuk.icu^
 ||ee555aa888.com^
 ||jgxohmdr.icu^
 ||ojkandwaza.com^
 ||qzybazja.com^
 ||su0k43kcy.com^
+||tjvip.cc^
+||zcxm.xyz^
 
 ! .B1
 ||157.185.146.120^
@@ -84,6 +87,7 @@
 ||imgsa.baidu.com/forum/pic/item/
 ||lf1-cdn-tos.bytegoofy.com/goofy/
 ||cdnjs.cloudflare.com/ajax/libs/fuckadblock/
+||cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/
 ||pic1.imgdb.cn/item/*.gif
 ||p0.meituan.net/csc/
 ||playhubconnect.com/bn/
@@ -96,11 +100,14 @@
 *$websocket
 *$webrtc
 .com:8005/cc/*?*=
+.com:8005/d/*?*=
 .com:8005/sc/*?*=
 .com:8007/cc/*?*=
-.com:8007/sc/*?*=
 .com:8007/d/*?*=
+.com:8007/sc/*?*=
+.com:8008/cc/*?*=
 .com:8008/d/*?*=
+.com:8008/sc/*?*=
 .com/api/v1/mediation/tracking?adUnit=
 .com/jserror?type=
 .xyz:8283/home?channel=
@@ -114,6 +121,7 @@ _ads.html?
 .com/static/image/
 .com/static/video/bn/
 .com/wp-content/plugins/ai-share-summarize/
+.live:7891/stats/
 .com/1987.js
 .com/google.js
 .com/js/ad-provider.js
@@ -160,6 +168,7 @@ _ads.html?
 ! ========== Ele blocking ==========
 kuaidi100.com##.index__download-box
 smzdm.com##.damo-footer-open-app
+www.txrjy.com###tryOpenApp
 
 ! 112pm
 ||112pm.com/okle/js1/
