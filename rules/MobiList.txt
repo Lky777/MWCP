@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202601161926
-! Last modified: 16 Jan 2026 19:26 UTC
+! Version: 202601171924
+! Last modified: 17 Jan 2026 19:24 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -7841,6 +7841,7 @@ wrating.com
 ws://*/api/wss/getnotreadcount$third-party
 wss://*.*.top/$third-party
 wss://*.com:29*/$third-party
+wss://*.com:800*/$third-party
 wss://*.top/|
 wss://*.xyz:*?e=$third-party
 wss://*.xyz:*?x=$third-party
@@ -8447,6 +8448,7 @@ yydstxt*.com/js/html
 ||1futnsio0.com^
 ||1fx5el.com^
 ||1fxs.com^$third-party
+||1gj8lhfa1.com^
 ||1gp3p6fkio.com^
 ||1gqd0o687z.com^
 ||1hmklj60i.com^
@@ -8847,6 +8849,7 @@ yydstxt*.com/js/html
 ||35.239.57.233^
 ||3520.cc/js/3520/
 ||35336.net/35336.jpg
+||354xxcdt1.com^
 ||35c82e35f3.com^
 ||360-hq.com^
 ||360.cn/apis/qss/soweb/ad_proxy/internal/
@@ -9505,6 +9508,7 @@ yydstxt*.com/js/html
 ||6by30.com^
 ||6c641lgikp.top^
 ||6cjdya3djn.com^
+||6cmxoje5k.com^
 ||6fm4dcpj31.com^
 ||6fzaxrds.com^
 ||6gbet16.com^
@@ -12196,6 +12200,7 @@ yydstxt*.com/js/html
 ||analytics-debugger.com^
 ||analytics-egain.com^
 ||analytics-fe.digital-cloud-prem.medallia.com^
+||analytics-fe.digital-cloud.medallia.com^
 ||analytics-gw.games.wanmei.com^
 ||analytics-helper.com^$third-party
 ||analytics-prd.aws.wehaa.net^
@@ -15441,6 +15446,8 @@ yydstxt*.com/js/html
 ||bugs01151ko.com^
 ||bugs01160ko.com^
 ||bugs01161ko.com^
+||bugs01170ko.com^
+||bugs01171ko.com^
 ||bugsfighter.com/wp-content/uploads/2020/07/malwarebytes-banner.jpg
 ||bugsnag.com^$third-party
 ||bugsnag.shopbop.amazon.dev^
@@ -20910,6 +20917,7 @@ yydstxt*.com/js/html
 ||downxia.com/dgjs/download.js
 ||downxia.com/dgjs/pic/
 ||downyi.com/tg/
+||dowrrav.com^
 ||doxysdiet.com^
 ||doyo.cn^
 ||doyourich.com^
@@ -22410,6 +22418,7 @@ yydstxt*.com/js/html
 ||evolveplatform.net^
 ||evomi-proxy.com^
 ||evorra.net^$third-party
+||evpxl9a8h.com^
 ||evrealestate.com^
 ||evreiks.com^
 ||evri.com/analytics/
@@ -23035,6 +23044,7 @@ yydstxt*.com/js/html
 ||fhcmeiju.com/template/dyxs2/html/1.
 ||fheiu43bcdhsj.top^
 ||fhfwb.com^
+||fhgaikrolq.com^
 ||fhgjds.com^
 ||fhgte.com^
 ||fhhctb.icu^
@@ -25509,6 +25519,7 @@ yydstxt*.com/js/html
 ||gvhospitalityproducts.com^
 ||gvisit.com^$third-party
 ||gviudclrb.com^
+||gvje.cn^
 ||gw.conversionsapigateway.com^
 ||gw7jpuouik.com^
 ||gwbnsh.net.cn/hd/unicom/ad.html
@@ -25538,7 +25549,7 @@ yydstxt*.com/js/html
 ||gyfxdq.com^
 ||gymclassvr.com^
 ||gymondo.com^
-||gyrovague.com^$domain=archive.is|archive.ph|archive.today
+||gyrovague.com^$domain=archive.fo|archive.is|archive.li|archive.ph|archive.today|archive.vn
 ||gywb.cn/cs_mulu/
 ||gywb.cn/gggl/
 ||gyyuansu.com^
@@ -30768,6 +30779,7 @@ yydstxt*.com/js/html
 ||lpquizzhubon.com^$popup
 ||lptrak.com^$popup
 ||lpuqhego.com^
+||lqbe7i5gf.com^
 ||lqdcvj.top^
 ||lqfctb.icu^
 ||lqftuugziloa.com^
@@ -33970,6 +33982,7 @@ yydstxt*.com/js/html
 ||nximg.cn^
 ||nxing.cn/uploads/uploads/*-size1220x
 ||nxjuvt.icu^
+||nxkyiwh.com^
 ||nxt-psh.com^$popup
 ||nxtwash.com^
 ||nxu3l4c8u.com^
@@ -37606,6 +37619,7 @@ yydstxt*.com/js/html
 ||ra.co/proxy/client/metrics
 ||ra.co/track/
 ||ra.gtimg.com/uv/1712104/index.js
+||ra0mpyy93.com^
 ||ra10.xyz^
 ||ra12.xyz^
 ||rabbit.donald.cat^
@@ -38904,6 +38918,7 @@ yydstxt*.com/js/html
 ||s31u.com^
 ||s3g6.com^$popup
 ||s3s-main.net^$third-party
+||s45hkb25i.com^
 ||s4b4.com^
 ||s4y6lhotaw.com^
 ||s6.music.126.net/puzzle/$script
@@ -39089,6 +39104,7 @@ yydstxt*.com/js/html
 ||sawpf.com/1.0.js$third-party
 ||sax*.sina.
 ||sax.sina.
+||saxophone90.top^
 ||saxperience.com^
 ||saxs.sina.
 ||say.ac^$third-party
@@ -40406,6 +40422,7 @@ yydstxt*.com/js/html
 ||snowandmud.com^
 ||snowdayonline.xyz^$popup
 ||snowflake.qq.com^
+||snowman77.com^
 ||snowplow.swm.digital^
 ||snowplowjs.darwin.cx^
 ||snowscan.xyz^
@@ -43011,6 +43028,7 @@ yydstxt*.com/js/html
 ||tom.com/adsender/
 ||tomatoqqamber.click^$popup
 ||tomeofrp.com^
+||tomharrph.com^
 ||tomladvert.com^$popup
 ||tomlldahehun.org^$popup
 ||tomoll.com^
@@ -44263,6 +44281,7 @@ yydstxt*.com/js/html
 ||u6421d8aqt.com^
 ||u652.myplainview.com^
 ||u6uy9lzdcj.com^
+||u6yzoru6u.com^
 ||u6zsr2xn1.com^
 ||u7em9v4hp.com^
 ||u7u9.com^$third-party
@@ -45074,6 +45093,7 @@ yydstxt*.com/js/html
 ||vgnyli.top^
 ||vgovvoinf.com^
 ||vgragvory.com^
+||vgtmosn.com^
 ||vgxj.cn^
 ||vhanime.com/js/bnanime.js
 ||vhaugmotn.com^
@@ -45731,6 +45751,7 @@ yydstxt*.com/js/html
 ||w58ce6.cc^
 ||w5ba5b.cc^
 ||w5bi16f3co.com^
+||w5c6d9.cc^
 ||w5ftl8bhu3.com^
 ||w6.chabad.org^
 ||w6xbr7hc.xyz^
@@ -48168,6 +48189,7 @@ yydstxt*.com/js/html
 ||yyqzk.com^
 ||yysls.cn^
 ||yytls.top^
+||yyutfzv.com^
 ||yywhp.com^
 ||yywz123.com/file/a*.js
 ||yyzqta.com^
