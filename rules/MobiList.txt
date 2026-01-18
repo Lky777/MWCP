@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202601171924
-! Last modified: 17 Jan 2026 19:24 UTC
+! Version: 202601181924
+! Last modified: 18 Jan 2026 19:24 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -5700,6 +5700,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 ://dmhy.org^*.*?$image
 ://dreemdmbabys.oss-cn-
 ://dwh-prod.*/de.npg/
+://edge-client/$domain=barrons.com
 ://elqtrk.
 ://estats.*/code/e.js
 ://fallback.*/collector
@@ -9483,6 +9484,7 @@ yydstxt*.com/js/html
 ||6789.net^$third-party
 ||678bd44.com^
 ||679ks.com^
+||67qlvj0jcj.com^
 ||67u36vmzm.com^
 ||680.com^
 ||6820tp1.com^
@@ -9830,6 +9832,7 @@ yydstxt*.com/js/html
 ||8cnd.com^
 ||8d8d.me/images/dealer.gif
 ||8egf73csh.com^
+||8fdmj67f5e.com^
 ||8feichai.com^
 ||8ff0.cn^
 ||8games.net^
@@ -11447,6 +11450,7 @@ yydstxt*.com/js/html
 ||ag-974.com^
 ||ag-985.com^
 ||ag-inapp-cdn.com^
+||ag.divcom.com^
 ||ag03.com^
 ||ag1.zuszw.com^
 ||agacelebir.com^$popup
@@ -12768,6 +12772,7 @@ yydstxt*.com/js/html
 ||app.qualified.com/*/sentry/
 ||app.qualified.com/*/visitor_events
 ||app.revenuehero.io/logs/ingest
+||app.termly.io/api/*/statistics
 ||app.trytada.com/addimpression
 ||app.varify.io/varify.js
 ||app.yesware.com/t/$third-party
@@ -15448,6 +15453,8 @@ yydstxt*.com/js/html
 ||bugs01161ko.com^
 ||bugs01170ko.com^
 ||bugs01171ko.com^
+||bugs01180ko.com^
+||bugs01181ko.com^
 ||bugsfighter.com/wp-content/uploads/2020/07/malwarebytes-banner.jpg
 ||bugsnag.com^$third-party
 ||bugsnag.shopbop.amazon.dev^
@@ -16146,6 +16153,7 @@ yydstxt*.com/js/html
 ||cd.elements.video^$domain=fangoria.com
 ||cd.thecontentserver.com^$domain=ratemyprofessors.com
 ||cd2bkmz3rz.com^
+||cdapi.collegedunia.com^
 ||cdclouddev.com^
 ||cdcyber.com^
 ||cddtsecure.com^$popup
@@ -17237,6 +17245,7 @@ yydstxt*.com/js/html
 ||cmcore.com^$third-party
 ||cmdum2940637fafa.com^
 ||cmecloud.top^
+||cmesgpqq8z.com^
 ||cmhk.com^
 ||cmix.org/teasers/
 ||cmm.xmfish.com^
@@ -21663,7 +21672,6 @@ yydstxt*.com/js/html
 ||eddyfi.com^
 ||edelkey.net^
 ||edethrelhf.com^
-||edge-client^$script,domain=barrons.com
 ||edge-hls.doppiocdn.com/ping
 ||edge-hls.doppiocdn.live/ping
 ||edge-hls.doppiocdn.net/ping
@@ -25873,6 +25881,7 @@ yydstxt*.com/js/html
 ||hebeimetals.com^
 ||hebtv.com/d/a/thea
 ||hebtv.com^
+||hecwgmokvc.com^
 ||hedeya.com^
 ||heemphaers.com^
 ||hefei.cc/templates/default/index_ad
@@ -29086,6 +29095,7 @@ yydstxt*.com/js/html
 ||k9l2jm8q.com^
 ||k9z.net^
 ||kabudragon.com^
+||kacq.cn^
 ||kadam.ru^$third-party
 ||kadogawa-wanpaku.com^
 ||kaefcdn.net^
@@ -29169,6 +29179,7 @@ yydstxt*.com/js/html
 ||karma.mdpcdn.com^
 ||karoon.xyz^$popup
 ||kasgge.icu^
+||kasgnh7xwl.com^
 ||katecrochetvanity.com^$popup
 ||kattis.com^
 ||kau.li/yad.js
@@ -29995,6 +30006,7 @@ yydstxt*.com/js/html
 ||ledfjl.icu^
 ||ledlightingdepot.com^
 ||ledwtz.icu^
+||leektiylpi.com^
 ||leelbox-tech.com^
 ||leeleo.top^$third-party
 ||leesaushoah.net^$popup
@@ -32512,6 +32524,7 @@ yydstxt*.com/js/html
 ||mozaart.com^
 ||mozilla.org/page/*/open.gif$third-party
 ||mp.imgur.com^
+||mp.sintra.ai^
 ||mp.theepochtimes.com^
 ||mp.weixin.qq.com/mp/appmsgreport?
 ||mp.weixin.qq.com/mp/getappmsgad?
@@ -32666,6 +32679,7 @@ yydstxt*.com/js/html
 ||mugshots.com^
 ||muhasebetr.com^
 ||muheodeidsoan.info^$popup
+||mukkoiigam.com^
 ||muletatyphic.com^$popup
 ||muleyfreak.com^
 ||mulimnk.xyz^
@@ -33548,6 +33562,7 @@ yydstxt*.com/js/html
 ||nid.thesun.co.uk^
 ||nid.thetimes.com^
 ||nidckjnc.com^
+||nie8fe9far.com^
 ||nieban.com^
 ||nievolmqn.com^
 ||niftymaps.com^$third-party
@@ -38825,6 +38840,7 @@ yydstxt*.com/js/html
 ||rx.link^$popup,domain=uploadgig.com
 ||rxaqwhu54d.com^
 ||rxdxzb.top^
+||rxi8jcy0aq.com^
 ||rxicsource.com^
 ||rxnvg.com^
 ||rxoi.cn^
@@ -40578,6 +40594,7 @@ yydstxt*.com/js/html
 ||solidshape.com^
 ||solispartner.com^$popup
 ||solitaire47.com^
+||solitaire50.top^
 ||solo-latino.com^
 ||solosegment.com^$third-party
 ||solseed.cn^
@@ -41173,7 +41190,6 @@ yydstxt*.com/js/html
 ||staticimgs.com^
 ||staticiv.com^$third-party
 ||staticld.com^
-||staticmisc.blob.core.windows.net^$domain=onecompiler.com
 ||staticmoly.me/metric.php
 ||statinside.com^
 ||statinside.com^$third-party
@@ -47524,6 +47540,7 @@ yydstxt*.com/js/html
 ||xyimg.net^$domain=~xy.com
 ||xyj321.com/static/xyj/js/foot_slide_bar_
 ||xyj321.com/static/zx/js/zx-con-jsq_
+||xylophone37.com^
 ||xysthjx.com^
 ||xywy.com/gk?a=
 ||xywy.com/zhixing/
@@ -48699,6 +48716,7 @@ yydstxt*.com/js/html
 ||zqbao.vip^
 ||zqifmyt.icu^
 ||zqntbc.top^
+||zqqwr9snx1.com^
 ||zqydulfzxb.com^
 ||zr1.net^
 ||zrblog.net*/gg/
