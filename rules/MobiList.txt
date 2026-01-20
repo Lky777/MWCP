@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202601191927
-! Last modified: 19 Jan 2026 19:27 UTC
+! Version: 202601202018
+! Last modified: 20 Jan 2026 20:18 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -9421,6 +9421,7 @@ yydstxt*.com/js/html
 ||5pub.com^
 ||5qjspf2c.xyz^
 ||5s98.com/img/
+||5sghirlr5b.com^
 ||5tmobi.cn^$third-party
 ||5u1zleadi.com^
 ||5u3tzh6tc.com^
@@ -9439,6 +9440,7 @@ yydstxt*.com/js/html
 ||5ycn.com^
 ||5ydj.com/images/banner/
 ||5yqi3kg1g.com^
+||5zxkdat6t8.com^
 ||6-h-6-p.com^
 ||6-partner.com^$popup
 ||6.cn/coop/pub/getrand.php?
@@ -9737,6 +9739,7 @@ yydstxt*.com/js/html
 ||7xsf3h.com1.z0.glb.clouddn.com^
 ||7y50wscnc8.com^
 ||7yt.org^
+||7yy69rrqpz.com^
 ||7zb.fun^
 ||7zivoy6qs.com^
 ||8-a-o-m.com^
@@ -15508,6 +15511,8 @@ yydstxt*.com/js/html
 ||bugs01181ko.com^
 ||bugs01190ko.com^
 ||bugs01191ko.com^
+||bugs01200ko.com^
+||bugs01201ko.com^
 ||bugsfighter.com/wp-content/uploads/2020/07/malwarebytes-banner.jpg
 ||bugsnag.com^$third-party
 ||bugsnag.shopbop.amazon.dev^
@@ -16373,6 +16378,7 @@ yydstxt*.com/js/html
 ||cdnxxx.com^
 ||cdnzhukong.com^
 ||cdomsif.top^
+||cdp.vercel.com/rs/
 ||cdreader.com^
 ||cdrvrs.com^$popup
 ||cdtrrracks.com^
@@ -17574,6 +17580,7 @@ yydstxt*.com/js/html
 ||collect.thunder-io.com^
 ||collect.usefathom.com^
 ||collect.verify.lnearn.com^
+||collectfront.nector.io^
 ||collectiblesonlinedaily.com^
 ||collecting.click^$third-party
 ||collection.e-satisfaction.com^
@@ -17773,6 +17780,7 @@ yydstxt*.com/js/html
 ||confirmational.com^$third-party
 ||confirmit.com/wix/inline.aspx?
 ||confirmmajestyovervalue.com^
+||confluent54.top^
 ||congzou.com^
 ||connatix.com/rtb/
 ||connatix.com/scripts/$~third-party
@@ -20991,6 +20999,7 @@ yydstxt*.com/js/html
 ||dpsq2uzakdgqz.cloudfront.net^
 ||dpst35vkvd2u3.cloudfront.net^
 ||dpsusqs20.com^
+||dpuhlinevz.com^
 ||dpuppers.com^$popup
 ||dpuz3hexyabm1.cloudfront.net^
 ||dpvmh2940637fafa.com^
@@ -22711,6 +22720,7 @@ yydstxt*.com/js/html
 ||f8dy.tv/template/m1938/js/b
 ||f8dy.tv/template/m1938/js/foot.js
 ||f92j5.com^$third-party
+||f92l2orpu3.com^
 ||f9gv87zoq2.com^
 ||fa4wu9a4f.com^
 ||faaaststorm.com^
@@ -22961,6 +22971,7 @@ yydstxt*.com/js/html
 ||fcs.ovh^$third-party
 ||fcw1.site^
 ||fcwars.net^
+||fd.cleantalk.org^
 ||fd.ivoclar.com^
 ||fd2k1fa6oe.com^
 ||fd80s.com/static/m.
@@ -24789,6 +24800,7 @@ yydstxt*.com/js/html
 ||gjkbyt.com^
 ||gjlgdtmdcj.net^
 ||gjwind.com/xxmh.gif
+||gjzpwnuifk.com^
 ||gjzq.com.cn^
 ||gk.sina.cn^
 ||gk1.582582.com^
@@ -25414,6 +25426,8 @@ yydstxt*.com/js/html
 ||gsgxnauqu8.com^
 ||gsimedia.net^$third-party
 ||gsjdzx.com^$third-party
+||gsk801200hh.com^
+||gsk801201hh.com^
 ||gslb.com^
 ||gsmarena.com/top-skin.min.js
 ||gsniper.com/images/
@@ -30817,6 +30831,7 @@ yydstxt*.com/js/html
 ||loyeesihighlyreco.info^$popup
 ||lozinl.com^
 ||lp247p.com^$popup
+||lp340p7czf.com^
 ||lp4.io^$third-party
 ||lpalartra.com^
 ||lpaystation.com^
@@ -36857,6 +36872,7 @@ yydstxt*.com/js/html
 ||pt-trx.com^$third-party
 ||pt.blubrry.com^
 ||pt.crossmediaservices.com^
+||pt.dwcdn.net^
 ||pt.ispot.tv^
 ||pt0ziiz0erz.com^
 ||ptaupsom.com^$popup
@@ -37693,6 +37709,7 @@ yydstxt*.com/js/html
 ||r7ls.net^$third-party
 ||r7n.cn^
 ||r7tqkqrvuz.com^
+||r8ln4v4nef.com^
 ||ra.co/proxy/client/metrics
 ||ra.co/track/
 ||ra.gtimg.com/uv/1712104/index.js
@@ -38811,6 +38828,7 @@ yydstxt*.com/js/html
 ||rumpelstiltskinhead.com^$third-party
 ||rumplent.xyz^
 ||rumstat.cdnvideo.ru^
+||run.app/api/pixel-event
 ||run.app/data.log
 ||run.app/events$domain=imgur.com|worldstar.com|worldstarhiphop.com
 ||run.app/events-receiver/get-web-event
@@ -38991,6 +39009,7 @@ yydstxt*.com/js/html
 ||s7tu.com/images/*.gif
 ||s7ven.com^$third-party
 ||s7vf.cn^
+||s7xrlzfa.top^
 ||s8.pw^$third-party
 ||s83.fun^
 ||s8bbs.com/g.php?
@@ -39872,6 +39891,7 @@ yydstxt*.com/js/html
 ||shopee.tw/__t__
 ||shopee.tw/v2/shpsec/web/report
 ||shopemiliagray.com^
+||shopflo.com/api/v1/spark
 ||shopfullyapp.com^
 ||shophouzz.com^
 ||shopify-gtm-suite.getelevar.com/getelevar/*/dl-web-pixel-lax-custom.js
@@ -43393,6 +43413,7 @@ yydstxt*.com/js/html
 ||track.10bet.com^
 ||track.360playvid.info^
 ||track.91app.io^
+||track.aimroas.com^
 ||track.americansongwriter.com^
 ||track.atgstores.com^$third-party
 ||track.bannedcelebs.com^
@@ -44002,6 +44023,7 @@ yydstxt*.com/js/html
 ||trustradius.com/api/v2/collectmetrics
 ||trustsensi.com^
 ||trustvarietywee.com^$popup
+||trusty-shovel-1234.paul-f22.workers.dev^$domain=sfist.com
 ||trustyable.com^$popup
 ||trustyread.com^
 ||trustzonevpn.info^$popup
@@ -45080,6 +45102,7 @@ yydstxt*.com/js/html
 ||vdianying.cc/wp-content/plugins/wp-adblock-dedect/
 ||vdkevents.com^
 ||vdna-assets.com^$third-party
+||vdnh.cn^
 ||vdo.ai/core/logger.php?
 ||vdo.ai/core/scantrad-net/
 ||vdohls.com^
@@ -47674,6 +47697,7 @@ yydstxt*.com/js/html
 ||yaebymob.com^
 ||yafdns.net^
 ||yageogroup.com^
+||yah3ph65tc.com^
 ||yahoo.co.jp/js/s_retargeting.js
 ||yahoo.com/_td_api/beacon/
 ||yahoo.com/beacon/
