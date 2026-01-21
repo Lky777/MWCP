@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202601202018
-! Last modified: 20 Jan 2026 20:18 UTC
+! Version: 202601211937
+! Last modified: 21 Jan 2026 19:37 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -1551,6 +1551,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /api/v2/items/*?ev=
 /api/v2/jsonlogger
 /api/v3/getpagevisits
+/api/v3/getstatsigresults
 /api/v3/tracksegmentevent
 /api/video/getadsdata?
 /api/video/getadsdatalist?
@@ -3250,7 +3251,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /keen-tracking.min.js
 /keen.min.js
 /kenticoactivitylogger/logger.js
-/keypress.js$script
+/keypress.js$script,domain=~github.io
 /keywee.js
 /kg2.oss-
 /kimonix_analytics.js
@@ -9859,6 +9860,7 @@ yydstxt*.com/js/html
 ||8fdmj67f5e.com^
 ||8feichai.com^
 ||8ff0.cn^
+||8g2a7mifv.com^
 ||8games.net^
 ||8h93.com^*.gif
 ||8iko.com^
@@ -9987,6 +9989,7 @@ yydstxt*.com/js/html
 ||9669.cn/jsam/play_
 ||9669.com^$script,third-party
 ||969824.xyz^
+||96zddjwn2.com^
 ||973.com/static/js/pccom.js
 ||9730865.com^
 ||9734232.com^
@@ -10954,6 +10957,7 @@ yydstxt*.com/js/html
 ||adop.co^$popup
 ||adopsboost.com^
 ||adopt-a-contractor.com^
+||adora-cdn.com/adora-start.js
 ||adoraboo.net^
 ||adoric-om.com^
 ||adoric-om.com^$third-party
@@ -15513,6 +15517,8 @@ yydstxt*.com/js/html
 ||bugs01191ko.com^
 ||bugs01200ko.com^
 ||bugs01201ko.com^
+||bugs01210ko.com^
+||bugs01211ko.com^
 ||bugsfighter.com/wp-content/uploads/2020/07/malwarebytes-banner.jpg
 ||bugsnag.com^$third-party
 ||bugsnag.shopbop.amazon.dev^
@@ -17611,6 +17617,7 @@ yydstxt*.com/js/html
 ||collector.spankbang.party^
 ||collector.sspinc.io^
 ||collector.taoxh.life^
+||collector.theconversation.com^
 ||collector.xhaccess.com^
 ||collector.xhamster.com^
 ||collector.xhamster.desi^
@@ -19364,6 +19371,7 @@ yydstxt*.com/js/html
 ||d3asksgk2foh5m.cloudfront.net^
 ||d3b2hhehkqd158.cloudfront.net^
 ||d3b4u8mwtkp9dd.cloudfront.net^
+||d3banl4fzuxsjl.cloudfront.net^
 ||d3bbyfw7v2aifi.cloudfront.net^
 ||d3beefy8kd1pr7.cloudfront.net^
 ||d3bfricg2zhkdf.cloudfront.net^
@@ -19428,6 +19436,7 @@ yydstxt*.com/js/html
 ||d3ikgzh4osba2b.cloudfront.net^
 ||d3imksvhtbujlm.cloudfront.net^
 ||d3iouejux1os58.cloudfront.net^
+||d3ip4t8fp90x81.cloudfront.net^
 ||d3ithbwcmjcxl7.cloudfront.net^
 ||d3j1weegxvu8ns.cloudfront.net^
 ||d3j3yrurxcqogk.cloudfront.net^
@@ -19620,6 +19629,7 @@ yydstxt*.com/js/html
 ||d8sllv1cwflbw.cloudfront.net^
 ||d8xy39jrbjbcq.cloudfront.net^
 ||d91i6bsb0ef59.cloudfront.net^
+||d94qwxh6czci4.cloudfront.net^
 ||d9b5gfwt6p05u.cloudfront.net^
 ||d9c5dterekrjd.cloudfront.net^
 ||d9cshxmf0qazr.cloudfront.net^
@@ -19857,6 +19867,7 @@ yydstxt*.com/js/html
 ||dataoke.com/api/component/code-info/v1?
 ||dataperforma.com^$third-party
 ||datapointhq.com^
+||datapulse.app^$third-party
 ||dataroid.com^$third-party
 ||datas.tianqistatic.com^
 ||datasheetq.com^
@@ -20665,6 +20676,7 @@ yydstxt*.com/js/html
 ||dls-account.di.atlas.samsung.com^
 ||dlssyht.cn^
 ||dlszywz.com^
+||dlthst9q2beh8.cloudfront.net^
 ||dltqxz76sim1s.cloudfront.net^
 ||dltvkwr7nbdlj.cloudfront.net^
 ||dlvds9i67c60j.cloudfront.net^
@@ -21119,6 +21131,7 @@ yydstxt*.com/js/html
 ||drt898.com^
 ||drtuber.com/footer_
 ||drudgereport.com/204.png
+||drugs.com/api/log/
 ||drugs.com/api/logger/
 ||drugs.com/img/pixel.gif
 ||drulilqe8wg66.cloudfront.net^
@@ -21861,6 +21874,7 @@ yydstxt*.com/js/html
 ||ehox67pahs.com^
 ||ehryourway.com^
 ||ehuhadiaghei.com^
+||ehvkaakviw.com^
 ||ei.monday.com^
 ||ei7buknu82.com^
 ||eibabo.com^
@@ -21954,6 +21968,7 @@ yydstxt*.com/js/html
 ||elliottelectric.com^
 ||elliottwave.com/fw/regular_leaderboard.js
 ||elmdalelawnbowling.com^
+||elmerpmsd.com^
 ||elmshoes.com^
 ||eln7dc.com^
 ||eloboss.net^
@@ -24345,6 +24360,7 @@ yydstxt*.com/js/html
 ||gcjg3ry7m.com^
 ||gcloudcache.com^
 ||gcmlgxrmkp.net^
+||gcp.fasthorse.workers.dev^
 ||gcprivacy.net^
 ||gcsh3bxck.com^
 ||gct.americanexpress.com^
@@ -25428,6 +25444,7 @@ yydstxt*.com/js/html
 ||gsjdzx.com^$third-party
 ||gsk801200hh.com^
 ||gsk801201hh.com^
+||gsk801211hh.com^
 ||gslb.com^
 ||gsmarena.com/top-skin.min.js
 ||gsniper.com/images/
@@ -27839,6 +27856,7 @@ yydstxt*.com/js/html
 ||interceptum.com^$third-party
 ||interclics.com^$popup
 ||intercomcdn.com/intercom*.js$domain=unblocked.la
+||interestingengineering.com/js/recovery.js
 ||interestingengineering.com/partial/connatix_desktop.html
 ||intermundomedia.com^$third-party
 ||intermune.com^
@@ -29145,6 +29163,7 @@ yydstxt*.com/js/html
 ||k7kpkvhg.com^
 ||k8dm.com/960x70.
 ||k8mb640mta.com^
+||k90ey77nx.com^
 ||k99.cc^$third-party
 ||k9cushings.com^
 ||k9l2jm8q.com^
@@ -29161,6 +29180,7 @@ yydstxt*.com/js/html
 ||kagaboucha.com^
 ||kaggle.com/api/i/diagnostics.metricsservice
 ||kagonst.com^$popup
+||kagxyvk.com^
 ||kahfads.com^
 ||kai5741.xyz^
 ||kaigaidoujin.com^$popup
@@ -29448,6 +29468,7 @@ yydstxt*.com/js/html
 ||kiwihr.com^
 ||kiwisizing.com/api/log
 ||kizvn2940637fafa.com^
+||kj4gddo30.com^
 ||kjamzdsfdfdx.com^
 ||kjcakncxl.com^
 ||kje9v2ic57.com^
@@ -30524,6 +30545,7 @@ yydstxt*.com/js/html
 ||lkmgjfkhfh.top^
 ||lksda.com^
 ||lkstrck2.com^$popup
+||lkthfpii.xyz^
 ||ll.gxsky.com^
 ||ll.hudong.com^
 ||ll0b8kyfuz.com^
@@ -32820,6 +32842,7 @@ yydstxt*.com/js/html
 ||mvilivestats.com^$third-party
 ||mvk.com^
 ||mvmbs.com^$popup
+||mvt0e2s72.com^
 ||mvtracker.com^$third-party
 ||mvxh.cn^
 ||mvxz.com/bar3.js
@@ -33872,6 +33895,7 @@ yydstxt*.com/js/html
 ||notifyvisitors.com^$third-party
 ||notimoti.com^$popup
 ||notion.so/api/v*/tev1
+||notion.so/api/v3/etclient
 ||notmil.com^$popup
 ||notmining.org^$third-party
 ||notoriousleash.net^
@@ -37367,6 +37391,7 @@ yydstxt*.com/js/html
 ||qmavyy.icu^
 ||qmj89db55u.com^
 ||qmjth2940637fafa.com^
+||qmoqruden.com^
 ||qmw.cn^
 ||qmwxb.com/skins/2/images/qp001.gif
 ||qnb.com^
@@ -41843,6 +41868,7 @@ yydstxt*.com/js/html
 ||svc2.sc.com^
 ||svcnmtb.top^
 ||svhk4bt874.com^
+||svhw.cn^
 ||svibeacon.onezapp.com^
 ||svip-jidun.com^
 ||svjj.cn^
@@ -43430,6 +43456,7 @@ yydstxt*.com/js/html
 ||track.emerse.com^
 ||track.eurogirlsescort.com^
 ||track.fusionmedia.io^
+||track.getgobot.com^
 ||track.hk01.com^
 ||track.hubspot.com^
 ||track.hujiang.com^
@@ -44375,6 +44402,7 @@ yydstxt*.com/js/html
 ||u1099.com^
 ||u10nte4ba.com^
 ||u1102.com^
+||u16d4beu5.com^
 ||u1pmt.com^$popup
 ||u1sdata.webullfintech.com^
 ||u22011.com^
@@ -45880,6 +45908,7 @@ yydstxt*.com/js/html
 ||w56ff7.cc^
 ||w58547.cc^
 ||w58ce6.cc^
+||w592be.cc^
 ||w5ba5b.cc^
 ||w5bi16f3co.com^
 ||w5c6d9.cc^
@@ -47345,6 +47374,7 @@ yydstxt*.com/js/html
 ||xmcimg.com/js/m.js
 ||xmegadrive.com^
 ||xmetrics.camsoda.com^
+||xmgi1tqka.com^
 ||xmilf.com/0eckuwtxfr/
 ||xmindchina.
 ||xml-api.online^$popup
@@ -48343,6 +48373,7 @@ yydstxt*.com/js/html
 ||z10djg4fmj.com^
 ||z1hihu.xmcimg.com^
 ||z211.yourconroenews.com^
+||z2ubj8bpk.com^
 ||z3d9.com^
 ||z3x-team.com/wp-content/*-banner-
 ||z3x-team.com^
