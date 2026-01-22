@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202601211937
-! Last modified: 21 Jan 2026 19:37 UTC
+! Version: 202601221933
+! Last modified: 22 Jan 2026 19:33 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -4963,6 +4963,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /track-focus.min.js
 /track-imp?
 /track-internal-links.js
+/track-mixpanel/
 /track-pixel.
 /track-the-click-public.js
 /track-visit?
@@ -6440,6 +6441,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||cinema.pia.co.jp/img/ad/$image,~third-party
 @@||citysbs.com^*/swfupload/
 @@||citytalk.tw/js/ct/common/v3/ui/fblike/fblike.html
+@@||client.aps.amazon-adsystem.com/publisher.js$script,domain=thestreet.com
 @@||client.aps.amazon-adsystem.com^$script,domain=newsweek.com
 @@||clients.plex.tv/api/v2/ads/$~third-party
 @@||clj.valuecommerce.com/*/vcushion.min.js
@@ -6666,10 +6668,10 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||g.doubleclick.net/gpt/pubads_impl_$domain=accuweather.com|blastingnews.com|bloomberg.com|chelseafc.com|chromatographyonline.com|cornwalllive.com|digitaltrends.com|downdetector.com|edy.rakuten.co.jp|epaper.timesgroup.com|formularywatch.com|game.anymanager.io|games.coolgames.com|managedhealthcareexecutive.com|medicaleconomics.com|nationalreview.com|nationalworld.com|nbcsports.com|nycgo.com|physicianspractice.com|scotsman.com|telsu.fi|voici.fr|weather.com
 @@||g.doubleclick.net/pagead/ads$subdocument,domain=sudokugame.org
 @@||g.doubleclick.net/pagead/ads?*&description_url=https%3a%2f%2fgames.wkb.jp$xmlhttprequest,domain=imasdk.googleapis.com
-@@||g.doubleclick.net/pagead/managed/js/gpt/$script,domain=adamtheautomator.com|allestoringen.be|allestoringen.nl|aussieoutages.com|canadianoutages.com|downdetector.ae|downdetector.ca|downdetector.co.nz|downdetector.co.uk|downdetector.co.za|downdetector.com|downdetector.com.ar|downdetector.com.br|downdetector.dk|downdetector.es|downdetector.fi|downdetector.fr|downdetector.hk|downdetector.ie|downdetector.in|downdetector.it|downdetector.jp|downdetector.mx|downdetector.no|downdetector.pl|downdetector.pt|downdetector.ru|downdetector.se|downdetector.sg|downdetector.tw|downdetector.web.tr|euronews.com|filmweb.pl|hoyme.jp|ictnews.org|journaldequebec.com|kino.de|samsclub.com|spiegel.de|thestar.co.uk|xn--allestrungen-9ib.at|xn--allestrungen-9ib.ch|xn--allestrungen-9ib.de|yorkshirepost.co.uk
+@@||g.doubleclick.net/pagead/managed/js/gpt/$script,domain=adamtheautomator.com|allestoringen.be|allestoringen.nl|aussieoutages.com|canadianoutages.com|downdetector.ae|downdetector.ca|downdetector.co.nz|downdetector.co.uk|downdetector.co.za|downdetector.com|downdetector.com.ar|downdetector.com.br|downdetector.dk|downdetector.es|downdetector.fi|downdetector.fr|downdetector.hk|downdetector.ie|downdetector.in|downdetector.it|downdetector.jp|downdetector.mx|downdetector.no|downdetector.pl|downdetector.pt|downdetector.ru|downdetector.se|downdetector.sg|downdetector.tw|downdetector.web.tr|euronews.com|filmweb.pl|hoyme.jp|ictnews.org|journaldequebec.com|kino.de|samsclub.com|spiegel.de|thestar.co.uk|thestreet.com|xn--allestrungen-9ib.at|xn--allestrungen-9ib.ch|xn--allestrungen-9ib.de|yorkshirepost.co.uk
 @@||g.doubleclick.net/pagead/managed/js/gpt/*/pubads_impl.js$domain=blog.nicovideo.jp|laurelberninteriors.com|metropcs.mobi
 @@||g.doubleclick.net/pagead/ppub_config$domain=bloomberg.com|independent.co.uk|repretel.com|telsu.fi|weather.com
-@@||g.doubleclick.net/tag/js/gpt.js$script,xmlhttprequest,domain=accuweather.com|adamtheautomator.com|bestiefy.com|blastingnews.com|blog.nicovideo.jp|bloomberg.com|chromatographyonline.com|cornwalllive.com|devclass.com|digitaltrends.com|edy.rakuten.co.jp|epaper.timesgroup.com|euronews.com|filmweb.pl|formularywatch.com|games.coolgames.com|gearpatrol.com|hoyme.jp|journaldequebec.com|kino.de|laurelberninteriors.com|managedhealthcareexecutive.com|medicaleconomics.com|metropcs.mobi|newsweek.com|nycgo.com|olx.pl|physicianspractice.com|repretel.com|samsclub.com|spiegel.de|standard.co.uk|telsu.fi|theta.tv|weather.com|wralsportsfan.com
+@@||g.doubleclick.net/tag/js/gpt.js$script,xmlhttprequest,domain=accuweather.com|adamtheautomator.com|bestiefy.com|blastingnews.com|blog.nicovideo.jp|bloomberg.com|chromatographyonline.com|cornwalllive.com|devclass.com|digitaltrends.com|edy.rakuten.co.jp|epaper.timesgroup.com|euronews.com|filmweb.pl|formularywatch.com|games.coolgames.com|gearpatrol.com|hoyme.jp|journaldequebec.com|kino.de|laurelberninteriors.com|managedhealthcareexecutive.com|medicaleconomics.com|metropcs.mobi|newsweek.com|nycgo.com|olx.pl|physicianspractice.com|repretel.com|samsclub.com|spiegel.de|standard.co.uk|telsu.fi|thestreet.com|theta.tv|weather.com|wralsportsfan.com
 @@||g2crowd.com/uploads/product/image/$image,domain=g2.com
 @@||gakushuin.ac.jp/ad/common/$~third-party
 @@||game735.com^$generichide
@@ -9576,6 +9578,7 @@ yydstxt*.com/js/html
 ||6s5qgmg7.xyz^
 ||6s8w2ck1g.com^
 ||6sc.co^$third-party
+||6spczz2hj1.com^
 ||6t51r3ge18.com^
 ||6tdz25urqj.com^
 ||6u2h.cn^
@@ -12103,6 +12106,7 @@ yydstxt*.com/js/html
 ||amazonaws.com.cn/static-documents/marketing/uda_banner_
 ||amazonaws.com/91/ads_
 ||amazonaws.com/analytics.
+||amazonaws.com/analytics/
 ||amazonaws.com/appmonitors/
 ||amazonaws.com/avsmetrics/
 ||amazonaws.com/b2bjsstore/
@@ -15519,6 +15523,8 @@ yydstxt*.com/js/html
 ||bugs01201ko.com^
 ||bugs01210ko.com^
 ||bugs01211ko.com^
+||bugs01220ko.com^
+||bugs01221ko.com^
 ||bugsfighter.com/wp-content/uploads/2020/07/malwarebytes-banner.jpg
 ||bugsnag.com^$third-party
 ||bugsnag.shopbop.amazon.dev^
@@ -16121,6 +16127,7 @@ yydstxt*.com/js/html
 ||catagle.com^
 ||catalogkiosk.com^
 ||catalysis39.top^
+||cataract40.com^
 ||catbox.moe/bb5wdv.jpg
 ||catcat321.com^
 ||catchit.com^
@@ -21987,6 +21994,7 @@ yydstxt*.com/js/html
 ||elysiumingreat.top^
 ||elzse.com^
 ||em-app-tech.com^
+||em7ky342lo.com^
 ||email-match.com^$third-party
 ||emaldo.com^
 ||emallcyprus.com^
@@ -24079,6 +24087,7 @@ yydstxt*.com/js/html
 ||fyrsbckgi-c.global.ssl.fastly.net^
 ||fyubin.com^
 ||fz94px.site^
+||fzavvanz.com^
 ||fzbm.com/bbs/static/js/bma.js
 ||fzd3.com/gg/
 ||fzev75-rtbix.top^$popup
@@ -25445,6 +25454,8 @@ yydstxt*.com/js/html
 ||gsk801200hh.com^
 ||gsk801201hh.com^
 ||gsk801211hh.com^
+||gsk801220hh.com^
+||gsk801221hh.com^
 ||gslb.com^
 ||gsmarena.com/top-skin.min.js
 ||gsniper.com/images/
@@ -25602,6 +25613,7 @@ yydstxt*.com/js/html
 ||gvweokuwxz.net^
 ||gw.conversionsapigateway.com^
 ||gw7jpuouik.com^
+||gwbb1p2t9s.com^
 ||gwbnsh.net.cn/hd/unicom/ad.html
 ||gweiadur.com^
 ||gwgso.com^
@@ -26033,6 +26045,7 @@ yydstxt*.com/js/html
 ||hentaiworldtv.b-cdn.net/wp-content/uploads/2023/11/ark1.avif
 ||hentasis1.top^
 ||hentent.stre4mplay.one^
+||heoddikvdm.com^
 ||heptix.net^$popup
 ||heraldandtimeslabs.com/sugar.js
 ||heratheacle.com^$popup
@@ -27715,6 +27728,7 @@ yydstxt*.com/js/html
 ||innovid.com/media/encoded/*.mp4$rewrite=abp-resource:blank-mp4,domain=ktla.com
 ||innovid.com^$popup,third-party
 ||innroad.com^
+||innveu2ji6.com^
 ||inone517.com^
 ||inoreader.com/adv/$domain=inoreader.com
 ||inoshop.net^
@@ -29083,6 +29097,7 @@ yydstxt*.com/js/html
 ||juyixila.net^
 ||juzaphoto.com^
 ||juzhilu.com^
+||juzn.cn^
 ||jvavav.com^
 ||jvekga.cn^
 ||jvimfdc.xyz^
@@ -31062,6 +31077,7 @@ yydstxt*.com/js/html
 ||lyfdrh.icu^
 ||lyft.com/api/track
 ||lyjq9gwob.com^
+||lyk35otqfm.com^
 ||lylechan.com^
 ||lyngro.com^$third-party
 ||lyngsat.com/system/loadclick.js
@@ -36911,6 +36927,7 @@ yydstxt*.com/js/html
 ||ptengine.jp^$third-party
 ||pterclub.net^
 ||ptfish.com/*/ad$image,object
+||pthrumeath.com^
 ||ptindirectory.com^
 ||ptistyvymi.com^$popup
 ||ptju.cn^
@@ -37622,6 +37639,7 @@ yydstxt*.com/js/html
 ||qunifi.net^
 ||qunlove.com^*.gif
 ||quo.com^
+||quoits96.top^
 ||quora.com/qevents.js
 ||quosal.com^
 ||quotationspage.com^
@@ -37712,6 +37730,7 @@ yydstxt*.com/js/html
 ||r.sax.sina.com.cn^
 ||r.skimresources.com^
 ||r.stripe.com^$ping,script,xmlhttprequest
+||r.wdfl.co/rw.js
 ||r0eybo511.com^
 ||r0hpdbkqs.com^
 ||r0j.fun^
@@ -45605,6 +45624,7 @@ yydstxt*.com/js/html
 ||vkgtrack.com^$popup
 ||vkkdrilbdicuzo.com^
 ||vklmczbgt.com^
+||vkoq4kyzmj.com^
 ||vkproxy.com^
 ||vksy.cn^
 ||vkur.cn^
@@ -45727,6 +45747,7 @@ yydstxt*.com/js/html
 ||vpvq.cn^
 ||vpw1lig85.com^
 ||vpx4fmj4z6.com^
+||vpxyw6rbv3.com^
 ||vpydjogaytpg.xyz^
 ||vq4b0q.fun^$popup
 ||vqaj6smlmtpym.top^
@@ -46852,6 +46873,7 @@ yydstxt*.com/js/html
 ||wtm.monitoringservice.co^$third-party
 ||wtmtrack.com^$third-party
 ||wtr-digital-analytics.ew.r.appspot.com^
+||wtrevvit.com^
 ||wtrotilloye.com^
 ||wts.one^$third-party
 ||wts2.one^$third-party
@@ -47066,6 +47088,7 @@ yydstxt*.com/js/html
 ||x.yaohuo.me^
 ||x0.ifengimg.com/feprod/c/web/d/coupletfloat.js
 ||x05occvjw.com^
+||x0lkimaixh.com^
 ||x0r.urlgalleries.net^
 ||x1.52aoteman.com^
 ||x10vpn.com^
@@ -47559,6 +47582,7 @@ yydstxt*.com/js/html
 ||xv-tube.com^
 ||xv98.com/js/daohang
 ||xv98.com/js/hengfu
+||xvbwjd.icu^
 ||xve4ww01l.com^
 ||xvgblockexplorer.com^
 ||xvh2rqqv.com^
