@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202601221933
-! Last modified: 22 Jan 2026 19:33 UTC
+! Version: 202601231931
+! Last modified: 23 Jan 2026 19:31 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -1551,7 +1551,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /api/v2/items/*?ev=
 /api/v2/jsonlogger
 /api/v3/getpagevisits
-/api/v3/getstatsigresults
 /api/v3/tracksegmentevent
 /api/video/getadsdata?
 /api/video/getadsdatalist?
@@ -6938,6 +6937,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||linetv.tw^$generichide
 @@||linetv.tw^*/ad
 @@||linkbucks.com/tmpl/$image,stylesheet
+@@||linovelib.com^$generichide
 @@||litv.tv/ads/ads.js
 @@||liulanmi.com/wp-content/uploads/*/statcounter-
 @@||liumingye.cn^$generichide
@@ -8454,6 +8454,7 @@ yydstxt*.com/js/html
 ||1dm6ccvy8.com^
 ||1dor1d6vc.com^
 ||1f0l.top^
+||1fp9k4zrm.com^
 ||1freecounter.com^$third-party
 ||1fsapi.com^
 ||1futnsio0.com^
@@ -12205,6 +12206,7 @@ yydstxt*.com/js/html
 ||ams.lustytube.net^
 ||ams.naturalnews.com^
 ||ams.naturalnewsblogs.com^
+||ams.newstarget.com^
 ||amsthor.xyz^
 ||amt3.com^
 ||amtrk.net^
@@ -12328,6 +12330,7 @@ yydstxt*.com/js/html
 ||analytics.digitalpfizer.com^
 ||analytics.disney.go.com^
 ||analytics.disneyinternational.com^
+||analytics.distributednews.com^
 ||analytics.dv.socure.io^
 ||analytics.dvidshub.net^
 ||analytics.edgekey.net^
@@ -12815,6 +12818,7 @@ yydstxt*.com/js/html
 ||app.clickfunnels.com^$~stylesheet
 ||app.gnosispay.com/relay-gp-ph/
 ||app.link/_r?$script,third-party
+||app.mps.vsnt.net/fetch/ext/load-rottentomatoes-web.js$domain=rottentomatoes.com
 ||app.octaneai.com/get_analytics_engine/
 ||app.opmnstr.com/v2/geolocate/
 ||app.optibase.io^
@@ -15525,6 +15529,7 @@ yydstxt*.com/js/html
 ||bugs01211ko.com^
 ||bugs01220ko.com^
 ||bugs01221ko.com^
+||bugs01231ko.com^
 ||bugsfighter.com/wp-content/uploads/2020/07/malwarebytes-banner.jpg
 ||bugsnag.com^$third-party
 ||bugsnag.shopbop.amazon.dev^
@@ -17161,6 +17166,7 @@ yydstxt*.com/js/html
 ||clladss.com^
 ||cllspelsj.com^
 ||cln9vhvfo2.top^
+||clo41zgrs.com^
 ||clobberprocurertightwad.com^
 ||clobberprocurertightwad.com^$popup
 ||clocate.com^
@@ -19811,6 +19817,7 @@ yydstxt*.com/js/html
 ||data.debugbear.com^$third-party
 ||data.digitalks.az^
 ||data.eetech.com^
+||data.emb-api.com^
 ||data.embeddables.com^
 ||data.gosquared.com^
 ||data.guide.photobucket.com^
@@ -22313,6 +22320,7 @@ yydstxt*.com/js/html
 ||etest8.com^
 ||etf88.com/jjb/*_ad$script
 ||etf88.com/swf/
+||etff5y04k.com^
 ||eth-pocket.com^$third-party
 ||ethereum-cashcard.com^$third-party
 ||ethereum-pocket.com^$third-party
@@ -23340,6 +23348,7 @@ yydstxt*.com/js/html
 ||fk3nf1xeh.top^
 ||fkesfg.com^
 ||fkf5.com/public/js/static.js
+||fkhagviev.com^
 ||fkhifbbndpg.com^
 ||fkrkkmxsqeb5bj9r.s3.amazonaws.com^
 ||fktaxk.top^
@@ -24644,6 +24653,7 @@ yydstxt*.com/js/html
 ||gfpxw.com^
 ||gfrevenge.com/vbanners/
 ||gfstrck.com^$popup
+||gfvk.cn^
 ||gfw250.com^
 ||gfy.com^
 ||gg-led.com/uploadfile/uploadcompanylogo/*.gif
@@ -25456,6 +25466,7 @@ yydstxt*.com/js/html
 ||gsk801211hh.com^
 ||gsk801220hh.com^
 ||gsk801221hh.com^
+||gsk801231hh.com^
 ||gslb.com^
 ||gsmarena.com/top-skin.min.js
 ||gsniper.com/images/
@@ -28377,6 +28388,7 @@ yydstxt*.com/js/html
 ||jab88.com^
 ||jable.tv/assets/*0.gif
 ||jable.tv/assets/images/*-slider.
+||jac.yahoosandbox.com^
 ||jackapex.com^
 ||jackeryapp.com^
 ||jackpotcitycasino.com/*&a=$popup
@@ -32294,6 +32306,7 @@ yydstxt*.com/js/html
 ||mlukfc.com^
 ||mlweb.dmlab.hu^
 ||mlyns.com^
+||mlytics.com^$third-party
 ||mm.jbzj.com^
 ||mm.nwell.net^
 ||mm.paizi.net^
@@ -32750,6 +32763,7 @@ yydstxt*.com/js/html
 ||mstmsbz.com^
 ||mstrlytcs.com^$third-party
 ||mt1exxfnf.com^
+||mtaitdupf.com^
 ||mtbnj.com^
 ||mtbr.com^
 ||mtbtimeline.com^
@@ -33376,6 +33390,7 @@ yydstxt*.com/js/html
 ||nen.com.cn/eap/
 ||nen.com.cn/service/js/beitou
 ||nenlnl.icu^
+||nenodhezm.com^
 ||nenwarj.com^
 ||neo7x.com^
 ||neocounter.neoworx-blog-tools.net^
@@ -34157,6 +34172,7 @@ yydstxt*.com/js/html
 ||nzl10011oa.com^
 ||nzl10041oa.com^
 ||nzlelmarw.com^
+||nzmuscle.co.nz/rdgp/
 ||nznoxxx.com^
 ||nzoj.cn^
 ||nzpages.co.nz/modules/common/track.js
@@ -34391,6 +34407,7 @@ yydstxt*.com/js/html
 ||oiscuy.icu^
 ||oiseaux.net^
 ||oisix.com^
+||oiu132jhz.com^
 ||oiwhatseopp.com^
 ||oizs.cn^
 ||oj.fapnado.xxx^
@@ -34802,6 +34819,7 @@ yydstxt*.com/js/html
 ||oqidsgkq.com^
 ||oqmqqm.icu^
 ||oqnbnrfg.com^
+||oqvodgp36.com^
 ||or8m4puy2o.com^
 ||ora.tv/j/ora_evttracking.js
 ||oracle.com/visitorinfo/
@@ -35126,6 +35144,7 @@ yydstxt*.com/js/html
 ||p2edge.com^
 ||p2h08fn94d.com^
 ||p2honey.top^
+||p2muoczf5.com^
 ||p2p-cdn-cn.com^
 ||p2p-tracker.net^
 ||p2p.v.yyclouds.com/crossdomain.xml
@@ -35688,7 +35707,6 @@ yydstxt*.com/js/html
 ||pharoilrw.com^
 ||phazaeth.com^
 ||phb123.com/skin/js/tongji.js
-||phb123.com^
 ||phbkm.com/js/
 ||pheetuth.com^
 ||pheidheat.com^
@@ -36766,6 +36784,7 @@ yydstxt*.com/js/html
 ||promofarma.com^
 ||promokodi.net^
 ||promokrot.com^$third-party
+||promontory32.com^
 ||promos.camsoda.com^
 ||promos.fling.com^
 ||promos.gpniches.com^
@@ -42355,7 +42374,6 @@ yydstxt*.com/js/html
 ||tarladalal.com^
 ||taroads.com^$popup
 ||tarteaucitron.io/log/
-||tasexy.com^
 ||tasgxk4ia6.com^
 ||tashanmp3.com/api/pops/
 ||taskanalytics.com^$third-party
@@ -45135,6 +45153,7 @@ yydstxt*.com/js/html
 ||vbox7.com/aj/player-stats?
 ||vbphograewy.com^
 ||vbs10qd9.com^
+||vbw3q6jxn.com^
 ||vcaqexl.com^
 ||vcbalabala.top^
 ||vcdc.com^$popup
@@ -46068,6 +46087,7 @@ yydstxt*.com/js/html
 ||watchtowerguard.com^
 ||watchvideoplayer.com^$popup
 ||watchzb.com^
+||waterfall90.top^
 ||watersportsoutlet.com^
 ||watsonrealtycorp.com^
 ||wattpad.com/js/tracker/app.
