@@ -3,18 +3,23 @@
 # ============ Privacy Pro Rules ============
 # ==== wechat mini program ====
 #testing...
+0.0.0.0 mmbizwxadevlogiccos-1258344707.cos-dualstack.ap-shanghai.myqcloud.com
+0.0.0.0 153.3.46.181
+0.0.0.0 wxa.wxs.qq.com
+0.0.0.0 183.93.116.80
+0.0.0.0 api.zhishustar.com
+0.0.0.0 43.250.33.39
+0.0.0.0 mp.weixin.qq.com
+0.0.0.0 116.128.171.214
+#
 0.0.0.0 406f430a1eafc9abdb219cc7532307c7.dlied1.cdntips.net
 0.0.0.0 36.248.43.91
-#webrtc/v1/pullstream
-0.0.0.0 122.192.127.134
-0.0.0.0 sdkconfig.tlivedns.com
-0.0.0.0 140.207.121.106
-0.0.0.0 voipfinderliveplaythird.wxqcloud.qq.com
-0.0.0.0 119.36.33.69
-0.0.0.0 szmg.qq.com
-0.0.0.0 43.136.2.161
+0.0.0.0 pgdt.gtimg.cn
+0.0.0.0 101.71.71.104
 0.0.0.0 cwxlive.qlogo.cn
 0.0.0.0 124.166.238.72
+0.0.0.0 szmg.qq.com
+0.0.0.0 43.136.2.161
 0.0.0.0 wxapp.tc.qq.com
 0.0.0.0 58.243.202.30
 0.0.0.0 61.156.83.35
@@ -28,9 +33,8 @@
 0.0.0.0 119.36.124.239
 0.0.0.0 hscdn.flv.wxqcloud.qq.com
 0.0.0.0 119.176.25.193
-#
-0.0.0.0 pgdt.gtimg.cn
-0.0.0.0 101.71.71.104
+0.0.0.0 voipfinderliveplaythird.wxqcloud.qq.com
+0.0.0.0 119.36.33.69
 0.0.0.0 wximg.wxs.qq.com
 0.0.0.0 122.192.127.62
 0.0.0.0 wxsmw.wxs.qq.com
@@ -39,10 +43,14 @@
 0.0.0.0 124.95.180.122
 0.0.0.0 prewxacode.wxqcloud.qq.com.cn
 0.0.0.0 116.140.44.82
+0.0.0.0 sdkconfig.tlivedns.com
+0.0.0.0 140.207.121.106
 0.0.0.0 mlvbdc.live.tlivesource.com
 0.0.0.0 112.80.130.100
 0.0.0.0 webrtc-signal-scheduler.tlivesource.com
 0.0.0.0 43.137.20.72
+#webrtc/v1/pullstream
+0.0.0.0 122.192.127.134
 # ==== Baidu map app ====
 0.0.0.0 newclient.map.baidu.com
 0.0.0.0 103.211.221.136
@@ -50,7 +58,6 @@
 0.0.0.0 sv.map.baidu.com
 0.0.0.0 103.211.221.188
 # ==== Jingdong app ====
-#testing...
 0.0.0.0 anti-sdk-report.m.jd.com
 0.0.0.0 211.144.24.62
 0.0.0.0 perf.m.jd.com
@@ -65,6 +72,12 @@
 0.0.0.0 gator.volces.com
 0.0.0.0 112.83.164.206
 # ==== Economist app ====
+0.0.0.0 api.lab.eu.amplitude.com
+0.0.0.0 151.101.90.132
+0.0.0.0 gvrzzz-cdn-settings.appsflyersdk.com
+0.0.0.0 3.165.92.8
+0.0.0.0 gvrzzz-launches.appsflyersdk.com
+0.0.0.0 18.155.70.30
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
 0.0.0.0 3.171.197.214
 0.0.0.0 firebase-settings.crashlytics.com
@@ -75,16 +88,27 @@
 0.0.0.0 114.250.70.38
 0.0.0.0 s-gke-usc1-nssi2-20.firebaseio.com
 0.0.0.0 34.120.160.131
+0.0.0.0 the-economist-web---prod-default-rtdb.firebaseio.com
+0.0.0.0 34.120.206.254
 0.0.0.0 www.google-analytics.com
 0.0.0.0 114.250.63.33
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 114.250.68.38
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 203.208.50.73
+0.0.0.0 firebaseremoteconfig.googleapis.com
 0.0.0.0 api.instabug.com
 0.0.0.0 3.168.245.98
+0.0.0.0 api-apm.instabug.com
+0.0.0.0 13.35.238.35
 0.0.0.0 mobile-collector.eu01.nr-data.net
 0.0.0.0 185.221.87.36
 0.0.0.0 cdn.parsely.com
 0.0.0.0 192.0.66.2
+0.0.0.0 api.permutive.app
+0.0.0.0 34.107.254.252
+0.0.0.0 cdn.permutive.app
+0.0.0.0 172.64.152.243
 0.0.0.0 cdn.privacy-mgmt.com
 0.0.0.0 13.35.37.39
 0.0.0.0 collect.tealiumiq.com
