@@ -28,9 +28,12 @@
 ||cdnboostcache.com^
 ||clarity.ms^
 ||ddav.tv^
+||dongojyousan.com^
 ||eroadvertising.com^
+||fatalfear.pro^
 ||jads.co^
 ||magsrv.com^
+||muddyclock.pro^
 ||popin.tw^
 ||popin.cc^
 ||simpli.fi^
@@ -62,6 +65,7 @@
 ||fundingchoicesmessages.google.com^
 ||go.homejavlive.com^
 ||tongji.kaixinman.com^
+||social-plugins.line.me^
 ||onead.onevision.com.tw^
 ||yan.pqd.org^
 ||media-hls.saawsedge.com^
@@ -88,6 +92,7 @@
 ||lf1-cdn-tos.bytegoofy.com/goofy/
 ||cdnjs.cloudflare.com/ajax/libs/fuckadblock/
 ||cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/
+|https://www.line-website.com/social-plugins/js/lib/sentry.
 ||pic1.imgdb.cn/item/*.gif
 ||p0.meituan.net/csc/
 ||playhubconnect.com/bn/
@@ -133,6 +138,7 @@ _ads.html?
 .com/Scripts/LogTracer.js
 .com/static/js/action.js
 .com/static/js/up.js
+.com/template/jable/ads/bottom.js
 /ad.js
 /js/ga.js
 /js/hilltop.js
@@ -154,6 +160,7 @@ _ads.html?
 /whob.gif?
 .cn/upload_01/upload/*.gif
 .cn/upload_01/xiao/*.gif
+.net/static/images/*.gif
 /frontend-gtag.min.js?
 /gg980-90.gif
 /images/ad1.gif
@@ -168,6 +175,7 @@ _ads.html?
 ! ========== Ele blocking ==========
 kuaidi100.com##.index__download-box
 smzdm.com##.damo-footer-open-app
+sohu.com###CallAppContainer
 www.txrjy.com###tryOpenApp
 
 ! 112pm
@@ -268,6 +276,7 @@ www.txrjy.com###tryOpenApp
 
 ! eporner
 ||eporner.com/getadb/
+|https://www.eporner.com/static/popCode-
 
 ! ghxi
 ||www.ghxi.com/wp-content/plugins/core-ai-power/
@@ -313,6 +322,7 @@ www.txrjy.com###tryOpenApp
 ||srtb.msn.cn/notify/
 
 ! mydrivers
+||11.mydrivers.com/2021/news/nike600_500.svg
 ||11.mydrivers.com/common/js/trimpath-template-
 ||11.mydrivers.com/m/js/live/liveplayer-element.min.js
 ||11.mydrivers.com/m/images/v1/kkjapp_down.gif
