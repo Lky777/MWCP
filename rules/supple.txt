@@ -140,6 +140,7 @@ _ads.html?
 .com/static/js/up.js
 .com/template/jable/ads/bottom.js
 /ad.js
+/api/eventTracking/batchReport.json
 /js/ga.js
 /js/hilltop.js
 /js/juicy.js
@@ -158,6 +159,7 @@ _ads.html?
 /a960x55.gif
 /bt960-60.gif
 /whob.gif?
+.cn/*/uploads/default/other/*.gif
 .cn/upload_01/upload/*.gif
 .cn/upload_01/xiao/*.gif
 .net/static/images/*.gif
@@ -173,6 +175,7 @@ _ads.html?
 ||rzpsrl.cn/imc/*.gif
 !
 ! ========== Ele blocking ==========
+duckduckgo.com##.js-atb-banner
 kuaidi100.com##.index__download-box
 smzdm.com##.damo-footer-open-app
 sohu.com###CallAppContainer
@@ -334,6 +337,8 @@ www.txrjy.com###tryOpenApp
 ! ngabbs
 ||g1.tagtic.cn/v1/xingyou/c/
 
+! nytimes
+|https://purr.nytimes.com/v1/directives
 ! oschina
 
 ! pornbaker
