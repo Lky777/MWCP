@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202601240429
-! Last modified: 24 Jan 2026 04:29 UTC
+! Version: 202601241137
+! Last modified: 24 Jan 2026 11:37 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -238,6 +238,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .club/adv/
 .club/js/popunder.js$script
 .cn/*-*-*.xc$script,third-party
+.cn/*/uploads/default/other/*.gif
 .cn/ao390sw2.js
 .cn/by389.js$script,third-party
 .cn/cs389.js
@@ -1522,6 +1523,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /api/direct/*?s1=$script
 /api/drpstats
 /api/event-rfkj/
+/api/eventTracking/batchReport.json
 /api/events|$ping,~third-party
 /api/goods/v1/get.script.core?
 /api/internal/pixel?
@@ -7783,6 +7785,7 @@ dd.yiche.com
 diwenganzaoji.com
 dlads.cn
 doubleclick.net
+duckduckgo.com##.js-atb-banner
 easyrecoverychina.com
 ediuschina.com
 enennsa.gushiwen.cn
@@ -7897,6 +7900,7 @@ yydstxt*.com/js/html
 |https://m.mydrivers.com/m/relatednews.ashx?
 |https://m.sm.cn/adclick?
 |https://mhjia.com/js/foot.js?
+|https://purr.nytimes.com/v1/directives
 |https://sobt18.icu/Public/static/js/common.js?
 |https://unpkg.zhimg.com/@cfe/sentry-script@
 |https://vk.com/js/api/share.js?
@@ -9878,6 +9882,7 @@ yydstxt*.com/js/html
 ||8iko.com^
 ||8jfbt5va3r.com^
 ||8jkx.com^
+||8k69vb6421.com^
 ||8k9ynfczfd.com^
 ||8lz3swf01q.com^
 ||8maple.ru/dzcm$rewrite=abp-resource:1x1-transparent-gif,domain=8maple.ru
@@ -12346,6 +12351,7 @@ yydstxt*.com/js/html
 ||analytics.eggoffer.com^
 ||analytics.eip.telegraph.co.uk^
 ||analytics.erepublic.com^
+||analytics.everythingstream.com^
 ||analytics.fabricators.ltd^$third-party
 ||analytics.facebook.com^$third-party
 ||analytics.faceitanalytics.com^
@@ -28410,7 +28416,6 @@ yydstxt*.com/js/html
 ||jab88.com^
 ||jable.tv/assets/*0.gif
 ||jable.tv/assets/images/*-slider.
-||jac.yahoosandbox.com^
 ||jackapex.com^
 ||jackeryapp.com^
 ||jackpotcitycasino.com/*&a=$popup
@@ -33686,6 +33691,7 @@ yydstxt*.com/js/html
 ||ngbn.net^$third-party
 ||ngcrh.top^
 ||ngds.sap.com^
+||ngfkrduait.com^
 ||ngfruitiesmatc.info^$popup
 ||nghiatu.com^
 ||nghv.cn^
@@ -42138,6 +42144,7 @@ yydstxt*.com/js/html
 ||t.menepe.com^
 ||t.metrilo.com^
 ||t.mydialoginsight.com^
+||t.nc0.co^
 ||t.nypost.com^
 ||t.optiwizehealth.com^
 ||t.pagesix.com^
