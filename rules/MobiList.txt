@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202601250751
-! Last modified: 25 Jan 2026 07:51 UTC
+! Version: 202601251926
+! Last modified: 25 Jan 2026 19:26 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -8454,6 +8454,7 @@ yydstxt*.com/js/html
 ||1990tu.com/i/*.png
 ||1999019.com^
 ||199api.net^
+||19dkfu1wg.com^
 ||19fortyfive.com^
 ||19o8hzj117.com^
 ||1adr.com^
@@ -11555,7 +11556,6 @@ yydstxt*.com/js/html
 ||aicp-rom.com^
 ||aidcgroup.net^
 ||aidddns.com^
-||aidegelin.cn^
 ||aidfni7yk0.com^
 ||aiegde.com^
 ||aifasthub.com^
@@ -18062,6 +18062,7 @@ yydstxt*.com/js/html
 ||cp.qbaobei.com^
 ||cp121.com/js2/
 ||cp2.eastmoney.com^
+||cp7iys8fp.com^
 ||cpacrack.com^$popup
 ||cpalabtracking.com^$popup
 ||cpaoffers.network^$popup
@@ -18160,6 +18161,7 @@ yydstxt*.com/js/html
 ||creationsbluesky.com^
 ||creative-sb1.com^
 ||creative.141live.com^
+||creative.19sex.live^
 ||creative.camonade.com^
 ||creative.camsplanetlive.com^
 ||creative.favy.cam^
@@ -19638,7 +19640,6 @@ yydstxt*.com/js/html
 ||da.duowan.com/loc/
 ||da.mgtv.com^
 ||da.netease.com^
-||da251109.top^
 ||da26k71rxh0kb.cloudfront.net^
 ||da327va27j0hh.cloudfront.net^
 ||da3uf5ucdz00u.cloudfront.net^
@@ -20446,7 +20447,6 @@ yydstxt*.com/js/html
 ||digitaldsp.com^$popup
 ||digitalfleet.com^
 ||digitalgoway.com^
-||digitaling.com^
 ||digitalmediaworld.tv/images/banners/
 ||digitaloceanspaces.com/advertise/$domain=unb.com.bd
 ||digitaloceanspaces.com/advertisements/$domain=thefinancialexpress.com.bd
@@ -23104,6 +23104,7 @@ yydstxt*.com/js/html
 ||ffnews.com^
 ||fforecast.net^
 ||ffplays.net^
+||ffuakv5nl.com^
 ||ffun42.xyz^
 ||ffvmgevrid.com^
 ||ffwfiresafety.com^
@@ -23689,7 +23690,6 @@ yydstxt*.com/js/html
 ||fqbr.cn^
 ||fqgmfd.com^
 ||fqhakaihvu.com^
-||fqjpg5.top^
 ||fqjpg6.top^
 ||fqnhjt.icu^
 ||fqnojp.top^
@@ -25465,6 +25465,7 @@ yydstxt*.com/js/html
 ||gsk801240hh.com^
 ||gsk801241hh.com^
 ||gsk801250hh.com^
+||gsk801251hh.com^
 ||gslb.com^
 ||gsmarena.com/top-skin.min.js
 ||gsniper.com/images/
@@ -26354,7 +26355,6 @@ yydstxt*.com/js/html
 ||hlowb.com^
 ||hlprd.com^
 ||hlrxp2940637fafa.com^
-||hlsdelivery.net^
 ||hlsloader.com^
 ||hlstatus.com^$third-party
 ||hltoon.com/hanman/static/dist/ppm/js/foot
@@ -30113,7 +30113,6 @@ yydstxt*.com/js/html
 ||leenkup.com^
 ||leesaushoah.net^$popup
 ||lefeiinfo.com^
-||lefhao20250923.top^
 ||legacy.com/globalscripts/tracking/
 ||legacy.com^*/unicaclicktracking.js?
 ||legallais.com^
@@ -37551,6 +37550,7 @@ yydstxt*.com/js/html
 ||qsko05061mas.com^
 ||qsl.net^
 ||qslhdidxkazlzuuelsz.top^
+||qsne.cn^
 ||qsoc.cn^
 ||qsptv.com/tpl/newstyle/js/extension.js
 ||qsrinternational.com^
@@ -38935,6 +38935,7 @@ yydstxt*.com/js/html
 ||ruxella.com^
 ||ruyig.com/730x76.png
 ||ruzave.com^
+||ruziecoraz.com^
 ||rv.modanisa.com^$script
 ||rvautoparts.com^
 ||rvetreyu.net^$popup
@@ -39714,7 +39715,6 @@ yydstxt*.com/js/html
 ||sex3.com/ee/s/s/im.php
 ||sex3.com/ee/s/s/js/ssu
 ||sex3.com/ee/s/s/su
-||sex8sex844.com^
 ||sexad.net^
 ||sexad.net^$popup
 ||sexad.net^$third-party
@@ -42866,6 +42866,7 @@ yydstxt*.com/js/html
 ||thisisyourprize.site^$popup
 ||thismaturesex.com^
 ||thisvid.com/enblk/
+||thj36m3dm.com^
 ||thk4.com^
 ||thlcd.cn^
 ||thljnv.top^
@@ -43404,7 +43405,6 @@ yydstxt*.com/js/html
 ||tpdwm.com^
 ||tpebroking.com^
 ||tpembars.com^
-||tphsck.com^
 ||tphurqalq.com^
 ||tphw001.com^
 ||tpjw.cn^
@@ -45957,6 +45957,7 @@ yydstxt*.com/js/html
 ||w51t.com^$subdocument
 ||w537a7.cc^
 ||w54551.cc^
+||w55b76.cc^
 ||w56953.cc^
 ||w56ff7.cc^
 ||w58547.cc^
@@ -47565,7 +47566,6 @@ yydstxt*.com/js/html
 ||xstt5.com/template/js/fx
 ||xsvyvr.top^
 ||xsystewideusync.com^
-||xszav2.com^
 ||xszpuvwr7.com^$popup
 ||xszwb.com^
 ||xt1nx0rs7n.com^
