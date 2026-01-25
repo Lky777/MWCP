@@ -6,17 +6,31 @@
 @@||eporner.com^$~third-party
 
 ! .A1
+||12img666394.com^
+||aottercdn.com^
 ||apologiesoccursdepressed.com^
+||arcaceahelper.cyou^
 ||baocps.com^
+||blockadsnot.com^
+||ceniiat.com^
+||cospu2011.top^
+||cww3qrrq4llezz7ct1231.com^
 ||dtazafmadnc.com^
 ||faayuuk.icu^
+||faqirsgoliard.top^
 ||ee555aa888.com^
+||hhoaglat.com^
 ||jgxohmdr.icu^
+||ndots1885.top^
 ||ojkandwaza.com^
 ||qzybazja.com^
 ||su0k43kcy.com^
+||syhze.com^
 ||tjvip.cc^
+||trellischafing.shop^
+||zbczce.com^
 ||zcxm.xyz^
+||zhuanshutupian458.com^
 
 ! .B1
 ||157.185.146.120^
@@ -33,6 +47,7 @@
 ||fatalfear.pro^
 ||jads.co^
 ||magsrv.com^
+||mdynieu.com^
 ||muddyclock.pro^
 ||popin.tw^
 ||popin.cc^
@@ -46,6 +61,7 @@
 
 ! .B2
 ||ad.52av.one^
+||static.addtoany.com^
 ||ip385154052.ahcdn.com^
 ||oss-accelerate.aliyuncs.com^$third-party
 ||oss-cn-hangzhou.aliyuncs.com^$third-party
@@ -58,6 +74,7 @@
 ||d1yw1n0ddlrqxj.cloudfront.net^
 ||d3ccefxs96519j.cloudfront.net^
 ||dq38rjje7qjm3.cloudfront.net^
+||dve95jyfq31ui.cloudfront.net^
 ||analytics.usnupjhh.v2008.coreserver.jp^
 ||fsa-api.feebee.tw^
 ||e2elog.fetnet.net^
@@ -92,9 +109,9 @@
 ||lf1-cdn-tos.bytegoofy.com/goofy/
 ||cdnjs.cloudflare.com/ajax/libs/fuckadblock/
 ||cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/
-|https://www.line-website.com/social-plugins/js/lib/sentry.
-||pic1.imgdb.cn/item/*.gif
+||static.javhd.com/h5/files/
 ||p0.meituan.net/csc/
+||rr.happymh.com/mbanner/
 ||playhubconnect.com/bn/
 ||p3-sign.toutiaoimg.com/tos-cn-i-eyfl5e3fp8/
 ||tsyndicate.com/do2/
@@ -115,19 +132,23 @@
 .com:8008/sc/*?*=
 .com/api/v1/mediation/tracking?adUnit=
 .com/jserror?type=
+.com/social-plugins/js/lib/sentry.
+.world/000/flink/analytics.php
 .xyz:8283/home?channel=
 .xyz/jt.php?
-/1x1.
 _ads.html?
 ://analytics.*.com/api/event
+/1x1.
 /cdn-cgi/speculation
 /popup/adblock/promo/banner/
+.cc/apijs/image/
 .com/api/models/
 .com/static/image/
 .com/static/video/bn/
 .com/wp-content/plugins/ai-share-summarize/
 .live:7891/stats/
 .com/1987.js
+.com/adgpt.js
 .com/google.js
 .com/js/ad-provider.js
 .com/js/ad-units.js
@@ -138,24 +159,27 @@ _ads.html?
 .com/Scripts/LogTracer.js
 .com/static/js/action.js
 .com/static/js/up.js
+.com/static/v2/mip-stats-baidu/mip-stats-baidu.js
 .com/template/jable/ads/bottom.js
 /ad.js
 /api/eventTracking/batchReport.json
+/api/eventTracking/report.json
+/frontend-gtag.min.js?
 /js/ga.js
 /js/hilltop.js
 /js/juicy.js
 /js/tm.js
 /js/zzz.js
 /videojs.ads.min.js
-||cdn.tapioni.com/adgpt.js
 ||connect.facebook.net/*/sdk.js
 |https://vk.com/js/api/share.js?
-||c.mipcdn.com/static/v2/mip-stats-baidu/mip-stats-baidu.js
 /1200-60.gif
 /960-120.gif
 /960-60.gif
 /960x60-1.gif
 /960x80.gif
+/960x120Q.gif
+/960X120.gif
 /a960x55.gif
 /bt960-60.gif
 /whob.gif?
@@ -163,7 +187,7 @@ _ads.html?
 .cn/upload_01/upload/*.gif
 .cn/upload_01/xiao/*.gif
 .net/static/images/*.gif
-/frontend-gtag.min.js?
+.tv/assets/ad/ad.gif
 /gg980-90.gif
 /images/ad1.gif
 /imgloading.gif
@@ -171,6 +195,7 @@ _ads.html?
 /loading.gif
 /loading.jpg
 ||nibuaideren.icu/*.gif
+||pic1.imgdb.cn/item/*.gif
 ||qy0.ru/*.gif
 ||rzpsrl.cn/imc/*.gif
 !
@@ -299,6 +324,7 @@ www.txrjy.com###tryOpenApp
 |https://hanmanjd.org/jt.php?
 
 ! happymh
+|https://m.happymh.com/styles/need/layer.css?
 ||m.happymh.com/static/media/
 ||m.happymh.com/styles/friendAds.
 
