@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202601241925
-! Last modified: 24 Jan 2026 19:25 UTC
+! Version: 202601250751
+! Last modified: 25 Jan 2026 07:51 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -227,6 +227,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .bt*.com/imgs.js?t=
 .buzz/*=$object,third-party
 .ca/ads/$~xmlhttprequest
+.cc/apijs/image/
 .cc/js/dj1*.js
 .cc/js/dj2*.js
 .cfm?ad=
@@ -270,6 +271,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/a_d/
 .com/ad/$~image,third-party,domain=~espn.com|~mediaplex.com|~warpwire.com|~wsj.com
 .com/addnew.php
+.com/adgpt.js
 .com/ads?$popup
 .com/adv/$domain=~adv.asahi.com|~advantabankcorp.com|~alltransistors.com|~archiproducts.com|~tritondigital.com
 .com/adv1/?q=
@@ -365,11 +367,13 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/script/xbox.js$third-party
 .com/sh/to/$script,third-party,xmlhttprequest
 .com/sitejs/hansan.js
+.com/social-plugins/js/lib/sentry.
 .com/src/ppu/$third-party
 .com/static/image/
 .com/static/js/action.js
 .com/static/js/ad.js
 .com/static/js/up.js
+.com/static/v2/mip-stats-baidu/mip-stats-baidu.js
 .com/static/video/bn/
 .com/stats.aspx?
 .com/style/vue.js?v=
@@ -631,6 +635,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .topad.
 .tor*/js/jquery.bpopup.
 .tuite8.
+.tv/assets/ad/ad.gif
 .tv/gg/
 .tv/style/vue.js?v=
 .u.18dx.
@@ -656,6 +661,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .whoclick.
 .windsad.
 .woniu666.
+.world/000/flink/analytics.php
 .wyunion.
 .xenw.
 .xi666.
@@ -891,8 +897,10 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /950x90.gif$image
 /960-120.gif
 /960-60.gif
+/960X120.gif
 /960_60.$script,subdocument
 /960_60_
+/960x120Q.gif
 /960x60-1.gif
 /960x80.gif
 /960x90-$image
@@ -1524,6 +1532,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /api/drpstats
 /api/event-rfkj/
 /api/eventTracking/batchReport.json
+/api/eventTracking/report.json
 /api/events|$ping,~third-party
 /api/goods/v1/get.script.core?
 /api/internal/pixel?
@@ -7897,6 +7906,7 @@ yydstxt*.com/js/html
 |https://img.ithome.com/file/dylive/dylive.min.js^$script
 |https://m.163.com/touch/api/paid-article/well-chosen-rec-list?
 |https://m.163.com/touch/behavior.html?
+|https://m.happymh.com/styles/need/layer.css?
 |https://m.mydrivers.com/m/relatednews.ashx?
 |https://m.sm.cn/adclick?
 |https://mhjia.com/js/foot.js?
@@ -7912,7 +7922,6 @@ yydstxt*.com/js/html
 |https://www.ghxi.com/wp-content/plugins/wp-opt/static/js/ai-summary.min.js?
 |https://www.ghxi.com/wp-content/plugins/wp-opt/static/js/front.min.js?
 |https://www.haijiaoshipin.com/build/assets/popup-
-|https://www.line-website.com/social-plugins/js/lib/sentry.
 |https://www.pornbest.org/site/stat?
 |https://www.ytsptv.com/Php/Home/kakaxiaikakaxi.php
 |https://www.ytsptv.com/popup_api.php?
@@ -8237,6 +8246,7 @@ yydstxt*.com/js/html
 ||127.net/m/*/prompic.jpg
 ||12img250769.com^
 ||12img286755.com^
+||12img666394.com^
 ||12img707989.com^
 ||12ybs41sa.com^
 ||130.211.$popup,third-party,domain=~in-addr.arpa
@@ -9725,6 +9735,7 @@ yydstxt*.com/js/html
 ||7q1z79gxsi.global.ssl.fastly.net^
 ||7qxv9s5q16.com^
 ||7rag9q1on.com^
+||7ryx7ph5y.com^
 ||7scs.com/public/img/list-
 ||7strqfn56s.com^
 ||7switch.com^
@@ -10478,6 +10489,7 @@ yydstxt*.com/js/html
 ||acookie.*.gif?
 ||acoustic-adm.com^
 ||acq.io^$third-party
+||acqephvfx.com^
 ||acquiredeceasedundress.com^
 ||acquistosicuro.net^
 ||acronymfinder.com/~/tr.ashx
@@ -12497,6 +12509,7 @@ yydstxt*.com/js/html
 ||anhuinews.com/include/
 ||anhuinews.com/zhuyeguanli/*ad/
 ||anibase.net^
+||anigo.to^$third-party
 ||aniliberty.top^
 ||aniltramps.top^$popup
 ||animalssomev.com^
@@ -12627,6 +12640,7 @@ yydstxt*.com/js/html
 ||aos01080ss.xyz^
 ||aoshi.com/rbc.jpg
 ||aotter.net^
+||aottercdn.com^
 ||aovk.cn^
 ||aovxm2j9c.com^
 ||aoxuks.com^
@@ -12923,6 +12937,7 @@ yydstxt*.com/js/html
 ||arborerplanful.shop^$popup
 ||arc.io^$third-party
 ||arc.pub/clavis/training/events
+||arcaceahelper.cyou^
 ||arcadeweb.com^$third-party
 ||archelonlimited.com^
 ||archetype32.top^
@@ -14853,6 +14868,7 @@ yydstxt*.com/js/html
 ||blixcore.xyz^
 ||blobcdn88.net^
 ||block-ad.com^$popup
+||blockadsnot.com^
 ||blockadsnot.com^$popup
 ||blockadstop.info^$popup
 ||blockchain-ads.com^
@@ -15710,7 +15726,6 @@ yydstxt*.com/js/html
 ||c.live.com^
 ||c.m.163.com^$subdocument
 ||c.mgid.com^
-||c.mipcdn.com/static/v2/mip-stats-baidu/mip-stats-baidu.js
 ||c.mnjkw.cn^
 ||c.newyorker.com^
 ||c.nuhcpf.com^
@@ -16261,7 +16276,6 @@ yydstxt*.com/js/html
 ||cdn.statically.io/gh/opcdn/analytics/main/script.js
 ||cdn.streambeast.io/angular.js
 ||cdn.super.com/remote-event-registry.json
-||cdn.tapioni.com/adgpt.js
 ||cdn.thejournal.ie/media/hpto/$image
 ||cdn.throatbulge.com^
 ||cdn.tolt.io/tolt.js
@@ -16396,6 +16410,7 @@ yydstxt*.com/js/html
 ||cellcom.com^
 ||cellufun.com^
 ||cendien.com^
+||ceniiat.com^
 ||centeda.com^
 ||centent.stemplay.cc^$popup
 ||center.io^$third-party
@@ -17947,6 +17962,7 @@ yydstxt*.com/js/html
 ||cosman106.top^
 ||cosmicforge.net^
 ||cosplayrule34.com^
+||cospu2011.top^
 ||cossn.com^
 ||cost1action.com^$third-party
 ||costabikinis.com^
@@ -18054,6 +18070,7 @@ yydstxt*.com/js/html
 ||cpcmanager.com^$third-party
 ||cpcxke.icu^
 ||cpglqg.icu^
+||cpgve9dnj.com^
 ||cpkshop.com/campaign/$third-party
 ||cpm.amateurcommunity.de^
 ||cpm.appocean.media^
@@ -18480,6 +18497,7 @@ yydstxt*.com/js/html
 ||cwt.citywire.info^
 ||cww.net.cn/include/show.asp?boardid=
 ||cww.net.cn/js/urdev.js
+||cww3qrrq4llezz7ct1231.com^
 ||cwymo2940637fafa.com^
 ||cwzy66.com^
 ||cxad.cxense.com^
@@ -21310,6 +21328,7 @@ yydstxt*.com/js/html
 ||dv8v1cvc98vkm.cloudfront.net^
 ||dvc8653ec6uyk.cloudfront.net^
 ||dvdtoile.com^
+||dve95jyfq31ui.cloudfront.net^
 ||dvgr.cn^
 ||dvh66m0o7et0z.cloudfront.net^
 ||dvl8xapgpqgc1.cloudfront.net^
@@ -22858,6 +22877,7 @@ yydstxt*.com/js/html
 ||faptor.com/bump/
 ||faptrex.com/fire/popup.js
 ||fapturbo.com/testoid/
+||faqirsgoliard.top^
 ||faqprime.com^
 ||faqtoids.com^
 ||faquanya.com/weixin/
@@ -25444,6 +25464,7 @@ yydstxt*.com/js/html
 ||gsk801231hh.com^
 ||gsk801240hh.com^
 ||gsk801241hh.com^
+||gsk801250hh.com^
 ||gslb.com^
 ||gsmarena.com/top-skin.min.js
 ||gsniper.com/images/
@@ -26117,6 +26138,7 @@ yydstxt*.com/js/html
 ||hhdus.com^
 ||hhgasdygqwueysbjadasghds.com^
 ||hhiklm.com^
+||hhoaglat.com^
 ||hhppzkhurf.com^
 ||hhr3ybjsoy.com^
 ||hhracb.cn^
@@ -31159,6 +31181,7 @@ yydstxt*.com/js/html
 ||m5.66077.cn^
 ||m5post.com^
 ||m5r.hoes.tube^
+||m5uiy5gd1.com^
 ||m69tvg6wqd.com^
 ||m6d3h9vc3z.com^
 ||m6r.eu^$third-party
@@ -31663,6 +31686,7 @@ yydstxt*.com/js/html
 ||mdstaff.com^
 ||mdt.crateandbarrel.com^
 ||mdxprod.io/analytics.js
+||mdynieu.com^
 ||me360.com/swt/swt.js
 ||me4b65enw.com^
 ||me4track.com^$popup
@@ -33330,6 +33354,7 @@ yydstxt*.com/js/html
 ||ndkjrx.xyz^
 ||ndlls05h.top^
 ||ndnscloud.com^
+||ndots1885.top^
 ||ndrive.com^
 ||nealsyardremedies.com^
 ||neareststokergrating.com^
@@ -34360,6 +34385,7 @@ yydstxt*.com/js/html
 ||ohffs.com^
 ||ohioresidentdirectory.com^
 ||ohirsoungocougn.net^
+||ohlanaizn.com^
 ||ohm-dot-hackster-io.appspot.com^
 ||ohmycdn.com^
 ||ohmygore.com/ef_pub
@@ -36080,6 +36106,7 @@ yydstxt*.com/js/html
 ||plasmanodes.com^
 ||plasping.com^
 ||platanosmangoes.com^
+||plateau77.com^
 ||platform-media.net^
 ||platform-mega.com^
 ||platform.iteratehq.com^
@@ -38711,6 +38738,7 @@ yydstxt*.com/js/html
 ||rpvqhicca.com^
 ||rpyislr.com^
 ||rqhajf.icu^
+||rr.happymh.com/mbanner/
 ||rr555gg999.com^
 ||rrcdnbf2.com^
 ||rrcdnbf3.com^
@@ -40683,6 +40711,7 @@ yydstxt*.com/js/html
 ||solaradvcorp.com^
 ||solaranalytics.org^$popup
 ||solarbe.com^
+||solarcdn.me^$third-party
 ||solarwinds.com/ra-$script
 ||soldierreproduceadmiration.com^$popup
 ||soldierrewet.com^
@@ -41244,6 +41273,7 @@ yydstxt*.com/js/html
 ||static-tracking.klaviyo.com^
 ||static-viamobilis.com^
 ||static.ad.libimseti.cz^
+||static.addtoany.com^
 ||static.cnbetacdn.com/frontend/vipics/$image
 ||static.doyouhike.net/partner/
 ||static.fastpic.org^$subdocument
@@ -41253,6 +41283,7 @@ yydstxt*.com/js/html
 ||static.gridsumdissector.com^
 ||static.ichehome.com^
 ||static.ifruplink.net/static_src/mc-banner/
+||static.javhd.com/h5/files/
 ||static.javxxx.me^
 ||static.klaviyo.com/onsite/js/event_adapter.
 ||static.meijiacun.com^
@@ -41955,6 +41986,7 @@ yydstxt*.com/js/html
 ||sydpower.com^
 ||syfrqe.cn^
 ||sygictraveldata.com^
+||syhze.com^
 ||sylverlight.net^
 ||symby.com^
 ||symjgg.icu^
@@ -43290,6 +43322,7 @@ yydstxt*.com/js/html
 ||toronwb.com^
 ||torpsol.com^$popup
 ||torrent-protection.com^$popup
+||torrent25.com^
 ||torrent911.ws/z-
 ||torrentdownloads.net^
 ||torrenteditor.com/img/graphical-network-monitor.gif
@@ -43897,6 +43930,7 @@ yydstxt*.com/js/html
 ||treeyork.com^
 ||trektor.top^
 ||trellian.com^$popup
+||trellischafing.shop^
 ||trellq.com^
 ||tremorvideodsp.com^
 ||trendads.reactivebetting.com^
@@ -48449,6 +48483,7 @@ yydstxt*.com/js/html
 ||zaylport.xyz^
 ||zazzybabes.com/istr/t2eff4d92a2d.js
 ||zbcdn.net/__uvjgyw/slb.default.js
+||zbczce.com^
 ||zbfo.cn^
 ||zbgoyqs.xyz^
 ||zbislaernv.com^
@@ -48661,6 +48696,7 @@ yydstxt*.com/js/html
 ||zhuangshidu.com^
 ||zhuangshiji.com^
 ||zhuangyi.com^
+||zhuanshutupian458.com^
 ||zhuashi.oss-cn-beijing.aliyuncs.com^$domain=~zhuashi.com
 ||zhuchaogu.com^
 ||zhuchaowu.com^
