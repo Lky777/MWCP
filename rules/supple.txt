@@ -111,7 +111,6 @@
 ||cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/
 ||static.javhd.com/h5/files/
 ||p0.meituan.net/csc/
-||rr.happymh.com/mbanner/
 ||playhubconnect.com/bn/
 ||p3-sign.toutiaoimg.com/tos-cn-i-eyfl5e3fp8/
 ||tsyndicate.com/do2/
@@ -201,6 +200,7 @@ _ads.html?
 !
 ! ========== Ele blocking ==========
 duckduckgo.com##.js-atb-banner
+m.happymh.com###layui-m-layer0
 kuaidi100.com##.index__download-box
 smzdm.com##.damo-footer-open-app
 sohu.com###CallAppContainer
@@ -325,6 +325,8 @@ www.txrjy.com###tryOpenApp
 
 ! happymh
 |https://m.happymh.com/styles/need/layer.css?
+|https://m.happymh.com/v2.0/apis/manga/log
+|https://rr.happymh.com/mbanner/*.gif.webp
 ||m.happymh.com/static/media/
 ||m.happymh.com/styles/friendAds.
 
