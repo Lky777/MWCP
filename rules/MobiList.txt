@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202601251926
-! Last modified: 25 Jan 2026 19:26 UTC
+! Version: 202601261432
+! Last modified: 26 Jan 2026 14:32 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -7821,6 +7821,7 @@ kingdeecn.cn
 kstj.baidu.com
 kuaidi100.com##.index__download-box
 logoshejishi.com
+m.happymh.com###layui-m-layer0
 mairuanwang.com
 makeding.com
 mathtype.cn
@@ -7907,10 +7908,12 @@ yydstxt*.com/js/html
 |https://m.163.com/touch/api/paid-article/well-chosen-rec-list?
 |https://m.163.com/touch/behavior.html?
 |https://m.happymh.com/styles/need/layer.css?
+|https://m.happymh.com/v2.0/apis/manga/log
 |https://m.mydrivers.com/m/relatednews.ashx?
 |https://m.sm.cn/adclick?
 |https://mhjia.com/js/foot.js?
 |https://purr.nytimes.com/v1/directives
+|https://rr.happymh.com/mbanner/*.gif.webp
 |https://sobt18.icu/Public/static/js/common.js?
 |https://unpkg.zhimg.com/@cfe/sentry-script@
 |https://vk.com/js/api/share.js?
@@ -8966,6 +8969,7 @@ yydstxt*.com/js/html
 ||3dblind.com^
 ||3dfulicai.com^
 ||3dheartmodeling.com^
+||3dle4u60y7.com^
 ||3dlivestats.com^$third-party
 ||3dmax8.com/atu4/
 ||3dmax8.com/jiaoche
@@ -11434,6 +11438,8 @@ yydstxt*.com/js/html
 ||affstreck.com^$popup
 ||afftrack.com^
 ||afftrack.pro^$third-party
+||affxc.com/topbanner-
+||affxc.com^*-792-180.
 ||affyun.com/wp-content/uploads/*-ad.
 ||affyun.com/wp-content/uploads/*/ad-
 ||affyun.com/wp-content/uploads/*/affffff.png
@@ -20649,6 +20655,7 @@ yydstxt*.com/js/html
 ||dl5ft52dtazxd.cloudfront.net^
 ||dlads.cn^$third-party
 ||dlcentral.top^
+||dldhulolw.com^
 ||dleicukp.com^
 ||dlelkindp.com^
 ||dlem1deojpcg7.cloudfront.net^
@@ -22004,6 +22011,7 @@ yydstxt*.com/js/html
 ||embeddedanalytics.com^$third-party
 ||embedlydesk.com^
 ||embedme.top/embed/extra
+||embedsports.top/ad.html
 ||embedsports.top^
 ||embellished-tree.com^
 ||embercascademaple.com^
@@ -22173,6 +22181,7 @@ yydstxt*.com/js/html
 ||eproof.com^$third-party
 ||eproof.drudgereport.com^
 ||eps-analyzer.de^$third-party
+||epsilon.6sense.com^
 ||epsilonconcepts.com^
 ||eptougry.net^$popup
 ||epxlt.xyz^
@@ -24845,6 +24854,7 @@ yydstxt*.com/js/html
 ||gkvrdf.com^
 ||gkzhan.com^
 ||glacier32.com^
+||glacier48.top^
 ||gladns.com^
 ||gladysway.com^
 ||glakraptaidsupi.net^$popup
@@ -25015,6 +25025,7 @@ yydstxt*.com/js/html
 ||go.nutraingredients.com/pd.js
 ||go.onelink.me^$image,script
 ||go.pardot.com^
+||go.playlg.com^$popup
 ||go.pornav.net^
 ||go.redgifs.com^
 ||go.roobet.com^$popup
@@ -25466,6 +25477,8 @@ yydstxt*.com/js/html
 ||gsk801241hh.com^
 ||gsk801250hh.com^
 ||gsk801251hh.com^
+||gsk801260hh.com^
+||gsk801261hh.com^
 ||gslb.com^
 ||gsmarena.com/top-skin.min.js
 ||gsniper.com/images/
@@ -25900,6 +25913,7 @@ yydstxt*.com/js/html
 ||hcinvdu.top^
 ||hcirentgh.360doc.cn^
 ||hcjs.nv7s.com/dewijzyo/
+||hcl6pwowqv.com^
 ||hcmanager.swifteq.com/hc_events/
 ||hcnamecdns.com^
 ||hcokamiu.top^
@@ -27498,6 +27512,7 @@ yydstxt*.com/js/html
 ||imile-inc.com^
 ||imini.com^
 ||imitrk13.com^$popup
+||imjll5rwuq.com^
 ||imjoeusgh.com^
 ||imjtv.cc^$third-party
 ||imkirh.com^$popup
@@ -33310,6 +33325,7 @@ yydstxt*.com/js/html
 ||naytev.com^$third-party
 ||nb-bet.com^
 ||nb.zol.com.cn/detail_*.html
+||nb4ds7c13d.com^
 ||nbarizona.com/metrics/
 ||nbastreamswatch.com/z-6229510.js
 ||nbc.com/webevents/
@@ -33568,6 +33584,7 @@ yydstxt*.com/js/html
 ||newsexplorer.net^
 ||newsforyourmood.com^$popup
 ||newsfrompluto.com^$popup
+||newshinyd.com/tracking/click.gif
 ||newsignites.com^$popup
 ||newsiqra.com^$subdocument,third-party
 ||newsletters.nationalgeographic.com^$image,third-party
@@ -34192,6 +34209,7 @@ yydstxt*.com/js/html
 ||o02231aokk.com^
 ||o02251aokk.com^
 ||o02260aokk.com^
+||o0rnzwzst5.com^
 ||o1.jyjyj.cn^
 ||o18.click^$popup
 ||o333o.com^$popup
@@ -34354,6 +34372,7 @@ yydstxt*.com/js/html
 ||ofincm.icu^
 ||ofja.cn^
 ||ofkccsp35i.com^
+||ofoltekbn.com^
 ||ofphanpytor.com^$popup
 ||ofredirect.com^$popup
 ||ofseedotom.com^$popup
@@ -36183,6 +36202,7 @@ yydstxt*.com/js/html
 ||playonlinegames.space^$popup
 ||playpickup.com^
 ||playprojectr.com^
+||playrainbet.com^$popup
 ||playspelis.com^
 ||playstats.v.duowan.com^
 ||playstretch.host^$popup
@@ -38738,7 +38758,6 @@ yydstxt*.com/js/html
 ||rpvqhicca.com^
 ||rpyislr.com^
 ||rqhajf.icu^
-||rr.happymh.com/mbanner/
 ||rr555gg999.com^
 ||rrcdnbf2.com^
 ||rrcdnbf3.com^
@@ -38988,6 +39007,7 @@ yydstxt*.com/js/html
 ||rzbvxn.icu^
 ||rzcruzullr.com^
 ||rzidtxzdtvz.com^
+||rzjdsm7tgz.com^
 ||rzpsrl.cn/imc/*.gif
 ||rztrkr.com^$third-party
 ||s-microsoft.com/mscc/$~stylesheet
@@ -41012,6 +41032,7 @@ yydstxt*.com/js/html
 ||sqiorli2w.com^
 ||sqjowyuzv.com^
 ||sqllq.com^
+||sqmn4wncty.com^
 ||sqn2tlnw.xyz^
 ||sqskj.com^
 ||sqtxj.com^
@@ -43766,6 +43787,7 @@ yydstxt*.com/js/html
 ||trackyserver.com^
 ||tracookiepixel.xyz^
 ||tracot.com^$popup
+||traction.technologyadvice.com^
 ||tracyspb.com^
 ||tradablebits.com/pixels/
 ||trade-cloud.com.cn^
@@ -44320,6 +44342,7 @@ yydstxt*.com/js/html
 ||tw.partner.buy.yahoo.com^$domain=cool3c.com
 ||tw.rd.yahoo.com^$image
 ||tw0ihhb04.com^
+||twa735xojg.com^
 ||twagoda.com^
 ||twavtv.com/js/jquery.colorbox
 ||twcnmti.top^
