@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202601271936
-! Last modified: 27 Jan 2026 19:36 UTC
+! Version: 202601281939
+! Last modified: 28 Jan 2026 19:39 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -434,6 +434,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .exian.
 .feesee.
 .feike5.
+.file-downloads.outbound-links.js
 .flunion.
 .fun/by389.js
 .fun/in390hg2.js
@@ -451,6 +452,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .gtrxm.
 .gyy1314.
 .haoll.
+.hash.outbound-links.js
 .heroclick.
 .hgo0*uyi.com/$script,xmlhttprequest,third-party
 .hh0*aoik.com/$script,xmlhttprequest,third-party
@@ -551,8 +553,10 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .org/config/v7.js
 .org/script/compatibility.js$third-party
 .org/topjs/
-.outbound-links.pageview-props.revenue.tagged-events.js
+.outbound-links.file-downloads.js
+.outbound-links.tagged-events.js
 .pageview-props.js
+.pageview-props.tagged-events.js
 .php?action=browse&
 .php?action_name=
 .php?ad=
@@ -598,6 +602,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .qsko0*mas.com/$script,xmlhttprequest,third-party
 .r.arpg2.
 .redu-click.
+.revenue.tagged-events.js
 .rj518.
 .rsccs.
 .ru/ads/$~xmlhttprequest,domain=~limehd.tv|~litehd.tv|~pervyi-tv.online|~russia-tv.online|~shadowcore.ru|~tvzvezda.ru
@@ -620,6 +625,8 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .swf?clicktag=
 .switchadhub.
 .t3nlink.
+.tagged-events.outbound-links.js
+.tagged-events.revenue.js
 .test15./
 .tiaosa.
 .tjq.
@@ -1652,6 +1659,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /awstats_misc_tracker
 /azion-pulse.js
 /aztracker.js
+/azzas-tracker-web@
 /b.banners.impress.
 /b.gif?
 /b.rnc?
@@ -2720,6 +2728,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /gguangg$image,object
 /ggvip/*.js
 /gh/91porny/
+/ghost-stats.min.js
 /gigyagaintegration.js
 /gingeranalytics.min.js
 /glancecobrowseloader_
@@ -3338,6 +3347,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /load_analytics.php
 /loader-wp/static/loader.min.js?
 /loader/counter.js
+/loaders/analyticsscript.ts?
 /loading.gif
 /loading.jpg
 /localga.js
@@ -3488,6 +3498,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /matongwu/img/gg_
 /maven/am.js$script
 /maxcms/
+/mc4wp-premium/ecommerce3/assets/js/tracker.js
 /mcfg
 /mcookie.aspx
 /mcount.cgi?
@@ -3959,13 +3970,17 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /pjk/static/tp.php
 /pjk/xjk/*.php
 /planetstat.php
+/plausible.file-downloads.js
 /plausible.js$domain=~plausible.io
 /plausible.manual.js
 /plausible.outbound-links.js$domain=~plausible.io
+/plausible.tagged-events.js
 /player-test-impression?
 /player/ads/*$~xmlhttprequest
 /player/stats.php?
+/player/video.js/videojs-vast-vpaid/
 /plg_adbutlerads/*$script,stylesheet
+/plg_convertformstools_gatracker/js/script.js
 /plog?id
 /plow.lite.js
 /plugin.php?id=popad_7ree&
@@ -4009,6 +4024,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /plugins/wordfence/visitor.php?
 /plugins/wp-vgwort/
 /pmc-cxense.js
+/pmfastclick.min.js
 /pn07uscr/f/tr/zavbn/*$third-party
 /pogoadkit.js
 /pointeur.gif?
@@ -4043,6 +4059,8 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /popupads.js$script
 /porpoiseant/*$script
 /portalwlanad/pages/*$popup
+/post-views-counter-pro/js/crawler-detect.js
+/post-views-counter-pro/js/frontend.js
 /postcounter.php?
 /postlog?
 /postview.gif?
@@ -4373,9 +4391,8 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /scr/wtixyd.js
 /screencount?vcid=
 /scribd_events?
-/script.hash.outbound-links.pageview-props.tagged-events.js
+/script.outbound-links.js
 /script.tagged-events.js
-/script.tagged-events.outbound-links.js
 /script/aclib.js$third-party
 /script/antd.js$third-party
 /script/app_settings.js$third-party
@@ -5393,6 +5410,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /web-pixel-shopify-app-pixel@
 /web-pixel-shopify-custom-pixel@
 /web-vitals-analytics.js
+/web-vitals.iife.js
 /web/push?
 /web_ads/*$image
 /web_analytics/
@@ -7971,6 +7989,7 @@ yydstxt*.com/js/html
 ||0321547.com^
 ||033-telecom.net^
 ||036197.xyz^
+||03in08p3r1.com^
 ||03t441b8w.com^
 ||0417bbs.com^
 ||042.cn/adver/
@@ -8350,6 +8369,7 @@ yydstxt*.com/js/html
 ||169bbs.com/AllRes/
 ||16m.cc^$third-party
 ||16sucai.com/images/*0
+||16xxq8lb4g.com^
 ||17.huanqiu.com^
 ||1708t.com/js/jquery.js
 ||17173.com/actapi/qiyu/
@@ -8613,6 +8633,7 @@ yydstxt*.com/js/html
 ||222xs.com/js/greentea.js
 ||222xs.net^
 ||2231tpc.com^
+||224oztn8dq.com^
 ||22588888.com^$popup
 ||22bettracking.online^$popup
 ||22kjb1hqcg3.com^
@@ -8799,6 +8820,7 @@ yydstxt*.com/js/html
 ||2watchmygf.com/spot/
 ||2wq9u06jq.com^
 ||2xclock.com^
+||2xx63f0bfy.com^
 ||2y2s.com^
 ||2yjw.com/statics/js/jquery.min.
 ||2za.fun^
@@ -9525,8 +9547,10 @@ yydstxt*.com/js/html
 ||69shuba.cx^*/shu.js
 ||69shux.com/js/otherad.
 ||69t49.com/floating/layer.js
+||6acupxubky.com^
 ||6angebot.ch^$popup,third-party
 ||6avz.com^$script,third-party
+||6b8emvi3ya.com^
 ||6by30.com^
 ||6c641lgikp.top^
 ||6cjdya3djn.com^
@@ -11411,8 +11435,7 @@ yydstxt*.com/js/html
 ||affpa.top^$popup
 ||affstreck.com^$popup
 ||afftrack.pro^$third-party
-||affxc.com/topbanner-
-||affxc.com^*-792-180.
+||affxc.com^$third-party
 ||affyun.com/wp-content/uploads/*-ad.
 ||affyun.com/wp-content/uploads/*/ad-
 ||affyun.com/wp-content/uploads/*/affffff.png
@@ -12282,6 +12305,7 @@ yydstxt*.com/js/html
 ||analytics.eggoffer.com^
 ||analytics.eip.telegraph.co.uk^
 ||analytics.erepublic.com^
+||analytics.eternagame.org^
 ||analytics.everythingstream.com^
 ||analytics.fabricators.ltd^$third-party
 ||analytics.facebook.com^$third-party
@@ -12325,6 +12349,7 @@ yydstxt*.com/js/html
 ||analytics.lunaweb.cloud^
 ||analytics.m7g.twitch.tv^
 ||analytics.maikel.pro^
+||analytics.maileon.com^
 ||analytics.mailmunch.co^
 ||analytics.makeitmeme.com^
 ||analytics.matchbin.com^
@@ -16250,6 +16275,7 @@ yydstxt*.com/js/html
 ||cdn.ravm.tv^
 ||cdn.shdsp.net/ad
 ||cdn.shopify.com^*/assets/spreadrwidget.js$domain=jolinne.com
+||cdn.sinparty.com/site/banner.html
 ||cdn.skypack.dev/uuid
 ||cdn.sourcesync.io/open-pixel/source-pixel.js
 ||cdn.sphinxtube.com^
@@ -16258,6 +16284,7 @@ yydstxt*.com/js/html
 ||cdn.statically.io/gh/opcdn/analytics/main/script.js
 ||cdn.streambeast.io/angular.js
 ||cdn.super.com/remote-event-registry.json
+||cdn.tds.bid/bid.js
 ||cdn.thejournal.ie/media/hpto/$image
 ||cdn.throatbulge.com^
 ||cdn.tolt.io/tolt.js
@@ -18526,6 +18553,7 @@ yydstxt*.com/js/html
 ||d.ab126.com^
 ||d.analyticsmania.com^
 ||d.dgzj.com^
+||d.lilstts.com^
 ||d.rcmd.jp^$image
 ||d.seksohub.com^
 ||d.shareaholic.com^
@@ -23915,6 +23943,7 @@ yydstxt*.com/js/html
 ||fudge.ai/metrics?
 ||fudgerub.com^
 ||fudukrujoa.com^$popup
+||fuel-design.com/js/script.js
 ||fuelboss.net^
 ||fuelbuck.com^$third-party
 ||fueldeck.com^$third-party
@@ -25419,6 +25448,8 @@ yydstxt*.com/js/html
 ||gsk801261hh.com^
 ||gsk801270hh.com^
 ||gsk801271hh.com^
+||gsk801280hh.com^
+||gsk801281hh.com^
 ||gslb.com^
 ||gsmarena.com/top-skin.min.js
 ||gsniper.com/images/
@@ -25973,6 +26004,7 @@ yydstxt*.com/js/html
 ||helmethomicidal.com^$popup
 ||helpforsmartphone.com^
 ||helpingthought.com^
+||helpmonks.com/cftag/
 ||helpnetsecurity.com/wp-admin/admin-ajax.php
 ||helpshift.com/events/
 ||heltrios.xyz^
@@ -28839,6 +28871,7 @@ yydstxt*.com/js/html
 ||js.92aliyun.com^
 ||js.bju888.com^
 ||js.cdn.applicationinsights.io/scripts/b/ai.3.gbl.min.js
+||js.clickrank.ai^$third-party
 ||js.cmoa.pro^
 ||js.cncrk.com/
 ||js.duotegame.com^
@@ -29112,6 +29145,7 @@ yydstxt*.com/js/html
 ||k06kldksi3.com^
 ||k0j5n7.com^
 ||k0jw6qzyh.com^
+||k0winsnua2.com^
 ||k1.dancihu.com^
 ||k1.wanwenwan.cn^
 ||k1.wendahu.com^
@@ -30630,6 +30664,7 @@ yydstxt*.com/js/html
 ||log-upload-os.hoyolab.com^
 ||log-upload-os.hoyoverse.com^
 ||log.aimtell.com^
+||log.aliyuncs.com^
 ||log.bitauto.com^
 ||log.china.cn^
 ||log.cookieyes.com^
@@ -31116,10 +31151,12 @@ yydstxt*.com/js/html
 ||m2pfintech.com^
 ||m365log.com^$third-party
 ||m3cqjc3og6.com^
+||m3ks1o8jz.com^
 ||m3uassets.com^
 ||m43ocq1uoj.com^
 ||m447.com^
 ||m45504d3.xyz^
+||m485oq2gym.top^
 ||m4fxreb5s.com^
 ||m4r.fun^
 ||m5.66077.cn^
@@ -32231,6 +32268,7 @@ yydstxt*.com/js/html
 ||mkaff.com^$popup
 ||mkcms.com/stats.js
 ||mkd88.cc/16.32.jpg
+||mkff.cn^
 ||mkjsqrpmxqdf.com^$popup
 ||mkt3261.com^$third-party
 ||mkt51.net^$third-party
@@ -34163,6 +34201,7 @@ yydstxt*.com/js/html
 ||nythingamglad.com^$popup
 ||nytimes.com/v1/purr-cache
 ||nytlog.com^$third-party
+||nyv388w6lc.com^
 ||nyxasj.com^
 ||nyxscans.com^
 ||nyzrbx.icu^
@@ -34624,6 +34663,7 @@ yydstxt*.com/js/html
 ||online-service-whatsapp.com.cn^
 ||online-umwandeln.de/analytics.js
 ||online.*/promoredirect?key=
+||online.marketing/a.js
 ||onlinecashmethod.com^$popup
 ||onlinecheckwriter.com^
 ||onlinecomponents.com^
@@ -34951,6 +34991,7 @@ yydstxt*.com/js/html
 ||otherside.xyz^
 ||otieu.com^
 ||otieu.com^$popup
+||otiladgyo.com^
 ||otkwcg.icu^
 ||otlj.cn^
 ||otme.cn^
@@ -35487,6 +35528,7 @@ yydstxt*.com/js/html
 ||pdf-pdq.com^
 ||pdfagile.com^
 ||pdfbook.cn/wp-content/uploads/2017/11/049.jpg
+||pdfcrowd.com/static/3rd/js/fpr.js
 ||pdffiller.com/api_v3/experiment/
 ||pdffiller.com/api_v3/uploader/stats
 ||pdffiller.com/click-stream/
@@ -36690,7 +36732,6 @@ yydstxt*.com/js/html
 ||private4.com^$third-party
 ||privateadserver.com^
 ||privatedqualizebrui.info^$popup
-||privateinternetaccess.com^$script,third-party,xmlhttprequest
 ||privatejetfinder.com/skins/partners/$third-party
 ||privateseiten.net^$third-party
 ||privatewebseiten.com^$third-party
@@ -41082,6 +41123,7 @@ yydstxt*.com/js/html
 ||ssread.cn^
 ||sss777.net/alove-a/
 ||sssvd.china.com^
+||sst.brodo.com^
 ||sst.bwt.com^
 ||sst.shopware.com^
 ||sstdozb02.com^
@@ -41332,6 +41374,7 @@ yydstxt*.com/js/html
 ||stats.bluebillywig.com^
 ||stats.boringproxy.io^
 ||stats.bradmax.com^
+||stats.bryancollins.com^
 ||stats.bunkr.ru^
 ||stats.calcalist.co.il^
 ||stats.callnowbutton.com^
@@ -41417,6 +41460,7 @@ yydstxt*.com/js/html
 ||stats.wwitv.com^
 ||stats.zotabox.com^
 ||stats2.com^$third-party
+||stats2.helpmonks.com^
 ||stats2.indianpornempire.com^
 ||stats2.mytuner.mobi^
 ||stats21.com^$third-party
@@ -42543,6 +42587,7 @@ yydstxt*.com/js/html
 ||tempercurtexperimental.com^
 ||temperrunnersdale.com^$popup
 ||tempersyi.com^
+||tempest33.com^
 ||templates.cds.yahoo.com/remote/widget?
 ||tempo.xyz^
 ||temporalwavess.com^
@@ -44070,6 +44115,7 @@ yydstxt*.com/js/html
 ||truthtensor.com^
 ||truthtraff.com^$popup
 ||truuhmoen.com^
+||truunnoi.com^
 ||truvabetguncelgiris.com^
 ||truvagentibrowsepulse.com^
 ||truyenphatgiao.com^
@@ -45669,6 +45715,7 @@ yydstxt*.com/js/html
 ||vokut.com^$popup
 ||volanetworks.net^
 ||volantix.com^$third-party
+||volcano93.top^
 ||volcano98.com^
 ||volcenginedata.com^
 ||volcmcdnalias.com^
@@ -45727,6 +45774,7 @@ yydstxt*.com/js/html
 ||vprtrfc.com^$popup
 ||vprza.com^$third-party
 ||vps234.com/resources/images/hosting-promotion/
+||vpsbenchmarks.com/plausible.vpsb.js
 ||vpvq.cn^
 ||vpw1lig85.com^
 ||vpx4fmj4z6.com^
@@ -46930,6 +46978,7 @@ yydstxt*.com/js/html
 ||wvepppysvo.com^
 ||wvfvnrfeii.net^
 ||wvmxk4yu.com^
+||wvrp.cn^
 ||wvzd.cn^
 ||ww.hoes.tube^
 ||ww.sphinxtube.com^
