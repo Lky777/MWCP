@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202601281939
-! Last modified: 28 Jan 2026 19:39 UTC
+! Version: 202601291939
+! Last modified: 29 Jan 2026 19:39 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -5523,7 +5523,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /wp_pro_ad_system/templates/*$script,stylesheet
 /wp_stat.php?
 /wpadgu-adblock.js$script
-/wpadgu-clicks.js$script
 /wpadgu-frontend.js$script
 /wpbanners_show.php$script
 /wpengine-analytics/js/main.js
@@ -9108,6 +9107,7 @@ yydstxt*.com/js/html
 ||45ef74qn.com^
 ||45yz5i35r.com^
 ||465k3mlo9.com^
+||4667gwyg1.com^
 ||47.100.0.249/js/thea
 ||47272.net^
 ||4743442183e70dd7ctlight203.com^
@@ -9393,7 +9393,7 @@ yydstxt*.com/js/html
 ||5dariyanews.com/images/adherecolads.jpg
 ||5dfiuae82.com^
 ||5dimes.com^$popup
-||5dm.link/htm1/$image
+||5dm.link/htm$image
 ||5dmail.net/image/$object
 ||5dmail.net/image/ad_
 ||5dmail.net/image/orf_1000.gif
@@ -9691,6 +9691,7 @@ yydstxt*.com/js/html
 ||79ddtj.com^
 ||79pa4bxa86.com^$popup
 ||7app.top^$popup
+||7asx1bxaw.com^
 ||7awf4fi9k7.com^
 ||7bfst8xxtc.com^
 ||7bpeople.com^$third-party
@@ -10094,6 +10095,7 @@ yydstxt*.com/js/html
 ||9tata.com/js/www.js
 ||9tour.cn/x2/images/czmf.jpg
 ||9txnu9rlmd.com^
+||9vmbje748.com^
 ||9vviyje1s.top^
 ||9w2zed1szg.execute-api.us-east-1.amazonaws.com^
 ||9wcn.com/gcld/500.gif
@@ -13179,6 +13181,7 @@ yydstxt*.com/js/html
 ||asurascanz.com^
 ||asureforce.net^
 ||asy76rvai.com^
+||async-px-eu.dynamicyield.com^
 ||async-px.dynamicyield.com^
 ||asypwo.icu^
 ||asywk.com^
@@ -13550,6 +13553,7 @@ yydstxt*.com/js/html
 ||az64.com^
 ||az693360.vo.msecnd.net^
 ||azaleada1.top^
+||azb6ljd22.com^
 ||azbridal.com^
 ||azelerecambios.com^
 ||azera-s014.com^$third-party
@@ -25450,6 +25454,8 @@ yydstxt*.com/js/html
 ||gsk801271hh.com^
 ||gsk801280hh.com^
 ||gsk801281hh.com^
+||gsk801290hh.com^
+||gsk801291hh.com^
 ||gslb.com^
 ||gsmarena.com/top-skin.min.js
 ||gsniper.com/images/
@@ -25526,6 +25532,7 @@ yydstxt*.com/js/html
 ||gtrk.s3.amazonaws.com^
 ||gtrphahmu.com^
 ||gtuy6el1hd.com^
+||gtwrpsm.icu^
 ||gtx1080.top^
 ||gtyrqg.com^
 ||gu-pix.appspot.com^$third-party
@@ -30550,6 +30557,7 @@ yydstxt*.com/js/html
 ||lksda.com^
 ||lkstrck2.com^$popup
 ||lkthfpii.xyz^
+||lkwj.cn^
 ||ll.gxsky.com^
 ||ll.hudong.com^
 ||ll0b8kyfuz.com^
@@ -30884,6 +30892,7 @@ yydstxt*.com/js/html
 ||lqfctb.icu^
 ||lqftuugziloa.com^
 ||lqfvredung.com^
+||lqvz7e4xa.com^
 ||lqwu8xhg.com^
 ||lqxzx.com^
 ||lr-in-prod.com^$third-party
@@ -33195,6 +33204,7 @@ yydstxt*.com/js/html
 ||n49.com^
 ||n4sredirect.com^$popup
 ||n5725.com^
+||n5a92p9zo.com^
 ||n6579.com^
 ||n7181.com^
 ||n72bn5s7uu.top^
@@ -38916,6 +38926,7 @@ yydstxt*.com/js/html
 ||rumstat.cdnvideo.ru^
 ||run.app/api/pixel-event
 ||run.app/data.log
+||run.app/event-tracking-trigger
 ||run.app/events$domain=imgur.com|worldstar.com|worldstarhiphop.com
 ||run.app/events-receiver/get-web-event
 ||run.app/metrics/
@@ -41391,6 +41402,7 @@ yydstxt*.com/js/html
 ||stats.esecured.net^
 ||stats.externulls.com^$domain=beeg.com
 ||stats.flixhq.live^
+||stats.fluorescent.co^
 ||stats.fomo.com^
 ||stats.gateio.ch^
 ||stats.gifs.com^
@@ -41794,6 +41806,7 @@ yydstxt*.com/js/html
 ||summerdayo.com^
 ||summervgame.com^
 ||summerwm1.com^
+||summit87.com^
 ||summitplacekiaauburnhills.com^
 ||sumo.com^$third-party
 ||sumologic.com^$third-party,domain=~sumologic.net
@@ -43589,6 +43602,7 @@ yydstxt*.com/js/html
 ||tracker-2.com^$popup
 ||tracker-dot-optimeeze.appspot.com^
 ||tracker-po.com^
+||tracker-remp.premiumtimesng.com^
 ||tracker-rms.com^
 ||tracker-server.high-cdn.com^
 ||tracker-tds.info^$popup
@@ -44724,6 +44738,7 @@ yydstxt*.com/js/html
 ||uncocleypercha.com^
 ||undergoon.com^
 ||understandinstalledalfred.com^
+||undertow52.top^
 ||underwriting.allclassical.org/player-banners/
 ||undm.qibulo.com^
 ||undrads.com^
@@ -45963,6 +45978,7 @@ yydstxt*.com/js/html
 ||w5ba5b.cc^
 ||w5bi16f3co.com^
 ||w5c6d9.cc^
+||w5daa5.com^
 ||w5ftl8bhu3.com^
 ||w6.chabad.org^
 ||w6xbr7hc.xyz^
@@ -47154,6 +47170,7 @@ yydstxt*.com/js/html
 ||x7i0.com^
 ||x7i0.com^$popup
 ||x7u4.com^
+||x9flqeptn.com^
 ||xa6yyhhnn.com^
 ||xa888v9.com^
 ||xad.com^
@@ -48431,6 +48448,7 @@ yydstxt*.com/js/html
 ||z1.o8h7d.cn^
 ||z1.pclady.com.cn^
 ||z10djg4fmj.com^
+||z1e2vp1gw.com^
 ||z1hihu.xmcimg.com^
 ||z211.yourconroenews.com^
 ||z2ubj8bpk.com^
@@ -49007,6 +49025,7 @@ yydstxt*.com/js/html
 ||zxpaa.xyz^
 ||zxvklz.icu^
 ||zxw51.com^$third-party
+||zxwfcwm.icu^
 ||zxyvrtd.com^
 ||zybkrv.icu^
 ||zybrdr.com^$popup
