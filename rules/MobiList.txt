@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202601291939
-! Last modified: 29 Jan 2026 19:39 UTC
+! Version: 202601301942
+! Last modified: 30 Jan 2026 19:42 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -5692,7 +5692,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 ://adn.*/zone/$popup
 ://adn.*/zone/$subdocument
 ://ads.$popup,domain=~ad.olx.pl|~ads.mercadolibre.com.ar|~ads.mercadolibre.com.cl|~ads.mercadolibre.com.co|~ads.mercadolibre.com.ec|~ads.mercadolibre.com.mx|~ads.mercadolibre.com.pe|~ads.mercadolibre.com.ve|~ads.mercadolivre.com.br|~ads.umd.edu|~axon.ai|~kakaku.com|~reddit.com|~smartnews.com
-://ads.$~image,~xmlhttprequest,domain=~ads.8designers.com|~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.apple.com|~ads.atmosphere.copernicus.eu|~ads.axon.ai|~ads.band|~ads.bestprints.biz|~ads.bikepump.com|~ads.brave.com|~ads.buscaempresas.co|~ads.business.bell.ca|~ads.cafebazaar.ir|~ads.chewy.com|~ads.colombiaonline.com|~ads.comeon.com|~ads.cvut.cz|~ads.doordash.com|~ads.dosocial.ge|~ads.dosocial.me|~ads.elevateplatform.co.uk|~ads.ferrarichat.com|~ads.finance|~ads.flytant.com|~ads.fund|~ads.google.cn|~ads.google.com|~ads.gree.net|~ads.gurkerl.at|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kaipoke.biz|~ads.kifli.hu|~ads.knuspr.de|~ads.listonic.com|~ads.luarmor.net|~ads.magalu.com|~ads.mercadolibre.com.ar|~ads.mercadolibre.com.cl|~ads.mercadolibre.com.co|~ads.mercadolibre.com.ec|~ads.mercadolibre.com.mx|~ads.mercadolibre.com.pe|~ads.mercadolibre.com.ve|~ads.mercadolivre.com.br|~ads.mgid.com|~ads.microsoft.com|~ads.midwayusa.com|~ads.misskey.io|~ads.mobilebet.com|~ads.mojagazetka.com|~ads.msstate.edu|~ads.mst.dk|~ads.mt|~ads.naver.com|~ads.nc|~ads.nipr.ac.jp|~ads.olx.pl|~ads.palmettostatearmory.com|~ads.pinterest.com|~ads.realizeperformance.com|~ads.remix.es|~ads.rohlik.cz|~ads.rohlik.group|~ads.route.cc|~ads.safi-gmbh.ch|~ads.scotiabank.com|~ads.selfip.com|~ads.shopee.cn|~ads.shopee.co.th|~ads.shopee.com.br|~ads.shopee.com.mx|~ads.shopee.com.my|~ads.shopee.kr|~ads.shopee.ph|~ads.shopee.pl|~ads.shopee.sg|~ads.shopee.tw|~ads.shopee.vn|~ads.siriusxmmedia.com|~ads.smartnews.com|~ads.snapchat.com|~ads.socialtheater.com|~ads.sociogram.com|~ads.spotify.com|~ads.studyplus.co.jp|~ads.taboola.com|~ads.tiktok.com|~ads.tuver.ru|~ads.twitter.com|~ads.typepad.jp|~ads.umd.edu|~ads.us.tiktok.com|~ads.viksaffiliates.com|~ads.vk.com|~ads.vk.ru|~ads.watson.ch|~ads.wildberries.ru|~ads.x.com|~ads.yandex|~reempresa.org
+://ads.$~image,~xmlhttprequest,domain=~ads.8designers.com|~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.apple.com|~ads.atmosphere.copernicus.eu|~ads.axon.ai|~ads.band|~ads.bestprints.biz|~ads.bikepump.com|~ads.brave.com|~ads.buscaempresas.co|~ads.business.bell.ca|~ads.cafebazaar.ir|~ads.chewy.com|~ads.colombiaonline.com|~ads.comeon.com|~ads.cvut.cz|~ads.doordash.com|~ads.dosocial.ge|~ads.dosocial.me|~ads.elevateplatform.co.uk|~ads.ferrarichat.com|~ads.finance|~ads.flytant.com|~ads.fund|~ads.google.cn|~ads.google.com|~ads.gree.net|~ads.gurkerl.at|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kaipoke.biz|~ads.kifli.hu|~ads.knuspr.de|~ads.listonic.com|~ads.luarmor.net|~ads.magalu.com|~ads.mercadolibre.com.ar|~ads.mercadolibre.com.cl|~ads.mercadolibre.com.co|~ads.mercadolibre.com.ec|~ads.mercadolibre.com.mx|~ads.mercadolibre.com.pe|~ads.mercadolibre.com.ve|~ads.mercadolivre.com.br|~ads.mgid.com|~ads.microsoft.com|~ads.midwayusa.com|~ads.misskey.io|~ads.mobilebet.com|~ads.mojagazetka.com|~ads.msstate.edu|~ads.mst.dk|~ads.mt|~ads.naver.com|~ads.nc|~ads.nipr.ac.jp|~ads.olx.pl|~ads.palmettostatearmory.com|~ads.pinterest.com|~ads.realizeperformance.com|~ads.remix.es|~ads.rohlik.cz|~ads.rohlik.group|~ads.route.cc|~ads.safi-gmbh.ch|~ads.scotiabank.com|~ads.selfip.com|~ads.shopee.cn|~ads.shopee.co.th|~ads.shopee.com.br|~ads.shopee.com.mx|~ads.shopee.com.my|~ads.shopee.kr|~ads.shopee.ph|~ads.shopee.pl|~ads.shopee.sg|~ads.shopee.tw|~ads.shopee.vn|~ads.siriusxmmedia.com|~ads.smartnews.com|~ads.snapchat.com|~ads.socialtheater.com|~ads.sociogram.com|~ads.spotify.com|~ads.studyplus.co.jp|~ads.taboola.com|~ads.tiktok.com|~ads.tuver.ru|~ads.twitter.com|~ads.typepad.jp|~ads.umd.edu|~ads.us.tiktok.com|~ads.viksaffiliates.com|~ads.vk.com|~ads.vk.ru|~ads.watson.ch|~ads.wildberries.ru|~ads.woori.team|~ads.x.com|~ads.yandex|~reempresa.org
 ://ads2.
 ://adsbb.
 ://adserving.
@@ -8575,6 +8575,7 @@ yydstxt*.com/js/html
 ||2021.dxsbb.com^
 ||2024tv.ru/lib.js
 ||202507.xyz^
+||202xs.com^
 ||203.195.121.$popup
 ||203.195.121.0^$popup
 ||203.195.121.103^$popup
@@ -10065,6 +10066,7 @@ yydstxt*.com/js/html
 ||9h3s1ew2qn.com^
 ||9hito.com^
 ||9hyf6wsiv5.com^
+||9i5x05ovp7.com^
 ||9ihome.com/info/adtopvnet/
 ||9j3pwdsa4cp.com^
 ||9j9gc694o4.com^
@@ -11031,6 +11033,7 @@ yydstxt*.com/js/html
 ||ads-yallo-production.imgix.net^
 ||ads.
 ||ads.betfair.com^
+||ads.funmora.com^
 ||ads.google.com^$third-party
 ||ads.google.com^$xmlhttprequest,domain=ynet.co.il
 ||ads.ipfighter.com^
@@ -11191,6 +11194,7 @@ yydstxt*.com/js/html
 ||adsximg.com^
 ||adsxtits.com^
 ||adt.xdrig.com^
+||adtag.sphdigital.com^
 ||adtarget.me^$third-party
 ||adtazblack.com^
 ||adtazwhite.com^
@@ -16253,7 +16257,6 @@ yydstxt*.com/js/html
 ||cdn.9gtb.com^
 ||cdn.ad.page^
 ||cdn.app.cfigroup.com/webmon/$script
-||cdn.autodoc.de/uploads/traffic-banners/$image
 ||cdn.b2.ai^$third-party
 ||cdn.biff.travel^
 ||cdn.clkmc.com/cmc.js
@@ -18217,6 +18220,7 @@ yydstxt*.com/js/html
 ||criteo.net/design/
 ||criteo.net^$third-party
 ||criticless.com^
+||crjitvekbx.com^
 ||crjpgate.com^$popup
 ||crjpingate.com^$popup
 ||crjugate.com^$popup
@@ -21655,6 +21659,7 @@ yydstxt*.com/js/html
 ||eattravelgeek.com^
 ||eavesofefinegoldf.info^$popup
 ||eavideo.net^
+||eaygjik.icu^
 ||eaylmi.icu^
 ||eazybe.com^
 ||eazydata.io^$third-party
@@ -23001,7 +23006,6 @@ yydstxt*.com/js/html
 ||fcmatch.youtube.com^
 ||fcs.ovh^$third-party
 ||fcw1.site^
-||fd.cleantalk.org^
 ||fd.ivoclar.com^
 ||fd2k1fa6oe.com^
 ||fd80s.com/static/m.
@@ -25456,6 +25460,8 @@ yydstxt*.com/js/html
 ||gsk801281hh.com^
 ||gsk801290hh.com^
 ||gsk801291hh.com^
+||gsk801300hh.com^
+||gsk801301hh.com^
 ||gslb.com^
 ||gsmarena.com/top-skin.min.js
 ||gsniper.com/images/
@@ -28100,6 +28106,7 @@ yydstxt*.com/js/html
 ||irs.gov/h4z97hz8jmrno/
 ||irtya.com^$popup
 ||iru.com^
+||iry7addri8.com^
 ||irzi.cn^
 ||is-a-teacher.com^
 ||is-blog.com^
@@ -28138,6 +28145,7 @@ yydstxt*.com/js/html
 ||ist-track.com^$third-party
 ||istarwalk.com^
 ||istbfayfjgqfa.com^
+||isthmus72.com^
 ||istipaumophy.com^$popup
 ||istlnkcl.com^$popup
 ||istrack.com^$third-party
@@ -29134,6 +29142,7 @@ yydstxt*.com/js/html
 ||jyfw.cn/gonggong/jiayu/cf_
 ||jyfw.cn/nav/cf_
 ||jygdb.com^
+||jynv.cn^
 ||jyrd.com/statics/*/js/baizhu/
 ||jywn7lkbdw.com^
 ||jyzmtl.icu^
@@ -29830,6 +29839,7 @@ yydstxt*.com/js/html
 ||l6h17ybxe.com^
 ||l6ljsm.com^
 ||l936.expressnews.com^
+||l9moubljmc.com^
 ||l9qxrmda6.com^
 ||la-becanerie.com^
 ||la-boite-immo.com^
@@ -30036,6 +30046,7 @@ yydstxt*.com/js/html
 ||leadgainz.com^
 ||leadid.com^$third-party
 ||leadin.com^$third-party
+||leadinfo.eu^$third-party
 ||leadinfo.net^
 ||leadinfo.net^$third-party
 ||leadingcourses.com^
@@ -32083,6 +32094,7 @@ yydstxt*.com/js/html
 ||miaowu.baidu.com^
 ||miaoyinzhibo.com^
 ||miaozhen.com^$third-party
+||mias92zmaf.com^
 ||mic.com^
 ||micaitu.net/js/dibu.js
 ||micasino.com^
@@ -32608,6 +32620,7 @@ yydstxt*.com/js/html
 ||motrixi.com^$third-party
 ||moujiksverve.shop^
 ||mountain.zhidao.baidu.com^
+||mountain48.top^
 ||mountaincaller.top^$popup
 ||mountainrood.com^
 ||mountaintoys.cn^
@@ -33202,6 +33215,7 @@ yydstxt*.com/js/html
 ||n2xj2mxg3z.com^
 ||n3567.com^
 ||n49.com^
+||n4kd6phdxw.com^
 ||n4sredirect.com^$popup
 ||n5725.com^
 ||n5a92p9zo.com^
@@ -34076,6 +34090,7 @@ yydstxt*.com/js/html
 ||ntelos.net^
 ||ntesgsght.com^
 ||ntgfreight.com^
+||nthaumotzz.com^
 ||ntimg.cn/original/images/www_ads.jpg
 ||ntimg.cn^
 ||ntnews.com^
@@ -47560,7 +47575,9 @@ yydstxt*.com/js/html
 ||xpxi.cn^
 ||xpya.cn^
 ||xpzodh.icu^
+||xqhfb9hzrs.com^
 ||xqlmm.com^
+||xqmd2dzzvh.com^
 ||xqoh.cn^
 ||xqredpan.com^
 ||xqrydt.icu^
