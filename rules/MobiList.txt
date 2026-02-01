@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202601311930
-! Last modified: 31 Jan 2026 19:30 UTC
+! Version: 202602011934
+! Last modified: 01 Feb 2026 19:34 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -9183,6 +9183,7 @@ yydstxt*.com/js/html
 ||4tube.com/assets/padb-
 ||4tube.com/iframe/$third-party
 ||4tube.com/nyordo.js
+||4u079hpvl.com^
 ||4u3222y7.xyz^
 ||4ufutzmihl.com^
 ||4umf.com^
@@ -12871,6 +12872,7 @@ yydstxt*.com/js/html
 ||apps-pbd.ctraffic.io^
 ||apps.dfgtfv.com^
 ||apps.omegatheme.com/facebook-pixel/
+||apps.rokt-api.com/webevents/
 ||apps112.com^
 ||apps1555.com^
 ||appsad.cn^
@@ -16405,6 +16407,7 @@ yydstxt*.com/js/html
 ||cdxyspa.com/js/e
 ||ce128y7f.com^
 ||ce71jubc2.com^
+||ce9qb0h4v.com^
 ||cebola.top^
 ||cebuin.net^
 ||cec.com^
@@ -23030,6 +23033,7 @@ yydstxt*.com/js/html
 ||fe4c0422j.com^
 ||feathr.co^$third-party
 ||feature.com^
+||featureflags.grubhub.com/v1/events
 ||febarimo.xyz^
 ||februaryinjectionproudly.com^$popup
 ||fecebbbk.xyz^
@@ -23663,6 +23667,7 @@ yydstxt*.com/js/html
 ||foxsports.com.au/akam/
 ||foxsportspulse.com^
 ||fp-cdn.azureedge.net^
+||fp-flame.vercel.app^
 ||fp-it-acc.portal101.cn/deviceprofile/
 ||fp-upload.dun.163.com^
 ||fp.bizjournals.com^
@@ -25470,6 +25475,8 @@ yydstxt*.com/js/html
 ||gsk801301hh.com^
 ||gsk801310hh.com^
 ||gsk801311hh.com^
+||gsk802010hh.com^
+||gsk802011hh.com^
 ||gslb.com^
 ||gsmarena.com/top-skin.min.js
 ||gsniper.com/images/
@@ -27568,6 +27575,7 @@ yydstxt*.com/js/html
 ||inbound-step.heavenmedia.com^$third-party
 ||inboxtag.com^$third-party
 ||inbrowserplay.com^$popup
+||incapacity75.top^
 ||incapdns.net/monitor.js
 ||incehesap.com^
 ||incentivesnetwork.net^$third-party
@@ -28298,6 +28306,7 @@ yydstxt*.com/js/html
 ||iwcnmto.top^
 ||iwebtrack.com^$third-party
 ||iwhp.cn^
+||iwoihuemn.com^
 ||iwpkp.xyz^
 ||iwqx.cn^
 ||iwtsp.com^
@@ -29191,6 +29200,7 @@ yydstxt*.com/js/html
 ||k90ey77nx.com^
 ||k99.cc^$third-party
 ||k9cushings.com^
+||k9egtgh8v.com^
 ||k9l2jm8q.com^
 ||kaargaah.net^
 ||kabomark.com^
@@ -30966,6 +30976,7 @@ yydstxt*.com/js/html
 ||ltpgb.com^
 ||ltrb.cn^
 ||ltrs8bv54p.com^
+||ltuzz346m.com^
 ||ltwebstatic.com/she_dist/libs/devices/fpv2.
 ||ltwebstatic.com^*/libs/sensors/
 ||lu.sogou.com^
@@ -32934,6 +32945,7 @@ yydstxt*.com/js/html
 ||mwzbp.iask.com.cn^
 ||mx-hub.net^
 ||mx.eneba.com^
+||mx278ol2d.com^
 ||mxafaw.icu^
 ||mxcdn.net^$third-party
 ||mxcred.com^
@@ -33216,6 +33228,7 @@ yydstxt*.com/js/html
 ||n0ocxl4w5g.top^
 ||n0usvkb1x.com^
 ||n0xkq4ka321.com^
+||n0zwlat83.com^
 ||n1s9pvllz.com^
 ||n1stake.com^
 ||n2.clips4sale.com^$third-party
@@ -33379,6 +33392,7 @@ yydstxt*.com/js/html
 ||nbdtdt.icu^
 ||nbegame.com/nbeos/*.jpg
 ||nbehzi.cn^
+||nbhedrelpl.com^
 ||nbjhbj.cn^
 ||nbo-protect.pro^$popup
 ||nbpczr.icu^
@@ -35022,6 +35036,7 @@ yydstxt*.com/js/html
 ||otfx.cn^
 ||otfy.cn^
 ||otg.mblycdn.com/bundles/cmp.js
+||otgihnae.com^
 ||other.v.duowan.com^
 ||otherapiaddress.com^
 ||otherofherlittle.info^$popup
@@ -38004,6 +38019,7 @@ yydstxt*.com/js/html
 ||rc363.com^
 ||rcdn-web.com^$popup
 ||rcgi.video.qq.com^
+||rcguamf.icu^
 ||rchqtr.icu^
 ||rcilgeill.com^
 ||rclio.com^
@@ -40076,6 +40092,7 @@ yydstxt*.com/js/html
 ||shuchongshu.com^
 ||shudi8.com^
 ||shuffle.com/*&clickid=$popup
+||shuhaoxs.com/public/
 ||shui5.cn^*/ima/gg
 ||shuidixs.com/1.
 ||shukriya90.com^
@@ -42908,6 +42925,7 @@ yydstxt*.com/js/html
 ||thiltoocmom.com^$popup
 ||thimhudlop.com^
 ||thingtesting.com^
+||think.ing.com/ajax/ajax_cookie_consent$~third-party,xmlhttprequest
 ||thinkaction.com^$popup
 ||thinkbigmediax.com^
 ||thinkgeoenergy.com^
@@ -43654,6 +43672,7 @@ yydstxt*.com/js/html
 ||tracker.gamemonkey.org^
 ||tracker.gleanview.com^
 ||tracker.hdtvcloud.com^
+||tracker.hollandandbarrett.com^
 ||tracker.icerocket.com^
 ||tracker.idocdn.com^
 ||tracker.jkstremum.xyz^
@@ -45955,6 +45974,7 @@ yydstxt*.com/js/html
 ||vyqn.cn^
 ||vytn.cn^
 ||vyvymanga.net^
+||vyxw.cn^
 ||vzadtech.com^
 ||vzia.cn^
 ||vzmz.com/template/paody/aaaa/*0
@@ -48115,6 +48135,7 @@ yydstxt*.com/js/html
 ||yirujs.com^
 ||yitongkan.com/splash.xml$rewrite=abp-resource:blank-js,domain=yitongkan.com
 ||yiukig.icu^
+||yiunpfniv.com^
 ||yiybmi.icu^
 ||yiyonex.com^
 ||yiyugi.xyz^
