@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202602031949
-! Last modified: 03 Feb 2026 19:49 UTC
+! Version: 202602041948
+! Last modified: 04 Feb 2026 19:48 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -5390,8 +5390,10 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /web-analytics.js
 /web-api/log/
 /web-data-ingress?
+/web-pixel-*/worker.modern.js
 /web-pixel-shopify-app-pixel@
 /web-pixel-shopify-custom-pixel@
+/web-pixels@*/web-pixel-*/sandbox/modern/
 /web-vitals-analytics.js
 /web-vitals.iife.js
 /web/push?
@@ -8747,6 +8749,7 @@ yydstxt*.com/js/html
 ||2euqnxt25.com^
 ||2ez3gd.com^
 ||2fjxw3dyip.com^
+||2g1lbrr0qv.com^
 ||2ghub.com^
 ||2hhgg.com^
 ||2hiu.com^$third-party
@@ -9119,6 +9122,7 @@ yydstxt*.com/js/html
 ||4jh1le34m.com^
 ||4kporn.xxx/static/analytics/
 ||4kxczstxil.com^
+||4l5bbkug99.com^
 ||4link.it^$third-party
 ||4mythtracker.xyz^$third-party
 ||4nc4qc1fo.com^
@@ -9829,6 +9833,7 @@ yydstxt*.com/js/html
 ||8feichai.com^
 ||8ff0.cn^
 ||8g2a7mifv.com^
+||8gptk28oag.com^
 ||8h93.com^*.gif
 ||8iko.com^
 ||8j4n5b.com^
@@ -12715,6 +12720,7 @@ yydstxt*.com/js/html
 ||api.popin.cc/test/
 ||api.production.k8s.y3o.tv/nevarro/video-ads/$domain=yallo.tv
 ||api.redgifs.com/v2/gifs/promoted
+||api.reo.dev^$third-party
 ||api.samsungfind.com/log-collector
 ||api.sardine.ai/assets/loader.min.js$third-party
 ||api.sovendus.com/js/landing.js
@@ -14560,6 +14566,7 @@ yydstxt*.com/js/html
 ||bhddjf.top^
 ||bhdnti.top^
 ||bheirqrol.com^
+||bheknoinum.com^
 ||bhgcdn.com^
 ||bhhscalifornia.com^
 ||bhl401f8g.com^
@@ -25109,6 +25116,8 @@ yydstxt*.com/js/html
 ||gnfr03906.com^
 ||gnfww.com^
 ||gnglehraith.com^
+||gnla02040qp.com^
+||gnla02041qp.com^
 ||gnoccatime.net^
 ||gnodecn.com^
 ||gnomit.com^
@@ -25605,6 +25614,8 @@ yydstxt*.com/js/html
 ||gsk802021hh.com^
 ||gsk802030hh.com^
 ||gsk802031hh.com^
+||gsk802040hh.com^
+||gsk802041hh.com^
 ||gslb.com^
 ||gsmarena.com/top-skin.min.js
 ||gsniper.com/images/
@@ -26771,6 +26782,7 @@ yydstxt*.com/js/html
 ||house365.com/js/fixwin.php
 ||house365.com/js/lbpopup.js
 ||house365.com^
+||household35.top^
 ||houseplantmosque.top^
 ||housijk.com^
 ||houyi.baofeng.net^*.html
@@ -28642,6 +28654,7 @@ yydstxt*.com/js/html
 ||jbautomotive722.com^
 ||jbbydz.icu^
 ||jbdch1.appmobile.cn^
+||jbiwvt6x1e.com^
 ||jbtools.com^
 ||jbzyw.com/application/m/adv/
 ||jc001.cn/ci/jad/fix.
@@ -29582,6 +29595,7 @@ yydstxt*.com/js/html
 ||kgdhjc.com^
 ||kgdp030vm1.com^
 ||kgfjrb711.com^$popup
+||kgihdv57il.com^
 ||kgimg.com/public/root//images/hardware.jpg
 ||kgium2940637fafa.com^
 ||kgns4.com^
@@ -32315,6 +32329,7 @@ yydstxt*.com/js/html
 ||mhaw.cn^
 ||mhcampus.com^
 ||mhdnspro.com^
+||mhgu.cn^
 ||mhiiopll.net^$popup
 ||mhoccoirq.com^
 ||mhoiia.icu^
@@ -35268,6 +35283,7 @@ yydstxt*.com/js/html
 ||ouccoc.icu^
 ||oucnmtk.top^
 ||oudushu.com^
+||oudw850vbx.com^
 ||ouestfrance-immo.com^
 ||oufa2.com^
 ||ougeechimp.net^$popup
@@ -37688,6 +37704,7 @@ yydstxt*.com/js/html
 ||qixingquan.com/partner/
 ||qixingquan.com/qxq-images/dawangka.png
 ||qixingquan.com/qxq-images/js/qxq_t.js
+||qiydigatu.com^
 ||qiyeb.iaskbus.com^
 ||qiyegongqiu.net^
 ||qiyegongqiu1.qiyegongqiu.com^
@@ -37988,6 +38005,7 @@ yydstxt*.com/js/html
 ||qunar.com/vataframe/b.html?
 ||qunesw.com^
 ||qunlove.com^*.gif
+||qunphoty.com^
 ||quo.com^
 ||quoits96.top^
 ||quora.com/qevents.js
@@ -43493,6 +43511,7 @@ yydstxt*.com/js/html
 ||tljrvn.icu^
 ||tln-earn.top^
 ||tln-hg.top^
+||tlq8ufqddj.com^
 ||tlula507.com/public/js/dui
 ||tlula507.com/public/js/float
 ||tluutoido.com^
@@ -45972,6 +45991,7 @@ yydstxt*.com/js/html
 ||visualrevenue.com^$third-party
 ||visualstudio.com/_da.gif?
 ||visualstudio.com/v2/track
+||visualwebsiteoptimizer.com/analysis/
 ||visualwebsiteoptimizer.com/cdn/analysis/
 ||visualwebsiteoptimizer.com/dyn
 ||visualwebsiteoptimizer.com/ee.gif?
@@ -46338,6 +46358,7 @@ yydstxt*.com/js/html
 ||w510e2.com^
 ||w51t.com^$subdocument
 ||w537a7.cc^
+||w537a7.com^
 ||w54551.cc^
 ||w55b76.cc^
 ||w562f5.cc^
