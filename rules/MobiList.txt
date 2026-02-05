@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202602041948
-! Last modified: 04 Feb 2026 19:48 UTC
+! Version: 202602051946
+! Last modified: 05 Feb 2026 19:46 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -4633,6 +4633,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /spymonitor.js
 /squaread.jpg$image
 /sr.gif?
+/sr/*/safeframe.html?ule=$subdocument,third-party
 /sranalytics.js
 /srp.gif?
 /ssl-intgr-net/
@@ -13876,6 +13877,7 @@ yydstxt*.com/js/html
 ||ballyhoopla.club^$popup
 ||balmoralmkt.com^$third-party
 ||baltini.com^
+||balvehgmhw.com^
 ||bam-x.com^$third-party
 ||bamabean.com^
 ||bamaolmjgfj.com^
@@ -15676,6 +15678,7 @@ yydstxt*.com/js/html
 ||bvmbnr.xyz^$popup
 ||bvmlt.top^
 ||bvraciedl.com^
+||bvrukrud.com^
 ||bvsvfb8c.com^
 ||bvtpk.com^
 ||bvtwtwp.xyz^
@@ -19664,6 +19667,7 @@ yydstxt*.com/js/html
 ||d67p.com/love/
 ||d6cto2pyf2ks.cloudfront.net^
 ||d6deij4k3ikap.cloudfront.net^
+||d6gsujd8v.com^
 ||d6hvvn5jvc.com^
 ||d6l5p6w9iib9r.cloudfront.net^
 ||d6rak4b14t5gp.cloudfront.net^
@@ -22094,6 +22098,7 @@ yydstxt*.com/js/html
 ||embedsports.top/ad.html
 ||embedsports.top^
 ||embercascademaple.com^
+||embofjpks.com^
 ||embos.net^
 ||embossfor.com^
 ||embross-airport-services.com^
@@ -25118,6 +25123,8 @@ yydstxt*.com/js/html
 ||gnglehraith.com^
 ||gnla02040qp.com^
 ||gnla02041qp.com^
+||gnla02050qp.com^
+||gnla02051qp.com^
 ||gnoccatime.net^
 ||gnodecn.com^
 ||gnomit.com^
@@ -25616,6 +25623,8 @@ yydstxt*.com/js/html
 ||gsk802031hh.com^
 ||gsk802040hh.com^
 ||gsk802041hh.com^
+||gsk802050hh.com^
+||gsk802051hh.com^
 ||gslb.com^
 ||gsmarena.com/top-skin.min.js
 ||gsniper.com/images/
@@ -25767,6 +25776,7 @@ yydstxt*.com/js/html
 ||gusp.cn^
 ||gutmotion.net^
 ||guu0bfmpf5.com^
+||guuia6hxf.com^
 ||guurniuvgo.com^
 ||guvupade.xyz^
 ||guwulu.com^
@@ -26563,7 +26573,6 @@ yydstxt*.com/js/html
 ||hmwang.icu/skin/images/*.gif
 ||hn-ping*.hashnode.com^
 ||hn165.com^
-||hnjiexi.com^
 ||hnremote.net^
 ||hnrgmc.com^$popup
 ||hnsfans.com^
@@ -27662,6 +27671,7 @@ yydstxt*.com/js/html
 ||imlive.com/wmaster.ashx?$popup,third-party
 ||imlive.com^$script,third-party,domain=~imnude.com
 ||immanalytics.com^$third-party
+||immediate49.com^
 ||immersive-display.com^
 ||immigration.com^
 ||immihelp.com^
@@ -28128,6 +28138,7 @@ yydstxt*.com/js/html
 ||inwuamo.top^
 ||inwucno.top^
 ||inxxx.com/api/get-spot/
+||inzy3qq8q.com^
 ||io-cplus.net^
 ||io.fapnow.xxx^
 ||io.narrative.io/?$third-party
@@ -28530,6 +28541,7 @@ yydstxt*.com/js/html
 ||j198.registercitizen.com^
 ||j2jtq0hpb.com^
 ||j33xvvanl.com^
+||j3fvhzit0.com^
 ||j4bu2ju5.xyz^
 ||j4ehcgluds.com^
 ||j4mxrs21gh.com^
@@ -29344,6 +29356,7 @@ yydstxt*.com/js/html
 ||k06kldksi3.com^
 ||k0j5n7.com^
 ||k0jw6qzyh.com^
+||k0tdrkbhx.com^
 ||k0winsnua2.com^
 ||k1.dancihu.com^
 ||k1.wanwenwan.cn^
@@ -29429,7 +29442,6 @@ yydstxt*.com/js/html
 ||kankantv.cc/330-50.gif
 ||kankanwu.com/le/
 ||kankanwu.com/xuxu/
-||kanliao26.com^
 ||kanmeiju.net/js/
 ||kanoodle.com^$popup
 ||kanoonm.com^
@@ -32875,6 +32887,7 @@ yydstxt*.com/js/html
 ||motoreu.com^
 ||motorflash.com^
 ||motorsport.com/stat/
+||motortrend.com/ad-scripts/
 ||motory.com^
 ||motoscoot.net^
 ||mototalk.com^
@@ -34146,6 +34159,7 @@ yydstxt*.com/js/html
 ||nnmtools.com^third-party
 ||nnntxx.icu^
 ||nnteens.com/ad$subdocument
+||nnvx.cn^
 ||no1.168abc.net/upload/
 ||no988.top^
 ||no9pldds1lmn3.soundcloud.com^
@@ -34430,6 +34444,7 @@ yydstxt*.com/js/html
 ||nutlzt.icu^
 ||nuvehvac.com^
 ||nuwurorwbr.com^
+||nv0cl4nnq.com^
 ||nv3tosjqd.com^$popup
 ||nvbhol.com^
 ||nvdst.com/adx_
@@ -37685,6 +37700,7 @@ yydstxt*.com/js/html
 ||qipazw.com^
 ||qiqiyg.com^
 ||qirkmeozkzu.com^
+||qirqritp.com^
 ||qishu33.com^
 ||qishula.com/css/wap.
 ||qiu4592.xyz^
@@ -38375,6 +38391,7 @@ yydstxt*.com/js/html
 ||realsrv.com^
 ||realsrv.com^$popup
 ||realtime-bid.com^$popup
+||realtimesearchresults.com/sr/
 ||realtimesearchresults.com^
 ||realtimewebstats.com^$third-party
 ||realtimewebstats.net^$third-party
@@ -41514,6 +41531,7 @@ yydstxt*.com/js/html
 ||st.ipornia.com^$third-party
 ||st.linkfire.com^
 ||st.mapleranks.com^
+||st.motortrend.com/nitrous/
 ||st.sawlive.tv^
 ||st3s.com^
 ||staaqwe.com^$popup
@@ -44174,7 +44192,7 @@ yydstxt*.com/js/html
 ||trackyserver.com^
 ||tracookiepixel.xyz^
 ||tracot.com^$popup
-||traction.technologyadvice.com^
+||traction.technologyadvice.com^$third-party
 ||tractiontalkforum.com^
 ||tractor.com^
 ||tractortool.com^
