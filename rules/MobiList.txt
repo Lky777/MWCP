@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202602051946
-! Last modified: 05 Feb 2026 19:46 UTC
+! Version: 202602061946
+! Last modified: 06 Feb 2026 19:46 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -7534,6 +7534,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||wenxuecity.com^$generichide
 @@||wgun.net^$elemhide
 @@||whatsapp.com^$generichide
+@@||widget.playoncenter.com/webservice/geo$xmlhttprequest,domain=hipertextual.com
 @@||widgets.jobbio.com^*/display.min.js$domain=interestingengineering.com
 @@||wikibooks.org^$generichide
 @@||wikidata.org^$generichide
@@ -9097,6 +9098,7 @@ yydstxt*.com/js/html
 ||4aqoxkesav.com^
 ||4b6994dfa47cee4.com^$popup
 ||4bo5t8fzd.com^
+||4br824ktty.com^
 ||4c8b0c080b.com^
 ||4d45i6p0g.com^
 ||4d9f09z8c.com^
@@ -11504,6 +11506,7 @@ yydstxt*.com/js/html
 ||agreatertown.com^
 ||agreedcomeapp.com^
 ||agricharts.com^
+||agricultural64.top^
 ||agrobiz.net^
 ||agrvt.com^$third-party
 ||agsoftgames.com^
@@ -12707,6 +12710,7 @@ yydstxt*.com/js/html
 ||api.fastmoonclimbed.com^
 ||api.ffm.to/sl/e/$image
 ||api.fw.tv^
+||api.gist.ai/v1/analytics/track
 ||api.gleap.io/sessions/ping
 ||api.huo360.com/www/back/$image
 ||api.invideo.io/v3/send_analytics_event
@@ -13593,6 +13597,7 @@ yydstxt*.com/js/html
 ||azscore.com^
 ||azsounds.net^
 ||azteccup.com^
+||aztwrmsgn4.com^
 ||azureedge.net/adtags/
 ||azureedge.net/javascripts/tracking.
 ||azureedge.net/sdrive/zero-tracking.js
@@ -14571,6 +14576,7 @@ yydstxt*.com/js/html
 ||bheknoinum.com^
 ||bhgcdn.com^
 ||bhhscalifornia.com^
+||bhidhaerb.com^
 ||bhl401f8g.com^
 ||bhlool.com^
 ||bhohreatz.com^
@@ -24156,6 +24162,7 @@ yydstxt*.com/js/html
 ||fuziontech.net^$third-party
 ||fvitj2940637fafa.com^
 ||fvitteilse.com^
+||fvk6k2jrdu.com^
 ||fvlqjw.top^
 ||fvnkonnect.com^
 ||fvrentals.com^
@@ -25125,6 +25132,7 @@ yydstxt*.com/js/html
 ||gnla02041qp.com^
 ||gnla02050qp.com^
 ||gnla02051qp.com^
+||gnla02061qp.com^
 ||gnoccatime.net^
 ||gnodecn.com^
 ||gnomit.com^
@@ -25625,6 +25633,7 @@ yydstxt*.com/js/html
 ||gsk802041hh.com^
 ||gsk802050hh.com^
 ||gsk802051hh.com^
+||gsk802061hh.com^
 ||gslb.com^
 ||gsmarena.com/top-skin.min.js
 ||gsniper.com/images/
@@ -25810,6 +25819,7 @@ yydstxt*.com/js/html
 ||gxjajt.com^
 ||gxnews.com.cn/clientscript/index_duilian_
 ||gxqzz.7766.org^
+||gxvf.cn^
 ||gxyoinol.com^
 ||gyazo.com^$domain=turbobit.net
 ||gybyxsy1588.com^
@@ -34153,6 +34163,7 @@ yydstxt*.com/js/html
 ||nn51in.com^
 ||nnbet28.com^
 ||nnbet31.com^
+||nneephon.com^
 ||nnglgliginnglgligi.top^
 ||nni.net^
 ||nnjg.com^
@@ -34476,6 +34487,7 @@ yydstxt*.com/js/html
 ||nxtwash.com^
 ||nxu3l4c8u.com^
 ||nxwm44neo.com^
+||ny70zesy5v.com^
 ||nya2.com^
 ||nya2.com^$popup
 ||nyaa.*/static/js/ccheck.js
@@ -36396,6 +36408,7 @@ yydstxt*.com/js/html
 ||pk12ls.com^
 ||pk33db3ziz.com^
 ||pk910324e.com^$popup
+||pkdcfefqqf.com^
 ||pkeeper3.ru^$third-party
 ||pkgstats.com^
 ||pkhottoqai.com^
@@ -46384,6 +46397,7 @@ yydstxt*.com/js/html
 ||w56ff7.cc^
 ||w58547.cc^
 ||w58ce6.cc^
+||w58ce6.com^
 ||w592be.cc^
 ||w5ba5b.cc^
 ||w5bi16f3co.com^
