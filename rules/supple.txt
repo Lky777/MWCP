@@ -199,6 +199,9 @@ _ads.html?
 ||rzpsrl.cn/imc/*.gif
 !
 ! ========== Ele blocking ==========
+##.block-overlay
+##.van-overlay
+##.van-popup--center
 duckduckgo.com##.js-atb-banner
 m.happymh.com###layui-m-layer0
 kuaidi100.com##.index__download-box
@@ -271,7 +274,6 @@ www.txrjy.com###tryOpenApp
 
 ! bing
 @@||bing.com/fd/ls/GLinkPing.aspx?
-||ts1.tc.mm.bing.net^
 
 ! cna
 /img/line-ad-s.jpg?
