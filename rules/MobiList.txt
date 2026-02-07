@@ -1,11 +1,14 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202602061946
-! Last modified: 06 Feb 2026 19:46 UTC
+! Version: 202602071444
+! Last modified: 07 Feb 2026 14:44 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
+##.block-overlay
+##.van-overlay
+##.van-popup--center
 $csp=child-src 'none'; frame-src 'self' *; worker-src 'none',domain=fileone.tv|theappguruz.com
 $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vidoza.net
 $csp=script-src 'self' * 'unsafe-inline',domain=bijiyd.com|7zhens.com|wamuku.cc|scmmxs.com|jinduxs.com|buhesw.com|luenbook.cc|zahubook.com|heciwk.com|quhesw.com|erzuwk.com|bowoxs.com|guashuge.com|mudanxs.com|mzbook.cc|haduks.com|caimozw.com|zaaizw.com|bogeks.com|oushuku.com|haxu8.com|pucixs.com|tuqisw.com|xueyisw.com|zuye8.com|yawoxs.com|guwoxs.com|jiufuzw.com|beianxs.com|shuying6.com|mafusw.com|cule9.com|riquzw.com|xingksw.com|enbusw.com|waguwk.cc|ruyisw.com|zuxiku.com|jinmusb.com|hunshuge.com|puyewk.com|kaaiwk.com|hadu520.com|qubosw.com|meisibook.com|cuaizw.cc|boxue8.cc|cipubook.com|ququsk.cc|yiyezao.com|shanhuxs.com|jiutusw.com|chahuax.com|candoug.com|hanziwen.com|haduzw.com|modaoshu.com|nipubook.com|nuoshuge.com|puquz.com|wuwusk.com
@@ -1395,6 +1398,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /amp_pingback/
 /analyse.js
 /analysis-logger/
+/analysis?en=page_view&
 /analysistag.js
 /analytic/pageview
 /analytics-amplitude-
@@ -9045,6 +9049,7 @@ yydstxt*.com/js/html
 ||40svintageporn.com/hit
 ||40wan.com/js/www2/
 ||40xqcnabuwo.com^
+||412dyo1ef.com^
 ||417homes.com^
 ||418big.com^
 ||418bug.com^
@@ -9490,6 +9495,7 @@ yydstxt*.com/js/html
 ||66colorful.com^
 ||66e.cc/d/
 ||66game.cn/skinnew/js/ad.js
+||66hao.cc^
 ||66huacai.com/d/js/v/hc
 ||66wwvv.com/js/
 ||66wz.com/adv2/
@@ -13481,6 +13487,7 @@ yydstxt*.com/js/html
 ||avo.app^*/track
 ||avocams.com^$popup
 ||avple.video/asset/bann.js
+||avpr.cn^
 ||avseesee.com/amandison.php
 ||avseesee.com/htmls/vlinks.html
 ||avseesee.com/twad
@@ -16794,6 +16801,7 @@ yydstxt*.com/js/html
 ||chitshuqh.com^
 ||chjoy.com^
 ||chl7rysobc3ol6xla.com^$popup
+||chloro.trip.com^
 ||chmln-cdn.com^
 ||chmsrv.com^
 ||chnci.com^$third-party
@@ -19884,6 +19892,7 @@ yydstxt*.com/js/html
 ||data.gosquared.com^
 ||data.guide.photobucket.com^
 ||data.hicloud.com^$third-party
+||data.jaytuckwell.com^
 ||data.jerkmate.com^
 ||data.minute.ly^
 ||data.nexxt.com^
@@ -20069,6 +20078,7 @@ yydstxt*.com/js/html
 ||dctribe.com^
 ||dcuguide.com^
 ||dcv4p460uqa46.cloudfront.net^
+||dcwxhamq0.com^
 ||dczhbhtz52fpi.cloudfront.net^
 ||dd.auspost.com.au^
 ||dd.g2.com^
@@ -24970,6 +24980,7 @@ yydstxt*.com/js/html
 ||gjk1sc9o2.com^
 ||gjkbyt.com^
 ||gjlgdtmdcj.net^
+||gjt6z9wga.com^
 ||gjwind.com/xxmh.gif
 ||gjwnepzt.com^
 ||gjxsg.com^
@@ -25133,6 +25144,8 @@ yydstxt*.com/js/html
 ||gnla02050qp.com^
 ||gnla02051qp.com^
 ||gnla02061qp.com^
+||gnla02070qp.com^
+||gnla02071qp.com^
 ||gnoccatime.net^
 ||gnodecn.com^
 ||gnomit.com^
@@ -27172,6 +27185,7 @@ yydstxt*.com/js/html
 ||i64cl3er5t.com^
 ||i73u6dnnh.com^
 ||i7mfm1hl44.com^
+||i7xkqmhjw.com^
 ||i8.chinanews.com^$subdocument
 ||i8m6.com^
 ||i8tq.com/adimg/
@@ -28484,6 +28498,7 @@ yydstxt*.com/js/html
 ||ivy.pconline.com.cn/adpuba/show
 ||ivy.pconline.com.cn/show$script
 ||ivy.pconline.com.cn^
+||ivza0m05f.com^
 ||ivzaq2irg.com^
 ||iwan.$third-party
 ||iwanad.baidu.com^
@@ -30245,6 +30260,7 @@ yydstxt*.com/js/html
 ||lcidauv.top^
 ||lcmgcf.com^
 ||lcs.naver.com^
+||lcugzodfdo.com^
 ||lcvjzpfea.com^
 ||lcvl.cn^
 ||lcx.com^
@@ -37164,6 +37180,7 @@ yydstxt*.com/js/html
 ||pronsy.com^
 ||proofpoint.com^$third-party
 ||proofpositivemedia.com^$third-party
+||prop.astonvillanews.co.uk^
 ||propadsviews.com^$popup
 ||propbn.com^$popup
 ||propbn.com^$third-party
@@ -38613,6 +38630,7 @@ yydstxt*.com/js/html
 ||relmaxtop.com^$third-party
 ||reloadify.com^
 ||relojes-especiales.com^
+||reluctance58.com^
 ||remailtarget.com^$third-party
 ||remarkbox.com^
 ||remarketstats.com^
@@ -38776,6 +38794,7 @@ yydstxt*.com/js/html
 ||reversible68.com^
 ||revhunter.tech^$third-party
 ||revhuntervpn.com^
+||revico.jp/js/put_revico_cookie/put_revico_cookie.js
 ||reviewdollars.com^$popup
 ||reviews.io/stats/
 ||revimedia.com^$popup
@@ -42243,6 +42262,7 @@ yydstxt*.com/js/html
 ||superadexchange.com^$popup
 ||superads.cn^
 ||superant.net^
+||superboosty.com^$third-party
 ||superbuba.top^
 ||supercent.net^
 ||supercooking.net^
@@ -42559,6 +42579,7 @@ yydstxt*.com/js/html
 ||t.splicky.com^
 ||t.spot.im^
 ||t.ssp.hinet.net/utag.js
+||t.themarketer.com^
 ||t.vibe.co^
 ||t.wayfair.ca^
 ||t.wayfair.co.uk^
@@ -44568,7 +44589,6 @@ yydstxt*.com/js/html
 ||ts.delfi.lt^
 ||ts.globtube.com^
 ||ts.tradetracker.net^
-||ts1.tc.mm.bing.net^
 ||ts166.net^
 ||tsarvgh.com^
 ||tsarvoyages.com^
@@ -46328,6 +46348,7 @@ yydstxt*.com/js/html
 ||vwowvu9ha.com^
 ||vwtbrzymoz.com^
 ||vwuudahnarh.com^
+||vwvaddoet.com^
 ||vwvj.cn^
 ||vx323.com^
 ||vxgky.com^
@@ -47172,6 +47193,7 @@ yydstxt*.com/js/html
 ||wnyc.org/analytics/
 ||wo30sg1orn.com^
 ||wo51ur2ihe.com^
+||wo6h5tx8w.com^
 ||woafoame.net^$popup
 ||woaidu.org/images/20180802/3.jpg
 ||wodeshucheng.com^*/0
@@ -47824,6 +47846,7 @@ yydstxt*.com/js/html
 ||xjoiteee8.com^
 ||xjqifei.com^
 ||xjvunf.top^
+||xjwhad.com^
 ||xjx11191ts.com^
 ||xjx11200ts.com^
 ||xjx11201ts.com^
@@ -49484,6 +49507,7 @@ yydstxt*.com/js/html
 ||zybest.com^
 ||zybkrv.icu^
 ||zybrdr.com^$popup
+||zyek35wsn.com^
 ||zyfira69.com^
 ||zykjnow.com^
 ||zymakzaeddla.com^
