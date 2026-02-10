@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202602092003
-! Last modified: 09 Feb 2026 20:03 UTC
+! Version: 202602102003
+! Last modified: 10 Feb 2026 20:03 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -8724,6 +8724,7 @@ yydstxt*.com/js/html
 ||262bdc3a5d.com^
 ||268de.com/js/
 ||26mbjgc9.com^
+||26yj3wme9q.com^
 ||27ec4b6fcf.com^
 ||27gh.cc^$popup,third-party
 ||28.com/count.js
@@ -9945,6 +9946,7 @@ yydstxt*.com/js/html
 ||92uhf73ad.com^
 ||933m.com/1.js
 ||93692zubo66936.com^
+||93gtx4pc2w.com^
 ||93jk0rvj.top^
 ||93soso.com^
 ||94994.com*/js/plugin/shoppingmall/
@@ -12783,6 +12785,7 @@ yydstxt*.com/js/html
 ||apicit.net^$third-party
 ||apiecelee.com^$popup
 ||apiiksn.top^
+||apiimg.com/haishui/
 ||apiimg.com/huaer/xiahe.
 ||apilog-web.acfun.cn^
 ||apinkhk.com^
@@ -15325,6 +15328,7 @@ yydstxt*.com/js/html
 ||bp.blogspot.com^*/s1600/dealer
 ||bp01.net^$third-party
 ||bp891i9b.com^
+||bp8mct71pn.com^
 ||bpath.com/count.dll?
 ||bpcyber.net^
 ||bphfive.com^
@@ -25291,6 +25295,7 @@ yydstxt*.com/js/html
 ||gnla02071qp.com^
 ||gnla02080qp.com^
 ||gnla02081qp.com^
+||gnla02091qp.com^
 ||gnoccatime.net^
 ||gnodecn.com^
 ||gnomit.com^
@@ -29537,6 +29542,8 @@ yydstxt*.com/js/html
 ||k99.cc^$third-party
 ||k9egtgh8v.com^
 ||k9l2jm8q.com^
+||k9zxbudgix.com^
+||kaboodle49.com^
 ||kacq.cn^
 ||kadam.ru^$third-party
 ||kadencewp.com^
@@ -31432,6 +31439,7 @@ yydstxt*.com/js/html
 ||lvuptech.com/wp-content/plugins/deblocker/
 ||lvzhiku.com^
 ||lvzhizhan.com^
+||lvzs619n1c.com^
 ||lw.musictarget.com^
 ||lw2cgtcm.com^
 ||lw54.com/js/
@@ -46877,6 +46885,7 @@ yydstxt*.com/js/html
 ||w58ce6.com^
 ||w592be.cc^
 ||w5ba5b.cc^
+||w5ba5b.com^
 ||w5bi16f3co.com^
 ||w5c6d9.cc^
 ||w5daa5.com^
@@ -49382,6 +49391,7 @@ yydstxt*.com/js/html
 ||z737.thestar.com^
 ||z8bu.com^
 ||z90win.com^
+||z9dy1kq9wv.com^
 ||za.qeeq.com^
 ||zabc.net^
 ||zaclys.com^
