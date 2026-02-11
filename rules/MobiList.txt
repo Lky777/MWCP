@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202602102003
-! Last modified: 10 Feb 2026 20:03 UTC
+! Version: 202602111957
+! Last modified: 11 Feb 2026 19:57 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -5739,6 +5739,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 ://lightning.*/launch/
 ://load.*.js?st=$~third-party
 ://loader.*.com/loader.min.js|$script,~third-party
+://loader.*.com/script/$script,third-party
 ://matomo.$domain=~matomo.dhjensen.dk|~matomo.org
 ://metrics-collector.
 ://mint.*/?js
@@ -7018,7 +7019,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||mens1069.com^$generichide
 @@||mhxk.com^*/main/entry.common.$script
 @@||miaozhen.com^*/m.suning.
-@@||micro.rubiconproject.com/prebid/dynamic/$script,xmlhttprequest,domain=gamingbible.co.uk|ladbible.com|sportbible.com|viki.com
+@@||micro.rubiconproject.com/prebid/dynamic/$script,xmlhttprequest,domain=gamingbible.co.uk|la7.it|ladbible.com|sportbible.com|viki.com
 @@||microapp.bytedance.com/docs/page-data/$~third-party
 @@||microsoft.com/translate/auth
 @@||microsofttranslator.com/translate?
@@ -7876,6 +7877,7 @@ wss://*.top/|
 wss://*.xyz:*?e=$third-party
 wss://*.xyz:*?x=$third-party
 wss://*/api/wss/getnotreadcount$third-party
+wss://loader.*.com/ws^$third-party
 wss://www.*.xyz/ws^$third-party
 wwads.cn
 www.txrjy.com###tryOpenApp
@@ -8477,6 +8479,7 @@ yydstxt*.com/js/html
 ||1gkh3h89c.com^
 ||1gp3p6fkio.com^
 ||1gqd0o687z.com^
+||1hhwyb4vl.com^
 ||1hmklj60i.com^
 ||1jlp1qbgu.com^
 ||1jutu5nnx.com^$popup
@@ -9531,11 +9534,13 @@ yydstxt*.com/js/html
 ||6ggstcmglf.com^
 ||6gvg5saail.com^
 ||6gxs.net/js/
+||6h6pdph56.com^
 ||6jei0t6xp.com^
 ||6jvjgpouvayj3qaj.com^
 ||6jyi7mzae.com^
 ||6kpudsordv.com^
 ||6m8tk53pw.com^
+||6mdf9teiz.com^
 ||6n528aywi9.com^
 ||6o719vq4x.com^
 ||6opo.com^
@@ -12229,6 +12234,7 @@ yydstxt*.com/js/html
 ||anagramas.net^
 ||anal.doubledouble.top^
 ||anal.sataniskwijt.be^
+||analdin.com/player/html.php?aid=
 ||analdin.xxx/player/html.php?aid=
 ||analgalore.com^
 ||analitycs.net^$third-party
@@ -13210,7 +13216,6 @@ yydstxt*.com/js/html
 ||assets.prod.abebookscdn.com/cdn/com/scripts/abepixel-$domain=abebooks.com
 ||assets.s-bol.com/appmeasurement-
 ||assets.sheetmusicplus.com^$third-party
-||assets.targetimg1.com/ssx/ssx.mod.js$domain=target.com
 ||assets.trendii.com/pixel/main.js
 ||assets.yumpu.com/release/*/tracking.js
 ||assetscdn.jable.tv/assets/images/uu/
@@ -19629,6 +19634,7 @@ yydstxt*.com/js/html
 ||d3imksvhtbujlm.cloudfront.net^
 ||d3iouejux1os58.cloudfront.net^
 ||d3ip4t8fp90x81.cloudfront.net^
+||d3ipmxzmjf8cw7.cloudfront.net^
 ||d3ithbwcmjcxl7.cloudfront.net^
 ||d3j1weegxvu8ns.cloudfront.net^
 ||d3j3yrurxcqogk.cloudfront.net^
@@ -20949,7 +20955,7 @@ yydstxt*.com/js/html
 ||dmw2pzbenclyd.cloudfront.net^
 ||dmxhgf4zuwdvu.cloudfront.net^
 ||dmxleo.com^$third-party
-||dmym.aixyy.com^
+||dmym.fwol.cn^
 ||dmz3nd5oywtsw.cloudfront.net^
 ||dmzj.com/js/m_btmapp.js
 ||dmzj.com/module/js/float_code.js
@@ -24525,6 +24531,7 @@ yydstxt*.com/js/html
 ||gamerapkhub.com^
 ||gamerbraves.com^
 ||gamergen.com^
+||gamerhit.co^$popup
 ||gamerpower.com^
 ||gamers-net.com^
 ||gamersky.com/$subdocument
@@ -25404,6 +25411,7 @@ yydstxt*.com/js/html
 ||gogogogame.com^
 ||gogogoldwin.com^
 ||gogorenti.wang/js/m_cp
+||gohgn02111la.com^
 ||goi08130kh.com^
 ||goi08131kh.com^
 ||goi08141kh.com^
@@ -25771,6 +25779,7 @@ yydstxt*.com/js/html
 ||gruposchultz.com^
 ||grupozelo.com^
 ||grygrothapi.pro^$popup
+||gryphline.com^$popup
 ||gs-akashop.com^
 ||gsam.com^
 ||gsbdgef.com^
@@ -33369,6 +33378,7 @@ yydstxt*.com/js/html
 ||mvmbs.com^$popup
 ||mvmpg.com^
 ||mvpay.xyz^
+||mvquiema.xyz^
 ||mvt0e2s72.com^
 ||mvtimes.com^
 ||mvtracker.com^$third-party
@@ -37176,6 +37186,7 @@ yydstxt*.com/js/html
 ||pptv.com/game/aplus/client/gamedetail.html
 ||pptv.com/stg/add?
 ||pptv.com/webdelivery/
+||ppwpn.com^$popup
 ||ppx.com/tracking/
 ||ppxqhx.icu^
 ||pq7hdf.com^
@@ -38939,6 +38950,7 @@ yydstxt*.com/js/html
 ||rentumo.com^
 ||renuevatucloset.com^
 ||renwai.ren/cdn/pic/ad
+||reopenshelly.cfd^$popup
 ||reorganizeache.com^$popup
 ||reorganizes64.com^
 ||reown.com^
@@ -41069,6 +41081,7 @@ yydstxt*.com/js/html
 ||skipass.com^
 ||skippingor.com^
 ||skipvideoads.com^$popup
+||skirmish33.top^
 ||skisprungschanzen.com^
 ||sklane.com^
 ||sklepopon.com^
@@ -46663,6 +46676,7 @@ yydstxt*.com/js/html
 ||vortex.hulu.com^
 ||vortexslayer.com^
 ||vorticemagico.net^
+||voruftuiov.com^$popup
 ||vota.com^
 ||votistics.com^$third-party
 ||vowellm4.com^
@@ -48086,6 +48100,7 @@ yydstxt*.com/js/html
 ||x.yaohuo.me^
 ||x0.ifengimg.com/feprod/c/web/d/coupletfloat.js
 ||x05occvjw.com^
+||x0b5edl6u.com^
 ||x0lkimaixh.com^
 ||x0r.urlgalleries.net^
 ||x1.52aoteman.com^
@@ -49349,6 +49364,7 @@ yydstxt*.com/js/html
 ||yyzqta.com^
 ||yyzqtb.com^
 ||yyzzm2940637fafa.com^
+||yzhcp6cw1.com^
 ||yzimgs.com^
 ||yziyu02by.com^
 ||yzpsb.net/1.js
@@ -49720,6 +49736,7 @@ yydstxt*.com/js/html
 ||zk.91post.com^
 ||zk789.cn/res/scripts/show/netsys/show.ashx
 ||zkcdn.net/ados.js
+||zkcizao.com^
 ||zkraktak.com^
 ||zktats.top^
 ||zkx9rnzc.com^
