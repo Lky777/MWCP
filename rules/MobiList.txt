@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202602111957
-! Last modified: 11 Feb 2026 19:57 UTC
+! Version: 202602121952
+! Last modified: 12 Feb 2026 19:52 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -231,6 +231,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .cc/apijs/image/
 .cc/js/dj1*.js
 .cc/js/dj2*.js
+.cc/process.js?id=$third-party
 .cfd/$script,third-party,domain=twkan.com
 .cfm?ad=
 .cgi?ad=
@@ -4012,6 +4013,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /plugins/visitors-traffic-
 /plugins/wordfence/visitor.php?
 /plugins/wp-vgwort/
+/pmc-adm-v2/build/setup-ads.js$domain=bgr.com|deadline.com|rollingstone.com
 /pmc-cxense.js
 /pmfastclick.min.js
 /pn07uscr/f/tr/zavbn/*$third-party
@@ -7881,7 +7883,7 @@ wss://loader.*.com/ws^$third-party
 wss://www.*.xyz/ws^$third-party
 wwads.cn
 www.txrjy.com###tryOpenApp
-www.zhzzx.com/pmc-adm-v2/build/setup-ads.js$domain=bgr.com|deadline.com|rollingstone.com
+www.zhzzx.com||000webhost.com/images/banners/
 x.jd.com
 xshellcn.com
 yihuifu.cn
@@ -7954,7 +7956,6 @@ yydstxt*.com/js/html
 ||*xav.*/guang/*.jpg
 ||0.0.0.0^$third-party,domain=~0.0.0.0|~127.0.0.1|~[::1]|~[::]|~local|~localhost
 ||0.0.0.1^
-||000webhost.com/images/banners/
 ||003store.com^
 ||007ds.com/js/js/
 ||00eeekk.com//html5/activitypage/
@@ -9867,6 +9868,7 @@ yydstxt*.com/js/html
 ||8pad.xyz^
 ||8proe3xx6.com^
 ||8radc6a0m2.com^
+||8rht5welv5.com^
 ||8rnmj0roe1.com^
 ||8rs8i.com^
 ||8s5s.com^$popup
@@ -20889,6 +20891,7 @@ yydstxt*.com/js/html
 ||dlrioxg1637dk.cloudfront.net^
 ||dls-account.di.atlas.samsung.com^
 ||dlssyht.cn^
+||dlsybe78o0.com^
 ||dlthst9q2beh8.cloudfront.net^
 ||dltqxz76sim1s.cloudfront.net^
 ||dltvkwr7nbdlj.cloudfront.net^
@@ -21119,7 +21122,6 @@ yydstxt*.com/js/html
 ||dopaleads.com^$popup
 ||dopansearor.com^$popup
 ||dope.autos^$popup
-||dopeoutspoken.com^
 ||dopival.com^
 ||doppiocdn.com/healthcheck
 ||doppiocdn.org/healthcheck
@@ -25779,7 +25781,6 @@ yydstxt*.com/js/html
 ||gruposchultz.com^
 ||grupozelo.com^
 ||grygrothapi.pro^$popup
-||gryphline.com^$popup
 ||gs-akashop.com^
 ||gsam.com^
 ||gsbdgef.com^
@@ -27471,6 +27472,7 @@ yydstxt*.com/js/html
 ||id.verticalhealth.net/script.js?partnerid=
 ||id72.com^
 ||idahonews.com^
+||idavmk1276.com^
 ||idcot.com^
 ||iddhui.com^
 ||iddu1vvb7sk8-a.akamaihd.net^
@@ -30212,6 +30214,7 @@ yydstxt*.com/js/html
 ||l0vij7q78.com^
 ||l2.io^$third-party
 ||l235cj20z.com^
+||l2qdfaq62o.com^
 ||l2s9c7.com^
 ||l4otxc.com^
 ||l4s.love4porn.com^
@@ -30598,7 +30601,6 @@ yydstxt*.com/js/html
 ||lezhinus.com^
 ||lf1-cdn-tos.bytegoofy.com/goofy/
 ||lf2cgxz0b.com^
-||lfamuxkaqobp.com^
 ||lfangshuo.com^
 ||lfbme2940637fafa.com^
 ||lfbupf.icu^
@@ -33299,6 +33301,7 @@ yydstxt*.com/js/html
 ||multikulti.com^
 ||multimango.com^
 ||multimovies.cloud/player/jw8/vast.js
+||multiple46.top^
 ||multiply5.top^
 ||multiplydose.com^
 ||multiup.us/cdn-cgi/trace
@@ -34665,6 +34668,7 @@ yydstxt*.com/js/html
 ||nwbuhr.icu^
 ||nwgcp.com^
 ||nwr.static.mmcdn.com^
+||nws5ay4cr2.com^
 ||nwwrtbbit.com^$popup
 ||nwxs5.com/js/
 ||nx2jt4p4r.com^
@@ -35553,6 +35557,7 @@ yydstxt*.com/js/html
 ||ourcommonstories.com^$popup
 ||ourcoolposts.com^$popup
 ||ourcoolstories.com^$popup
+||ourdream.ai^$third-party
 ||ourdreamai.com^
 ||ourdreamersai.com^
 ||ourdreamstaticpages.pages.dev^
@@ -39541,6 +39546,7 @@ yydstxt*.com/js/html
 ||rtesvc.com^
 ||rtfgvz.icu^
 ||rthrondrae.com^
+||rtip4abjv3.com^
 ||rtmark.net^
 ||rtmark.net^$popup
 ||rtnsvc.com^
@@ -42783,6 +42789,7 @@ yydstxt*.com/js/html
 ||sxxlk.com^
 ||sxxxx.top^
 ||sxypix.com^
+||sxzl6x4k9p.com^
 ||syddns-obno.xyz^
 ||sydpower.com^
 ||syfrqe.cn^
