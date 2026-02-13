@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202602121952
-! Last modified: 12 Feb 2026 19:52 UTC
+! Version: 202602131949
+! Last modified: 13 Feb 2026 19:49 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -9373,6 +9373,7 @@ yydstxt*.com/js/html
 ||5dmail.net/js/
 ||5dycay3rr.com^
 ||5dyst.com^
+||5edf1d2qv.com^
 ||5egytucuw.com^
 ||5etv.com^$third-party
 ||5f1qyi04vz.com^
@@ -10274,6 +10275,7 @@ yydstxt*.com/js/html
 ||aa44a0.com^
 ||aa52jm08ly.com^
 ||aa666qq888.com^
+||aa7hzjsow.com^
 ||aaa.tumanyi.com^
 ||aaa9.net^
 ||aaaf.info^$script
@@ -22364,6 +22366,7 @@ yydstxt*.com/js/html
 ||entterto.com^$popup
 ||entwst.com^
 ||envato.market/i/
+||envision75.com^
 ||enwuamw.top^
 ||enwucnw.top^
 ||enzf.cn^
@@ -22677,6 +22680,7 @@ yydstxt*.com/js/html
 ||event-api.reverb.com^
 ||event-collector.moviesanywhere.com^
 ||event-listener.air.tv^
+||event-log-api-data-platform-data-lake-prod.gryphline.com^
 ||event-logger.tagboard.com^
 ||event-router.olympics.com^
 ||event-service.letslinc.com^
@@ -27326,7 +27330,7 @@ yydstxt*.com/js/html
 ||i.ibb.co/spx1r6pf/banner-1.png
 ||i.imgur.com^$domain=hentaitube.icu
 ||i.pokernews.com^
-||i.posthog.com^
+||i.posthog.com/*/?ip=
 ||i.s-microsoft.com/wedcs/ms.js
 ||i.viafoura.co^
 ||i0y0i9vz0.com^
@@ -28954,6 +28958,7 @@ yydstxt*.com/js/html
 ||jgscripts.com^
 ||jguhqbe.top^
 ||jgxohmdr.icu^
+||jh2szzt7n.com^
 ||jhagents.com^
 ||jhdh173.com^
 ||jhf4eib1zb.com^
@@ -35994,6 +35999,7 @@ yydstxt*.com/js/html
 ||pb.i.sogou.com^
 ||pb.s3wfg.com^
 ||pb.shuxigua.com^
+||pb.ytmp3tube.com/js/script.js$domain=yt1s.com.co
 ||pb1b7cqwvs.com^
 ||pbbl.co^$third-party
 ||pbcdn.com/data/attachment/album/$image
@@ -38408,6 +38414,7 @@ yydstxt*.com/js/html
 ||r.skimresources.com^
 ||r.stripe.com^$ping,script,xmlhttprequest
 ||r.wdfl.co/rw.js
+||r.winf.site^
 ||r0eybo511.com^
 ||r0hpdbkqs.com^
 ||r18.com/track/
@@ -45153,7 +45160,7 @@ yydstxt*.com/js/html
 ||tupianfanyi.com^
 ||turb.cc/fd1/img/promo/
 ||turbobit.net/fd1/js/brinpopup.js
-||turbobit.net/js/analytics/
+||turbobit.net/js/analytics/fduserfingerprinttoken.js
 ||turbobit.net/pus/
 ||turbostats.xyz^
 ||turbotax.com^
