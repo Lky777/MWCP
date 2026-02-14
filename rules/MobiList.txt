@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202602131949
-! Last modified: 13 Feb 2026 19:49 UTC
+! Version: 202602141933
+! Last modified: 14 Feb 2026 19:33 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -8066,6 +8066,7 @@ yydstxt*.com/js/html
 ||0xcr7q6zu7.com^
 ||0xf10.com^
 ||0xzxwnkqdu.com^
+||0yjeii25x4.com^
 ||0z3zbnbkv.com^
 ||1-k-p-k.com^
 ||1.07swz.com^
@@ -9091,6 +9092,7 @@ yydstxt*.com/js/html
 ||465k3mlo9.com^
 ||4667gwyg1.com^
 ||468nta.com^
+||46q8oxohlt.com^
 ||47.100.0.249/js/thea
 ||47272.net^
 ||4743442183e70dd7ctlight203.com^
@@ -9875,6 +9877,7 @@ yydstxt*.com/js/html
 ||8s5s.com^$popup
 ||8s8s.com/data/banner/
 ||8sarod.com^
+||8se.me/service/assets/core-state.
 ||8tbllquzr6.com^
 ||8u6stvyww.top^
 ||8uuxq3tvn.com^
@@ -10132,6 +10135,7 @@ yydstxt*.com/js/html
 ||a.baomihua.com^
 ||a.bfking.cn^
 ||a.blendernation.com^
+||a.boredpanda.bio^
 ||a.bxwblog.cn^
 ||a.cdnpure.com/analytics/
 ||a.cnki.net/a/
@@ -12238,8 +12242,7 @@ yydstxt*.com/js/html
 ||anagramas.net^
 ||anal.doubledouble.top^
 ||anal.sataniskwijt.be^
-||analdin.com/player/html.php?aid=
-||analdin.xxx/player/html.php?aid=
+||analdin.*/html.php?aid=
 ||analgalore.com^
 ||analitycs.net^$third-party
 ||analoganalytics.com^$third-party
@@ -13722,6 +13725,7 @@ yydstxt*.com/js/html
 ||b2c.com^$third-party
 ||b2match.com^
 ||b2proxy.com^
+||b2v18mn8f6.com^
 ||b3400dda56f2.com^
 ||b442d6eefbd6173bad7ee5bde6cd31e8.com^
 ||b44aowyno.xyz^
@@ -17280,6 +17284,7 @@ yydstxt*.com/js/html
 ||clicksagent.com^$third-party
 ||clicksen.se^$third-party
 ||clicksend.com^
+||clicksentry.nl^$third-party
 ||clicksfordsm.com^
 ||clicksgear.com^$popup
 ||clickshift.com^$third-party
@@ -18498,8 +18503,7 @@ yydstxt*.com/js/html
 ||crwilladmin.com^
 ||crx4chrome.com^
 ||crxm.net^
-||crxs.me/plugins/jquery.modal/
-||crxs.me/scripts/my_
+||crxs.me/service/assets/core-state.
 ||cryingforanyth.com^$popup
 ||cryo.socialblade.com^
 ||cryorganichash.com^$popup
@@ -18647,6 +18651,7 @@ yydstxt*.com/js/html
 ||currencyfreaks.com^
 ||currentwavedata.com^
 ||cursor.com/analytics/
+||curthkivew.com^
 ||curtsyapp.com^
 ||curvyalpaca.cc^$popup
 ||custom.search.yahoo.co.jp/images/window/*.gif
@@ -21645,6 +21650,7 @@ yydstxt*.com/js/html
 ||dynatrace-managed.com^$third-party
 ||dynatrace.att.com^
 ||dynatrace.com^$third-party,domain=~dynatracelabs.com
+||dynbanners.netlify.app^
 ||dynsrvtbg.com^$popup
 ||dynsrvwer.com^$popup
 ||dyntrk.com^$third-party
@@ -24338,6 +24344,7 @@ yydstxt*.com/js/html
 ||fuyanglizi.net^
 ||fuyuanlu.com^
 ||fuziontech.net^$third-party
+||fuztty4b5g.com^
 ||fvd.net^
 ||fvitj2940637fafa.com^
 ||fvitteilse.com^
@@ -35609,6 +35616,7 @@ yydstxt*.com/js/html
 ||ovdimin.buzz^$popup
 ||oveneringthfic.com^
 ||over-haul.com^
+||overboard27.com^
 ||overcast-cdn.com^
 ||overclockaholics.com^
 ||overclockzone.com^
@@ -39519,6 +39527,7 @@ yydstxt*.com/js/html
 ||rta2.inews.co.uk^
 ||rta2.metro.co.uk^
 ||rta2.newzit.com^
+||rta4z4ncsl.com^
 ||rtacdn-os.com^
 ||rtau9pif4.com^
 ||rtb-1.jizzberry.com^
@@ -43741,6 +43750,7 @@ yydstxt*.com/js/html
 ||thisisyourprize.site^$popup
 ||thisvid.com/enblk/
 ||thj36m3dm.com^
+||thjfcs.cn/hc237/uploads/default/other/2025-12-10/81a0f876800ea81616864d841f102ef4.
 ||thk4.com^
 ||thljnv.top^
 ||thmanyahplatform.com^
@@ -48191,6 +48201,7 @@ yydstxt*.com/js/html
 ||xchina.*/plugins/jquery.modal/
 ||xchina.*/plugins/sweetalert2/
 ||xchina.*/scripts/modal/modal.js
+||xchina.*/service/assets/core-state.
 ||xchina.click^
 ||xchina.co/plugins/sweetAlert2/sweetalert2.all.min.js
 ||xchina.co/scripts/jquery.blockUI.min.js
@@ -49477,6 +49488,7 @@ yydstxt*.com/js/html
 ||zbrtnv.icu^
 ||zc13uyyok7.com^
 ||zc173.com/173fee/
+||zc2do7ttn5.com^
 ||zcaijing.com/images/
 ||zcatt.net^
 ||zcck60eqyw.world^
@@ -49733,6 +49745,7 @@ yydstxt*.com/js/html
 ||zirdough.net^$popup
 ||zisu.cn.com^
 ||zither89.com^
+||ziwl05nrf1.com^
 ||ziyuanm.com/js/g11.js
 ||zj7coeb5i.com^
 ||zj9puq8ycu.com^
