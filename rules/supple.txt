@@ -23,6 +23,7 @@
 ||jgxohmdr.icu^
 ||ndots1885.top^
 ||ojkandwaza.com^
+||otcagpqmeoqb.com^
 ||qzybazja.com^
 ||su0k43kcy.com^
 ||syhze.com^
@@ -67,6 +68,8 @@
 ||oss-cn-hangzhou.aliyuncs.com^$third-party
 ||oss-cn-hongkong.aliyuncs.com^$third-party
 ||s3.ap-east-1.amazonaws.com^$third-party
+||banti.baidu.com^
+||h2tcbox.baidu.com^
 ||hmcdn.baidu.com^
 ||miaowu.baidu.com^
 ||dl59007.bj.bcebos.com^
@@ -81,6 +84,7 @@
 ||ads.google.com^$third-party
 ||fundingchoicesmessages.google.com^
 ||go.homejavlive.com^
+||static.javhdhello.com^
 ||tongji.kaixinman.com^
 ||social-plugins.line.me^
 ||onead.onevision.com.tw^
@@ -96,6 +100,7 @@
 ||cdn.tsyndicate.com^
 ||pxl.tsyndicate.com^
 ||pxl-eu.tsyndicate.com^
+||svacdn.tsyndicate.com^
 ||mcs.volceapplog.com^
 ||static-sg.winudf.com^
 ||rtb-2.xgroovy.com^
@@ -141,6 +146,7 @@ _ads.html?
 /cdn-cgi/speculation
 /popup/adblock/promo/banner/
 .cc/apijs/image/
+.com/addon/ads/img/
 .com/api/models/
 .com/static/image/
 .com/static/video/bn/
@@ -203,11 +209,15 @@ _ads.html?
 ##.van-overlay
 ##.van-popup--center
 duckduckgo.com##.js-atb-banner
+haijiao.love###popup-mask
+m.58moto.com##.motorfans-download-app
 m.happymh.com###layui-m-layer0
 kuaidi100.com##.index__download-box
 smzdm.com##.damo-footer-open-app
 sohu.com###CallAppContainer
+www.haijiaolove.xyz##.elementor-gallery-item__overlay
 www.txrjy.com###tryOpenApp
+www.yqhd8.com###jhb
 
 ! 112pm
 ||112pm.com/okle/js1/
@@ -268,7 +278,11 @@ www.txrjy.com###tryOpenApp
 ||bad.news/images/lightbox-blank.gif
 
 ! baidu
+baidu.com/heicha/mm/2027/acs-2027.js?
 /tb/img/track.gif
+||h2tcbox.baidu.com^
+
+|https://tieba.baidu.com/mo/q/newgetweixintoken?
 
 ! bilibili
 
