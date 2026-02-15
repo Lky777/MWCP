@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202602141933
-! Last modified: 14 Feb 2026 19:33 UTC
+! Version: 202602150702
+! Last modified: 15 Feb 2026 07:02 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -9427,6 +9427,7 @@ yydstxt*.com/js/html
 ||5vdd.com/ktt.png
 ||5vdd.com/mobile.jpg
 ||5vju.net^
+||5w31xv1a2.com^
 ||5w4jzn4tz9.com^
 ||5x17591y3b.com^
 ||5xdmw.com/tb.jpg
@@ -9735,6 +9736,7 @@ yydstxt*.com/js/html
 ||8052qydk7.com^
 ||8069483.com^
 ||8070kk.com/statics/js/guo
+||80753325p.com^
 ||809xslot.com^
 ||80juqing.com^
 ||80ms6831o.com^
@@ -23039,6 +23041,7 @@ yydstxt*.com/js/html
 ||f8dy.tv/template/m1938/js/foot.js
 ||f92j5.com^$third-party
 ||f92l2orpu3.com^
+||f9bnlbgjf.com^
 ||f9gv87zoq2.com^
 ||fa4wu9a4f.com^
 ||fa8xxccqq.com^
@@ -26465,6 +26468,7 @@ yydstxt*.com/js/html
 ||hetarust.com^$popup
 ||hetaruvg.com^$popup
 ||hetaruwg.com^$popup
+||heuristic95.top^
 ||hevepyrmt.com^
 ||hexagon-analytics.com^
 ||hexagon-analytics.com^$third-party
@@ -26698,7 +26702,6 @@ yydstxt*.com/js/html
 ||hjvprx.top^
 ||hjvzfa.top^
 ||hjwzw.com/js/n$script
-||hjwzw.com^
 ||hjzrbedkq.com^
 ||hk-pub.com/forum/images/2009/gifbanner
 ||hk-pub.com/forum/images/banner/
@@ -27378,7 +27381,6 @@ yydstxt*.com/js/html
 ||iafg.cn^
 ||iam-rum-intake.datadoghq.com^
 ||iamcdn.net/players/custom-banner.js
-||iamcdn.net/players/replace-domain.js
 ||iamgyh.xyz^
 ||iamiraqi.com^$popup
 ||iapolo.com/myjs/
@@ -46014,6 +46016,7 @@ yydstxt*.com/js/html
 ||v53groc9v.com^
 ||v6rxv5coo5.com^$popup
 ||v84tz11w7.com^
+||v8fjvv9o3.com^
 ||v8j1rkai1.com^
 ||v9pj.com^
 ||va-endpoint.com^
@@ -49670,7 +49673,6 @@ yydstxt*.com/js/html
 ||zhimg.com/80/v2-725c659194eeebb8c6b970e52e2dc8aa.
 ||zhimg.com/80/v2-c991beef44875fa5971c6bbfc6dc0ad2.
 ||zhimg.com/80/v2-f4b209014eeea058dd5b43f085aaef02.
-||zhimg.com/v2-*.jpg?source=
 ||zhimg.com^*_600x250
 ||zhimg.com^*adx
 ||zhitongle.com^
