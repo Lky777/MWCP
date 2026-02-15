@@ -443,7 +443,6 @@ baidu.com/mo/q/recommendpb/
 /scripts/myDialog/core-ui.
 /scripts/myDialog/myDialog.
 /videojs.ads.min.
-||iamcdn.net/players/replace-domain.js
 ||upload.xchina.io/media/*.webp
 ||upload.xchina.io/media/*.mp4
 ||xchina.co/plugins/sweetAlert2/sweetalert2.all.min.js
@@ -484,7 +483,6 @@ baidu.com/mo/q/recommendpb/
 |https://www.zhihu.com/api/v4/hot_recommendation?
 |https://www.zhihu.com/api/v4/questions/*/related-readings?
 ||vzuu.com/HD/
-||zhimg.com/v2-*.jpg?source=
 
 ! .Z1
 ||0ff6b7.com^
