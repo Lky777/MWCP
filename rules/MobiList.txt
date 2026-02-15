@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202602150702
-! Last modified: 15 Feb 2026 07:02 UTC
+! Version: 202602151935
+! Last modified: 15 Feb 2026 19:35 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -363,6 +363,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/script/xbox.js$third-party
 .com/sh/to/$script,third-party,xmlhttprequest
 .com/sitejs/hansan.js
+.com/smartpop/$third-party
 .com/social-plugins/js/lib/sentry.
 .com/src/ppu/$third-party
 .com/static/image/
@@ -13322,6 +13323,7 @@ yydstxt*.com/js/html
 ||attachedkneel.com^$popup
 ||atteneau.com^
 ||attirecideryeah.com^
+||attirecideryeah.com^$popup
 ||attn.tv/tag/
 ||attn.tv^*/dtag.js
 ||attool.net^
@@ -18378,6 +18380,7 @@ yydstxt*.com/js/html
 ||creative.live7mm.tv^
 ||creative.myasian.live/widgets/
 ||creative.myavlive.com^
+||creative.mzansifun.co.za^
 ||creative.nudelive.store^
 ||creative.ohmycams.com^
 ||creative.strip.chat^
@@ -36395,6 +36398,7 @@ yydstxt*.com/js/html
 ||phtracker.com^
 ||phue.cn^
 ||phumpauk.com^$popup
+||phuolhogmxin.com^
 ||phuquocit.net^
 ||phuustikd.com^
 ||phwv.cn^
@@ -47106,6 +47110,7 @@ yydstxt*.com/js/html
 ||wbidder3.com^$popup
 ||wbilvnmool.com^$popup
 ||wbir.com^
+||wbkar038r.com^
 ||wbmbr16tt.com^
 ||wboux.com^$popup
 ||wbqhehokmy.com^
