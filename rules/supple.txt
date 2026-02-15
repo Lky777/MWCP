@@ -278,11 +278,13 @@ www.yqhd8.com###jhb
 ||bad.news/images/lightbox-blank.gif
 
 ! baidu
-baidu.com/heicha/mm/2027/acs-2027.js?
-/tb/img/track.gif
-||h2tcbox.baidu.com^
 
+/tb/img/track.gif
+|https://*.baidu.com/mo/q/getVersionInfo?
 |https://tieba.baidu.com/mo/q/newgetweixintoken?
+||tb3.bdstatic.com/uniapp/static/icon/
+baidu.com/heicha/mm/2027/acs-2027.js?
+baidu.com/mo/q/recommendpb/
 
 ! bilibili
 
@@ -429,12 +431,6 @@ baidu.com/heicha/mm/2027/acs-2027.js?
 
 ! storm
 ||storm.mg/api/logs/
-
-! tieba
-||tb3.bdstatic.com/uniapp/static/icon/
-|https://*.baidu.com/mo/q/getUpConfigData?
-|https://*.baidu.com/mo/q/getVersionInfo?
-baidu.com/mo/q/recommendpb/
 
 ! toutiao
 ||sf3-cdn-tos.toutiaostatic.com/obj/card-platform/
