@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202602151935
-! Last modified: 15 Feb 2026 19:35 UTC
+! Version: 202602152150
+! Last modified: 15 Feb 2026 21:50 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -268,6 +268,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/a_d/
 .com/ad/$~image,third-party,domain=~espn.com|~mediaplex.com|~warpwire.com|~wsj.com
 .com/addnew.php
+.com/addon/ads/img/
 .com/adgpt.js
 .com/ads?$popup
 .com/adv/$domain=~adv.asahi.com|~advantabankcorp.com|~alltransistors.com|~archiproducts.com|~tritondigital.com
@@ -7797,6 +7798,7 @@ _yad_jsonp_
 abbyychina.com
 ada.baidu.com
 at3.doubanio.com
+baidu.com/heicha/mm/2027/acs-2027.js?
 baidu.com/mo/q/recommendpb/
 bartender.cc
 beyondcompare.cc
@@ -7818,6 +7820,7 @@ fpb.sohu.com
 g.163.com
 g1.tagtic.cn
 guitarpro.cc
+haijiao.love###popup-mask
 huishenghuiying.com.cn
 hxsame.hexun.com$domain=~quote.hexun.com
 iconworkshop.cn
@@ -7835,6 +7838,7 @@ kingdeecn.cn
 kstj.baidu.com
 kuaidi100.com##.index__download-box
 logoshejishi.com
+m.58moto.com##.motorfans-download-app
 m.happymh.com###layui-m-layer0
 mairuanwang.com
 makeding.com
@@ -7883,7 +7887,9 @@ wss://*/api/wss/getnotreadcount$third-party
 wss://loader.*.com/ws^$third-party
 wss://www.*.xyz/ws^$third-party
 wwads.cn
+www.haijiaolove.xyz##.elementor-gallery-item__overlay
 www.txrjy.com###tryOpenApp
+www.yqhd8.com###jhb
 www.zhzzx.com||000webhost.com/images/banners/
 x.jd.com
 xshellcn.com
@@ -7930,6 +7936,7 @@ yydstxt*.com/js/html
 |https://purr.nytimes.com/v1/directives
 |https://rr.happymh.com/mbanner/*.gif.webp
 |https://sobt18.icu/Public/static/js/common.js?
+|https://tieba.baidu.com/mo/q/newgetweixintoken?
 |https://unpkg.zhimg.com/@cfe/sentry-script@
 |https://vk.com/js/api/share.js?
 |https://www.36dm.com/js/
@@ -14020,6 +14027,7 @@ yydstxt*.com/js/html
 ||bannoillt.com^
 ||banquetunarmedgrater.com^$popup
 ||bans.bride.ru^
+||banti.baidu.com^
 ||banyaikipe.top^$popup
 ||banzhu*.com/js/cdn.
 ||banzhu*.com/js/html
@@ -26055,6 +26063,7 @@ yydstxt*.com/js/html
 ||h1.wk2.com^
 ||h1yfrt.com^
 ||h2porn.com/new-hit/?
+||h2tcbox.baidu.com^
 ||h353.ncadvertiser.com^
 ||h3e8.com^
 ||h4htfgrei0.com^
@@ -34606,7 +34615,6 @@ yydstxt*.com/js/html
 ||nttglobal.net^
 ||ntvid.online/cdn-cgi/trace
 ||ntvpforever.com^$popup
-||ntxqy.com^
 ||nu-bay.com^
 ||nu2.nu/gfx/sponsor/
 ||nuancier.net^
@@ -35515,6 +35523,7 @@ yydstxt*.com/js/html
 ||osxl.cn^
 ||otakurepublic.com^
 ||otaserve.net^$third-party
+||otcagpqmeoqb.com^
 ||otcash.com/images/
 ||otccoinapi.com^
 ||otcmsts.top^
@@ -42093,6 +42102,7 @@ yydstxt*.com/js/html
 ||static.ichehome.com^
 ||static.ifruplink.net/static_src/mc-banner/
 ||static.javhd.com/h5/files/
+||static.javhdhello.com^
 ||static.javxxx.me^
 ||static.klaviyo.com/onsite/js/event_adapter.
 ||static.meijiacun.com^
@@ -42738,6 +42748,7 @@ yydstxt*.com/js/html
 ||sutraf.com^
 ||suxvmntwtb.net^
 ||sv2.biz^$third-party
+||svacdn.tsyndicate.com^
 ||svc.dynamics.com/f/m/$third-party
 ||svc.dynamics.com/t/v/$third-party
 ||svc.dynamics.com/t/w$third-party
