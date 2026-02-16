@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202602152255
-! Last modified: 15 Feb 2026 22:55 UTC
+! Version: 202602160840
+! Last modified: 16 Feb 2026 08:40 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -63,6 +63,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 &sst.sw_exp=
 &subaffid=%$subdocument,third-party
 &t=pageview&
+&vastAdID=
 &xhtml?$script,third-party
 &zoneid=*&ad_$popup
 &zoneid=*&direct=$popup
@@ -254,6 +255,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .cnxad.$third-party
 .com*/ps/pscreat.js
 .com./$popup,domain=pornhub.com
+.com/*/uploads/default/other/*.gif
 .com/*=bt1zdxy1jni9
 .com/*markerclusterer_compiled.js$script,third-party
 .com/0gg/gg*.js
@@ -7858,6 +7860,7 @@ pdfexpert.cc
 pfp.sina.net
 qcvf.ifeng.com
 qpb.sohu.com
+sav123.com##.c-ad-pop
 shankejingling.com
 smzdm.com##.damo-footer-open-app
 sohu.com###CallAppContainer
@@ -7873,6 +7876,7 @@ u-x.jd.com
 u8.hujiang.com
 ubmcmm.baidustatic.com
 udiab1.jianshu.com
+v=2&adZones
 vegaschina.cn
 webcert.cnmstl.net
 wrating.com
@@ -7942,6 +7946,7 @@ yydstxt*.com/js/html
 |https://www.99re.com/player/html.php?
 |https://www.cnblogs.com/*/ajax/post-accessories?
 |https://www.cnblogs.com/*/custom.css?
+|https://www.eporner.com/dot/pop4.php
 |https://www.eporner.com/static/popCode-
 |https://www.ghxi.com/wp-content/plugins/wp-opt/static/js/ai-summary.min.js?
 |https://www.ghxi.com/wp-content/plugins/wp-opt/static/js/front.min.js?
@@ -8546,6 +8551,7 @@ yydstxt*.com/js/html
 ||1xlite-522762.top^$popup
 ||1xlite-581707.top^
 ||1ykbpp1jx.com^
+||1zdywcgmlt.com^
 ||2.haoxue360.com^
 ||2000fun.com^
 ||200218.com^$third-party
@@ -9179,6 +9185,7 @@ yydstxt*.com/js/html
 ||4wg67b9vb.com^
 ||4wmiuiyd70.com^
 ||4wym8gups.com^
+||4xdma060ad.com^
 ||4xicd08qs.com^
 ||4yl3e3fmv.com^
 ||4z50jczq2.com^
@@ -15516,7 +15523,6 @@ yydstxt*.com/js/html
 ||brs798.com^
 ||brst77.com^
 ||brteachcor.com^
-||brudirect.com/images/banners/
 ||brushexpert.com/getimage/banners
 ||brutishlylifevoicing.com^$popup
 ||brydento.xyz^
@@ -18711,7 +18717,6 @@ yydstxt*.com/js/html
 ||cwn0drtrk.com^$popup
 ||cwo98w.com^
 ||cwobject.com^
-||cwomum.com^
 ||cwr-crb.com^
 ||cws.conviva.com^
 ||cwstats.com^
@@ -22428,6 +22433,7 @@ yydstxt*.com/js/html
 ||eporner.com/dot/
 ||eporner.com/event.php
 ||eporner.com/getadb/
+||eporner.com/i/piwik.js
 ||eporner.com/xhr/vast/
 ||eporner.com^$subdocument,~third-party
 ||epoyipiscf.net^
@@ -27887,6 +27893,7 @@ yydstxt*.com/js/html
 ||imlive.com/wmaster.ashx?$popup,third-party
 ||imlive.com^$script,third-party,domain=~imnude.com
 ||immanalytics.com^$third-party
+||immaterial79.com^
 ||immediate49.com^
 ||immigration.com^
 ||immihelp.com^
@@ -32528,7 +32535,6 @@ yydstxt*.com/js/html
 ||mfav88.com/yinzi/
 ||mfgchips.com^
 ||mfhxz0hz7.com^
-||mfield6.com^
 ||mfk-network.com^
 ||mfk.com^
 ||mfkfkhfhmfkfkhfh.top^
@@ -38647,6 +38653,7 @@ yydstxt*.com/js/html
 ||rcguamf.icu^
 ||rchqtr.icu^
 ||rcilgeill.com^
+||rcjmypjyey.com^
 ||rclio.com^
 ||rconfig.com^
 ||rcruulnot.com^
@@ -48154,6 +48161,7 @@ yydstxt*.com/js/html
 ||x21.cn/service/feeds.
 ||x2tsa.com^$popup
 ||x3322.net^
+||x35ehot6mu.com^
 ||x360xs.com/tops/
 ||x3lps9uuog.com^
 ||x3m9q7.com^
@@ -48622,6 +48630,7 @@ yydstxt*.com/js/html
 ||xuvemira.xyz^
 ||xuwmylm697.com^
 ||xuzhi.net/uploadfile/poster/960x50.jpg
+||xv62yli8iz.com^
 ||xv98.com/js/daohang
 ||xv98.com/js/hengfu
 ||xvbwjd.icu^
