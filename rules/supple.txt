@@ -142,6 +142,8 @@
 .xyz/jt.php?
 _ads.html?
 ://analytics.*.com/api/event
+&vastAdID=
+v=2&adZones
 /1x1.
 /cdn-cgi/speculation
 /popup/adblock/promo/banner/
@@ -191,6 +193,7 @@ _ads.html?
 .cn/*/uploads/default/other/*.gif
 .cn/upload_01/upload/*.gif
 .cn/upload_01/xiao/*.gif
+.com/*/uploads/default/other/*.gif
 .net/static/images/*.gif
 .tv/assets/ad/ad.gif
 /gg980-90.gif
@@ -203,7 +206,7 @@ _ads.html?
 ||pic1.imgdb.cn/item/*.gif
 ||qy0.ru/*.gif
 ||rzpsrl.cn/imc/*.gif
-!
+
 ! ========== Ele blocking ==========
 ##.block-overlay
 ##.van-overlay
@@ -213,6 +216,7 @@ haijiao.love###popup-mask
 m.58moto.com##.motorfans-download-app
 m.happymh.com###layui-m-layer0
 kuaidi100.com##.index__download-box
+sav123.com##.c-ad-pop
 smzdm.com##.damo-footer-open-app
 sohu.com###CallAppContainer
 www.haijiaolove.xyz##.elementor-gallery-item__overlay
@@ -278,7 +282,6 @@ www.yqhd8.com###jhb
 ||bad.news/images/lightbox-blank.gif
 
 ! baidu
-
 /tb/img/track.gif
 |https://*.baidu.com/mo/q/getVersionInfo?
 |https://tieba.baidu.com/mo/q/newgetweixintoken?
@@ -321,8 +324,12 @@ baidu.com/mo/q/recommendpb/
 ! douban
 
 ! eporner
-||eporner.com/getadb/
 |https://www.eporner.com/static/popCode-
+|https://www.eporner.com/dot/pop4.php
+||eporner.com/dot/
+||eporner.com/getadb/
+||eporner.com/i/piwik.js
+||eporner.com/xhr/vast/
 
 ! ghxi
 ||www.ghxi.com/wp-content/plugins/core-ai-power/
