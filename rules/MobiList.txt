@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202602161941
-! Last modified: 16 Feb 2026 19:41 UTC
+! Version: 202602171950
+! Last modified: 17 Feb 2026 19:50 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -4058,6 +4058,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /post-views-counter-pro/js/crawler-detect.js
 /post-views-counter-pro/js/frontend.js
 /postcounter.php?
+/posthog-recorder.js
 /postlog?
 /postview.gif?
 /pp/micro.tag.min.js
@@ -6976,7 +6977,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||liulanmi.com/wp-content/uploads/*/statcounter-
 @@||liumingye.cn^$generichide
 @@||live.lequipe.fr/thirdparty/prebid.js$~third-party
-@@||live.primis.tech^$script,domain=eurogamer.net|independent.co.uk|klaq.com|loudwire.com|screencrush.com|the-independent.com|vg247.com|xxlmag.com
+@@||live.primis.tech^$domain=eurogamer.net|gbnews.com|independent.co.uk|klaq.com|loudwire.com|screencrush.com|the-independent.com|vg247.com|xxlmag.com
 @@||live.primis.tech^$xmlhttprequest,domain=xxlmag.com
 @@||live.streamtheworld.com/partnerids$domain=iheart.com|player.amperwave.net
 @@||livew.l.qq.com/livemsg?pf=h5&ad$domain=m.v.qq.com
@@ -9550,6 +9551,7 @@ yydstxt*.com/js/html
 ||62422.cn/ggimg/
 ||6278159.xyz^
 ||62868.com/static/js/gg.
+||629jpgi3i.com^
 ||62ad.com^$popup
 ||62mao.com/52
 ||630038949.com^
@@ -13809,6 +13811,7 @@ yydstxt*.com/js/html
 ||b-static.com^
 ||b.bedop.com^
 ||b.cdnst.net/javascript/amazon.js$script,domain=speedtest.net
+||b.gupload.xyz^
 ||b.kouke5.com^
 ||b.link^$popup,domain=hltv.org
 ||b.marfeelcache.com/statics/marfeel/gardac-sync.js
@@ -15142,6 +15145,7 @@ yydstxt*.com/js/html
 ||blinkaibrt.com^
 ||blinkband.com^
 ||blinksbobblepadding.com^
+||blinksbobblepadding.com^$popup
 ||blip.bizrate.com^$script
 ||blisspointmedia.com^$third-party
 ||blitz-analytics-batch-server.blitz.gg^
@@ -16647,6 +16651,7 @@ yydstxt*.com/js/html
 ||cdn.iciba.com/web/co/ci/$image
 ||cdn.jsdelivr.net/npm/@adshield/
 ||cdn.lr-hv-in.com/logger.min.js
+||cdn.makemula.ai/js/mula.js
 ||cdn.manga9.co^
 ||cdn.neighbourly.co.nz/widget/$subdocument
 ||cdn.one.store/xdomain_cookie.html
@@ -24141,6 +24146,7 @@ yydstxt*.com/js/html
 ||fordforums.com.au/logos/
 ||fordpartsgiant.com^
 ||forebodiesonly.com^
+||foremost57.top^
 ||forensics1000.com^$third-party
 ||foreseeresults.com^$third-party
 ||forestnovel.com^
@@ -27694,6 +27700,7 @@ yydstxt*.com/js/html
 ||i5qquywfz.com^
 ||i64cl3er5t.com^
 ||i73u6dnnh.com^
+||i7bqmgn87.com^
 ||i7mfm1hl44.com^
 ||i7xkqmhjw.com^
 ||i8.chinanews.com^$subdocument
@@ -40273,6 +40280,7 @@ yydstxt*.com/js/html
 ||rwix.cn^
 ||rwq7uvuj88pied.com^
 ||rwtezd.icu^
+||rwtraqur.com^
 ||rwtzv9ehv.com^
 ||rx.link^$popup,domain=uploadgig.com
 ||rxaqwhu54d.com^
@@ -43499,6 +43507,7 @@ yydstxt*.com/js/html
 ||szgpmy.com/js/
 ||szhgmd.com^
 ||szhongzi.com/js/
+||szjbo9a13.com^
 ||szjfxy.com^
 ||szjjzs.com/js/cs*.js
 ||szjjzs.com/js/d*.js
@@ -43865,6 +43874,7 @@ yydstxt*.com/js/html
 ||taxsdkgo.com^
 ||taxseepro.com^
 ||taxwise.com^
+||tb1mdkeni.com^
 ||tb3.bdstatic.com/uniapp/static/icon/
 ||tb3bu207yap7.xyz^
 ||tb4gv2cp5z.com^
@@ -44683,6 +44693,7 @@ yydstxt*.com/js/html
 ||tmea116.oss-cn-beijing.aliyuncs.com^
 ||tmetrix.my.chick-fil-a.com^
 ||tmileads.com^
+||tmkhirkrol.com^
 ||tmll7.com^
 ||tmlyhh.icu^
 ||tmmp.io^$third-party
@@ -50178,6 +50189,7 @@ yydstxt*.com/js/html
 ||z5x.net^$popup
 ||z60ft9y8lj.com^
 ||z680.beaumontenterprise.com^
+||z6faiv46r.com^
 ||z737.thestar.com^
 ||z8bu.com^
 ||z90win.com^
