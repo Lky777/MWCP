@@ -3,35 +3,8 @@
 @@||126.net^*analysis$domain=m.163.com
 ! /guanggao
 @@https://gitee.com/damengzhudamengzhu/guanggaoguolv
-@@||eporner.com^$~third-party
 
 ! .A1
-||12img666394.com^
-||aottercdn.com^
-||apologiesoccursdepressed.com^
-||arcaceahelper.cyou^
-||baocps.com^
-||blockadsnot.com^
-||ceniiat.com^
-||cospu2011.top^
-||cww3qrrq4llezz7ct1231.com^
-||dtazafmadnc.com^
-||faayuuk.icu^
-||faqirsgoliard.top^
-||ee555aa888.com^
-||hhoaglat.com^
-||jgxohmdr.icu^
-||ndots1885.top^
-||ojkandwaza.com^
-||otcagpqmeoqb.com^
-||qzybazja.com^
-||su0k43kcy.com^
-||syhze.com^
-||tjvip.cc^
-||trellischafing.shop^
-||zbczce.com^
-||zcxm.xyz^
-||zhuanshutupian458.com^
 
 ! .B1
 ||157.185.146.120^
@@ -146,6 +119,7 @@ _ads.html?
 v=2&adZones
 /1x1.
 /cdn-cgi/speculation
+|https://www.ycymh.com/poster/zj-
 /popup/adblock/promo/banner/
 .cc/apijs/image/
 .com/addon/ads/img/
@@ -194,10 +168,12 @@ v=2&adZones
 .cn/upload_01/upload/*.gif
 .cn/upload_01/xiao/*.gif
 .com/*/uploads/default/other/*.gif
+.com/template/wap/zhuimh/img/lazy-read.gif
 .net/static/images/*.gif
 .tv/assets/ad/ad.gif
 /gg980-90.gif
 /images/ad1.gif
+/img/track.gif
 /imgloading.gif
 /load.gif
 /loading.gif
@@ -282,7 +258,6 @@ www.yqhd8.com###jhb
 ||bad.news/images/lightbox-blank.gif
 
 ! baidu
-/tb/img/track.gif
 |https://*.baidu.com/mo/q/getVersionInfo?
 |https://tieba.baidu.com/mo/q/newgetweixintoken?
 ||tb3.bdstatic.com/uniapp/static/icon/
@@ -501,7 +476,7 @@ baidu.com/mo/q/recommendpb/
 |https://www.zhihu.com/api/v4/questions/*/related-readings?
 ||vzuu.com/HD/
 
-! .Z1
+! .z1
 ||0ff6b7.com^
 ||0ghwbi.com^
 ||1dgfdw.com^
@@ -677,3 +652,31 @@ baidu.com/mo/q/recommendpb/
 ||zqbao.app^
 ||zqbao.vip^
 ||zrwprhw.xyz^
+
+! .z2
+||12img666394.com^
+||aottercdn.com^
+||apologiesoccursdepressed.com^
+||arcaceahelper.cyou^
+||baocps.com^
+||blockadsnot.com^
+||ceniiat.com^
+||cospu2011.top^
+||cww3qrrq4llezz7ct1231.com^
+||dtazafmadnc.com^
+||faayuuk.icu^
+||faqirsgoliard.top^
+||ee555aa888.com^
+||hhoaglat.com^
+||jgxohmdr.icu^
+||ndots1885.top^
+||ojkandwaza.com^
+||otcagpqmeoqb.com^
+||qzybazja.com^
+||su0k43kcy.com^
+||syhze.com^
+||tjvip.cc^
+||trellischafing.shop^
+||zbczce.com^
+||zcxm.xyz^
+||zhuanshutupian458.com^
