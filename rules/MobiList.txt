@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202602171950
-! Last modified: 17 Feb 2026 19:50 UTC
+! Version: 202602180404
+! Last modified: 18 Feb 2026 04:04 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -379,6 +379,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/style/vue.js?v=
 .com/submit.min.js?abvar=
 .com/template/jable/ads/bottom.js
+.com/template/wap/zhuimh/img/lazy-read.gif
 .com/tonglan.js
 .com/tonglan2.js
 .com/topjs/
@@ -2977,6 +2978,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /img/q/movie_*.gif
 /img/skin/*_bg.$domain=firefox.com.cn|firefoxchina.cn
 /img/skin/tao$domain=firefox.com.cn|firefoxchina.cn
+/img/track.gif
 /img?eid=
 /img_ad/*$image,domain=~daily.co.jp|~ehonnavi.net
 /imgad
@@ -4883,7 +4885,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /tatari-shopify/tracker-snippet-latest.min.js
 /tb/_/video_frs_head_
 /tb/img/hg/hg.gif?
-/tb/img/track.gif
 /tb_360$subdocument
 /tc-ad.
 /tc.js|$script
@@ -6630,7 +6631,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||emome.net/files/advertising/
 @@||entitlements.jwplayer.com^$xmlhttprequest,domain=iheart.com
 @@||eolinker.com^$generichide
-@@||eporner.com^$~third-party
 @@||epubit.com/static/epubit/share/js/share.min.js
 @@||esko.cloud^*_300x600_$~third-party
 @@||eslite.com^*/ad
@@ -7955,6 +7955,7 @@ yydstxt*.com/js/html
 |https://www.ghxi.com/wp-content/plugins/wp-opt/static/js/front.min.js?
 |https://www.haijiaoshipin.com/build/assets/popup-
 |https://www.pornbest.org/site/stat?
+|https://www.ycymh.com/poster/zj-
 |https://www.ytsptv.com/Php/Home/kakaxiaikakaxi.php
 |https://www.ytsptv.com/popup_api.php?
 |https://www.ytsptv.com/right_float_api.php?
@@ -7974,6 +7975,7 @@ yydstxt*.com/js/html
 ||003store.com^
 ||007ds.com/js/js/
 ||00eeekk.com//html5/activitypage/
+||00img.top^
 ||00p034d0dw.com^
 ||0105lmym.top^
 ||011qt7cln.com^
@@ -10383,6 +10385,7 @@ yydstxt*.com/js/html
 ||a870ea8bab.com^
 ||a8h4zhbmxi.com^
 ||a8op.com^
+||a8qwjt7dwi.com^
 ||a8ww.net^$third-party
 ||a910d264c4.com^
 ||a9x1k7.com^
@@ -14578,6 +14581,7 @@ yydstxt*.com/js/html
 ||benable.com^
 ||benadorassociates.com^
 ||benaughty.com^$popup
+||benchmark84.top^
 ||benchmarkeducation.com^
 ||benchtag2.co^$third-party
 ||benco.com^
@@ -31348,6 +31352,7 @@ yydstxt*.com/js/html
 ||liverail.com/?metric=
 ||liverail.com/track/?
 ||livescore.az/images/banners
+||livesearch-metrics.magento-ds.com^
 ||livesegmentservice.com^$third-party
 ||livesession.io^$third-party
 ||livesexasian.com^$subdocument,third-party
@@ -46156,6 +46161,7 @@ yydstxt*.com/js/html
 ||ucranianaspobres.top^
 ||ucriqupq.com^
 ||uct.service.usercentrics.eu^
+||ucuypyhcns.com^
 ||ucweb.com/collect/
 ||uczfl.com/data/content
 ||udblog.huya.com^
@@ -50172,6 +50178,7 @@ yydstxt*.com/js/html
 ||z1.o8h7d.cn^
 ||z1.pclady.com.cn^
 ||z10djg4fmj.com^
+||z198vxfuy3.com^
 ||z1e2vp1gw.com^
 ||z1hihu.xmcimg.com^
 ||z1qzmbh6kfefn7wt.com^
@@ -50651,7 +50658,7 @@ yydstxt*.com/js/html
 ||zrlqm.com^$popup
 ||zrocdn.xyz^
 ||zrrglobal.com^
-||zrwprhw.xyz^||00img.top^
+||zrwprhw.xyz^
 ||zryydi.com^$popup
 ||zrz0c0sh7e.com^
 ||zrzgsdocqm.com^
