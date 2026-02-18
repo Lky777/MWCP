@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202602180404
-! Last modified: 18 Feb 2026 04:04 UTC
+! Version: 202602181953
+! Last modified: 18 Feb 2026 19:53 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -9981,6 +9981,7 @@ yydstxt*.com/js/html
 ||8mg050.n3cdn1.secureserver.net^*.gif
 ||8mg050.n3cdn1.secureserver.net^*/960
 ||8muses.com/banner/
+||8p14q886v2.com^
 ||8pad.xyz^
 ||8proe3xx6.com^
 ||8radc6a0m2.com^
@@ -13915,6 +13916,7 @@ yydstxt*.com/js/html
 ||backspinreentryupright.com^$popup
 ||backyardherds.com^
 ||bad.news/images/lightbox-blank.gif
+||bad.news/scripts?
 ||bad996.com/dakaads.js
 ||badambiz.com^
 ||badjojo.com/d5
@@ -38376,6 +38378,7 @@ yydstxt*.com/js/html
 ||pwctrader.com^
 ||pwebnotif.com^
 ||pwinsider.com/advertisement/
+||pwk73hidf2.com^
 ||pwrgamerz.com^
 ||pwrgrowthapi.com^
 ||pwsdk.com^
@@ -47598,6 +47601,7 @@ yydstxt*.com/js/html
 ||w11.zhongkaohelp.com^
 ||w11stop.com^
 ||w18.9939.com^
+||w1irjtvdt4.com^
 ||w1tg.cn^
 ||w2g-mtrx.w2g.tv^
 ||w2g-ping.b-cdn.net^
@@ -50778,6 +50782,7 @@ yydstxt*.com/js/html
 ||zzsky.com/images/a_d_
 ||zztongyun.com/static/js/sh.
 ||zztxt.net/public/wapbiquge/js/static.js
+||zzuccikqt.com^
 ||zzup.com/ad.php
 ||zzz4.com/js_ad/
 ||zzztube.com^
