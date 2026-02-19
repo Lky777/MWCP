@@ -5,6 +5,7 @@
 @@https://gitee.com/damengzhudamengzhu/guanggaoguolv
 
 ! .A1
+||qr381.com
 
 ! .B1
 ||157.185.146.120^
@@ -41,6 +42,7 @@
 ||oss-cn-hangzhou.aliyuncs.com^$third-party
 ||oss-cn-hongkong.aliyuncs.com^$third-party
 ||s3.ap-east-1.amazonaws.com^$third-party
+||script-center.bad.news^
 ||banti.baidu.com^
 ||h2tcbox.baidu.com^
 ||hmcdn.baidu.com^
@@ -79,6 +81,7 @@
 ||rtb-2.xgroovy.com^
 ||collector.xhamster.com^
 ||go.xhamsterlive.com^
+||htsc.xn--9krv3x413bbyb.com^
 ||analytics.yahoo.com^
 
 ! .C
@@ -167,7 +170,6 @@ v=2&adZones
 .cn/*/uploads/default/other/*.gif
 .cn/upload_01/upload/*.gif
 .cn/upload_01/xiao/*.gif
-.com/*/uploads/default/other/*.gif
 .com/template/wap/zhuimh/img/lazy-read.gif
 .net/static/images/*.gif
 .tv/assets/ad/ad.gif
@@ -178,6 +180,7 @@ v=2&adZones
 /load.gif
 /loading.gif
 /loading.jpg
+/uploads/default/other/*.gif
 ||nibuaideren.icu/*.gif
 ||pic1.imgdb.cn/item/*.gif
 ||qy0.ru/*.gif
@@ -187,6 +190,7 @@ v=2&adZones
 ##.block-overlay
 ##.van-overlay
 ##.van-popup--center
+a2zapk.io###modalpop
 duckduckgo.com##.js-atb-banner
 haijiao.love###popup-mask
 m.58moto.com##.motorfans-download-app
