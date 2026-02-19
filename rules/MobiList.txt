@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202602191635
-! Last modified: 19 Feb 2026 16:35 UTC
+! Version: 202602191945
+! Last modified: 19 Feb 2026 19:45 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -4021,7 +4021,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /plugins/visitors-traffic-
 /plugins/wordfence/visitor.php?
 /plugins/wp-vgwort/
-/pmc-adm-v2/build/setup-ads.js$domain=bgr.com|deadline.com|rollingstone.com
 /pmc-cxense.js
 /pmfastclick.min.js
 /pn07uscr/f/tr/zavbn/*$third-party
@@ -7901,7 +7900,7 @@ wwads.cn
 www.haijiaolove.xyz##.elementor-gallery-item__overlay
 www.txrjy.com###tryOpenApp
 www.yqhd8.com###jhb
-www.zhzzx.com||000webhost.com/images/banners/
+www.zhzzx.com/pmc-adm-v2/build/setup-ads.js$domain=bgr.com|deadline.com|rollingstone.com
 x.jd.com
 xshellcn.com
 yihuifu.cn
@@ -7976,6 +7975,7 @@ yydstxt*.com/js/html
 ||*xav.*/guang/*.jpg
 ||0.0.0.0^$third-party,domain=~0.0.0.0|~127.0.0.1|~[::1]|~[::]|~local|~localhost
 ||0.0.0.1^
+||000webhost.com/images/banners/
 ||003store.com^
 ||007ds.com/js/js/
 ||00eeekk.com//html5/activitypage/
@@ -16147,7 +16147,6 @@ yydstxt*.com/js/html
 ||c81.ipanocloud.com^
 ||c8nd30upgq.com^
 ||c8q27tqnaw.com^
-||c8u56740.com^
 ||c9w.net^
 ||ca.cbsi.com.cn/rpv?
 ||ca.fapnow.xxx^
@@ -41437,7 +41436,6 @@ yydstxt*.com/js/html
 ||shxubwa.xyz^
 ||shysfs.com^
 ||shyuhuankj.com^
-||shzvsh.cn^
 ||shzzzz.dftoutiao.com^
 ||si-vreme.com^
 ||si21.com^
@@ -44465,7 +44463,6 @@ yydstxt*.com/js/html
 ||thscore.fun/mn/
 ||thscore2.com^
 ||thtk.temu.com^
-||thts5.top^
 ||thumbb86.com^
 ||thumbcdn.com^
 ||thumbnow.com^
@@ -49195,6 +49192,7 @@ yydstxt*.com/js/html
 ||xn--54q23ckxiyx0e.com^
 ||xn--6kr65fctg2t4e.com^
 ||xn--6rtq6phwfhva.com^
+||xn--9krv3x413bbyb.com^
 ||xn--bongot-0ya.com^
 ||xn--buwt15b.com^
 ||xn--czru2dx3eszw3lat53b.com^
