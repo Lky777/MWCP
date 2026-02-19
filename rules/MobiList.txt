@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202602181953
-! Last modified: 18 Feb 2026 19:53 UTC
+! Version: 202602191635
+! Last modified: 19 Feb 2026 16:35 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -255,7 +255,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .cnxad.$third-party
 .com*/ps/pscreat.js
 .com./$popup,domain=pornhub.com
-.com/*/uploads/default/other/*.gif
 .com/*=bt1zdxy1jni9
 .com/*markerclusterer_compiled.js$script,third-party
 .com/0gg/gg*.js
@@ -366,6 +365,8 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/script/xbox.js$third-party
 .com/sh/to/$script,third-party,xmlhttprequest
 .com/sitejs/hansan.js
+.com/smartpop/$document
+.com/smartpop/$popup,third-party
 .com/smartpop/$third-party
 .com/social-plugins/js/lib/sentry.
 .com/src/ppu/$third-party
@@ -5233,6 +5234,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /upfile/myshow$image,object
 /upload/site/tbgg/*.gif
 /upload/vod/2018-08-05/201808051533458526.png
+/uploads/default/other/*.gif
 /urchin.gif?
 /urchin.html?
 /urchin.js
@@ -6631,6 +6633,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||emome.net/files/advertising/
 @@||entitlements.jwplayer.com^$xmlhttprequest,domain=iheart.com
 @@||eolinker.com^$generichide
+@@||eporner.com^$~third-party,
 @@||epubit.com/static/epubit/share/js/share.min.js
 @@||esko.cloud^*_300x600_$~third-party
 @@||eslite.com^*/ad
@@ -7800,6 +7803,7 @@ _view_pixel&$image
 _webanalytics.
 _webvitalsreporter_
 _yad_jsonp_
+a2zapk.io###modalpop
 abbyychina.com
 ada.baidu.com
 at3.doubanio.com
@@ -18983,6 +18987,7 @@ yydstxt*.com/js/html
 ||d.win10com.com^
 ||d.ziyuanm.com^
 ||d0.xcar.com.cn^
+||d0i5db8gp.com^
 ||d0i8m5ddv6.com^
 ||d0r8m3.com^
 ||d1.1ppt.com^
@@ -22823,6 +22828,7 @@ yydstxt*.com/js/html
 ||et.educationdynamics.com^
 ||et.nytimes.com^
 ||et.tidal.com^
+||et3lc8yoe.com^
 ||eta.animenewsnetwork.com^
 ||etadiao.com^
 ||etadult.com*/images/20
@@ -26753,6 +26759,7 @@ yydstxt*.com/js/html
 ||heraldtimesonline.com^
 ||heratheacle.com^$popup
 ||hercampus.com^
+||herculean57.com^
 ||herefordtimes.com^
 ||heremployeesihi.info^$popup
 ||heresanothernicemess.com^$popup
@@ -27039,6 +27046,7 @@ yydstxt*.com/js/html
 ||hkminih5game.com^
 ||hkmte.com/seo.js
 ||hkn0.com^
+||hkplzozwl.com^
 ||hkqisheng.com^
 ||hkralgriks.com^
 ||hksgames.com^
@@ -36104,6 +36112,7 @@ yydstxt*.com/js/html
 ||outsmart56.com^
 ||outster.com^$third-party
 ||outwingullom.com^$popup
+||ov3zaa6w0.com^
 ||ovalyraa.com^
 ||ovardu.com^$popup
 ||ovcnmtk.top^
@@ -36245,6 +36254,7 @@ yydstxt*.com/js/html
 ||p2poolmining.com^$third-party
 ||p3-sign.toutiaoimg.com/tos-cn-i-eyfl5e3fp8/
 ||p30rank.ir^$third-party
+||p4dc8ve6i.com^
 ||p4ed.com^
 ||p4g0s3.com^
 ||p4gdt4um6.com^
@@ -38765,6 +38775,7 @@ yydstxt*.com/js/html
 ||qqyy.com/js/public_end_add.js
 ||qr-captcha.com^$popup
 ||qr-trc-pay.com^
+||qr381.com
 ||qrcodemaster.top^
 ||qreport.qunar.com^
 ||qriselite.com^
@@ -40716,6 +40727,7 @@ yydstxt*.com/js/html
 ||scrippscontroller.com^$third-party
 ||script-api.kinja.com/script?
 ||script-bd.baixing.net^
+||script-center.bad.news^
 ||script.claspo.io/forms/v1/event
 ||scriptburn.com^
 ||scripts.com^
@@ -49002,6 +49014,7 @@ yydstxt*.com/js/html
 ||xhcdn.com/site/*/ntvb.gif
 ||xhd.cn/topic/leyu-piaofu/
 ||xhmediacdn.com^
+||xhr7cqlob.com^
 ||xhsocial.com^
 ||xhwebsite.com^
 ||xhymsq.com/data/attachment/portal/
