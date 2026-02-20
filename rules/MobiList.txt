@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202602191945
-! Last modified: 19 Feb 2026 19:45 UTC
+! Version: 202602201944
+! Last modified: 20 Feb 2026 19:44 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -9117,6 +9117,7 @@ yydstxt*.com/js/html
 ||407mp3.com/js/*.js
 ||4080kan.com/js/head
 ||40images25.com^
+||40nao7anx6.com^
 ||40nuggets.com^$third-party
 ||40svintageporn.com/hit
 ||40wan.com/js/www2/
@@ -11655,7 +11656,6 @@ yydstxt*.com/js/html
 ||agroundrecentwalk.com^
 ||agrvt.com^$third-party
 ||agsoftgames.com^
-||aguea.net^
 ||aguo.com^$third-party
 ||agusta.com^
 ||agustawestland.com^
@@ -13444,6 +13444,7 @@ yydstxt*.com/js/html
 ||att.com/scripts/adobe/prod/marketing.min.js
 ||att.ydss.cn/attachments/portal/
 ||attachedkneel.com^$popup
+||attendant36.top^
 ||atteneau.com^
 ||attfreya.com^
 ||attirecideryeah.com^
@@ -20702,6 +20703,7 @@ yydstxt*.com/js/html
 ||df.huya.com^
 ||df.infra.shopee.
 ||df.infra.sz.shopee.
+||df6pt2obl092n.cloudfront.net^
 ||df80k0z3fi8zg.cloudfront.net^
 ||df888.eastday.com^
 ||dfanalytics.dealerfire.com^
@@ -22015,6 +22017,7 @@ yydstxt*.com/js/html
 ||e47e47.com^
 ||e4jdb7k8j.com^
 ||e4q7rst.com^
+||e59x4phq3a.com^
 ||e5yx.com^$popup
 ||e6ai.net^
 ||e6r4r1.com^
@@ -24669,6 +24672,7 @@ yydstxt*.com/js/html
 ||fwpixel.com^$third-party
 ||fwpub1.com^$domain=ndtv.com|ndtv.in
 ||fwsir.com/static/cpt/
+||fwvzx907rr.com^
 ||fwwang.cn/templets/fw/js/art
 ||fx-mt4ea.com^
 ||fx110.*/pub/ghz/getmodel
@@ -28861,6 +28865,7 @@ yydstxt*.com/js/html
 ||iqnew.com/d/js/m/thea
 ||iqoi.cn^
 ||iqoption.com/land/$popup
+||iqqwi8tyq1.com^
 ||iqshw.com/d/js/m/thea
 ||iqsswq.icu^
 ||iqtucudfff.com^
@@ -39804,6 +39809,7 @@ yydstxt*.com/js/html
 ||ringconcierge.com^
 ||rinl.cn^
 ||rintor.space/t2632cd43215.js
+||rio9s1zdpd.com^
 ||riojimmymotor.com^
 ||riowrite.com^$popup
 ||ripndipclothing.com^
@@ -41208,7 +41214,6 @@ yydstxt*.com/js/html
 ||share44.com/adad2014/
 ||shareaholic.com/analytics_
 ||shareaholic.com/partners.js
-||shareanynudes.com^
 ||shareasale-analytics.com^$third-party
 ||shareasale.com/image/$third-party
 ||shareasale.com^$third-party
@@ -49504,6 +49509,7 @@ yydstxt*.com/js/html
 ||y31i86x8.com^
 ||y3600.cc/20
 ||y39yy5.com^
+||y40milgijh.com^
 ||y4g8fgj6ra.com^
 ||y4re1yokqv.com^
 ||y5coin.com^
@@ -50667,6 +50673,7 @@ yydstxt*.com/js/html
 ||zqifmyt.icu^
 ||zqntbc.top^
 ||zqqwr9snx1.com^
+||zqy0jcfipu.com^
 ||zqydulfzxb.com^
 ||zrblog.net*/gg/
 ||zrbnte.top^
