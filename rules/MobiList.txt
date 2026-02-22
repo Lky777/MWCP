@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202602211934
-! Last modified: 21 Feb 2026 19:34 UTC
+! Version: 202602221934
+! Last modified: 22 Feb 2026 19:34 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -12,7 +12,7 @@
 $csp=child-src 'none'; frame-src 'self' *; worker-src 'none',domain=fileone.tv|theappguruz.com
 $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vidoza.net
 $csp=script-src 'self' * 'unsafe-inline',domain=bijiyd.com|7zhens.com|wamuku.cc|scmmxs.com|jinduxs.com|buhesw.com|luenbook.cc|zahubook.com|heciwk.com|quhesw.com|erzuwk.com|bowoxs.com|guashuge.com|mudanxs.com|mzbook.cc|haduks.com|caimozw.com|zaaizw.com|bogeks.com|oushuku.com|haxu8.com|pucixs.com|tuqisw.com|xueyisw.com|zuye8.com|yawoxs.com|guwoxs.com|jiufuzw.com|beianxs.com|shuying6.com|mafusw.com|cule9.com|riquzw.com|xingksw.com|enbusw.com|waguwk.cc|ruyisw.com|zuxiku.com|jinmusb.com|hunshuge.com|puyewk.com|kaaiwk.com|hadu520.com|qubosw.com|meisibook.com|cuaizw.cc|boxue8.cc|cipubook.com|ququsk.cc|yiyezao.com|shanhuxs.com|jiutusw.com|chahuax.com|candoug.com|hanziwen.com|haduzw.com|modaoshu.com|nipubook.com|nuoshuge.com|puquz.com|wuwusk.com
-$csp=script-src 'self' * 'unsafe-inline',domain=erciyan.com|feiguaks.com|iqmxs.cc|jinpai123.net|hshfm.com|xbiqige.cc|1qxs.com|xddxsw.net|98dxs.net|bisowu.net|zyywenxue.com|xiakezw.com|biqul.com|biqugeks.org|girlsoncam.net|japonfilmleri.com|minaeast.net|shumi.la|59xs.com|biqugen.com|8181zw.vip|biqugequ.org|69shumi.com|fxxs3.com|efuxs.com|i3book.com|genbiquge.com|quanbiqu.com|pinshu.org|13xsw.com|bbiquge.cc|taobiquge.com|haijiaobooksw.top|zlobin.net|piaotianxiaoshuo.com|jvbiquge.com|vipbiquge.com|jpbqg7.com|zuizhong.net|oldtimeswx.org|5book.cc|softtechsolution.org|product44.com|snxsw.com|xiexinde.net|m.6666xsw.com|m.chenkuan.com|jmshuwu.net|wodexiaoshuoh.com|tetservices.net|haitangsoshu.org|4hrz.net|x33yq.org|56xiaoshuo.net|novelser.com|ykxs.cc|biqudd.com|diyibanzhu44444.com|dbrxs.org|kaixindu.net|1ingatlan.net|gaofuwu.org|yushuwu.cloud|yswxs.com|biquge2345.com|dingdian911.com|bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|2kans.net|aidu123.com|biquluo.info|bqgh.com|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com|zk01.net
+$csp=script-src 'self' * 'unsafe-inline',domain=erciyan.com|feiguaks.com|iqmxs.cc|hshfm.com|xbiqige.cc|1qxs.com|xddxsw.net|98dxs.net|bisowu.net|zyywenxue.com|xiakezw.com|biqul.com|biqugeks.org|girlsoncam.net|japonfilmleri.com|minaeast.net|shumi.la|59xs.com|biqugen.com|8181zw.vip|biqugequ.org|69shumi.com|fxxs3.com|efuxs.com|i3book.com|genbiquge.com|quanbiqu.com|pinshu.org|13xsw.com|bbiquge.cc|taobiquge.com|haijiaobooksw.top|zlobin.net|piaotianxiaoshuo.com|jvbiquge.com|vipbiquge.com|jpbqg7.com|zuizhong.net|oldtimeswx.org|5book.cc|softtechsolution.org|product44.com|snxsw.com|xiexinde.net|m.6666xsw.com|m.chenkuan.com|jmshuwu.net|wodexiaoshuoh.com|tetservices.net|haitangsoshu.org|4hrz.net|x33yq.org|56xiaoshuo.net|novelser.com|ykxs.cc|biqudd.com|diyibanzhu44444.com|dbrxs.org|kaixindu.net|1ingatlan.net|gaofuwu.org|yushuwu.cloud|yswxs.com|biquge2345.com|dingdian911.com|bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|2kans.net|aidu123.com|biquluo.info|bqgh.com|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com|zk01.net
 $csp=script-src 'self' * 'unsafe-inline',domain=smsonline.cloud
 $csp=script-src 'self' *,domain=yebiquge.com|zduxs.com|90shuyuan.com|hunhunxs.com|sswwxs.com|akexs.com|qqmmxs.com|qimiaoxs.cc|qimiaoxiaoshuo.com|wuwxs.com|biquge678.com|biqugezw.us
 $csp=script-src 'self' data: 'unsafe-inline' 'unsafe-hashes' 'unsafe-eval',domain=thumbs.pro
@@ -7458,6 +7458,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||tpc.googlesyndication.com/archive/sadbundle/$image,domain=tpc.googlesyndication.com
 @@||tpc.googlesyndication.com/pagead/js/$domain=googleads.g.doubleclick.net
 @@||tpc.googlesyndication.com/pagead/js/*/elements/html/interstitial_ad_frame_$script,domain=safeframe.googlesyndication.com
+@@||tpc.googlesyndication.com^$domain=ads.google.com
 @@||tq121.com.cn/j/ad/caoyu-min.js$domain=products.weather.com.cn
 @@||tra.scds.pmdstatic.net/advertising-core/$domain=voici.fr
 @@||tracklog.58.com/referrer$~third-party
@@ -10278,6 +10279,7 @@ yydstxt*.com/js/html
 ||a.emea01.idio.episerver.net^
 ||a.epinv.com^
 ||a.exam58.com^
+||a.fsdn.com/con/js/sftheme/vendor/bizx-prebid.js$domain=sourceforge.net
 ||a.gemen.site^
 ||a.getflowbox.com^
 ||a.guzhilin.com^
@@ -12343,6 +12345,7 @@ yydstxt*.com/js/html
 ||amung.us^$third-party
 ||amusementt3.top^
 ||amvgg.com^
+||amwm.cn^
 ||amxinfra.com^
 ||amyapad.top^
 ||amyelise.net^
@@ -13770,6 +13773,7 @@ yydstxt*.com/js/html
 ||aylabeauty.com^
 ||aylo.com^
 ||ayodanuauw.com^
+||ayparnarzt.com^
 ||ayqwjhh4cn.com^
 ||ayxz.com/images/$script
 ||ayxz.com/images/enkj_small.gif
@@ -23278,6 +23282,7 @@ yydstxt*.com/js/html
 ||f11-ads.com^
 ||f11.hackhome.com^
 ||f16px.com^
+||f17hdccbws.com^
 ||f1tbit.com^
 ||f1tcdn.net/images/banners/$domain=f1technical.net
 ||f1w-3270.com^
@@ -23577,6 +23582,7 @@ yydstxt*.com/js/html
 ||fdfda.zhuzhai.com^
 ||fdfghgfdd.yunqishi.net^
 ||fdi1rg6ihs.com^
+||fdk6z2l7jt.com^
 ||fdlreporter.com^
 ||fdocumento.com^
 ||fdocumentos.com^
@@ -24655,6 +24661,7 @@ yydstxt*.com/js/html
 ||fuztty4b5g.com^
 ||fvd.net^
 ||fve27nngv.com^
+||fvfizj.icu^
 ||fvitj2940637fafa.com^
 ||fvitteilse.com^
 ||fvk6k2jrdu.com^
@@ -25731,6 +25738,8 @@ yydstxt*.com/js/html
 ||gohgn02160la.com^
 ||gohgn02161la.com^
 ||gohgn02211la.com^
+||gohgn02220la.com^
+||gohgn02221la.com^
 ||goi08130kh.com^
 ||goi08131kh.com^
 ||goi08141kh.com^
@@ -30476,6 +30485,7 @@ yydstxt*.com/js/html
 ||kqgn.cn^
 ||kqgx3eyz7.com^
 ||kqkq444.com^
+||kqmz0ym0fo.com^
 ||kqs37917559.com^
 ||kr1cbkoow.com^
 ||krajy.com^
@@ -33932,7 +33942,6 @@ yydstxt*.com/js/html
 ||myasterio.com^
 ||myaxom.com^
 ||mybaze.com^
-||mybbc-analytics.files.bbci.co.uk/reverb-client-js/smarttag-
 ||mybestcpm.com^
 ||mybestdc.com^$popup
 ||mybettermb.com^$popup
@@ -36859,6 +36868,7 @@ yydstxt*.com/js/html
 ||pgyfzyv.top^
 ||phaidon.com^
 ||phaitaghy.com^$popup
+||phampheane.com^
 ||pharmacompass.com^
 ||pharmnet.com.cn/cnbanner/
 ||pharmnet.com.cn/js/float_div.js
@@ -37798,6 +37808,7 @@ yydstxt*.com/js/html
 ||practicallyfire.com^$popup
 ||practiceevolve.net^
 ||practiserussiangarments.com^
+||practitioner23.com^
 ||pradn.net^
 ||prairiedog.hashnode.com^
 ||prajwaldesai.com^
@@ -38510,6 +38521,7 @@ yydstxt*.com/js/html
 ||qcogmyhkd.com^
 ||qconv.com^
 ||qcra.cn^
+||qcs6kxekav.com^
 ||qcuncolm.com^
 ||qcvf.ifeng.com^
 ||qd.x4399.com^
@@ -40669,6 +40681,7 @@ yydstxt*.com/js/html
 ||scarymommy.com^
 ||scatec.io/collect
 ||scatxxxporn.com/static/images/banners/
+||scb4tpwq40.com^
 ||scc.com^
 ||sccnn.com/sf/zt.jpg
 ||scdpmqiqgfojbltc.com^
@@ -43539,6 +43552,7 @@ yydstxt*.com/js/html
 ||sz88.oss-cn-shenzhen.aliyuncs.com^
 ||szaction.cc/public/*/assets/js/custom/tt.
 ||szaction.cc/public/*/plugins/
+||szbnb3wmaj.com^
 ||szccce.com^
 ||szfcol.com/images/wxright240.jpg
 ||szfcol.com/js/sitead.js
@@ -45768,6 +45782,7 @@ yydstxt*.com/js/html
 ||tsdm.live/weibo.html
 ||tsdm39.com/img01/mp3/gg/
 ||tsdmw.net/img01/mp3/pm_
+||tsdtvcx579.com^
 ||tsegers.com^
 ||tseywo.com^$popup
 ||tsgaem.com^
@@ -47674,6 +47689,7 @@ yydstxt*.com/js/html
 ||w592be.com^
 ||w5ba5b.cc^
 ||w5ba5b.com^
+||w5bacb.com^
 ||w5bi16f3co.com^
 ||w5c6d9.cc^
 ||w5daa5.com^
@@ -49124,6 +49140,7 @@ yydstxt*.com/js/html
 ||xiyouence.com^$popup,third-party
 ||xizi.com/js/rotator.js
 ||xj-node.top^
+||xj8z427gxz.com^
 ||xjav.tube/ps/hij2yp.js
 ||xjkma2940637fafa.com^
 ||xjoiteee8.com^
