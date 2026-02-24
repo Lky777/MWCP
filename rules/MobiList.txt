@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202602232000
-! Last modified: 23 Feb 2026 20:00 UTC
+! Version: 202602241952
+! Last modified: 24 Feb 2026 19:52 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -4177,6 +4177,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /px?t=
 /px_trans.gif
 /pxf.gif?
+/pxid?k=
 /pxl.cgi?
 /pxl.gif?
 /pxl.png?
@@ -8512,7 +8513,6 @@ yydstxt*.com/js/html
 ||1dm6ccvy8.com^
 ||1dor1d6vc.com^
 ||1dwxw.com^
-||1e-100.net^
 ||1f0l.top^
 ||1fp9k4zrm.com^
 ||1freecounter.com^$third-party
@@ -9077,6 +9077,7 @@ yydstxt*.com/js/html
 ||3h3.com/js/listad.js
 ||3h3.com/js/show/
 ||3hads4i5hm.com^
+||3hfmrv8d45.com^
 ||3i3w8hl6do.com^
 ||3j0pw4ed7uac-a.akamaihd.net^
 ||3j1fiw14n9.com^
@@ -9512,7 +9513,6 @@ yydstxt*.com/js/html
 ||5hdz1gnue.com^
 ||5hej.com^
 ||5hffr1p22j.com^
-||5hourenergy.com^
 ||5hu7hee0pt.com^
 ||5icool.org/uploadfile/poster/
 ||5ilinglei.com/gg.html
@@ -10570,7 +10570,6 @@ yydstxt*.com/js/html
 ||acadisonline.com^
 ||acaeum.com^
 ||acam-2.com^$popup
-||acana.com^
 ||acaribleep.com^
 ||acasadospensadores.com^
 ||acast.com/api/stats
@@ -11708,7 +11707,6 @@ yydstxt*.com/js/html
 ||ai-ue.com^
 ||ai-x-supporter.com^
 ||ai.bioon.com^
-||ai.com^
 ||ai0006.com^
 ||ai2everyone.com^
 ||aiadexchange.com^
@@ -11807,7 +11805,6 @@ yydstxt*.com/js/html
 ||airbrake.io^$third-party
 ||aircloudhome.com^
 ||airenergyuk.com^
-||airforums.com^
 ||airgreenland.com/tracking/
 ||airgunnation.com^
 ||airhint.com^
@@ -12113,7 +12110,6 @@ yydstxt*.com/js/html
 ||aliyuncs.com/vss/haotu.js
 ||aliyuncs.com/wjy99re/
 ||aliyuncs.com^$domain=5kym.com
-||aliyunedge-pipe.com^
 ||aljazeera.com/thirdparty/nr.js
 ||allaboutberlin.com/whoisthere.js
 ||allanalpass.com/track/
@@ -13105,6 +13101,7 @@ yydstxt*.com/js/html
 ||apptjmp.com^$popup
 ||apptornado.com^
 ||apptry.easylife.tw/pub/js/common/common.js
+||appvtexio.weni.ai/pixel.js
 ||appzery.com^$popup
 ||aproxy.com^
 ||aproxy.top^
@@ -16505,7 +16502,6 @@ yydstxt*.com/js/html
 ||cartoon-porn-comics.com^
 ||cartoon18.com/images/friend/
 ||cartoonporn.com^
-||carts.guru^$third-party
 ||cartstack.com^$third-party
 ||cartx.cloud^
 ||carus-verlag.com^
@@ -18807,6 +18803,7 @@ yydstxt*.com/js/html
 ||crta.metro.co.uk^
 ||crtx.info^$third-party
 ||cru0xr.com^
+||cruel-love.com^$popup
 ||cruhliip.com^
 ||cruietoge.com^
 ||crumbs.robinhood.com^
@@ -23673,6 +23670,7 @@ yydstxt*.com/js/html
 ||fdc.my0511.com^$script
 ||fdelphaswcealifornica.com^$popup
 ||fdesouche.com^
+||fdetolgput.com^
 ||fdfda.zhuzhai.com^
 ||fdfghgfdd.yunqishi.net^
 ||fdi1rg6ihs.com^
@@ -25926,6 +25924,8 @@ yydstxt*.com/js/html
 ||gohgn02221la.com^
 ||gohgn02230la.com^
 ||gohgn02231la.com^
+||gohgn02240la.com^
+||gohgn02241la.com^
 ||goi08130kh.com^
 ||goi08131kh.com^
 ||goi08141kh.com^
@@ -26763,6 +26763,7 @@ yydstxt*.com/js/html
 ||hayatinidetoksla.com^
 ||haybk.com^
 ||haymarket.com/injector/deliver/
+||hazardous58.top^
 ||hazoopso.net^$popup
 ||hb.collectiveaudience.co^
 ||hb.vhsrv.com^
@@ -33796,7 +33797,6 @@ yydstxt*.com/js/html
 ||moonbbs.com/data/attachment/portal/
 ||moonlitpassion.com^
 ||moonrocketaffiliates.com^$popup
-||moonshot-ai.com^
 ||moonvelin.com^
 ||mooseway.com^$third-party
 ||mooviestream.com^
@@ -35010,6 +35010,7 @@ yydstxt*.com/js/html
 ||ngds.sap.com^
 ||ngfkrduait.com^
 ||ngfruitiesmatc.info^$popup
+||nghivugi92.com^
 ||nghv.cn^
 ||ngjcvn.top^
 ||ngjfjf.icu^
@@ -35396,7 +35397,6 @@ yydstxt*.com/js/html
 ||ntrfr.leovegas.com^$popup
 ||ntrftrk.com^$popup
 ||ntrftrksec.com^$popup
-||nttdata-emea.com^
 ||nttglobal.net^
 ||ntvid.online/cdn-cgi/trace
 ||ntvpforever.com^$popup
@@ -35454,7 +35454,6 @@ yydstxt*.com/js/html
 ||nutaku.net/images/lp/$popup
 ||nutaku.net/signup/$popup
 ||nutchaungong.com^$popup
-||nutella.com^
 ||nutlzt.icu^
 ||nutrien.com^
 ||nuvehvac.com^
@@ -35473,6 +35472,7 @@ yydstxt*.com/js/html
 ||nwgcp.com^
 ||nwnarelith.com^
 ||nwnlexicon.com^
+||nwq7zxf6jt.com^
 ||nwr.static.mmcdn.com^
 ||nws5ay4cr2.com^
 ||nwwrtbbit.com^$popup
@@ -35559,6 +35559,7 @@ yydstxt*.com/js/html
 ||o02231aokk.com^
 ||o02251aokk.com^
 ||o02260aokk.com^
+||o03fssif8l.com^
 ||o0rnzwzst5.com^
 ||o1.jyjyj.cn^
 ||o18.click^$popup
@@ -36324,7 +36325,6 @@ yydstxt*.com/js/html
 ||otherofherlittle.info^$popup
 ||otherprofit.com^$third-party
 ||othmanalkamees.com^
-||otieu.com^
 ||otieu.com^$popup
 ||otiladgyo.com^
 ||otkwcg.icu^
@@ -36804,7 +36804,6 @@ yydstxt*.com/js/html
 ||payment-processing.net^
 ||paymentkimb.com^
 ||payments-amazon.com^*/analytics.js
-||payments.amazon.com/cs/uedata
 ||paymenttools.com^
 ||paypal-ads.com^
 ||paypal.com/credit-presentment/glog?
@@ -38226,7 +38225,6 @@ yydstxt*.com/js/html
 ||privacypolicies.com/track/
 ||privacyprotector.com^$third-party
 ||privacysafeguard.net^$popup
-||privadovpn.com^
 ||privatamateure.com/promotion/
 ||private.com/banner/
 ||private.wccftech.com^
@@ -38446,7 +38444,6 @@ yydstxt*.com/js/html
 ||psma01.com^$third-party
 ||psma02.com^$popup
 ||psma03.com^$third-party
-||psnine.com^
 ||psoabojaksou.net^$popup
 ||psockapa.net^$popup
 ||psotudev.com^$popup
@@ -38467,7 +38464,6 @@ yydstxt*.com/js/html
 ||psumpupsauket.com^$popup
 ||pswdata.com^
 ||pswec.com/px/$third-party
-||psx-place.com^
 ||psychforums.com^
 ||psychologies.com^
 ||psynclabs.com^
@@ -38596,7 +38592,6 @@ yydstxt*.com/js/html
 ||punkinfinland.net^
 ||punsong.com^$popup
 ||puporn.com/xahnqhalt/
-||puppylinux.com^
 ||pups.bdimg.com/
 ||pupspu.com^$popup
 ||pupudy.com/images/wxrj.gif
@@ -38733,7 +38728,6 @@ yydstxt*.com/js/html
 ||pyrfpb.icu^
 ||pyrotalk.com^
 ||pyrwsaeth.com^
-||python.com^
 ||pyuio.com^
 ||pyxytj.icu^
 ||pzbaar.cn^
@@ -38956,6 +38950,7 @@ yydstxt*.com/js/html
 ||qkg7yplpfo.com^
 ||qkixeld.xyz^
 ||qkmzhjoel.com^
+||qkr4uac6tx.com^
 ||qksapp.net/gif/
 ||qksrv.cc^$popup
 ||qksrv1.com^$popup
@@ -39089,7 +39084,6 @@ yydstxt*.com/js/html
 ||qriselite.com^
 ||qrlsx.com^$popup
 ||qrprobopassor.com^$popup
-||qrscanner.com^
 ||qrsconnect.com^
 ||qrstabcd.com^
 ||qrtibl.cn^
@@ -39104,7 +39098,6 @@ yydstxt*.com/js/html
 ||qsi6.com^
 ||qsko05060mas.com^
 ||qsko05061mas.com^
-||qsl.net^
 ||qslhdidxkazlzuuelsz.top^
 ||qsne.cn^
 ||qsoc.cn^
@@ -39292,7 +39285,6 @@ yydstxt*.com/js/html
 ||qzzr.com/_uid.gif
 ||r-2-a-x.com^
 ||r-adimg.com^
-||r-config.com^
 ||r-mkt.com^
 ||r-ms.com^
 ||r-tb.com^$popup
@@ -39372,7 +39364,6 @@ yydstxt*.com/js/html
 ||radikal.ru^$domain=18board.com|18p2p.com
 ||radio-ao-vivo.com^
 ||radio-api.net^
-||radio-locator.com^
 ||radioberza.com^
 ||radiogaucha.net^
 ||radioonlinehd.com^
@@ -39462,7 +39453,6 @@ yydstxt*.com/js/html
 ||raptorsmartadvisor.com^
 ||rarbg.com^
 ||rarbt.cc/js/index960_
-||rarebeauty.com^
 ||rarelifestyles.com^
 ||rareru.ru^$third-party
 ||rarewaves.com^
@@ -39578,7 +39568,6 @@ yydstxt*.com/js/html
 ||readpeak.com^
 ||readserv.com^$popup
 ||readsoftonline.com^
-||readthedocs.com^
 ||readyfortea.com^
 ||readytotrip.com^
 ||real-time-click-receiver.com^
@@ -39678,7 +39667,6 @@ yydstxt*.com/js/html
 ||recteqforum.com^
 ||recupero-capitali.com^
 ||recurly.com/js/v1/events
-||recurly.net^
 ||recurlyqa.com^
 ||recyclehorridleading.com^
 ||recyclinganewupdated.com^$popup
@@ -40503,6 +40491,7 @@ yydstxt*.com/js/html
 ||ruag.com^
 ||ruanyifeng.com/9he/
 ||rubanners.com^$third-party
+||rubiconredirect.com^$third-party
 ||rubinot.com^
 ||rubmdu.top^
 ||rubrafoz.com^
@@ -43910,6 +43899,7 @@ yydstxt*.com/js/html
 ||sznews.com/s?z=
 ||szonline.net/static/js/ads.js
 ||szqwtnlem.com^
+||szqwzosxn3.com^
 ||szqxvo.com^$popup
 ||szrpr.raen.com^
 ||szxljdsb.com/tl
@@ -44987,6 +44977,7 @@ yydstxt*.com/js/html
 ||tiptopjob.com^
 ||tirakita.com^
 ||tireswheelsdirect.com^
+||tisaneata.com^$popup
 ||tise.com^
 ||tiser.com.au^$third-party
 ||tiso.com^
@@ -45863,7 +45854,6 @@ yydstxt*.com/js/html
 ||travelandtourworld.com/vf1h/
 ||travellermania.com^
 ||travelmap.net^
-||traveloka.com/api/v1/metrics
 ||traveloka.com/api/v1/tvlk/events
 ||travelrobotflower.com^$third-party
 ||travelsports.com^
@@ -46745,7 +46735,6 @@ yydstxt*.com/js/html
 ||unheadedsouptotal.com^$popup
 ||unibet.co.uk/*affiliate$popup
 ||unibet.de/stan/campaign.do?*&affiliateid=$subdocument,third-party
-||unibling.com/eclytics/
 ||unicenter7.net^
 ||unicocdn.com^
 ||unicoplay.com^
@@ -48054,6 +48043,7 @@ yydstxt*.com/js/html
 ||w537a7.com^
 ||w54551.cc^
 ||w55b76.cc^
+||w55b76.com^
 ||w562f5.cc^
 ||w56953.cc^
 ||w56953.com^
@@ -48549,6 +48539,7 @@ yydstxt*.com/js/html
 ||weveryw.com^
 ||wevsy.com^
 ||wew.dushiwenxue.net^
+||wew56nanuc.com^
 ||wewearegogogo.com^$popup
 ||wexloria.xyz^
 ||weyescloud.com^
@@ -50671,6 +50662,7 @@ yydstxt*.com/js/html
 ||zbjimg.com/static/union/
 ||zbjimg.com^
 ||zbl40hvzzy.com^
+||zbmeerconq.com^
 ||zbporn.com/ttt/
 ||zbrtnv.icu^
 ||zc13uyyok7.com^
