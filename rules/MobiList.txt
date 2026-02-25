@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202602241952
-! Last modified: 24 Feb 2026 19:52 UTC
+! Version: 202602251953
+! Last modified: 25 Feb 2026 19:53 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -4023,6 +4023,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /plugins/visitors-traffic-
 /plugins/wordfence/visitor.php?
 /plugins/wp-vgwort/
+/pmc-adm-v2/build/setup-ads.js$domain=bgr.com|deadline.com|rollingstone.com
 /pmc-cxense.js
 /pmfastclick.min.js
 /pn07uscr/f/tr/zavbn/*$third-party
@@ -7904,7 +7905,7 @@ wwads.cn
 www.haijiaolove.xyz##.elementor-gallery-item__overlay
 www.txrjy.com###tryOpenApp
 www.yqhd8.com###jhb
-www.zhzzx.com/pmc-adm-v2/build/setup-ads.js$domain=bgr.com|deadline.com|rollingstone.com
+www.zhzzx.com||000webhost.com/images/banners/
 x.jd.com
 xshellcn.com
 yihuifu.cn
@@ -7980,7 +7981,6 @@ yydstxt*.com/js/html
 ||0-r-a-v.com^
 ||0.0.0.0^$third-party,domain=~0.0.0.0|~127.0.0.1|~[::1]|~[::]|~local|~localhost
 ||0.0.0.1^
-||000webhost.com/images/banners/
 ||003store.com^
 ||007ds.com/js/js/
 ||008jogo.com^
@@ -10562,6 +10562,7 @@ yydstxt*.com/js/html
 ||ac.dun.163.com^
 ||ac.dun.163yun.com/v2/collect?
 ||ac.tc.qq.com/store_file_download?*&dir_path=/admin/swf/
+||ac00qmnjz.com^
 ||ac1.pingpingw.com^
 ||ac1223.top^
 ||acacdn.com^$popup
@@ -17947,6 +17948,7 @@ yydstxt*.com/js/html
 ||codarka.com^
 ||codata.ru^$third-party
 ||code.ditiezu.net^
+||code.geonamebase.com^
 ||code.wenbanzhu.com^
 ||code4us.com^$popup
 ||codecademy.com/analytics/
@@ -21434,7 +21436,6 @@ yydstxt*.com/js/html
 ||dolphin.deliver.ifeng.com^
 ||dolphinim.com^
 ||doma.xyz^
-||domain1.chahaoba.cn^
 ||domaincrawler.com^
 ||domaineforum.com^
 ||domainit.com/scripts/track.js
@@ -23386,6 +23387,7 @@ yydstxt*.com/js/html
 ||f4dc6d8n.com^
 ||f4h123m89w.com^
 ||f4re1a.com^
+||f5nn75ozf.com^
 ||f5w.prettytube.net^
 ||f6jd4k4xgo.com^
 ||f6s3i7d2o5m0u8p1k.com^
@@ -25926,6 +25928,7 @@ yydstxt*.com/js/html
 ||gohgn02231la.com^
 ||gohgn02240la.com^
 ||gohgn02241la.com^
+||gohgn02251la.com^
 ||goi08130kh.com^
 ||goi08131kh.com^
 ||goi08141kh.com^
@@ -39542,6 +39545,7 @@ yydstxt*.com/js/html
 ||rdvinfidele.club^$popup
 ||rdwmcr.com^
 ||re.taotaosou.com^
+||re0rlupcz.com^
 ||re41qiitb1.com^
 ||reach-id.orbit.tm-awx.com^
 ||reachforce.com^$third-party
@@ -42791,6 +42795,7 @@ yydstxt*.com/js/html
 ||spylog.ru^$third-party
 ||spys.one/fpe.png
 ||spywords.com^$third-party
+||sq5f10q3d.com^
 ||sqif.cn^
 ||sqiorli2w.com^
 ||sqjowyuzv.com^
@@ -46730,6 +46735,7 @@ yydstxt*.com/js/html
 ||undress.app/ad_banners/
 ||undrgrndsounds.com^
 ||unecne.com/wp-content/uploads/*ad-
+||unenviable89.com^
 ||unewchic.com^
 ||unexagri.com^
 ||unheadedsouptotal.com^$popup
@@ -46915,6 +46921,7 @@ yydstxt*.com/js/html
 ||usbdgef.com^
 ||usborne.com^
 ||usbpalsmfz.com^
+||usc8nll40.com^
 ||uscbookstore.com^
 ||uscfsales.com^
 ||uscrimeradar.com^
@@ -47479,6 +47486,7 @@ yydstxt*.com/js/html
 ||vidoy.com^
 ||vidoycdn.com^
 ||vidrock.net^
+||vidsgs4x4.com^
 ||vidsrc.icu/js/script-custom.js
 ||vidsrc.pro/uwu-js/binged.in
 ||vidsrev.com^$third-party
@@ -50589,6 +50597,7 @@ yydstxt*.com/js/html
 ||z10djg4fmj.com^
 ||z198vxfuy3.com^
 ||z1e2vp1gw.com^
+||z1el6lgol.com^
 ||z1hihu.xmcimg.com^
 ||z1offroad.com^
 ||z1qzmbh6kfefn7wt.com^
