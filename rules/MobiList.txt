@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202602251953
-! Last modified: 25 Feb 2026 19:53 UTC
+! Version: 202602261950
+! Last modified: 26 Feb 2026 19:50 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -4612,6 +4612,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /smmch-mine.js
 /smmch-own.js
 /snowman.gif?p=
+/snowplow-collector-prod.$xmlhttprequest
 /snowplow-tracker.tatest.js
 /snowplow.js
 /snowplow/*$script
@@ -8665,6 +8666,7 @@ yydstxt*.com/js/html
 ||22588888.com^$popup
 ||22bet.com^
 ||22bettracking.online^$popup
+||22eo9qlbpt.com^
 ||22kjb1hqcg3.com^
 ||22media.world^$popup
 ||22pixx.xyz/l/
@@ -11540,6 +11542,7 @@ yydstxt*.com/js/html
 ||aetvellt.net^$popup
 ||aevumw.com^
 ||aewgwu.icu^
+||aexoao7lg6.com^
 ||aeyws2940637fafa.com^
 ||af-sdk.net^
 ||af29.com/banner/
@@ -12946,6 +12949,8 @@ yydstxt*.com/js/html
 ||apicarzato.com^
 ||apicit.net^$third-party
 ||apiecelee.com^$popup
+||apigw.scmp.com/metrics/monitoring
+||apigw.scmp.com/pwa-v2-unleash-proxy/proxy/client/metrics
 ||apiiksn.top^
 ||apiimg.com/haishui/
 ||apiimg.com/huaer/xiahe.
@@ -12979,6 +12984,7 @@ yydstxt*.com/js/html
 ||aplus.qwen.ai/aplus.monitor.log_arrival_rate
 ||aplusjapan-game.com^
 ||apm-engine.meteor.com^$third-party,xmlhttprequest
+||apmcx60sm5.com^
 ||apneaboard.com^
 ||apocalypsevinyl.com^
 ||apoggy.com^
@@ -16220,6 +16226,7 @@ yydstxt*.com/js/html
 ||cachestreamly.com^
 ||cacodarosa.com^
 ||cactiguide.com^
+||cactus.joybuy.com^
 ||cactusglobal.io^$third-party
 ||cactusheadroomscaling.com^
 ||cactusheadroomscaling.com^$popup
@@ -17619,6 +17626,7 @@ yydstxt*.com/js/html
 ||clixgalore.com^$third-party
 ||clixpy.com^$third-party
 ||clixtell.com/track.js
+||clk-m.joybuy.com^
 ||clkfeed.com^$popup
 ||clkmon.com^$popup
 ||clkpback3.com^$popup
@@ -24267,6 +24275,7 @@ yydstxt*.com/js/html
 ||foodthinkers.com^
 ||foodtruckavenue.com^
 ||foodyas.com^
+||foolhardy76.com^
 ||foot-health-forum.com^
 ||foot01.com^
 ||footballiapp.com^
@@ -24632,6 +24641,7 @@ yydstxt*.com/js/html
 ||fsjfnp.top^
 ||fsmnmorgb.com^
 ||fsnazsmk.icu^
+||fst-ec.perimeterx.net^
 ||fstats.xyz^$third-party
 ||fstrk.net^$third-party
 ||fstsrv.com^$popup
@@ -25929,6 +25939,7 @@ yydstxt*.com/js/html
 ||gohgn02240la.com^
 ||gohgn02241la.com^
 ||gohgn02251la.com^
+||gohgn02261la.com^
 ||goi08130kh.com^
 ||goi08131kh.com^
 ||goi08141kh.com^
@@ -26583,6 +26594,7 @@ yydstxt*.com/js/html
 ||h5.analytics.126.net^
 ||h54gfdfe.com^
 ||h559.stamfordadvocate.com^
+||h5log.joybuy.com^
 ||h5log.zongheng.com^
 ||h5scene.com^
 ||h5vem1jjft.com^
@@ -27946,6 +27958,7 @@ yydstxt*.com/js/html
 ||i0y0i9vz0.com^
 ||i14laze0.xyz^
 ||i25zw.com^
+||i2fxsez4f0.com^
 ||i2p.net^
 ||i2s1n.com^
 ||i2wj211yk.com^
@@ -29304,6 +29317,7 @@ yydstxt*.com/js/html
 ||iutq.cn^
 ||iuyggvhq.icu^$popup
 ||ivcbrasil.org.br^$third-party
+||ivcfsi3dr0.com^
 ||ivdtruneda.com^
 ||ivelt.com^
 ||ivhv.cn^
@@ -33508,6 +33522,7 @@ yydstxt*.com/js/html
 ||mjkkj8trk.com^
 ||mjpm.com^
 ||mjufus.icu^
+||mjursnb.com^
 ||mjvr.cn^
 ||mk-ads.com^$popup
 ||mk10ow7zoi.com^
@@ -36884,6 +36899,7 @@ yydstxt*.com/js/html
 ||pcmag.com/js/z0wvjcbseegloxixoqvewq.min.js
 ||pcmclks.com^$popup
 ||pcmx.autohome.com.cn/impress?
+||pcmxcdjbgo.com^
 ||pconline.com.cn/_hux_/
 ||pconline.com.cn/count.php?
 ||pconline.com.cn/download/*/intf*.js
@@ -38699,6 +38715,7 @@ yydstxt*.com/js/html
 ||pwvt.cn^
 ||px-cdn.net/b/
 ||px-cdn.net^*/collector
+||px-cloud.net/b/c/beacon
 ||px-cloud.net/b/s
 ||px.effirst.com^
 ||px.marchex.io^
@@ -38724,6 +38741,7 @@ yydstxt*.com/js/html
 ||pxwu.cn^
 ||py.cn/src/img/pyy/
 ||py.cn/static/images/advert/
+||pybmulveaz.com^
 ||pylon.micstatic.com^
 ||pymx5.com^$third-party
 ||pyntbz.icu^
@@ -39648,6 +39666,7 @@ yydstxt*.com/js/html
 ||recognified.net^$third-party
 ||recognize04.top^
 ||recoilnetwork.com^
+||recommend.9gag.com/interact/event/
 ||recommended-twice.com^$popup
 ||recommendedpress.com^
 ||recomparo.com^
@@ -41517,6 +41536,7 @@ yydstxt*.com/js/html
 ||sgk.xyz/static/js/pc.js
 ||sgliteasset.com^
 ||sglklgksgrcbv.com^
+||sgm-w.jd.com^
 ||sgtreport.com/wp-content/uploads/*banner
 ||sgvafs.top^
 ||sgxgo2940637fafa.com^
@@ -48053,6 +48073,7 @@ yydstxt*.com/js/html
 ||w55b76.cc^
 ||w55b76.com^
 ||w562f5.cc^
+||w562f5.com^
 ||w56953.cc^
 ||w56953.com^
 ||w56ff7.cc^
@@ -49313,6 +49334,7 @@ yydstxt*.com/js/html
 ||x3os.com^$popup
 ||x3pfkiohz.com^
 ||x3vid.com^
+||x42zfctilh.com^
 ||x43slxjwzx.com^
 ||x49fr1zg.com^
 ||x69zw.net^
