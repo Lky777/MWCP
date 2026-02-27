@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202602261950
-! Last modified: 26 Feb 2026 19:50 UTC
+! Version: 202602271943
+! Last modified: 27 Feb 2026 19:43 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -6868,6 +6868,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||ifengimg.com/pdt/cfg/mudu/aplayer.xml$domain=v.ifeng.com
 @@||iis1.deliver.ifeng.com/showcode?$domain=v.ifeng.com
 @@||ikea.cn^*/img/ads/
+@@||iko-yo.net/system/ad_images/$~third-party
 @@||image.shutterstock.com^$image,domain=icons8.com
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=247sports.com|airtelxstream.in|antena3.ro|api.screen9.com|asianctv.upns.pro|asianembed.cam|autokult.pl|bbc.com|blastingnews.com|bloomberg.co.jp|bloomberg.com|bsfuji.tv|cbc.ca|cbsnews.com|cbssports.com|chicagotribune.com|clickorlando.com|cnet.com|crunchyroll.com|delish.com|digi24.ro|distro.tv|doubtnut.com|einthusan.tv|etonline.com|farfeshplus.com|filmweb.pl|france24.com|game.pointmall.rakuten.net|gamebox.gesoten.com|gamepix.com|gameplayneo.com|games.usatoday.com|gbnews.com|geo.dailymotion.com|givemesport.com|goodmorningamerica.com|goodstream.uno|gospodari.com|haberler.com|howstuffworks.com|humix.com|ignboards.com|iheart.com|insideedition.com|irctc.co.in|jilliandescribecompany.com|klix.ba|ktla.com|kxan.com|laurelberninteriors.com|lemino.docomo.ne.jp|locipo.jp|maharashtratimes.com|maxpreps.com|metacritic.com|minigame.aeriagames.jp|missoulian.com|myspace.com|nettavisen.no|newsweek.com|paralympic.org|paramountplus.com|player.abacast.net|player.amperwave.net|player.earthtv.com|player.performgroup.com|plex.tv|pointmall.rakuten.co.jp|realmadrid.com|rfi.fr|rte.ie|rumble.com|s.yimg.jp|scrippsdigital.com|sonyliv.com|southpark.lat|southparkstudios.com|spiele.heise.de|sportsbull.jp|sportsport.ba|stirr.com|success-games.net|synk-casualgames.com|tbs.co.jp|tdn.com|thecw.com|truvid.com|tubitv.com|tunein.com|tv-asahi.co.jp|tv.abcnyheter.no|tv.finansavisen.no|tv.rakuten.co.jp|tver.jp|tvp.pl|univtec.com|utsports.com|video.tv-tokyo.co.jp|vlive.tv|watch.nba.com|wbal.com|weather.com|webdunia.com|wellgames.com|worldsurfleague.com|wowbiz.ro|wsj.com|wtk.pl|zdnet.com|zeebiz.com
@@ -8570,6 +8571,7 @@ yydstxt*.com/js/html
 ||1ts21.top^
 ||1ude.com^
 ||1uo9djbnsr.com^
+||1vd2esrss.com^
 ||1wincdn.b-cdn.net^
 ||1winpb.com^
 ||1winpb.com^$popup
@@ -18349,6 +18351,7 @@ yydstxt*.com/js/html
 ||contactmusic.com^
 ||container.pepperjam.com^$third-party
 ||containers.appdomain.cloud/api/send-log$domain=ibm.com
+||contemplate23.top^
 ||content-loader.com^$popup
 ||content-square.net^$third-party
 ||content-sync.xyz^
@@ -21661,6 +21664,7 @@ yydstxt*.com/js/html
 ||dreamdata.cloud^$third-party
 ||dreametrip.com^
 ||dreamlightvalleywiki.com^
+||dreamserve.dev^$third-party
 ||dreamteamaffiliates.com^$popup
 ||dreamytabs.com^$popup
 ||dregp2940637fafa.com^
@@ -23862,6 +23866,7 @@ yydstxt*.com/js/html
 ||figvatqrwd.com^
 ||fiinnancesur.com^$popup
 ||fijipic.xyz^
+||fikppvmul.com^
 ||fiksu.com^$third-party
 ||filabra.com^
 ||filament-stats.herokuapp.com^
@@ -25139,6 +25144,7 @@ yydstxt*.com/js/html
 ||gbengene.com^$popup
 ||gbfans.com^
 ||gbiathrilzik.com^
+||gbiltuj8w.com^
 ||gbkeuir.com^
 ||gblinfotech.com^
 ||gbodyparts.com^
@@ -26447,6 +26453,7 @@ yydstxt*.com/js/html
 ||gtxservice.com^
 ||gtyrqg.com^
 ||gu-pix.appspot.com^$third-party
+||gu4xxpoe9.com^
 ||guahao.cn/blank.gif?
 ||guam.net^
 ||guang.sdsgwy.com^
@@ -30169,6 +30176,7 @@ yydstxt*.com/js/html
 ||juzn.cn^
 ||jvavav.com^
 ||jvekga.cn^
+||jvqo1iiej.com^
 ||jvzoo.com/assets/widget/
 ||jwalf.com^$popup
 ||jwalkin.com^$popup
@@ -34164,6 +34172,7 @@ yydstxt*.com/js/html
 ||mutinyhq.io^$third-party
 ||mutualdocs.com^
 ||muvflix.com^$popup
+||muxc8wxhv.com^
 ||muxip.com^
 ||muyra.com^
 ||muyuge.com/fw.html/
@@ -40207,6 +40216,7 @@ yydstxt*.com/js/html
 ||rlpbld.icu^
 ||rlri.cn^
 ||rltd.io/tags/
+||rltwz2cmo.com^
 ||rlvyrr.icu^
 ||rm.sina.com.cn/$script,subdocument
 ||rmaticalacm.info^$popup
@@ -47294,6 +47304,7 @@ yydstxt*.com/js/html
 ||ventunotech.com/beacon/
 ||venturagumruk.com^
 ||venturead.com^$popup
+||veo-hentai.com/wp-content/plugins/veohentai/popunder-unificado.js
 ||veponis.com^
 ||veporium.com^
 ||veq8qbwjh.com^
@@ -50612,6 +50623,7 @@ yydstxt*.com/js/html
 ||z.tudouxy01.com^
 ||z0ha6abmi.com^
 ||z0u6tmmudb.com^
+||z0vogb8ns.com^
 ||z1.chezhuzhinan.com^
 ||z1.cwbaike.com^
 ||z1.o8h7d.cn^
