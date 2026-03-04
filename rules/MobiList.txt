@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202603031946
-! Last modified: 03 Mar 2026 19:46 UTC
+! Version: 202603041947
+! Last modified: 04 Mar 2026 19:47 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -945,6 +945,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /__utm.js
 /__wsm.gif
 /_assets/oply/public/
+/_astro/useprotontelemetry.$script
 /_events/api/setevent$xmlhttprequest
 /_fd?subid1=$xmlhttprequest
 /_ga?send&
@@ -9240,6 +9241,7 @@ yydstxt*.com/js/html
 ||4mythtracker.xyz^$third-party
 ||4n70n2h.com^
 ||4nc4qc1fo.com^
+||4nndezdx2u.com^
 ||4oney.com^$third-party
 ||4p04u96158.com^
 ||4paradigm.com^$domain=sina.com.cn
@@ -9816,6 +9818,7 @@ yydstxt*.com/js/html
 ||7c96k2gysn.com^
 ||7ca78m3csgbrid7ge.com^$popup
 ||7car.com.cn^
+||7ddqvun8i1.com^
 ||7df5u.com^
 ||7dgk5h1lk.com^
 ||7eer.net^$third-party
@@ -12937,6 +12940,7 @@ yydstxt*.com/js/html
 ||api.june.so^
 ||api.mambasms.com/monitorevent/
 ||api.meetup.com/pico/v4/web-events
+||api.mintfunnel.co^
 ||api.mumuglobal.com^
 ||api.narrativ.com/favicon.ico
 ||api.picox.bendingspoons.com/v1/events
@@ -17274,6 +17278,7 @@ yydstxt*.com/js/html
 ||chouti.com/js/tingyun-rum.js
 ||chpadblock.com^$popup
 ||chped.com^
+||chplea1tj9.top^
 ||chrantary-vocking.com^$popup
 ||chrapi.com^
 ||christiandatingforfree.com^
@@ -24489,6 +24494,7 @@ yydstxt*.com/js/html
 ||fp.measure.office.com^
 ||fp.nanrenwo.net^
 ||fp2nn4zxlp.com^
+||fp9gvw5ber.com^
 ||fpa-cdn.adweek.com^
 ||fpa-cdn.arstechnica.com^
 ||fpadserver.com^
@@ -25808,6 +25814,7 @@ yydstxt*.com/js/html
 ||glersooy.net^$popup
 ||glevvoqy.com^
 ||gliacloud.com/player/adgeek_teep
+||gliacloud.com^$domain=thisiscm.com
 ||gliderireland.net^
 ||glimmersmugglingsullen.com^
 ||glimpsemankind.com^$popup
@@ -27482,6 +27489,7 @@ yydstxt*.com/js/html
 ||hmtqtokulp.com^
 ||hmwang.icu/skin/images/*.gif
 ||hn-ping*.hashnode.com^
+||hnlghkmp.icu^
 ||hnousende.com^
 ||hnremote.net^
 ||hnrgmc.com^$popup
@@ -33445,6 +33453,7 @@ yydstxt*.com/js/html
 ||mhdnspro.com^
 ||mhgu.cn^
 ||mhiiopll.net^$popup
+||mhmciof8ef.com^
 ||mhoccoirq.com^
 ||mhoiia.icu^
 ||mhqcyar.icu^
