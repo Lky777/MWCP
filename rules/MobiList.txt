@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202603051957
-! Last modified: 05 Mar 2026 19:57 UTC
+! Version: 202603061945
+! Last modified: 06 Mar 2026 19:45 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -8064,6 +8064,7 @@ yydstxt*.com/js/html
 ||0e9knynfb.com^
 ||0emm.com^$third-party
 ||0ff6b7.com^
+||0fs6pe6w0j.com^
 ||0ghwbi.com^
 ||0h9yewgei.com^
 ||0hagal2csg.com^
@@ -9985,6 +9986,7 @@ yydstxt*.com/js/html
 ||8989c.net^
 ||899100.xyz^
 ||899196412.xyz^
+||89ga0evbha.com^
 ||89gffg9.com^
 ||89sa.com^$popup
 ||8acd6b63f9.com^
@@ -15538,6 +15540,7 @@ yydstxt*.com/js/html
 ||bonusnun.com^
 ||bonzuna.com^$popup
 ||boobguys.com^
+||boodper.com^
 ||boodstream.com^
 ||boojupttj.com^
 ||book118.com^*/js/crm.
@@ -15729,6 +15732,7 @@ yydstxt*.com/js/html
 ||brazpromo.com^
 ||brazzers.com/click/$popup
 ||brazzerssurvey.com^$popup
+||brb3mb25zg.com^
 ||brbassonr.com^
 ||brcdn.com^$third-party
 ||brdtest.com^
@@ -22599,6 +22603,7 @@ yydstxt*.com/js/html
 ||eknz.cn^
 ||ekoi.com^
 ||ekola405gmt.com^
+||ekpafzj.com^
 ||ekzf.cn^
 ||el.quizlet.com^
 ||el2m3qr7v.com^
@@ -23437,6 +23442,7 @@ yydstxt*.com/js/html
 ||ezadtv.com^
 ||ezanvaktiprocdn.com^
 ||ezcgojaamg.com^$popup
+||ezd6n7n4m7.com^
 ||ezdownloadpro.info^$popup
 ||ezec.co.uk^$third-party
 ||ezez11.com^
@@ -25567,6 +25573,7 @@ yydstxt*.com/js/html
 ||gfan.com/press/
 ||gfdfhdh5t5453.com^$popup
 ||gffend.com^
+||gfh9j4wyub.com^
 ||gfikeriocontrol.com^
 ||gfkari.com^
 ||gfnulonelb.com^
@@ -27831,6 +27838,7 @@ yydstxt*.com/js/html
 ||hsvtdj.top^
 ||hsyipos.com/template/mxone/html_tplmx/vod/*.gif
 ||ht9s1j1bf.com^
+||hthelulyq.com^
 ||htisouwlf.com^
 ||html-load.com^
 ||html-load.com^$popup
@@ -30509,6 +30517,7 @@ yydstxt*.com/js/html
 ||kbjfree.com/assets/scripts/popad.js
 ||kbjfree.com^
 ||kbkvmeg.com^
+||kbr23k89xz.com^
 ||kbygma.icu^
 ||kc3mmffdbt.com^
 ||kccdk.com/content/img/*.gif
@@ -31621,6 +31630,7 @@ yydstxt*.com/js/html
 ||liisex.com/images/banners/
 ||likedatings.life^$popup
 ||likeinter.com^
+||likelihood55.com^
 ||liktronapp.com^
 ||likurai.com^
 ||likuso.com^
@@ -32368,6 +32378,7 @@ yydstxt*.com/js/html
 ||lwnbts.com^$popup
 ||lwnxzp.icu^
 ||lwonclbench.com^$popup
+||lwvz4vwkc8.com^
 ||lwxjg.com^$third-party
 ||lwzgfp.icu^
 ||lxapk.com/wp-content/uploads/*.gif
@@ -32611,6 +32622,7 @@ yydstxt*.com/js/html
 ||maianimalhealth.com^
 ||maiche.com/iframe/rank.html
 ||maicong.cn^
+||maideatp.com^
 ||maidenhome.com^
 ||maidouke.com^
 ||mail-ads.google.com^
@@ -36574,7 +36586,6 @@ yydstxt*.com/js/html
 ||ourcommonstories.com^$popup
 ||ourcoolposts.com^$popup
 ||ourcoolstories.com^$popup
-||ourdream.ai^$third-party
 ||ourdreamai.com^
 ||ourdreamersai.com^
 ||ourdreamstaticpages.pages.dev^
@@ -38304,6 +38315,7 @@ yydstxt*.com/js/html
 ||practitioner23.com^
 ||pradn.net^
 ||prairiedog.hashnode.com^
+||prankubg.com^
 ||pranmcpkx.com^$third-party
 ||pravda.com.ua/counter/
 ||praxisdienst.com^
@@ -41739,6 +41751,7 @@ yydstxt*.com/js/html
 ||shakingtacklingunpeeled.com^$popup
 ||shakykneesfestival.com^
 ||shalion.com^
+||shallspark.com/athena/tracking/
 ||shamcash.com^
 ||shamra-academia.com^
 ||shamsupermarket.com^
@@ -47234,6 +47247,7 @@ yydstxt*.com/js/html
 ||uxernab.com^$third-party
 ||uxfa.cn^
 ||uxfe.cn^
+||uxjw.cn^
 ||uxmatters.com/images/sponsors/
 ||uxtlrah.com^
 ||uxx1sawfwm.com^
@@ -49572,6 +49586,8 @@ yydstxt*.com/js/html
 ||xdyn03011jy.com^
 ||xdyn03021jy.com^
 ||xdyn03051jy.com^
+||xdyn03060jy.com^
+||xdyn03061jy.com^
 ||xebetp.icu^
 ||xeccotftw.com^
 ||xegnfwkju.com^
@@ -49995,6 +50011,7 @@ yydstxt*.com/js/html
 ||xxdm.in/js/union/
 ||xxf.mobi/hit
 ||xxffo.com^*_slett.php
+||xxhfuaek.icu^
 ||xxhh.com/xh.js
 ||xxi2.com^
 ||xxiku.com^
