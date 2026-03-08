@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202603081932
-! Last modified: 08 Mar 2026 19:32 UTC
+! Version: 202603082056
+! Last modified: 08 Mar 2026 20:56 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -657,6 +657,8 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .wangzhan5.
 .wap.x4399.com^
 .whoclick.
+.wiki/assets/1/banner.png
+.wiki/assets/1/logo.png
 .windsad.
 .woniu666.
 .world/000/flink/analytics.php
@@ -7838,6 +7840,7 @@ g.163.com
 g1.tagtic.cn
 guitarpro.cc
 haijiao.love###popup-mask
+hjziyan.wiki###popup-mask
 huishenghuiying.com.cn
 hxsame.hexun.com$domain=~quote.hexun.com
 iconworkshop.cn
@@ -13007,7 +13010,6 @@ yydstxt*.com/js/html
 ||apkliquid.com^
 ||apkpowers.com^
 ||apkpr.com^
-||apkpures.xyz^
 ||apksam.com^
 ||apksos.com^
 ||apleardiao.net^
@@ -16783,6 +16785,7 @@ yydstxt*.com/js/html
 ||cdn.app.cfigroup.com/webmon/$script
 ||cdn.b2.ai^$third-party
 ||cdn.biff.travel^
+||cdn.bootcdn.net^
 ||cdn.clkmc.com/cmc.js
 ||cdn.csyndication.com^
 ||cdn.cuty.io/fps.js
@@ -40427,6 +40430,7 @@ yydstxt*.com/js/html
 ||rjmda-cntapp.com^
 ||rjpvnl.icu^
 ||rjsos.com/channel/laomo_dibu.png
+||rjsperf.myalicdn.com/sdk.js
 ||rjsq7ljyp.com^
 ||rjuvxidpy.com^
 ||rjvzjn.top^
