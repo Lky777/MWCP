@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202603071930
-! Last modified: 07 Mar 2026 19:30 UTC
+! Version: 202603080418
+! Last modified: 08 Mar 2026 04:18 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -394,6 +394,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/vtrack
 .com/watch.*.js?key=
 .com/wp-content/plugins/ai-share-summarize/
+.com/wp-content/themes/begin/erphpdown/
 .com/zz/*2.txt$xmlhttprequest
 .com/zz/tcc2.js
 .com/zz/yd2.js
@@ -7825,6 +7826,7 @@ diwenganzaoji.com
 dlads.cn
 doubleclick.net
 duckduckgo.com##.js-atb-banner
+eastmoney.com###openinapp
 easyrecoverychina.com
 ediuschina.com
 enennsa.gushiwen.cn
@@ -7847,6 +7849,7 @@ irs03.com
 ithome.com##+js(trusted-click-element, span.hb-close-btn)
 jihehuaban.com.cn
 js.kiwihk.net
+juejin.cn##.open-button
 keyshot.cc
 kingdeecn.cn
 kstj.baidu.com
@@ -7857,6 +7860,8 @@ m.happymh.com###layui-m-layer0
 mairuanwang.com
 makeding.com
 mathtype.cn
+mdttz.com###gridAdvContent
+mdttz.com###gridAdvoOerlay
 mediav.com
 meijutt.*/js/pcjs/
 mfp.deliver.ifeng.com
@@ -7874,6 +7879,7 @@ qcvf.ifeng.com
 qpb.sohu.com
 sav123.com##.c-ad-pop
 shankejingling.com
+sina.cn###float-btn
 smzdm.com##.damo-footer-open-app
 sohu.com###CallAppContainer
 swc.weather.com.cn
@@ -7882,6 +7888,7 @@ tanx.com
 taobao.qq.com
 testpages.eyeo.com*js/test-script-regex
 testpages.eyeo.com*js/test-script.js
+toutiao.com##.m-bottom-container
 track.sohu.com
 tuijian.sogou.com
 u-x.jd.com
@@ -8776,6 +8783,7 @@ yydstxt*.com/js/html
 ||26yj3wme9q.com^
 ||273694077.xyz^
 ||27gh.cc^$popup,third-party
+||27ocdto914.com^
 ||28.com/count.js
 ||28.com/countnew.js
 ||28.com/public/js/w3c_float.js
@@ -9660,6 +9668,7 @@ yydstxt*.com/js/html
 ||6avz.com^$script,third-party
 ||6b8emvi3ya.com^
 ||6by30.com^
+||6c34boi06m.com^
 ||6c641lgikp.top^
 ||6cjdya3djn.com^
 ||6cmxoje5k.com^
@@ -13507,6 +13516,7 @@ yydstxt*.com/js/html
 ||atoplay.com/js/rtads.js
 ||atp.io^$third-party
 ||atpanel.com^$image
+||atpm.cn^
 ||atptour.com^*/sponsors/
 ||atqzvtleir.net^
 ||atrmywizard-aiops.com^
@@ -16119,6 +16129,7 @@ yydstxt*.com/js/html
 ||bychips.com^
 ||bycrovalb.com^
 ||byfkmudxj.com^
+||byirzeamuu.com^
 ||bylvsojmd.com^
 ||bynbc.com^
 ||byowner.com^
@@ -18802,6 +18813,7 @@ yydstxt*.com/js/html
 ||criitpoy.com^
 ||crimereads.com^
 ||crimewatch.net^
+||criminal-buddy.com^
 ||crimpac.net^
 ||crimson-latch.com^
 ||crimsonserene.com^
@@ -21807,6 +21819,7 @@ yydstxt*.com/js/html
 ||drsmediaexchange.com^$popup
 ||drtuber.com/footer_
 ||drudgereport.com/204.png
+||drudgery89.com^
 ||drugs.com/api/log/
 ||drugs.com/api/logger/
 ||drugs.com/img/pixel.gif
@@ -26880,6 +26893,7 @@ yydstxt*.com/js/html
 ||harfington.com^
 ||harion-ma.com^
 ||harmful26.top^
+||harmfulbrother.pro^
 ||harmony573.top^
 ||harmonycentral.com^
 ||harpersbazaararabia.com^
@@ -27844,6 +27858,7 @@ yydstxt*.com/js/html
 ||ht9s1j1bf.com^
 ||hthelulyq.com^
 ||htisouwlf.com^
+||htlwbn.icu^
 ||html-load.com^
 ||html-load.com^$popup
 ||html5games.com/event/
@@ -34688,6 +34703,7 @@ yydstxt*.com/js/html
 ||n0zwlat83.com^
 ||n1.xyz^
 ||n186f6.com^
+||n1yy6blznk.com^
 ||n2.clips4sale.com^$third-party
 ||n2.hk/apps/car_feed/tb/*/banner.html
 ||n2.hk/promo/
@@ -35236,6 +35252,7 @@ yydstxt*.com/js/html
 ||ngygalitlv.com^
 ||nh3ymjjdkx.com^
 ||nhentai.net/api/_/popunder?$popup
+||nhnehvef.icu^
 ||nhnsoh.cn^
 ||nhregister.com^
 ||nhy9i8t56f.com^
@@ -39100,7 +39117,6 @@ yydstxt*.com/js/html
 ||qiantucdn.com^
 ||qianwen.com^
 ||qianzhan.com/qiye/images/qcm_
-||qichamao.com^
 ||qidian.com/images/990x40_
 ||qidian.com/upload/gamesy/20$image
 ||qidian.qpic.cn/qidian_common/$image
@@ -40447,6 +40463,7 @@ yydstxt*.com/js/html
 ||rmkfmm.cn^
 ||rmpzspn.com^
 ||rmtag.com^$third-party
+||rmujceobds.in^
 ||rmzsglng.com^$popup
 ||rmzxw.com.cn^
 ||rn198.xyz^
@@ -46779,7 +46796,6 @@ yydstxt*.com/js/html
 ||uciservice.com^$third-party
 ||uclasificados.com^
 ||uclck.net^
-||ucloud154.xyz^
 ||ucmx.cn^
 ||ucounter.ucoz.net^
 ||ucoz.com/stat/
@@ -49032,6 +49048,7 @@ yydstxt*.com/js/html
 ||wjxc92bc.xyz^
 ||wjyj02.com^
 ||wkctj.baidu.com^
+||wkjwumtex3.com^
 ||wkstatic.bdimg.com/static/wkview/widget/top_ads_banner/$script
 ||wktrns.com^
 ||wkvytxcg8.com^
@@ -49609,6 +49626,7 @@ yydstxt*.com/js/html
 ||xdyn03061jy.com^
 ||xdyn03070jy.com^
 ||xdyn03071jy.com^
+||xdyn03080jy.com^
 ||xebetp.icu^
 ||xeccotftw.com^
 ||xegnfwkju.com^
