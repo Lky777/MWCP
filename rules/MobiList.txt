@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: blocker for mobile internet
-! Version: 202603101947
-! Last modified: 10 Mar 2026 19:47 UTC
+! Version: 202603111947
+! Last modified: 11 Mar 2026 19:47 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -3311,10 +3311,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /leftad.js$script
 /leftad.png$image
 /legion-advertising-atlasastro/*$script
-/lenovo/2021/all*.js
-/lenovo/pc/all*.js
-/lenovo/pc/piaofu2.js
-/lenovo/pc/top.js
 /letv-gug/
 /lhnhelpouttab-current.min.js
 /li.blogtrottr.com/imp?$image
@@ -3685,6 +3681,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /nordvpn/autoptimize_
 /nozomi4.js$domain=nozomi.la
 /np?log=
+/npm/disable-devtool
 /npm/perfops-rom
 /nr-spa-1216.min.js
 /ns.html?id=gtm-
@@ -7050,7 +7047,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||mm.maxthon.cn/ad/
 @@||mmaa99.xyz^$generichide
 @@||mmee04.com^$generichide
-@@||mmff30.com^$generichide
 @@||mmgd.xyz^$generichide
 @@||mmstat.com/eg.js$domain=1688.com|taobao.com|tmall.com|tudou.com|youku.com
 @@||mmuu22.link^$generichide
@@ -7986,6 +7982,7 @@ yydstxt*.com/js/html
 |javascript:*window.location$popup
 ||*.$image,rewrite=abp-resource:1x1-transparent-gif,third-party,domain=rmdown.com
 ||*.cdn.sohucs.com/lemon/
+||*.mp4$rewrite=abp-resource:blank-mp3,domain=huavod.com
 ||*xav.*/guang/*.gif
 ||*xav.*/guang/*.jpg
 ||0-r-a-v.com^
@@ -8874,6 +8871,7 @@ yydstxt*.com/js/html
 ||2y2s.com^
 ||2yjw.com/statics/js/jquery.min.
 ||2zjftxgl5s.com^
+||2ztav5r7r.com^
 ||2zzt.com/file/aliyun
 ||2zzt.com/images/
 ||3-v-a-m.com^
@@ -9714,6 +9712,7 @@ yydstxt*.com/js/html
 ||6jvjgpouvayj3qaj.com^
 ||6jyi7mzae.com^
 ||6k2fehacp.com^
+||6knlhnjfv.com^
 ||6kpudsordv.com^
 ||6m8tk53pw.com^
 ||6mdf9teiz.com^
@@ -14916,6 +14915,7 @@ yydstxt*.com/js/html
 ||bhphotovideo.com/aperture/shared/js/datalayer.js
 ||bhphotovideo.com/imp/
 ||bhydgwn9.xyz^
+||bi-events-collector.spot.im^
 ||bi-metrics.aramuz.net^
 ||bi.banggood.com^
 ||bi.heyloyalty.com^
@@ -18942,6 +18942,7 @@ yydstxt*.com/js/html
 ||ctfile.com/img/*ssp
 ||ctfile.com/iz.php?
 ||ctfile.com/popjump.php?$popup
+||ctirhpp.com^
 ||ctolabperfstats.com^
 ||ctosrd.com^$popup
 ||ctradercloud.com^
@@ -23571,6 +23572,7 @@ yydstxt*.com/js/html
 ||fadszone.com^$popup
 ||faezs.com^
 ||faforever.com^
+||fagmiethe.com^
 ||fagp.cn^
 ||faguizhan.com^
 ||fahdroid.com^
@@ -23750,6 +23752,7 @@ yydstxt*.com/js/html
 ||fbpmalta.com^
 ||fbpqvs.com^$popup
 ||fbq5tlk1.com^
+||fbraaphra.com^
 ||fbsbx.com/paid_ads_pixel/
 ||fbspider.com^
 ||fbstat1.com^
@@ -26501,6 +26504,7 @@ yydstxt*.com/js/html
 ||gtm.lercio.it^
 ||gtm.wise.com^
 ||gtm.xtb.com^
+||gtmajs.click^
 ||gtmaritime.com^
 ||gtmfsstatic.getgoogletagmanager.com^
 ||gtnewhorizons.com^
@@ -28073,6 +28077,7 @@ yydstxt*.com/js/html
 ||i.s-microsoft.com/wedcs/ms.js
 ||i.viafoura.co^
 ||i0y0i9vz0.com^
+||i12het785.com^
 ||i14laze0.xyz^
 ||i1j.net^
 ||i2fxsez4f0.com^
@@ -28089,6 +28094,7 @@ yydstxt*.com/js/html
 ||i5qquywfz.com^
 ||i5rp73ne9h.com^
 ||i64cl3er5t.com^
+||i6nnwepgm.com^
 ||i73u6dnnh.com^
 ||i7bqmgn87.com^
 ||i7mfm1hl44.com^
@@ -30066,6 +30072,7 @@ yydstxt*.com/js/html
 ||jpts1.top^
 ||jpxjpg4.top^
 ||jpxs123.com^
+||jpzbjh.icu^
 ||jqbhtv.icu^
 ||jqmr7zssmd.com^
 ||jqs77n9x.xyz^
@@ -32824,6 +32831,7 @@ yydstxt*.com/js/html
 ||maozhiwang.com^
 ||map.baidu.com/newmap_test/static/common/images/transparent.gif
 ||map.baidu.com^$domain=laosiji.com
+||mapbbqy.com^
 ||mapcarta.com/logs
 ||mapdevelopers.com^
 ||maper.info^$popup
@@ -35487,6 +35495,7 @@ yydstxt*.com/js/html
 ||nnmtools.com^third-party
 ||nnntxx.icu^
 ||nnteens.com/ad$subdocument
+||nnuc.cn^
 ||nnvx.cn^
 ||no1.168abc.net/upload/
 ||no2uuk.com^
@@ -36097,6 +36106,7 @@ yydstxt*.com/js/html
 ||oj3e4wlmj.com^
 ||oj8ou.com^
 ||ojamrej.com^
+||ojg8sflgl.com^
 ||ojh9bc9puh.com^
 ||ojizau.icu^
 ||ojjyafu.com^
@@ -36821,7 +36831,10 @@ yydstxt*.com/js/html
 ||p.junshifuxin.com^
 ||p.jwpcdn.com/player/plugins/vast/
 ||p.kugou.com/?id=
+||p.mdb.tools^
 ||p.metrilo.com^
+||p.midbound.click^
+||p.midbound.net^
 ||p.minds.com^
 ||p.ost2.fyi/courses/*/save_user_state
 ||p.ost2.fyi/event^
@@ -36962,6 +36975,7 @@ yydstxt*.com/js/html
 ||pan.baidu.com/pcloud/counter/refreshcount?
 ||pan.baidu.com/recent/report?
 ||pan.baidu.com/rest/*/adx?$image
+||pan0304.com/ads.
 ||panaceadistribution.com^
 ||panc.cc/uploads/hongbao.png
 ||pancocitt.com^
@@ -37249,6 +37263,7 @@ yydstxt*.com/js/html
 ||pdfreaders.net^
 ||pdfreaderviewer.com^
 ||pdfslide.net^
+||pdhwzl.icu^
 ||pdmntn.com^$third-party
 ||pdpiano.com^
 ||pdrerzug.com^
@@ -40961,6 +40976,7 @@ yydstxt*.com/js/html
 ||rxys.cn^
 ||rxzefz.icu^
 ||ry600.com^
+||ryd626moj.com^
 ||ryjdsb.com^
 ||ryoando.com^
 ||ryplay11.com^
@@ -43790,6 +43806,7 @@ yydstxt*.com/js/html
 ||strettechoco.com^$popup
 ||strewdirtinessnestle.com^$popup
 ||striiiipst.com^
+||stringent19.com^
 ||stringsbymail.com^
 ||strip.chat/widgets/$domain=tktube.com
 ||strip.taobaocdn.com/tfscom/$subdocument
@@ -49191,6 +49208,7 @@ yydstxt*.com/js/html
 ||wlberlaiw.com^
 ||wlcdn99.com^
 ||wlemdl1yx.com^
+||wlgjz02mo.com^
 ||wliksa.icu^
 ||wlnaukfq.com^
 ||wlog.kuaishou.com^
@@ -49775,6 +49793,8 @@ yydstxt*.com/js/html
 ||xdyn03091jy.com^
 ||xdyn03100jy.com^
 ||xdyn03101jy.com^
+||xdyn03110jy.com^
+||xdyn03111jy.com^
 ||xebetp.icu^
 ||xeccotftw.com^
 ||xegnfwkju.com^
@@ -50116,6 +50136,8 @@ yydstxt*.com/js/html
 ||xscp03091xq.com^
 ||xscp03100xq.com^
 ||xscp03101xq.com^
+||xscp03110xq.com^
+||xscp03111xq.com^
 ||xsrezl.icu^
 ||xssat.net^
 ||xssltd.com^
@@ -50972,6 +50994,7 @@ yydstxt*.com/js/html
 ||z.nowscore.com^
 ||z.tudouxy01.com^
 ||z0ha6abmi.com^
+||z0rto0758.com^
 ||z0u6tmmudb.com^
 ||z0vogb8ns.com^
 ||z1.chezhuzhinan.com^
