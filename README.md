@@ -1,23 +1,18 @@
----
+# Analysis of Disruptive Online Content
 
-Analysis of Disruptive Online Content
-
- Rule Subscription
+## Rule Subscription
 
 jsDelivr Link
-
-```text
+```
 https://cdn.jsdelivr.net/gh/Lky777/MWCP@main/rules/MobiList.txt
 ```
 
- HOSTS (For additional network analysis, see this project **/rules/hosts**)
+## HOSTS (For additional network analysis, see this project **/rules/hosts**)
 
 Android Path
-
 ```bash
 /etc/hosts   # Permission: rw-r--r-- (reboot required after modification)
 ```
-
 
 [GitHub Raw (Backup)](https://raw.githubusercontent.com/Lky777/MWCP/main/rules/MobiList.txt)
 
