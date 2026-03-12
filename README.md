@@ -1,13 +1,11 @@
-# Analysis of Disruptive Online Content
+## Analysis of Disruptive Online Content
 
-## Rule Subscription
-
-jsDelivr Link
+### jsDelivr Link
 ```
 https://cdn.jsdelivr.net/gh/Lky777/MWCP@main/rules/MobiList.txt
 ```
 
-## HOSTS (For additional network analysis, see this project **/rules/hosts**)
+### HOSTS (For additional network analysis, see this project **/rules/hosts**)
 
 Android Path
 ```bash
@@ -18,7 +16,7 @@ Android Path
 
 ---
 
- Support the Project
+### Support the Project
 
 If you find this project helpful, feel free to scan the QR code to support us. Thank you for your encouragement!
 
@@ -30,11 +28,11 @@ If you find this project helpful, feel free to scan the QR code to support us. T
 
 ---
 
- Upstream References
+### Upstream References
 
 This project references the following excellent projects and data sources, special thanks to:
 
-· cjxlist
-· Cloudflare Radar
+- cjxlist
+- Cloudflare Radar
 
 ---
