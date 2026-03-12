@@ -5,7 +5,7 @@
 https://cdn.jsdelivr.net/gh/Lky777/MWCP@main/rules/MobiList.txt
 ```
 
-### [HOSTS](https://raw.githubusercontent.com/Lky777/MWCP/main/rules/hosts) 
+### <a href="https://raw.githubusercontent.com/Lky777/MWCP/main/rules/hosts">HOSTS</a>
 (Additional network analysis)
 
 Android Path
