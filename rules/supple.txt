@@ -107,6 +107,9 @@
 *$ping,third-party
 *$websocket
 *$webrtc
+.com:8004/cc/*?*=
+.com:8004/d/*?*=
+.com:8004/sc/*?*=
 .com:8005/cc/*?*=
 .com:8005/d/*?*=
 .com:8005/sc/*?*=
@@ -162,6 +165,7 @@ v=2&adZones
 /js/tm.js
 /js/zzz.js
 /videojs.ads.min.js
+_14c14p14v.js
 ||connect.facebook.net/*/sdk.js
 ||rjsperf.myalicdn.com/sdk.js
 |https://vk.com/js/api/share.js?
@@ -200,6 +204,7 @@ v=2&adZones
 ##.block-overlay
 ##.van-overlay
 ##.van-popup--center
+91bl.es###popup-mask
 a2zapk.io###modalpop
 duckduckgo.com##.js-atb-banner
 eastmoney.com###openinapp
