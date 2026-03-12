@@ -1,6 +1,6 @@
 ---
 
-### Disruptive Online Content List  
+### Analysis of Disruptive Online Content  
 
 ### jsDelivr CDN  
 [MobiList.txt](https://cdn.jsdelivr.net/gh/Lky777/MWCP@main/rules/MobiList.txt)  
@@ -14,8 +14,14 @@ https://cdn.jsdelivr.net/gh/Lky777/MWCP@main/rules/MobiList.txt
 https://raw.githubusercontent.com/Lky777/MWCP/main/rules/MobiList.txt
 ```  
 
-📱[hosts](https://raw.githubusercontent.com/Lky777/MWCP/main/rules/hosts)  
+### 📱[hosts](https://raw.githubusercontent.com/Lky777/MWCP/main/rules/hosts)  
 ↳ android: /etc/hosts  rw--r--r  reboot  
+
+GitHub ❲backup❳  
+[MobiList.txt](https://raw.githubusercontent.com/Lky777/MWCP/main/rules/MobiList.txt)  
+```text
+https://raw.githubusercontent.com/Lky777/MWCP/main/rules/MobiList.txt
+```  
 
 ---
 
@@ -32,6 +38,3 @@ https://raw.githubusercontent.com/Lky777/MWCP/main/rules/MobiList.txt
 ·[cjxlist](https://github.com/cjx82630/cjxlist)  
 
 ·[Cloudflare Radar](https://radar.cloudflare.com/)  
-
-
-
