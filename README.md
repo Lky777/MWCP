@@ -1,11 +1,12 @@
-## Analysis of Disruptive Online Content
+## Disruptive Online Content List
 
 ### jsDelivr Link
 ```
 https://cdn.jsdelivr.net/gh/Lky777/MWCP@main/rules/MobiList.txt
 ```
 
-### HOSTS (For additional network analysis, see this project **/rules/hosts**)
+### HOSTS 
+(For additional network analysis, see this project **/rules/hosts**)
 
 Android Path
 ```bash
