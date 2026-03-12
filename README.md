@@ -13,8 +13,6 @@ Android Path
 /etc/hosts   # Permission: rw-r--r-- (reboot required after modification)
 ```
 
-[GitHub Raw (Backup)](https://raw.githubusercontent.com/Lky777/MWCP/main/rules/MobiList.txt)
-
 ---
 
 ### Support the Project
