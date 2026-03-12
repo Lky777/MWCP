@@ -21,8 +21,8 @@ mkdir -p rules/
 # 4. dl add rules
 declare -A urls=(
   [easylistchina.txt]="https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt"
-#  [cjx.txt]="https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt"
-  [xinggsf.txt]="https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt"
+  [cjx.txt]="https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt"
+#  [xinggsf.txt]="https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt"
 )
 
 for file in "${!urls[@]}"; do
