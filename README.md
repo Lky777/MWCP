@@ -13,7 +13,7 @@ https://cdn.jsdelivr.net/gh/Lky777/MWCP@main/rules/MobiList.txt
 android: /etc/hosts  rw--r--r  reboot  
 
 
-<a href="https://raw.githubusercontent.com/Lky777/MWCP/main/rules/MobiList.txt" style="color: #808080; text-decoration: none;">GitHub â²backupâ³</a>  
+<a href="https://raw.githubusercontent.com/Lky777/MWCP/main/rules/MobiList.txt" style="color: #808080; text-decoration: none;">GitHub ❲backup❳</a>  
 
 ---
 
