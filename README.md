@@ -8,7 +8,7 @@
 https://cdn.jsdelivr.net/gh/Lky777/MWCP@main/rules/MobiList.txt
 ```  
 
-### GitHub  
+### GitHub ❲backup❳  
 [MobiList.txt](https://raw.githubusercontent.com/Lky777/MWCP/main/rules/MobiList.txt)  
 ```text
 https://raw.githubusercontent.com/Lky777/MWCP/main/rules/MobiList.txt
@@ -30,4 +30,5 @@ https://raw.githubusercontent.com/Lky777/MWCP/main/rules/MobiList.txt
 
 ### Upstream references  
 ·[cjxlist](https://github.com/cjx82630/cjxlist)  
+
 ·[Cloudflare Radar](https://radar.cloudflare.com/)  
