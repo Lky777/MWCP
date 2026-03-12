@@ -1,6 +1,6 @@
 ---
 
-### Analysis of Disruptive Online Content
+### Disruptive Online Content List  
 
 ### jsDelivr CDN  
 [MobiList.txt](https://cdn.jsdelivr.net/gh/Lky777/MWCP@main/rules/MobiList.txt)  
@@ -32,5 +32,6 @@ https://raw.githubusercontent.com/Lky777/MWCP/main/rules/MobiList.txt
 ·[cjxlist](https://github.com/cjx82630/cjxlist)  
 
 ·[Cloudflare Radar](https://radar.cloudflare.com/)  
+
 
 
