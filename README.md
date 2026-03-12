@@ -1,11 +1,11 @@
 ## Disruptive Online Content List
 
- [Jsdelivr link](https://cdn.jsdelivr.net/gh/Lky777/MWCP@main/rules/MobiList.txt)
+- [Jsdelivr link](https://cdn.jsdelivr.net/gh/Lky777/MWCP@main/rules/MobiList.txt)
 ```
 https://cdn.jsdelivr.net/gh/Lky777/MWCP@main/rules/MobiList.txt
 ```
 
- [HOSTS](https://raw.githubusercontent.com/Lky777/MWCP/main/rules/hosts)
+- [HOSTS](https://raw.githubusercontent.com/Lky777/MWCP/main/rules/hosts)
 (Additional network analysis)
 
 Android Path
@@ -13,7 +13,7 @@ Android Path
 /etc/hosts   # Permission: rw-r--r-- (reboot required after modification)
 ```
 
- [GitHub Raw (Backup)](https://raw.githubusercontent.com/Lky777/MWCP/main/rules/MobiList.txt)
+- [GitHub Raw (Backup)](https://raw.githubusercontent.com/Lky777/MWCP/main/rules/MobiList.txt)
 
 ---
 
