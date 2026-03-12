@@ -1,12 +1,12 @@
 ## Disruptive Online Content List
 
-### jsDelivr Link
+### [Jsdelivr link](https://cdn.jsdelivr.net/gh/Lky777/MWCP@main/rules/MobiList.txt)
 ```
 https://cdn.jsdelivr.net/gh/Lky777/MWCP@main/rules/MobiList.txt
 ```
 
-### HOSTS 
-(For additional network analysis, see this project **/rules/hosts**)
+### [HOSTS](https://raw.githubusercontent.com/Lky777/MWCP/main/rules/hosts) 
+(Additional network analysis)
 
 Android Path
 ```bash
