@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202603122143
-! Last modified: 12 Mar 2026 21:43 UTC
+! Version: 202603131942
+! Last modified: 13 Mar 2026 19:42 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -6959,6 +6959,7 @@ yydstxt*.com/js/html
 ||biluspeh.com^
 ||biman-airlines.com^
 ||bimiacg*.net/template/joeleo/asset/js/jquery.leeleo.js
+||binaqathh.com^
 ||bindext.com^
 ||bindg.com^
 ||bing.com/adsfetch?
@@ -10788,6 +10789,7 @@ yydstxt*.com/js/html
 ||editorify.com^
 ||edmfizohztab.com^
 ||edmontonchina.*/pic/
+||edrakiber.com^
 ||edramatica.com^
 ||edu-30130.sz.gfp.tencent-cloud.com^*.gif
 ||edu-servers.net^
@@ -12332,6 +12334,7 @@ yydstxt*.com/js/html
 ||g15wt3ci68.com^
 ||g1v5r.com^
 ||g2rail.com^
+||g2w9awdq0.com^
 ||g2wg5308q.com^
 ||g35driver.com^
 ||g3f3.com/love/
@@ -16154,6 +16157,7 @@ yydstxt*.com/js/html
 ||kfc.com.cn^$popup,domain=iqiyi.com
 ||kfvq.cn^
 ||kfwx.net^
+||kgaviuu42.com^
 ||kgdp030vm1.com^
 ||kget.com^
 ||kgihdv57il.com^
@@ -19538,6 +19542,7 @@ yydstxt*.com/js/html
 ||nuwurorwbr.com^
 ||nv0cl4nnq.com^
 ||nvbhol.com^
+||nvbrfj.icu^
 ||nvielkaa.com^
 ||nvrealtygroup.com^
 ||nvsheng.com/js/gg.js
@@ -19580,6 +19585,7 @@ yydstxt*.com/js/html
 ||nz04com.com/aabdd/
 ||nzbget.net^
 ||nzeikrar.com^
+||nzht.cn^
 ||nzl09250oa.com^
 ||nzl09251oa.com^
 ||nzl09260oa.com^
@@ -20227,6 +20233,7 @@ yydstxt*.com/js/html
 ||p5w.net^
 ||p66jed4iv.com^
 ||p70y44odg.com^
+||p74ugyuur.com^
 ||p7d3miyh2q.com^
 ||p7jroq6xco.com^
 ||p8u.hinet.net^
@@ -20828,6 +20835,7 @@ yydstxt*.com/js/html
 ||pkvs.com/public/as.js
 ||pl-hotels.com^
 ||pl520.com^$third-party
+||pl53l7tyw.com^
 ||pla3.com^
 ||placebuzz.com^
 ||placeholderapi.com^
@@ -22200,6 +22208,7 @@ yydstxt*.com/js/html
 ||repurely.com^
 ||requestmetrics.com^
 ||requirejs.cn/ts.png
+||requisite57.com^
 ||rer4.com^
 ||res*.pinpai8.cn^
 ||res-menu.net^
@@ -25900,6 +25909,7 @@ yydstxt*.com/js/html
 ||u39q45jzoj.com^
 ||u3qrlykp2.com^
 ||u408n6z4f.top^
+||u4h8saw19.com^
 ||u4jlr6f6n2.com^
 ||u55011.com^
 ||u5eguuk2n.com^
@@ -27740,6 +27750,7 @@ yydstxt*.com/js/html
 ||xdnice.com/themes/xdnice/public/assets/images/xdnice.png
 ||xdoriq.cn^
 ||xdyjt.com^
+||xdyn0*jy.com^$script,xmlhttprequest,third-party
 ||xdyn03010jy.com^
 ||xdyn03011jy.com^
 ||xdyn03021jy.com^
@@ -27758,6 +27769,8 @@ yydstxt*.com/js/html
 ||xdyn03111jy.com^
 ||xdyn03120jy.com^
 ||xdyn03121jy.com^
+||xdyn03130jy.com^
+||xdyn03131jy.com^
 ||xebetp.icu^
 ||xeccotftw.com^
 ||xegnfwkju.com^
@@ -28034,6 +28047,7 @@ yydstxt*.com/js/html
 ||xsava.xyz^
 ||xsbdgef.com^
 ||xsbwx.com^
+||xscp0*xq.com^$script,xmlhttprequest,third-party
 ||xscp03091xq.com^
 ||xscp03100xq.com^
 ||xscp03101xq.com^
@@ -28041,6 +28055,8 @@ yydstxt*.com/js/html
 ||xscp03111xq.com^
 ||xscp03120xq.com^
 ||xscp03121xq.com^
+||xscp03130xq.com^
+||xscp03131xq.com^
 ||xsrezl.icu^
 ||xssat.net^
 ||xssltd.com^
