@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202603161954
-! Last modified: 16 Mar 2026 19:54 UTC
+! Version: 202603171956
+! Last modified: 17 Mar 2026 19:56 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -563,7 +563,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /htmm/20*.php$popup
 /huijiad/huijiad.
 /hunter/alog/
-/huya/main/widget/roomgg
+/huya/main3/widget_roomgatop_
 /huya_promotion_content_
 /ifeng_jdttemplate.js
 /ifengrotatorad.js
@@ -3095,7 +3095,6 @@ yydstxt*.com/js/html
 ||4167xig8.com^
 ||416betjolly.com^
 ||4185597.xyz^
-||419eater.com^
 ||41oglape.com^
 ||422550.xyz^
 ||4249350.xyz^
@@ -4354,7 +4353,6 @@ yydstxt*.com/js/html
 ||accommodate53.top^
 ||accomplish89.com^
 ||accounts-bc.com^
-||accoya.com^
 ||accucdp.net^
 ||ace1m.com^
 ||aceimg.com^
@@ -4818,7 +4816,6 @@ yydstxt*.com/js/html
 ||advancecricket.com^
 ||advanced-web-analytics.com^
 ||advanceddataanalysiscenter.com^
-||advancedmixology.com^
 ||advancedtautactica.com^
 ||advanceplumbing.com^
 ||advancesafetyworld.com^
@@ -4859,7 +4856,6 @@ yydstxt*.com/js/html
 ||advmob.cn^
 ||advmusic.com^
 ||advoncommerce.com^
-||advrpg.com^
 ||advstatistics.com^
 ||adwangmai.com^
 ||adway.net.cn^
@@ -4903,6 +4899,7 @@ yydstxt*.com/js/html
 ||aexoao7lg6.com^
 ||aeyws2940637fafa.com^
 ||af-sdk.net^
+||af1tsjdta.com^
 ||af29.com/banner/
 ||afce.cn^
 ||afcgcq.icu^
@@ -4946,7 +4943,6 @@ yydstxt*.com/js/html
 ||agc-chemicals.com^
 ||agc-store.com^
 ||agc-yourglass.com^
-||agc.com^
 ||agcce.com^
 ||agceurope.com^
 ||agclicker.com^
@@ -5027,6 +5023,7 @@ yydstxt*.com/js/html
 ||aifasthub.com^
 ||aifei0755.net/123/
 ||aigomobi.com^
+||aiheatta.com^
 ||aihubmix.com^
 ||aiiding.com^
 ||aiir.com^
@@ -5100,8 +5097,6 @@ yydstxt*.com/js/html
 ||aishu888.com^
 ||aishuttler.com^
 ||aisiluke.com^
-||aisin-china.com^
-||aisin-na.com^
 ||aisiteanalytics.com^
 ||aisixiang.com/images/*-20
 ||aisongcreate.com^
@@ -5153,7 +5148,6 @@ yydstxt*.com/js/html
 ||akasztofa.com^
 ||akbchina.cn^
 ||akchauhan2.com^
-||akerman.com^
 ||akhirzaea.com^
 ||akhpcxdin.com^
 ||akiads.net^
@@ -6185,6 +6179,7 @@ yydstxt*.com/js/html
 ||b2brazil.com^
 ||b2proxy.com^
 ||b2v18mn8f6.com^
+||b4641y3dw.com^
 ||b477.life^$popup,third-party
 ||b4dg.life/love/
 ||b5089qotto.com^
@@ -6826,6 +6821,7 @@ yydstxt*.com/js/html
 ||bf99.com/user*/ad_
 ||bf99.com/user/images/bg_blued.jpg
 ||bfab.com^
+||bfgu.cn^
 ||bfitra1eho.com^
 ||bfllvip.com^
 ||bflvxv.icu^
@@ -7963,6 +7959,7 @@ yydstxt*.com/js/html
 ||cbewin.com^
 ||cbff1ao9.xyz^
 ||cbfw.cn/gonggong/chibi/cf_
+||cbhzxctgm.com^
 ||cbjg.cqnews.net^
 ||cbjs.baidu.com^
 ||cbo9vo98i.com^
@@ -9368,6 +9365,7 @@ yydstxt*.com/js/html
 ||d3iih5w7xp5hdg.cloudfront.net^
 ||d3s9in1sg.com^
 ||d4.sina.com.cn^$object,script
+||d48paxyhx.com^
 ||d4donline.com^
 ||d4k8r9m6.com^
 ||d4vd.life/love/
@@ -9526,7 +9524,6 @@ yydstxt*.com/js/html
 ||dataproject.com^
 ||datas.tianqistatic.com^
 ||datasheetq.com^
-||datasociety.net^
 ||datastream-check.com^
 ||datazoomlabs.com^
 ||dateme100.com^
@@ -9724,7 +9721,6 @@ yydstxt*.com/js/html
 ||desigusxpro.com^
 ||desikahani2.net^
 ||deskefg.com^
-||deskthority.net^
 ||deslegte.com^
 ||despseek.com^
 ||destacamos.net^
@@ -9873,7 +9869,6 @@ yydstxt*.com/js/html
 ||dieka888.com/app_ad/
 ||diemniwm.com^
 ||diendantailieu.com^
-||dienmayxanh.com^
 ||dieteticacentral.com^
 ||diffeyewear.com^
 ||difmark.com^
@@ -9897,7 +9892,6 @@ yydstxt*.com/js/html
 ||digits.net^
 ||digufox.com^
 ||dilidili.wang/uploads/allimg/171227/1_1520203421.png
-||dilmahtea.com^
 ||dilmcrybf.com^
 ||dimensionaloutletfurniture.com^
 ||dimknbuws.com^
@@ -10111,7 +10105,6 @@ yydstxt*.com/js/html
 ||dobynsandmartin.com^
 ||doc88.com^*/count.js
 ||docaccess.com^
-||docebosuite.com^
 ||docer.org/static/utils/jquery.min.js
 ||docin.com/building/getadvbyid.
 ||docin.com/docin_adv/
@@ -10140,7 +10133,6 @@ yydstxt*.com/js/html
 ||dollsofindia.com^
 ||dolphin-anty-api-cf.com^
 ||dolphinim.com^
-||dolthub.com^
 ||doma.xyz^
 ||domainagents.com^
 ||domainnamesoup.com^
@@ -10160,7 +10152,6 @@ yydstxt*.com/js/html
 ||dongojyousan.com^
 ||dongsaroma.com^
 ||dongtukj.oss-cn-hongkong.aliyuncs.com^
-||dongwonmall.com^
 ||dontsup.com^
 ||donutpg.com^
 ||donutpgpay1.com^
@@ -10231,7 +10222,6 @@ yydstxt*.com/js/html
 ||dozu5h9yql.com^
 ||dp-pertamina.com^
 ||dp3.qq.com/qqcom/
-||dpaste.com^
 ||dpbsmith.com^
 ||dpjbpj.top^
 ||dpscx6.com^
@@ -10416,7 +10406,6 @@ yydstxt*.com/js/html
 ||dv4ku.icu^
 ||dvdprime.com^
 ||dve95jyfq31ui.cloudfront.net^
-||dvf.com^
 ||dvkperiyar.com^
 ||dvrinside.com^
 ||dvripc.net^
@@ -14957,6 +14946,7 @@ yydstxt*.com/js/html
 ||inverterchennai.com^
 ||invictusaficionado.com^
 ||invisiliftvip.com^
+||invocation22.com^
 ||involvkgfr.com^
 ||inwink.com^
 ||inwuamo.top^
@@ -18516,7 +18506,6 @@ yydstxt*.com/js/html
 ||msslwa.icu^
 ||msstatic.com/huya/main/img/mc-recom_
 ||msstatic.com/huya/main3/widget/diyactlayer/diyactlayer_*.js
-||msstatic.com/huya/main3/widget/roomgg
 ||msstatic.net/main3/common/assets/template/head/ad.
 ||msstudiotool.com^
 ||mstarproject.com^
@@ -18665,7 +18654,6 @@ yydstxt*.com/js/html
 ||my0538.com^*/thumb_1000_70_
 ||my0832.com/xyz/xx/
 ||my4700.com/js/*.js
-||myabl.com^
 ||myadmessenger.com^
 ||myanimeshelf.com^
 ||myappgurus.com^
@@ -18689,13 +18677,11 @@ yydstxt*.com/js/html
 ||mychery.com^
 ||myclapfinder.com^
 ||myclickfunnels.com^
-||mycloudnas.com^
 ||mycodes.net/js/$image
 ||mycodes.net/js/hf_txt.js
 ||mycorporateinfo.com^
 ||mycoursefinder.com^
 ||mycoursewalk.com^
-||mycricket.com^
 ||mycryptoapi.com^
 ||mydifile.com/view.php/*.gif
 ||mydigitalpublication.com^
@@ -18757,7 +18743,6 @@ yydstxt*.com/js/html
 ||mymyatt.net^
 ||mynetfair.com^
 ||mynkai.com^
-||myobadvanced.com^
 ||myorganicapps.com^
 ||myperfectcolor.com^
 ||myphotoreviveplus.com^
@@ -19027,6 +19012,7 @@ yydstxt*.com/js/html
 ||neovero.com^
 ||nepremicnine.net^
 ||neptuneadspush.com^
+||neraenyqq.com^
 ||nerdburglars.net^
 ||nereserv.com^
 ||nerpvpn.net^
@@ -19188,6 +19174,7 @@ yydstxt*.com/js/html
 ||nh3ymjjdkx.com^
 ||nhaphosaithanh.com^
 ||nhc.com^
+||nhlrzf.icu^
 ||nhlstenden.com^
 ||nhn-commerce.com^
 ||nhnehvef.icu^
@@ -20936,7 +20923,6 @@ yydstxt*.com/js/html
 ||pocuk.com^
 ||pocustrack.com^
 ||podbex.com^
-||podcastaddict.com^
 ||podfollow.com^
 ||podparadise.com^
 ||poeticous.com^
@@ -21073,7 +21059,6 @@ yydstxt*.com/js/html
 ||potatosa6.com^
 ||pow46ru6c.com^
 ||powell.com^
-||powerade.com^
 ||powered-by-nitrosell.com^
 ||poweredbygps.com^
 ||powergety.com^
@@ -21153,7 +21138,6 @@ yydstxt*.com/js/html
 ||prettyvirgin.com/images/banners/
 ||prettyvirgin.com/js/show.html
 ||preuquqre.com^
-||preventionweb.net^
 ||prfer1nv.xyz^
 ||price.com.hk/dfp_price.php?
 ||price.com.hk/ec-discuss-widget.php
@@ -21545,8 +21529,6 @@ yydstxt*.com/js/html
 ||qiandao.com^
 ||qiandi88.cn^
 ||qianp.com^
-||qiantucdn.com^
-||qianwen.com^
 ||qianzhan.com/qiye/images/qcm_
 ||qidian.com/images/990x40_
 ||qidou.com^$third-party
@@ -26567,6 +26549,7 @@ yydstxt*.com/js/html
 ||viewbook.com^
 ||vigert.com^
 ||vigloo.com^
+||vigyn4gpx.com^
 ||viibjsui.com^
 ||viicmkru.com^
 ||viidoqay.com^
@@ -27494,7 +27477,6 @@ yydstxt*.com/js/html
 ||wsichkidolu.com^
 ||wsls.com^
 ||wsnxw6ihs.com^
-||wsop.com^
 ||wsowk2940637fafa.com^
 ||wssolver.net^
 ||wstx.com/api.php?mod=ad&
@@ -27524,7 +27506,6 @@ yydstxt*.com/js/html
 ||wud2g55ffy.com^
 ||wudizuqiu.com/fy
 ||wudizuqiu.com/img/dasai8/ybbj.png
-||wuerth-industrie.com^
 ||wueyninj7r.com^
 ||wugrorud.com^
 ||wuhaolin.cn/c/ls
@@ -27556,11 +27537,9 @@ yydstxt*.com/js/html
 ||wvepppysvo.com^
 ||wvmxk4yu.com^
 ||wvrp.cn^
-||wvstateparks.com^
 ||wvzd.cn^
 ||ww2-nortorrent.com^
 ||ww2-zktorrent.com^
-||ww2db.com^
 ||ww3-mania-torrent.com^
 ||ww7259.com^
 ||ww7814.win/pic
@@ -28099,11 +28078,6 @@ yydstxt*.com/js/html
 ||xve4ww01l.com^
 ||xvgblockexplorer.com^
 ||xvhttu3c9.com^
-||xvideos-bg.com^
-||xvideos-fi.com^
-||xvideos-ja.com^
-||xvideos-mt.com^
-||xvideos-tr.com^
 ||xvideos07.com^
 ||xvideos2025.com^
 ||xvideossexo.net^
