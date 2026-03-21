@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202603211407
-! Last modified: 21 Mar 2026 14:07 UTC
+! Version: 202603211934
+! Last modified: 21 Mar 2026 19:34 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -8464,6 +8464,7 @@ yydstxt*.com/js/html
 ||cizuhy.com^
 ||cj81gcvm2.com^
 ||cj99fbulb4.com^
+||cja0m4iew.com^
 ||cjcygl.com^
 ||cjdby.net/public/home/images/advimg/
 ||cjiilmfmjf.net^
