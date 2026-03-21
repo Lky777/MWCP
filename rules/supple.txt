@@ -6,9 +6,11 @@
 @@||eporner.com^$~third-party,
 
 ! .A1
+||fatalfear.pro^
+||magsrv.com^
+||muddyclock.pro^
 
 ! .B1
-||157.185.146.120^
 ||adsco.re^
 ||adspyglass.net^
 ||adsrvr.org^
@@ -18,17 +20,14 @@
 ||cdnboostcache.com^
 ||clarity.ms^
 ||ddav.tv^
-||dongojyousan.com^
 ||eroadvertising.com^
-||fatalfear.pro^
 ||jads.co^
-||magsrv.com^
 ||mdynieu.com^
-||muddyclock.pro^
 ||popin.tw^
 ||popin.cc^
 ||simpli.fi^
 ||tagtoo.co^
+||tsyndicate.com^
 ||uslook.top^
 ||xchina.click^
 ||xlviirdr.com^
@@ -73,10 +72,6 @@
 ||ubas.setn.com^
 ||mcs.snssdk.com^
 ||44xoxo1842.spankbang.com^
-||cdn.tsyndicate.com^
-||pxl.tsyndicate.com^
-||pxl-eu.tsyndicate.com^
-||svacdn.tsyndicate.com^
 ||mcs.volceapplog.com^
 ||static-sg.winudf.com^
 ||rtb-2.xgroovy.com^
@@ -94,8 +89,6 @@
 ||p0.meituan.net/csc/
 ||playhubconnect.com/bn/
 ||p3-sign.toutiaoimg.com/tos-cn-i-eyfl5e3fp8/
-||tsyndicate.com/do2/
-||tsyndicate.com/iframes2/
 
 ! .General Blocking
 *$ping,third-party
@@ -212,6 +205,7 @@ mdttz.com###gridAdvoOerlay
 kuaidi100.com##.index__download-box
 sav123.com##.c-ad-pop
 sina.cn###float-btn
+sina.cn##.m-guss-caijing
 smzdm.com##.damo-footer-open-app
 sohu.com###CallAppContainer
 toutiao.com##.m-bottom-container
