@@ -191,6 +191,7 @@ _14c14p14v.js
 ##.block-overlay
 ##.van-overlay
 ##.van-popup--center
+51cg1.com###adFloat
 91bl.es###popup-mask
 a2zapk.io###modalpop
 duckduckgo.com##.js-atb-banner
@@ -202,6 +203,9 @@ m.58moto.com##.motorfans-download-app
 m.happymh.com###layui-m-layer0
 mdttz.com###gridAdvContent
 mdttz.com###gridAdvoOerlay
+mdttz.com###overlay
+mdttz.com##.closeBtn
+mdttz.com##.popImage
 kuaidi100.com##.index__download-box
 sav123.com##.c-ad-pop
 sina.cn###float-btn
