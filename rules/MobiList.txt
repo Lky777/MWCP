@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202603221935
-! Last modified: 22 Mar 2026 19:35 UTC
+! Version: 202603231535
+! Last modified: 23 Mar 2026 15:35 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -999,6 +999,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /zz/wenzi2.txt
 /zz/zuoxia2.txt
 /zzzz/assets/js/common/discor_list.js
+51cg1.com###adFloat
 91bl.es###popup-mask
 ://*.tv/ad/$domain=~moviedj.tv
 ://*.z*.xyz/$object,third-party
@@ -2100,6 +2101,9 @@ m.58moto.com##.motorfans-download-app
 m.happymh.com###layui-m-layer0
 mdttz.com###gridAdvContent
 mdttz.com###gridAdvoOerlay
+mdttz.com###overlay
+mdttz.com##.closeBtn
+mdttz.com##.popImage
 meijutt.*/js/pcjs/
 sav123.com##.c-ad-pop
 sina.cn###float-btn
@@ -3069,6 +3073,7 @@ yydstxt*.com/js/html
 ||3v9i5sabet2.xyz^
 ||3vnofjidlv.com^
 ||3wk.cc/images/*.gif
+||3x1ry6we9.com^
 ||3x5h6x434.com^
 ||3x8zapzon.com^
 ||3xeo00tqz.com^
@@ -3201,6 +3206,7 @@ yydstxt*.com/js/html
 ||4ufutzmihl.com^
 ||4v6a7i3dkz.com^
 ||4vid.top^
+||4w3ol467n.com^
 ||4wbvq8yl2.com^
 ||4wg67b9vb.com^
 ||4wmiuiyd70.com^
@@ -3737,6 +3743,7 @@ yydstxt*.com/js/html
 ||7p5ruxflv0.com^
 ||7post.com^
 ||7qxv9s5q16.com^
+||7r4jkbpol.com^
 ||7rag9q1on.com^
 ||7ryx7ph5y.com^
 ||7s8z7w24u.com^
@@ -4897,6 +4904,7 @@ yydstxt*.com/js/html
 ||aeinkailrupe.com^
 ||aeisqs.icu^
 ||aenhancers.com^
+||aeqfjsa.icu^
 ||aeqfuyc.com^
 ||aeratechnology.com^
 ||aeriumanalytics.com^
@@ -9279,6 +9287,7 @@ yydstxt*.com/js/html
 ||cuutiethm.com^
 ||cv666.net^
 ||cvp.com^
+||cvpl9qbz6.com^
 ||cw-wisper.com^
 ||cwalsmtyrs.com^
 ||cwcglobal.com^
@@ -12757,6 +12766,7 @@ yydstxt*.com/js/html
 ||gk99.com/static/js/a-d-sys.js
 ||gkcbtszwtw.net^
 ||gkgktibd.com^
+||gkhergik.com^
 ||gkuresx.com^
 ||gkvrdf.com^
 ||gkzhan.com^
@@ -13744,10 +13754,12 @@ yydstxt*.com/js/html
 ||hh04041aoik.com^
 ||hh04050aoik.com^
 ||hhanclub.net^
+||hhba0*kdh.com^$script,xmlhttprequest,third-party
 ||hhba03201kdh.com^
 ||hhba03210kdh.com^
 ||hhba03211kdh.com^
 ||hhba03221kdh.com^
+||hhba03230kdh.com^
 ||hhbet777.com^
 ||hhbkg.com^
 ||hhdus.com^
@@ -21232,6 +21244,7 @@ yydstxt*.com/js/html
 ||profipatch.com^
 ||profitablebutton.com^
 ||profitablecpmrate.com^
+||profitablecpmratenetwork.com^
 ||profitabledisplaycontent.com^
 ||profitableratecpm.com^
 ||proflamps.com^
@@ -21498,6 +21511,7 @@ yydstxt*.com/js/html
 ||qcogmyhkd.com^
 ||qconv.com^
 ||qcra.cn^
+||qcrohnef.com^
 ||qcs6kxekav.com^
 ||qcuncolm.com^
 ||qcvf.ifeng.com^
@@ -22737,6 +22751,7 @@ yydstxt*.com/js/html
 ||rzdss.com^
 ||rzjdsm7tgz.com^
 ||rzpsrl.cn/imc/*.gif
+||rzxhrl.icu^
 ||s-darts.com^
 ||s-msn.com/portal/js/vendor/manto/
 ||s-msn.com/portal/xiatui.js
@@ -26100,6 +26115,7 @@ yydstxt*.com/js/html
 ||undernautical.com^
 ||understandinstalledalfred.com^
 ||undertow52.top^
+||undertow88.com^
 ||undertowgames.com^
 ||undm.qibulo.com^
 ||unecne.com/wp-content/uploads/*ad-
@@ -28784,6 +28800,7 @@ yydstxt*.com/js/html
 ||z60ft9y8lj.com^
 ||z6faiv46r.com^
 ||z7m4rb.com^
+||z84dbowgc.com^
 ||z90win.com^
 ||z9dy1kq9wv.com^
 ||z9sab7vr0b.com^
