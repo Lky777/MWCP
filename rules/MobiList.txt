@@ -1,11 +1,12 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202603241955
-! Last modified: 24 Mar 2026 19:55 UTC
+! Version: 202603242050
+! Last modified: 24 Mar 2026 20:50 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
+###adFloat
 ##.block-overlay
 ##.van-overlay
 ##.van-popup--center
@@ -284,6 +285,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /2016v2/js/adm2.js
 /2048/aps/*_pc.js
 /2me3/true.js
+/300-250.gif
 /3dmgamegzh.png
 /404.safedog.cn/sitedog_stat_new.html
 /500ad/
@@ -999,7 +1001,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /zz/wenzi2.txt
 /zz/zuoxia2.txt
 /zzzz/assets/js/common/discor_list.js
-51cg1.com###adFloat
 91bl.es###popup-mask
 ://*.tv/ad/$domain=~moviedj.tv
 ://*.z*.xyz/$object,third-party
