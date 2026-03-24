@@ -165,6 +165,7 @@ _14c14p14v.js
 .wiki/assets/1/banner.png
 .wiki/assets/1/logo.png
 /1200-60.gif
+/300-250.gif
 /960-120.gif
 /960-60.gif
 /960x60-1.gif
@@ -188,10 +189,10 @@ _14c14p14v.js
 ||rzpsrl.cn/imc/*.gif
 
 ! ========== Ele blocking ==========
+###adFloat
 ##.block-overlay
 ##.van-overlay
 ##.van-popup--center
-51cg1.com###adFloat
 91bl.es###popup-mask
 a2zapk.io###modalpop
 duckduckgo.com##.js-atb-banner
