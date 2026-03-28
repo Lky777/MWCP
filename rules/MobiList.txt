@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202603280834
-! Last modified: 28 Mar 2026 08:34 UTC
+! Version: 202603281600
+! Last modified: 28 Mar 2026 16:00 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2100,6 +2100,7 @@ juejin.cn##.open-button
 kuaidi100.com##.index__download-box
 m.58moto.com##.motorfans-download-app
 m.happymh.com###layui-m-layer0
+m.jiakaobaodian.com##.com-layout-footer
 mdttz.com###gridAdvContent
 mdttz.com###gridAdvoOerlay
 mdttz.com###overlay
@@ -5108,6 +5109,7 @@ yydstxt*.com/js/html
 ||aiiding.com^
 ||aiir.com^
 ||aikcdn.com^
+||aikulphueu.com^
 ||aili.com^$third-party
 ||ailisen2026.com^
 ||ailivechatweb.com^
@@ -9102,6 +9104,7 @@ yydstxt*.com/js/html
 ||cnyw.net/autoloader.js
 ||cnzz.cn/badu.gif
 ||cnzz.cn/ssp_
+||cnzz.com^
 ||cnzz.trafficmanager.net^
 ||cnzzla.com/public/scripts/money.js
 ||coacht.com^
@@ -12061,6 +12064,7 @@ yydstxt*.com/js/html
 ||ferruleloimic.com^
 ||fertilebusiness.com^
 ||festhome.com^
+||fet20kdo93.com^
 ||fetchapro.com^
 ||fetishpapa.com^
 ||fevrvd.top^
@@ -14544,6 +14548,7 @@ yydstxt*.com/js/html
 ||hluraiwoy.com^
 ||hlxgq2940637fafa.com^
 ||hm.baidu.com/mkt.js
+||hm.baidu.com^
 ||hm9o5ri-9ngfm.com^
 ||hmageo.com^
 ||hmall.com^
@@ -16145,7 +16150,6 @@ yydstxt*.com/js/html
 ||jia6983.xyz^
 ||jiajiaedu.com^
 ||jiajuka.com^
-||jiakaobaodian.com^
 ||jialingmm.net/dm/tj.js
 ||jialingmm.net/img/gdw.jpg
 ||jialingmm.net/tj.js
