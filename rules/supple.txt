@@ -121,7 +121,6 @@ v=2&adZones
 |https://www.ycymh.com/poster/zj-
 /popup/adblock/promo/banner/
 .cc/apijs/image/
-.com/addon/ads/img/
 .com/api/models/
 .com/static/image/
 .com/static/video/bn/
@@ -164,6 +163,7 @@ _14c14p14v.js
 .tv/assets/ad/ad.gif
 .wiki/assets/1/banner.png
 .wiki/assets/1/logo.png
+/ads/$image
 /1200-60.gif
 /300-250.gif
 /960-120.gif
