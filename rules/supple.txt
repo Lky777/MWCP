@@ -45,6 +45,7 @@
 ||script-center.bad.news^
 ||banti.baidu.com^
 ||h2tcbox.baidu.com^
+||hm.baidu.com^
 ||hmcdn.baidu.com^
 ||miaowu.baidu.com^
 ||dl59007.bj.bcebos.com^
@@ -202,6 +203,7 @@ hjziyan.wiki###popup-mask
 juejin.cn##.open-button
 m.58moto.com##.motorfans-download-app
 m.happymh.com###layui-m-layer0
+m.jiakaobaodian.com##.com-layout-footer
 mdttz.com###gridAdvContent
 mdttz.com###gridAdvoOerlay
 mdttz.com###overlay
