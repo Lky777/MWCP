@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202603271947
-! Last modified: 27 Mar 2026 19:47 UTC
+! Version: 202603280834
+! Last modified: 28 Mar 2026 08:34 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -71,7 +71,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/Scripts/idleAD.js
 .com/a_d/
 .com/addnew.php
-.com/addon/ads/img/
 .com/adgpt.js
 .com/adv1/?q=
 .com/api/models/
@@ -342,6 +341,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /adpro.js
 /adpuba/
 /adpv?cn=
+/ads/$image
 /adscpc/
 /adsfactor_ab
 /adtmp/
@@ -6355,6 +6355,7 @@ yydstxt*.com/js/html
 ||b82q168jgj.com^
 ||b8b4ix7bj.com^
 ||b8mnb9ke9z.com^
+||b8o9c4s42l.com^
 ||b9jda4zig.com^
 ||baadmay.com^
 ||baatlivelive.com^
@@ -8198,6 +8199,7 @@ yydstxt*.com/js/html
 ||catalystplus.cn^
 ||catapultcms.com^
 ||cataract40.com^
+||cataract77.top^
 ||catbalou.net^
 ||catbox.moe/bb5wdv.jpg
 ||catcat321.com^
@@ -10302,6 +10304,7 @@ yydstxt*.com/js/html
 ||dioimg.net/images/*.gif
 ||dioimg.net^$domain=18board.com|18board.net|18p2p.com
 ||diotti.com^
+||diouidlf98.com^
 ||dipgo.net^
 ||dippindaisys.com^
 ||direapps.com^
@@ -11783,6 +11786,7 @@ yydstxt*.com/js/html
 ||f16px.com^
 ||f17hdccbws.com^
 ||f1tcdn.net^
+||f20hgvkx7r.com^
 ||f20r1b13iw.com^
 ||f2l5n1o1d2e4o.com^
 ||f3556fm3o524m9.com^
@@ -12845,6 +12849,7 @@ yydstxt*.com/js/html
 ||g59xka0q.com^
 ||g64njjhyh.com^
 ||g66ryy88z.com^
+||g6x2uvza37.com^
 ||g874v3fpi3s1.com^
 ||g8hi6r3odr.com^
 ||g8hri3xa.com^
@@ -13908,6 +13913,7 @@ yydstxt*.com/js/html
 ||gviudclrb.com^
 ||gvje.cn^
 ||gvodieta.com^
+||gvrugeri.com^
 ||gvweokuwxz.net^
 ||gw2treasures.com^
 ||gw7jpuouik.com^
@@ -15941,6 +15947,7 @@ yydstxt*.com/js/html
 ||j67z85nx4.com^
 ||j694fx3bp.com^
 ||j6gdj4hh6.com^
+||j6gi9jgjpb.com^
 ||j6y2twzb.com^
 ||j7kv55pr70.com^
 ||j7o.com^
@@ -21987,6 +21994,7 @@ yydstxt*.com/js/html
 ||pocuk.com^
 ||pocustrack.com^
 ||pod789.com^
+||podcxz.icu^
 ||podfollow.com^
 ||podparadise.com^
 ||podsvojostreho.net^
@@ -27743,6 +27751,7 @@ yydstxt*.com/js/html
 ||vcg.com^
 ||vcjzjnef.icu^
 ||vclaricdn.top^
+||vclunl.icu^
 ||vcz9kuhac.com^
 ||vd21modts.com^
 ||vdcasino1315.com^
@@ -29192,6 +29201,7 @@ yydstxt*.com/js/html
 ||xgametop.com^
 ||xghylt.com/api.php?mod=ad&adid=
 ||xgiftonline.com^
+||xgilfhwxre.com^
 ||xgnode2.com^
 ||xgo-img.com.cn^
 ||xgo.com.cn/pv.js
@@ -30013,6 +30023,7 @@ yydstxt*.com/js/html
 ||yp0loy5lcl.com^
 ||ypaelectronic.com^
 ||yperkoevc.com^
+||ypirlqn.icu^
 ||ypojie.com/wp-content/uploads/*.js
 ||yptlpgsrmg.net^
 ||yptqys.tianqistatic.com^
