@@ -7,8 +7,10 @@
 
 ! .A1
 ||fatalfear.pro^
+||ks.ferlytc.com^
 ||magsrv.com^
 ||muddyclock.pro^
+||umini.shujupie.com^
 
 ! .B1
 ||adsco.re^
@@ -38,6 +40,8 @@
 ||ad.52av.one^
 ||static.addtoany.com^
 ||ip385154052.ahcdn.com^
+||fourier.alibaba.com^
+||arms-retcode.aliyuncs.com^
 ||oss-accelerate.aliyuncs.com^$third-party
 ||oss-cn-hangzhou.aliyuncs.com^$third-party
 ||oss-cn-hongkong.aliyuncs.com^$third-party
