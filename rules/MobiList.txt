@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202603301958
-! Last modified: 30 Mar 2026 19:58 UTC
+! Version: 202603311957
+! Last modified: 31 Mar 2026 19:57 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2910,6 +2910,7 @@ yydstxt*.com/js/html
 ||315che.com/tree/ad.js
 ||317198135.xyz^
 ||31fq.com^$third-party
+||31io8wshq.com^
 ||31vcd.com^*.js
 ||32.huanqiu.com^
 ||320kbps.net^
@@ -3521,6 +3522,7 @@ yydstxt*.com/js/html
 ||5vdd.com/mobile.jpg
 ||5vju.net^
 ||5w31xv1a2.com^
+||5wzew9jht.com^
 ||5x17591y3b.com^
 ||5xdmw.com/tb.jpg
 ||5xvideos.com^
@@ -6384,6 +6386,7 @@ yydstxt*.com/js/html
 ||b40d52efb7.com^
 ||b4641y3dw.com^
 ||b477.life^$popup,third-party
+||b4afsapz0.com^
 ||b4dg.life/love/
 ||b4q2r9.com^
 ||b5089qotto.com^
@@ -7728,6 +7731,7 @@ yydstxt*.com/js/html
 ||btpian.com/static/wenquan.js
 ||btracker.top^
 ||btrackhub.com^
+||btreelmulq.com^
 ||btrzmbdurg.net^
 ||btschool.net/images/*/hdygr
 ||bttrack.com^
@@ -17643,6 +17647,7 @@ yydstxt*.com/js/html
 ||ksixmobile.com^
 ||ksmfpupp.com^
 ||kspaceproject.com^
+||ksr6uu1mk.com^
 ||ksro.cn^
 ||ksyunjiasu.cn^
 ||kt51.com/images/kt51.gif
@@ -22975,6 +22980,7 @@ yydstxt*.com/js/html
 ||ps557.com/link/
 ||ps8318.com^
 ||ps886.us/js/*.js
+||psa1xoeve.com^
 ||psakt.net^
 ||pscave.com^
 ||pshbz.com^
@@ -23080,6 +23086,7 @@ yydstxt*.com/js/html
 ||pv4b.com^$popup
 ||pv966.us/js/tw.js
 ||pvgcyyh.icu^
+||pvhbhnqip.com^
 ||pvjjg.cn^
 ||pvkc.cn^
 ||pvlimitless.com^
@@ -24012,6 +24019,7 @@ yydstxt*.com/js/html
 ||reviverootshealth.com^
 ||revk.cn^
 ||revngo.com^
+||revocation30.com^
 ||revolutionmacro.com^
 ||revparts.net^
 ||revrtb.com^
@@ -24144,6 +24152,7 @@ yydstxt*.com/js/html
 ||rkjmhv2lvh.com^
 ||rkoi.cn^
 ||rkozoima.com^
+||rkrhfl.icu^
 ||rkv1.com^
 ||rkxy.com.cn/js/text_
 ||rl1vypwyd2.com^
@@ -24517,6 +24526,7 @@ yydstxt*.com/js/html
 ||s2c5n1o1d2e4.com^
 ||s2dln6sdu.com^
 ||s2f3c4ab.com^
+||s2plb194m.com^
 ||s2stracking.com^
 ||s2tu.com/images/*.gif
 ||s3.ap-east-1.amazonaws.com^$third-party
@@ -26374,6 +26384,7 @@ yydstxt*.com/js/html
 ||svetikya.com^
 ||svhk4bt874.com^
 ||svhw.cn^
+||svi7vnxcv.com^
 ||svip-jidun.com^
 ||svip-uqiusports.com^
 ||svnf.cn^
@@ -27337,6 +27348,7 @@ yydstxt*.com/js/html
 ||tnpvzmbea.com^
 ||tnsxxc.com^
 ||tnvkb6bcnf.com^
+||tnwotuqey.com^
 ||tnwuami.top^
 ||tnwucni.top^
 ||tnze.cn^
@@ -28105,6 +28117,7 @@ yydstxt*.com/js/html
 ||ueaeahze.com^
 ||uedas.$domain=qdmm.com|qdwenxue.com|qidian.com
 ||uektedsni.com^
+||uemurnl.com^
 ||uenqeotul.com^
 ||ueqo.cn^
 ||ueqy.cn^
@@ -29612,6 +29625,7 @@ yydstxt*.com/js/html
 ||wmykyw.icu^
 ||wnacammull.com^
 ||wnacg.com/game/
+||wnacg.com/game/$image,rewrite=abp-resource:1x1-transparent-gif,domain=wnacg.com
 ||wnacg.com/themes/mo/images/domain.js
 ||wnacg.com/themes/mo/images/int_bg.png
 ||wneia.iaskhot.com^
@@ -30517,6 +30531,7 @@ yydstxt*.com/js/html
 ||xywy.com/zhixing/
 ||xyxza.com^
 ||xyydnode.com^
+||xyzcvx.icu^
 ||xz7809.com^
 ||xz7829.com^
 ||xzji.com/data/block_js/softshow_
