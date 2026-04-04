@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202604031949
-! Last modified: 03 Apr 2026 19:49 UTC
+! Version: 202604041259
+! Last modified: 04 Apr 2026 12:59 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -342,6 +342,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /adpuba/
 /adpv?cn=
 /ads/$image
+/adsbygoogle.js?client=
 /adscpc/
 /adsfactor_ab
 /adtmp/
@@ -1001,6 +1002,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /zz/wenzi2.txt
 /zz/zuoxia2.txt
 /zzzz/assets/js/common/discor_list.js
+51cg1.com##.addbox
 91bl.es###popup-mask
 ://*.tv/ad/$domain=~moviedj.tv
 ://*.z*.xyz/$object,third-party
@@ -2100,6 +2102,7 @@ juejin.cn##.open-button
 kuaidi100.com##.index__download-box
 m.58moto.com##.motorfans-download-app
 m.happymh.com###layui-m-layer0
+m.jiakaobaodian.com##.com-down-dv
 m.jiakaobaodian.com##.com-layout-footer
 mdttz.com###gridAdvContent
 mdttz.com###gridAdvoOerlay
@@ -2629,6 +2632,7 @@ yydstxt*.com/js/html
 ||1gqd0o687z.com^
 ||1hhwyb4vl.com^
 ||1hmklj60i.com^
+||1hotu9uyll.com^
 ||1j2sv9a1n.com^
 ||1jlp1qbgu.com^
 ||1jzocofm4.com^
@@ -5062,6 +5066,7 @@ yydstxt*.com/js/html
 ||aguo.com^$third-party
 ||ah.sina.com.cn/iframe/
 ||ah7907.com^
+||ahacdn.me^
 ||ahevds.com^
 ||ahfaihethh.com^
 ||ahgame.com/js/new_ad.js
@@ -10934,6 +10939,7 @@ yydstxt*.com/js/html
 ||ds.ruanwengfa.com^
 ||ds1.kaijia.com^
 ||ds4f5sd546fs5d4f.com^
+||ds8k3y2d5n.com^
 ||dsafety.com^
 ||dsail-tech.com^
 ||dsamfe.com^
@@ -12246,6 +12252,7 @@ yydstxt*.com/js/html
 ||fbnbankrdc.com^
 ||fbnholdings.com^
 ||fbodaily.com^
+||fbolloiwd.com^
 ||fbq5tlk1.com^
 ||fbraaphra.com^
 ||fbspider.com^
@@ -15474,6 +15481,7 @@ yydstxt*.com/js/html
 ||i-sgcm.com^
 ||i-y-7-n.com^
 ||i.alipayobjects.com/i/ecmng/$image,domain=my.alipay.com
+||i06s7yrhn1.com^
 ||i0y0i9vz0.com^
 ||i12het785.com^
 ||i14laze0.xyz^
@@ -15486,6 +15494,7 @@ yydstxt*.com/js/html
 ||i31a79g.com^
 ||i322.com/ad_avshow/
 ||i3j6h7j9cj.com^
+||i3l7wf.com^
 ||i3z.cn^$third-party
 ||i3zh.com/wp-content/plugins/cm-pop-up-banners/
 ||i4320rdrta.com^
@@ -17671,6 +17680,7 @@ yydstxt*.com/js/html
 ||kt51.com/wz.jpg
 ||ktclubs.com^
 ||ktfmk4utug.com^
+||kthul22k2z.com^
 ||kto-group.com^
 ||ktrackers.com^
 ||ktvc8.com^
@@ -18614,6 +18624,7 @@ yydstxt*.com/js/html
 ||ltn.com.tw/js/ad_door.js
 ||ltrb.cn^
 ||ltrs8bv54p.com^
+||ltruhowa.com^
 ||ltuzz346m.com^
 ||ltxtech.com^
 ||lu.sogou.com^
@@ -19577,6 +19588,7 @@ yydstxt*.com/js/html
 ||mintmanga.com^
 ||minube.net^
 ||minute-ly.com^
+||minutes20.com^
 ||mipcdn.com^*/mip-*ad-
 ||mipcdn.com^*/mip-*ad.
 ||mipengine.baidu.com/common?
@@ -21072,6 +21084,7 @@ yydstxt*.com/js/html
 ||nwholf.icu^
 ||nwq7zxf6jt.com^
 ||nws5ay4cr2.com^
+||nwtg5ywz2j.com^
 ||nwxs5.com/js/
 ||nx2jt4p4r.com^
 ||nx2ucbzw1.com^
@@ -21860,6 +21873,7 @@ yydstxt*.com/js/html
 ||palaciodaarte.com^
 ||paladinpos.com^
 ||palaisdesthes.com^
+||palatable-soft.com^
 ||palmettopark.com^
 ||palscity.com^
 ||paminfra.com^
@@ -23033,6 +23047,7 @@ yydstxt*.com/js/html
 ||ptfezp.com^
 ||ptfish.com/*/ad$image,object
 ||ptga.cn^
+||pthaktierl.com^
 ||pthrumeath.com^
 ||ptindirectory.com^
 ||ptju.cn^
@@ -27974,6 +27989,7 @@ yydstxt*.com/js/html
 ||twstats.com^
 ||twt.com^
 ||twunbbs.com/images/
+||twvsdn.icu^
 ||twzui6.com^
 ||tx99y.net^
 ||txahz.com/static/image/tp/
@@ -28170,6 +28186,7 @@ yydstxt*.com/js/html
 ||uftokromta.com^
 ||ufxs.cn^
 ||ug242sm3sm.com^
+||ug54oqjpqq.com^
 ||ugc-gaming.net^
 ||uge-one.com^
 ||uggrianvo.com^
@@ -28797,6 +28814,7 @@ yydstxt*.com/js/html
 ||villa-bali.com^
 ||villassaraivaepereira.com^
 ||vinahanin.net^
+||vinanb.icu^
 ||vinatis.com^
 ||vinfastbienhoa.com^
 ||vininspect.com^
@@ -31232,6 +31250,7 @@ yydstxt*.com/js/html
 ||zdcj.net^*/ad
 ||zddsnuxow.icu^
 ||zdface.com^
+||zdg2g7v5xe.com^
 ||zdh10230lo.com^
 ||zdh10231lo.com^
 ||zdh10240lo.com^
