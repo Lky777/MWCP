@@ -8,8 +8,8 @@
 ! .A1
 ||fatalfear.pro^
 ||ks.ferlytc.com^
-||magsrv.com^
 ||muddyclock.pro^
+||palatable-soft.com^
 ||umini.shujupie.com^
 
 ! .B1
@@ -17,6 +17,7 @@
 ||adspyglass.net^
 ||adsrvr.org^
 ||advertiserurl.com^
+||ahacdn.me^
 ||amung.us^
 ||aottercdn.com^
 ||cdn.bootcdn.net^
@@ -25,6 +26,7 @@
 ||ddav.tv^
 ||eroadvertising.com^
 ||jads.co^
+||magsrv.com^
 ||mdynieu.com^
 ||popin.tw^
 ||popin.cc^
@@ -148,6 +150,7 @@ v=2&adZones
 .com/static/v2/mip-stats-baidu/mip-stats-baidu.js
 .com/template/jable/ads/bottom.js
 /ad.js
+/adsbygoogle.js?client=
 /api/eventTracking/batchReport.json
 /api/eventTracking/report.json
 /frontend-gtag.min.js?
@@ -199,6 +202,7 @@ _14c14p14v.js
 ##.block-overlay
 ##.van-overlay
 ##.van-popup--center
+51cg1.com##.addbox
 91bl.es###popup-mask
 a2zapk.io###modalpop
 duckduckgo.com##.js-atb-banner
@@ -208,6 +212,7 @@ hjziyan.wiki###popup-mask
 juejin.cn##.open-button
 m.58moto.com##.motorfans-download-app
 m.happymh.com###layui-m-layer0
+m.jiakaobaodian.com##.com-down-dv
 m.jiakaobaodian.com##.com-layout-footer
 mdttz.com###gridAdvContent
 mdttz.com###gridAdvoOerlay
