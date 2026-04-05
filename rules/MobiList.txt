@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202604041941
-! Last modified: 04 Apr 2026 19:41 UTC
+! Version: 202604051945
+! Last modified: 05 Apr 2026 19:45 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2879,6 +2879,7 @@ yydstxt*.com/js/html
 ||2lj9n8sz0w.com^
 ||2lzg9mqzw.com^
 ||2mdn.net^
+||2nl6sgd9c.com^
 ||2nvd5j7iv0.com^
 ||2omfz9ygz2.com^
 ||2osq127yy.com^
@@ -7271,6 +7272,7 @@ yydstxt*.com/js/html
 ||bj-tencentclb.net^
 ||bj003.com^
 ||bj5iodzgyi.com^
+||bj9zvb5ih.com^
 ||bjcathay.com/s?z=
 ||bjcerkalx.com^
 ||bjhockey.org/public/pc/video/test.mp4
@@ -9913,6 +9915,7 @@ yydstxt*.com/js/html
 ||d5.sina.com.cn^$object,script
 ||d56p.com/love/
 ||d5xogy0qi.com^
+||d5zkrmttu.com^
 ||d6.mobaders.com^
 ||d67p.com/love/
 ||d6gsujd8v.com^
@@ -13164,6 +13167,7 @@ yydstxt*.com/js/html
 ||fznidd.top^
 ||fzpchome.com/txt/$script
 ||fzruzulad.com^
+||fzu7rg.site^
 ||fzxiaoshuo.com/source/
 ||g-6-k-b.com^
 ||g-h-i-0.com^
@@ -15721,6 +15725,7 @@ yydstxt*.com/js/html
 ||ihei5.com^
 ||ihgm.cn^
 ||ihhmh.com/mg/show
+||ihhuyvugv.com^
 ||ihr360.com^
 ||ihuiben.com^
 ||ii1.chajiaotong.com^
@@ -17144,6 +17149,7 @@ yydstxt*.com/js/html
 ||jyfw.cn/nav/cf_
 ||jygdb.com^
 ||jyhmgf.com^
+||jyiwnb82b.com^
 ||jynv.cn^
 ||jyotihandloom.com^
 ||jyrd.com/statics/*/js/baizhu/
@@ -18063,6 +18069,7 @@ yydstxt*.com/js/html
 ||legami.com^
 ||legendary-vpn.com^
 ||legimi.com^
+||legislator85.top^
 ||legitface.com^
 ||legitnerds.com^
 ||legora.com^
@@ -19932,6 +19939,7 @@ yydstxt*.com/js/html
 ||mp4ba.com^*/js/head.js
 ||mp4ba.net/static/js/mp4ba.js
 ||mp65va7y1.com^
+||mp7sblfkx.com^
 ||mp83fkx.cn^
 ||mp999.net/wp-content/uploads/*zgg
 ||mpanchang.com^
@@ -20698,6 +20706,7 @@ yydstxt*.com/js/html
 ||nfmovies.com/static/*.jpg
 ||nfmovies.com/static/210203.png
 ||nfrit.com^
+||nfrvficeao.com^
 ||nftfdj.icu^
 ||nfts2me.com^
 ||nftxfd.top^
@@ -24534,6 +24543,7 @@ yydstxt*.com/js/html
 ||rzku.com^
 ||rzpsrl.cn/imc/*.gif
 ||rzqcjrf.cn^
+||rzrnpx.icu^
 ||rzxhrl.icu^
 ||s-darts.com^
 ||s-msn.com/portal/js/vendor/manto/
@@ -27366,6 +27376,7 @@ yydstxt*.com/js/html
 ||tlivesdkconfig.com^
 ||tliveupload.com^
 ||tljrvn.icu^
+||tljsxt.icu^
 ||tlq8ufqddj.com^
 ||tlula507.com/public/js/dui
 ||tlula507.com/public/js/float
@@ -28186,6 +28197,7 @@ yydstxt*.com/js/html
 ||uftokromta.com^
 ||ufxs.cn^
 ||ug242sm3sm.com^
+||ug4x1tagz.com^
 ||ug54oqjpqq.com^
 ||ugc-gaming.net^
 ||uge-one.com^
@@ -29924,6 +29936,7 @@ yydstxt*.com/js/html
 ||wwzw.cc/img/
 ||wx.sina.com.cn/iframe/pdps/
 ||wx4.top^
+||wx6hczwhh.com^
 ||wxc.cc/scripts/gg.
 ||wxdsdjx.com^
 ||wxfdmri.xyz^
