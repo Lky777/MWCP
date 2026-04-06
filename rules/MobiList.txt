@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202604051945
-! Last modified: 05 Apr 2026 19:45 UTC
+! Version: 202604061352
+! Last modified: 06 Apr 2026 13:52 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -1002,6 +1002,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /zz/wenzi2.txt
 /zz/zuoxia2.txt
 /zzzz/assets/js/common/discor_list.js
+18porn.cc###showAdsBeforePlay
 51cg1.com##.addbox
 91bl.es###popup-mask
 ://*.tv/ad/$domain=~moviedj.tv
@@ -2374,7 +2375,6 @@ yydstxt*.com/js/html
 ||1010pic.com/static/js/allpc.js
 ||101559001.xyz^
 ||1017.cn^
-||101hotels.com^
 ||1024-terabox.com^
 ||1024down.com/images/*.gif
 ||1024mzs.pw^$popup,third-party
@@ -2415,7 +2415,6 @@ yydstxt*.com/js/html
 ||115mm.com/js/
 ||11665.com^
 ||116xs.com/js/backbone.js
-||117trip.com^
 ||1188.com^$third-party
 ||119xiazai.com^$subdocument
 ||11bxwx.com^
@@ -2563,7 +2562,6 @@ yydstxt*.com/js/html
 ||17ok.com/focus/3j_right_jdt.shtml
 ||17pytzy5p.com^
 ||17ryi4j3qb.com^
-||17thshard.com^
 ||17u1u.com^
 ||17yy.com/style/ifra_ad/
 ||17za.com^
@@ -2639,6 +2637,7 @@ yydstxt*.com/js/html
 ||1k-cdn.com^
 ||1k8j786ks5.com^
 ||1kb4atu6x.com^
+||1kb5alcna8.com^
 ||1ketang.com/runtime/js/play
 ||1kiaxb3kl.com^
 ||1kkk.com^
@@ -2732,7 +2731,6 @@ yydstxt*.com/js/html
 ||21cfhm0s1.top^
 ||21edu8.com/js/mymoney/
 ||21f5f01ad3.com^
-||21food.com^
 ||21ojgpuwg6.com^
 ||21sq.org/js/downloadbanner.js
 ||21uscity.com/static/allbusiness/
@@ -3959,6 +3957,7 @@ yydstxt*.com/js/html
 ||8h6l4lfebvr.com^
 ||8h93.com^*.gif
 ||8iko.com^
+||8j7tu8vtxx.com^
 ||8jkx.com^
 ||8k69vb6421.com^
 ||8k9ynfczfd.com^
@@ -4019,7 +4018,6 @@ yydstxt*.com/js/html
 ||911-gt2-rs.com^
 ||91160.com/nykj/f=static/v4/common/tj.js
 ||911proxy.net^
-||911uk.com^
 ||912688.com^
 ||918000.xyz^
 ||918242.xyz^
@@ -4132,7 +4130,6 @@ yydstxt*.com/js/html
 ||99nets.com/kfb/index.html
 ||99ps.net.cn^
 ||99smsf.com^$third-party
-||99spokes.com^
 ||99tianji.com/hack/
 ||99xcs.com^
 ||99zuowen.com^*/gg.js
@@ -4388,7 +4385,6 @@ yydstxt*.com/js/html
 ||abcdcfasda.gushiwen.cn^
 ||abcdstable.com^
 ||abcj.dooccn.com^
-||abcjs.com^
 ||abctelefonos.com^
 ||abczxw.com/skin/bbb/pc/js/bd.js
 ||abdadv.com^
@@ -4963,6 +4959,7 @@ yydstxt*.com/js/html
 ||aeko.cn^
 ||aemilius-cupero.com^
 ||aennovzd.com^
+||aeonoizq67.com^
 ||aepiot.com^
 ||aeqfjsa.icu^
 ||aeqfuyc.com^
@@ -5294,7 +5291,6 @@ yydstxt*.com/js/html
 ||alexiszurk.com^
 ||alexysexy.com^
 ||alfa-chemistry.com^
-||alfabb.com^
 ||alfistiturkey.net^
 ||algeria-tody.com^
 ||algogear.com^
@@ -9833,7 +9829,6 @@ yydstxt*.com/js/html
 ||cyberlocc.net^
 ||cyberprocurement.com^
 ||cybershadows.com^
-||cybertruckownersclub.com^
 ||cybervena.com^
 ||cybeyepro.com^
 ||cybrid.xyz^
@@ -11922,7 +11917,6 @@ yydstxt*.com/js/html
 ||evapqnina.com^
 ||evasionroomsiosi.com^
 ||evcnmtw.top^
-||eve-ng.cn^
 ||evenbetterbuy.com^
 ||evenflo.com^
 ||eventbid.net^
@@ -13153,6 +13147,7 @@ yydstxt*.com/js/html
 ||fyh4j2y.com^
 ||fylio.com^
 ||fynkelto.com^
+||fyosies.icu^
 ||fytoo.com^
 ||fyuse.com^
 ||fz55vq.site^
@@ -13192,7 +13187,6 @@ yydstxt*.com/js/html
 ||g12tm6xl3.com^
 ||g15wt3ci68.com^
 ||g1v5r.com^
-||g2rail.com^
 ||g2w9awdq0.com^
 ||g2wg5308q.com^
 ||g3f3.com/love/
@@ -13291,8 +13285,6 @@ yydstxt*.com/js/html
 ||gaoqing.la/wp-content/uploads/*goovis
 ||gaoqing888.com/img/icmarkets.
 ||gaosan.com/js/b.js
-||gaosan.com^
-||gaoxiaojob.com^
 ||gaoyouzhaopin.com^
 ||gapipi.com^
 ||gapslpinch.com^
@@ -13357,6 +13349,7 @@ yydstxt*.com/js/html
 ||gccdn.cn^
 ||gcdamp.com^
 ||gceuproxy.com^
+||gchk5bcnaz.com^
 ||gcjg3ry7m.com^
 ||gcloudcache.com^
 ||gcmlgxrmkp.net^
@@ -13415,6 +13408,7 @@ yydstxt*.com/js/html
 ||geckwiki.com^
 ||gedankensturm.com^
 ||gedu.org/js/meiqia_pc_groupmarket.
+||geecradv.com^
 ||geednqhl.cn^
 ||geedo.com^
 ||geek-workshop.com^
@@ -17425,6 +17419,7 @@ yydstxt*.com/js/html
 ||kharkovforum.com^
 ||khegritww.com^
 ||khehliets.com^
+||kheivutb.com^
 ||khki.cn^
 ||khmertimeskh.com^
 ||khogamehub.com^
@@ -17610,7 +17605,6 @@ yydstxt*.com/js/html
 ||koolearn.com/www/subject/script/subject_form.js
 ||koolearn.com/zt/poster_js/$domain=~www.koolearn.com
 ||kopkegroupwineshop.com^
-||koran-jakarta.com^
 ||koreahouse.net^
 ||korealand114.com^
 ||korean.net^
@@ -17879,7 +17873,6 @@ yydstxt*.com/js/html
 ||lamesadeconus.com^
 ||lamico-inc.com^
 ||laminator.com^
-||lamnia.com^
 ||lamoren.com^
 ||lamptwist.com^
 ||lamtc2wny.com^
@@ -17958,6 +17951,7 @@ yydstxt*.com/js/html
 ||law-lib.com/wstyle/images/gffirm.jpg
 ||law12.com^
 ||lawbhoomi.com^
+||lawfulness85.com^
 ||lawinfo.com^
 ||lawpa.cn^
 ||lawtv.com.cn/jd_ceshi.html
@@ -19475,6 +19469,7 @@ yydstxt*.com/js/html
 ||mianwww.com/wp-content/uploads/2014/05/insigmaedu1.gif
 ||miaoshangmanhua.com/template/pc/skin01/images/250_250.
 ||miaoshou.net^
+||miaoshu6.com/static/js/read.
 ||miaoshu6.com^
 ||miaoso.com^
 ||miaowu.baidu.com^
@@ -20297,7 +20292,6 @@ yydstxt*.com/js/html
 ||mythtracker.com^
 ||mytpn.net^
 ||mytrackman.com^
-||mytractorforum.com^
 ||mytraffics.net^
 ||mytuner-radio.net^
 ||myubbs.com^
@@ -21409,7 +21403,6 @@ yydstxt*.com/js/html
 ||omadahealth.com^
 ||omearasirish.com^
 ||omega.com^
-||omegaforums.net^
 ||omegaowners.com^
 ||omelette12.top^
 ||omg10.com^
@@ -21832,7 +21825,6 @@ yydstxt*.com/js/html
 ||p4gdt4um6.com^
 ||p4p.sina.com.cn^
 ||p5si0mu8u7.com^
-||p5w.net^
 ||p5yy.com^
 ||p66jed4iv.com^
 ||p70y44odg.com^
@@ -21960,7 +21952,6 @@ yydstxt*.com/js/html
 ||partpartcongo.com^
 ||partrequest.com^
 ||partridgepuny.com^
-||parts-express.com^
 ||partsasap.com^
 ||partschase.com^
 ||partsdr.com^
@@ -22001,7 +21992,6 @@ yydstxt*.com/js/html
 ||patriotic66.top^
 ||patriotsplanet.net^
 ||paul-rich.com^
-||paulmccartney.com^
 ||paulsfloors.com^
 ||pausejeans-online.com^
 ||pavdiibdvr.com^
@@ -22029,7 +22019,6 @@ yydstxt*.com/js/html
 ||pbruggallery.com^
 ||pbsadverxo.com^
 ||pbsimgs.com^
-||pbtech.com^
 ||pbuuzazvrw.com^
 ||pbwlwdzje.com^
 ||pc-canada.com^
@@ -22071,7 +22060,6 @@ yydstxt*.com/js/html
 ||pconline.com.cn/js/ivy.js
 ||pcper.com^
 ||pcpop.com/pv/pv.js
-||pcpop.com^
 ||pcstore.com.tw/adm/psearch_payad_
 ||pcstore.com.tw/css/myacc_init.js
 ||pctzdv.icu^
@@ -22093,7 +22081,6 @@ yydstxt*.com/js/html
 ||pdfreaderfile.com^
 ||pdfreaderfreeview.com^
 ||pdfreaders.net^
-||pdfreaderviewer.com^
 ||pdhsports.com^
 ||pdhwzl.icu^
 ||pdrerzug.com^
@@ -24279,6 +24266,7 @@ yydstxt*.com/js/html
 ||rockmanpm.com^
 ||rod-max.com^
 ||rodavigo.net^
+||rofnjd.icu^
 ||rohanihaziraat.com^
 ||rohrerseeds.com^
 ||roj7ah16d.com^
@@ -28236,7 +28224,6 @@ yydstxt*.com/js/html
 ||ukphonebook.com^
 ||ukpostcodecheck.com^
 ||ukranews.com^
-||ukrinform.com^
 ||uksocialhousing.com^
 ||ukuleqasforsalesre.com^
 ||ukx6umuvu.com^
@@ -30067,6 +30054,7 @@ yydstxt*.com/js/html
 ||xclickads.com^
 ||xcmfu.com/cp.
 ||xcmg.com^
+||xcnfzp.icu^
 ||xd-xk.com^
 ||xd010.com^
 ||xdcad.net/source/plugin/disad/disad.js
@@ -30136,6 +30124,7 @@ yydstxt*.com/js/html
 ||xh33g.net^
 ||xhaccess.net^
 ||xhd.cn/topic/leyu-piaofu/
+||xhe87zexdk.com^
 ||xhgwho0fx.com^
 ||xhmediacdn.com^
 ||xhname.com^
@@ -30336,6 +30325,7 @@ yydstxt*.com/js/html
 ||xn--wgvp78a61swpe6zdozj.cn^
 ||xn--xhq326aj6yqpw.com^
 ||xndownloader.com^
+||xnemz1rc5j.com^
 ||xng02.com/api.php?mod=ad&
 ||xnimg.cn^*/liveinc/rightlive.js
 ||xnm4x0ali.com^
