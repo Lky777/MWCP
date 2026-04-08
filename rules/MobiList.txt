@@ -1,8 +1,8 @@
-[Adblock Plus 2.0]
+[Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202604081210
-! Last modified: 08 Apr 2026 12:10 UTC
+! Version: 202604082001
+! Last modified: 08 Apr 2026 20:01 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2392,7 +2392,6 @@ yydstxt*.com/js/html
 ||107.167.22.*.gif
 ||108sq.cn^
 ||10fang.com/static/skin/tfy/layer/layer.js
-||10tv.com^
 ||10xmarketingcoach.com^
 ||11.96131.com.cn^
 ||11.golang8.com^
@@ -3074,7 +3073,6 @@ yydstxt*.com/js/html
 ||3dmgame.com/templets/index/js/huandeng.js
 ||3dmgame.com/templets/xiazai/g
 ||3dmgame.com/tools/gamead?
-||3dpchip.com^
 ||3dproweb.net^
 ||3druck.com^
 ||3dsearch.net^
@@ -3711,7 +3709,6 @@ yydstxt*.com/js/html
 ||70ba9ncke.com^
 ||70ezi4.com^
 ||711dm.com/color.
-||7139.com^
 ||7160.com/js/tiaozhuanquanju.js
 ||71gdfa58xyva71.com^
 ||71lf6z67h6.com^
@@ -4148,7 +4145,6 @@ yydstxt*.com/js/html
 ||999meiju.com/js/tj
 ||999xx333kk.com^
 ||99aries.com^
-||99csw.com^
 ||99danji.com/kchtml/
 ||99danji.com^
 ||99jogo777.com^
@@ -4397,7 +4393,6 @@ yydstxt*.com/js/html
 ||abc.hkepc.net^
 ||abc.ruodian360.com^
 ||abc.yebaike.com^
-||abc17news.com^
 ||abc4web.net^
 ||abcache.com/tg/
 ||abcache.com/xc/image/
@@ -4423,7 +4418,6 @@ yydstxt*.com/js/html
 ||abdulaporno.com^
 ||abgcrap.icu^
 ||abidarkva.top^
-||abilenemachine.com^
 ||abime.net^
 ||abiyefon.com^
 ||ablackweb.com^
@@ -4490,7 +4484,6 @@ yydstxt*.com/js/html
 ||achievement44.top^
 ||achievementstats.com^
 ||achophranb.com^
-||achrnews.com^
 ||acidicgreen.com^
 ||acidpoll.top^
 ||ackits.com^
@@ -4928,7 +4921,6 @@ yydstxt*.com/js/html
 ||advcorp.net^
 ||adventive.com^
 ||adventori.com^
-||adventuregamers.com^
 ||adveradvertismentthebest.com^
 ||adverdatum.net^
 ||adverity.net^
@@ -5034,7 +5026,6 @@ yydstxt*.com/js/html
 ||afoona.com^
 ||afp.chinanews.com^
 ||afp24.net^
-||afpbb.com^
 ||afrdtech.com^
 ||afreedictionary.com^
 ||afrenterprises.com^
@@ -7088,7 +7079,6 @@ yydstxt*.com/js/html
 ||betrad.com^
 ||betrivers.com^
 ||betsapi.com^
-||betseyjohnson.com^
 ||betsfan.com^
 ||betsoftgaming.com^
 ||betsson1001.com^
@@ -11880,7 +11870,6 @@ yydstxt*.com/js/html
 ||esport001.com^
 ||esports.net^
 ||esportsearnings.com^
-||espressif.com.cn^
 ||essdocs.com^
 ||essencereferencetummy.com^
 ||essentracomponents.com^
@@ -15199,6 +15188,7 @@ yydstxt*.com/js/html
 ||hstljkp.com^
 ||hsvtdj.top^
 ||hsvwvr.icu^
+||hswxsatk7x.com^
 ||hsyipos.com/template/mxone/html_tplmx/vod/*.gif
 ||ht9s1j1bf.com^
 ||hthelulyq.com^
@@ -22242,6 +22232,7 @@ yydstxt*.com/js/html
 ||phqew.cn^
 ||phtracker.com^
 ||phue.cn^
+||phulkuhf.com^
 ||phuolhogmxin.com^
 ||phwv.cn^
 ||phx9cqla2.com^
@@ -24625,13 +24616,11 @@ yydstxt*.com/js/html
 ||samsungapis.com^
 ||samsungdasis.com^
 ||samsungfiberoptics.com^
-||samsungpartsusa.com^
 ||samsungsmartcam.com^
 ||sanarmed.com^
 ||sandbank56.com^
 ||sandbank68.com^
 ||sandesh.com^
-||sandiegoreader.com^
 ||sandler.com^
 ||sandstalk.com^
 ||sandstruck.com^
@@ -24646,7 +24635,6 @@ yydstxt*.com/js/html
 ||sanjiangg.com^
 ||sankra7.com^
 ||sanme2.taisantech.com^
-||sanrio.com^
 ||sansanyanqing.com^
 ||sansarushop.com^
 ||sanskrutistore.com^
@@ -26687,11 +26675,9 @@ yydstxt*.com/js/html
 ||tcmap.com.cn/js/b_
 ||tcp-reset-club.net^
 ||tcpdoor.net^
-||tcpdump.cn^
 ||tcptickle.com^
 ||tcragarnh.com^
 ||tcrconnectingagriculture.com^
-||tcrf.net^
 ||tcss.qq.com^
 ||tct-teye.com^
 ||tctmd.com^
@@ -28150,6 +28136,7 @@ yydstxt*.com/js/html
 ||uimz80fgj.com^
 ||uiqmcnttmh.top^
 ||uiqouw.icu^
+||uiqyuydt9t.com^
 ||uisksa.com^
 ||uivc.cn^
 ||uj2h8xm8w.com^
