@@ -186,6 +186,7 @@ domain
 10sook.com
 10times.com
 10transport.com
+10tv.com
 10web.io
 10wook.com
 10xdevices.net
@@ -1238,6 +1239,7 @@ domain
 3dns.box
 3docean.net
 3dos.io
+3dpchip.com
 3dpop.kr
 3dporndude.com
 3dprinteros.com
@@ -1927,6 +1929,7 @@ domain
 711tg.org
 712938.xyz
 71360.com
+7139.com
 715api.com
 715okk.com
 715oss.com
@@ -2350,6 +2353,7 @@ domain
 99avcdn.org
 99bikes.com.au
 99bitcoins.com
+99csw.com
 99designs.com
 99diecast.com
 99kia.com
@@ -2697,6 +2701,7 @@ abc.xyz
 abc10.com
 abc11.com
 abc13.com
+abc17news.com
 abc188.com
 abc27.com
 abc30.com
@@ -2780,6 +2785,7 @@ abidark.top
 abidjan.net
 abidjan.net
 abiir.top
+abilenemachine.com
 abilitylinks.org
 abillion.com
 abimg.xyz
@@ -3176,6 +3182,7 @@ achievemint.app
 achievers.com
 achieveservice.com
 achilles.com
+achrnews.com
 acidblog.net
 acidpigs.com
 acima.com
@@ -3652,6 +3659,7 @@ adventistas.org
 adventivecdn.com
 adventofcode.com
 adventurebikerider.com
+adventuregamers.com
 adventuresinodyssey.com
 adverpost.com
 advertoix.com
@@ -3874,6 +3882,7 @@ aflink.com
 afnet.net
 afp.ai
 afp.com
+afpbb.com
 afpcapital.cl
 afpif.com
 afr.com
@@ -5141,6 +5150,7 @@ allawntech.com
 allbanglanewspaper.xyz
 allbeauty.com
 allbest.ru
+allbirds.com
 allbirds.com
 allbiz.com
 allblock.app
@@ -6571,6 +6581,7 @@ anycastns2.org
 anychart.com
 anyclip.com
 anyclub.org
+anyconv.com
 anycubic.com
 anydesk.com
 anydesk.com.cn
@@ -9337,6 +9348,7 @@ avios.com
 avira-update.com
 avira-vpn.com
 avira.com
+avira.com
 avira.net
 avis-comms.international
 avis-verifies.com
@@ -9447,6 +9459,7 @@ aweray.com
 aweray.net
 awesomeapi.com.br
 awesomepiece.com
+awesomescreenshot.com
 awesomescreenshot.com
 awfed.com
 awfulannouncing.com
@@ -11733,6 +11746,7 @@ bethesda.net
 betlive.com
 betmgm.com
 betradar.com
+betseyjohnson.com
 betsson.com
 better.com
 betterdiscord.app
@@ -30683,6 +30697,7 @@ espos.id
 espreso.co.rs
 espreso.tv
 espressif.com
+espressif.com.cn
 espritgames.ru
 espssl.com
 esputnik.com
@@ -79956,6 +79971,7 @@ samsungnyc.com
 samsungosp.com
 samsungosp.com.cn
 samsungotn.net
+samsungpartsusa.com
 samsungpass.com
 samsungpay.com
 samsungpop.com
@@ -80004,6 +80020,7 @@ sandboxol.com
 sandboxvr.com
 sandclowd.com
 sandhills.com
+sandiegoreader.com
 sandiegounified.org
 sandiegouniontribune.com
 sandiegozoo.org
@@ -80060,6 +80077,7 @@ sanomamdc.com
 sanook.com
 sanpellegrino.com
 sanrio.co.jp
+sanrio.com
 sans.org
 sansan.com
 sansay.com
@@ -90344,12 +90362,14 @@ tcp4.me
 tcpalm.com
 tcpbbr.net
 tcpdns.net
+tcpdump.cn
 tcplusondemand.com
 tcpping.top
 tcpshield.com
 tcpshield.net
 tcqrgrvuzq.net
 tcr195uhyru.com
+tcrf.net
 tcs.ch
 tcs.com
 tcsapps.com
@@ -108480,23 +108500,3 @@ zzzfff.com
 zzzquil.com
 zzztube.tv
 zzzzoss.co
-10tv.com
-3dpchip.com
-7139.com
-99csw.com
-abc17news.com
-abilenemachine.com
-achrnews.com
-adventuregamers.com
-afpbb.com
-allbirds.com
-anyconv.com
-avira.com
-awesomescreenshot.com
-betseyjohnson.com
-espressif.com.cn
-sandiegoreader.com
-samsungpartsusa.com
-sanrio.com
-tcpdump.cn
-tcrf.net
