@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202604071959
-! Last modified: 07 Apr 2026 19:59 UTC
+! Version: 202604081210
+! Last modified: 08 Apr 2026 12:10 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -70,10 +70,12 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/Scripts/LogTracer.js
 .com/Scripts/idleAD.js
 .com/a_d/
+.com/abc.gif?
 .com/addnew.php
 .com/adgpt.js
 .com/adv1/?q=
 .com/api/models/
+.com/api/models?
 .com/api/v1/mediation/tracking?adUnit=
 .com/co/$domain=1anime.me
 .com/code.php?a=index&z=$script,third-party,xmlhttprequest
@@ -140,6 +142,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/sitejs/hansan.js
 .com/social-plugins/js/lib/sentry.
 .com/static/image/
+.com/static/images/yutu.gif
 .com/static/js/action.js
 .com/static/js/ad.js
 .com/static/js/up.js
@@ -159,6 +162,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/vj2/$script,third-party
 .com/vodad.js
 .com/wp-content/plugins/ai-share-summarize/
+.com/wp-content/plugins/erphpdown/static/erphpdown.
 .com/wp-content/themes/begin/erphpdown/
 .com/zz/*2.txt$xmlhttprequest
 .com/zz/tcc2.js
@@ -700,6 +704,8 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /main/s?
 /maizhan/js/age.js
 /manduan-dev.oss-
+/matomo.js
+/matomo.php?action_name=
 /matongwu/img/gg_
 /mdassets/images/*.gif$~third-party
 /media/fitad/
@@ -2127,6 +2133,7 @@ wss://*.top/|
 wss://*.xyz:*?e=$third-party
 wss://*.xyz:*?x=$third-party
 wss://*/api/wss/getnotreadcount$third-party
+www.coolinet.net###videoPostContent>p
 www.haijiaolove.xyz##.elementor-gallery-item__overlay
 www.txrjy.com###tryOpenApp
 www.yqhd8.com###jhb
@@ -3667,6 +3674,7 @@ yydstxt*.com/js/html
 ||6m8tk53pw.com^
 ||6mdf9teiz.com^
 ||6n528aywi9.com^
+||6o2k80jf8w.com^
 ||6o719vq4x.com^
 ||6opo.com^
 ||6p2g1kk03.com^
@@ -5269,6 +5277,7 @@ yydstxt*.com/js/html
 ||akamaihd.net^*/sid.html?p=
 ||akashdayalgroups.com^
 ||akbchina.cn^
+||akcuqkr.com^
 ||akhirzaea.com^
 ||akhpcxdin.com^
 ||akiads.net^
@@ -6664,6 +6673,7 @@ yydstxt*.com/js/html
 ||barin.top^
 ||barintg.top^
 ||baronweather.com^
+||barrister85.top^
 ||barryvpn.com^
 ||barstowfurniture.com^
 ||bartererfaxtingling.com^
@@ -9647,6 +9657,7 @@ yydstxt*.com/js/html
 ||creationsbluesky.com^
 ||creative-biolabs.com^
 ||creative-sb1.com^
+||creative.myavlive.com^
 ||creativehandbook.com^
 ||creativemindsdubai.com^
 ||creativenostalgiascrapbooks.com^
@@ -12615,6 +12626,7 @@ yydstxt*.com/js/html
 ||fkxs.net/tops/
 ||fl0hg5wlr.com^
 ||fl6n.com/adtop/
+||fl7i15bxzr.com^
 ||flagsbythedozen.com^
 ||flairadscpc.com^
 ||flamehotrunner.com^
@@ -13812,6 +13824,7 @@ yydstxt*.com/js/html
 ||go-upc.com^
 ||go.hangzhou.com.cn^
 ||go.homejavlive.com^
+||go.myavlive.com^
 ||go.xhamsterlive.com^
 ||go22zd6lwm.com^
 ||go2av.com/for_ad/
@@ -19155,6 +19168,7 @@ yydstxt*.com/js/html
 ||med66.com/lamu/
 ||medaahmo.com^
 ||medelement.com^
+||media-hls.growcdnssedge.com^
 ||media-hls.saawsedge.com^
 ||media-outreach.com^
 ||mediadecathlon.com^
@@ -19929,6 +19943,7 @@ yydstxt*.com/js/html
 ||mtime.cn/library/*/ecommerce/goodsandfeaturectrl.js
 ||mtime.cn/tg/
 ||mtishows.com^
+||mtjaiko.com^
 ||mtmlink.net^
 ||mtmvrulutr.com^
 ||mtnonline.com^
@@ -21036,6 +21051,7 @@ yydstxt*.com/js/html
 ||nxu3l4c8u.com^
 ||nxwm44neo.com^
 ||nxymdzs.com^
+||ny2oqsu7et.com^
 ||ny70zesy5v.com^
 ||nya2.com^
 ||nyaa.*/static/js/ccheck.js
@@ -23023,6 +23039,7 @@ yydstxt*.com/js/html
 ||putaoys.com/static/js/acb1.js
 ||putdl.com^
 ||putmega.com^
+||putmtmkfjbitxzlhijfc.top^
 ||putonghua520.com/skins/10ym/3jin.gif
 ||putonghua520.com/skins/10ym/baicai.gif
 ||puworld.com^
@@ -24437,6 +24454,7 @@ yydstxt*.com/js/html
 ||rxoi.cn^
 ||rxys.cn^
 ||rxzefz.icu^
+||ry7icaih0p.com^
 ||ryd626moj.com^
 ||rydeshopper.com^
 ||ryefieldbooks.com^
@@ -26052,6 +26070,7 @@ yydstxt*.com/js/html
 ||static-ssp.yidianzixun.com^
 ||static-viamobilis.com^
 ||static.addtoany.com^
+||static.cloudflareinsights.com^
 ||static.doyouhike.net/partner/
 ||static.gaomaer.cn^
 ||static.gridsumdissector.com^
@@ -27649,6 +27668,7 @@ yydstxt*.com/js/html
 ||trichrom.com^
 ||trickforgestudios.com^
 ||trigminp.com^
+||trikahrta.com^
 ||triketalk.com^
 ||trimrx.com^
 ||trinaturk.com^
@@ -27867,6 +27887,7 @@ yydstxt*.com/js/html
 ||tvcluboficial.com^
 ||tvcnmti.top^
 ||tvconv.com^
+||tvfvxr.icu^
 ||tvlmzx.icu^
 ||tvovermind.com^
 ||tvqagropu.com^
@@ -28662,6 +28683,7 @@ yydstxt*.com/js/html
 ||vhid.cn^
 ||vhje.cn^
 ||vhk1icmps.com^
+||vhxahf.icu^
 ||vhxzfz.icu^
 ||viacapitalevendu.com^
 ||viads.com^
@@ -30419,6 +30441,7 @@ yydstxt*.com/js/html
 ||xxsmad5.com^
 ||xxsmad7.com^
 ||xxsmtz10.com^
+||xxss6677.com^
 ||xxsxghg.com^
 ||xxsy.net^
 ||xxts11130zs.com^
@@ -30769,6 +30792,7 @@ yydstxt*.com/js/html
 ||ykyfhxr.xyz^
 ||yl04z4v.cn^
 ||ylghac.icu^
+||ylr1xn2b4i.com^
 ||ym3jmnu05.com^
 ||ymaa.com^
 ||ymapiatm.xyz^
@@ -30990,7 +31014,6 @@ yydstxt*.com/js/html
 ||yutomobi.com^
 ||yutongkeji.com^
 ||yutura.net^
-||yutuzy.com/static/images/yutu.gif
 ||yuwangshe.net/astyle/wap.
 ||yuwenbin.host^
 ||yuzhua.com^
@@ -31367,6 +31390,7 @@ yydstxt*.com/js/html
 ||zjg.js.cn/public/config/couplet/index4
 ||zjgir2940637fafa.com^
 ||zjinly.com^
+||zjjfmf9m3q.com^
 ||zjjhfc.com/js/zt.js
 ||zjklt4ei4.com^
 ||zjkt6ew4cp.com^
