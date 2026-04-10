@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202604092005
-! Last modified: 09 Apr 2026 20:05 UTC
+! Version: 202604101950
+! Last modified: 10 Apr 2026 19:50 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -3154,6 +3154,7 @@ yydstxt*.com/js/html
 ||4080kan.com/js/head
 ||40images25.com^
 ||40nao7anx6.com^
+||40vhwswtr6.com^
 ||40wan.com/js/www2/
 ||40win88.com^
 ||40win99.com^
@@ -3664,6 +3665,7 @@ yydstxt*.com/js/html
 ||6gxs.net/js/
 ||6h6pdph56.com^
 ||6iiz8ni96v.com^
+||6iyq4atled.com^
 ||6jei0t6xp.com^
 ||6jtqdplfz7.com^
 ||6jyi7mzae.com^
@@ -3674,6 +3676,7 @@ yydstxt*.com/js/html
 ||6m8tk53pw.com^
 ||6mdf9teiz.com^
 ||6n528aywi9.com^
+||6o04ylee62.com^
 ||6o2k80jf8w.com^
 ||6o719vq4x.com^
 ||6opo.com^
@@ -3987,6 +3990,7 @@ yydstxt*.com/js/html
 ||8mg050.n3cdn1.secureserver.net^*.gif
 ||8mg050.n3cdn1.secureserver.net^*/960
 ||8nuwqs.com^
+||8oghu1wcau.com^
 ||8p14q886v2.com^
 ||8pad.xyz^
 ||8proe3xx6.com^
@@ -4335,6 +4339,7 @@ yydstxt*.com/js/html
 ||a5nx1ohi.com^
 ||a5xiazai.com/z/
 ||a6.hujiang.com^$domain=~class.hujiang.com
+||a65vocvbfe.com^
 ||a6cfvavw1.xyz^
 ||a6o69f9ky0.com^
 ||a7c8hn.com^
@@ -8693,6 +8698,7 @@ yydstxt*.com/js/html
 ||chemblink.com^
 ||chemenu.com^
 ||cheminchina.net^
+||chemist68.top^
 ||chemql.com^
 ||chengdu.cn/acts/phoneqss/opencornerwin/
 ||chengdupools.com^
@@ -13129,6 +13135,7 @@ yydstxt*.com/js/html
 ||fx43.com^
 ||fx678.com/htcount/count.js
 ||fx678.com^
+||fx8rurzhbf.com^
 ||fxab9iuprt.com^
 ||fxconvert.net^
 ||fxfifv.icu^
@@ -13337,6 +13344,7 @@ yydstxt*.com/js/html
 ||gazettenet.com^
 ||gazoo.com^
 ||gb-hy.com^
+||gb0143odqh.com^
 ||gb3scpejq.com^
 ||gbads.net^
 ||gbcprime.com^
@@ -20921,6 +20929,7 @@ yydstxt*.com/js/html
 ||npiscope.com^
 ||nplvdodbja.com^
 ||npvcfn.icu^
+||npzc1yzag7.com^
 ||nq49x3m8g.com^
 ||nqbcf.cn/html/top
 ||nqlzlr.icu^
@@ -23232,6 +23241,7 @@ yydstxt*.com/js/html
 ||qiniuyun32.xyz^
 ||qinxue100.com/qinxue/pc/js/add_js.js
 ||qinyipu.com^
+||qiqiuges.com/mk.
 ||qirloith.com^
 ||qirqritp.com^
 ||qishula.com/css/wap.
@@ -23668,6 +23678,7 @@ yydstxt*.com/js/html
 ||rangerovers.net^
 ||rapidresultsearch.com^
 ||rapidtag.net^
+||rapndh.icu^
 ||raptor-supplies.com^
 ||raptorsmartadvisor.com^
 ||rapverse.com^
@@ -28387,6 +28398,7 @@ yydstxt*.com/js/html
 ||utires.com^
 ||utlove02.com^$third-party
 ||utmostxu.com^
+||utmtmkfjbitxzlhijfce.top^
 ||utppublishing.com^
 ||uttbtgsqxi.com^
 ||uturiw.icu^
@@ -30267,6 +30279,7 @@ yydstxt*.com/js/html
 ||xonlines.com/yyh_qp_200_200.png
 ||xoqsxdpx.xyz^
 ||xosothantai.com^
+||xoxitt.icu^
 ||xoxocomic.com^
 ||xoxsocial.com^
 ||xoyit.com^
