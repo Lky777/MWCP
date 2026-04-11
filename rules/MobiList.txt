@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202604101950
-! Last modified: 10 Apr 2026 19:50 UTC
+! Version: 202604111946
+! Last modified: 11 Apr 2026 19:46 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2264,6 +2264,7 @@ yydstxt*.com/js/html
 ||094kk.com^
 ||0a0atz2sh.top^
 ||0a5njd2rb.com^
+||0a66kw9r8.com^
 ||0b4qu3nxa.com^
 ||0b6rvr210q.com^
 ||0bb8jytek.com^
@@ -2846,6 +2847,7 @@ yydstxt*.com/js/html
 ||29ru.net^
 ||29spp.com/js/tj.js
 ||29sqq454q.com^
+||29zle9rx4.com^
 ||2agmk5mh07.com^
 ||2bqlkznz.xyz^
 ||2btu.com/gg.jpg
@@ -7988,6 +7990,7 @@ yydstxt*.com/js/html
 ||bwesglobal.com^
 ||bwquktubbb.com^
 ||bwvhtadad.com^
+||bwxq93jdg.com^
 ||bx58.com^
 ||bxdupj.icu^
 ||bxflm2940637fafa.com^
@@ -9680,6 +9683,7 @@ yydstxt*.com/js/html
 ||crimsonschools.com^
 ||crimsonserene.com^
 ||crinukpd.com^
+||crirzaitai.com^
 ||criteo.com^
 ||criticalpast.com^
 ||criticless.com^
@@ -11536,6 +11540,7 @@ yydstxt*.com/js/html
 ||ejunshi.com^
 ||ekdtywtkc.com^
 ||ekladata.com^
+||eklzt1bvv.com^
 ||ekmtc.com^
 ||ekntg2940637fafa.com^
 ||eknz.cn^
@@ -18506,6 +18511,7 @@ yydstxt*.com/js/html
 ||lp340p7czf.com^
 ||lp780937a.com^
 ||lpalartra.com^
+||lparnaro.com^
 ||lpcam.com^
 ||lpdiscography.com^
 ||lpibex.com^
@@ -22988,6 +22994,7 @@ yydstxt*.com/js/html
 ||ptzoptics.com^
 ||ptzxed507.com^
 ||pu220ev.com^
+||pu3xxlqjr.com^
 ||pub.funshion.com^
 ||pubfuture-ad.com^
 ||publicinput.com^
@@ -26004,6 +26011,7 @@ yydstxt*.com/js/html
 ||staffingindustry.com^
 ||stagebison.net^
 ||staging-mysagestore.com^
+||staircase59.com^
 ||staitcfile.org^
 ||stake-engine.com^
 ||stamenbs4.com^
@@ -28309,6 +28317,7 @@ yydstxt*.com/js/html
 ||updates-windows.top^
 ||updatewarranty.com^
 ||upiral.com^
+||upk8rvnck.com^
 ||upliftsolutioninc.com^
 ||upload.cc/i1/2020/07/13/8bgjil.gif
 ||upload.cc^$domain=141jj.com|mizhiav.com
@@ -28662,6 +28671,7 @@ yydstxt*.com/js/html
 ||vetxpx.icu^
 ||veuf2obzc8.com^
 ||vevida.net^
+||veybl6f3o.com^
 ||vezeeta.com^
 ||vezeqzyb.com^
 ||vezha.com^
@@ -29013,6 +29023,7 @@ yydstxt*.com/js/html
 ||vrow.cn^
 ||vrrm.cn^
 ||vrrw.net//templets/default/js/ad.js
+||vrtafd.icu^
 ||vruzexzl.com^
 ||vrydd.com^
 ||vrzuhj.icu^
@@ -30003,11 +30014,13 @@ yydstxt*.com/js/html
 ||xdf.cn/v4/js/leyus/
 ||xdh0808.com^$popup
 ||xdhoxy.com^
+||xdlipr.icu^
 ||xdnice.com/themes/xdnice/public/assets/images/quna.png
 ||xdnice.com/themes/xdnice/public/assets/images/xdnice.png
 ||xdoriq.cn^
 ||xdseven.com^
 ||xdslase.com^
+||xdxqw9nnr.com^
 ||xdyjt.com^
 ||xdyn0*jy.com^$script,xmlhttprequest,third-party
 ||xdyn03010jy.com^
