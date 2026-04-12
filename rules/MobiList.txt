@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202604111946
-! Last modified: 11 Apr 2026 19:46 UTC
+! Version: 202604121948
+! Last modified: 12 Apr 2026 19:48 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2744,6 +2744,7 @@ yydstxt*.com/js/html
 ||22112211.xyz^
 ||222aa333bb.com^
 ||222xs.com/js/greentea.js
+||223qu6jnqv.com^
 ||224ff4019d.com^
 ||224oztn8dq.com^
 ||22588888.com^$popup
@@ -3483,6 +3484,7 @@ yydstxt*.com/js/html
 ||598n8mpd6.com^
 ||59rgxxsqp1.com^
 ||59xx2yr9i.com^
+||59zzkdt8pj.com^
 ||5adbjiwp.xyz^
 ||5atxt.com^
 ||5azvpjx8xj.com^
@@ -3498,6 +3500,8 @@ yydstxt*.com/js/html
 ||5dmail.net/image/ad_
 ||5dmail.net/image/orf_1000.gif
 ||5dmail.net/js/
+||5dxs.net/themes/jieqi/wap/js/fixed.
+||5dxs.net/themes/jieqi/wap/js/test.
 ||5dxs.net^
 ||5dycay3rr.com^
 ||5edf1d2qv.com^
@@ -11681,6 +11685,7 @@ yydstxt*.com/js/html
 ||empresasdobrasil.com^
 ||emrldco.com^
 ||emrldtp.com^
+||ems59cq77u.com^
 ||emskz.com^
 ||emslgm.icu^
 ||emsq.cn^
@@ -15342,6 +15347,7 @@ yydstxt*.com/js/html
 ||hur05130kns.com^
 ||huracantalk.com^
 ||hurlybegaud.top^
+||hurriedly18.com^
 ||hurry2.com^
 ||hurryskurry.com^
 ||hurtful-orange.com^
@@ -21708,6 +21714,7 @@ yydstxt*.com/js/html
 ||owocdn.top^
 ||owqbirykia.com^
 ||owriter.xyz^
+||owvqpfbrrk.com^
 ||owwoedu.com^
 ||ox3e5wyy79.com^
 ||oxfordgroupofinstitution.com^
@@ -23358,6 +23365,7 @@ yydstxt*.com/js/html
 ||qpjewellers.com^
 ||qpqp05100oki.com^
 ||qpqp05101oki.com^
+||qpvrutah.com^
 ||qq.com/bbs/bbs_topgg.htm
 ||qq.com/coral/ads
 ||qq.com/game/footerbar$subdocument
@@ -27120,6 +27128,7 @@ yydstxt*.com/js/html
 ||thomassci.com^
 ||thombrowne.com^
 ||thorforums.com^
+||thpvrn.icu^
 ||thragmoth.com^
 ||thraittidz.com^
 ||threatclimb.com^
@@ -27322,6 +27331,7 @@ yydstxt*.com/js/html
 ||tmpsdp.icu^
 ||tmpxl.com^
 ||tmqhageaip.com^
+||tmtmkfjbitxzlhijfcen.top^
 ||tmtreader.com^
 ||tnabors.com^
 ||tngcdn.com^
@@ -28113,6 +28123,7 @@ yydstxt*.com/js/html
 ||udn.com/common2/iframe/
 ||udpf.com^
 ||udsf.cn^
+||udtnjdhtdb.com^
 ||udwlki.icu^
 ||udwz84qia.com^
 ||udxi.cn^
@@ -29050,6 +29061,7 @@ yydstxt*.com/js/html
 ||vtongm82lz.com^
 ||vtook3j0l.com^
 ||vtqhelleano.com^
+||vtrabj.icu^
 ||vtrelphail.com^
 ||vtrrxqbi.xyz^
 ||vturb.net^
@@ -29080,6 +29092,7 @@ yydstxt*.com/js/html
 ||vvd68pv6lj.com^
 ||vvllrb.top^
 ||vvps.xyz^
+||vvqc95xhtx.com^
 ||vvv.ieduw.com^
 ||vvvkp.com/template/ttk/img/
 ||vwdiesel.net^
