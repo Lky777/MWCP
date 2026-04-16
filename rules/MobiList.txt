@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202604152007
-! Last modified: 15 Apr 2026 20:07 UTC
+! Version: 202604162004
+! Last modified: 16 Apr 2026 20:04 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -1819,7 +1819,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||pagead2.googlesyndication.com/pagead/*/show_ads_impl$domain=bilinovel.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl$domain=ff14angler.com|logi.im
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=doitwell.tw
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=tt1069.com|akashio.com|1991421.cn|kantie.org|kejilion.pro|bilinovel.com|mcappx.com|yeeach.com|blog.6ziz.com|docsmall.com|uiadmin.net|4horlover.com|23qb.net|4spaces.org|aboluowang.com|assbbs.com|chaojizhibo.net|chtoen.com|daxiaamu.com|demo.ama.pub|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|fsbot.xyz|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|mens1069.com|monnsutogatya.com|mpyit.com|myqqjd.com|numberempire.com|ozabc.com|pansearch.me|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wandhi.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org|yummy.best|zaixianjisuan.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=huavod.com|huaren.live|tt1069.com|akashio.com|1991421.cn|kantie.org|kejilion.pro|bilinovel.com|mcappx.com|yeeach.com|blog.6ziz.com|docsmall.com|uiadmin.net|4horlover.com|23qb.net|4spaces.org|aboluowang.com|assbbs.com|chaojizhibo.net|chtoen.com|daxiaamu.com|demo.ama.pub|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|fsbot.xyz|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|mens1069.com|monnsutogatya.com|mpyit.com|myqqjd.com|numberempire.com|ozabc.com|pansearch.me|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wandhi.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org|yummy.best|zaixianjisuan.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=duelmeta.com|linetv.tw|liout.com|moneysave.info|raenonx.cc|zxmee.com
 @@||pagead2.googlesyndication.com/pagead/js/google_top_exp.js$domain=ebb.io
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=knowlet3389.blogspot.com|knowlet3389.blogspot.hk|knowlet3389.blogspot.jp|knowlet3389.blogspot.tw|mnighthk.net|weithenn.org
@@ -2192,7 +2192,7 @@ yydstxt*.com/js/html
 |https://xchina.fit/ajax.php
 ||*.$image,rewrite=abp-resource:1x1-transparent-gif,third-party,domain=rmdown.com
 ||*.cdn.sohucs.com/lemon/
-||*.mp4$rewrite=abp-resource:blank-mp3,domain=huavod.com
+||*.mp4$rewrite=abp-resource:blank-mp3,domain=huavod.com|huaren.live
 ||*xav.*/guang/*.gif
 ||*xav.*/guang/*.jpg
 ||0-en.net^
@@ -3234,6 +3234,7 @@ yydstxt*.com/js/html
 ||49888.com^
 ||4991415.xyz^
 ||49ioqq6kt.com^
+||49o4m4a5eo.com^
 ||4aqoxkesav.com^
 ||4bo5t8fzd.com^
 ||4br824ktty.com^
@@ -3717,6 +3718,7 @@ yydstxt*.com/js/html
 ||6vhao.tv/d/
 ||6w4ix4bxz1.com^
 ||6x59axt21.com^
+||6zc7gvmavf.com^
 ||6zmcb1x9fn.top^
 ||7-h-a-c.com^
 ||7-o-d-z.com^
@@ -3873,6 +3875,7 @@ yydstxt*.com/js/html
 ||7tshsz6k1.com^
 ||7u4b8l1zt.com^
 ||7u7jwonbf.com^
+||7ue931y0gn.com^
 ||7usgqu07mk.com^
 ||7wzx9.com/tbad.
 ||7x7n.com/static/image/888.jpg
@@ -7183,6 +7186,7 @@ yydstxt*.com/js/html
 ||bgf05280lko.com^
 ||bgf05290lko.com^
 ||bgf05291lko.com^
+||bgjylr.icu^
 ||bgobsession.com^
 ||bgrukidu.com^
 ||bhaelkaers.com^
@@ -9015,6 +9019,7 @@ yydstxt*.com/js/html
 ||cj81gcvm2.com^
 ||cj99fbulb4.com^
 ||cja0m4iew.com^
+||cjb6nr5csu.com^
 ||cjcygl.com^
 ||cjdby.net/public/home/images/advimg/
 ||cjjjs.com/image/banner/ali
@@ -11997,6 +12002,7 @@ yydstxt*.com/js/html
 ||ewe6d.cn^
 ||ewebdiscussion.com^
 ||ewebsiteranking.com^
+||ewekeoqn.com^
 ||ewellchips.com^
 ||ewgu.cn^
 ||ewiroa.com^
@@ -21342,7 +21348,6 @@ yydstxt*.com/js/html
 ||okmarts.com^
 ||okn57l1h.top^
 ||oknostr.com^
-||okokserver.com/uploads/haigou.
 ||okokserver.com/uploads/lesi/
 ||okooo.com/i/?method=system.data.ad&
 ||okoy.cn^
@@ -23234,6 +23239,7 @@ yydstxt*.com/js/html
 ||qcuncolm.com^
 ||qcvf.ifeng.com^
 ||qd.x4399.com^
+||qd38xgoin9.com^
 ||qdaily.com/mount_details/pc/
 ||qdasflqe.top^
 ||qdcqzs.com^
@@ -24213,6 +24219,7 @@ yydstxt*.com/js/html
 ||rkxy.com.cn/js/text_
 ||rl1vypwyd2.com^
 ||rlavvoeo.com^
+||rlduhmakdm.com^
 ||rleonemosvo.com^
 ||rlhhlp.icu^
 ||rliwiqr.icu^
@@ -24435,6 +24442,7 @@ yydstxt*.com/js/html
 ||ruby-china.com^
 ||rubyabalorios.com^
 ||ruciwan.com^
+||rucksack85.top^
 ||ruclips.net^
 ||rudhjah.top^
 ||ruenu.com^
@@ -27324,6 +27332,7 @@ yydstxt*.com/js/html
 ||tmatch.simba.taobao.com^*&name=tbuad&pid=
 ||tme.com^
 ||tmea116.oss-cn-beijing.aliyuncs.com^
+||tmkfjbitxzlhijfcenxe.top^
 ||tmkhirkrol.com^
 ||tmlat.com^
 ||tmll7.com^
@@ -29011,6 +29020,7 @@ yydstxt*.com/js/html
 ||vs-elektro.net^
 ||vsale365.com^
 ||vsbdgef.com^
+||vsbdvf.icu^
 ||vsct.cn^
 ||vseetvos.top^
 ||vsgif.com^
