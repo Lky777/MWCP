@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202604162004
-! Last modified: 16 Apr 2026 20:04 UTC
+! Version: 202604172000
+! Last modified: 17 Apr 2026 20:00 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -1315,7 +1315,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||ads.cdn.tvb.com^*.key
 @@||ads.lingxing.com^$~third-party
 @@||ads.privacy.qq.com^$domain=privacy.qq.com
-@@||ads.reddit.com^$domain=myqqjd.com
 @@||ads.tiktok.com^$generichide
 @@||ads.tiktok.com^$~third-party
 @@||adsense.woso.cn^$~third-party
@@ -1790,7 +1789,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||muzlan.top/ads/banner.png
 @@||muzlan.top^$generichide
 @@||mvcat.com^$generichide
-@@||myqqjd.com^$generichide
 @@||myssl.com/scripts/analyze.js
 @@||nceea.cn/content/images/ad/
 @@||netded.com/plus/ad_js.php?aid=3|
@@ -1819,7 +1817,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||pagead2.googlesyndication.com/pagead/*/show_ads_impl$domain=bilinovel.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl$domain=ff14angler.com|logi.im
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=doitwell.tw
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=huavod.com|huaren.live|tt1069.com|akashio.com|1991421.cn|kantie.org|kejilion.pro|bilinovel.com|mcappx.com|yeeach.com|blog.6ziz.com|docsmall.com|uiadmin.net|4horlover.com|23qb.net|4spaces.org|aboluowang.com|assbbs.com|chaojizhibo.net|chtoen.com|daxiaamu.com|demo.ama.pub|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|fsbot.xyz|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|mens1069.com|monnsutogatya.com|mpyit.com|myqqjd.com|numberempire.com|ozabc.com|pansearch.me|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wandhi.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org|yummy.best|zaixianjisuan.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=huavod.com|huaren.live|tt1069.com|akashio.com|1991421.cn|kantie.org|kejilion.pro|bilinovel.com|mcappx.com|yeeach.com|blog.6ziz.com|docsmall.com|uiadmin.net|4horlover.com|23qb.net|4spaces.org|aboluowang.com|assbbs.com|chaojizhibo.net|chtoen.com|daxiaamu.com|demo.ama.pub|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|fsbot.xyz|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|mens1069.com|monnsutogatya.com|mpyit.com|numberempire.com|ozabc.com|pansearch.me|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wandhi.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org|yummy.best|zaixianjisuan.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=duelmeta.com|linetv.tw|liout.com|moneysave.info|raenonx.cc|zxmee.com
 @@||pagead2.googlesyndication.com/pagead/js/google_top_exp.js$domain=ebb.io
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=knowlet3389.blogspot.com|knowlet3389.blogspot.hk|knowlet3389.blogspot.jp|knowlet3389.blogspot.tw|mnighthk.net|weithenn.org
@@ -3284,6 +3282,7 @@ yydstxt*.com/js/html
 ||4ufutzmihl.com^
 ||4v6a7i3dkz.com^
 ||4w3ol467n.com^
+||4w54d7rjg.com^
 ||4wbvq8yl2.com^
 ||4wg67b9vb.com^
 ||4wmiuiyd70.com^
@@ -12286,6 +12285,7 @@ yydstxt*.com/js/html
 ||fatbuddhastore.com^
 ||fatkun.net^
 ||faversary.top^
+||favourite74.com^
 ||fawb62hh9.com^
 ||faxadmin.net^
 ||faxingw.cn/js/*0
@@ -13391,6 +13391,7 @@ yydstxt*.com/js/html
 ||gd34ghdg9hc.com^
 ||gd7alilg.com^
 ||gdad01.com^
+||gdbegok47.com^
 ||gdbyhtl.net^*adfix/
 ||gdcbemina.com^
 ||gdcytv.cn^*.gif
@@ -13713,6 +13714,7 @@ yydstxt*.com/js/html
 ||gkhergik.com^
 ||gkryjuqq3.com^
 ||gkuresx.com^
+||gkvjmx3xf.com^
 ||gkvrdf.com^
 ||gkzhan.com^
 ||gl0r6d2uyy.com^
@@ -15239,6 +15241,7 @@ yydstxt*.com/js/html
 ||hqhair.com^
 ||hqluu46i3a.com^
 ||hqvkbn.icu^
+||hqvrvageaf.com^
 ||hrbxddg.com^
 ||hrdiscussion.com^
 ||hriy.cn^
@@ -16398,6 +16401,7 @@ yydstxt*.com/js/html
 ||itqseeh.icu^
 ||itqyik.icu^
 ||itraamelr.com^
+||its1zeqni.com^
 ||itscocloud.com^
 ||itsdrike.com^
 ||itsmeagain.xyz^
@@ -26433,6 +26437,7 @@ yydstxt*.com/js/html
 ||swoole.com/_images/w7.jpg
 ||swordnarmory.com^
 ||sworkingvpn.com^
+||swqerog.com^
 ||swqmuo.icu^
 ||swsm.net^
 ||swspaaasdfg.top^
@@ -27919,6 +27924,7 @@ yydstxt*.com/js/html
 ||tvsou.com/js/360ad.js
 ||tvsou.com^
 ||tvwish.com^
+||tvxvhx.icu^
 ||tvyan.com/images/jscss/tv-
 ||tvyun07.com/template/mytheme/statics/js/layer/
 ||tvzapt.icu^
@@ -29440,6 +29446,7 @@ yydstxt*.com/js/html
 ||wftihvn.xyz^
 ||wftv.com^
 ||wfvs.cn^
+||wfwadedzk.com^
 ||wfxypg.com^
 ||wgceetonr.com^
 ||wghaos.com^
@@ -29885,6 +29892,7 @@ yydstxt*.com/js/html
 ||wxhbwfg.com^
 ||wxikfd89f.com^
 ||wxx776sxqk.com^
+||wxy9b202h.com^
 ||wxynyij.icu^
 ||wxyz.com^
 ||wxztfkiga.com^
@@ -31268,6 +31276,7 @@ yydstxt*.com/js/html
 ||zh-h5-bifasports.com^
 ||zh-wpss.com.cn^
 ||zh.xchina.bond^
+||zh4qnnf63.com^
 ||zhainanba.org/ac/
 ||zhan.com^*/middle_ad_modal.js
 ||zhangmenglong.cn^
@@ -31571,6 +31580,7 @@ yydstxt*.com/js/html
 ||zwbngpnpa.com^
 ||zwdrjdyf.icu^
 ||zwfnfd.icu^
+||zwfqxj.icu^
 ||zwgqzgo.icu^
 ||zwlhfjh4h.com^
 ||zwvq.cn^
