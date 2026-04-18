@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202604172000
-! Last modified: 17 Apr 2026 20:00 UTC
+! Version: 202604181949
+! Last modified: 18 Apr 2026 19:49 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2116,6 +2116,7 @@ mdttz.com###overlay
 mdttz.com##.closeBtn
 mdttz.com##.popImage
 meijutt.*/js/pcjs/
+mkfjbitxzlhijf*.top/$script,xmlhttprequest,third-party
 sav123.com##.c-ad-pop
 sina.cn###float-btn
 sina.cn##.m-guss-caijing
@@ -2281,6 +2282,7 @@ yydstxt*.com/js/html
 ||0hagz9mdc.com^
 ||0hasprzzu.com^
 ||0iem8mw1lx.com^
+||0ihw4ipvm5.com^
 ||0jlhzq2b.com^
 ||0kkbb.com/js/i.js
 ||0m9mjmrd.top^
@@ -3210,6 +3212,7 @@ yydstxt*.com/js/html
 ||4667gwyg1.com^
 ||468123.xyz^
 ||46q8oxohlt.com^
+||46y7erj0mw.com^
 ||47.100.0.249/js/thea
 ||470730.xyz^
 ||47272.net^
@@ -3600,6 +3603,7 @@ yydstxt*.com/js/html
 ||614514.com^
 ||617api.com^
 ||61edd03ae1.com^
+||61fjluqray.com^
 ||620720.xyz^
 ||6223027.com^
 ||62422.cn/ggimg/
@@ -8160,6 +8164,7 @@ yydstxt*.com/js/html
 ||c6.friok.com^
 ||c64ihqx0gj.com^
 ||c6hhfkvxv.com^
+||c7bijgz6zr.com^
 ||c7o9xp4e4.com^
 ||c81.ipanocloud.com^
 ||c8nd30upgq.com^
@@ -8641,6 +8646,7 @@ yydstxt*.com/js/html
 ||cfminc.com^
 ||cfmoto-forum.com^
 ||cfoxpgfzxl.com^
+||cfssi03yg3.com^
 ||cfstack.com^
 ||cfusion-internet.com^
 ||cfxdcdnuvfrprnt.com^
@@ -8796,6 +8802,7 @@ yydstxt*.com/js/html
 ||chiens-de-france.com^
 ||chienthang-ng.com^
 ||chienzul.com^
+||childbirth44.top^
 ||china-cart.com^
 ||china-ef.com^
 ||china-news-online.com^
@@ -14819,6 +14826,7 @@ yydstxt*.com/js/html
 ||hgo06061uyi.com^
 ||hgreils.com^
 ||hgrinc.com^
+||hgruknobpq.com^
 ||hgygnh.com^
 ||hgyouxi.com/data/hgyouxiad/
 ||hh.jiankang.com^
@@ -15531,6 +15539,7 @@ yydstxt*.com/js/html
 ||i8tq.com/adimg/
 ||i8vod.com^
 ||i90ptshd.top^
+||i96wgz4nmy.com^
 ||i97wqa881u.com^
 ||i993.com^
 ||i9i3ko2o70.com^
@@ -17795,6 +17804,7 @@ yydstxt*.com/js/html
 ||l.ykimg.com^
 ||l0vij7q78.com^
 ||l1bj5pxqzk.com^
+||l1owmrzjdw.com^
 ||l235cj20z.com^
 ||l2dvij.net^
 ||l2qdfaq62o.com^
@@ -19644,6 +19654,7 @@ yydstxt*.com/js/html
 ||mkcmoto.com^
 ||mkd88.cc/16.32.jpg
 ||mkff.cn^
+||mkfjbitxzlhijfcenxej.top^
 ||mksolarenergy.com^
 ||mkue.cn^
 ||ml-static.com^
@@ -21807,6 +21818,7 @@ yydstxt*.com/js/html
 ||oz6q1drif.com^
 ||ozarke.com^
 ||ozsuper.com^
+||ozsvnlo.com^
 ||oztg6i0ass.com^
 ||ozwaxckbt.com^
 ||p-mo.net^
@@ -23660,6 +23672,7 @@ yydstxt*.com/js/html
 ||r40h9qvpq.com^
 ||r4uj20yt2u.com^
 ||r4uws5iu3g.com^
+||r5g13d8py3.com^
 ||r5gcp9.com^
 ||r5twojylmzsym.top^
 ||r66nv9ed.com^
@@ -28190,6 +28203,7 @@ yydstxt*.com/js/html
 ||ujhu.cn^
 ||ujlsiyp.cn^
 ||ujof.cn^
+||uk3eymh64c.com^
 ||ukagreed.com^
 ||ukcompanydir.com^
 ||ukew6uo7u1.com^
@@ -28624,6 +28638,7 @@ yydstxt*.com/js/html
 ||vegetablegame.com^
 ||vegetables-name.xyz^
 ||vegetation67.com^
+||vegmiedd.com^
 ||vegress566.com^
 ||vehohx.icu^
 ||veimg.cn^
@@ -30524,6 +30539,7 @@ yydstxt*.com/js/html
 ||xyydnode.com^
 ||xyyh.com.cn^
 ||xyzcvx.icu^
+||xzblht.icu^
 ||xzji.com/data/block_js/softshow_
 ||xzkumjdqj.com^
 ||xzwen.com^
@@ -31423,6 +31439,7 @@ yydstxt*.com/js/html
 ||zlinkw.com^
 ||zlnitethia.com^
 ||zlongad.com^$third-party
+||zltqrh.icu^
 ||zlyk.com^*/ysapp.
 ||zmdttx.icu^
 ||zmfsqn.com^
