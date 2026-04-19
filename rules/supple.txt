@@ -90,6 +90,7 @@
 ||collector.xhamster.com^
 ||go.xhamsterlive.com^
 ||analytics.yahoo.com^
+||mc.yandex.ru^
 
 ! .C
 ||img.alicdn.com/imgextra/i*/$domain=~aliyundrive.com
@@ -154,6 +155,7 @@ v=2&adZones
 .com/Scripts/LogTracer.js
 .com/static/js/action.js
 .com/static/js/up.js
+.com/static/telegram-loader.js?
 .com/static/v2/mip-stats-baidu/mip-stats-baidu.js
 .com/template/jable/ads/bottom.js
 /ad.js
