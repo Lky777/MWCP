@@ -6,11 +6,15 @@
 @@||eporner.com^$~third-party,
 
 ! .A1
+||attractivereception.com^
 ||fatalfear.pro^
+||infamous-growth.pro^
 ||ks.ferlytc.com^
 ||muddyclock.pro^
 ||palatable-soft.com^
 ||umini.shujupie.com^
+||www.hurtful-historian.com^
+||www.silent-basis.pro^
 
 ! .B1
 ||adsco.re^
@@ -203,6 +207,7 @@ _14c14p14v.js
 /load.gif
 /loading.gif
 /loading.jpg
+/static/img/*.gif
 /uploads/default/other/*.gif
 ||nibuaideren.icu/*.gif
 ||pic1.imgdb.cn/item/*.gif
@@ -374,6 +379,7 @@ baidu.com/mo/q/recommendpb/
 |https://rr.happymh.com/mbanner/*.gif.webp
 ||m.happymh.com/static/media/
 ||m.happymh.com/styles/friendAds.
+||rr.happymh.com/mbanner/gifwidf.webp
 
 ! heiliao
 |https://heiliao.com/index/statistics_common
