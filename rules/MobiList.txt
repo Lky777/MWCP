@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202604232010
-! Last modified: 23 Apr 2026 20:10 UTC
+! Version: 202604241957
+! Last modified: 24 Apr 2026 19:57 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -1437,6 +1437,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/*/videojs.ads.min.js$domain=linetv.tw
 @@||cgmodel.com/plugin/share/
 @@||chaintv.xyz/homestatic/js/adjs.js
+@@||chajianmi.com^$generichide
 @@||changyan.sohu.com/debug/cookie?
 @@||changyou.com^$generichide
 @@||cheshi-img.com/ad/csad_2019.js
@@ -1818,7 +1819,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||pagead2.googlesyndication.com/pagead/*/show_ads_impl$domain=bilinovel.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl$domain=ff14angler.com|logi.im
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=doitwell.tw
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=huavod.com|huaren.live|tt1069.com|akashio.com|1991421.cn|kantie.org|kejilion.pro|bilinovel.com|mcappx.com|yeeach.com|blog.6ziz.com|docsmall.com|uiadmin.net|4horlover.com|23qb.net|4spaces.org|aboluowang.com|assbbs.com|chaojizhibo.net|chtoen.com|daxiaamu.com|demo.ama.pub|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|fsbot.xyz|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|mens1069.com|monnsutogatya.com|mpyit.com|numberempire.com|ozabc.com|pansearch.me|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wandhi.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org|yummy.best|zaixianjisuan.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=chajianmi.com|huavod.com|huaren.live|tt1069.com|akashio.com|1991421.cn|kantie.org|kejilion.pro|bilinovel.com|mcappx.com|yeeach.com|blog.6ziz.com|docsmall.com|uiadmin.net|4horlover.com|23qb.net|4spaces.org|aboluowang.com|assbbs.com|chaojizhibo.net|chtoen.com|daxiaamu.com|demo.ama.pub|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|fsbot.xyz|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|mens1069.com|monnsutogatya.com|mpyit.com|numberempire.com|ozabc.com|pansearch.me|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wandhi.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org|yummy.best|zaixianjisuan.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=duelmeta.com|linetv.tw|liout.com|moneysave.info|raenonx.cc|zxmee.com
 @@||pagead2.googlesyndication.com/pagead/js/google_top_exp.js$domain=ebb.io
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=knowlet3389.blogspot.com|knowlet3389.blogspot.hk|knowlet3389.blogspot.jp|knowlet3389.blogspot.tw|mnighthk.net|weithenn.org
@@ -3146,6 +3147,7 @@ yydstxt*.com/js/html
 ||3rre9r4t2.com^
 ||3ryin2uj0x.com^
 ||3scale.net^
+||3sd6w6oga9.com^
 ||3sqvexc60y.com^
 ||3t0a4y8mpb7.com^
 ||3tdvohq4p.com^
@@ -3515,6 +3517,7 @@ yydstxt*.com/js/html
 ||5bayjqsrgd.com^
 ||5bess6df0.com^
 ||5bfa16mzhf.com^
+||5bkhq0lwmq.com^
 ||5c384e999a.com^
 ||5d7k30pv1u.com^
 ||5dfiuae82.com^
@@ -3678,6 +3681,7 @@ yydstxt*.com/js/html
 ||69t49.com/floating/layer.js
 ||69tianqi.com^
 ||6acupxubky.com^
+||6aoodbdx94.com^
 ||6arh.net^
 ||6avz.com^$script,third-party
 ||6b8emvi3ya.com^
@@ -7849,6 +7853,7 @@ yydstxt*.com/js/html
 ||brixstonegroup.com^
 ||brlbet10.com^
 ||brlbet5.com^
+||brnyzr.icu^
 ||broadcastmed.com^
 ||broadtime.com^
 ||brocktonfurniturema.com^
@@ -9576,6 +9581,7 @@ yydstxt*.com/js/html
 ||consumeririssalary.com^
 ||consumertrack.com^
 ||contactcars.com^
+||contagion77.com^
 ||contemplate23.top^
 ||content-sync.xyz^
 ||contentspread.net^
@@ -20528,6 +20534,7 @@ yydstxt*.com/js/html
 ||nbc24.com^
 ||nbcnewstools.net^
 ||nbdeli.com^
+||nbdpbxkf.top^
 ||nbegame.com/nbeos/*.jpg
 ||nbhedrelpl.com^
 ||nbinno.com^
@@ -23205,6 +23212,7 @@ yydstxt*.com/js/html
 ||q58nf16jd3.com^
 ||q5qo.com^
 ||q5sn40kmp2.com^
+||q5viqnac3i.com^
 ||q6iw41lkk.com^
 ||q6zikgclq9.com^
 ||q7qhlnyfx.com^
@@ -23633,6 +23641,7 @@ yydstxt*.com/js/html
 ||r3sub.com^*0.gif
 ||r3vlimited.com^
 ||r40h9qvpq.com^
+||r40xff8q48.com^
 ||r4uj20yt2u.com^
 ||r4uws5iu3g.com^
 ||r5g13d8py3.com^
@@ -24176,6 +24185,7 @@ yydstxt*.com/js/html
 ||rising.cn^*/pic-ad/
 ||rising.com.cn/weblog/
 ||risingl.com^
+||riskbird.com/riskbird-api/guest/uniongoods
 ||riskommunal.net^
 ||ristojoost.com^
 ||ritrag.com^
@@ -27871,6 +27881,7 @@ yydstxt*.com/js/html
 ||tttddb.icu^
 ||tttppp.oss-cn-guangzhou.aliyuncs.com^
 ||ttxjnt.icu^
+||ttzerqriro.com^
 ||tu1500919341.cc^
 ||tu2024020388.com^
 ||tu3168509469.cc^
@@ -28073,6 +28084,7 @@ yydstxt*.com/js/html
 ||u10nte4ba.com^
 ||u1102.com^
 ||u16d4beu5.com^
+||u1aczgx9so.com^
 ||u22011.com^
 ||u22066.com^
 ||u22088.com^
@@ -28635,6 +28647,7 @@ yydstxt*.com/js/html
 ||vd21modts.com^
 ||vdcasino1325.com^
 ||vdf5ge5a.com^
+||vdfgjn.icu^
 ||vdhatq0co.com^
 ||vdianying.cc/img/youhuiquan250.gif
 ||vdianying.cc/wp-content/plugins/wp-adblock-dedect/
@@ -29145,6 +29158,7 @@ yydstxt*.com/js/html
 ||vxhwczdeb.com^
 ||vxotu.com/i/*.gif
 ||vxrdwo.cn^
+||vxydbok.com^
 ||vxzgfx.cn^
 ||vyadd.com^
 ||vyncrest.xyz^
