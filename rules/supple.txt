@@ -20,6 +20,7 @@
 ||adsco.re^
 ||adspyglass.net^
 ||adsrvr.org^
+||adtrafficquality.google^
 ||advertiserurl.com^
 ||ahacdn.me^
 ||amung.us^
@@ -28,7 +29,9 @@
 ||cdnboostcache.com^
 ||clarity.ms^
 ||ddav.tv^
+||g.doubleclick.net^
 ||eroadvertising.com^
+||googlesyndication.com^
 ||jads.co^
 ||magsrv.com^
 ||mdynieu.com^
@@ -61,6 +64,8 @@
 ||miaowu.baidu.com^
 ||dl59007.bj.bcebos.com^
 ||tags.bluekai.com^
+||static.chartbeat.com^
+||ping.chartbeat.net^
 ||static.cloudflareinsights.com^
 ||d1yw1n0ddlrqxj.cloudfront.net^
 ||d3ccefxs96519j.cloudfront.net^
@@ -71,6 +76,7 @@
 ||e2elog.fetnet.net^
 ||ads.google.com^$third-party
 ||fundingchoicesmessages.google.com^
+||pagead2.googlesyndication.com^
 ||media-hls.growcdnssedge.com^
 ||media-hls.saawsedge.com^
 ||video.saawsedge.com^
