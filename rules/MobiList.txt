@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202604251950
-! Last modified: 25 Apr 2026 19:50 UTC
+! Version: 202604261612
+! Last modified: 26 Apr 2026 16:12 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -70,12 +70,12 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/Scripts/LogTracer.js
 .com/Scripts/idleAD.js
 .com/a_d/
-.com/abc.gif?
 .com/addnew.php
 .com/adgpt.js
 .com/adv1/?q=
 .com/api/models/
 .com/api/models?
+.com/api/models?landing=
 .com/api/v1/mediation/tracking?adUnit=
 .com/co/$domain=1anime.me
 .com/code.php?a=index&z=$script,third-party,xmlhttprequest
@@ -91,6 +91,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/dm/bofangxia.js
 .com/dm/dibu.js
 .com/dongcidaci/
+.com/events/1/*?a=
 .com/gg.js
 .com/gg/*?x=$script,third-party
 .com/google.js
@@ -323,6 +324,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /ab_my/pc_pf.js
 /ab_res/m/common.js
 /ab_res/pc/fixed/fixed.js
+/abc.gif?abTestVariant=
 /acmsd/*$script
 /ad.js
 /ad2v1.1.js
@@ -3282,6 +3284,7 @@ yydstxt*.com/js/html
 ||4pcp5e2w7i.com^
 ||4rcajmf0m.com^
 ||4rfns9bmp1.com^
+||4ro76m7k2n.com^
 ||4runner6g.com^
 ||4stand.com^
 ||4stateslaw.com^
@@ -10997,6 +11000,7 @@ yydstxt*.com/js/html
 ||dqiswip4.xyz^
 ||dqjrxj.icu^
 ||dqnajb.icu^
+||dqzooska.icu^
 ||dqzsteel.com/website/image/index/ytgg.gif
 ||dqzuroorrt.com^
 ||dr7dsx6u9.com^
@@ -12694,6 +12698,7 @@ yydstxt*.com/js/html
 ||fk3nf1xeh.top^
 ||fkesfg.com^
 ||fkf5.com/public/js/static.js
+||fkfovt.icu^
 ||fkhagviev.com^
 ||fkhv.net^
 ||fkiwozn.com^
@@ -12943,6 +12948,7 @@ yydstxt*.com/js/html
 ||fqanoreirlpa.com^
 ||fqhakaihvu.com^
 ||fqjdcerbk.com^
+||fqk6e78c80.com^
 ||fqoybwos7f.com^
 ||fqthetotf.com^
 ||fqtyucit.com^
@@ -13763,6 +13769,7 @@ yydstxt*.com/js/html
 ||gkvrdf.com^
 ||gkzhan.com^
 ||gl0r6d2uyy.com^
+||gla3sr9r1m.com^
 ||glacier32.com^
 ||glacier48.top^
 ||glacierfalcon72.xyz^
@@ -14436,6 +14443,7 @@ yydstxt*.com/js/html
 ||gzhswl.cn^
 ||gzk72wa1f.com^
 ||gzriheng.com^
+||gzsy12348.com^
 ||gzt.com^
 ||gzyzkou.com^
 ||gzzza.com/html/
@@ -16879,6 +16887,7 @@ yydstxt*.com/js/html
 ||jjwxc.net/jjad*.html$popup
 ||jjwxc.net/jjpopup.php
 ||jk-forum.com^
+||jk6wmqcut2.com^
 ||jkdesa.com^
 ||jke1.jianke.com^
 ||jklmnors.com^
@@ -20429,6 +20438,7 @@ yydstxt*.com/js/html
 ||n3567.com^
 ||n49.com^
 ||n4kd6phdxw.com^
+||n4qrsf6x88.com^
 ||n5725.com^
 ||n5a92p9zo.com^
 ||n6579.com^
@@ -23290,6 +23300,7 @@ yydstxt*.com/js/html
 ||qfirgakpv.com^
 ||qfwhko.icu^
 ||qgaecqm.com^
+||qgckb3ov46.com^
 ||qglrtpand.com^
 ||qgreedreau.com^
 ||qhaazaduez.com^
@@ -26496,6 +26507,7 @@ yydstxt*.com/js/html
 ||symlix.com^
 ||symplelending.com^
 ||symposium44.com^
+||symptom39.com^
 ||synacast.com^
 ||synalio.com^
 ||syncad.com^
@@ -31169,6 +31181,7 @@ yydstxt*.com/js/html
 ||z84dbowgc.com^
 ||z8ejh47.com^
 ||z90win.com^
+||z93grqmdaq.com^
 ||z9dy1kq9wv.com^
 ||z9sab7vr0b.com^
 ||zabc.net^
@@ -31647,6 +31660,7 @@ yydstxt*.com/js/html
 ||zwlhfjh4h.com^
 ||zwvg92l.com^
 ||zwvq.cn^
+||zwxtfp.icu^
 ||zx.docin.com^
 ||zx123.cn/templates/zx123cs/theme-2015/js/right_xh.js
 ||zx123.cn^
