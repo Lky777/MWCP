@@ -131,6 +131,7 @@
 .com:8008/sc/*?*=
 .com/api/models?
 .com/api/v1/mediation/tracking?adUnit=
+.com/events/1/*?a=
 .com/jserror?type=
 .com/social-plugins/js/lib/sentry.
 .world/000/flink/analytics.php
@@ -147,6 +148,7 @@ v=2&adZones
 /popup/adblock/promo/banner/
 .cc/apijs/image/
 .com/api/models/
+.com/api/models?landing=
 .com/static/image/
 .com/static/video/bn/
 .com/wp-content/plugins/ai-share-summarize/
@@ -187,7 +189,6 @@ _14c14p14v.js
 .cn/*/uploads/default/other/*.gif
 .cn/upload_01/upload/*.gif
 .cn/upload_01/xiao/*.gif
-.com/abc.gif?
 .com/template/wap/zhuimh/img/lazy-read.gif
 .net/static/images/*.gif
 .com/static/images/yutu.gif
@@ -204,6 +205,7 @@ _14c14p14v.js
 /960x120Q.gif
 /960X120.gif
 /a960x55.gif
+/abc.gif?abTestVariant=
 /bt960-60.gif
 /gg980-90.gif
 /whob.gif?
