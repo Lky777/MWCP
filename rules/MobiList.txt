@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202604272016
-! Last modified: 27 Apr 2026 20:16 UTC
+! Version: 202604282037
+! Last modified: 28 Apr 2026 20:37 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2103,9 +2103,9 @@ _yad_jsonp_
 a2zapk.io###modalpop
 baidu.com/heicha/mm/2027/acs-2027.js?
 baidu.com/mo/q/recommendpb/
-bitxzlhi*.top/$script,xmlhttprequest,third-party
 duckduckgo.com##.js-atb-banner
 eastmoney.com###openinapp
+fcenxe*.top/$script,xmlhttprequest,third-party
 haijiao.love###popup-mask
 hjziyan.wiki###popup-mask
 hxsame.hexun.com$domain=~quote.hexun.com
@@ -7014,6 +7014,7 @@ yydstxt*.com/js/html
 ||bdunion1.suxiazai.com^
 ||bdwmhz.120askimages.com^
 ||bdx.playnext.cn^
+||bdxbtv.icu^
 ||bdxydp.icu^
 ||bdzybf22.com^
 ||bea-s.dinghuoche.com^
@@ -8231,6 +8232,7 @@ yydstxt*.com/js/html
 ||c44n.net^
 ||c4d.cn/api.php?mod=ad&adid=
 ||c4ru5li2sa.com^
+||c5mwwyqfvi.com^
 ||c6.friok.com^
 ||c64ihqx0gj.com^
 ||c6hhfkvxv.com^
@@ -8300,6 +8302,7 @@ yydstxt*.com/js/html
 ||callexplore.com^
 ||callistanise.com^
 ||callmefred.com^
+||callosity19.top^
 ||callwithus.com^
 ||calpaktravel.com^
 ||calstatedir.com^
@@ -8745,6 +8748,7 @@ yydstxt*.com/js/html
 ||cfspl.com^
 ||cfssi03yg3.com^
 ||cfstack.com^
+||cftiqxg3mp.com^
 ||cfxdcdnuvfrprnt.com^
 ||cfykkghlguufcn109.top^
 ||cfzhushou.com^*/king_chance_layer.js
@@ -10364,6 +10368,7 @@ yydstxt*.com/js/html
 ||dcntr-ads.com^
 ||dcontrol.com^
 ||dcoynuhet.com^
+||dcpgdj.icu^
 ||dcpnuc4i.com^
 ||dcs.conac.cn/js/
 ||dctdigital.com^
@@ -16637,6 +16642,7 @@ yydstxt*.com/js/html
 ||itviec.com^
 ||itxueyuan.com/advpicture/
 ||itxueyuan.com^*.mp4
+||itxzlhijfcenxejclcaj.top^
 ||ityrqg.com^
 ||itzz.net^
 ||iucnwto.top^
@@ -16706,6 +16712,7 @@ yydstxt*.com/js/html
 ||j0saeheja5.com^
 ||j1.piaobing.com^
 ||j14sy.xyz^
+||j1bla75rck.com^
 ||j1s956aee8.com^
 ||j2fu64j4e.com^
 ||j2jtq0hpb.com^
@@ -18959,6 +18966,7 @@ yydstxt*.com/js/html
 ||lwadm.com^
 ||lwbo.cn^
 ||lwcnmtl.top^
+||lwdla7fjns.com^
 ||lwfdlv.icu^
 ||lwgadm.com^
 ||lwlegalgroup.com^
@@ -19712,6 +19720,7 @@ yydstxt*.com/js/html
 ||mgky6yjwq.com^
 ||mglkuhjn.xyz^
 ||mgous.com^
+||mgpl5pqg29.com^
 ||mgrwaui4.top^
 ||mgusl2940637fafa.com^
 ||mgux.cn^
@@ -21153,6 +21162,7 @@ yydstxt*.com/js/html
 ||niwota.com^$third-party
 ||nixstats.com^
 ||nizixun.com^
+||njawz0tlek.com^
 ||njdaily.cn/templates/njdaily2014/widget/njdaily-slideads
 ||njdwxxyem.com^
 ||njnsdcd.xyz^
@@ -22661,6 +22671,7 @@ yydstxt*.com/js/html
 ||photosyes.net^
 ||photovoltaikforum.com^
 ||phovietnam.top^
+||phow238wzh.com^
 ||phozatoi.com^
 ||php.cn/ad1.
 ||php.cn/hezuo/
@@ -22696,6 +22707,7 @@ yydstxt*.com/js/html
 ||piaotia.com/scripts/read/style
 ||piatraonline.com^
 ||pibelo.com^
+||pibpjoo0lm.com^
 ||pic.0597kk.com^
 ||pic.959.cn/media/js/
 ||pic.baihuawen.cn^
@@ -24470,6 +24482,7 @@ yydstxt*.com/js/html
 ||rfvgcross.com^
 ||rfvtgbyhn.com^
 ||rg-racing.com^
+||rg338ne0rt.com^
 ||rg84983is.com^
 ||rgaagnida.com^
 ||rgcrunzozp.com^
@@ -28242,6 +28255,7 @@ yydstxt*.com/js/html
 ||ts166.net^
 ||ts98cm48b.com^
 ||tsahelet.com^
+||tsaor7o1e9.com^
 ||tsarvgh.com^
 ||tsbdgef.com^
 ||tsbfask.com^
@@ -29597,6 +29611,7 @@ yydstxt*.com/js/html
 ||vxydbok.com^
 ||vyadd.com^
 ||vyar221.net^
+||vyczp.cn^
 ||vyncrest.xyz^
 ||vynzee.com^
 ||vyqn.cn^
@@ -31287,6 +31302,7 @@ yydstxt*.com/js/html
 ||yjprlwskt.com^
 ||yjzf.com^
 ||yk962.com^
+||yk9t90dlfx.com^
 ||ykdgmofwi.com^
 ||ykfqztvfj.com^
 ||yki9xpcuc.com^
@@ -32072,6 +32088,7 @@ yydstxt*.com/js/html
 ||zwfnfd.icu^
 ||zwfqxj.icu^
 ||zwlhfjh4h.com^
+||zwlpdo.cn^
 ||zwvg92l.com^
 ||zwvq.cn^
 ||zwxtfp.icu^
