@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202604282037
-! Last modified: 28 Apr 2026 20:37 UTC
+! Version: 202604292018
+! Last modified: 29 Apr 2026 20:18 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -7485,6 +7485,7 @@ yydstxt*.com/js/html
 ||blackdogla.com^
 ||blackfridaymegastore.com^
 ||blackhawkjapan.com^
+||blackhead35.com^
 ||blackjet.com^
 ||blackopsautoworks.com^
 ||blackpetalx.com^
@@ -7916,6 +7917,7 @@ yydstxt*.com/js/html
 ||bshare.cn/bshare_view?callback=
 ||bshyw.com^
 ||bsizoia.com^
+||bslbpb.icu^
 ||bsmkweb.com^
 ||bsofttreasure.com^
 ||bsv1.net^
@@ -11791,6 +11793,7 @@ yydstxt*.com/js/html
 ||emaldo.com^
 ||emallcyprus.com^
 ||embarqhsd.net^
+||embbl8sy3.com^
 ||embedan.com^
 ||embedlydesk.com^
 ||embedsports.top^
@@ -13246,6 +13249,7 @@ yydstxt*.com/js/html
 ||fullhousefurnituregallery.com^
 ||fullsource.com^
 ||fullvideoplacment.top^
+||fuma8ligq.com^
 ||fumarkel.com^
 ||fumo-shop.com^
 ||fumoshop.com^
@@ -18819,6 +18823,7 @@ yydstxt*.com/js/html
 ||lozinl.com^
 ||lp340p7czf.com^
 ||lp780937a.com^
+||lpaitrekoe.com^
 ||lpalartra.com^
 ||lpalaw.com^
 ||lparnaro.com^
@@ -22841,6 +22846,7 @@ yydstxt*.com/js/html
 ||pjicm.com^
 ||pjiptn.com^
 ||pjncsxad.com^
+||pjovytymn.com^
 ||pjtime.com/js/show_ad
 ||pjtwe.com^
 ||pk-touch.com^
@@ -29427,6 +29433,7 @@ yydstxt*.com/js/html
 ||vmj428qvi4.com^
 ||vmkp.cn^
 ||vmlrxs.top^
+||vmn05pnuh.com^
 ||vmuid.com^
 ||vmyv.cn^
 ||vncnus.net^
@@ -31475,6 +31482,7 @@ yydstxt*.com/js/html
 ||yuelmodqhrw.com^
 ||yuesha.com^
 ||yuexiqf.com^
+||yuhn5w31n.com^
 ||yui-nya.com/wp-content/uploads/2016/12/37011.jpg
 ||yui-nya.com/wp-content/uploads/2016/12/neta370-370.jpg
 ||yui06111shga.com^
@@ -31779,6 +31787,7 @@ yydstxt*.com/js/html
 ||zgqsc3shr.com^
 ||zgshige.cn^
 ||zgtsjy.com^
+||zgttfnkcztzpjc.com^
 ||zgzxm.weathercn.com^
 ||zh-ch-9game.com^
 ||zh.xchina.bond^
