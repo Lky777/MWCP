@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202604292018
-! Last modified: 29 Apr 2026 20:18 UTC
+! Version: 202604301527
+! Last modified: 30 Apr 2026 15:27 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -77,6 +77,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/api/models?
 .com/api/models?landing=
 .com/api/v1/mediation/tracking?adUnit=
+.com/beacon.js
 .com/co/$domain=1anime.me
 .com/code.php?a=index&z=$script,third-party,xmlhttprequest
 .com/config/v7.js
@@ -95,7 +96,9 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/gg.js
 .com/gg/*?x=$script,third-party
 .com/google.js
+.com/gtag/js?id=
 .com/images/102.js
+.com/images/cleardot.gif
 .com/java/shang1.js
 .com/java/xia1.js
 .com/java/youxia.js
@@ -264,6 +267,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .xyz/*=$object,third-party
 .xyz/99x/
 .xyz/?channelcode=$csp=script-src
+.xyz/getAdsData
 .xyz/js/addp.js
 .xyz/jt.php?
 .xyz/o.js$script,third-party
@@ -875,6 +879,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /static/js/gold_daddy.js
 /static/js/headad.js
 /static/js/pop_promotion.js?v=
+/static/upload/adsbanner/
 /statics/recommend/bense.gif
 /stui_ads/xyz456e/
 /stuia004/statics/asd/
@@ -2155,6 +2160,7 @@ yydstxt*.com/js/html
 |https://*.baidu.com/mo/q/getVersionInfo?
 |https://11.mydrivers.com/js/2022/storageHelper.js?
 |https://8se.me/ajax.php
+|https://a.et.nytimes.com/track
 |https://a2zapk.io/js/apk2019.js?
 |https://api.toutiaoapi.com/api/news/feed/v88/?
 |https://av6k.com/templets/default/parts/txt.js?
@@ -2244,6 +2250,7 @@ yydstxt*.com/js/html
 ||06789.xyz^
 ||06cp8ypn8j.com^
 ||06evyxnibl.com^
+||06hkgn0jl3.com^
 ||07073.com/api/getkflist?
 ||07073.com/pc/js/right-ad.
 ||071kk.com^
@@ -5092,6 +5099,7 @@ yydstxt*.com/js/html
 ||afastores.com^
 ||afce.cn^
 ||afcgcq.icu^
+||affection28.top^
 ||affidavitheadfirstonward.com^
 ||affijet.com^
 ||affiliatefix.com^
@@ -8779,7 +8787,6 @@ yydstxt*.com/js/html
 ||chabei2050.com^
 ||chachefa.com/asdfasdfqwer/
 ||chagnougroalry.net^
-||chahaoba.com^
 ||chahua.org/aimg/
 ||chaikinanalytics.com^
 ||chainstoreage.com^
@@ -10108,6 +10115,7 @@ yydstxt*.com/js/html
 ||d.8181zx.com^
 ||d.ab126.com^
 ||d.dgzj.com^
+||d.line-scdn.net/r/web/social-plugin/
 ||d.win10com.com^
 ||d.ziyuanm.com^
 ||d0.xcar.com.cn^
@@ -11570,7 +11578,6 @@ yydstxt*.com/js/html
 ||edgedeco.com^
 ||edgee-dns.com^
 ||edgeflyfishing.com^
-||edgelib.net^
 ||edgenextcname.com^
 ||edgesupply.com^
 ||edgexml.com^
@@ -11964,6 +11971,7 @@ yydstxt*.com/js/html
 ||eqcms.com^
 ||eqfreelance.net^
 ||eqieg6yn5.com^
+||eqlhb8m42q.com^
 ||eqqp.cn^
 ||equalfact.com^
 ||equativ.com^
@@ -12796,6 +12804,7 @@ yydstxt*.com/js/html
 ||fjdai.com^
 ||fjisu.*/js/huimi.js
 ||fjlqqc.com/common/api/v1.0/slot-code/
+||fjpopxgyfrlxvc.com^
 ||fjsen.com:81/mysql/count/
 ||fjsjf2940637fafa.com^
 ||fjyvb2940637fafa.com^
@@ -13251,6 +13260,7 @@ yydstxt*.com/js/html
 ||fullvideoplacment.top^
 ||fuma8ligq.com^
 ||fumarkel.com^
+||fummd03je4.com^
 ||fumo-shop.com^
 ||fumoshop.com^
 ||fun1shot.com/images/qrcode_wechat.png
@@ -19049,6 +19059,7 @@ yydstxt*.com/js/html
 ||m1.nn670.com^
 ||m1.vodjk.com^
 ||m1.we556.com^
+||m11bkuusyb.com^
 ||m17d1e83q.com^
 ||m1905.cn/afp/mdsfw.js
 ||m1905.cn/data/suspension_
@@ -19079,6 +19090,7 @@ yydstxt*.com/js/html
 ||m7xssfiit.com^
 ||m81mfege2.com^
 ||m8gkr0.com^
+||m8h5qjmlb3.com^
 ||m8ryjf38a.com^
 ||m8zgls6zt.com^
 ||m91nu231.com^
@@ -20232,6 +20244,7 @@ yydstxt*.com/js/html
 ||mozaico.com^
 ||moznaim.com^
 ||mozoapi.com^
+||mp1sy1nri8.com^
 ||mp3.haogeba.com^$image,object
 ||mp3larger.com^
 ||mp3stack.com^
@@ -26530,6 +26543,7 @@ yydstxt*.com/js/html
 ||static.chartbeat.com^
 ||static.cloudflareinsights.com^
 ||static.doyouhike.net/partner/
+||static.easrv.cl^
 ||static.gaomaer.cn^
 ||static.gridsumdissector.com^
 ||static.ichehome.com^
@@ -29829,6 +29843,7 @@ yydstxt*.com/js/html
 ||wdrb.com^
 ||wdrixjezn.com^
 ||wdrn97z1o.com^
+||wdtuc.cn^
 ||wdtw.cn^
 ||wdwinfo.com^
 ||wdwmagic.com^
@@ -30423,10 +30438,13 @@ yydstxt*.com/js/html
 ||www.colamanga.com/counting
 ||www.dmhy.org^*.*?$image
 ||www.ghxi.com/wp-content/plugins/core-ai-power/
+||www.googletagmanager.com^
+||www.googletagservices.com^
 ||www.hanguomanhua.me/cache.js
 ||www.hanguomanhua.me/style2/001.gif
 ||www.hanguomanhua.me/style2/fc.js
 ||www.hurtful-historian.com^
+||www.line-website.com/social-plugins/
 ||www.ruanyifeng.com/blog/checker.js
 ||www.ruanyifeng.com/blog/stats.js
 ||www.silent-basis.pro^
@@ -32087,6 +32105,7 @@ yydstxt*.com/js/html
 ||zupyak.com^
 ||zvciaoan1k.com^
 ||zvgvenibe.com^
+||zvhtzl.icu^
 ||zvornix.com^
 ||zvou.cn^
 ||zvptrf.icu^
