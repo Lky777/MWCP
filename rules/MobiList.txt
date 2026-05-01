@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202604302017
-! Last modified: 30 Apr 2026 20:17 UTC
+! Version: 202605012009
+! Last modified: 01 May 2026 20:09 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2921,6 +2921,7 @@ yydstxt*.com/js/html
 ||2y2lttjs.hair^
 ||2y2s.com^
 ||2yjw.com/statics/js/jquery.min.
+||2ytoxb1r7.com^
 ||2zbs.com^
 ||2zjftxgl5s.com^
 ||2ztav5r7r.com^
@@ -3120,6 +3121,7 @@ yydstxt*.com/js/html
 ||3hads4i5hm.com^
 ||3hfmrv8d45.com^
 ||3hg6yh6h0.com^
+||3hx1ui2vt.com^
 ||3i3w8hl6do.com^
 ||3ikcnjvsx.com^
 ||3j1fiw14n9.com^
@@ -10162,6 +10164,7 @@ yydstxt*.com/js/html
 ||d5zkrmttu.com^
 ||d6.mobaders.com^
 ||d67p.com/love/
+||d6er6wrvw.com^
 ||d6gsujd8v.com^
 ||d6hvvn5jvc.com^
 ||d6xpk47jh.com^
@@ -10565,6 +10568,7 @@ yydstxt*.com/js/html
 ||devioussolver.com^
 ||devll8j4n.com^
 ||devops.com^
+||devpz.cn^
 ||dewalist.com^
 ||dewsima.com^
 ||dexiansheng.com^
@@ -14271,6 +14275,7 @@ yydstxt*.com/js/html
 ||gpuopen.com^
 ||gpxz.com/js2/
 ||gpycvac.com^
+||gqcrgyufg.com^
 ||gqwu.cn^
 ||gqxwfhe7o.com^
 ||gr-hotels.net^
@@ -17177,6 +17182,7 @@ yydstxt*.com/js/html
 ||jp1357.com/addon/
 ||jp2468.com/addon/
 ||jp2468.com/api/vip/vipshow.php
+||jp532fdo5.com^
 ||jpadilla.com^
 ||jpar.com^
 ||jpavcom.com^
@@ -20946,6 +20952,7 @@ yydstxt*.com/js/html
 ||networkgond.com^
 ||neuce.com^
 ||neuralstemcell.com.cn/img/js.js
+||neurologist19.com^
 ||neutricleana.com^
 ||nevadaappeal.com^
 ||nevercoll.com^
@@ -28411,6 +28418,7 @@ yydstxt*.com/js/html
 ||tvcnmti.top^
 ||tvconv.com^
 ||tvfvxr.icu^
+||tvj8lylgv.com^
 ||tvlmzx.icu^
 ||tvmwebsitecdn.com^
 ||tvovermind.com^
@@ -30507,6 +30515,7 @@ yydstxt*.com/js/html
 ||x3vid.com^
 ||x42zfctilh.com^
 ||x43slxjwzx.com^
+||x4bxnav4g.com^
 ||x4hu95mh0t.com^
 ||x5nws.com^
 ||x6d93mku0.com^
@@ -30643,6 +30652,7 @@ yydstxt*.com/js/html
 ||xhr7cqlob.com^
 ||xhreal5.com^
 ||xhsocial.com^
+||xhtkm35sw.com^
 ||xhwebsite.com^
 ||xhymsq.com/data/attachment/portal/
 ||xhzhu2940637fafa.com^
@@ -31659,6 +31669,7 @@ yydstxt*.com/js/html
 ||zaimads.com^
 ||zalora.com^
 ||zaltreon.xyz^
+||zalwlz.icu^
 ||zamboanga.com^
 ||zamiasfinable.com^
 ||zanghaihua.org/js/
