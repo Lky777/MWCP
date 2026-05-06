@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202605052017
-! Last modified: 05 May 2026 20:17 UTC
+! Version: 202605062043
+! Last modified: 06 May 2026 20:43 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -11,8 +11,8 @@
 ##.van-overlay
 ##.van-popup--center
 $csp=script-src 'self' * 'unsafe-inline',domain=bijiyd.com|7zhens.com|wamuku.cc|scmmxs.com|jinduxs.com|buhesw.com|luenbook.cc|zahubook.com|heciwk.com|quhesw.com|erzuwk.com|bowoxs.com|guashuge.com|mudanxs.com|mzbook.cc|haduks.com|caimozw.com|zaaizw.com|bogeks.com|oushuku.com|haxu8.com|pucixs.com|tuqisw.com|xueyisw.com|zuye8.com|yawoxs.com|guwoxs.com|jiufuzw.com|beianxs.com|shuying6.com|mafusw.com|cule9.com|riquzw.com|xingksw.com|enbusw.com|waguwk.cc|ruyisw.com|zuxiku.com|jinmusb.com|hunshuge.com|puyewk.com|kaaiwk.com|hadu520.com|qubosw.com|meisibook.com|cuaizw.cc|boxue8.cc|cipubook.com|ququsk.cc|yiyezao.com|shanhuxs.com|jiutusw.com|chahuax.com|candoug.com|hanziwen.com|haduzw.com|modaoshu.com|nipubook.com|nuoshuge.com|puquz.com|wuwusk.com
-$csp=script-src 'self' * 'unsafe-inline',domain=kbook8.com|yemancomic.com|erciyan.com|feiguaks.com|iqmxs.cc|hshfm.com|xbiqige.cc|1qxs.com|xddxsw.net|98dxs.net|bisowu.net|zyywenxue.com|xiakezw.com|biqul.com|biqugeks.org|girlsoncam.net|japonfilmleri.com|minaeast.net|shumi.la|59xs.com|biqugen.com|8181zw.vip|biqugequ.org|69shumi.com|fxxs3.com|efuxs.com|i3book.com|genbiquge.com|quanbiqu.com|pinshu.org|13xsw.com|bbiquge.cc|taobiquge.com|haijiaobooksw.top|zlobin.net|piaotianxiaoshuo.com|jvbiquge.com|vipbiquge.com|jpbqg7.com|zuizhong.net|oldtimeswx.org|5book.cc|softtechsolution.org|product44.com|snxsw.com|xiexinde.net|m.6666xsw.com|m.niupizhi.net|jmshuwu.net|wodexiaoshuoh.com|tetservices.net|haitangsoshu.org|4hrz.net|x33yq.org|56xiaoshuo.net|novelser.com|ykxs.cc|biqudd.com|diyibanzhu44444.com|dbrxs.org|kaixindu.net|1ingatlan.net|gaofuwu.org|yushuwu.cloud|yswxs.com|biquge2345.com|dingdian911.com|bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|2kans.net|aidu123.com|biquluo.info|bqgh.com|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com|zk01.net
 $csp=script-src 'self' * 'unsafe-inline',domain=smsonline.cloud
+$csp=script-src 'self' * 'unsafe-inline',domain=ygshu.com|kbook8.com|yemancomic.com|erciyan.com|feiguaks.com|iqmxs.cc|hshfm.com|xbiqige.cc|1qxs.com|xddxsw.net|98dxs.net|bisowu.net|zyywenxue.com|xiakezw.com|biqul.com|biqugeks.org|girlsoncam.net|japonfilmleri.com|minaeast.net|shumi.la|59xs.com|biqugen.com|8181zw.vip|biqugequ.org|69shumi.com|fxxs3.com|efuxs.com|i3book.com|genbiquge.com|quanbiqu.com|pinshu.org|13xsw.com|bbiquge.cc|taobiquge.com|haijiaobooksw.top|zlobin.net|piaotianxiaoshuo.com|jvbiquge.com|vipbiquge.com|jpbqg7.com|zuizhong.net|oldtimeswx.org|5book.cc|softtechsolution.org|product44.com|snxsw.com|xiexinde.net|m.6666xsw.com|m.niupizhi.net|jmshuwu.net|wodexiaoshuoh.com|tetservices.net|haitangsoshu.org|4hrz.net|x33yq.org|56xiaoshuo.net|novelser.com|ykxs.cc|biqudd.com|diyibanzhu44444.com|dbrxs.org|kaixindu.net|1ingatlan.net|gaofuwu.org|yushuwu.cloud|yswxs.com|biquge2345.com|dingdian911.com|bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|2kans.net|aidu123.com|biquluo.info|bqgh.com|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com|zk01.net
 $csp=script-src 'self' *,domain=yebiquge.com|zduxs.com|90shuyuan.com|hunhunxs.com|sswwxs.com|akexs.com|qqmmxs.com|qimiaoxs.cc|qimiaoxiaoshuo.com|wuwxs.com|biquge678.com|biqugezw.us
 $domain=ads.adxadserv.com|adserver.juicyads.com|cs.adxpansion.com|olmsoneenh.info|static.javhd.com|syndication.exosrv.com
 $domain=googleads.g.doubleclick.net
@@ -2498,6 +2498,7 @@ yydstxt*.com/js/html
 ||127.net/external/js6public126_
 ||127.net/external/js6public163_
 ||127.net/m/*/prompic.jpg
+||129esrd5q5.com^
 ||12dz.com^
 ||12ozprophet.com^
 ||12ybs41sa.com^
@@ -4232,6 +4233,7 @@ yydstxt*.com/js/html
 ||9duw.com/js/sj
 ||9duw.com/pic/
 ||9e0917xf7x.com^
+||9ep0z3su1e.com^
 ||9ez.me/embd.php?type=
 ||9f0usaep8c.com^
 ||9fcoh811c.com^
@@ -5194,6 +5196,7 @@ yydstxt*.com/js/html
 ||ahpmedicals.com^
 ||ahqihkm.top^
 ||ahsccn.com^
+||ahtjhe1bka.com^
 ||ahupio.icu^
 ||ahuys.net/runtime/js/
 ||ahuys.net/sys
@@ -5959,6 +5962,7 @@ yydstxt*.com/js/html
 ||apwin.com^
 ||apxmegink.com^
 ||aq00.com^
+||aq0vs4ftni.com^
 ||aqc.gucheng.com^
 ||aqdstatic.com^
 ||aqdy.net/js/banner.js
@@ -6722,6 +6726,7 @@ yydstxt*.com/js/html
 ||baltyre.com^
 ||balvehgmhw.com^
 ||bamnol.com^
+||bandages84.com^
 ||bandao.cn^
 ||bandedbracelets.com^
 ||banditalley.net^
@@ -8845,6 +8850,7 @@ yydstxt*.com/js/html
 ||cgeib2940637fafa.com^
 ||cgfordparts.com^
 ||cgfxw.com^
+||cgihh.cn^
 ||cgkthn.com^
 ||cgmoto.com^
 ||cgmszj.com^
@@ -13177,6 +13183,7 @@ yydstxt*.com/js/html
 ||fpgxyjv3h.com^
 ||fpidasia.com^
 ||fpiml2940637fafa.com^
+||fprrpv.icu^
 ||fpyj.net^
 ||fqanoreirlpa.com^
 ||fqhakaihvu.com^
@@ -16415,6 +16422,7 @@ yydstxt*.com/js/html
 ||inovatrum.com^
 ||inpa29d7r79.com^
 ||inping.com^$third-party
+||inquiry64.top^
 ||inreality.com^
 ||inrecsys.popin.cc^
 ||insauga.com^
@@ -18322,6 +18330,7 @@ yydstxt*.com/js/html
 ||lbpost.com^
 ||lbpslb.icu^
 ||lbtup2025.com^
+||lbu6cadqq5.com^
 ||lbvmnh.icu^
 ||lbx777.*/css/300.js
 ||lbx777.*/css/lbxgg02
@@ -20525,6 +20534,7 @@ yydstxt*.com/js/html
 ||my0832.com/xyz/xx/
 ||my4700.com/js/*.js
 ||my66vx6f.com^
+||mya2pg8cdg.com^
 ||myadmessenger.com^
 ||myanimeshelf.com^
 ||myappgurus.com^
@@ -21747,6 +21757,7 @@ yydstxt*.com/js/html
 ||okcfox.com^
 ||okcis.cn^
 ||okdatasheet.com^
+||okeeblr.com^
 ||okeyproxy.com^
 ||okgfw.top^
 ||okgg.top^
@@ -23500,6 +23511,7 @@ yydstxt*.com/js/html
 ||pudyrxxaq.com^
 ||pueblos20.net^
 ||puertocartagena.com^
+||puevklj.com^
 ||pufted.com^
 ||pugzutzi.com^
 ||pulfinik.com^
@@ -23619,6 +23631,7 @@ yydstxt*.com/js/html
 ||q06g.com^
 ||q1.yyxwzx.com^
 ||q1txsah8s.com^
+||q1yv4669q6.com^
 ||q29k22vpu.com^
 ||q2fwgl4q8.com^
 ||q2tqrsh02.com^
@@ -23844,6 +23857,7 @@ yydstxt*.com/js/html
 ||qnvod.net/qna/
 ||qnwuamy.top^
 ||qnwucny.top^
+||qnywjs.buzz^
 ||qocngbb03.com^
 ||qoder.com^
 ||qooglecdn.com^
@@ -24870,6 +24884,7 @@ yydstxt*.com/js/html
 ||ru12367.com^
 ||ru24.net^
 ||ru4zpuu.com^
+||rua50s4es8.com^
 ||ruanyifeng.com/9he/
 ||rubenwardy.com^
 ||rubrafoz.com^
@@ -31337,7 +31352,6 @@ yydstxt*.com/js/html
 ||yggleak.top^
 ||yghalathio.com^
 ||yghonola.com^
-||ygshu.com/js/h
 ||ygx2myq993.com^
 ||yh823ogu6b.com^
 ||yhak0o7rtz.com^
