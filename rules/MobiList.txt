@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202605082014
-! Last modified: 08 May 2026 20:14 UTC
+! Version: 202605092000
+! Last modified: 09 May 2026 20:00 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2289,6 +2289,7 @@ yydstxt*.com/js/html
 ||0bs094t26.com^
 ||0couchtuner.com^
 ||0d1oo8jp69.com^
+||0dy3evz6x.com^
 ||0e1y8x7ft.com^
 ||0e7mnbmbb.com^
 ||0e9knynfb.com^
@@ -12266,6 +12267,7 @@ yydstxt*.com/js/html
 ||everythingmoe.com^
 ||everywatch.com^
 ||everywhereyouwant.com^
+||evidence20.com^
 ||evilgreed.com^
 ||evilrapshield.com^
 ||evio-edc.com^
@@ -14706,6 +14708,7 @@ yydstxt*.com/js/html
 ||h5vem1jjft.com^
 ||h6295.com^$popup
 ||h6fh0e4hg.com^
+||h7ima6w5k.com^
 ||h864k5wszsi.com^
 ||h8cjr6nhm.com^
 ||h9806gjhz.com^
@@ -14923,6 +14926,7 @@ yydstxt*.com/js/html
 ||hcacsz.com.cn^
 ||hcamag.com^
 ||hcbbsoss.oss-cn-hangzhou.aliyuncs.com^*-banner
+||hcf5yqdq3.com^
 ||hcflcm.com^
 ||hcgcontent.com^
 ||hcgv1dt8.com^
@@ -16819,6 +16823,7 @@ yydstxt*.com/js/html
 ||izgl.cn^
 ||izhgqk1lxh.com^
 ||izhuyin.com^
+||izkgl35mq.com^
 ||izlenzi.com^
 ||izopsg.icu^
 ||iztwp.com/images/
@@ -18586,6 +18591,7 @@ yydstxt*.com/js/html
 ||liftkits4less.com^
 ||liftyad.xyz^
 ||ligabet24.com^
+||ligature73.top^
 ||light-ott.net^
 ||light-yindunixiya.com^
 ||lightad.com^
@@ -23758,6 +23764,7 @@ yydstxt*.com/js/html
 ||qidian.com/images/990x40_
 ||qidou.com^$third-party
 ||qidw.cn^
+||qiey8zrxz.com^
 ||qifake.com^
 ||qighodetfg.com^
 ||qigreveth.com^
@@ -23875,6 +23882,7 @@ yydstxt*.com/js/html
 ||qnwuamy.top^
 ||qnwucny.top^
 ||qnywjs.buzz^
+||qnywphp.forum^
 ||qnywsrc.buzz^
 ||qocngbb03.com^
 ||qoder.com^
@@ -24278,6 +24286,7 @@ yydstxt*.com/js/html
 ||rdblieez7.com^
 ||rddiy.com^
 ||rdeskwebsite.com^
+||rdgck4jo4.com^
 ||rdgqkfxio.com^
 ||rdmpkv76tv.com^
 ||rdotechservers.com^
@@ -25915,6 +25924,7 @@ yydstxt*.com/js/html
 ||siqc.cn^
 ||sirmaison.com^
 ||sirsidynix.net^
+||sirsplajp.com^
 ||siseli.com^
 ||sistersandseekers.com^
 ||sisurl.com^
@@ -31265,6 +31275,7 @@ yydstxt*.com/js/html
 ||yao7392.xyz^
 ||yaofangwang.com^
 ||yaojingweiba.com/inc/
+||yaokanwx.com/tongji/
 ||yaolan.com/ylk.mini.js
 ||yaoota.com^
 ||yaoyl.com/js/ds.js
@@ -32314,6 +32325,7 @@ yydstxt*.com/js/html
 ||zyek35wsn.com^
 ||zyfira69.com^
 ||zygart.cn^
+||zyifk.cn^
 ||zykemomo.com^
 ||zymakzaeddla.com^
 ||zyuken.net^
