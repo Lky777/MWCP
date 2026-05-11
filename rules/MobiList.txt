@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202605102002
-! Last modified: 10 May 2026 20:02 UTC
+! Version: 202605110853
+! Last modified: 11 May 2026 08:53 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -1553,7 +1553,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||em.hk/wp-content/uploads/*_300_250.
 @@||emome.net/files/advertising/
 @@||eolinker.com^$generichide
-@@||eporner.com^$~third-party,
 @@||epubit.com/static/epubit/share/js/share.min.js
 @@||eslite.com^*/ad
 @@||ettoday.net^$generichide
@@ -4234,6 +4233,7 @@ yydstxt*.com/js/html
 ||9ffyu1g9c.com^
 ||9fum.ifeng.com^
 ||9gau3j8x7.com^
+||9ge9rc85r.com^
 ||9gtb.com^
 ||9gti.com^
 ||9h3s1ew2qn.com^
@@ -5333,6 +5333,7 @@ yydstxt*.com/js/html
 ||ajjo5hsvlp.com^
 ||ak2yy.com^
 ||ak530.com/js/*.js
+||ak7ko01zs.com^
 ||akabebe.com/jgg/*.gif
 ||akamaihd.net^*/gsd.html?d=
 ||akamaihd.net^*/sid.html?p=
@@ -10232,6 +10233,7 @@ yydstxt*.com/js/html
 ||d3s9in1sg.com^
 ||d4.sina.com.cn^$object,script
 ||d48paxyhx.com^
+||d4rxxm6ig.com^
 ||d4vd.life/love/
 ||d4xmm7es84.com^
 ||d5.sina.com.cn^$image,domain=~www.sina.com.cn
@@ -11592,6 +11594,7 @@ yydstxt*.com/js/html
 ||ebroktean.com^
 ||ebrpl.com^
 ||ebrun.com/jfile/position/js/*.js
+||ebsqxaj8u.com^
 ||ebuyso.com^
 ||ebyr1w.cn^
 ||ec0d919893.com^
@@ -11730,6 +11733,7 @@ yydstxt*.com/js/html
 ||efhub.com^
 ||efirds.net^
 ||efmh.cn^
+||efsy7b1x6.com^
 ||eftd.cn^
 ||efu871zc4.com^
 ||eg4electronics.com^
@@ -17015,6 +17019,7 @@ yydstxt*.com/js/html
 ||jia.com/js/zixun/news.js
 ||jia.com/js/zixun/zixun_
 ||jia.com^
+||jia183d6v.com^
 ||jia6983.xyz^
 ||jiajinjinshu.com^
 ||jialingmm.net/dm/tj.js
@@ -23399,6 +23404,7 @@ yydstxt*.com/js/html
 ||propscom.com^
 ||propso.com^
 ||propylo.com^
+||prosecute39.top^
 ||prosple.com^
 ||prosportslive.net^
 ||proswimwear.com^
@@ -28207,6 +28213,7 @@ yydstxt*.com/js/html
 ||trendollajewelry.com^
 ||trends.com.cn/k.js
 ||trendsmask.com^
+||trepanation07.top^
 ||trerqekuw.com^
 ||treselite.com^
 ||trexiptv.com^
@@ -30339,6 +30346,7 @@ yydstxt*.com/js/html
 ||workdaysuv.com^
 ||workdaysuvcareers.com^
 ||workdaysuvsite.com^
+||workdeadlinededicate.com^
 ||workera.com^
 ||workers.dev^$domain=axiang.cc
 ||working-dog.net^
