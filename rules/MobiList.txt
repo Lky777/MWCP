@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202605122047
-! Last modified: 12 May 2026 20:47 UTC
+! Version: 202605132052
+! Last modified: 13 May 2026 20:52 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2902,6 +2902,7 @@ yydstxt*.com/js/html
 ||2gnc.com^
 ||2hhgg.com^
 ||2hiu.com^$third-party
+||2hlcovn7n.com^
 ||2i0lliongn.com^
 ||2juyabihe.com^
 ||2kandy.com/js/123/
@@ -10678,6 +10679,7 @@ yydstxt*.com/js/html
 ||dexliron.xyz^
 ||deyangs.com/img/
 ||deyi.com^
+||df33iyey8.com^
 ||df888.eastday.com^
 ||df92-serv.net^
 ||dfangalti.com^
@@ -13602,6 +13604,7 @@ yydstxt*.com/js/html
 ||gamersky.com/common/tg/
 ||gamersky.com/g/gamerskyflash.js
 ||gamersky.com/wap/js/gs/gsallopenappbtn.
+||gamersky.com^*/getadpositionincdetail?
 ||gamerswithjobs.com^
 ||games-for-smart.com^
 ||games.ifeng.com^$subdocument
@@ -17550,6 +17553,7 @@ yydstxt*.com/js/html
 ||k8mb640mta.com^
 ||k8velr77p.com^
 ||k90ey77nx.com^
+||k98033ewp.com^
 ||k99.cc^$third-party
 ||k9egtgh8v.com^
 ||k9l2jm8q.com^
@@ -18807,6 +18811,7 @@ yydstxt*.com/js/html
 ||lm.ijq.tv^
 ||lm1.tuliu.com^
 ||lm1.wkpcw.cn^
+||lm4u6e80f.com^
 ||lmcomments.com^
 ||lmdcdigital.com^
 ||lmgmcn.com^
@@ -23431,6 +23436,7 @@ yydstxt*.com/js/html
 ||pro2cdnlive.com^
 ||proacousticsusa.com^
 ||proactiveinvestors.com^
+||probing34.com^
 ||probitget.com^
 ||probizvpn.com^
 ||proceedings33.top^
