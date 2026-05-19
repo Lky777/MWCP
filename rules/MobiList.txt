@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202605182041
-! Last modified: 18 May 2026 20:41 UTC
+! Version: 202605192049
+! Last modified: 19 May 2026 20:49 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -3140,6 +3140,7 @@ yydstxt*.com/js/html
 ||3x1ry6we9.com^
 ||3x5h6x434.com^
 ||3x8zapzon.com^
+||3xeedcdci.com^
 ||3xeo00tqz.com^
 ||3xyy.com^
 ||3yq51wjim.com^
@@ -4109,6 +4110,7 @@ yydstxt*.com/js/html
 ||95k62nnvnh.com^
 ||960173.xyz^
 ||960671106.xyz^
+||9613gwqee.com^
 ||962.net/show/all.js
 ||962.net/show/all_$script
 ||962.net/show/bt.js
@@ -10217,6 +10219,7 @@ yydstxt*.com/js/html
 ||d8lzzy93g.com^
 ||d8oh0sebl8.com^
 ||d9q4aa05g4.com^
+||d9zx24n0d.com^
 ||da-fan-shu.cn/images/kuaijie.jpg
 ||da.daji.com^
 ||da.duowan.com/loc/
@@ -16485,6 +16488,7 @@ yydstxt*.com/js/html
 ||intogeticor.com^
 ||introjava.com^
 ||intrtl.com^
+||invalidation93.com^
 ||invenco.com^
 ||invention66.com^
 ||inventorycache.com^
@@ -22999,6 +23003,7 @@ yydstxt*.com/js/html
 ||pl-hotels.com^
 ||pl520.com^$third-party
 ||pl53l7tyw.com^
+||pl7ncaj0b.com^
 ||pla3.com^
 ||place-advisor.com^
 ||placebuzz.com^
