@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202605212055
-! Last modified: 21 May 2026 20:55 UTC
+! Version: 202605222044
+! Last modified: 22 May 2026 20:44 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -1065,6 +1065,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 :81/c/i.php?id=$script
 :81/s/i.php?id=$script
 :818/nowscore/
+:866/o.js$script,third-party
 :88/999pc/
 :88/lighttpd/default/
 :8888/js/cctv.js
@@ -1796,6 +1797,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||muzlan.top^$generichide
 @@||mvcat.com^$generichide
 @@||myssl.com/scripts/analyze.js
+@@||mytvsuper.com^$generichide
 @@||nceea.cn/content/images/ad/
 @@||netded.com/plus/ad_js.php?aid=3|
 @@||netflav.com^$generichide
@@ -2010,6 +2012,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||tui.click^$generichide
 @@||tv99.tv^$generichide
 @@||tvb.com/social/share_
+@@||tvb.com^$generichide
 @@||tvb.com^*/videojs.ads.
 @@||tvbanywherena.com^$generichide
 @@||txws.yyzb456.top^$domain=857zb7.tv
@@ -4345,6 +4348,7 @@ yydstxt*.com/js/html
 ||a3games.com^
 ||a3vuxoz3b.com^
 ||a4bbltm3u2.com^
+||a4j126meg3.com^
 ||a4k.net^
 ||a4xvv2g18l.com^
 ||a51wzxssu.com^
@@ -12414,6 +12418,7 @@ yydstxt*.com/js/html
 ||f6jd4k4xgo.com^
 ||f783ul.com^
 ||f7eiavl95.com^
+||f7qhnenfbo.com^
 ||f7tkpjw6v.com^
 ||f7ugx6b863.com^
 ||f8c2gftcsj.com^
@@ -13340,6 +13345,7 @@ yydstxt*.com/js/html
 ||frozeninferno.xyz^
 ||frozenrotors.com^
 ||frozondns.com^
+||frp8r3le9c.com^
 ||frs2c.com^
 ||frsport.com^
 ||frtvenligne.com^
@@ -24086,6 +24092,7 @@ yydstxt*.com/js/html
 ||quicktransportsolutions.com^
 ||quierohotel.com^
 ||quiltingboard.com^
+||quince22.top^
 ||quinstance.com^
 ||quintustechnologies.com^
 ||quirkparts.com^
@@ -27109,6 +27116,7 @@ yydstxt*.com/js/html
 ||t78obxl4h1.com^
 ||t7ywa5ai3.com^
 ||t8t8jyxsr.com^
+||t9x2gu6it3.com^
 ||ta.trs.cn^$third-party
 ||ta7088hrd.com^
 ||ta7tfk0o2h.com^
