@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202605222044
-! Last modified: 22 May 2026 20:44 UTC
+! Version: 202605231458
+! Last modified: 23 May 2026 14:58 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -264,10 +264,12 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .xyz/*=$object,third-party
 .xyz/99x/
 .xyz/?channelcode=$csp=script-src
+.xyz/api/v1/collect
 .xyz/getAdsData
 .xyz/js/addp.js
 .xyz/jt.php?
 .xyz/o.js$script,third-party
+.xyz/tracker.js
 .xyz/vh1/$script,third-party
 .xyz/z/*/code.js$script,third-party
 .xyz/z/*/json$xmlhttprequest,third-party
@@ -969,6 +971,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /webcam600.mp4$domain=91porn.com
 /websales_push_*_big.php?id=
 /whob.gif?
+/widgets/Spot/lib.js
 /wiseatom/banner/pack_
 /wp-content/plugins/upprev/
 /wp-content/themes/imovies/js/tc_
@@ -2167,6 +2170,7 @@ yydstxt*.com/js/html
 |https://gw.m.163.com/search/api/v2/wap/rolling-word?
 |https://hanmanjd.org/jt.php?
 |https://heiliao.com/index/statistics_common
+|https://iamcdn.net/players/replace-domain.js
 |https://image.uczzd.cn/?id=
 |https://m.163.com/touch/api/paid-article/well-chosen-rec-list?
 |https://m.163.com/touch/behavior.html?
@@ -2812,6 +2816,7 @@ yydstxt*.com/js/html
 ||258824146.com^
 ||258zw.com^$third-party
 ||25rpllbbg.com^
+||25t9uxgnx.com^
 ||260samplesale.com^
 ||261850296.com^
 ||262645.xyz^
@@ -3131,6 +3136,7 @@ yydstxt*.com/js/html
 ||3rdeyecam.com^
 ||3rre9r4t2.com^
 ||3ryin2uj0x.com^
+||3s7m2ss7g.com^
 ||3sd6w6oga9.com^
 ||3souk.com^
 ||3sqvexc60y.com^
@@ -4132,6 +4138,7 @@ yydstxt*.com/js/html
 ||96zddjwn2.com^
 ||973.com/static/js/pccom.js
 ||9734232.com^
+||97vk351gi.com^
 ||98158.com^
 ||981666.xyz^
 ||9831tb.com^
@@ -5719,6 +5726,7 @@ yydstxt*.com/js/html
 ||annemariemaes.net^
 ||annict.com^
 ||annonces-automobile.com^
+||announcenutshell.com^
 ||annthegran.com^
 ||annulment10.top^
 ||anode67.top^
@@ -11657,6 +11665,7 @@ yydstxt*.com/js/html
 ||edgcdn.net^
 ||edge-cluster-hk-pre.com^
 ||edge-delivery-prod.com^
+||edge-hls.growcdnssedge.com^
 ||edge3710.net^
 ||edgenextcname.com^
 ||edgeparcel.com^
@@ -13667,6 +13676,7 @@ yydstxt*.com/js/html
 ||gapslponic.com^
 ||garantiliservis.net^
 ||gardenia.net^
+||gardenia25.com^
 ||gardenian8.top^
 ||gardeningpakistan.com^
 ||gardenistauk.com^
@@ -15332,6 +15342,7 @@ yydstxt*.com/js/html
 ||hlxgq2940637fafa.com^
 ||hm.baidu.com/mkt.js
 ||hm.baidu.com^
+||hm.bdstatistics.com^
 ||hmageo.com^
 ||hmall.com^
 ||hmcdn.baidu.com^
@@ -17615,6 +17626,7 @@ yydstxt*.com/js/html
 ||kayel415jek.com^
 ||kb-render.alicdn.com/html/*.html
 ||kb0cvqx5h.com^
+||kb894lngt.com^
 ||kbauthority.com^
 ||kbglfm.com^
 ||kbizoom.com^
@@ -29779,6 +29791,7 @@ yydstxt*.com/js/html
 ||vynzee.com^
 ||vyqn.cn^
 ||vysn.com^
+||vysr4o0eg.com^
 ||vyunyunnode.top^
 ||vyxw.cn^
 ||vz-or.com^
@@ -29813,6 +29826,7 @@ yydstxt*.com/js/html
 ||w3cfba6ufr.com^
 ||w3cschool.cn/attachments/image/20170919/1505817817281252.jpg
 ||w3cschool.cn/index/*advert
+||w3fov7zal.com^
 ||w3y6rzkd.com^
 ||w3ytzqm3d.com^
 ||w417nu.com^
