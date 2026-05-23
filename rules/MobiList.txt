@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202605231458
-! Last modified: 23 May 2026 14:58 UTC
+! Version: 202605232010
+! Last modified: 23 May 2026 20:10 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2699,7 +2699,6 @@ yydstxt*.com/js/html
 ||2-g-g-q.com^
 ||2-k-c-c.com^
 ||2.haoxue360.com^
-||2000ad.com^
 ||2000fun.com^
 ||200218.com^$third-party
 ||2005net.net^$third-party
@@ -3066,7 +3065,6 @@ yydstxt*.com/js/html
 ||3dfindit.com^
 ||3dlat.com^
 ||3dle4u60y7.com^
-||3dmark.com^
 ||3dmax8.com/atu4/
 ||3dmax8.com/jiaoche
 ||3dmdb.com^
@@ -4409,7 +4407,6 @@ yydstxt*.com/js/html
 ||ab.rejushe.com^
 ||abab.com/pv.js
 ||abacusemedia.com^
-||abajournal.com^
 ||abalone46.com^
 ||abandomoviez.net^
 ||abanuc.com^
@@ -8268,7 +8265,6 @@ yydstxt*.com/js/html
 ||cacciapassione.com^
 ||cachead.com^*.js
 ||cachefly.com^
-||cacm.org.cn^
 ||cacn360.com^
 ||cactusforums.com^
 ||cactusheadroomscaling.com^
@@ -8306,7 +8302,6 @@ yydstxt*.com/js/html
 ||calcium-credit.top^
 ||calcpark.com^
 ||calcprofi.com^
-||calculateme.com^
 ||calculator-tech.com^
 ||calculeitor.com^
 ||calderovian.com^
@@ -8374,7 +8369,6 @@ yydstxt*.com/js/html
 ||cannacabana.com^
 ||cannapages.com^
 ||canonistas.com^
-||canonrumors.com^
 ||canstockphoto.com^
 ||canton8.com/adphoto/
 ||cantonloop.com^
@@ -10317,7 +10311,6 @@ yydstxt*.com/js/html
 ||dangbei.net/2022/dbhezi.
 ||dangbei.net/img/db/downdangbei.gif
 ||dangdang.com/adall.
-||dangerousprototypes.com^
 ||dangtianle.com^
 ||danicirvr.com^
 ||danielfooddiary.com^
@@ -17699,7 +17692,6 @@ yydstxt*.com/js/html
 ||kepuxue.com^
 ||kepxy.com^
 ||keralakaumudi.com^
-||kerbalspaceprogram.com^
 ||kesq.com^
 ||keter.com^
 ||kettledroopingcontinuation.com^
@@ -17854,7 +17846,6 @@ yydstxt*.com/js/html
 ||klickpin.com^
 ||klikhost.com^
 ||klinq.com^
-||klipsch.com^
 ||klipy.com^
 ||kliukini.com^
 ||klium.com^
@@ -23283,7 +23274,6 @@ yydstxt*.com/js/html
 ||postcodequery.com^
 ||poster.weather.com.cn^
 ||posterscape.com^
-||postgis.net^
 ||postgraduatesearch.com^
 ||postgrespro.com^
 ||posthogstatus.com^
@@ -26920,7 +26910,6 @@ yydstxt*.com/js/html
 ||superiorcheeranddance.com^
 ||superlive-app.com^
 ||superlive41.com^
-||supermanhomepage.com^
 ||supermechs.com^
 ||supermegabest.com^
 ||supermetrics.com^
@@ -26977,7 +26966,6 @@ yydstxt*.com/js/html
 ||svhw.cn^
 ||svi7vnxcv.com^
 ||svip-cn-pgsimulator.com^
-||svnkit.com^
 ||svradv.com^
 ||svrj.cn^
 ||svwo.cn^
@@ -28320,7 +28308,6 @@ yydstxt*.com/js/html
 ||travelweekly-asia.com^
 ||travistathree.com^
 ||travsrv.com^
-||trawlerforum.com^
 ||traxnyc.com^
 ||trcktr.com^
 ||trea.com^
@@ -28345,7 +28332,6 @@ yydstxt*.com/js/html
 ||trezorx.com^
 ||trgovhaha.com^
 ||trgp7pddid.com^
-||tri-plc.com^
 ||tribalfootball.com^
 ||tribtown.com^
 ||trigminp.com^
@@ -28361,7 +28347,6 @@ yydstxt*.com/js/html
 ||trip101.com^
 ||tripeaksapp.com^
 ||tripih.com^
-||triplc.com^
 ||triplecrownproducts.com^
 ||triplinkintl.com^
 ||trippy.com^
@@ -28520,8 +28505,6 @@ yydstxt*.com/js/html
 ||tumgag.com^
 ||tundras.com^
 ||tune720.com^
-||tunerpro.net^
-||tuniu.com^
 ||tunwalai.com^
 ||tunwg.com^
 ||tupazime.xyz^
@@ -28600,7 +28583,6 @@ yydstxt*.com/js/html
 ||twingalaxies.com^
 ||twinkleop.com^
 ||twinrdengine.com^
-||twirpx.com^
 ||twitter-video-download.com^
 ||twjrxo.top^
 ||twkan.com/js/otherad
