@@ -5,6 +5,7 @@
 @@https://gitee.com/damengzhudamengzhu/guanggaoguolv
 
 ! .A1
+||announcenutshell.com^
 ||attractivereception.com^
 ||fatalfear.pro^
 ||static.easrv.cl^
@@ -66,6 +67,7 @@
 ||hmcdn.baidu.com^
 ||miaowu.baidu.com^
 ||dl59007.bj.bcebos.com^
+||hm.bdstatistics.com^
 ||tags.bluekai.com^
 ||static.chartbeat.com^
 ||ping.chartbeat.net^
@@ -80,6 +82,7 @@
 ||ads.google.com^$third-party
 ||fundingchoicesmessages.google.com^
 ||pagead2.googlesyndication.com^
+||edge-hls.growcdnssedge.com^
 ||media-hls.growcdnssedge.com^
 ||media-hls.saawsedge.com^
 ||video.saawsedge.com^
@@ -141,8 +144,10 @@
 .com/gtag/js?id=
 .world/000/flink/analytics.php
 .xyz:8283/home?channel=
+.xyz/api/v1/collect
 .xyz/getAdsData
 .xyz/jt.php?
+.xyz/tracker.js
 _ads.html?
 ://analytics.*.com/api/event
 &vastAdID=
@@ -191,9 +196,11 @@ v=2&adZones
 /js/zzz.js
 /matomo.js
 /videojs.ads.min.js
+/widgets/Spot/lib.js
 _14c14p14v.js
 ||connect.facebook.net/*/sdk.js
 ||rjsperf.myalicdn.com/sdk.js
+|https://iamcdn.net/players/replace-domain.js
 |https://vk.com/js/api/share.js?
 .cn/*/uploads/default/other/*.gif
 .cn/upload_01/upload/*.gif
