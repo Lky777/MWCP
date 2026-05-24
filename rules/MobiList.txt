@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202605232010
-! Last modified: 23 May 2026 20:10 UTC
+! Version: 202605242013
+! Last modified: 24 May 2026 20:13 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -160,11 +160,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/tonglan2.js
 .com/topjs/
 .com/uploads/*-860x250.gif
-.com/vh1/$script,third-party
-.com/vh2/$script,third-party
-.com/vh5/$script,third-party
-.com/vj1/$script,third-party
-.com/vj2/$script,third-party
 .com/vodad.js
 .com/wp-content/plugins/ai-share-summarize/
 .com/wp-content/plugins/erphpdown/static/erphpdown.
@@ -1076,14 +1071,11 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 :8888/mb1/wap_
 :8888/zhu/pc_
 :8888/zhu/wap_
-:8891/v*/$script,third-party
 :8898/ads_
 :900*/d/*n=$script,third-party
 :900*/d/*t=$script,third-party
 :900*/sc/*n=$script,third-party
 :9001/code/
-:9875/vh2/
-:9875/vj2/
 =ad_top_slider&
 =ad_zplusgoods&
 =adcode_$script,third-party
@@ -3223,6 +3215,7 @@ yydstxt*.com/js/html
 ||484r.com/images/flash/gallery_
 ||489pro.com^
 ||48dswtxkw.com^
+||48r3l2u5l2.com^
 ||4912990.xyz^
 ||4943999.com^
 ||495565015.xyz^
@@ -7319,6 +7312,7 @@ yydstxt*.com/js/html
 ||bio-equip.com/dimg/
 ||bio-equip.com/dimgs/
 ||bio-equip.com/uploadimages/peiqing.gif
+||bio39rx7p0.com^
 ||bioalis.com^
 ||biomedsuppliers.com^
 ||bioon.com/xy/article/img/zhi_neng_xibao_fenxi.png
@@ -7598,6 +7592,7 @@ yydstxt*.com/js/html
 ||bmcecapitalbourse.com^
 ||bmdstatic.com^
 ||bmelkellv.com^
+||bmg8t99nhf.com^
 ||bmjs.xzw.com^
 ||bmlink.com^
 ||bmmads.com^
@@ -12328,6 +12323,7 @@ yydstxt*.com/js/html
 ||existences2.top^
 ||exitrealty.com^
 ||exmainclcknew.com^
+||exmoo.com/js/ad-position/
 ||exnessonelink.com^
 ||exoclick.com^
 ||exodusms.com^
@@ -12652,7 +12648,6 @@ yydstxt*.com/js/html
 ||feesoon.com/js/cnzz_
 ||feetmm.com^
 ||feifeishu.com.cn^
-||feijisu*.com/js/huimi-
 ||feiniaoks.com/1.
 ||feinidi.com^
 ||feipinzhan.com^
@@ -22021,6 +22016,7 @@ yydstxt*.com/js/html
 ||openbriefing.com^
 ||openconnectus911.com^
 ||opendemocracy.net^
+||opendsp.vip^
 ||openfoam.com^
 ||opengeofiction.net^
 ||opengovco.com^
@@ -23607,6 +23603,7 @@ yydstxt*.com/js/html
 ||ptxcfn.icu^
 ||ptxck2940637fafa.com^
 ||ptzoptics.com^
+||ptzpaxq7bu.com^
 ||ptzxed507.com^
 ||pu3xxlqjr.com^
 ||pu8k37n7vo.com^
@@ -24675,6 +24672,7 @@ yydstxt*.com/js/html
 ||rhinestonesu.com^
 ||rhiolf.cn^
 ||rhmt1jjyo.com^
+||rhododendron15.top^
 ||rhrpets.com^
 ||rhrrf.cn^
 ||rhymefinder.net^
@@ -27907,6 +27905,7 @@ yydstxt*.com/js/html
 ||tj.21ic.com^
 ||tjfavx.icu^
 ||tjflenzxw0.com^
+||tjfskxz0t6.com^
 ||tjj.com^
 ||tjkprt.com^
 ||tjskl.org.cn^
@@ -29812,6 +29811,7 @@ yydstxt*.com/js/html
 ||w3y6rzkd.com^
 ||w3ytzqm3d.com^
 ||w417nu.com^
+||w4nw434j7n.com^
 ||w4p7y.com^
 ||w4sn20zpvz.com^
 ||w505cb.cc^
@@ -29990,6 +29990,7 @@ yydstxt*.com/js/html
 ||wde0a1qrm.com^
 ||wdff.buzz/hengf.
 ||wdistances.com^
+||wdp5rczwlp.com^
 ||wdrixjezn.com^
 ||wdrn97z1o.com^
 ||wdtuc.cn^
@@ -31195,6 +31196,7 @@ yydstxt*.com/js/html
 ||y18ut1kw22.com^
 ||y1ma8c054n.com^
 ||y1n1n3e0v.com^
+||y2vorexg2u.com^
 ||y31i86x8.com^
 ||y3600.cc/20
 ||y40milgijh.com^
@@ -31968,8 +31970,6 @@ yydstxt*.com/js/html
 ||zhuqiy.com^
 ||zhushou.360.cn/script/plugin_tiper.js
 ||zhuwang.cc/api.php?op=ad_
-||zhuys.com/js/ysmm.
-||zhuys.com^*.php
 ||zhwzsym.top^
 ||zhyhv2940637fafa.com^
 ||zhzyw.com/js/insertjs.js
