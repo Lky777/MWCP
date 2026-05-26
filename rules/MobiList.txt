@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202605252040
-! Last modified: 25 May 2026 20:40 UTC
+! Version: 202605260243
+! Last modified: 26 May 2026 02:43 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2876,6 +2876,7 @@ yydstxt*.com/js/html
 ||2bd.net^
 ||2bqlkznz.xyz^
 ||2btu.com/gg.jpg
+||2bwiihrajn.com^
 ||2c4b614013.com^
 ||2ccc.com/images/aobi.gif
 ||2ccc.com/images/sdo.jpg
@@ -3791,6 +3792,7 @@ yydstxt*.com/js/html
 ||74902295.xyz^
 ||75.125.41.29:8080/
 ||75b9dfiyb.com^
+||75g4iplzyv.com^
 ||75ossyemu.com^
 ||75rakcovr.com^
 ||75wdm82a69.com^
@@ -10255,6 +10257,7 @@ yydstxt*.com/js/html
 ||d24fx92qb.com^
 ||d2c1htpgj.com^
 ||d2un76zvb5mgzx.cloudfront.net^
+||d2v4tz4zvhrua.cloudfront.net^
 ||d3-rgr-diva.com^
 ||d3.sina.com.cn^$object,script
 ||d37d9zbli5ytch.cloudfront.net^
@@ -17609,6 +17612,7 @@ yydstxt*.com/js/html
 ||jungleheart.com^
 ||junglejims.com^
 ||junior48.com^
+||juniorregister.com^
 ||junk-call.com^
 ||junkawayin.com^
 ||junkybooks.com^
@@ -22227,6 +22231,7 @@ yydstxt*.com/js/html
 ||omelette12.top^
 ||ometrics.com^
 ||omg10.com^
+||omgrmn.tw^
 ||omhthe.com^
 ||omhucph.com^
 ||omjs.com^
@@ -27508,6 +27513,7 @@ yydstxt*.com/js/html
 ||suxvmntwtb.net^
 ||suzhelan.top^
 ||svbtlestage.com^
+||svc.litv.tv^
 ||svenskafans.com^
 ||svhk4bt874.com^
 ||svhw.cn^
@@ -30157,7 +30163,9 @@ yydstxt*.com/js/html
 ||vlzxtdajo.com^
 ||vm-0.com^
 ||vm.aty.sohu.com^
+||vm5apis.com^
 ||vm5xs8nvqh.com^
+||vmfive.com^
 ||vmfwatches.com^
 ||vmj428qvi4.com^
 ||vmkp.cn^
