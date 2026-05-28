@@ -205,7 +205,6 @@ v=2&adZones
 _14c14p14v.js
 ||connect.facebook.net/*/sdk.js
 ||rjsperf.myalicdn.com/sdk.js
-|https://iamcdn.net/players/replace-domain.js
 |https://vk.com/js/api/share.js?
 .cn/*/uploads/default/other/*.gif
 .cn/upload_01/upload/*.gif
