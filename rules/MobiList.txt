@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202605272106
-! Last modified: 27 May 2026 21:06 UTC
+! Version: 202605280622
+! Last modified: 28 May 2026 06:22 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2162,7 +2162,6 @@ yydstxt*.com/js/html
 |https://gw.m.163.com/search/api/v2/wap/rolling-word?
 |https://hanmanjd.org/jt.php?
 |https://heiliao.com/index/statistics_common
-|https://iamcdn.net/players/replace-domain.js
 |https://image.uczzd.cn/?id=
 |https://m.163.com/touch/api/paid-article/well-chosen-rec-list?
 |https://m.163.com/touch/behavior.html?
@@ -3721,6 +3720,7 @@ yydstxt*.com/js/html
 ||6iejd9pk0.com^
 ||6iiz8ni96v.com^
 ||6iyq4atled.com^
+||6j7ywcn8sx.com^
 ||6jei0t6xp.com^
 ||6jtqdplfz7.com^
 ||6jyi7mzae.com^
@@ -4493,7 +4493,6 @@ yydstxt*.com/js/html
 ||abubadu.com^
 ||abushakra.com^
 ||abyssmedia.com^
-||abyssplayer.com^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
 ||ac.86huoche.com^
@@ -11132,6 +11131,7 @@ yydstxt*.com/js/html
 ||dogsfiles.com^
 ||dogsonacid.com^
 ||dogudoraku.com^
+||dogwood96.com^
 ||dogwoode09.top^
 ||dohalist.com^
 ||dohaxe.com^
@@ -16006,6 +16006,7 @@ yydstxt*.com/js/html
 ||i993.com^
 ||i9ffu3fy54.com^
 ||i9i3ko2o70.com^
+||ia3lxhd539.com^
 ||ia4rrffvv.com^
 ||iaac.net^
 ||iabao.com/sladewap.js
@@ -17252,7 +17253,6 @@ yydstxt*.com/js/html
 ||jiechunqiu.com^
 ||jiegeng.com/static/json/jg_topfixed.
 ||jiejueba.com/templets/16img/*.js
-||jiekrrj.cn^
 ||jiemian.com/static/jmw/js/adbase_
 ||jieshengit.com/1*.js
 ||jieshengit.com/js/*_
@@ -20573,7 +20573,6 @@ yydstxt*.com/js/html
 ||morellato.com^
 ||moretackte.com^
 ||morningstarbookstore.com^
-||morphify.net^
 ||morphmarket.com^
 ||morrissey-solo.com^
 ||mortgagecentres.net/banner.gif
@@ -20629,6 +20628,8 @@ yydstxt*.com/js/html
 ||moussapps.com^
 ||mouthop3.com^
 ||mova-shop.com^
+||movable-ink-601.com^
+||movable-ink-8154.com^
 ||movie-locations.com^
 ||movieassets.com^
 ||movieboxdownload.com^
@@ -21849,6 +21850,7 @@ yydstxt*.com/js/html
 ||nsnequipment.com^
 ||nspfmha3qv.com^
 ||nssurge.com^
+||nsthczdba1.com^
 ||nstltp.icu^
 ||nsul.cn^
 ||nsvohb.top^
