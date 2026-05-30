@@ -5,7 +5,7 @@ from pathlib import Path
 
 def filter_domains_by_pattern(domains):
     """过滤域名：只保留允许的后缀，排除特定后缀"""
-    allowed_pattern = re.compile(r'\.(com|cn|net|top|xyz)$')
+    allowed_pattern = re.compile(r'\.(cn|com|io|net|top|xyz)$')
     excluded_pattern = re.compile(r'\.(gov|edu|mil)\.cn$')
     
     return [
