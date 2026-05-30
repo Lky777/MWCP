@@ -16,7 +16,7 @@ Android Path
 
 ### Support the Project
 
-If you find this project helpful, feel free to scan the WeChat QR code to support us. Thank you for your encouragement!
+If you find this project helpful, scan the WeChat QR code to support me. Thank you for your encouragement!
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/Lky777/resources@main/WeChatRewardQRCode.png" width="200" alt="WeChat Reward QR Code" />
