@@ -5,21 +5,26 @@
 @@https://gitee.com/damengzhudamengzhu/guanggaoguolv
 
 ! .A1
+||500outenterprises.net^
 ||announcenutshell.com^
 ||attractivereception.com^
+||avvobqwi.in^
 ||fatalfear.pro^
 ||static.easrv.cl^
+||hledpkhmc.com^
 ||infamous-growth.pro^
 ||juniorregister.com^
 ||ks.ferlytc.com^
 ||muddyclock.pro^
 ||omgrmn.tw^
+||oundhertobeconsist.org^
 ||palatable-soft.com^
 ||umini.shujupie.com^
 ||vmfive.com^
 ||workdeadlinededicate.com^
 ||www.hurtful-historian.com^
 ||www.silent-basis.pro^
+||yronesefurther.org^
 
 ! .B1
 ||adsco.re^
@@ -129,6 +134,7 @@
 *$ping,third-party
 *$websocket
 *$webrtc
+.com:26579/
 .com:8004/cc/*?*=
 .com:8004/d/*?*=
 .com:8004/sc/*?*=
@@ -147,6 +153,9 @@
 .com/jserror?type=
 .com/social-plugins/js/lib/sentry.
 .com/gtag/js?id=
+.live:7891/
+.live:8891/
+.live:9896/
 .world/000/flink/analytics.php
 .xyz:8283/home?channel=
 .xyz/api/v1/collect
@@ -159,9 +168,12 @@ _ads.html?
 v=2&adZones
 /1x1.
 /cdn-cgi/speculation
+/cpy/0mk/apnews.com/qgy/
 /matomo.php?action_name=
 ||d.line-scdn.net/r/web/social-plugin/
 |https://www.ycymh.com/poster/zj-
+/index.php/user/ajax_ulog/?ac=
+/index.php/ajax/hits?mid=
 /popup/adblock/promo/banner/
 /static/upload/adsbanner/
 .cc/apijs/image/
@@ -172,7 +184,6 @@ v=2&adZones
 .com/wp-content/plugins/ai-share-summarize/
 .com/wp-content/plugins/erphpdown/static/erphpdown.
 .com/wp-content/themes/begin/erphpdown/
-.live:7891/stats/
 .com/1987.js
 .com/adgpt.js
 .com/beacon.js
@@ -193,6 +204,7 @@ v=2&adZones
 /adsbygoogle.js?client=
 /api/eventTracking/batchReport.json
 /api/eventTracking/report.json
+/artplayer-plugin-ads.js
 /frontend-gtag.min.js?
 /js/ga.js
 /js/hilltop.js
@@ -251,6 +263,7 @@ _14c14p14v.js
 18porn.cc###showAdsBeforePlay
 51cg1.com##.addbox
 91bl.es###popup-mask
+a2zapk.co###modalpop
 a2zapk.io###modalpop
 duckduckgo.com##.js-atb-banner
 eastmoney.com###openinapp
@@ -259,6 +272,7 @@ hjziyan.wiki###popup-mask
 juejin.cn##.open-button
 m.58moto.com##.motorfans-download-app
 m.happymh.com###layui-m-layer0
+m.iyf.tv##.container
 m.jiakaobaodian.com##.com-down-dv
 m.jiakaobaodian.com##.com-layout-footer
 mdttz.com###gridAdvContent
