@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202606032203
-! Last modified: 03 Jun 2026 22:03 UTC
+! Version: 202606042101
+! Last modified: 04 Jun 2026 21:01 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -1713,6 +1713,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||jsdelivr.net/combine/npm/$domain=ulifestyle.com.hk
 @@||jsjiami.com^$generichide
 @@||jswenhui.com^*/ad/
+@@||jsxx.gds.edu.cn^$genericblock
 @@||juduo.cc^$generichide
 @@||jwpcdn.com/player/plugins/googima/*/googima.js$domain=viu.tv
 @@||kaitao.cn/public/wenda/ad/css/ds-un-detail.css
@@ -2312,6 +2313,7 @@ yydstxt*.com/js/html
 ||0o0.ooo/2017/01/13/58787d42bbad6.jpg
 ||0o299ff83u.com^
 ||0oi1ej7mo.com^
+||0otmh22aj2.com^
 ||0pe0gr1p.com^
 ||0qxfxqif0.com^
 ||0rdq10kose.com^
@@ -3610,6 +3612,7 @@ yydstxt*.com/js/html
 ||5egytucuw.com^
 ||5eplaycdn.com^
 ||5etv.com^$third-party
+||5eyal1g5a9.com^
 ||5f1qyi04vz.com^
 ||5fyme6x6uy.com^
 ||5fz.cc/t/aimg/tao
@@ -8388,6 +8391,7 @@ yydstxt*.com/js/html
 ||brakesband.com^
 ||bralyvn.com^
 ||brammoforum.com^
+||branch20.top^
 ||branchdsp.io^
 ||brand.sogou.com/micro?yyid=
 ||brandcn.com^
@@ -11342,6 +11346,7 @@ yydstxt*.com/js/html
 ||dd1.diymianmo.com^
 ||dd133.com^
 ||dd6364.com/js/777/
+||dd81bp3qbj.com^
 ||ddav.tv^
 ||ddbuild.io^
 ||ddc888.com^
@@ -12736,6 +12741,7 @@ yydstxt*.com/js/html
 ||effectiveny.com^
 ||efg.zle.com^
 ||efgh.5lu.com^
+||efh2rahxxq.com^
 ||efhub.com^
 ||efmh.cn^
 ||efrag.org^
@@ -14575,6 +14581,7 @@ yydstxt*.com/js/html
 ||fx110.*/styles/1.0.0/dist/ghz/matrixads.
 ||fx168.com/am.js
 ||fx43.com^
+||fx455rrt4b.com^
 ||fx678.com/htcount/count.js
 ||fx678.com^
 ||fx8rurzhbf.com^
@@ -18925,6 +18932,7 @@ yydstxt*.com/js/html
 ||jtl-cloud.com^
 ||jtyrqg.com^
 ||jtzfbz.com^
+||jtzyk9iypb.com^
 ||juandou.com^$third-party
 ||juaneloturriano.com^
 ||juapp5.com/geek_image/chaopai.jpeg
@@ -20701,7 +20709,6 @@ yydstxt*.com/js/html
 ||lt-cherry-01.com^
 ||lt3f9p5ox2.com^
 ||ltbyw.top/data/images/*.gif
-||ltd.ua/zz
 ||ltdbroadband.com^
 ||ltdns.top^
 ||ltfcagrapl.com^
@@ -20908,6 +20915,7 @@ yydstxt*.com/js/html
 ||m3ks1o8jz.com^
 ||m3post.com^
 ||m3uts.xyz^
+||m3v8x28jut.com^
 ||m43ocq1uoj.com^
 ||m485oq2gym.top^
 ||m4fxreb5s.com^
@@ -22926,6 +22934,7 @@ yydstxt*.com/js/html
 ||nbmaa.org^
 ||nbnatlas.org^
 ||nbpczr.icu^
+||nbpicture.xyz^$domain=ltd.ua
 ||nbport.com.cn^
 ||nbraenkikrn.com^
 ||nbtsay.com^
@@ -26089,6 +26098,7 @@ yydstxt*.com/js/html
 ||pxbhe.com^
 ||pxcanvasprints.com^
 ||pxdb08b82.com^
+||pxlizduukhnpps.com^
 ||pxointr.com^
 ||pxpuzzles.com^
 ||pxto.com.cn^
@@ -32303,6 +32313,7 @@ yydstxt*.com/js/html
 ||v8j1rkai1.com^
 ||v9pj.com^
 ||v9r2yhjg.com^
+||va3yq7si6w.com^
 ||vacanceselect.com^
 ||vahical.com^
 ||vaidam.com^
@@ -33212,6 +33223,7 @@ yydstxt*.com/js/html
 ||wbqhehokmy.com^
 ||wbsg8v.xyz^
 ||wbwaterdata.org^
+||wc6y3nrv7g.com^
 ||wchberxf.com^
 ||wchstv.com^
 ||wcti12.com^
@@ -34121,6 +34133,7 @@ yydstxt*.com/js/html
 ||xgilfhwxre.com^
 ||xgo-img.com.cn^
 ||xgo.com.cn/pv.js
+||xgsspao.com^
 ||xgsvpsz7f4.com^
 ||xgupiao.com^
 ||xgwindows.com^
