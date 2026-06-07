@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202606062018
-! Last modified: 06 Jun 2026 20:18 UTC
+! Version: 202606072021
+! Last modified: 07 Jun 2026 20:21 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2330,6 +2330,7 @@ yydstxt*.com/js/html
 ||0wk6gdkg8r.com^
 ||0wpfe0duo.com^
 ||0x7iufg8hy.com^
+||0xr7ii3df.com^
 ||0xzxwnkqdu.com^
 ||0yjeii25x4.com^
 ||0z3zbnbkv.com^
@@ -3940,6 +3941,7 @@ yydstxt*.com/js/html
 ||7c96k2gysn.com^
 ||7calendar.com^
 ||7car.com.cn^
+||7da1aovz6.com^
 ||7dakcanli11.com^
 ||7ddqvun8i1.com^
 ||7df5u.com^
@@ -11094,6 +11096,7 @@ yydstxt*.com/js/html
 ||d4xmm7es84.com^
 ||d5.sina.com.cn^$image,domain=~www.sina.com.cn
 ||d5.sina.com.cn^$object,script
+||d5092moci.com^
 ||d56p.com/love/
 ||d5xogy0qi.com^
 ||d5zkrmttu.com^
@@ -18943,6 +18946,7 @@ yydstxt*.com/js/html
 ||jtl-cloud.com^
 ||jtyrqg.com^
 ||jtzfbz.com^
+||jtzqhxtutqzfze.com^
 ||jtzyk9iypb.com^
 ||juandou.com^$third-party
 ||juaneloturriano.com^
@@ -21977,6 +21981,7 @@ yydstxt*.com/js/html
 ||mjtxnxjny.com^
 ||mjufus.icu^
 ||mjursnb.com^
+||mk0d5qbdj.com^
 ||mk10ow7zoi.com^
 ||mkcl.org^
 ||mkd88.cc/16.32.jpg
@@ -26144,6 +26149,7 @@ yydstxt*.com/js/html
 ||q-r-6-m.com^
 ||q-t-p-9.com^
 ||q06g.com^
+||q0m9dkp5c.com^
 ||q1.yyxwzx.com^
 ||q1s9pce2x2z.com^
 ||q1txsah8s.com^
@@ -29951,6 +29957,7 @@ yydstxt*.com/js/html
 ||sxzl6x4k9p.com^
 ||sy-d.io^
 ||sybnntrs.com^
+||sycamore63.top^
 ||syddns-obno.xyz^
 ||sydneyjeepclub.com^
 ||sydpower.com^
@@ -35221,6 +35228,7 @@ yydstxt*.com/js/html
 ||z1fl848ft.com^
 ||z1hihu.xmcimg.com^
 ||z1lly.org^
+||z1lmjks4l.com^
 ||z2ke56999.com^
 ||z2ubj8bpk.com^
 ||z2uyyp069d.com^
