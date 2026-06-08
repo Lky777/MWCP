@@ -4,29 +4,30 @@
 ! /guanggao
 @@https://gitee.com/damengzhudamengzhu/guanggaoguolv
 
-! .A1
+! .TEMP
 ||500outenterprises.net^
 ||announcenutshell.com^
 ||attractivereception.com^
 ||avvobqwi.in^
+||www.cloudyjacket.com^
 ||fatalfear.pro^
 ||static.easrv.cl^
 ||hledpkhmc.com^
+||www.hurtful-historian.com^
 ||infamous-growth.pro^
 ||juniorregister.com^
 ||ks.ferlytc.com^
 ||muddyclock.pro^
 ||omgrmn.tw^
+||organic-package.com^
 ||oundhertobeconsist.org^
 ||palatable-soft.com^
-||umini.shujupie.com^
+||www.silent-basis.pro^
 ||vmfive.com^
 ||workdeadlinededicate.com^
-||www.hurtful-historian.com^
-||www.silent-basis.pro^
 ||yronesefurther.org^
 
-! .B1
+! .ADs
 ||adsco.re^
 ||adspyglass.net^
 ||adsrvr.org^
@@ -37,38 +38,36 @@
 ||aottercdn.com^
 ||cdn.bootcdn.net^
 ||cdnboostcache.com^
-||clarity.ms^
+||d1yw1n0ddlrqxj.cloudfront.net^
+||d2v4tz4zvhrua.cloudfront.net^
+||d3ccefxs96519j.cloudfront.net^
+||dq38rjje7qjm3.cloudfront.net^
+||dve95jyfq31ui.cloudfront.net^
 ||ddav.tv^
-||g.doubleclick.net^
+||doubleclick.net^
 ||eroadvertising.com^
-||googlesyndication.com^
 ||jads.co^
 ||magsrv.com^
 ||mdynieu.com^
 ||popin.tw^
 ||popin.cc^
+||umini.shujupie.com^
 ||simpli.fi^
 ||tagtoo.co^
 ||tsyndicate.com^
 ||uslook.top^
-||www.googletagmanager.com^
-||www.googletagservices.com^
 ||xchina.click^
 ||xlviirdr.com^
 ||xn--6rtq6phwfhva.com^
 ||xn--gps-8y0gm25n.xn--55qx5d^
 
-! .B2
-||ad.52av.one^
-||static.addtoany.com^
-||ip385154052.ahcdn.com^
+! AD-Network
 ||fourier.alibaba.com^
 ||arms-retcode.aliyuncs.com^
 ||oss-accelerate.aliyuncs.com^$third-party
 ||oss-cn-hangzhou.aliyuncs.com^$third-party
 ||oss-cn-hongkong.aliyuncs.com^$third-party
 ||s3.ap-east-1.amazonaws.com^$third-party
-||script-center.bad.news^
 ||banti.baidu.com^
 ||h2tcbox.baidu.com^
 ||hm.baidu.com^
@@ -76,21 +75,29 @@
 ||miaowu.baidu.com^
 ||dl59007.bj.bcebos.com^
 ||hm.bdstatistics.com^
+||ads.google.com^$third-party
+||fundingchoicesmessages.google.com^
+||imasdk.googleapis.com^
+||googlesyndication.com^
+||pagead2.googlesyndication.com^
+||www.googletagmanager.com^
+||www.googletagservices.com^
+||clarity.ms^
+||mcs.snssdk.com^
+||mc.yandex.ru^
+
+! .B2
+||ad.52av.one^
+||static.addtoany.com^
+||ip385154052.ahcdn.com^
+||script-center.bad.news^
 ||tags.bluekai.com^
 ||static.chartbeat.com^
 ||ping.chartbeat.net^
 ||static.cloudflareinsights.com^
-||d1yw1n0ddlrqxj.cloudfront.net^
-||d2v4tz4zvhrua.cloudfront.net^
-||d3ccefxs96519j.cloudfront.net^
-||dq38rjje7qjm3.cloudfront.net^
-||dve95jyfq31ui.cloudfront.net^
 ||analytics.usnupjhh.v2008.coreserver.jp^
 ||fsa-api.feebee.tw^
 ||e2elog.fetnet.net^
-||ads.google.com^$third-party
-||fundingchoicesmessages.google.com^
-||pagead2.googlesyndication.com^
 ||edge-hls.growcdnssedge.com^
 ||media-hls.growcdnssedge.com^
 ||media-hls.saawsedge.com^
@@ -108,7 +115,6 @@
 ||ad.scdn.io^
 ||ad.setn.com^
 ||ubas.setn.com^
-||mcs.snssdk.com^
 ||44xoxo1842.spankbang.com^
 ||mcs.volceapplog.com^
 ||static-sg.winudf.com^
@@ -116,7 +122,6 @@
 ||collector.xhamster.com^
 ||go.xhamsterlive.com^
 ||analytics.yahoo.com^
-||mc.yandex.ru^
 
 ! .C
 ||img.alicdn.com/imgextra/i*/$domain=~aliyundrive.com
@@ -272,6 +277,7 @@ hjziyan.wiki###popup-mask
 juejin.cn##.open-button
 m.58moto.com##.motorfans-download-app
 m.happymh.com###layui-m-layer0
+m.hetushu.com##.m1
 m.iyf.tv##.container
 m.jiakaobaodian.com##.com-down-dv
 m.jiakaobaodian.com##.com-layout-footer
