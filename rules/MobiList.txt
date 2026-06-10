@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202606092104
-! Last modified: 09 Jun 2026 21:04 UTC
+! Version: 202606101531
+! Last modified: 10 Jun 2026 15:31 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -25,7 +25,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=bhshu.net|louzho
 $script,third-party,domain=cilimao.co|cilimao.one
 $script,third-party,domain=colamanga.com
 $script,third-party,domain=torkitty.net|torkitty.com|torrentkitty.app|torrentkitty.asia|torrentkitty.cam|torrentkitty.ink|torrentkitty.io|torrentkitty.live|torrentkitty.lol|torrentkitty.net|torrentkitty.one|torrentkitty.tv|torrkitty.com
-$script,third-party,domain=xiaoyakankan.com|52movieba.com|audio699.com|kan-tv.com|m.supfree.net|movieffm.net|xiaoxintv.cc|xiaoxintv.com|xiaoxintv.net
+$script,third-party,domain=xiaoyakankan.com|52movieba.com|audio699.com|kan-tv.com|m.supfree.net|movieffm.net|xiaoheimi.cc
 $script,third-party,websocket,domain=52codes.net
 $third-party,websocket,xmlhttprequest,domain=qiyoudy2.com|qiyoudy4.com
 $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
@@ -73,6 +73,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/addnew.php
 .com/adgpt.js
 .com/adv1/?q=
+.com/api/banner/banner_list
 .com/api/models/
 .com/api/models?
 .com/api/models?landing=
@@ -181,8 +182,14 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com:8008/cc/*?*=
 .com:8008/d/*?*=
 .com:8008/sc/*?*=
+.com:901/cc/*?*=
+.com:901/d/*?*=
+.com:901/sc/*?*=
 .com:91/runtime/js/pscreat.js
 .com:9120/discor_list.js
+.com:9189/cc/*?*=
+.com:9189/d/*?*=
+.com:9189/sc/*?*=
 .gif|$domain=7mshipin.org|viidii.info
 .gif|$domain=99re.com
 .hgo0*uyi.com/$script,xmlhttprequest,third-party
@@ -605,7 +612,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /img/bbsad/
 /img/hgame/*_1280x
 /img/hgame/*_600x
-/img/line-ad-s.jpg?
 /img/q/movie_*.gif
 /img/skin/*_bg.$domain=firefox.com.cn|firefoxchina.cn
 /img/skin/tao$domain=firefox.com.cn|firefoxchina.cn
@@ -1442,6 +1448,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||cdn.optimizely.com/js/*.js$domain=kktv.me
 @@||cdn.staticfile.org^$domain=lakyworld.com|biquge77.net|yzbg.net|alexij.net|hshfm.com|biqiuge5.org|49gtk.cc|20me.net|fbqg.cc|xianguke.net|tellgillian.com|m-ia.net|cleavagecoverup.com|memduh.net|56xiaoshuo.net|yourbiquge.com|00ksw.com|147xiaoshuo.com|bxwx.live|lzbao.net
 @@||cdn.staticfile.org^$script,domain=movieffm.net
+@@||cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/$domain=ikanbot.com
 @@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/*/videojs.ads.min.js$domain=linetv.tw
 @@||cgmodel.com/plugin/share/
 @@||chaintv.xyz/homestatic/js/adjs.js
@@ -1733,6 +1740,8 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||lager.com.tw/images/layer6_adbanner/
 @@||lancdn.com/landian/public/js/ads.js
 @@||landtop.com.tw/images/ad/
+@@||laosu.cf^$generichide
+@@||laosu.tech^$generichide
 @@||laotiesao.vip^$generichide
 @@||ldxinyong.com^$generichide
 @@||lefile.cn/??*,
@@ -2186,10 +2195,7 @@ yydstxt*.com/js/html
 |https://sobt18.icu/Public/static/js/common.js?
 |https://tieba.baidu.com/mo/q/newgetweixintoken?
 |https://unpkg.zhimg.com/@cfe/sentry-script@
-|https://vk.com/js/api/share.js?
 |https://www.99re.com/player/html.php?
-|https://www.cnblogs.com/*/ajax/post-accessories?
-|https://www.cnblogs.com/*/custom.css?
 |https://www.eporner.com/dot/pop4.php
 |https://www.eporner.com/static/popCode-
 |https://www.ghxi.com/wp-content/plugins/wp-opt/static/js/ai-summary.min.js?
@@ -2662,7 +2668,6 @@ yydstxt*.com/js/html
 ||18comic.*/static/resources/images/*.gif
 ||18comic.*/static/resources/images/photo(3).jpg
 ||18comic.*/templates/frontend/airav/emoji/emojionearea.css
-||18mh.net^
 ||18mo21a2ji.com^
 ||18watt.com^
 ||18wos.net^
@@ -3209,6 +3214,7 @@ yydstxt*.com/js/html
 ||3parug.org^
 ||3pefw1lz4.com^
 ||3pf2kwmc3g.com^
+||3pkf5m0gd.com^
 ||3pointdata.com^
 ||3ptechies.com^
 ||3pzqcv5hc5.com^
@@ -3385,6 +3391,7 @@ yydstxt*.com/js/html
 ||4u079hpvl.com^
 ||4u3222y7.xyz^
 ||4ufutzmihl.com^
+||4uitrrt700.com^
 ||4v6a7i3dkz.com^
 ||4w3ol467n.com^
 ||4w54d7rjg.com^
@@ -3651,6 +3658,7 @@ yydstxt*.com/js/html
 ||5ilinglei.com/gg.html
 ||5ilog.com/qq/js/jsgg.js
 ||5imx.com/image/image/
+||5ipifco2tf.com^
 ||5ips.net/love/
 ||5j45n3f6r.com^
 ||5k1cyldc9.com^
@@ -6223,7 +6231,6 @@ yydstxt*.com/js/html
 ||api-yandex.net^
 ||api.cupid.qiyi.com/etx?
 ||api.cupid.qiyi.com/track2
-||api.popin.cc/test/
 ||api.wudizuqiu.com/72nba
 ||api.wudizuqiu.com/bocai.js
 ||apiarydata.net^
@@ -8280,6 +8287,7 @@ yydstxt*.com/js/html
 ||bmwfaq.org^
 ||bmwmotos.com^
 ||bmzzojmzu.com^
+||bncloudfl.com^
 ||bncqucpia.com^
 ||bncvirtual.com^
 ||bndvi.com^
@@ -10645,7 +10653,6 @@ yydstxt*.com/js/html
 ||connect-bajisitan.com^
 ||connect-social-live.com^
 ||connect-visit.com^
-||connect.facebook.net/*/sdk.js
 ||connectad.io^
 ||connectamericas.com^
 ||connectlive2024.com^
@@ -11859,6 +11866,7 @@ yydstxt*.com/js/html
 ||dianiboutique.com^
 ||dianjinghu.com/static/frontend/images/lol/penpen
 ||dianochedesigns.com^
+||dianomi.com^
 ||dianping.com/hippo.gif?
 ||dianping.com/mkt/ajax/getnewitems
 ||dianping.com/wedding/pro/jsonppage
@@ -12552,6 +12560,7 @@ yydstxt*.com/js/html
 ||dwarffortresswiki.org^
 ||dwbaazotho.com^
 ||dwchovra.com^
+||dwh3rjyzxj.com^
 ||dwimlabs.net^
 ||dwjlxiuio.com^
 ||dwkqbhiuy.com^
@@ -14731,6 +14740,7 @@ yydstxt*.com/js/html
 ||frostpoint.net^
 ||froy.com^
 ||frozenara.com^
+||frozenpayerpregnant.com^
 ||frozondns.com^
 ||frp8r3le9c.com^
 ||frs2c.com^
@@ -16242,6 +16252,7 @@ yydstxt*.com/js/html
 ||gutx.org^
 ||guu0bfmpf5.com^
 ||guuia6hxf.com^
+||guulgakv.com^
 ||guurniuvgo.com^
 ||guwd.cn^
 ||guxianyi.com^
@@ -17975,7 +17986,6 @@ yydstxt*.com/js/html
 ||img16888.com^
 ||img2.126.net^
 ||img2.titan007.com^
-||img2024.cnblogs.com/blog/35695/
 ||img3.126.net^
 ||img301.com^
 ||img50.pingguolv.com^
@@ -18241,7 +18251,6 @@ yydstxt*.com/js/html
 ||inquiry64.top^
 ||inrdeals.com^
 ||inreality.com^
-||inrecsys.popin.cc^
 ||insaraf.com^
 ||insauga.com^
 ||insectsofiowa.org^
@@ -18924,6 +18933,7 @@ yydstxt*.com/js/html
 ||jeuxpo.com^
 ||jewelryimages.net^
 ||jewelryshowcasedepot.com^
+||jfffe1o97b.com^
 ||jfklibrary.org^
 ||jfpo.cn^
 ||jfreaks.com^
@@ -19047,7 +19057,6 @@ yydstxt*.com/js/html
 ||jitashe.org^
 ||jitty.com^
 ||jiudingzhifu.top^
-||jiuse.io^
 ||jiusevip.com^
 ||jiyingdm.com/js/loadingshow.html
 ||jizzoid.com^
@@ -19744,6 +19753,7 @@ yydstxt*.com/js/html
 ||keywin.org/templates/kw_v2/images/youbianad.png
 ||kf.qingwk.com^
 ||kf2038zvxt.com^
+||kf4kwomxhl.com^
 ||kf6k7c.com^
 ||kfa9grestp.com^
 ||kfc-520.com^
@@ -21026,7 +21036,6 @@ yydstxt*.com/js/html
 ||log.daqi.com^
 ||log.mtime.cn^
 ||log.music.baidu.com^
-||log.popin.cc^
 ||log.vdisk.cn^
 ||log2.mtime.cn^
 ||loganparkinc.com^
@@ -21167,6 +21176,7 @@ yydstxt*.com/js/html
 ||lppm.com^
 ||lpuqhego.com^
 ||lpxconnect.com^
+||lpxyrjholunvdk.com^
 ||lq6zkg-rtbix.top^
 ||lqbe7i5gf.com^
 ||lqdcvj.top^
@@ -21213,7 +21223,7 @@ yydstxt*.com/js/html
 ||ltiekurv.com^
 ||ltk.com^
 ||ltl-xpo.com^
-||ltn.com.tw/impression?
+||ltn.com.tw.impression?
 ||ltn.com.tw/js/ad_door.js
 ||ltool.net^
 ||ltrb.cn^
@@ -27928,7 +27938,6 @@ yydstxt*.com/js/html
 ||rjif.cn^
 ||rjpvnl.icu^
 ||rjsos.com/channel/laomo_dibu.png
-||rjsperf.myalicdn.com/sdk.js
 ||rjsq7ljyp.com^
 ||rjxvff.icu^
 ||rjzxw.com/include/
@@ -30707,7 +30716,6 @@ yydstxt*.com/js/html
 ||t-fal.com^
 ||t-shirtforums.com^
 ||t.cn^$domain=28kys.com|92kvip.com
-||t.ssp.hinet.net/utag.js
 ||t003ba590.com^
 ||t0cv7pmo2y.com^
 ||t1.612.com^
@@ -31367,6 +31375,7 @@ yydstxt*.com/js/html
 ||theoldcellar.com^
 ||theoldnet.com^
 ||theorangeapi.com^
+||theorem12.top^
 ||theorientalherborist.com^
 ||theouterhaven.net^
 ||thepackagingpro.com^
@@ -34313,6 +34322,7 @@ yydstxt*.com/js/html
 ||whiting-global.org^
 ||whittard.com^
 ||whittierdailynews.com^
+||whkhct2lnf.com^
 ||whlwcahw1x.com^
 ||whnews.cn/wh_public/xuxu/
 ||whoas.xyz^
@@ -35077,6 +35087,7 @@ yydstxt*.com/js/html
 ||xj8z427gxz.com^
 ||xjishu.com^
 ||xjkma2940637fafa.com^
+||xjl2ts2q6a.com^
 ||xjoiteee8.com^
 ||xjqifei.com^
 ||xjwhad.com^
@@ -36620,3 +36631,4 @@ yydstxt*.com/js/html
 ||zzztube.com^
 ||zzzyk.com/js/
 ||zzzz2233.com^
+网易 (163 / 126)
