@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202606102126
-! Last modified: 10 Jun 2026 21:26 UTC
+! Version: 202606112127
+! Last modified: 11 Jun 2026 21:27 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -11,8 +11,8 @@
 ##.van-overlay
 ##.van-popup--center
 $csp=script-src 'self' * 'unsafe-inline',domain=bijiyd.com|7zhens.com|wamuku.cc|scmmxs.com|jinduxs.com|buhesw.com|luenbook.cc|zahubook.com|heciwk.com|quhesw.com|erzuwk.com|bowoxs.com|guashuge.com|mudanxs.com|mzbook.cc|haduks.com|caimozw.com|zaaizw.com|bogeks.com|oushuku.com|haxu8.com|pucixs.com|tuqisw.com|xueyisw.com|zuye8.com|yawoxs.com|guwoxs.com|jiufuzw.com|beianxs.com|shuying6.com|mafusw.com|cule9.com|riquzw.com|xingksw.com|enbusw.com|waguwk.cc|ruyisw.com|zuxiku.com|jinmusb.com|hunshuge.com|puyewk.com|kaaiwk.com|hadu520.com|qubosw.com|meisibook.com|cuaizw.cc|boxue8.cc|cipubook.com|ququsk.cc|yiyezao.com|shanhuxs.com|jiutusw.com|chahuax.com|candoug.com|hanziwen.com|haduzw.com|modaoshu.com|nipubook.com|nuoshuge.com|puquz.com|wuwusk.com
+$csp=script-src 'self' * 'unsafe-inline',domain=shuhaige.net|ygshu.com|kbook8.com|yemancomic.com|erciyan.com|feiguaks.com|iqmxs.cc|hshfm.com|xbiqige.cc|1qxs.com|xddxsw.net|98dxs.net|bisowu.net|zyywenxue.com|xiakezw.com|biqul.com|biqugeks.org|girlsoncam.net|japonfilmleri.com|minaeast.net|shumi.la|59xs.com|biqugen.com|8181zw.vip|biqugequ.org|69shumi.com|fxxs3.com|efuxs.com|i3book.com|genbiquge.com|quanbiqu.com|pinshu.org|13xsw.com|bbiquge.cc|taobiquge.com|haijiaobooksw.top|zlobin.net|piaotianxiaoshuo.com|jvbiquge.com|vipbiquge.com|jpbqg7.com|zuizhong.net|oldtimeswx.org|5book.cc|softtechsolution.org|product44.com|snxsw.com|xiexinde.net|m.6666xsw.com|m.niupizhi.net|jmshuwu.net|wodexiaoshuoh.com|tetservices.net|haitangsoshu.org|4hrz.net|x33yq.org|56xiaoshuo.net|novelser.com|ykxs.cc|biqudd.com|diyibanzhu44444.com|dbrxs.org|kaixindu.net|1ingatlan.net|gaofuwu.org|yushuwu.cloud|yswxs.com|biquge2345.com|dingdian911.com|bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|aidu123.com|biquluo.info|bqgh.com|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com|zk01.net
 $csp=script-src 'self' * 'unsafe-inline',domain=smsonline.cloud
-$csp=script-src 'self' * 'unsafe-inline',domain=ygshu.com|kbook8.com|yemancomic.com|erciyan.com|feiguaks.com|iqmxs.cc|hshfm.com|xbiqige.cc|1qxs.com|xddxsw.net|98dxs.net|bisowu.net|zyywenxue.com|xiakezw.com|biqul.com|biqugeks.org|girlsoncam.net|japonfilmleri.com|minaeast.net|shumi.la|59xs.com|biqugen.com|8181zw.vip|biqugequ.org|69shumi.com|fxxs3.com|efuxs.com|i3book.com|genbiquge.com|quanbiqu.com|pinshu.org|13xsw.com|bbiquge.cc|taobiquge.com|haijiaobooksw.top|zlobin.net|piaotianxiaoshuo.com|jvbiquge.com|vipbiquge.com|jpbqg7.com|zuizhong.net|oldtimeswx.org|5book.cc|softtechsolution.org|product44.com|snxsw.com|xiexinde.net|m.6666xsw.com|m.niupizhi.net|jmshuwu.net|wodexiaoshuoh.com|tetservices.net|haitangsoshu.org|4hrz.net|x33yq.org|56xiaoshuo.net|novelser.com|ykxs.cc|biqudd.com|diyibanzhu44444.com|dbrxs.org|kaixindu.net|1ingatlan.net|gaofuwu.org|yushuwu.cloud|yswxs.com|biquge2345.com|dingdian911.com|bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|aidu123.com|biquluo.info|bqgh.com|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com|zk01.net
 $csp=script-src 'self' *,domain=yebiquge.com|zduxs.com|90shuyuan.com|hunhunxs.com|sswwxs.com|akexs.com|qqmmxs.com|qimiaoxs.cc|qimiaoxiaoshuo.com|wuwxs.com|biquge678.com|biqugezw.us
 $domain=ads.adxadserv.com|adserver.juicyads.com|cs.adxpansion.com|olmsoneenh.info|static.javhd.com|syndication.exosrv.com
 $domain=googleads.g.doubleclick.net
@@ -3178,7 +3178,6 @@ yydstxt*.com/js/html
 ||3g.qq.com/lview?
 ||3ge064tt79.com^
 ||3gmfw.cn/js/wap/
-||3gpp.org^
 ||3gweek.net^
 ||3h3.com/gmobile/gujs/
 ||3h3.com/js/homepage.js
@@ -3362,6 +3361,7 @@ yydstxt*.com/js/html
 ||4gtv.tv/4gtv_ott.json
 ||4h87y9pc59.com^
 ||4hw.com.cn/js/common.js
+||4i2q0y9wv.com^
 ||4ifhpfi1.xyz^
 ||4jh1le34m.com^
 ||4kxczstxil.com^
@@ -4133,6 +4133,8 @@ yydstxt*.com/js/html
 ||8g2a7mifv.com^
 ||8gptk28oag.com^
 ||8h6l4lfebvr.com^
+||8h6oiw0uo.com^
+||8h7j79qxm.com^
 ||8h93.com^*.gif
 ||8hx7k0211.com^
 ||8iav2fuiy.com^
@@ -4385,6 +4387,7 @@ yydstxt*.com/js/html
 ||9lala.cn^
 ||9lfqtl.com^
 ||9ma1sr1tb1.com^
+||9mdg9cu59.com^
 ||9ns1.com^
 ||9o29nhxgp.com^
 ||9oru1vh0w.com^
@@ -4539,7 +4542,6 @@ yydstxt*.com/js/html
 ||a8op.com^
 ||a8qwjt7dwi.com^
 ||aa.gushiwen.org^
-||aa.org^
 ||aa.xiangxiangmf.com^
 ||aa12308.com^
 ||aa2hzrmu9.com^
@@ -4548,7 +4550,6 @@ yydstxt*.com/js/html
 ||aa52jm08ly.com^
 ||aa7hzjsow.com^
 ||aaa.tumanyi.com^
-||aaae.org^
 ||aaaf.info^$script
 ||aaaimg.com/images*.gif
 ||aaasn.com^
@@ -9071,6 +9072,7 @@ yydstxt*.com/js/html
 ||calcpark.com^
 ||calcprofi.com^
 ||calculat.io^
+||calculation94.top^
 ||calculator-tech.com^
 ||calculatorfree.net^
 ||calculatorian.com^
@@ -9098,7 +9100,6 @@ yydstxt*.com/js/html
 ||callmefred.com^
 ||callosity19.top^
 ||callsmeee.xyz^
-||calmatters.org^
 ||calpaktravel.com^
 ||calscape.org^
 ||camascope.com^
@@ -9129,7 +9130,6 @@ yydstxt*.com/js/html
 ||camsmut.com^
 ||camspic.com/imguang/*.gif
 ||camtrapper.com^
-||camunda.com^
 ||camwhoreshd.com^
 ||canadaka.net^
 ||canadalaptopbattery.com^
@@ -9141,7 +9141,6 @@ yydstxt*.com/js/html
 ||cancellation39.com^
 ||cancellation58.top^
 ||cancerimagingarchive.net^
-||cancersupportfrance.org^
 ||cancioneros.com^
 ||candied-clouds.net^
 ||candisoft.com^
@@ -14977,6 +14976,7 @@ yydstxt*.com/js/html
 ||g838.org^
 ||g8hi6r3odr.com^
 ||g8hri3xa.com^
+||g8nwdolod.com^
 ||g8ygkqhm9p.com^
 ||g9cvic3khh.com^
 ||ga1.3dmgame.com^
@@ -15201,7 +15201,6 @@ yydstxt*.com/js/html
 ||gdcytv.cn^*.gif
 ||gddl7idmf.com^
 ||gddomainparking.com^
-||gdeltproject.org^
 ||gdenamore.com^
 ||gdfslt.com^
 ||gdgwatch.com^
@@ -15535,7 +15534,6 @@ yydstxt*.com/js/html
 ||girlstyle.com^
 ||girlymaxwholesale.com^
 ||giteeusercontent.com^
-||github.org^
 ||githubusercontent.com/vip888vip/ug/main/*.gif
 ||githuhey.com^
 ||gitis.net^
@@ -18890,6 +18888,7 @@ yydstxt*.com/js/html
 ||jds4i5gcfv.com^
 ||jdwx.info/api.php?mod=ad&
 ||je-veux-ce-vin.com^
+||je3zdrcua.com^
 ||jeaheatingairconditioning.com^
 ||jebelz.com^
 ||jeebei.com^
@@ -21426,6 +21425,7 @@ yydstxt*.com/js/html
 ||m3v8x28jut.com^
 ||m43ocq1uoj.com^
 ||m485oq2gym.top^
+||m4dynuge4.com^
 ||m4fxreb5s.com^
 ||m4uhdfree.net^
 ||m5.66077.cn^
@@ -22509,6 +22509,7 @@ yydstxt*.com/js/html
 ||mlabsvc.io^
 ||mlb-korea.com^
 ||mlflow-telemetry.io^
+||mliyokonw.com^
 ||mlleetcoco.com^
 ||mlog.aipai.com^
 ||mlougq.icu^
@@ -22987,7 +22988,6 @@ yydstxt*.com/js/html
 ||musicstax.com^
 ||musicweb-international.com^
 ||musicwithelise.com^
-||musl-libc.org^
 ||musopen.org^
 ||mustakshif.com^
 ||mustang7g.com^
@@ -24727,6 +24727,7 @@ yydstxt*.com/js/html
 ||onthemapmarketing.com^
 ||onton.com^
 ||ontrium.com^
+||onttsrh5i.com^
 ||onwebchat.com^
 ||onwsw.com^
 ||onx8.com/theme/tange/add/
@@ -25587,6 +25588,7 @@ yydstxt*.com/js/html
 ||permies.com^
 ||permissible67.com^
 ||permissionguard.com^
+||permutive.com^
 ||persado.com^
 ||persistentcasting.com^
 ||personaclick.com^
@@ -26718,6 +26720,7 @@ yydstxt*.com/js/html
 ||pv.sohu.com^$domain=chinafund.cn
 ||pv.zhiding.cn^
 ||pv4b.com^$popup
+||pv7ezc6as.com^
 ||pv966.us/js/tw.js
 ||pvgcyyh.icu^
 ||pvhbhnqip.com^
@@ -28141,6 +28144,7 @@ yydstxt*.com/js/html
 ||rsportz.com^
 ||rstdfyerm.icu^
 ||rstprgapipt.com^
+||rstqbtoqrxbvpk.com^
 ||rsvlts.com^
 ||rt-pixel.com^
 ||rt5x78mhcq.com^
@@ -28820,6 +28824,7 @@ yydstxt*.com/js/html
 ||seg.org^
 ||segaretro.org^
 ||segio.com^
+||segment.io^
 ||segmentfault.com/sponsor/
 ||segmetrics.io^
 ||segwaychat.org^
@@ -30946,6 +30951,7 @@ yydstxt*.com/js/html
 ||tcmxmlu.com^
 ||tcpdf.org^
 ||tcpdoor.net^
+||tcptest.cn/prod-api/web/adlinks/
 ||tcptickle.com^
 ||tcragarnh.com^
 ||tcskincare.com^
@@ -34954,7 +34960,6 @@ yydstxt*.com/js/html
 ||xerpagltl.com^
 ||xethos.net^
 ||xfb315.com^
-||xfce.org^
 ||xfdlfj.icu^
 ||xfgun2940637fafa.com^
 ||xfilmen.com^
@@ -34996,6 +35001,7 @@ yydstxt*.com/js/html
 ||xhsocial.com^
 ||xhtkm35sw.com^
 ||xhwebsite.com^
+||xhxtdjx.com^
 ||xhymsq.com/data/attachment/portal/
 ||xhzhu2940637fafa.com^
 ||xi-rutor.top^
