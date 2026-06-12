@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202606112127
-! Last modified: 11 Jun 2026 21:27 UTC
+! Version: 202606122103
+! Last modified: 12 Jun 2026 21:03 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2291,6 +2291,8 @@ yydstxt*.com/js/html
 ||080cdns.com^
 ||0816seo.com^
 ||086123.xyz^
+||08pkgxft0u.com^
+||08su45co5x.com^
 ||0919edu.com^
 ||0941.org^
 ||094kk.com^
@@ -2545,6 +2547,7 @@ yydstxt*.com/js/html
 ||14pbmfzci.com^
 ||1514bet10.com^
 ||1517.org^
+||151xrobgqz.com^
 ||152dj.com^
 ||154.7.80.158^
 ||155.cn^
@@ -2992,6 +2995,7 @@ yydstxt*.com/js/html
 ||2r2zhs64a7.com^
 ||2r523.net^
 ||2r69dkb1a.com^
+||2top98spp.shop^
 ||2u1h56851n.top^
 ||2vcb9onxjm.com^
 ||2wq9u06jq.com^
@@ -3662,6 +3666,7 @@ yydstxt*.com/js/html
 ||5ips.net/love/
 ||5j45n3f6r.com^
 ||5k1cyldc9.com^
+||5kjpa028wo.com^
 ||5kmqy60r7.com^
 ||5lf5cujc5.com^
 ||5lu8.com^$popup,third-party
@@ -4381,6 +4386,7 @@ yydstxt*.com/js/html
 ||9k9k.com/jscode/js/
 ||9kkj.com^
 ||9kp.cc/js/bbk/
+||9kqh3r24zv.com^
 ||9ku.com/aaa/
 ||9l4i9edu.top^
 ||9l9ck7mdd2.com^
@@ -4541,6 +4547,7 @@ yydstxt*.com/js/html
 ||a8h4zhbmxi.com^
 ||a8op.com^
 ||a8qwjt7dwi.com^
+||a8wqu3fbmk.com^
 ||aa.gushiwen.org^
 ||aa.xiangxiangmf.com^
 ||aa12308.com^
@@ -14122,6 +14129,7 @@ yydstxt*.com/js/html
 ||figoogoo.com^
 ||figuredin.xyz^
 ||figures.com^
+||fih3r.com^
 ||fijipic.xyz^
 ||fikppvmul.com^
 ||filabra.com^
@@ -14971,6 +14979,7 @@ yydstxt*.com/js/html
 ||g5xu1dslr6.com^
 ||g64njjhyh.com^
 ||g66ryy88z.com^
+||g6ird1tez2.com^
 ||g6x2uvza37.com^
 ||g741.org^
 ||g838.org^
@@ -17367,6 +17376,7 @@ yydstxt*.com/js/html
 ||huananxs.top/static/jp/js/ad
 ||huancaicp.com/?pid=$popup
 ||huanjugu.com/dm
+||huanle97.com^
 ||huanqiu.com/resource/js/base
 ||huanqiu.com/ssi/show_*_mall.ssi
 ||huanqiucdn.cn/huanqiu/js/www/common/detected_block.
@@ -24836,6 +24846,7 @@ yydstxt*.com/js/html
 ||openxcom.org^
 ||openxglobal.com^
 ||operadds.com^
+||operation67.com^
 ||operetta17.com^
 ||opforyou.com^
 ||opfourpro.net^
@@ -25867,6 +25878,7 @@ yydstxt*.com/js/html
 ||pipextension.com^
 ||pipi.cn/player/
 ||pipix.cc/gg.gif
+||piplnlkmoandbq.com^
 ||pippd.com^
 ||pippio.com^
 ||pipwave.com^
@@ -29430,6 +29442,7 @@ yydstxt*.com/js/html
 ||sixthjune.com^
 ||sizeee.com^
 ||sjbaiduadv1.redou.com^
+||sjbbsja.forum^
 ||sjbdla.com^
 ||sjcool.net^
 ||sjhgfrvbxrbbr.com^
@@ -32746,6 +32759,7 @@ yydstxt*.com/js/html
 ||ukpuzzles.org^
 ||ukranews.com^
 ||ukrnames.com^
+||uks8suop4b.com^
 ||ukuleqasforsalesre.com^
 ||ukutabs.com^
 ||ukx6umuvu.com^
@@ -33836,6 +33850,7 @@ yydstxt*.com/js/html
 ||vyshoo.com^
 ||vysr4o0eg.com^
 ||vyxw.cn^
+||vz95953ow5.com^
 ||vzia.cn^
 ||vzmz.com/template/paody/aaaa/*0
 ||vzmz.com/template/paody/aaaa/357.js
@@ -35235,6 +35250,8 @@ yydstxt*.com/js/html
 ||xpzodh.icu^
 ||xq7777.net^
 ||xqhfb9hzrs.com^
+||xqishen.com^*/0
+||xqishen.com^*/1
 ||xqlmm.com^
 ||xqmd2dzzvh.com^
 ||xqoh.cn^
