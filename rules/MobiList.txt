@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202606122103
-! Last modified: 12 Jun 2026 21:03 UTC
+! Version: 202606132037
+! Last modified: 13 Jun 2026 20:37 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2318,6 +2318,7 @@ yydstxt*.com/js/html
 ||0hagal2csg.com^
 ||0hagz9mdc.com^
 ||0hasprzzu.com^
+||0hqq3dnjf.com^
 ||0iem8mw1lx.com^
 ||0ihw4ipvm5.com^
 ||0jghm60qg.com^
@@ -3990,6 +3991,7 @@ yydstxt*.com/js/html
 ||7moor-zx.com^
 ||7moor.com^$third-party
 ||7mts.com^
+||7mus3aqqv.com^
 ||7mx63ygcti.com^
 ||7mxn77h4vr.com^
 ||7na721c64.com^
@@ -6436,6 +6438,7 @@ yydstxt*.com/js/html
 ||ariamus.com^
 ||arij.net^
 ||arisma.com^
+||arithmetic48.top^
 ||arjo.com^
 ||ark.le.com/s?vid=
 ||ark.letv.com/s?
@@ -12677,6 +12680,7 @@ yydstxt*.com/js/html
 ||e323e.com^
 ||e3c7.com/dh/
 ||e3c7.com/love/
+||e3j60qqdk.com^
 ||e3ol.com/inc/
 ||e46fanatics.com^
 ||e47e47.com^
@@ -16227,6 +16231,7 @@ yydstxt*.com/js/html
 ||guli21.com/js/ggdm
 ||guli21.com/pnew/
 ||gumgo.cn^$third-party
+||gummy-debt.com^
 ||gummydropgame.com^
 ||gunabizusa.com^
 ||gunauction.com^
@@ -16325,7 +16330,9 @@ yydstxt*.com/js/html
 ||h1.wk2.com^
 ||h10hotels.com^
 ||h1883c5wn.com^
+||h1cn8nwng.com^
 ||h1yfrt.com^
+||h27aq0mc6.com^
 ||h2o-sensations.com^
 ||h2tcbox.baidu.com^
 ||h3e8.com^
@@ -18851,6 +18858,7 @@ yydstxt*.com/js/html
 ||jbiwvt6x1e.com^
 ||jbl310.com^
 ||jblpartybox710.com^
+||jbriyba0f.com^
 ||jbspins.com^
 ||jbt133.com^
 ||jbw4kkuf2y.com^
@@ -20948,6 +20956,7 @@ yydstxt*.com/js/html
 ||lkhmlx.icu^
 ||lkjhgfdsc.com^
 ||lkkinggamepgs1.com^
+||lkpda6xuy.com^
 ||lkpjbr.icu^
 ||lkpseyc3d.com^
 ||lkthfpii.xyz^
@@ -21295,6 +21304,7 @@ yydstxt*.com/js/html
 ||lutouwang.net/static/images/boss_gao_hb.jpeg
 ||lutouwang.net/static/js/mv_ad
 ||luuckk.com^
+||luujhia.com^
 ||luwebs.com^
 ||luwkhuku.com^
 ||lux-ad.com^
@@ -23944,6 +23954,7 @@ yydstxt*.com/js/html
 ||nl2v1uw9e.com^
 ||nlbb3dvqh.com^
 ||nlkylpo.com^
+||nllgzvgoudbdnq.com^
 ||nlock.xyz^
 ||nlpperformance.com^
 ||nlx.org^
@@ -24416,6 +24427,7 @@ yydstxt*.com/js/html
 ||octopusoverlords.com^
 ||octotracking.com^
 ||ocularinc.com^
+||ocvdi0rum.com^
 ||ocwvrxyciiv.net^
 ||odaje.com^
 ||oddalerts.com^
@@ -32806,6 +32818,7 @@ yydstxt*.com/js/html
 ||un-ilibrary.org^
 ||un.ubaike.cn^
 ||un1.lawyernet.cn^
+||un8hlx.com^
 ||una-oic.org^
 ||una.io^
 ||unaimmi.com^
@@ -34534,6 +34547,7 @@ yydstxt*.com/js/html
 ||wmnqifp98t.com^
 ||wmtracksys.com^
 ||wmwcym.icu^
+||wn4x4bzhx.com^
 ||wnacammull.com^
 ||wnacg.com/game/
 ||wnacg.com/game/$image,rewrite=abp-resource:1x1-transparent-gif,domain=wnacg.com
@@ -34654,6 +34668,7 @@ yydstxt*.com/js/html
 ||wples.com/pc/common.js
 ||wppmedia.com^
 ||wpshout.com^
+||wpsxwkz.com^
 ||wpuzzcudultv.com^
 ||wpxi.com^
 ||wpy6xuq4.xyz^
