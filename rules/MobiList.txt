@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202606170452
-! Last modified: 17 Jun 2026 04:52 UTC
+! Version: 202606172118
+! Last modified: 17 Jun 2026 21:18 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -6989,7 +6989,6 @@ yydstxt*.com/js/html
 ||axisnow.io^
 ||axivora.net^
 ||axminstertools.com^
-||axod.net^
 ||axolab.org^
 ||axomtube.com^
 ||axonixgrid.com^
@@ -7869,7 +7868,6 @@ yydstxt*.com/js/html
 ||bfgu.cn^
 ||bfitra1eho.com^
 ||bfkn.com^
-||bfllvip.com^
 ||bflvxv.icu^
 ||bfocuqeona.com^
 ||bfpgf.com/wp-content/uploads/2015/08/360dxs.jpg
@@ -7889,7 +7887,6 @@ yydstxt*.com/js/html
 ||bggd.com^
 ||bgjylr.icu^
 ||bgp4all.com^
-||bgqpnx.cn^
 ||bgrukidu.com^
 ||bgsdc.com^
 ||bgtee.com^
@@ -12532,6 +12529,7 @@ yydstxt*.com/js/html
 ||drivee-a.com^
 ||drivenproperties.com^
 ||driverdb.com^
+||driverhugoverblown.com^
 ||driverscollection.com^
 ||drivesatis.com^
 ||drivethrufiction.com^
@@ -15851,6 +15849,7 @@ yydstxt*.com/js/html
 ||gmtrade.xyz^
 ||gmxes.com^
 ||gn01.top^
+||gn4yz5v9z.com^
 ||gn6u494hn.com^
 ||gndrzx.cn^
 ||gnfr03906.com^
@@ -17063,6 +17062,7 @@ yydstxt*.com/js/html
 ||hi.xiunm.cn^
 ||hi.xiunm.com^
 ||hi1718.com^
+||hi2gmx3e1.com^
 ||hi2pv3e9pr.com^
 ||hi407ezyz.com^
 ||hi4c61mi8d.com^
@@ -35344,7 +35344,6 @@ yydstxt*.com/js/html
 ||xfly01.com^
 ||xfoss.com^
 ||xftsjv.top^
-||xfuliji.com^
 ||xfxtqjg.com^
 ||xg8mbvu3x8.com^
 ||xghylt.com/api.php?mod=ad&adid=
