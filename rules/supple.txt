@@ -120,6 +120,7 @@ _14c14p14v.js
 .cn/upload_01/xiao/*.gif
 .com/images/cleardot.gif
 .com/static/image/
+@@.com/static/image/$domain=1080me.com
 .com/static/images/yutu.gif
 .com/static/video/bn/
 .com/template/wap/zhuimh/img/lazy-read.gif
