@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202606192043
-! Last modified: 19 Jun 2026 20:43 UTC
+! Version: 202606200415
+! Last modified: 20 Jun 2026 04:15 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2118,6 +2118,7 @@ _popads.
 _tm11_pmt_
 _yad_jsonp_
 a2zapk.co###modalpop
+a2zapk.dev###modalpop
 a2zapk.io###modalpop
 baidu.com/heicha/mm/2027/acs-2027.js?
 baidu.com/mo/q/recommendpb/
@@ -12151,6 +12152,7 @@ yydstxt*.com/js/html
 ||divers-supply.com^
 ||diversityjobs.com^
 ||divestreams.com^
+||dividend56.top^
 ||division43.top^
 ||divvino.com^
 ||diychatroom.com^
@@ -16539,6 +16541,7 @@ yydstxt*.com/js/html
 ||h6295.com^$popup
 ||h6fh0e4hg.com^
 ||h6n6i7v98.com^
+||h702886htm.com^
 ||h7ima6w5k.com^
 ||h83k.com^
 ||h864k5wszsi.com^
@@ -18907,6 +18910,7 @@ yydstxt*.com/js/html
 ||iugvoo.icu^
 ||iupac.org^
 ||iupian.com/mstyle/js/topinfo.js
+||iv6xaoopvq.com^
 ||ivasms.com^
 ||ivcfsi3dr0.com^
 ||ivdtruneda.com^
@@ -24706,7 +24710,6 @@ yydstxt*.com/js/html
 ||oadoi.org^
 ||oadts.com^
 ||oaepublish.com^
-||oag7h.com^
 ||oagirlodug.com^
 ||oaistatsig.com^
 ||oakleyforum.com^
@@ -26938,6 +26941,7 @@ yydstxt*.com/js/html
 ||ptoamtoucoay.com^
 ||ptportalfl.com^
 ||ptppxv.com^
+||pttoblakstpjti.com^
 ||pttzjo.top^
 ||ptxcfn.icu^
 ||ptxck2940637fafa.com^
@@ -27125,6 +27129,7 @@ yydstxt*.com/js/html
 ||qbibsy.icu^
 ||qbox.me/flnvidueio_lrxygiol0ofw0gpa7
 ||qbox.me/fnjnjjhjzlkzegj7qv1aocqusfbf
+||qbyngdjq8g.com^
 ||qc1.cheshipin.com^
 ||qcad.org^
 ||qcells.com^
@@ -28321,7 +28326,6 @@ yydstxt*.com/js/html
 ||rmoutlook.com^
 ||rmtgxazt.com^
 ||rmzxb.com.cn^
-||rmzxw.com.cn^
 ||rn221.xyz^
 ||rndbtop.com^
 ||rndmlk8asw.com^
@@ -36861,6 +36865,7 @@ yydstxt*.com/js/html
 ||zk.91post.com^
 ||zk789.cn/res/scripts/show/netsys/show.ashx
 ||zkcizao.com^
+||zkhjsta.beauty^
 ||zkmnpnt4xg.com^
 ||zknqll.icu^
 ||zkraktak.com^
