@@ -434,6 +434,7 @@ baidu.com/mo/q/recommendpb/
 91bl.es###popup-mask
 a2zapk.co###modalpop
 a2zapk.io###modalpop
+a2zapk.dev###modalpop
 duckduckgo.com##.js-atb-banner
 eastmoney.com###openinapp
 haijiao.love###popup-mask
