@@ -444,6 +444,7 @@ kuaidi100.com##.index__download-box
 m.58moto.com##.motorfans-download-app
 m.happymh.com###layui-m-layer0
 m.hetushu.com##.m1
+m.huxiu.com###js-special-open-app-btn
 m.iyf.tv##.container
 m.jiakaobaodian.com##.com-down-dv
 m.jiakaobaodian.com##.com-layout-footer
