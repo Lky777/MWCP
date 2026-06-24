@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202606241238
-! Last modified: 24 Jun 2026 12:38 UTC
+! Version: 202606242053
+! Last modified: 24 Jun 2026 20:53 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2232,11 +2232,9 @@ yydstxt*.com/js/html
 ||011qt7cln.com^
 ||0171pjx5q.com^
 ||01anf08rf.com^
-||01ny.cn^
 ||01xs.com^
 ||020212.xyz^
 ||021912.xyz^
-||022china.com^
 ||022s.com^
 ||025yimei.com/templets/default/js/swt.js
 ||027art.com^
@@ -2252,11 +2250,7 @@ yydstxt*.com/js/html
 ||0494984.com^
 ||04cmm.com:8888/js
 ||04stream.tv/sda/
-||0510photo.com^
 ||0512s.com^$third-party
-||0533.net^
-||0543hr.com^
-||0555mas.com^
 ||055x.com^
 ||0575bbs.com/js/float.js
 ||0575bbs.com/updateimeags/
@@ -2286,7 +2280,6 @@ yydstxt*.com/js/html
 ||086123.xyz^
 ||08pkgxft0u.com^
 ||08su45co5x.com^
-||0919edu.com^
 ||0941.org^
 ||094kk.com^
 ||0998455.com^
@@ -2339,7 +2332,6 @@ yydstxt*.com/js/html
 ||0wk6gdkg8r.com^
 ||0wpfe0duo.com^
 ||0wx9kduvzq.com^
-||0x00sec.org^
 ||0x7iufg8hy.com^
 ||0xmd.com^
 ||0xr7ii3df.com^
@@ -4364,7 +4356,6 @@ yydstxt*.com/js/html
 ||9fcoh811c.com^
 ||9femzoiro.com^
 ||9ffyu1g9c.com^
-||9front.org^
 ||9fuda.com^
 ||9fum.ifeng.com^
 ||9g3yx40s6.com^
@@ -4563,7 +4554,6 @@ yydstxt*.com/js/html
 ||aab.org^
 ||aabdw.com^
 ||aaca.org^
-||aadl.org^
 ||aads.com^
 ||aafuck.xyz^$third-party
 ||aafurnituremd.com^
@@ -9967,7 +9957,6 @@ yydstxt*.com/js/html
 ||chiangmaitourcenter.com^
 ||chiasmiraisers.com^
 ||chiatrm.xyz^
-||chibios.org^
 ||chicagocityscape.com^
 ||chicandcurvy.com^
 ||chichi-pui.com^
@@ -10018,7 +10007,6 @@ yydstxt*.com/js/html
 ||chinacloudsites.cn/api/promotion?
 ||chinacomputerparts.com^
 ||chinaconcrete.cn/ggimg/
-||chinacourt.org^
 ||chinadiscovery.com^
 ||chinadongda.com^
 ||chinaemail.com.cn^
@@ -10094,7 +10082,6 @@ yydstxt*.com/js/html
 ||chipsiandtrw.com^
 ||chipsmall-jp.com^
 ||chiquel.com^
-||chiselapp.com^
 ||chivwempover.com^
 ||chizy.io^
 ||chjoy.com^
@@ -11367,7 +11354,6 @@ yydstxt*.com/js/html
 ||cwandt.com^
 ||cwcglobal.com^
 ||cwesl2940637fafa.com^
-||cwgc.org^
 ||cwlbearing.com^
 ||cwmattresswarehouse.com^
 ||cwo98w.com^
@@ -11375,7 +11361,6 @@ yydstxt*.com/js/html
 ||cwr-crb.com^
 ||cwrcars.com^
 ||cwstats.com^
-||cwur.org^
 ||cww.net.cn/include/show.asp?boardid=
 ||cww.net.cn/js/urdev.js
 ||cwymo2940637fafa.com^
@@ -11767,7 +11752,6 @@ yydstxt*.com/js/html
 ||dchsubaruthousandoaks.com^
 ||dclibrary.org^
 ||dcm-ekurashi.com^
-||dcmtk.org^
 ||dcntr-ads.com^
 ||dcoynuhet.com^
 ||dcpgdj.icu^
@@ -16073,7 +16057,6 @@ yydstxt*.com/js/html
 ||gnodecn.com^
 ||gnu-darwin.org^
 ||gnuisnotunix.com^
-||gnuradio.org^
 ||gnutellaforums.com^
 ||gnuweeb.org^
 ||go-get-some.net^
@@ -21386,7 +21369,6 @@ yydstxt*.com/js/html
 ||libaishijie.com^
 ||libbey.com^
 ||libdiscovery.org^
-||libimobiledevice.org^
 ||librairie-gallimard.com^
 ||librairie-kleber.com^
 ||librairienumeriqueafricaine.com^
@@ -21438,7 +21420,6 @@ yydstxt*.com/js/html
 ||lightspotads.com^
 ||lightstoreusa.com^
 ||lightstrade.com^
-||ligo.org^
 ||lihatt.icu^
 ||lihuasoft.net/images/ad_
 ||liisex.com/images/banners/
@@ -21515,15 +21496,12 @@ yydstxt*.com/js/html
 ||linovelib.com/scripts/zation.js
 ||linux-console.net^
 ||linux-hardware.org^
-||linuxdoc.org^
 ||linuxeden.com/plus/web_js.php
-||linuxfromscratch.org^
 ||linuxgrp.com^
 ||linuxidc.com/linuxfile/linux$script
 ||linuxidc.com/linuxfile/list
 ||linuxsat-support.com^
 ||linuxtoday.com^
-||linuxtv.org^
 ||linxtools.com^
 ||lionessfashion.com^
 ||lionlibraries.org^
@@ -24017,7 +23995,6 @@ yydstxt*.com/js/html
 ||mytabletennis.net^
 ||mythad.com^
 ||mytheraboost.com^
-||mythtv.org^
 ||mytrackman.com^
 ||mytraffics.net^
 ||mytrees.com^
@@ -24108,7 +24085,6 @@ yydstxt*.com/js/html
 ||nacha.org^
 ||nachedeu.com^
 ||nachhilfe-vermittlung.com^
-||nacto.org^
 ||nadavi.net^
 ||nadeko.net^
 ||nadgames.com^
@@ -24117,7 +24093,6 @@ yydstxt*.com/js/html
 ||nadommebel.com^
 ||nae-vegan.com^
 ||naev.org^
-||naeyc.org^
 ||nafex.net^
 ||nafeza2world.com^
 ||nagad88f.com^
@@ -26802,7 +26777,6 @@ yydstxt*.com/js/html
 ||pljxopblm.com^
 ||plkrlqbl.com^
 ||plmndw.com^
-||plone.org^
 ||plontrix.xyz^
 ||plourdefurniturecompany.com^
 ||ploutone.com^
@@ -26890,7 +26864,6 @@ yydstxt*.com/js/html
 ||policydaily.xyz^
 ||polimorphic.com^
 ||politicalpattern.com^
-||polkadot.io^
 ||polkadotters.com^
 ||polkinghorne.org^
 ||pollo.net.cn^
@@ -27109,7 +27082,6 @@ yydstxt*.com/js/html
 ||premiumtimesng.com^
 ||prepgirlshoops.com^
 ||prephoops.com^
-||preprints.org^
 ||prepscholar.com^
 ||presave.io^
 ||prescription55.top^
@@ -27248,9 +27220,7 @@ yydstxt*.com/js/html
 ||projectaction.com^
 ||projectagora-adtag-library.com^
 ||projectcece.com^
-||projecteuclid.org^
 ||projectgorgon.com^
-||projectnoah.org^
 ||projectplanbb.com^
 ||projectpointzero.com^
 ||projectpokemon.org^
@@ -27276,7 +27246,6 @@ yydstxt*.com/js/html
 ||promptwatch.com^
 ||pronovias.com^
 ||pronsy.com^
-||proofwiki.org^
 ||propagate44.top^
 ||propellerads.com^
 ||propensity-abm.com^
@@ -30884,7 +30853,6 @@ yydstxt*.com/js/html
 ||spinnovax.org^
 ||spinqe.com^
 ||spinwarriors.com^
-||spip.net^
 ||spipendo.com^
 ||spiritshop.com^
 ||spiritualfamily.net^
@@ -33573,7 +33541,6 @@ yydstxt*.com/js/html
 ||tzp61mplc.com^
 ||tzrl.com^
 ||tzzxc2.com^
-||u-boot.org^
 ||u-tk.com^
 ||u.ctrip.com/showcaseadvertisementsit/
 ||u.qxen.com^
@@ -34009,7 +33976,6 @@ yydstxt*.com/js/html
 ||usbpalsmfz.com^
 ||usc8nll40.com^
 ||uscfsales.com^
-||uschamber.com^
 ||uschoolnet.com^
 ||uscrimeradar.com^
 ||usda.net^
@@ -34066,7 +34032,6 @@ yydstxt*.com/js/html
 ||ut5hnwzebu.com^
 ||utazom.com^
 ||uteeo5018.com^
-||utexas.org^
 ||uther-pdo.com^
 ||utihriethlv.com^
 ||utkarshvidyamandir.com^
@@ -37655,8 +37620,6 @@ yydstxt*.com/js/html
 ||zona-lagu.net^
 ||zona-leros.com^
 ||zonacnc.com^
-||zondadevops.com^
-||zone-secure.net^
 ||zongbeijinyuan.com^
 ||zongbu-jidi.com^
 ||zongcaiwenxue.org^
@@ -37667,9 +37630,7 @@ yydstxt*.com/js/html
 ||zongyangclean.com^
 ||zongyirebang.com^
 ||zongyixieye.com^
-||zonosistem.com^
 ||zonzaemgame.com^
-||zoochat.com^
 ||zoogletools.com^
 ||zooj.cn^$third-party
 ||zooki.xyz^
@@ -37703,7 +37664,6 @@ yydstxt*.com/js/html
 ||zq3ke8yxu.com^
 ||zqmhl8lgj.com^
 ||zqqwr9snx1.com^
-||zqrb.cn^
 ||zquan.org^
 ||zqw294.com^
 ||zqy0jcfipu.com^
@@ -37713,8 +37673,6 @@ yydstxt*.com/js/html
 ||zrbnte.top^
 ||zrjr81na94.com^
 ||zrkeirapi.com^
-||zroadster.com^
-||zroadster.org^
 ||zrocdn.xyz^
 ||zrosq6dsha.com^
 ||zrrglobal.com^
