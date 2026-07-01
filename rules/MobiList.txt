@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202606302102
-! Last modified: 30 Jun 2026 21:02 UTC
+! Version: 202607012051
+! Last modified: 01 Jul 2026 20:51 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2682,6 +2682,7 @@ yydstxt*.com/js/html
 ||1jlp1qbgu.com^
 ||1jzocofm4.com^
 ||1k-cdn.com^
+||1k1bd77k9.com^
 ||1k2uh20wr.com^
 ||1k8j786ks5.com^
 ||1kb4atu6x.com^
@@ -7469,7 +7470,6 @@ yydstxt*.com/js/html
 ||bd.beimap.com^
 ||bd.czxuexi.com^
 ||bd.dhsz.cn^
-||bd.ershenghuo.com^
 ||bd.watu.cn^
 ||bd1-china.6789.com^
 ||bd1.365qilu.com^
@@ -11337,6 +11337,7 @@ yydstxt*.com/js/html
 ||cycyw.com/qdj/
 ||cykfrd.xyz^
 ||cylex-australia.com^
+||cylinder35.top^
 ||cymax.com^
 ||cymbiotika.com^
 ||cymitquimica.com^
@@ -12905,6 +12906,7 @@ yydstxt*.com/js/html
 ||e75liqii98.com^
 ||e7cod.com^
 ||e7st77.com^
+||e81j0an3d.com^
 ||e8ys.com^
 ||e90m7tos2.com^
 ||e926.net^
@@ -20218,6 +20220,7 @@ yydstxt*.com/js/html
 ||kgns4.com^
 ||kgns5.com^
 ||kgoj4nrhe.com^
+||kgou4s5dz.com^
 ||kh13.com^
 ||khabaruttarakhand.com^
 ||khaberni.com^
@@ -31566,6 +31569,7 @@ yydstxt*.com/js/html
 ||tableland06.top^
 ||tabletoptournaments.net^
 ||tabone.com^
+||taboola.com^
 ||tackeria.com^
 ||tacklbox.io^
 ||tacnode.io^
@@ -32808,6 +32812,7 @@ yydstxt*.com/js/html
 ||tpdads.com^
 ||tpembars.com^
 ||tphurqalq.com^
+||tpjhxbwkvjjvtq.com^
 ||tpjzyh.cn^
 ||tpmadsrv.com^
 ||tpp315.com^
@@ -33393,6 +33398,7 @@ yydstxt*.com/js/html
 ||u6yzoru6u.com^
 ||u7em9v4hp.com^
 ||u7hllh2d.xyz^
+||u7lb6db41.com^
 ||u7u9.com^$third-party
 ||u7ugo0jr3.com^
 ||u833ij.com^
@@ -33475,6 +33481,7 @@ yydstxt*.com/js/html
 ||uevrhqra7u.com^
 ||uewzjy.xyz^
 ||uextremo.com^
+||ueya0wo6m.com^
 ||ueyuww.icu^
 ||ufa9tt1n5.com^
 ||ufcespanol.com^
@@ -33536,6 +33543,7 @@ yydstxt*.com/js/html
 ||ukew6uo7u1.com^
 ||ukeysoft.com^
 ||ukfp.cn^
+||ukgm0qily.com^
 ||ukgser.com^
 ||ukjwb2940637fafa.com^
 ||ukmix.org^
