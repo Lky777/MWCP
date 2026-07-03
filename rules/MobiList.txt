@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202607022035
-! Last modified: 02 Jul 2026 20:35 UTC
+! Version: 202607032020
+! Last modified: 03 Jul 2026 20:20 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -1827,7 +1827,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||pagead2.googlesyndication.com/pagead/*/show_ads_impl$domain=bilinovel.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl$domain=ff14angler.com|logi.im
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=doitwell.tw
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=chajianmi.com|huavod.com|huaren.live|tt1069.com|akashio.com|1991421.cn|kantie.org|kejilion.pro|bilinovel.com|mcappx.com|yeeach.com|blog.6ziz.com|docsmall.com|uiadmin.net|4horlover.com|23qb.net|4spaces.org|aboluowang.com|assbbs.com|chaojizhibo.net|chtoen.com|daxiaamu.com|demo.ama.pub|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|fsbot.xyz|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|mens1069.com|monnsutogatya.com|mpyit.com|numberempire.com|ozabc.com|pansearch.me|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wandhi.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org|yummy.best|zaixianjisuan.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=soft8ware.com|chajianmi.com|huavod.com|huaren.live|tt1069.com|akashio.com|1991421.cn|kantie.org|kejilion.pro|bilinovel.com|mcappx.com|yeeach.com|blog.6ziz.com|docsmall.com|uiadmin.net|4horlover.com|23qb.net|4spaces.org|aboluowang.com|assbbs.com|chaojizhibo.net|chtoen.com|daxiaamu.com|demo.ama.pub|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|fsbot.xyz|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|mens1069.com|monnsutogatya.com|mpyit.com|numberempire.com|ozabc.com|pansearch.me|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wandhi.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org|yummy.best|zaixianjisuan.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=duelmeta.com|linetv.tw|liout.com|moneysave.info|raenonx.cc|zxmee.com
 @@||pagead2.googlesyndication.com/pagead/js/google_top_exp.js$domain=ebb.io
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=knowlet3389.blogspot.com|knowlet3389.blogspot.hk|knowlet3389.blogspot.jp|knowlet3389.blogspot.tw|mnighthk.net|weithenn.org
@@ -2293,6 +2293,7 @@ yydstxt*.com/js/html
 ||0jlhzq2b.com^
 ||0kkbb.com/js/i.js
 ||0l34c7sqy.com^
+||0l7t5qhb4.com^
 ||0m9mjmrd.top^
 ||0nkwep2fh.com^
 ||0nyzdw2maq.com^
@@ -2720,6 +2721,7 @@ yydstxt*.com/js/html
 ||1qfxm8hgqd.com^
 ||1qkssfop4l.com^
 ||1qocqk1fho.com^
+||1r0br5zeq.com^
 ||1rljzo9nt.com^
 ||1rwa5e8a6.com^
 ||1rx.io^
@@ -3796,6 +3798,7 @@ yydstxt*.com/js/html
 ||6o2k80jf8w.com^
 ||6o719vq4x.com^
 ||6opo.com^
+||6ovzwbq4o.com^
 ||6p2g1kk03.com^
 ||6p6vcukqz.com^
 ||6pan.cc/ps/vip.jpg
@@ -15075,6 +15078,7 @@ yydstxt*.com/js/html
 ||ftnode369.com^
 ||ftorrent.com^
 ||ftpbd.net^
+||ftqn9wedv.com^
 ||ftrfnx.icu^
 ||fttzfw.top^
 ||ftwconference.com^
@@ -31555,6 +31559,7 @@ yydstxt*.com/js/html
 ||t6forum.com^
 ||t78obxl4h1.com^
 ||t7fv5mjt8i.com^
+||t7h2otlhd.com^
 ||t7ywa5ai3.com^
 ||t8t8jyxsr.com^
 ||t9x2gu6it3.com^
@@ -32938,6 +32943,7 @@ yydstxt*.com/js/html
 ||transparent.com^
 ||transplo.com^
 ||transport10.com^
+||trapezium69.top^
 ||trapiscol.com^
 ||traponix.com^
 ||trapslwsin.com^
@@ -33902,6 +33908,7 @@ yydstxt*.com/js/html
 ||v53groc9v.com^
 ||v5rv8mnfk.com^
 ||v6g9n.top^
+||v700rtlhd.com^
 ||v7labs.com^
 ||v84tz11w7.com^
 ||v8fjvv9o3.com^
@@ -35924,6 +35931,7 @@ yydstxt*.com/js/html
 ||xiaoyakankan.io^
 ||xiaoz.top/assets/imgurl.js
 ||xiazaizhijia.com/w2/js/wxzzj.js
+||xibuvdzihpjlrq.com^
 ||xibvdjz2x2.com^
 ||xiexingcun.com/tongji.js
 ||xiexingcun.com/tyong.js
