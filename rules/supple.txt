@@ -34,9 +34,12 @@ v=2&adZones
 ://analytics.*.com/api/event
 /1x1.
 /cdn-cgi/speculation
+/cpy/0mk/apnews.com/qgy/
 /index.php/ajax/hits?mid=
 /index.php/user/ajax_ulog/?ac=
 /matomo.php?action_name=
+/popup/adblock/promo/banner/
+/static/upload/adsbanner/
 .com/api/banner/banner_list
 .com/api/models/
 .com/api/models?
@@ -62,6 +65,7 @@ _14c14p14v.js
 /api/eventTracking/batchReport.json
 /api/eventTracking/report.json
 /artplayer-plugin-ads.js
+/common/js/fp-*.min.js
 /frontend-gtag.min.js?
 /js/ga.js
 /js/hilltop.js
@@ -69,6 +73,7 @@ _14c14p14v.js
 /js/tm.js
 /js/zzz.js
 /matomo.js
+/trackad.js
 /videojs.ads.min.
 /videojs.ads.min.js
 /widgets/Spot/lib.js
@@ -154,6 +159,7 @@ _14c14p14v.js
 ||cdn.bootcdn.net^
 ||cdnboostcache.com^
 ||clarity.ms^
+||collect.zbstatic5.com^
 ||collector.xhamster.com^
 ||d1yw1n0ddlrqxj.cloudfront.net^
 ||d2v4tz4zvhrua.cloudfront.net^
@@ -220,6 +226,7 @@ _14c14p14v.js
 ||hledpkhmc.com^
 ||infamous-growth.pro^
 ||ip385154052.ahcdn.com^
+||jlr3lljrk.com^
 ||juniorregister.com^
 ||ks.ferlytc.com^
 ||mdynieu.com^
@@ -253,9 +260,6 @@ _14c14p14v.js
 ||yronesefurther.org^
 !
 ! ======== Website path-based ========
-/cpy/0mk/apnews.com/qgy/
-/popup/adblock/promo/banner/
-/static/upload/adsbanner/
 ||cdnjs.cloudflare.com/ajax/libs/fuckadblock/
 ||cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/
 @@||cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/$domain=ikanbot.com
@@ -269,8 +273,8 @@ _14c14p14v.js
 ||static.javhd.com/h5/files/
 ||www.line-website.com/social-plugins/
 !
-!五、 特定网站专属规则 (Site-Specific Rules
-网易 (163 / 126)
+! ======== Site-Specific Rules ========
+! (163 / 126)
 ! ||126.net^*analysis
 @@||126.net^*analysis$domain=m.163.com
 ||m.163.com/touch/nc/api/article/relate/
@@ -305,7 +309,6 @@ baidu.com/mo/q/recommendpb/
 |https://www.zhihu.com/api/v4/questions/*/related-readings?
 ||vzuu.com/HD/
 !CSDN
-/trackad.js
 ||blog.csdn.net/phoenix/web/v1/mini-app/
 ||csdn.net/recommend/
 ||csdnimg.cn/release/passport_fe/
@@ -365,7 +368,7 @@ baidu.com/mo/q/recommendpb/
 ||wnacg.com/game/
 ||wnacg.com/themes/mo/images/domain.js
 ||wnacg.com/themes/mo/images/int_bg.png
-!4. 成人与影视类站点 (18comic, 91porn, Jable, Xchina 等)
+!4. 成人与影视类站点
 ||112pm.com/okle/js1/
 ||169bbs.com/AllRes/
 /ajax/user_daily_event?
