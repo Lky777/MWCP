@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202607092053
-! Last modified: 09 Jul 2026 20:53 UTC
+! Version: 202607102039
+! Last modified: 10 Jul 2026 20:39 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -431,7 +431,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /caoaa|
 /cari/banner/
 /cari/daybanner/
-/cc6f9acb52d1582671afea808afe10fe.gif
 /cdn-cgi/pe/bag2?*.adm.cnzz.
 /cdn-cgi/pe/bag2?*.overture.com
 /cdn-cgi/pe/bag2?*p.tanx.com$domain=~hdwan.net
@@ -2203,7 +2202,6 @@ yydstxt*.com/js/html
 |https://xchina.fit/ajax.php
 ||*.$image,rewrite=abp-resource:1x1-transparent-gif,third-party,domain=rmdown.com
 ||*.cdn.sohucs.com/lemon/
-||*.mp4$rewrite=abp-resource:blank-mp3,domain=huavod.com|huaren.live
 ||*xav.*/guang/*.gif
 ||*xav.*/guang/*.jpg
 ||0-h-g-l.com^
@@ -2248,6 +2246,7 @@ yydstxt*.com/js/html
 ||059t.com^
 ||0606kk.com/js/index/index.js
 ||0618b93770.com^
+||063rpyn37z.com^
 ||064kk.com^
 ||06789.xyz^
 ||067oij53m.com^
@@ -2740,6 +2739,7 @@ yydstxt*.com/js/html
 ||1tvg524vih.com^
 ||1u6hvoykk3.com^
 ||1ub29e88i.com^
+||1udy3nzsqx.com^
 ||1ujz59h62z.com^
 ||1uo9djbnsr.com^
 ||1urjtp1t6.com^
@@ -2978,6 +2978,7 @@ yydstxt*.com/js/html
 ||2r2zhs64a7.com^
 ||2r69dkb1a.com^
 ||2top98spp.shop^
+||2u2wyftqmr.com^
 ||2undr.com^
 ||2vcb9onxjm.com^
 ||2vwijqat.com^
@@ -3631,6 +3632,7 @@ yydstxt*.com/js/html
 ||5hdz1gnue.com^
 ||5hej.com^
 ||5hffr1p22j.com^
+||5ho41ueq7w.com^
 ||5hu7hee0pt.com^
 ||5icool.org/uploadfile/poster/
 ||5ilinglei.com/gg.html
@@ -6212,6 +6214,7 @@ yydstxt*.com/js/html
 ||anubispace.org^
 ||anuytzc.xyz^
 ||anviagra.com^
+||anwexda.com^
 ||anxjm.com^
 ||anybunny2.com^
 ||anyday.io^
@@ -12272,6 +12275,7 @@ yydstxt*.com/js/html
 ||dghaoyu.com^
 ||dgmarket.com^
 ||dgnqrl.icu^
+||dgrpeldt54.com^
 ||dgsanan.com^
 ||dgser.com^
 ||dgshen.com^
@@ -12880,6 +12884,7 @@ yydstxt*.com/js/html
 ||dranayatenun.com^
 ||dravexio.xyz^
 ||dravolix.xyz^
+||drawknife37.top^
 ||drayvora.xyz^
 ||drbryanpwalsh.com^
 ||drchristophersherbs.com^
@@ -16086,6 +16091,7 @@ yydstxt*.com/js/html
 ||gexing.com/i/*960x
 ||gexing.com/j/??zmask.js,easing.js?
 ||gexq.cn^
+||gez1mlp2xy.com^
 ||gezenbilir.com^
 ||gezip.net^
 ||gf-utility.com^
@@ -19967,6 +19973,7 @@ yydstxt*.com/js/html
 ||jjj*.com/static/js/common.js
 ||jjjgame.com/images/ad11.jpg
 ||jjjxsw.com/js/common.
+||jjl4eob8mm.com^
 ||jjlxoi.cn^
 ||jjnyzeck.icu^
 ||jjpe6btbb.com^
@@ -20427,6 +20434,7 @@ yydstxt*.com/js/html
 ||k1s3u1dtpc.com^
 ||k3a2n7.com^
 ||k556vjm8voo1.com^
+||k5705bn39u.com^
 ||k5w06v2yzh.com^
 ||k69wes8q8.com^
 ||k6d.falang.net^
@@ -37042,6 +37050,7 @@ yydstxt*.com/js/html
 ||xizi.com/js/rotator.js
 ||xj63rov3m.com^
 ||xj8z427gxz.com^
+||xjh4uvv1ew.com^
 ||xjishu.com^
 ||xjkma2940637fafa.com^
 ||xjl2ts2q6a.com^
@@ -37070,6 +37079,7 @@ yydstxt*.com/js/html
 ||xjx11290ts.com^
 ||xjx11291ts.com^
 ||xjyskj168.com^
+||xkblzuz.com^
 ||xkd*.com/layer/layer.js
 ||xktoy8fub.com^
 ||xkum.cn^
@@ -38080,6 +38090,7 @@ yydstxt*.com/js/html
 ||zathrilgiw.com^
 ||zatu.com^
 ||zavastream.com^
+||zawra9izy3.com^
 ||zay7gs1xkl.com^
 ||zazamanga.com^
 ||zbcdn.net/__uvjgyw/slb.default.js
@@ -38150,6 +38161,7 @@ yydstxt*.com/js/html
 ||zdh11070lo.com^
 ||zdh11071lo.com^
 ||zdi.com^
+||zdjcxtteffxrri.com^
 ||zdl4o6sp3.com^
 ||zdnet.com.cn/js/pv.js
 ||zdoiodhtqahjizqq.net^
