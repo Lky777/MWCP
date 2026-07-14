@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202607132022
-! Last modified: 13 Jul 2026 20:22 UTC
+! Version: 202607142019
+! Last modified: 14 Jul 2026 20:19 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2265,6 +2265,7 @@ yydstxt*.com/js/html
 ||0755dyx.com^
 ||0755rc.com^$third-party
 ||0766r.com^
+||078pwrxpbg.com^
 ||07dm.com^
 ||07pv7k61z.com^
 ||07yue.com^
@@ -2647,6 +2648,7 @@ yydstxt*.com/js/html
 ||18comic.*/templates/frontend/airav/emoji/emojionearea.css
 ||18dreams.net^
 ||18eb21852c.com^
+||18ioh53d3f.com^
 ||18j2026.com^
 ||18kbook.org^
 ||18mo21a2ji.com^
@@ -3367,6 +3369,7 @@ yydstxt*.com/js/html
 ||4d45i6p0g.com^
 ||4d9f09z8c.com^
 ||4dosugs.com^
+||4e0jpheoi1.com^
 ||4e9ynqm47d.com^
 ||4elementos.com^
 ||4f3tsea1m.com^
@@ -3830,6 +3833,7 @@ yydstxt*.com/js/html
 ||6avz.com^$script,third-party
 ||6b8emvi3ya.com^
 ||6b9wbbjf5s.com^
+||6bgubwkwoh.com^
 ||6bjjh1xndh.com^
 ||6c34boi06m.com^
 ||6cjdya3djn.com^
@@ -22630,6 +22634,7 @@ yydstxt*.com/js/html
 ||mc-mutual.com^
 ||mc.weather.com.cn^
 ||mc.yandex.ru^
+||mc0pagg4ao.com^
 ||mcafee-cloud.com^
 ||mcahinohez.com^
 ||mcallihan.com^
@@ -25988,6 +25993,7 @@ yydstxt*.com/js/html
 ||p.zol-img.com.cn^
 ||p.zol.com.cn/download/detail.js
 ||p0.meituan.net/csc/
+||p0pn18sxvh.com^
 ||p0y.cn^
 ||p0y.cn^$image,domain=~ipinyou.com.cn
 ||p0yixb3wfv.com^
@@ -27629,6 +27635,7 @@ yydstxt*.com/js/html
 ||pv966.us/js/tw.js
 ||pvgcyyh.icu^
 ||pvhbhnqip.com^
+||pvino9yhp3.com^
 ||pvk.com^
 ||pvkc.cn^
 ||pvlimitless.com^
@@ -29016,6 +29023,7 @@ yydstxt*.com/js/html
 ||rometravelhotel.com^
 ||romyilano.com^
 ||romzhijia.net^
+||ronfjvonmo.com^
 ||ronracepub.com^
 ||ronsthings.com^
 ||rontar.com^
@@ -29353,6 +29361,7 @@ yydstxt*.com/js/html
 ||s2stracking.com^
 ||s2sw.com^
 ||s2tu.com/images/*.gif
+||s2ze6h0miy.com^
 ||s2zg0bhwgyuuin.com^
 ||s3-cloud.xyz^
 ||s3.ap-east-1.amazonaws.com^$third-party
@@ -29674,6 +29683,7 @@ yydstxt*.com/js/html
 ||scirate.com^
 ||scirp.net^
 ||scissorlab.com^
+||scissors73.top^
 ||scitation.org^
 ||scite.org^
 ||sciup.org^
@@ -31918,6 +31928,7 @@ yydstxt*.com/js/html
 ||t2tea.com^
 ||t4-a.com^
 ||t57u6anx2.com^
+||t5gp7rzz4.com^
 ||t5k.org^
 ||t62nds.com^
 ||t6ec3seyq.com^
@@ -33759,6 +33770,7 @@ yydstxt*.com/js/html
 ||tzfdc.com.cn/userfiles/flash/
 ||tzfdc.com/fdcsell/
 ||tzfdc.com/images/09/flv/flv_index.js
+||tzifhmvuju.com^
 ||tzlbzndiezpzro.com^
 ||tzp61mplc.com^
 ||tzw7.com^
@@ -37935,6 +37947,7 @@ yydstxt*.com/js/html
 ||zpgb.cn^
 ||zpiyi.com/public/js/global.js
 ||zpost.com^
+||zptfrxoaumxhnu.com^
 ||zpxvpvee.icu^
 ||zpzatutb.com^
 ||zq.lansedir.com^
