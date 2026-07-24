@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202607242037
-! Last modified: 24 Jul 2026 20:37 UTC
+! Version: 202607242352
+! Last modified: 24 Jul 2026 23:52 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -10,7 +10,7 @@
 ##.block-overlay
 ##.van-overlay
 ##.van-popup--center
-$csp=script-src 'self' * 'unsafe-inline',domain=bijiyd.com|7zhens.com|wamuku.cc|scmmxs.com|jinduxs.com|buhesw.com|luenbook.cc|zahubook.com|heciwk.com|quhesw.com|erzuwk.com|bowoxs.com|guashuge.com|mudanxs.com|mzbook.cc|haduks.com|caimozw.com|zaaizw.com|bogeks.com|haxu8.com|pucixs.com|tuqisw.com|xueyisw.com|zuye8.com|yawoxs.com|guwoxs.com|jiufuzw.com|beianxs.com|shuying6.com|mafusw.com|cule9.com|riquzw.com|xingksw.com|enbusw.com|waguwk.cc|ruyisw.com|zuxiku.com|jinmusb.com|hunshuge.com|puyewk.com|kaaiwk.com|hadu520.com|qubosw.com|meisibook.com|cuaizw.cc|boxue8.cc|cipubook.com|ququsk.cc|yiyezao.com|shanhuxs.com|jiutusw.com|chahuax.com|candoug.com|hanziwen.com|haduzw.com|modaoshu.com|nipubook.com|nuoshuge.com|puquz.com|wuwusk.com
+$csp=script-src 'self' * 'unsafe-inline',domain=bijiyd.com|7zhens.com|wamuku.cc|scmmxs.com|jinduxs.com|buhesw.com|luenbook.cc|zahubook.com|heciwk.com|quhesw.com|erzuwk.com|bowoxs.com|guashuge.com|mudanxs.com|mzbook.cc|haduks.com|caimozw.com|zaaizw.com|bogeks.com|haxu8.com|pucixs.com|tuqisw.com|xueyisw.com|zuye8.com|yawoxs.com|guwoxs.com|jiufuzw.com|beianxs.com|shuying6.com|mafusw.com|cule9.com|riquzw.com|xingksw.com|enbusw.com|waguwk.cc|ruyisw.com|zuxiku.com|jinmusb.com|hunshuge.com|puyewk.com|kaaiwk.com|hadu520.com|qubosw.com|meisibook.com|cuaizw.cc|boxue8.cc|cipubook.com|ququsk.cc|yiyezao.com|shanhuxs.com|jiutusw.com|chahuax.com|candoug.com|hanziwen.com|haduzw.com|modaoshu.com|nipubook.com|puquz.com|wuwusk.com
 $csp=script-src 'self' * 'unsafe-inline',domain=ltbook.net|shuhaige.net|ygshu.com|kbook8.com|yemancomic.com|erciyan.com|feiguaks.com|iqmxs.cc|hshfm.com|xbiqige.cc|1qxs.com|xddxsw.net|bisowu.net|zyywenxue.com|xiakezw.com|biqul.com|biqugeks.org|girlsoncam.net|japonfilmleri.com|minaeast.net|shumi.la|59xs.com|biqugen.com|8181zw.vip|biqugequ.org|69shumi.com|fxxs3.com|efuxs.com|i3book.com|genbiquge.com|quanbiqu.com|pinshu.org|13xsw.com|bbiquge.cc|taobiquge.com|haijiaobooksw.top|zlobin.net|piaotianxiaoshuo.com|jvbiquge.com|vipbiquge.com|jpbqg7.com|zuizhong.net|oldtimeswx.org|5book.cc|softtechsolution.org|product44.com|snxsw.com|xiexinde.net|m.6666xsw.com|m.niupizhi.net|jmshuwu.net|wodexiaoshuoh.com|tetservices.net|haitangsoshu.org|4hrz.net|x33yq.org|56xiaoshuo.net|novelser.com|ykxs.cc|biqudd.com|diyibanzhu44444.com|dbrxs.org|kaixindu.net|1ingatlan.net|gaofuwu.org|yushuwu.cloud|yswxs.com|biquge2345.com|dingdian911.com|bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|aidu123.com|biquluo.info|bqgh.com|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com|zk01.net
 $csp=script-src 'self' * 'unsafe-inline',domain=smsonline.cloud
 $csp=script-src 'self' *,domain=yebiquge.com|zduxs.com|90shuyuan.com|hunhunxs.com|sswwxs.com|akexs.com|qqmmxs.com|qimiaoxs.cc|qimiaoxiaoshuo.com|wuwxs.com|biquge678.com|biqugezw.us
@@ -158,6 +158,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/tonglan.js
 .com/tonglan2.js
 .com/topjs/
+.com/tracker.js
 .com/uploads/*-860x250.gif
 .com/vodad.js
 .com/wp-content/plugins/ai-share-summarize/
@@ -633,6 +634,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /js/btdigg.js
 /js/clickadu.js
 /js/common/gg.js
+/js/cp-popup.min.js?
 /js/cpc2_dl.js
 /js/cpc2_i.js
 /js/cpc2_rp.js
@@ -790,6 +792,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /pushstart.aspx|$subdocument,third-party
 /pushstart.html?$popup,third-party
 /pushsystem/attached/image/
+/pxf.gif?uuid=
 /qd/js/index/bannertop.
 /qidianadclient.
 /qiuyi-gg-wrapper-
@@ -2113,6 +2116,7 @@ hjziyan.wiki###popup-mask
 hxsame.hexun.com$domain=~quote.hexun.com
 juejin.cn##.open-button
 kuaidi100.com##.index__download-box
+luugy.com
 m.58moto.com##.motorfans-download-app
 m.happymh.com###layui-m-layer0
 m.hetushu.com##.m1
@@ -2126,6 +2130,7 @@ mdttz.com###overlay
 mdttz.com##.closeBtn
 mdttz.com##.popImage
 meijutt.*/js/pcjs/
+paupsoborofoow.net
 sav123.com##.c-ad-pop
 sina.cn###float-btn
 sina.cn##.m-guss-caijing
@@ -2183,6 +2188,7 @@ yydstxt*.com/js/html
 |https://www.99re.com/player/html.php?
 |https://www.eporner.com/dot/pop4.php
 |https://www.eporner.com/static/popCode-
+|https://www.facebook.com/tr/?id=
 |https://www.ghxi.com/wp-content/plugins/wp-opt/static/js/ai-summary.min.js?
 |https://www.ghxi.com/wp-content/plugins/wp-opt/static/js/front.min.js?
 |https://www.haijiaoshipin.com/build/assets/popup-
@@ -6134,6 +6140,7 @@ yydstxt*.com/js/html
 ||analytics-union.sandai.net^
 ||analytics-union.xunlei.com^
 ||analytics.21cn.com^
+||analytics.google.com^$third-party
 ||analytics.techweb.com.cn^
 ||analytics.tv189.cn^
 ||analytics.usnupjhh.v2008.coreserver.jp^
@@ -7809,6 +7816,7 @@ yydstxt*.com/js/html
 ||bellespierres.com^
 ||belllexusnorthscottsdale.com^
 ||belloflostsouls.net^
+||bellows83.top^
 ||bellydancediscount.com^
 ||belmontalumni.com^
 ||beloud.com^
@@ -9062,6 +9070,7 @@ yydstxt*.com/js/html
 ||bwewc.com^
 ||bwissue.com^
 ||bwjrh.cn^
+||bwlnnrdsqondjy.com^
 ||bwotx.com^
 ||bwparts.com^
 ||bwquktubbb.com^
@@ -15303,6 +15312,7 @@ yydstxt*.com/js/html
 ||g66ryy88z.com^
 ||g6ird1tez2.com^
 ||g6x2uvza37.com^
+||g89eyc8a1.com^
 ||g8hri3xa.com^
 ||g8nwdolod.com^
 ||g8ygkqhm9p.com^
@@ -20358,6 +20368,7 @@ yydstxt*.com/js/html
 ||kf507591.cn^
 ||kf762759.cn^
 ||kfa9grestp.com^
+||kfbmswmmo.com^
 ||kfc-520.com^
 ||kfc.com.cn^$popup,domain=iqiyi.com
 ||kfdm.com^
@@ -27858,6 +27869,7 @@ yydstxt*.com/js/html
 ||quanben5.net^
 ||quandao.com^
 ||quantix2.top^
+||quantserve.com^
 ||quantspcf.com^
 ||quantumlandingpageforge.com^
 ||quantumvisiontrail.com^
