@@ -67,6 +67,7 @@ _14c14p14v.js
 /artplayer-plugin-ads.js
 /common/js/fp-*.min.js
 /frontend-gtag.min.js?
+/js/cp-popup.min.js?
 /js/ga.js
 /js/hilltop.js
 /js/juicy.js
@@ -94,6 +95,7 @@ _14c14p14v.js
 .com/static/telegram-loader.js?
 .com/static/v2/mip-stats-baidu/mip-stats-baidu.js
 .com/template/jable/ads/bottom.js
+.com/tracker.js
 .xyz/tracker.js
 !
 ! -------- pic --------
@@ -116,6 +118,7 @@ _14c14p14v.js
 /load.gif
 /loading.gif
 /loading.jpg
+/pxf.gif?uuid=
 /static/img/*.gif
 /uploads/default/other/*.gif
 /whob.gif?
@@ -204,6 +207,7 @@ _14c14p14v.js
 !
 ! -------- third-party --------
 ||ads.google.com^$third-party
+||analytics.google.com^$third-party
 ||oss-accelerate.aliyuncs.com^$third-party
 ||oss-cn-hangzhou.aliyuncs.com^$third-party
 ||oss-cn-hongkong.aliyuncs.com^$third-party
@@ -229,6 +233,7 @@ _14c14p14v.js
 ||jlr3lljrk.com^
 ||juniorregister.com^
 ||ks.ferlytc.com^
+luugy.com
 ||mdynieu.com^
 ||media-hls.growcdnssedge.com^
 ||media-hls.saawsedge.com^
@@ -238,7 +243,9 @@ _14c14p14v.js
 ||organic-package.com^
 ||oundhertobeconsist.org^
 ||palatable-soft.com^
+paupsoborofoow.net
 ||ping.chartbeat.net^
+||quantserve.com^
 ||rtb-2.xgroovy.com^
 ||script-center.bad.news^
 ||simpli.fi^
@@ -274,6 +281,7 @@ _14c14p14v.js
 ||www.line-website.com/social-plugins/
 !
 ! ======== Site-Specific Rules ========
+|https://www.facebook.com/tr/?id=
 ! (163 / 126)
 ! ||126.net^*analysis
 @@||126.net^*analysis$domain=m.163.com
