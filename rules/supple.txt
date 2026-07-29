@@ -1,3 +1,7 @@
+! fix
+@@||126.net^*analysis$domain=m.163.com
+@@||bing.com/fd/ls/GLinkPing.aspx?
+@@https://gitee.com/damengzhudamengzhu/guanggaoguolv
 ! ======== General & Network Blocking ========
 !
 ! -------- port --------
@@ -40,6 +44,7 @@ v=2&adZones
 /matomo.php?action_name=
 /popup/adblock/promo/banner/
 /static/upload/adsbanner/
+.com/addnew.php
 .com/api/banner/banner_list
 .com/api/models/
 .com/api/models?
@@ -74,6 +79,10 @@ _14c14p14v.js
 /js/tm.js
 /js/zzz.js
 /matomo.js
+/scripts/push.js?
+/scripts/jquery.blockUI.min.js
+/scripts/myDialog/core-ui.
+/scripts/myDialog/myDialog.
 /trackad.js
 /videojs.ads.min.
 /videojs.ads.min.js
@@ -97,6 +106,7 @@ _14c14p14v.js
 .com/template/jable/ads/bottom.js
 .com/tracker.js
 .xyz/tracker.js
+|https://a2zapk.io/js/apk2019.js?
 !
 ! -------- pic --------
 /1200-60.gif
@@ -141,6 +151,8 @@ _14c14p14v.js
 ||pic1.imgdb.cn/item/*.gif
 ||qy0.ru/*.gif
 ||rzpsrl.cn/imc/*.gif
+! -------- css --------
+/assets/modules/css/cp-popup.min.css?
 !
 ! ======== Ad-Networks ========
 ! -------- Domain-level --------
@@ -284,7 +296,6 @@ paupsoborofoow.net
 |https://www.facebook.com/tr/?id=
 ! (163 / 126)
 ! ||126.net^*analysis
-@@||126.net^*analysis$domain=m.163.com
 ||m.163.com/touch/nc/api/article/relate/
 ||m.163.com/wap/special/
 ||s6.music.126.net/puzzle/$script
@@ -338,7 +349,6 @@ baidu.com/mo/q/recommendpb/
 |https://11.mydrivers.com/js/2022/storageHelper.js?
 |https://m.mydrivers.com/m/relatednews.ashx?
 !2. 垂直与海外站点 (Bing, Reddit, MSN, NYTimes 等)
-@@||bing.com/fd/ls/GLinkPing.aspx?
 ||browser.events.data.msn.cn/OneCollector/
 ||browser.events.data.msn.com/OneCollector/
 ||srtb.msn.cn/notify/
@@ -352,9 +362,7 @@ baidu.com/mo/q/recommendpb/
 |https://purr.nytimes.com/v1/directives
 |https://image.uczzd.cn/?id=
 |https://m.sm.cn/adclick?
-!3. ACG（动漫/轻小说）及其他垂直站点
-@@https://gitee.com/damengzhudamengzhu/guanggaoguolv
-.com/addnew.php
+!3. ACG
 ||www.colamanga.com/counting
 ||img.hanguomanhua.me/style2/Loading200x200.png
 ||www.hanguomanhua.me/cache.js
@@ -376,7 +384,7 @@ baidu.com/mo/q/recommendpb/
 ||wnacg.com/game/
 ||wnacg.com/themes/mo/images/domain.js
 ||wnacg.com/themes/mo/images/int_bg.png
-!4. 成人与影视类站点
+!4. Adults
 ||112pm.com/okle/js1/
 ||169bbs.com/AllRes/
 /ajax/user_daily_event?
@@ -391,7 +399,6 @@ baidu.com/mo/q/recommendpb/
 ||18comic.*/templates/frontend/airav/emoji/emojionearea.css
 ||91porna.com/static/web/css/lib/zui.css
 |https://www.99re.com/player/html.php?
-|https://a2zapk.io/js/apk2019.js?
 ||a.cdnpure.com/analytics/
 |https://av6k.com/templets/default/parts/txt.js?
 ||av6k.com/video-ads/
@@ -416,10 +423,6 @@ baidu.com/mo/q/recommendpb/
 |https://www.pornbest.org/site/stat?
 |https://sobt18.icu/Public/static/js/common.js?
 ||s1.filec.top/Blotter.js
-/scripts/push.js?
-/scripts/jquery.blockUI.min.js
-/scripts/myDialog/core-ui.
-/scripts/myDialog/myDialog.
 ||upload.xchina.io/media/*.webp
 ||upload.xchina.io/media/*.mp4
 ||xchina.co/plugins/sweetAlert2/sweetalert2.all.min.js
