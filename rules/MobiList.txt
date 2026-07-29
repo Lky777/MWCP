@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202607282022
-! Last modified: 28 Jul 2026 20:22 UTC
+! Version: 202607291339
+! Last modified: 29 Jul 2026 13:39 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -13,7 +13,7 @@
 $csp=script-src 'self' * 'unsafe-inline',domain=156xsbb.com|ltbook.net|shuhaige.net|ygshu.com|kbook8.com|yemancomic.com|erciyan.com|feiguaks.com|iqmxs.cc|hshfm.com|xbiqige.cc|1qxs.com|xddxsw.net|bisowu.net|zyywenxue.com|xiakezw.com|biqul.com|biqugeks.org|girlsoncam.net|japonfilmleri.com|minaeast.net|shumi.la|59xs.com|biqugen.com|8181zw.vip|biqugequ.org|69shumi.com|fxxs3.com|efuxs.com|i3book.com|genbiquge.com|quanbiqu.com|pinshu.org|13xsw.com|bbiquge.cc|taobiquge.com|haijiaobooksw.top|zlobin.net|piaotianxiaoshuo.com|jvbiquge.com|vipbiquge.com|jpbqg7.com|zuizhong.net|oldtimeswx.org|5book.cc|softtechsolution.org|product44.com|snxsw.com|xiexinde.net|m.6666xsw.com|m.niupizhi.net|jmshuwu.net|wodexiaoshuoh.com|tetservices.net|haitangsoshu.org|4hrz.net|x33yq.org|56xiaoshuo.net|novelser.com|ykxs.cc|biqudd.com|diyibanzhu44444.com|dbrxs.org|kaixindu.net|1ingatlan.net|gaofuwu.org|yushuwu.cloud|yswxs.com|biquge2345.com|dingdian911.com|bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|aidu123.com|biquluo.info|bqgh.com|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com|zk01.net
 $csp=script-src 'self' * 'unsafe-inline',domain=bijiyd.com|7zhens.com|wamuku.cc|scmmxs.com|jinduxs.com|buhesw.com|luenbook.cc|zahubook.com|heciwk.com|quhesw.com|erzuwk.com|bowoxs.com|guashuge.com|mudanxs.com|mzbook.cc|haduks.com|caimozw.com|zaaizw.com|bogeks.com|haxu8.com|pucixs.com|tuqisw.com|xueyisw.com|zuye8.com|yawoxs.com|guwoxs.com|jiufuzw.com|beianxs.com|shuying6.com|mafusw.com|cule9.com|riquzw.com|xingksw.com|enbusw.com|waguwk.cc|ruyisw.com|zuxiku.com|jinmusb.com|hunshuge.com|puyewk.com|kaaiwk.com|hadu520.com|qubosw.com|meisibook.com|cuaizw.cc|boxue8.cc|cipubook.com|ququsk.cc|yiyezao.com|shanhuxs.com|jiutusw.com|chahuax.com|hanziwen.com|haduzw.com|modaoshu.com|nipubook.com|puquz.com|wuwusk.com
 $csp=script-src 'self' * 'unsafe-inline',domain=smsonline.cloud
-$csp=script-src 'self' *,domain=yebiquge.com|zduxs.com|90shuyuan.com|sswwxs.com|akexs.com|qqmmxs.com|qimiaoxs.cc|qimiaoxiaoshuo.com|wuwxs.com|biquge678.com|biqugezw.us
+$csp=script-src 'self' *,domain=yebiquge.com|zduxs.com|90shuyuan.com|sswwxs.com|akexs.com|qimiaoxs.cc|qimiaoxiaoshuo.com|wuwxs.com|biquge678.com|biqugezw.us
 $domain=ads.adxadserv.com|adserver.juicyads.com|cs.adxpansion.com|olmsoneenh.info|static.javhd.com|syndication.exosrv.com
 $domain=googleads.g.doubleclick.net
 $image,third-party,domain=258zw.com
@@ -25,7 +25,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=bhshu.net|louzho
 $script,third-party,domain=cilimao.co|cilimao.one
 $script,third-party,domain=colamanga.com
 $script,third-party,domain=torkitty.net|torkitty.com|torrentkitty.app|torrentkitty.asia|torrentkitty.cam|torrentkitty.ink|torrentkitty.io|torrentkitty.live|torrentkitty.lol|torrentkitty.net|torrentkitty.one|torrentkitty.tv|torrkitty.com
-$script,third-party,domain=xiaoyakankan.com|52movieba.com|audio699.com|kan-tv.com|m.supfree.net|movieffm.net|xiaoheimi.cc
+$script,third-party,domain=xunleisou.life|xiaoyakankan.com|52movieba.com|audio699.com|kan-tv.com|m.supfree.net|movieffm.net|xiaoheimi.cc
 $script,third-party,websocket,domain=52codes.net
 $third-party,websocket,xmlhttprequest,domain=qiyoudy2.com|qiyoudy4.com
 $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
@@ -390,6 +390,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /asset/js/gglms.
 /assets/banners/600x100/
 /assets/dayu/ainfiniteactivity-
+/assets/modules/css/cp-popup.min.css?
 /assets/sidebar/*$domain=v2ex.com
 /assets/t_j/tongji.js
 /attachment/freeaddon_banner/
@@ -3999,6 +4000,7 @@ yydstxt*.com/js/html
 ||7junshi.com/con/ad
 ||7junshi.com/static/red-envelopes.js
 ||7k1p812e9l.com^
+||7k4c36c1r.com^
 ||7k7k.com/api/position/
 ||7k7k.com/js/bg-img.js
 ||7k7k.com^*/loding.htm
@@ -5722,6 +5724,7 @@ yydstxt*.com/js/html
 ||ajna-design.com^
 ||ajog.org^
 ||ajpfqe.cn^
+||ajvznxaox.com^
 ||ajxsh.com^
 ||ak24parts.com^
 ||ak2yy.com^
@@ -9026,6 +9029,7 @@ yydstxt*.com/js/html
 ||buzztheme.net^
 ||bv6fufop.com^
 ||bvfghf.com^
+||bvfqhnyofanbfk.com^
 ||bvhd1uhl5z.com^
 ||bvmlt.top^
 ||bvnnxhmypzrpbe.com^
@@ -13084,6 +13088,7 @@ yydstxt*.com/js/html
 ||e46fanatics.com^
 ||e46zone.com^
 ||e4iwtfza99.com^
+||e4qn0um0b.com^
 ||e59x4phq3a.com^
 ||e5yx.com^$popup
 ||e68k5d1yw6.com^
@@ -19716,6 +19721,7 @@ yydstxt*.com/js/html
 ||jcops.net^
 ||jcpclick.com^
 ||jcphi.com^
+||jcqakol.icu^
 ||jcrb.com/zyw$subdocument
 ||jcrb.com^
 ||jcrdistributors.com^
@@ -21051,6 +21057,7 @@ yydstxt*.com/js/html
 ||ktainews.net^
 ||ktfpkjt.com^
 ||kthul22k2z.com^
+||ktlztpx8f.com^
 ||ktntea.com^
 ||ktnv.com^
 ||kto-tam.com^
@@ -25168,6 +25175,7 @@ yydstxt*.com/js/html
 ||noticiaspueblabla.com^
 ||notifadz.com^
 ||notify-me.io^
+||notlwkjg8.com^
 ||notmescat.net^
 ||notmuchmail.org^
 ||notrepharma.com^
@@ -26871,6 +26879,7 @@ yydstxt*.com/js/html
 ||picgd.com/images/*.gif
 ||picgd.com/images/2018/12/01/h1pi5.png
 ||pick-up-artist-forum.com^
+||pickaxe98.top^
 ||pickeringtest.com^
 ||picknbuy24.com^
 ||pickpackapp.com^
@@ -35364,6 +35373,7 @@ yydstxt*.com/js/html
 ||wals2019.com^
 ||walsersubarustpaul.com^
 ||walthers.com^
+||waly7k3sg3.com^
 ||wamceq.icu^
 ||wame2030.org^
 ||wan.liebao.cn/zt/
@@ -37437,6 +37447,7 @@ yydstxt*.com/js/html
 ||ypojie.com/wp-content/uploads/*.js
 ||yptqys.tianqistatic.com^
 ||ypyr.cn^
+||yq1d0yvwx.com^
 ||yqfax76xs.com^
 ||yqg.jobui.com^
 ||yqgtuqf.icu^
