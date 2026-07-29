@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202607291339
-! Last modified: 29 Jul 2026 13:39 UTC
+! Version: 202607291346
+! Last modified: 29 Jul 2026 13:46 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -4917,6 +4917,7 @@ yydstxt*.com/js/html
 ||ad-survey.com^$third-party
 ||ad.12306.cn/res/*.html
 ||ad.52av.one^
+||ad.52av.one^
 ||ad.52av.tv^
 ||ad.bobi.tw^
 ||ad.byfuh.com^
@@ -5263,6 +5264,7 @@ yydstxt*.com/js/html
 ||adsrv.net^
 ||adsrv001.com^
 ||adsrvr.io^
+||adsrvr.org^
 ||adsrvr.org^
 ||adssistem.com^
 ||adstag0102.xyz^
@@ -12642,6 +12644,7 @@ yydstxt*.com/js/html
 ||doubleclick.com^
 ||doubleclick.ctfile.com^
 ||doubleclick.net^
+||doubleclick.net^
 ||doublelihua.com^
 ||doubleringhk.com^
 ||doubletick.io^
@@ -14853,6 +14856,7 @@ yydstxt*.com/js/html
 ||flokq.com^
 ||flolape.com^
 ||flomecintl.com^
+||floors.dev^
 ||floppydata.com^
 ||flopturnriver.com^
 ||floranext.com^
@@ -16428,6 +16432,7 @@ yydstxt*.com/js/html
 ||googleadservices.com^
 ||googleadsserving.cn^
 ||googleandroidgo.com^
+||googlesyndication.com^
 ||googlesyndication.com^
 ||googletagmanager.com^
 ||googletagservices.com^
@@ -33730,6 +33735,7 @@ yydstxt*.com/js/html
 ||tsx.com^
 ||tsxcfw.com^
 ||tsyndicate.com^
+||tsyndicate.com^
 ||tt-shop.com^
 ||tt-srv.com^
 ||tt.biquge.la^
@@ -35996,6 +36002,7 @@ yydstxt*.com/js/html
 ||wn4x4bzhx.com^
 ||wnacammull.com^
 ||wnacg.com/game/
+||wnacg.com/game/
 ||wnacg.com/game/$image,rewrite=abp-resource:1x1-transparent-gif,domain=wnacg.com
 ||wnacg.com/themes/mo/images/domain.js
 ||wnacg.com/themes/mo/images/int_bg.png
@@ -36068,6 +36075,7 @@ yydstxt*.com/js/html
 ||workdaysuv.com^
 ||workdaysuvcareers.com^
 ||workdaysuvsite.com^
+||workdeadlinededicate.com^
 ||workdeadlinededicate.com^
 ||workers.dev^$domain=axiang.cc
 ||working-dog.net^
@@ -36694,6 +36702,7 @@ yydstxt*.com/js/html
 ||xlskff.com^
 ||xltcf.com^
 ||xlviiirdr.com^
+||xlviirdr.com^
 ||xlviirdr.com^
 ||xlzbearing.com^
 ||xmarksthescot.com^
