@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202607312034
-! Last modified: 31 Jul 2026 20:34 UTC
+! Version: 202608011416
+! Last modified: 01 Aug 2026 14:16 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -66,8 +66,10 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/1987.js
 .com/?aff=$popup,third-party
 .com/?intr=$popup,third-party
+.com/Php/Home/kakaxiaikakaxi.php
 .com/Scripts/LogTracer.js
 .com/Scripts/idleAD.js
+.com/Static/Home/GongGao/img/*.gif
 .com/a_d/
 .com/addnew.php
 .com/adgpt.js
@@ -276,6 +278,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .xyz:8009/11?x=
 .xyz:8283/home?channel=
 .z.dkt-ib.com
+/*_api.php?action=get
 //cdn.*/uni-ggs.js$third-party
 /0mbjs/2800av*.js
 /1.js?ssfrid=$script,third-party
@@ -2195,7 +2198,6 @@ yydstxt*.com/js/html
 |https://www.haijiaoshipin.com/build/assets/popup-
 |https://www.pornbest.org/site/stat?
 |https://www.ycymh.com/poster/zj-
-|https://www.ytsptv.com/Php/Home/kakaxiaikakaxi.php
 |https://www.ytsptv.com/popup_api.php?
 |https://www.ytsptv.com/right_float_api.php?
 |https://www.zhihu.com/api/v4/growth/mobile_top_banner?
@@ -4609,6 +4611,7 @@ yydstxt*.com/js/html
 ||a1.zhanzhang.net^
 ||a12y5y.com^
 ||a1714.com^$popup
+||a1ajfrk4i.com^
 ||a1hopshop.com^
 ||a1securitycameras.com^
 ||a2.xinhuanet.com^
@@ -4649,6 +4652,7 @@ yydstxt*.com/js/html
 ||aa.xiangxiangmf.com^
 ||aa2hzrmu9.com^
 ||aa3zx8wko.top^
+||aa4jq9non.com^
 ||aa52jm08ly.com^
 ||aa7hzjsow.com^
 ||aaa.tumanyi.com^
@@ -18076,6 +18080,7 @@ yydstxt*.com/js/html
 ||hqo0k12qs.com^
 ||hqsouls.com^
 ||hqvkbn.icu^
+||hqvldtiayuvrho.com^
 ||hqvrvageaf.com^
 ||hrbjinghui.com^
 ||hrbksd.com^
@@ -21222,6 +21227,7 @@ yydstxt*.com/js/html
 ||kzki21j8f6.com^
 ||kzkpw.com^
 ||kzw8q8wlms.com^
+||kzxk7xixz.com^
 ||l.qq.com/lview?
 ||l.ykimg.com^
 ||l1bj5pxqzk.com^
@@ -21231,6 +21237,7 @@ yydstxt*.com/js/html
 ||l3j3glzp6g.com^
 ||l3q3u.com^
 ||l4otxc.com^
+||l5pv793tm.com^
 ||l5rpfd.cn^
 ||l6906qxga.com^
 ||l6h17ybxe.com^
@@ -22235,6 +22242,7 @@ yydstxt*.com/js/html
 ||lparnaro.com^
 ||lpcam.com^
 ||lpdiscography.com^
+||lpdm1k14h.com^
 ||lpibex.com^
 ||lpomxfbjs.com^
 ||lpsdfc8.com^
@@ -27209,6 +27217,7 @@ yydstxt*.com/js/html
 ||pnhwang.com^
 ||pniao99.com/statics/js/stat.js
 ||pnmlab.com^
+||pnpq9y4te.com^
 ||pnqfitxfjt.net^
 ||pnwflyfishing.com^
 ||po18ad.com^
@@ -31889,6 +31898,7 @@ yydstxt*.com/js/html
 ||sun0769.com^
 ||sunaulorojgar.com^
 ||sunbeam-market.com^
+||sunblock65.com^
 ||suncdn.org^
 ||sundasheng.com^
 ||sundogbooks.com^
@@ -33743,6 +33753,7 @@ yydstxt*.com/js/html
 ||tshmhp.icu^
 ||tsight.io^
 ||tsikot.com^
+||tsjt0k8wa.com^
 ||tslkd9ygnh.com^
 ||tsonlinemu.com^
 ||tsplus-remotesupport.com^
@@ -37491,6 +37502,7 @@ yydstxt*.com/js/html
 ||yqypissf.com^
 ||yr-names.click^
 ||yr2spd4ucy.com^
+||yr7unl1qs.com^
 ||yrcny.org^
 ||yrfqz.com^
 ||yrgsqi0zc.com^
@@ -37531,7 +37543,6 @@ yydstxt*.com/js/html
 ||ytpfbbg6hl.com^
 ||ytralvbmto.com^
 ||ytse*.top/static/home/gonggao/img/
-||ytsptv.com/Static/Home/GongGao/img/
 ||yttalk.com^
 ||ytv7335mt.com^
 ||yuanbao777.com/download/*.gif
@@ -37655,6 +37666,7 @@ yydstxt*.com/js/html
 ||yylczs.com^
 ||yymowvdy0.com^
 ||yyqozaldwa.com^
+||yyrodzxm5.com^
 ||yytls.top^
 ||yyttmonster.com^
 ||yyutfzv.com^
