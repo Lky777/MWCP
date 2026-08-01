@@ -1,7 +1,9 @@
 ! fix
+! ||126.net^*analysis
 @@||126.net^*analysis$domain=m.163.com
 @@||bing.com/fd/ls/GLinkPing.aspx?
 @@https://gitee.com/damengzhudamengzhu/guanggaoguolv
+!
 ! ======== General & Network Blocking ========
 !
 ! -------- port --------
@@ -37,6 +39,7 @@
 v=2&adZones
 ://analytics.*.com/api/event
 /1x1.
+/*_api.php?action=get
 /cdn-cgi/speculation
 /cpy/0mk/apnews.com/qgy/
 /index.php/ajax/hits?mid=
@@ -52,6 +55,7 @@ v=2&adZones
 .com/api/v1/mediation/tracking?adUnit=
 .com/events/1/*?a=
 .com/jserror?type=
+.com/Php/Home/kakaxiaikakaxi.php
 .com/social-plugins/js/lib/sentry.
 .com/wp-content/plugins/ai-share-summarize/
 .com/wp-content/plugins/erphpdown/static/erphpdown.
@@ -106,6 +110,7 @@ _14c14p14v.js
 .com/template/jable/ads/bottom.js
 .com/tracker.js
 .xyz/tracker.js
+!
 |https://a2zapk.io/js/apk2019.js?
 !
 ! -------- pic --------
@@ -139,6 +144,7 @@ _14c14p14v.js
 .com/images/cleardot.gif
 .com/static/image/
 @@.com/static/image/$domain=1080me.com
+.com/Static/Home/GongGao/img/*.gif
 .com/static/images/yutu.gif
 .com/static/video/bn/
 .com/template/wap/zhuimh/img/lazy-read.gif
@@ -151,10 +157,12 @@ _14c14p14v.js
 ||pic1.imgdb.cn/item/*.gif
 ||qy0.ru/*.gif
 ||rzpsrl.cn/imc/*.gif
+!
 ! -------- css --------
 /assets/modules/css/cp-popup.min.css?
 !
-! ======== Ad-Networks ========
+! ============== Ad-Networks ==============
+!
 ! -------- Domain-level --------
 ||ad.52av.one^
 ||ad.scdn.io^
@@ -170,7 +178,6 @@ _14c14p14v.js
 ||analytics.yahoo.com^
 ||aottercdn.com^
 ||arms-retcode.aliyuncs.com^
-||banti.baidu.com^
 ||cdn.bootcdn.net^
 ||cdnboostcache.com^
 ||clarity.ms^
@@ -188,10 +195,6 @@ _14c14p14v.js
 ||fourier.alibaba.com^
 ||fundingchoicesmessages.google.com^
 ||googlesyndication.com^
-||h2tcbox.baidu.com^
-||hm.baidu.com^
-||hm.bdstatistics.com^
-||hmcdn.baidu.com^
 ||imasdk.googleapis.com^
 ||jads.co^
 ||magsrv.com^
@@ -210,22 +213,16 @@ _14c14p14v.js
 ||tsyndicate.com^
 ||umini.shujupie.com^
 ||uslook.top^
-||www.googletagmanager.com^
-||www.googletagservices.com^
 ||xchina.click^
 ||xlviirdr.com^
 ||xn--6rtq6phwfhva.com^
 ||xn--gps-8y0gm25n.xn--55qx5d^
 !
 ! -------- third-party --------
-||ads.google.com^$third-party
-||analytics.google.com^$third-party
-||oss-accelerate.aliyuncs.com^$third-party
-||oss-cn-hangzhou.aliyuncs.com^$third-party
-||oss-cn-hongkong.aliyuncs.com^$third-party
 ||s3.ap-east-1.amazonaws.com^$third-party
 !
-! ======== TEMP ========
+! ================ TEMP ================
+!
 ||44xoxo1842.spankbang.com^
 ||500outenterprises.net^
 ||announcenutshell.com^
@@ -280,23 +277,12 @@ paupsoborofoow.net
 ||yronesefurther.org^
 !
 ! ======== Website path-based ========
-||cdnjs.cloudflare.com/ajax/libs/fuckadblock/
-||cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/
-@@||cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/$domain=ikanbot.com
-||d.line-scdn.net/r/web/social-plugin/
-||img.alicdn.com/imgextra/i*/$domain=~aliyundrive.com
-||imgsa.baidu.com/forum/pic/item/
-||lf1-cdn-tos.bytegoofy.com/goofy/
-||p0.meituan.net/csc/
-||p3-sign.toutiaoimg.com/tos-cn-i-eyfl5e3fp8/
 ||playhubconnect.com/bn/
-||static.javhd.com/h5/files/
 ||www.line-website.com/social-plugins/
 !
-! ======== Site-Specific Rules ========
-|https://www.facebook.com/tr/?id=
-! (163 / 126)
-! ||126.net^*analysis
+! ============ Site-Specific Rules ============
+!
+! 163 / Sina / Sohu
 ||m.163.com/touch/nc/api/article/relate/
 ||m.163.com/wap/special/
 ||s6.music.126.net/puzzle/$script
@@ -307,13 +293,90 @@ paupsoborofoow.net
 |https://gw.m.163.com/search/api/v2/wap/rolling-word?
 |https://m.163.com/touch/api/paid-article/well-chosen-rec-list?
 |https://m.163.com/touch/behavior.html?
-!百度 (Baidu)
+||finance.sina.com.cn/api/hq_popup_api.json
+||*.cdn.sohucs.com/lemon/
+!
+! Adults
+||static.javhd.com/h5/files/
+!
+! Alibaba
+||img.alicdn.com/imgextra/i*/$domain=~aliyundrive.com
+||oss-accelerate.aliyuncs.com^$third-party
+||oss-cn-hangzhou.aliyuncs.com^$third-party
+||oss-cn-hongkong.aliyuncs.com^$third-party
+|https://image.uczzd.cn/?id=
+|https://m.sm.cn/adclick?
+!
+! Baidu
+||banti.baidu.com^
+||h2tcbox.baidu.com^
+||hm.baidu.com^
+||hm.bdstatistics.com^
+||hmcdn.baidu.com^
+||imgsa.baidu.com/forum/pic/item/
 ||tb3.bdstatic.com/uniapp/static/icon/
-baidu.com/heicha/mm/2027/acs-2027.js?
-baidu.com/mo/q/recommendpb/
 |https://*.baidu.com/mo/q/getVersionInfo?
 |https://tieba.baidu.com/mo/q/newgetweixintoken?
-!知乎 (Zhihu)
+baidu.com/heicha/mm/2027/acs-2027.js?
+baidu.com/mo/q/recommendpb/
+!
+! BBS
+||blog.csdn.net/phoenix/web/v1/mini-app/
+||csdn.net/recommend/
+||csdnimg.cn/release/passport_fe/
+||eva2.csdn.net/v3/
+||g.csdnimg.cn/??sharewx/
+||img-home.csdnimg.cn/data_json/jsconfig/redPacket.json
+||statistic.csdn.net^
+||11.mydrivers.com/2021/news/nike600_500.svg
+||11.mydrivers.com/common/js/trimpath-template-
+||11.mydrivers.com/m/images/v1/kkjapp_down.gif
+||11.mydrivers.com/m/js/live/liveplayer-element.min.js
+||icons.mydrivers.com/2025/
+||img1.kkeji.com/img/2005/
+|https://11.mydrivers.com/js/2022/storageHelper.js?
+|https://m.mydrivers.com/m/relatednews.ashx?
+||www.ruanyifeng.com/blog/checker.js
+||www.ruanyifeng.com/blog/stats.js
+||g1.tagtic.cn/v1/xingyou/c/
+!
+! Bytedance
+||lf1-cdn-tos.bytegoofy.com/goofy/
+||p3-sign.toutiaoimg.com/tos-cn-i-eyfl5e3fp8/
+|https://api.toutiaoapi.com/api/news/feed/v88/?
+||sf3-cdn-tos.toutiaostatic.com/obj/card-platform/
+!
+! Cloudflare
+||cdnjs.cloudflare.com/ajax/libs/fuckadblock/
+||cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/
+@@||cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/$domain=ikanbot.com
+||d.line-scdn.net/r/web/social-plugin/
+!
+! Facebook
+|https://www.facebook.com/tr/?id=
+!
+! Google
+||ads.google.com^$third-party
+||analytics.google.com^$third-party
+||www.googletagmanager.com^
+||www.googletagservices.com^
+!
+! Meituan
+||p0.meituan.net/csc/
+!
+! Microsoft
+||browser.events.data.msn.cn/OneCollector/
+||browser.events.data.msn.com/OneCollector/
+||srtb.msn.cn/notify/
+! 
+! News media
+||ltn.com.tw.impression?
+||reddit.com/svc/shreddit/perfMetrics
+||storm.mg/api/logs/
+|https://a.et.nytimes.com/track
+|https://purr.nytimes.com/v1/directives
+!
+! Zhihu
 ||static.zhihu.com/ad-raccoon-web/
 ||static.zhihu.com/heifetz/chunks/$script
 @@||static.zhihu.com/heifetz/chunks/lib-$script
@@ -328,41 +391,7 @@ baidu.com/mo/q/recommendpb/
 |https://www.zhihu.com/api/v4/hot_recommendation?
 |https://www.zhihu.com/api/v4/questions/*/related-readings?
 ||vzuu.com/HD/
-!CSDN
-||blog.csdn.net/phoenix/web/v1/mini-app/
-||csdn.net/recommend/
-||csdnimg.cn/release/passport_fe/
-||eva2.csdn.net/v3/
-||g.csdnimg.cn/??sharewx/
-||img-home.csdnimg.cn/data_json/jsconfig/redPacket.json
-||statistic.csdn.net^
-!新浪 & 搜狐 & 字节跳动 (Sina, Sohu, Toutiao, MyDrivers)
-||finance.sina.com.cn/api/hq_popup_api.json
-||*.cdn.sohucs.com/lemon/
-||sf3-cdn-tos.toutiaostatic.com/obj/card-platform/
-|https://api.toutiaoapi.com/api/news/feed/v88/?
-||11.mydrivers.com/2021/news/nike600_500.svg
-||11.mydrivers.com/common/js/trimpath-template-
-||11.mydrivers.com/m/images/v1/kkjapp_down.gif
-||11.mydrivers.com/m/js/live/liveplayer-element.min.js
-||icons.mydrivers.com/2025/
-||img1.kkeji.com/img/2005/
-|https://11.mydrivers.com/js/2022/storageHelper.js?
-|https://m.mydrivers.com/m/relatednews.ashx?
-!2. 垂直与海外站点 (Bing, Reddit, MSN, NYTimes 等)
-||browser.events.data.msn.cn/OneCollector/
-||browser.events.data.msn.com/OneCollector/
-||srtb.msn.cn/notify/
-||g1.tagtic.cn/v1/xingyou/c/
-||ltn.com.tw.impression?
-||reddit.com/svc/shreddit/perfMetrics
-||storm.mg/api/logs/
-||www.ruanyifeng.com/blog/checker.js
-||www.ruanyifeng.com/blog/stats.js
-|https://a.et.nytimes.com/track
-|https://purr.nytimes.com/v1/directives
-|https://image.uczzd.cn/?id=
-|https://m.sm.cn/adclick?
+!
 !3. ACG
 ||www.colamanga.com/counting
 ||img.hanguomanhua.me/style2/Loading200x200.png
@@ -385,6 +414,7 @@ baidu.com/mo/q/recommendpb/
 ||wnacg.com/game/
 ||wnacg.com/themes/mo/images/domain.js
 ||wnacg.com/themes/mo/images/int_bg.png
+|https://www.ycymh.com/poster/zj-
 !4. Adults
 ||112pm.com/okle/js1/
 ||169bbs.com/AllRes/
@@ -433,11 +463,8 @@ baidu.com/mo/q/recommendpb/
 |https://xchina.fit/ajax.php
 |https://xchina.co/scripts/push.js?
 ||xxav.one/i/app/
-||ytsptv.com/Static/Home/GongGao/img/
-|https://www.ytsptv.com/Php/Home/kakaxiaikakaxi.php
 |https://www.ytsptv.com/popup_api.php?
 |https://www.ytsptv.com/right_float_api.php?
-|https://www.ycymh.com/poster/zj-
 !
 ! ======== Element Hiding ========
 ###adFloat
