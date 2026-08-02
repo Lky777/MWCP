@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202608012013
-! Last modified: 01 Aug 2026 20:13 UTC
+! Version: 202608021237
+! Last modified: 02 Aug 2026 12:37 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -1650,6 +1650,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||hh010.com^$generichide
 @@||highcharts.com.cn/highcharts/modules/heatmap.js
 @@||histock.tw/jscript/ad/
+@@||hj260302818.top^
 @@||hk.on.cc/js/v4/oncc-adbanner.js
 @@||hk.on.cc^$generichide
 @@||hk01.com^*/ga_trace.js
@@ -1708,6 +1709,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||jinyongci.com^$generichide
 @@||jjjgame.com/plus/ad_
 @@||jjkmn.com^$generichide
+@@||jjlxoi.cn^
 @@||jlthjy.com^$generichide
 @@||joyk.com^$generichide
 @@||jpush.cn^$domain=jiguang.cn
@@ -1900,6 +1902,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||s.tgfcer.com^$generichide
 @@||s.yimg.com/ja/ap/*/jquery.$domain=hk.news.yahoo.com|hk.yahoo.com|tw.news.yahoo.com|tw.stock.yahoo.com|tw.yahoo.com
 @@||sax.sina.com.cn/video/newimpress?
+@@||sbzytpimg5.com^
 @@||scorecardresearch.com/beacon.js$domain=hktvmall.com
 @@||scyts.com^$generichide
 @@||sdc.pingan.com^$~image
@@ -2043,6 +2046,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||vipstatic.com/img/share/blank.png
 @@||viu.com^*/tracking/
 @@||viu.tv^$generichide
+@@||vkjyoi.cn^
 @@||vvic.com/monetize/ads/index/
 @@||wancaibb.com/share/js/share.min.js
 @@||wandhi.com^$generichide
@@ -3140,6 +3144,7 @@ yydstxt*.com/js/html
 ||39.net/picturelib/a/f76/20170814/org_1428963.gif
 ||39.net/test/k.js
 ||391k.com/pc/gg/
+||3927fqw3xd.com^
 ||39643gb0mv9obl.com^
 ||3987.com/all_site/
 ||3987.com/images/
@@ -13428,6 +13433,7 @@ yydstxt*.com/js/html
 ||egoynxjjcyy.com^
 ||egressforms.com^
 ||egvhd2ggc1.com^
+||egvnfpnb31.com^
 ||egxo.cn^
 ||egyhunt.net^
 ||egyptlaptop.com^
@@ -15290,6 +15296,7 @@ yydstxt*.com/js/html
 ||ftpbd.net^
 ||ftqn9wedv.com^
 ||ftrfnx.icu^
+||ftrgpdecexhzto.com^
 ||ftwconference.com^
 ||ftxia.com^
 ||fualta.org^
@@ -19974,6 +19981,7 @@ yydstxt*.com/js/html
 ||jizzbunker3.com^
 ||jizzden.com^
 ||jizzpub.com^
+||jj5zwmzcze.com^
 ||jjiikkll11.com^
 ||jjj*.com/static/js/common.js
 ||jjjgame.com/images/ad11.jpg
@@ -27978,6 +27986,7 @@ yydstxt*.com/js/html
 ||q58nf16jd3.com^
 ||q5qo.com^
 ||q5viqnac3i.com^
+||q643s5wiiz.com^
 ||q688911.com^
 ||q6iw41lkk.com^
 ||q6zikgclq9.com^
@@ -28212,6 +28221,7 @@ yydstxt*.com/js/html
 ||qnywjs.buzz^
 ||qnywphp.forum^
 ||qnywsrc.buzz^
+||qoa0vy22fy.com^
 ||qocngbb03.com^
 ||qoder.com.cn^
 ||qoder.com^
@@ -30328,6 +30338,7 @@ yydstxt*.com/js/html
 ||shahinenergy.com^
 ||shakhtar.com^
 ||shambhala.com^
+||shampoo54.top^
 ||shamra-academia.com^
 ||shananfen.com^
 ||shandian.biz/wp-content/themes/inove/js/comment.js
@@ -36844,6 +36855,7 @@ yydstxt*.com/js/html
 ||xqshuku.com^
 ||xqtcpf.icu^
 ||xr40kfkxeo.com^
+||xrb5zmxe2j.com^
 ||xrdz.io^
 ||xriis2940637fafa.com^
 ||xrkbhl2cp.com^
@@ -37760,6 +37772,7 @@ yydstxt*.com/js/html
 ||zay7gs1xkl.com^
 ||zazamanga.com^
 ||zazhi.com.cn^
+||zb4ohbnsf9.com^
 ||zbcdn.net/__uvjgyw/slb.default.js
 ||zbds.top^
 ||zbgoyqs.xyz^
