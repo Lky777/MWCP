@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202608071955
-! Last modified: 07 Aug 2026 19:55 UTC
+! Version: 202608081939
+! Last modified: 08 Aug 2026 19:39 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2327,8 +2327,6 @@ yydstxt*.com/js/html
 ||0wdb.com^
 ||0wk6gdkg8r.com^
 ||0wpfe0duo.com^
-||0x00sec.org^
-||0x2620.org^
 ||0x27.top^
 ||0x7c0.com^
 ||0xmd.com^
@@ -2506,7 +2504,6 @@ yydstxt*.com/js/html
 ||127.net/external/js6public163_
 ||127.net/m/*/prompic.jpg
 ||129esrd5q5.com^
-||12oclockhigh.net^
 ||12ozprophet.com^
 ||12panelnow.com^
 ||12ybs41sa.com^
@@ -2541,7 +2538,6 @@ yydstxt*.com/js/html
 ||15hn.net/data/content
 ||15mxfnk6sw.com^
 ||15tianqi.com^$third-party
-||15wmtv.com^
 ||160.com/statics/statics/js/code_13.js
 ||160.com/statics/statics/js/code_15.js
 ||1615vip.com^*.jsonp
@@ -2621,7 +2617,6 @@ yydstxt*.com/js/html
 ||17za.com^
 ||17zw.com^
 ||180.96.27.85^*.htm
-||1800wheelchair.com^
 ||1813698.com^
 ||18183.com/common/js/side.js
 ||18183.com^*.php?
@@ -2849,7 +2844,6 @@ yydstxt*.com/js/html
 ||23924894.com^
 ||239300.net/template/*_mh_gg
 ||23aitt.com/zz/
-||23andme.org^
 ||23bei.com/static/plugins/layer/layer.
 ||23cox7hu4.com^
 ||23hq.com^
@@ -3169,7 +3163,6 @@ yydstxt*.com/js/html
 ||3commandobrigade.com^
 ||3d42.com^
 ||3d4dl.com^
-||3dbrew.org^
 ||3dfuel.com^
 ||3dgbire.com^
 ||3dle4u60y7.com^
@@ -3190,7 +3183,6 @@ yydstxt*.com/js/html
 ||3dmgame.com/templets/xiazai/g
 ||3dmgame.com/tools/gamead?
 ||3dmmotorsport.com^
-||3dmodels.org^
 ||3dmodelspace.com^
 ||3drpilots.com^
 ||3dsearch.net^
@@ -3278,7 +3270,6 @@ yydstxt*.com/js/html
 ||40407.com/plus/rpad/
 ||40407.com/plus_rpad_
 ||405kk.com^
-||405th.com^
 ||406228688.xyz^
 ||407mp3.com/js/*.js
 ||4080kan.com/js/head
@@ -3409,7 +3400,6 @@ yydstxt*.com/js/html
 ||4pcp5e2w7i.com^
 ||4pde6n.com^
 ||4pgames.net^
-||4plebs.org^
 ||4pyszxxaw.com^
 ||4rfns9bmp1.com^
 ||4ritter.com^
@@ -3473,7 +3463,6 @@ yydstxt*.com/js/html
 ||5184.com/container/html/news_view_gg
 ||519764.xyz^
 ||51ap.com^
-||51baogao.cn^
 ||51bczx.com/images1/
 ||51bczx.com/js/float.js
 ||51cdn.club:453/hf85/960x
@@ -4633,7 +4622,6 @@ yydstxt*.com/js/html
 ||a3r2f3y9.com^
 ||a3vuxoz3b.com^
 ||a3zz.net^
-||a4-freunde.com^
 ||a4bbltm3u2.com^
 ||a4j126meg3.com^
 ||a4xvv2g18l.com^
@@ -4667,7 +4655,6 @@ yydstxt*.com/js/html
 ||aab.org^
 ||aabdw.com^
 ||aabworld.com^
-||aaca.org^
 ||aaefe.org^
 ||aafuck.xyz^$third-party
 ||aafurnituremd.com^
@@ -4681,7 +4668,6 @@ yydstxt*.com/js/html
 ||aaknan.com^
 ||aalamps.com^
 ||aami.org^
-||aan.com^
 ||aandjmotorcyclesafetyschool.com^
 ||aaos.org^
 ||aaread.space/images/*0.gif
@@ -4755,7 +4741,6 @@ yydstxt*.com/js/html
 ||abidingabove.org^
 ||abiyefon.com^
 ||ablackweb.com^
-||ablogtowatch.com^
 ||abminbuy.com/789.
 ||abminbuy.com/qq
 ||abminbuy.com^*.gif
@@ -4803,7 +4788,6 @@ yydstxt*.com/js/html
 ||academiadasapostasbrasil.com^
 ||academiadeapuestaslatam.com^
 ||academic96.top^
-||academicjobs.com^
 ||academyforinternetresearch.org^
 ||acadisonline.com^
 ||acapulco-paradiso.com^
@@ -4817,7 +4801,6 @@ yydstxt*.com/js/html
 ||accessgcc.com^
 ||accessgenealogy.com^
 ||accessibit.com^
-||accessories4less.com^
 ||accesstrade.net^
 ||accesstravel.com^
 ||accommodate53.top^
@@ -4884,9 +4867,7 @@ yydstxt*.com/js/html
 ||acquistosicuro.net^
 ||acqxgk1an3.com^
 ||acrisurecyberservices.com^
-||acromag.com^
 ||acronym24.com^
-||acronymattic.com^
 ||acrylics2go.com^
 ||acscourier.net^
 ||acswapp.com^
@@ -4902,7 +4883,6 @@ yydstxt*.com/js/html
 ||actionflag.com^
 ||actionis.com^
 ||actionmodel.com^
-||actipedia.org^
 ||activato.org^
 ||activediner.com^
 ||activeherb.com^
@@ -4920,7 +4900,6 @@ yydstxt*.com/js/html
 ||actusf.com^
 ||acueducto-factura.com^
 ||acupunctureworld.com^
-||acuralegend.org^
 ||acuraofwappingersfalls.com^
 ||acurasantabarbara.com^
 ||acustomizedgift.com^
@@ -6086,7 +6065,6 @@ yydstxt*.com/js/html
 ||alpixtrack.com^
 ||alplapharma.com^
 ||alpro.com^
-||alsa.org^
 ||alt.org^
 ||altadesc.com^
 ||altairguide.com^
@@ -6235,7 +6213,6 @@ yydstxt*.com/js/html
 ||analytics.tv189.cn^
 ||analytics.usnupjhh.v2008.coreserver.jp^
 ||analytics.yahoo.com^
-||analyticsinsight.net^
 ||analyticssystems.net^
 ||analyticsweb.net^
 ||analyzifycdn.com^
@@ -6751,7 +6728,6 @@ yydstxt*.com/js/html
 ||arullelb.com^
 ||arva-equipment.com^
 ||arvidnilsson.com^
-||arxivlens.com^
 ||arzopa.com^
 ||as-cdn22.top^
 ||as-cdn23.top^
@@ -6780,7 +6756,6 @@ yydstxt*.com/js/html
 ||asedneutarrytous.com^
 ||asenelec.com^
 ||aserve1.net^
-||asexuality.org^
 ||asgvbsd.com^
 ||ashamed-diamond.com^
 ||ashanticosmetics.com^
@@ -8083,7 +8058,6 @@ yydstxt*.com/js/html
 ||bergenmama.com^
 ||bergerrealty.com^
 ||bergtopia.com^
-||beritajatim.com^
 ||berkovich-zametki.com^
 ||berlinwire.com^
 ||berlnw.com^
@@ -8413,8 +8387,6 @@ yydstxt*.com/js/html
 ||biomaterialdatabase.com^
 ||biomatiq.com^
 ||biomedsuppliers.com^
-||biomodels.org^
-||bionames.org^
 ||biondivino.com^
 ||bioon.com.cn^
 ||bioon.com/xy/article/img/zhi_neng_xibao_fenxi.png
@@ -9094,7 +9066,6 @@ yydstxt*.com/js/html
 ||bridgeresults.net^
 ||bridgestone.com^
 ||briefcase95.com^
-||brieflands.com^
 ||brigadedelegatesandbox.com^
 ||brightadnetwork.com^
 ||brightbean.com^
@@ -9333,7 +9304,6 @@ yydstxt*.com/js/html
 ||burek.com^
 ||burette34.com^
 ||buriennissan.com^
-||burkholderia.com^
 ||burlesontx.com^
 ||burniecrepes.com^
 ||burnstools.com^
@@ -9670,7 +9640,6 @@ yydstxt*.com/js/html
 ||callosity19.top^
 ||callsmeee.xyz^
 ||calsalaries.com^
-||calscape.org^
 ||calwic.org^
 ||calzyme.com^
 ||camacaridiario.com^
@@ -10441,7 +10410,6 @@ yydstxt*.com/js/html
 ||chemgrid.org^
 ||chemist-4-u.com^
 ||chemist68.top^
-||chemrxiv.org^
 ||chemscene.com^
 ||chemsigma.com^
 ||chengdu.cn/acts/phoneqss/opencornerwin/
@@ -10681,7 +10649,6 @@ yydstxt*.com/js/html
 ||chunmiaosh.com^
 ||chunshanjiaoyu.com^
 ||chunyuqiufeng.com^$third-party
-||churchofengland.org^
 ||chusan.com/js/m*_
 ||chushoushijian.cn^
 ||chutube.com^
@@ -10776,7 +10743,6 @@ yydstxt*.com/js/html
 ||citymalin.com^
 ||cityof.com^
 ||cityofbutler.org^
-||cityofdavis.org^
 ||cityoffederalway.com^
 ||cityoflancasterca.org^
 ||cityrulelookup.com^
@@ -11220,7 +11186,6 @@ yydstxt*.com/js/html
 ||code.ditiezu.net^
 ||code.geonamebase.com^
 ||code.wenbanzhu.com^
-||codeblocks.org^
 ||codebuddy.cn^
 ||codeby.net^
 ||codeceo.com/images/*/boxuegu
@@ -11424,7 +11389,6 @@ yydstxt*.com/js/html
 ||concave88.top^
 ||concentric.net^
 ||concepcion-py.com^
-||conceptnet.io^
 ||conceptualhq.com^
 ||concertful.com^
 ||concerts50.com^
@@ -11475,7 +11439,6 @@ yydstxt*.com/js/html
 ||consolecrunch.com^
 ||consprc.com^
 ||constantaservice.net^
-||constitutioncenter.org^
 ||constitutionreader.com^
 ||constructionbriefing.com^
 ||consulby.com^
@@ -11831,7 +11794,6 @@ yydstxt*.com/js/html
 ||crosscreeksubaru.com^
 ||crossfireforum.org^
 ||crosslinksmart.com^
-||crosstool-ng.org^
 ||crosswordanswers911.net^
 ||crosswordbuzz.com^
 ||crosswordtracker.com^
@@ -11875,7 +11837,6 @@ yydstxt*.com/js/html
 ||cryptoofarm.com^
 ||cryptoratesxe.com^
 ||cryptoslam.io^
-||crystal-lang.org^
 ||crystalcanesugar.com^
 ||crystals.com^
 ||crystalyx.net^
@@ -11930,7 +11891,6 @@ yydstxt*.com/js/html
 ||ctadns.cn^
 ||ctaehko.com^
 ||ctags.cn/9/j2.js
-||ctan.org^
 ||ctanet.cn/aqq/js/
 ||ctbto.org^
 ||ctc.weather.com.cn^
@@ -12322,7 +12282,6 @@ yydstxt*.com/js/html
 ||dapvt.com^
 ||daqiso.com/ggbl/
 ||daqnetgw.com^
-||dar.org^
 ||darelkalema.com^
 ||daretocompareus.com^
 ||dark-alexandr.net^
@@ -13672,7 +13631,6 @@ yydstxt*.com/js/html
 ||dvser.china.com^
 ||dvvv9ld5b0.com^
 ||dw.xcar.com.cn^*.gif?
-||dwarffortresswiki.org^
 ||dwarvesshoes.com^
 ||dwaynelane.com^
 ||dwbentertainment.com^
@@ -16073,7 +16031,6 @@ yydstxt*.com/js/html
 ||freeaporn.com^
 ||freebackgroundchecks.com^
 ||freebirdairlines.com^
-||freecad.org^
 ||freecinemaclub.com^
 ||freeconferencealerts.com^
 ||freecountrymaps.com^
@@ -16101,7 +16058,6 @@ yydstxt*.com/js/html
 ||freelywheely.com^
 ||freemarket.com^
 ||freename.io^
-||freenginx.org^
 ||freenovelread.com^
 ||freepeople-search.com^
 ||freepeopledirectory.com^
