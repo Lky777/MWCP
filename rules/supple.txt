@@ -198,6 +198,7 @@ _14c14p14v.js
 ||imasdk.googleapis.com^
 ||jads.co^
 ||magsrv.com^
+||bam.nr-data.net^
 ||mc.yandex.ru^
 ||mcs.snssdk.com^
 ||mcs.volceapplog.com^
@@ -233,10 +234,12 @@ _14c14p14v.js
 ||attractivereception.com^
 ||avvobqwi.in^
 ||creative.myavlive.com^
+||duxlpoavm.in^
 ||e2elog.fetnet.net^
 ||edge-hls.growcdnssedge.com^
 ||fatalfear.pro^
 ||floors.dev^
+||fkagiwda.in^
 ||fsa-api.feebee.tw^
 ||go.homejavlive.com^
 ||go.myavlive.com^
@@ -379,6 +382,8 @@ baidu.com/mo/q/recommendpb/
 ||storm.mg/api/logs/
 |https://a.et.nytimes.com/track
 |https://purr.nytimes.com/v1/directives
+|https://file.caixin.com/wapchannel/all/js/openInApp.js?
+|https://dss0.zbstatic5.com/web2/_astro/GoogleAdvertisement.
 !
 ! Zhihu
 ||static.zhihu.com/ad-raccoon-web/
@@ -399,6 +404,9 @@ baidu.com/mo/q/recommendpb/
 !3. ACG
 ||www.colamanga.com/counting
 ||img.hanguomanhua.me/style2/Loading200x200.png
+|https://tj.doubaomanhua.com/api/send
+|https://www.doubaomanhua.com/index/ajax/pv
+|https://www.doubaomanhua.com/assets/js/pv.js
 ||www.hanguomanhua.me/cache.js
 ||www.hanguomanhua.me/style2/001.gif
 ||www.hanguomanhua.me/style2/fc.js
@@ -409,6 +417,10 @@ baidu.com/mo/q/recommendpb/
 ||m.happymh.com/static/media/
 ||m.happymh.com/styles/friendAds.
 ||rr.happymh.com/mbanner/gifwidf.webp
+|https://m.happymh.com/v2.0/apis/uu/info?_t=
+|https://m.happymh.com/v2.0/apis/device/status
+|https://m.happymh.com/v2.0/apis/device/report
+|https://m.happymh.com/v2.0/apis/comment/hot?code=
 |https://mhjia.com/js/foot.js?
 ||ravenscans.com/wp-content/themes/mangareader/assets/img/btn_close.gif
 ||ravenscans.com/wp-content/themes/mangareader/assets/img/readerarea.svg
