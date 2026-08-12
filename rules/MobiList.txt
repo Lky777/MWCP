@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202608112002
-! Last modified: 11 Aug 2026 20:02 UTC
+! Version: 202608121017
+! Last modified: 12 Aug 2026 10:17 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2177,6 +2177,8 @@ yydstxt*.com/js/html
 |https://a2zapk.io/js/apk2019.js?
 |https://api.toutiaoapi.com/api/news/feed/v88/?
 |https://av6k.com/templets/default/parts/txt.js?
+|https://dss0.zbstatic5.com/web2/_astro/GoogleAdvertisement.
+|https://file.caixin.com/wapchannel/all/js/openInApp.js?
 |https://gw.m.163.com/search/api/v2/wap/rolling-word?
 |https://hanmanjd.org/jt.php?
 |https://heiliao.com/index/statistics_common
@@ -2184,7 +2186,11 @@ yydstxt*.com/js/html
 |https://m.163.com/touch/api/paid-article/well-chosen-rec-list?
 |https://m.163.com/touch/behavior.html?
 |https://m.happymh.com/styles/need/layer.css?
+|https://m.happymh.com/v2.0/apis/comment/hot?code=
+|https://m.happymh.com/v2.0/apis/device/report
+|https://m.happymh.com/v2.0/apis/device/status
 |https://m.happymh.com/v2.0/apis/manga/log
+|https://m.happymh.com/v2.0/apis/uu/info?_t=
 |https://m.mydrivers.com/m/relatednews.ashx?
 |https://m.sm.cn/adclick?
 |https://mhjia.com/js/foot.js?
@@ -2192,8 +2198,11 @@ yydstxt*.com/js/html
 |https://rr.happymh.com/mbanner/*.gif.webp
 |https://sobt18.icu/Public/static/js/common.js?
 |https://tieba.baidu.com/mo/q/newgetweixintoken?
+|https://tj.doubaomanhua.com/api/send
 |https://unpkg.zhimg.com/@cfe/sentry-script@
 |https://www.99re.com/player/html.php?
+|https://www.doubaomanhua.com/assets/js/pv.js
+|https://www.doubaomanhua.com/index/ajax/pv
 |https://www.eporner.com/dot/pop4.php
 |https://www.eporner.com/static/popCode-
 |https://www.facebook.com/tr/?id=
@@ -2853,6 +2862,7 @@ yydstxt*.com/js/html
 ||24cmm.com:8888/js
 ||24dgame.com^
 ||24fastload.net^
+||24jp8wjmho.com^
 ||24metrics.com^
 ||24mx.com^
 ||24nf8sxd9p.com^
@@ -7480,6 +7490,7 @@ yydstxt*.com/js/html
 ||balmoralmkt.com^$third-party
 ||balsam18.com^
 ||balvehgmhw.com^
+||bam.nr-data.net^
 ||bamboo-skateshop.com^
 ||bamnol.com^
 ||bamwor.com^
@@ -8170,6 +8181,7 @@ yydstxt*.com/js/html
 ||bibsworld.com^
 ||bicikultura.com^
 ||bicimondo.com^
+||bickiron84.com^
 ||bickiron92.com^
 ||biconcave43.com^
 ||bicycle-line.com^
@@ -9510,7 +9522,6 @@ yydstxt*.com/js/html
 ||caixin.com/s?z=
 ||caiyunapp.com/lingocloud/banner/home-bottom-banner.
 ||cakap.com^
-||cakephp.org^
 ||cakesproutstencil.com^
 ||cakex.org^
 ||cal-tool.com^
@@ -10065,7 +10076,6 @@ yydstxt*.com/js/html
 ||cdsb.net^
 ||cdtrrracks.com^
 ||cdurl.cn^
-||cdxyspa.com/js/e
 ||cdyffw.com^
 ||ce21.com^
 ||ce9qb0h4v.com^
@@ -10603,7 +10613,6 @@ yydstxt*.com/js/html
 ||cifnews.com/ajax/adrequest/
 ||cifnews.com/common/js/d/d/tea.js
 ||cifnews.com/yuguo3.0/live_dynamic/js/live_dynamic.js
-||cifor-icraf.org^
 ||cig.com.cn^$third-party
 ||cigarettespedia.com^
 ||cigarpage.com^
@@ -10709,6 +10718,7 @@ yydstxt*.com/js/html
 ||ckls.org^
 ||ckxxbao.com/templets/default/js/wx.js
 ||cl-clw.com^
+||cl1npfik45.com^
 ||cl8j0wb9rs.net^
 ||claap.io^
 ||claimspages.com^
@@ -11067,6 +11077,7 @@ yydstxt*.com/js/html
 ||cnrepairkits.com^
 ||cns-play-hth.com^
 ||cnsld.org^
+||cnsy8lwlyv.com^
 ||cntronics.com/adsupload/
 ||cntv.cn/hezuo/
 ||cntvboxnow.com//ads_
@@ -11606,7 +11617,6 @@ yydstxt*.com/js/html
 ||cp.qbaobei.com^
 ||cp121.com/js2/
 ||cp2.eastmoney.com^
-||cp2k.org^
 ||cp7iys8fp.com^
 ||cpaptalk.com^
 ||cpbl-elta.cdn.hinet.net/web/images/ad_
@@ -11836,7 +11846,6 @@ yydstxt*.com/js/html
 ||ctags.cn/9/j2.js
 ||ctags.cn^
 ||ctanet.cn/aqq/js/
-||ctbto.org^
 ||ctc-catalogue.com^
 ||ctc.weather.com.cn^
 ||ctdv3faci.com^
@@ -12359,7 +12368,6 @@ yydstxt*.com/js/html
 ||dcdws.net^
 ||dcf-analysis.com^
 ||dcjrsb.com^
-||dclibrary.org^
 ||dcm-ekurashi.com^
 ||dcntr-ads.com^
 ||dcontrol.com^
@@ -12741,7 +12749,6 @@ yydstxt*.com/js/html
 ||dian66.top^
 ||dianaludwig.com^
 ||dianchacha.com^
-||dianeravitch.net^
 ||dianesbooks.com^
 ||dianjinghu.com/static/frontend/images/lol/penpen
 ||dianomi.com^
@@ -13552,6 +13559,7 @@ yydstxt*.com/js/html
 ||dutchgrown.com^
 ||duuwygnvhx.com^
 ||duvm2tveip.com^
+||duxlpoavm.in^
 ||duzhi119.com^
 ||dv4ku.icu^
 ||dvbzrli.cn^
@@ -13762,7 +13770,6 @@ yydstxt*.com/js/html
 ||eastgaytube.com^
 ||eastidea.cn^
 ||eastmainfurniture.com^
-||eastman.org^
 ||eastmoney.com/analysis/
 ||eastmoney.com/banner/
 ||eastmoney.com/cp/left_index.html
@@ -13931,7 +13938,6 @@ yydstxt*.com/js/html
 ||edgeofnorway.com^
 ||edgeofsteel.com^
 ||edgerods.com^
-||edgexfoundry.org^
 ||edgexml.com^
 ||edhat.com^
 ||edhojmmldkl.com^
@@ -14433,7 +14439,6 @@ yydstxt*.com/js/html
 ||epever.com^
 ||ephemeraobscura.com^
 ||ephothuwi.com^
-||epi.org^
 ||epic-jackpot.com^
 ||epicbitelab2026.com^
 ||epicnpc.com^
@@ -14707,7 +14712,6 @@ yydstxt*.com/js/html
 ||evergreen-ils.org^
 ||evergreenalliance.org^
 ||evergreencatalog.com^
-||evergreenhealth.com^
 ||everllence.com^
 ||everpuredata.com^
 ||everwilde.com^
@@ -15008,7 +15012,6 @@ yydstxt*.com/js/html
 ||famsafurniture.com^
 ||fanart-central.net^
 ||fanberry.com^
-||fancade.com^
 ||fancaps.net^
 ||fanchants.com^
 ||fancyanalytics.net^
@@ -15536,6 +15539,7 @@ yydstxt*.com/js/html
 ||fjyvb2940637fafa.com^
 ||fjzimaoqu.cn^$third-party
 ||fk8k4t55e.com^
+||fkagiwda.in^
 ||fkesfg.com^
 ||fkf5.com/public/js/static.js
 ||fkfovt.icu^
@@ -15694,7 +15698,6 @@ yydstxt*.com/js/html
 ||fnya.cn^
 ||foagroup.com^
 ||fobshanghai.com/bbsad/
-||focac.org^
 ||focusoslauncher.com^
 ||focuspdfviewpdf.com^
 ||fodh.cn^
@@ -15794,8 +15797,6 @@ yydstxt*.com/js/html
 ||fortevillageresort.com^
 ||fortheloveofport.com^
 ||fortinet-notifications.com^
-||fortinetipssubmit.com^
-||fortinetvirussubmit.com^
 ||fortunateone.com^
 ||fortune59.com^
 ||fortunebusinessinsights.com^
@@ -15816,7 +15817,6 @@ yydstxt*.com/js/html
 ||forzaag.com^
 ||foss21.org^
 ||fossies.org^
-||fossil-scm.org^
 ||fosunhanig.com^
 ||fotao9.com^
 ||fotomore.com^
@@ -15892,7 +15892,6 @@ yydstxt*.com/js/html
 ||fragrancesamplesuk.com^
 ||fragras.com^
 ||fragstore.com^
-||framagit.org^
 ||frame.enet.com.cn/a.php
 ||framedart.com^
 ||frameratetech.com^
@@ -16808,6 +16807,7 @@ yydstxt*.com/js/html
 ||gfan.com/press/
 ||gfant.com^
 ||gfbio.org^
+||gfblaghzk2.com^
 ||gfbonk.com^
 ||gfd-dennou.org^
 ||gfdrr.org^
@@ -21406,6 +21406,7 @@ yydstxt*.com/js/html
 ||jxnews.com.cn/assets/js/dspshow.js
 ||jxnews.com.cn/first/js/home/index_ad
 ||jxnews.com.cn^*_ad_
+||jxnwbnxslrjvds.com^
 ||jxtest.bolecdn.com/player/*.gif
 ||jxudh7t5cg.com^
 ||jxumts.com^
@@ -26793,6 +26794,7 @@ yydstxt*.com/js/html
 ||nuwurorwbr.com^
 ||nv0cl4nnq.com^
 ||nvandoorn.com^
+||nvb0nqwjif.com^
 ||nvbrfj.icu^
 ||nvgst8gvjy.com^
 ||nvielkaa.com^
@@ -31112,6 +31114,7 @@ yydstxt*.com/js/html
 ||roywc0iql.com^
 ||rozee-ele.com^
 ||rozziebound.com^
+||rp9zb27jn1.com^
 ||rpclegal.com^
 ||rpctrk.com^
 ||rpcuniverse.com^
@@ -32652,6 +32655,7 @@ yydstxt*.com/js/html
 ||siutaodka.com^
 ||sixity.com^
 ||sixityauto.com^
+||sj2xvswu3r.com^
 ||sjbaiduadv1.redou.com^
 ||sjbbsja.forum^
 ||sjd82.org^
@@ -37662,7 +37666,6 @@ yydstxt*.com/js/html
 ||wankshd.com^
 ||wanmei-game.com^
 ||wanmei.la/a*.js
-||wanmeisxs.cc/js/m.
 ||wannadive.net^
 ||wannaknowmysecret.com^
 ||wannar.com^
@@ -39782,6 +39785,7 @@ yydstxt*.com/js/html
 ||yunsennet.com^$popup
 ||yunshanghl.com^
 ||yuntrack.com^
+||yuntu68.com/imgcimo/
 ||yuntue.com/zb_users/plugin/morelinks*.php
 ||yunupload.net/jsa/
 ||yunxish.com^
