@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202608141952
-! Last modified: 14 Aug 2026 19:52 UTC
+! Version: 202608150411
+! Last modified: 15 Aug 2026 04:11 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -77,7 +77,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/api/banner/banner_list
 .com/api/models/
 .com/api/models?
-.com/api/models?landing=
 .com/api/v1/mediation/tracking?adUnit=
 .com/beacon.js
 .com/co/$domain=1anime.me
@@ -870,6 +869,8 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /static/23wx/idd.js
 /static/2biqu/twgdh.js
 /static/69shuba/69.js
+/static/ads/css/ad.css
+/static/ads/js/adm.js
 /static/adsview/
 /static/common/js/djlib_
 /static/fushuba/js/wap.js
@@ -1020,6 +1021,8 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /zz/wenzi2.txt
 /zz/zuoxia2.txt
 /zzzz/assets/js/common/discor_list.js
+18mh.net##.ad-dialog
+18mh.net##.modal-backdrop
 18porn.cc###showAdsBeforePlay
 51cg1.com##.addbox
 91bl.es###popup-mask
@@ -1657,6 +1660,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||hk01.com^*/scripts/ga.js
 @@||hkcards.com^$generichide
 @@||hkjc.com/bannerad/
+@@||hls.dscxru.cn^
 @@||hmvod.com.hk/website/static/skin/images/share/
 @@||holmesmind.com/js/drawv2.$domain=bingfong.com
 @@||hopto.org/js/prebid-ads.
@@ -1850,6 +1854,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||petrochina.com.cn/advertisement_
 @@||pg-wuming.com^$generichide
 @@||piaotia.com/scripts/readindex/tongji.js
+@@||pic.xmbvxj.cn^
 @@||piccool.com/2home/phpadsnew/
 @@||pinduoduo.com/advert/$~third-party
 @@||pingan.com^*/rrweb-record-
@@ -2078,6 +2083,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||xnimg.cn^*/nx/ugc/share/js/hotlist.js
 @@||xxxxx520.com^$generichide
 @@||yantuchina.com/gg/tmp/hong.gif
+@@||yd-hls.utxxds.cn^
 @@||yeeach.com^$generichide
 @@||yesiget.i234.me^$generichide
 @@||yimg.com/ss/rapid-3.*.js$domain=hk.yahoo.com|tw.yahoo.com
@@ -2124,9 +2130,7 @@ hjziyan.wiki###popup-mask
 hxsame.hexun.com$domain=~quote.hexun.com
 juejin.cn##.open-button
 kuaidi100.com##.index__download-box
-luugy.com
 m.58moto.com##.motorfans-download-app
-m.happymh.com###layui-m-layer0
 m.hetushu.com##.m1
 m.huxiu.com###js-special-open-app-btn
 m.iyf.tv##.container
@@ -2172,6 +2176,7 @@ yydstxt*.com/js/html
 |http://gg.$third-party,domain=~guagua.cn
 |https://*.baidu.com/mo/q/getVersionInfo?
 |https://11.mydrivers.com/js/2022/storageHelper.js?
+|https://18mh.net/index/addClick
 |https://8se.me/ajax.php
 |https://a.et.nytimes.com/track
 |https://a2zapk.io/js/apk2019.js?
@@ -2185,17 +2190,10 @@ yydstxt*.com/js/html
 |https://image.uczzd.cn/?id=
 |https://m.163.com/touch/api/paid-article/well-chosen-rec-list?
 |https://m.163.com/touch/behavior.html?
-|https://m.happymh.com/styles/need/layer.css?
-|https://m.happymh.com/v2.0/apis/comment/hot?code=
-|https://m.happymh.com/v2.0/apis/device/report
-|https://m.happymh.com/v2.0/apis/device/status
-|https://m.happymh.com/v2.0/apis/manga/log
-|https://m.happymh.com/v2.0/apis/uu/info?_t=
 |https://m.mydrivers.com/m/relatednews.ashx?
 |https://m.sm.cn/adclick?
 |https://mhjia.com/js/foot.js?
 |https://purr.nytimes.com/v1/directives
-|https://rr.happymh.com/mbanner/*.gif.webp
 |https://sobt18.icu/Public/static/js/common.js?
 |https://tieba.baidu.com/mo/q/newgetweixintoken?
 |https://tj.doubaomanhua.com/api/send
@@ -2209,6 +2207,9 @@ yydstxt*.com/js/html
 |https://www.ghxi.com/wp-content/plugins/wp-opt/static/js/ai-summary.min.js?
 |https://www.ghxi.com/wp-content/plugins/wp-opt/static/js/front.min.js?
 |https://www.haijiaoshipin.com/build/assets/popup-
+|https://www.hanguomanhua.me/cache.js
+|https://www.hanguomanhua.me/style2/001.gif
+|https://www.hanguomanhua.me/style2/fc.js
 |https://www.pornbest.org/site/stat?
 |https://www.ycymh.com/poster/zj-
 |https://www.ytsptv.com/popup_api.php?
@@ -2299,6 +2300,7 @@ yydstxt*.com/js/html
 ||0e1y8x7ft.com^
 ||0e7mnbmbb.com^
 ||0e9knynfb.com^
+||0elq99i0w.com^
 ||0etmx4b4o.com^
 ||0fa43ea1de.com^
 ||0fs6pe6w0j.com^
@@ -3638,6 +3640,7 @@ yydstxt*.com/js/html
 ||5dycay3rr.com^
 ||5e2hf0q3a.com^
 ||5edf1d2qv.com^
+||5edrgrnqg.com^
 ||5egytucuw.com^
 ||5etv.com^$third-party
 ||5eyal1g5a9.com^
@@ -4564,6 +4567,7 @@ yydstxt*.com/js/html
 ||a6cfvavw1.xyz^
 ||a6o69f9ky0.com^
 ||a731.cn^
+||a78lx5fbd.com^
 ||a7la-home.com^
 ||a85t9mxnj.com^
 ||a8qwjt7dwi.com^
@@ -11904,6 +11908,7 @@ yydstxt*.com/js/html
 ||cuevana4br.com^
 ||cuinsight.com^
 ||cuitonline.com^
+||cuk180l9v.com^
 ||cukeonelo.com^
 ||cult-labs.com^
 ||cultinfos.com^
@@ -12802,6 +12807,7 @@ yydstxt*.com/js/html
 ||diehardagnetha.com^
 ||dieka888.com/app_ad/
 ||diemniwm.com^
+||diestock20.com^
 ||diestock56.top^
 ||dietaingravidanza.com^
 ||dietshin.com^
@@ -23365,6 +23371,7 @@ yydstxt*.com/js/html
 ||lsst.io^
 ||lsxceleration.com^
 ||lt3f9p5ox2.com^
+||ltbbjzwmdavdny.com^
 ||ltbyw.top/data/images/*.gif
 ||lteifappliances.com^
 ||ltfcagrapl.com^
@@ -23442,6 +23449,7 @@ yydstxt*.com/js/html
 ||lutouwang.net/static/images/boss_gao_hb.jpeg
 ||lutouwang.net/static/js/mv_ad
 ||lutzkasgarage.com^
+||luugy.com^
 ||luugy.com^
 ||luujhia.com^
 ||luvata.com^
@@ -23553,8 +23561,6 @@ yydstxt*.com/js/html
 ||m.163.com/wap/special/
 ||m.aty.sohu.com^
 ||m.bjdcfy.net^*.js
-||m.happymh.com/static/media/
-||m.happymh.com/styles/friendAds.
 ||m.kankanwu.com/js/
 ||m.lelekan.com/sp/
 ||m.mianbao99.com/js/detail.js
@@ -25810,6 +25816,7 @@ yydstxt*.com/js/html
 ||n0633.com^
 ||n0644.com^
 ||n0zwlat83.com^
+||n12rk1r9h.com^
 ||n1yy6blznk.com^
 ||n2.hk/apps/car_feed/tb/*/banner.html
 ||n2.hk/promo/
@@ -31154,7 +31161,6 @@ yydstxt*.com/js/html
 ||rpvkpz.icu^
 ||rqasports.com^
 ||rqkssxqqs.com^
-||rr.happymh.com/mbanner/gifwidf.webp
 ||rrauction.com^
 ||rrcarchives.com^
 ||rrmh.net^
@@ -38601,9 +38607,6 @@ yydstxt*.com/js/html
 ||www.ghxi.com/wp-content/plugins/core-ai-power/
 ||www.googletagmanager.com^
 ||www.googletagservices.com^
-||www.hanguomanhua.me/cache.js
-||www.hanguomanhua.me/style2/001.gif
-||www.hanguomanhua.me/style2/fc.js
 ||www.hurtful-historian.com^
 ||www.line-website.com/social-plugins/
 ||www.ruanyifeng.com/blog/checker.js
