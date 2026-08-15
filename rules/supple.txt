@@ -208,6 +208,9 @@ _14c14p14v.js
 ||pagead2.googlesyndication.com^
 ||popin.cc^
 ||popin.tw^
+||m.stripe.com^
+||m.stripe.network^
+||js.stripe.com^
 ||social-plugins.line.me^
 ||static.addtoany.com^
 ||static.chartbeat.com^
@@ -235,6 +238,8 @@ _14c14p14v.js
 @@||pic.xmbvxj.cn^
 ||44xoxo1842.spankbang.com^
 ||500outenterprises.net^
+||ah7907.com^
+||andallthemise.org^
 ||announcenutshell.com^
 ||attractivereception.com^
 ||avvobqwi.in^
@@ -267,6 +272,7 @@ _14c14p14v.js
 ||palatable-soft.com^
 paupsoborofoow.net
 ||ping.chartbeat.net^
+||pnguu.top^
 ||quantserve.com^
 ||rtb-2.xgroovy.com^
 ||script-center.bad.news^
@@ -285,8 +291,10 @@ paupsoborofoow.net
 ||workdeadlinededicate.com^
 ||www.cloudyjacket.com^
 ||www.hurtful-historian.com^
+||www.impassioned-boat.pro^
 ||www.silent-basis.pro^
 ||yan.pqd.org^
+||yellowishgather.com^
 ||yronesefurther.org^
 !
 ! ======== Website path-based ========
@@ -363,7 +371,12 @@ baidu.com/mo/q/recommendpb/
 ||cdnjs.cloudflare.com/ajax/libs/fuckadblock/
 ||cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/
 @@||cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/$domain=ikanbot.com
-||d.line-scdn.net/r/web/social-plugin/
+||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/
+!
+! Cloudfront
+||d16h6fcyhmumm7.cloudfront.net^
+||d2dxy39sqorbhv.cloudfront.net^
+||d33f51dyacx7bd.cloudfront.net^
 !
 ! Facebook
 |https://www.facebook.com/tr/?id=
@@ -374,6 +387,8 @@ baidu.com/mo/q/recommendpb/
 ||www.googletagmanager.com^
 ||www.googletagservices.com^
 !
+! Line
+||d.line-scdn.net/r/web/social-plugin/
 ! Meituan
 ||p0.meituan.net/csc/
 !
@@ -390,6 +405,9 @@ baidu.com/mo/q/recommendpb/
 |https://purr.nytimes.com/v1/directives
 |https://file.caixin.com/wapchannel/all/js/openInApp.js?
 |https://dss0.zbstatic5.com/web2/_astro/GoogleAdvertisement.
+!
+! Yandex
+|https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js
 !
 ! Zhihu
 ||static.zhihu.com/ad-raccoon-web/
@@ -408,6 +426,16 @@ baidu.com/mo/q/recommendpb/
 ||vzuu.com/HD/
 !
 ! ACG
+/ajax/user_daily_event?
+/templates/frontend/airav/css/2025-headerRWD.css
+/templates/frontend/airav/css/style_blog.css?
+/templates/frontend/airav/css/style_game.css?
+://18comic.*/templates/frontend/airav/js/*_*.js
+||18comic.*/media/blog/blank.jpg
+||18comic.*/static/resources/files/*.gif
+||18comic.*/static/resources/images/*.gif
+||18comic.*/static/resources/images/photo(3).jpg
+||18comic.*/templates/frontend/airav/emoji/emojionearea.css
 ||www.colamanga.com/counting
 ||img.hanguomanhua.me/style2/Loading200x200.png
 |https://tj.doubaomanhua.com/api/send
@@ -431,17 +459,8 @@ baidu.com/mo/q/recommendpb/
 !4. Adults
 ||112pm.com/okle/js1/
 ||169bbs.com/AllRes/
-/ajax/user_daily_event?
-/templates/frontend/airav/css/2025-headerRWD.css
-/templates/frontend/airav/css/style_blog.css?
-/templates/frontend/airav/css/style_game.css?
-://18comic.*/templates/frontend/airav/js/*_*.js
-||18comic.*/media/blog/blank.jpg
-||18comic.*/static/resources/files/*.gif
-||18comic.*/static/resources/images/*.gif
-||18comic.*/static/resources/images/photo(3).jpg
-||18comic.*/templates/frontend/airav/emoji/emojionearea.css
 ||91porna.com/static/web/css/lib/zui.css
+|https://91porny.com/static/css/91captions.vtt
 |https://www.99re.com/player/html.php?
 ||a.cdnpure.com/analytics/
 |https://av6k.com/templets/default/parts/txt.js?
