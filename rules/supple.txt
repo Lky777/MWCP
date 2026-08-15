@@ -51,7 +51,6 @@ v=2&adZones
 .com/api/banner/banner_list
 .com/api/models/
 .com/api/models?
-.com/api/models?landing=
 .com/api/v1/mediation/tracking?adUnit=
 .com/events/1/*?a=
 .com/jserror?type=
@@ -87,6 +86,8 @@ _14c14p14v.js
 /scripts/jquery.blockUI.min.js
 /scripts/myDialog/core-ui.
 /scripts/myDialog/myDialog.
+/static/ads/js/adm.js
+/static/ads/css/ad.css
 /trackad.js
 /videojs.ads.min.
 /videojs.ads.min.js
@@ -183,6 +184,7 @@ _14c14p14v.js
 ||clarity.ms^
 ||collect.zbstatic5.com^
 ||collector.xhamster.com^
+||static.cloudflareinsights.com^
 ||d1yw1n0ddlrqxj.cloudfront.net^
 ||d2v4tz4zvhrua.cloudfront.net^
 ||d3ccefxs96519j.cloudfront.net^
@@ -228,6 +230,9 @@ _14c14p14v.js
 @@||jjlxoi.cn^
 @@||vkjyoi.cn^
 @@||sbzytpimg5.com^
+@@||hls.dscxru.cn^
+@@||yd-hls.utxxds.cn^
+@@||pic.xmbvxj.cn^
 ||44xoxo1842.spankbang.com^
 ||500outenterprises.net^
 ||announcenutshell.com^
@@ -250,7 +255,7 @@ _14c14p14v.js
 ||jlr3lljrk.com^
 ||juniorregister.com^
 ||ks.ferlytc.com^
-luugy.com
+||luugy.com^
 ||mdynieu.com^
 ||media-hls.growcdnssedge.com^
 ||media-hls.saawsedge.com^
@@ -266,6 +271,7 @@ paupsoborofoow.net
 ||rtb-2.xgroovy.com^
 ||script-center.bad.news^
 ||simpli.fi^
+||static.addtoany.com^
 ||static.easrv.cl^
 ||static.javhdhello.com^
 ||static-sg.winudf.com^
@@ -401,26 +407,17 @@ baidu.com/mo/q/recommendpb/
 |https://www.zhihu.com/api/v4/questions/*/related-readings?
 ||vzuu.com/HD/
 !
-!3. ACG
+! ACG
 ||www.colamanga.com/counting
 ||img.hanguomanhua.me/style2/Loading200x200.png
 |https://tj.doubaomanhua.com/api/send
 |https://www.doubaomanhua.com/index/ajax/pv
 |https://www.doubaomanhua.com/assets/js/pv.js
-||www.hanguomanhua.me/cache.js
-||www.hanguomanhua.me/style2/001.gif
-||www.hanguomanhua.me/style2/fc.js
+|https://www.hanguomanhua.me/cache.js
+|https://www.hanguomanhua.me/style2/001.gif
+|https://www.hanguomanhua.me/style2/fc.js
+|https://18mh.net/index/addClick
 |https://hanmanjd.org/jt.php?
-|https://m.happymh.com/styles/need/layer.css?
-|https://m.happymh.com/v2.0/apis/manga/log
-|https://rr.happymh.com/mbanner/*.gif.webp
-||m.happymh.com/static/media/
-||m.happymh.com/styles/friendAds.
-||rr.happymh.com/mbanner/gifwidf.webp
-|https://m.happymh.com/v2.0/apis/uu/info?_t=
-|https://m.happymh.com/v2.0/apis/device/status
-|https://m.happymh.com/v2.0/apis/device/report
-|https://m.happymh.com/v2.0/apis/comment/hot?code=
 |https://mhjia.com/js/foot.js?
 ||ravenscans.com/wp-content/themes/mangareader/assets/img/btn_close.gif
 ||ravenscans.com/wp-content/themes/mangareader/assets/img/readerarea.svg
@@ -487,6 +484,8 @@ baidu.com/mo/q/recommendpb/
 ##.block-overlay
 ##.van-overlay
 ##.van-popup--center
+18mh.net##.ad-dialog
+18mh.net##.modal-backdrop
 18porn.cc###showAdsBeforePlay
 51cg1.com##.addbox
 91bl.es###popup-mask
@@ -500,7 +499,6 @@ hjziyan.wiki###popup-mask
 juejin.cn##.open-button
 kuaidi100.com##.index__download-box
 m.58moto.com##.motorfans-download-app
-m.happymh.com###layui-m-layer0
 m.hetushu.com##.m1
 m.huxiu.com###js-special-open-app-btn
 m.iyf.tv##.container
