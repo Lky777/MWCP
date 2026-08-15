@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202608150634
-! Last modified: 15 Aug 2026 06:34 UTC
+! Version: 202608151929
+! Last modified: 15 Aug 2026 19:29 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -25,7 +25,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=bhshu.net|louzho
 $script,third-party,domain=cilimao.co|cilimao.one
 $script,third-party,domain=colamanga.com
 $script,third-party,domain=torkitty.net|torkitty.com|torrentkitty.app|torrentkitty.asia|torrentkitty.cam|torrentkitty.ink|torrentkitty.io|torrentkitty.live|torrentkitty.lol|torrentkitty.net|torrentkitty.one|torrentkitty.tv|torrkitty.com
-$script,third-party,domain=xunleisou.life|xiaoyakankan.com|52movieba.com|audio699.com|kan-tv.com|m.supfree.net|movieffm.net|xiaoheimi.cc
+$script,third-party,domain=xunleisou.info|xunleisou.life|xiaoyakankan.com|52movieba.com|audio699.com|kan-tv.com|m.supfree.net|movieffm.net|xiaoheimi.cc
 $script,third-party,websocket,domain=52codes.net
 $third-party,websocket,xmlhttprequest,domain=qiyoudy2.com|qiyoudy4.com
 $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
@@ -2965,6 +2965,7 @@ yydstxt*.com/js/html
 ||2ld8mx979a.com^
 ||2likemobile.com^
 ||2lj9n8sz0w.com^
+||2lpwji3xr.com^
 ||2mdn.net^
 ||2ndamendmentguns.com^
 ||2ndcc.org^
@@ -36342,6 +36343,7 @@ yydstxt*.com/js/html
 ||ujamsrv.com^
 ||ujfyzxfc01.com^
 ||ujhu.cn^
+||ujj1ndg5i.com^
 ||ujlsiyp.cn^
 ||ujof.cn^
 ||ujth40hl4i.com^
