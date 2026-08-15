@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202608150411
-! Last modified: 15 Aug 2026 04:11 UTC
+! Version: 202608150634
+! Last modified: 15 Aug 2026 06:34 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2178,10 +2178,12 @@ yydstxt*.com/js/html
 |https://11.mydrivers.com/js/2022/storageHelper.js?
 |https://18mh.net/index/addClick
 |https://8se.me/ajax.php
+|https://91porny.com/static/css/91captions.vtt
 |https://a.et.nytimes.com/track
 |https://a2zapk.io/js/apk2019.js?
 |https://api.toutiaoapi.com/api/news/feed/v88/?
 |https://av6k.com/templets/default/parts/txt.js?
+|https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js
 |https://dss0.zbstatic5.com/web2/_astro/GoogleAdvertisement.
 |https://file.caixin.com/wapchannel/all/js/openInApp.js?
 |https://gw.m.163.com/search/api/v2/wap/rolling-word?
@@ -5490,6 +5492,7 @@ yydstxt*.com/js/html
 ||aguo.com^$third-party
 ||ah.sina.com.cn/iframe/
 ||ah04.com^
+||ah7907.com^
 ||ahacdn.me^
 ||ahania.org^
 ||ahd2020.com^
@@ -6174,6 +6177,7 @@ yydstxt*.com/js/html
 ||ancientcointraders.com^
 ||anconahome.com^
 ||ancreport.com^
+||andallthemise.org^
 ||andalucia.com^
 ||andapaybo.com^
 ||andbead.com^
@@ -10064,6 +10068,7 @@ yydstxt*.com/js/html
 ||cdnjato.top^
 ||cdnjs.cloudflare.com/ajax/libs/fuckadblock/
 ||cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/
+||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/
 ||cdnjs.hro-cosmetics.com^
 ||cdnjs.mopair-erm.net^
 ||cdnjs.z-face.cn^
@@ -12084,6 +12089,7 @@ yydstxt*.com/js/html
 ||d1129ldr7.com^
 ||d13jhr4vol1304.cloudfront.net^
 ||d15cjcet1djbmv.cloudfront.net^
+||d16h6fcyhmumm7.cloudfront.net^
 ||d1bkj2yip30514.cloudfront.net/static/pc/icons/
 ||d1bz.xyz/static/book/static.
 ||d1net.com/index.php?m=poster&
@@ -12093,12 +12099,14 @@ yydstxt*.com/js/html
 ||d2.sina.com.cn^$object,script
 ||d24fx92qb.com^
 ||d2c1htpgj.com^
+||d2dxy39sqorbhv.cloudfront.net^
 ||d2football.com^
 ||d2pfd8w05h.com^
 ||d2un76zvb5mgzx.cloudfront.net^
 ||d2v4tz4zvhrua.cloudfront.net^
 ||d3-rgr-diva.com^
 ||d3.sina.com.cn^$object,script
+||d33f51dyacx7bd.cloudfront.net^
 ||d37d9zbli5ytch.cloudfront.net^
 ||d3ccefxs96519j.cloudfront.net^
 ||d3d7a0q05k6bvz.cloudfront.net^
@@ -18251,6 +18259,7 @@ yydstxt*.com/js/html
 ||hdjthzg.cn^
 ||hdjum.com^
 ||hdmoli.pro/a_d/
+||hdo0zseqy.com^
 ||hdrams.com^
 ||hdroads.com^
 ||hdsentinel.com^
@@ -21254,6 +21263,7 @@ yydstxt*.com/js/html
 ||js.ruiwen.com^
 ||js.shangxueba.com^
 ||js.shunqi.com^
+||js.stripe.com^
 ||js.tlt.cn/js/
 ||js.ubaike.cn^
 ||js.yjbys.com^
@@ -23564,6 +23574,8 @@ yydstxt*.com/js/html
 ||m.kankanwu.com/js/
 ||m.lelekan.com/sp/
 ||m.mianbao99.com/js/detail.js
+||m.stripe.com^
+||m.stripe.network^
 ||m.tiebaimg.com/timg?wapp^*imgtype=0$image
 ||m.ybstwl.com/public/tpl/m2/js/
 ||m1.27com.com^
@@ -28872,6 +28884,7 @@ yydstxt*.com/js/html
 ||pnghut.com^
 ||pngsucai.com^
 ||pngusdt.com^
+||pnguu.top^
 ||pnhwang.com^
 ||pniao99.com/statics/js/stat.js
 ||pnpq9y4te.com^
@@ -38608,6 +38621,7 @@ yydstxt*.com/js/html
 ||www.googletagmanager.com^
 ||www.googletagservices.com^
 ||www.hurtful-historian.com^
+||www.impassioned-boat.pro^
 ||www.line-website.com/social-plugins/
 ||www.ruanyifeng.com/blog/checker.js
 ||www.ruanyifeng.com/blog/stats.js
@@ -39457,6 +39471,7 @@ yydstxt*.com/js/html
 ||yekpars.com^
 ||yellowboxshoes.com^
 ||yellowbullet.com^
+||yellowishgather.com^
 ||yellowishgather.com^
 ||yellowjm.com^
 ||yellowpagesdirectory.com^
