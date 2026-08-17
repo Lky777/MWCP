@@ -26,11 +26,11 @@ def process_domains():
     if current_file.exists():
         current_file.rename(old_file)
     
-    # 读取白名单
-    with open(source_dir / 'top100k-white.txt', 'r') as f:
+    # 读取top100k-white.txt
+    with open(source_dir / 'whitebasic-top100k.txt', 'r') as f:
         white_domains = {line.strip() for line in f if line.strip()}
     
-    # 读取top100k
+    # 1.对比top100k-white.txt,找出top100k独有行
     filtered_domains = []
     with open(source_dir / 'top100k.txt', 'r') as f:
         for line in f:
@@ -38,7 +38,14 @@ def process_domains():
             if domain and domain not in white_domains:
                 filtered_domains.append(domain)
     
-    # 查找top100k独有行
+    # 读取whitelist.txt
+    with open(source_dir / 'whitelist.txt', 'r') as f:
+        whitelist_domains = {line.strip() for line in f if line.strip()}
+    
+    # 2.结果与whitelist.txt对比，再次找出独有行
+    filtered_domains = [domain for domain in filtered_domains if domain not in whitelist_domains]
+    
+    # 3.按后缀模式过滤
     final_domains = filter_domains_by_pattern(filtered_domains)
     
     # 写入新结果

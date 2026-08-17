@@ -40,7 +40,7 @@ def main():
     """
     主函数：指定文件路径
     """
-    white_list_file = "source/top100k-white.txt"
+    white_list_file = "source/whitebasic-top100k.txt"
     
     # 检查文件是否存在
     if not Path(white_list_file).exists():
