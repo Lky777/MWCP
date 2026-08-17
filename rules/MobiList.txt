@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202608161929
-! Last modified: 16 Aug 2026 19:29 UTC
+! Version: 202608170353
+! Last modified: 17 Aug 2026 03:53 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -467,6 +467,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /cpy/0mk/apnews.com/qgy/
 /crifan_com/padaili.png
 /css/78dfj/*.js
+/css/91captions.vtt
 /css/gg.js
 /css_js/*$domain=aiyangedu.com|duanmeiwen.com|jy135.com|oh100.com|qunzou.com|ruiwen.com|unjs.com|yjbys.com|yuwenmi.com
 /cuid/*$domain=colamanga.com
@@ -953,7 +954,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /v.aspx?bln=$script,third-party
 /v.gif?logtype=
 /vbvb_*_pmpm.js
-/videojs.ads.min.
 /videojs.ads.min.js
 /videojs/video-conrtib-ads.js
 /view/image/ngps1.gif
@@ -2178,7 +2178,6 @@ yydstxt*.com/js/html
 |https://11.mydrivers.com/js/2022/storageHelper.js?
 |https://18mh.net/index/addClick
 |https://8se.me/ajax.php
-|https://91porny.com/static/css/91captions.vtt
 |https://a.et.nytimes.com/track
 |https://a2zapk.io/js/apk2019.js?
 |https://api.toutiaoapi.com/api/news/feed/v88/?
@@ -11799,6 +11798,7 @@ yydstxt*.com/js/html
 ||cruise118.com^
 ||cruisedirector.com^
 ||crushblocks.com^
+||crusher28.com^
 ||crusher38.top^
 ||crustytoothpaste.net^
 ||cruxpool.com^
@@ -13667,6 +13667,7 @@ yydstxt*.com/js/html
 ||dzbhdm.com/wp-content/uploads/2021/10/c278390aead8a2f7caea15eb42b36314.
 ||dzdas.com^
 ||dzengi.com^
+||dzihsqn.icu^
 ||dzjzg.com^
 ||dzqxwy.com^
 ||dzv56b1o0y.com^
@@ -17478,6 +17479,7 @@ yydstxt*.com/js/html
 ||gqwu.cn^
 ||gr-hotels.net^
 ||gr-zoo.com^
+||gr8psejq9.com^
 ||graalonline.com^
 ||grab-xxxmovies.com^
 ||grabrooms.com^
@@ -19346,6 +19348,7 @@ yydstxt*.com/js/html
 ||hznzcn.com^
 ||hzozg.com^
 ||hzpt.com^
+||hztrfbokggvlle.com^
 ||hzvnt399h7.com^
 ||hzw9.com^
 ||hzyolohcz6.com^
@@ -29925,6 +29928,7 @@ yydstxt*.com/js/html
 ||qllfkl.com^
 ||qlmec.com^
 ||qls7v6jd3.com^
+||qlscg0qnz.com^
 ||qlwb.com.cn^
 ||qm120.com^
 ||qmarcani.com^
@@ -30132,6 +30136,7 @@ yydstxt*.com/js/html
 ||quxian.cn^
 ||qvatvofzx.com^
 ||qvfvah7jyb.com^
+||qvijpi426.com^
 ||qvzra.org^
 ||qvzrb.org^
 ||qvzrc.org^
@@ -31343,6 +31348,7 @@ yydstxt*.com/js/html
 ||ruyig.com/730x76.png
 ||ruziecoraz.com^
 ||rv6-p.com^
+||rvbavxtjy.icu^
 ||rvdkjn.icu^
 ||rvforums.com^
 ||rvkhazel.com^
@@ -34221,6 +34227,7 @@ yydstxt*.com/js/html
 ||t2rytwsha.com^
 ||t2tea.com^
 ||t3llam.com^
+||t4s8t6p39.com^
 ||t57u6anx2.com^
 ||t5gp7rzz4.com^
 ||t62nds.com^
