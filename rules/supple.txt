@@ -87,9 +87,7 @@ _14c14p14v.js
 /scripts/myDialog/core-ui.
 /scripts/myDialog/myDialog.
 /static/ads/js/adm.js
-/static/ads/css/ad.css
 /trackad.js
-/videojs.ads.min.
 /videojs.ads.min.js
 /widgets/Spot/lib.js
 .com/1987.js
@@ -161,6 +159,7 @@ _14c14p14v.js
 !
 ! -------- css --------
 /assets/modules/css/cp-popup.min.css?
+/static/ads/css/ad.css
 !
 ! ============== Ad-Networks ==============
 !
@@ -457,10 +456,10 @@ baidu.com/mo/q/recommendpb/
 ||wnacg.com/themes/mo/images/int_bg.png
 |https://www.ycymh.com/poster/zj-
 !4. Adults
+/css/91captions.vtt
 ||112pm.com/okle/js1/
 ||169bbs.com/AllRes/
 ||91porna.com/static/web/css/lib/zui.css
-|https://91porny.com/static/css/91captions.vtt
 |https://www.99re.com/player/html.php?
 ||a.cdnpure.com/analytics/
 |https://av6k.com/templets/default/parts/txt.js?
