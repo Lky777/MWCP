@@ -1,10 +1,10 @@
-name: fix top100k-White
+name: fix WhiteDomain
 
 on:
   workflow_dispatch:
   push:
     paths:
-      - 'source/whitebasic-top100k.txt'
+      - 'source/whitelist.txt'
 
 permissions:
   contents: write
