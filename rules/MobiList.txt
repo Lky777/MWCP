@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202608172136
-! Last modified: 17 Aug 2026 21:36 UTC
+! Version: 202608180240
+! Last modified: 18 Aug 2026 02:40 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -631,6 +631,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /js/ad.js$domain=69shuba.com
 /js/ad_tv.js
 /js/adv-slide-toggle.
+/js/apk2019.js?
 /js/axdd.js
 /js/bdgg/
 /js/bocaiadv.
@@ -2142,7 +2143,6 @@ mdttz.com###overlay
 mdttz.com##.closeBtn
 mdttz.com##.popImage
 meijutt.*/js/pcjs/
-paupsoborofoow.net
 sav123.com##.c-ad-pop
 sina.cn###float-btn
 sina.cn##.m-guss-caijing
@@ -2179,7 +2179,6 @@ yydstxt*.com/js/html
 |https://18mh.net/index/addClick
 |https://8se.me/ajax.php
 |https://a.et.nytimes.com/track
-|https://a2zapk.io/js/apk2019.js?
 |https://api.toutiaoapi.com/api/news/feed/v88/?
 |https://av6k.com/templets/default/parts/txt.js?
 |https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js
@@ -3700,6 +3699,7 @@ yydstxt*.com/js/html
 ||5vs7i3cuc.com^
 ||5vszw5ab2.com^
 ||5w31xv1a2.com^
+||5wkni37mso.com^
 ||5wt390pvwz.com^
 ||5wv0y42ub.com^
 ||5wzew9jht.com^
@@ -7432,7 +7432,6 @@ yydstxt*.com/js/html
 ||balmoralmkt.com^$third-party
 ||balsam18.com^
 ||balvehgmhw.com^
-||bam.nr-data.net^
 ||bamnol.com^
 ||bamwor.com^
 ||bananasmp.net^
@@ -8033,6 +8032,7 @@ yydstxt*.com/js/html
 ||bhovnq.cn^
 ||bhumiorganicfarm.com^
 ||bhvr7dtd.com^
+||bhx4vpuit9.com^
 ||bhxvgrcqd.com^
 ||bhydgwn9.xyz^
 ||bi-puntos.com^
@@ -8511,6 +8511,7 @@ yydstxt*.com/js/html
 ||bncqucpia.com^
 ||bnewbold.net^
 ||bnextmedia.com.tw/feed/fetch.js
+||bnobmgl.icu^
 ||bnqektutom.com^
 ||bnsepserv.com^
 ||bnti.cn^
@@ -11371,7 +11372,6 @@ yydstxt*.com/js/html
 ||createwhite.com^
 ||creationsbluesky.com^
 ||creative-biolabs.com^
-||creative.myavlive.com^
 ||creativeadv.net^
 ||creativehandbook.com^
 ||creativehertfordshire.com^
@@ -11737,27 +11737,20 @@ yydstxt*.com/js/html
 ||d1129ldr7.com^
 ||d13jhr4vol1304.cloudfront.net^
 ||d15cjcet1djbmv.cloudfront.net^
-||d16h6fcyhmumm7.cloudfront.net^
-||d1bkj2yip30514.cloudfront.net/static/pc/icons/
 ||d1bz.xyz/static/book/static.
 ||d1kkan.com^
 ||d1net.com/index.php?m=poster&
 ||d1pmhihatyvp1k.cloudfront.net^
-||d1yw1n0ddlrqxj.cloudfront.net^
 ||d1zoi2q7y0e4d.cloudfront.net^
 ||d2.sina.com.cn^$object,script
 ||d24fx92qb.com^
 ||d2c1htpgj.com^
-||d2dxy39sqorbhv.cloudfront.net^
 ||d2pfd8w05h.com^
 ||d2un76zvb5mgzx.cloudfront.net^
-||d2v4tz4zvhrua.cloudfront.net^
 ||d3-rgr-diva.com^
 ||d3.sina.com.cn^$object,script
-||d33f51dyacx7bd.cloudfront.net^
 ||d37d9zbli5ytch.cloudfront.net^
 ||d3baseball.com^
-||d3ccefxs96519j.cloudfront.net^
 ||d3d7a0q05k6bvz.cloudfront.net^
 ||d3iih5w7xp5hdg.cloudfront.net^
 ||d3jsp.org^
@@ -12679,7 +12672,6 @@ yydstxt*.com/js/html
 ||dkmoli.xyz^
 ||dkoldies.com^
 ||dkrc.org^
-||dl59007.bj.bcebos.com^
 ||dlads.cn^$third-party
 ||dlairhouston.com^
 ||dlbefft.com^
@@ -12978,7 +12970,6 @@ yydstxt*.com/js/html
 ||dpvmh2940637fafa.com^
 ||dpxadf.icu^
 ||dpzrm.org^
-||dq38rjje7qjm3.cloudfront.net^
 ||dq827txpz.com^
 ||dqiswip4.xyz^
 ||dqjob88.com^
@@ -13226,7 +13217,6 @@ yydstxt*.com/js/html
 ||duyisw.com^
 ||duzhi119.com^
 ||dv4ku.icu^
-||dve95jyfq31ui.cloudfront.net^
 ||dvimjbre.com^
 ||dvjxk947e.com^
 ||dvrinside.com^
@@ -13405,6 +13395,7 @@ yydstxt*.com/js/html
 ||easemob.net^
 ||easou.com/online/banner/
 ||easou.com^$third-party
+||easrv.cl^
 ||eastandsilk.com^
 ||eastcountymagazine.org^
 ||eastday.com/assets/js/dftongjiad.js
@@ -13589,7 +13580,6 @@ yydstxt*.com/js/html
 ||edethrelhf.com^
 ||edgcdn.net^
 ||edge-9d7c.com^
-||edge-hls.growcdnssedge.com^
 ||edgeofsteel.com^
 ||edgerods.com^
 ||edgexml.com^
@@ -13694,6 +13684,7 @@ yydstxt*.com/js/html
 ||ehcbforum.com^
 ||ehealthme.com^
 ||eheya.net^
+||ehh91kb6ic.com^
 ||ehmoxchs.cn^
 ||ehomeease.com^
 ||ehox67pahs.com^
@@ -14060,6 +14051,7 @@ yydstxt*.com/js/html
 ||eosdesignsstudio.com^
 ||eosrio.io^
 ||eosusa.io^
+||epalepnn55.com^
 ||eparkentertainment.com^
 ||epc-data.com^
 ||epc-reads.com^
@@ -14843,6 +14835,7 @@ yydstxt*.com/js/html
 ||fergusonforklifts.com^
 ||fergusonsubaru.com^
 ||ferianativa.com^
+||ferlytc.com^
 ||fermata-integrity.com^
 ||feroca.com^
 ||fertitienda.com^
@@ -15681,7 +15674,7 @@ yydstxt*.com/js/html
 ||fundacionlariviere.org^
 ||fundacionmapfre.org^
 ||fundicks.com^
-||fundingchoicesmessages.google.com^
+||fundingchoicesmessages.google.com^$third-party
 ||fundingchoicesmessages.google.com^$third-party
 ||fundorado.com^
 ||fundoshikake.com^
@@ -16643,9 +16636,6 @@ yydstxt*.com/js/html
 ||go-parts.com^
 ||go-xxxtubes.com^
 ||go.hangzhou.com.cn^
-||go.homejavlive.com^
-||go.myavlive.com^
-||go.xhamsterlive.com^
 ||go2amateur.com^
 ||go2av.com/for_ad/
 ||go2av.com/js/am.js
@@ -19611,7 +19601,6 @@ yydstxt*.com/js/html
 ||ip138.com/banner/
 ||ip138.com/idc/
 ||ip2whois.com^
-||ip385154052.ahcdn.com^
 ||ipad.pc899.cn^
 ||ipayafrica.com^
 ||ipbiubiu.com^
@@ -20516,7 +20505,6 @@ yydstxt*.com/js/html
 ||js.ruiwen.com^
 ||js.shangxueba.com^
 ||js.shunqi.com^
-||js.stripe.com^
 ||js.tlt.cn/js/
 ||js.ubaike.cn^
 ||js.yjbys.com^
@@ -21348,7 +21336,6 @@ yydstxt*.com/js/html
 ||kruvgate.com^
 ||kryptosomatic.com^
 ||ks-la.net^
-||ks.ferlytc.com^
 ||ksaef6idy.com^
 ||ksc-test.com^
 ||kseb.in^
@@ -22503,7 +22490,7 @@ yydstxt*.com/js/html
 ||lthdd.com^
 ||ltiekurv.com^
 ||ltk.com^
-||ltn.com.tw.impression?
+||ltn.com.tw/impression?
 ||ltn.com.tw/js/ad_door.js
 ||ltool.net^
 ||ltrb.cn^
@@ -22693,8 +22680,6 @@ yydstxt*.com/js/html
 ||m.kankanwu.com/js/
 ||m.lelekan.com/sp/
 ||m.mianbao99.com/js/detail.js
-||m.stripe.com^
-||m.stripe.network^
 ||m.tiebaimg.com/timg?wapp^*imgtype=0$image
 ||m.ybstwl.com/public/tpl/m2/js/
 ||m1.27com.com^
@@ -23281,8 +23266,6 @@ yydstxt*.com/js/html
 ||mcpelife.com^
 ||mcracingsa.com^
 ||mcricharddesignerbrands.com^
-||mcs.snssdk.com^
-||mcs.volceapplog.com^
 ||mcserverhost.com^
 ||mcsh.io^
 ||mcstats.com^
@@ -23323,8 +23306,6 @@ yydstxt*.com/js/html
 ||medenosrce.net^
 ||medfinanz.com^
 ||medhata.org^
-||media-hls.growcdnssedge.com^
-||media-hls.saawsedge.com^
 ||media-origin.net^
 ||media4net.com^
 ||mediaad.org^
@@ -25639,6 +25620,7 @@ yydstxt*.com/js/html
 ||npuwalz.com^
 ||npx76.com^
 ||npzc1yzag7.com^
+||npzjrlkmmjjtxe.com^
 ||nq49x3m8g.com^
 ||nqbcf.cn/html/top
 ||nqwgvk.cn^
@@ -26152,7 +26134,6 @@ yydstxt*.com/js/html
 ||one-vv0199.com^
 ||one-vv4250.com^
 ||one101.xyz/data/images/*.gif
-||onead.onevision.com.tw^
 ||oneadtag.com^
 ||onebeachatatime.org^
 ||oneblockdown.com^
@@ -26673,7 +26654,6 @@ yydstxt*.com/js/html
 ||pagaloo.com^
 ||pagarbook.com^
 ||page-iqiyi.com^
-||pagead2.googlesyndication.com^
 ||pagechoice.net^$third-party
 ||pahina.com^
 ||pahlsshowrooms.com^
@@ -26836,6 +26816,7 @@ yydstxt*.com/js/html
 ||paul-uk.com^
 ||paulafj.com^
 ||paulpublicitaria.com^
+||paupsoborofoow.net^
 ||pavdiibdvr.com^
 ||paviliongift.com^
 ||pavwrr.icu^
@@ -27387,7 +27368,6 @@ yydstxt*.com/js/html
 ||pindiy.com^
 ||pineletpinel.com^
 ||ping-dash.com^
-||ping.chartbeat.net^
 ||pingdong.top^
 ||pingeurope.com^
 ||pinggu.org/api/bbsgg.
@@ -28312,6 +28292,7 @@ yydstxt*.com/js/html
 ||pubunit.net^
 ||pucesdeparissaintouen.com^
 ||puckedinthehead.com^
+||pudppkqcs.icu^
 ||pudseybramley.com^
 ||pudtyek.com^
 ||pudyrxxaq.com^
@@ -28775,7 +28756,6 @@ yydstxt*.com/js/html
 ||quandao.com^
 ||quanqiugttt1.xyz^
 ||quantify-energy.com^
-||quantserve.com^
 ||quantspcf.com^
 ||quantumlandingpageforge.com^
 ||quantumproxies.io^
@@ -29600,6 +29580,7 @@ yydstxt*.com/js/html
 ||riverside.com^
 ||riversidehealth.org^
 ||riveter29.com^
+||riveter35.top^
 ||rivianforums.com^
 ||rivieracrikvenica.com^
 ||rivox.io^
@@ -31131,7 +31112,6 @@ yydstxt*.com/js/html
 ||simplerockets.com^
 ||simplethai.net^
 ||simplexonflux.com^
-||simpli.fi^
 ||simplicityvac.com^
 ||simplotel.com^
 ||simplyhired-staging.com^
@@ -32098,19 +32078,14 @@ yydstxt*.com/js/html
 ||stateofwisconsin.net^
 ||static*.365inews.com^
 ||static-cn.plista.com^
-||static-sg.winudf.com^
 ||static-ssp.yidianzixun.com^
 ||static-viamobilis.com^
 ||static.addtoany.com^
-||static.chartbeat.com^
-||static.cloudflareinsights.com^
 ||static.doyouhike.net/partner/
-||static.easrv.cl^
 ||static.gaomaer.cn^
 ||static.gridsumdissector.com^
 ||static.ichehome.com^
 ||static.javhd.com/h5/files/
-||static.javhdhello.com^
 ||static.meijiacun.com^
 ||static.rongkao.com^
 ||static.wjxcdn.com^
@@ -34823,7 +34798,6 @@ yydstxt*.com/js/html
 ||umbrella6.top^
 ||umbriadanceschool.com^
 ||umchealthsystem.com^
-||umini.shujupie.com^
 ||umjjeeye.com^
 ||ummhealth.org^
 ||umogames.com^
@@ -35488,8 +35462,6 @@ yydstxt*.com/js/html
 ||video-amateur.net^
 ||video-loads.com^
 ||video.qq.com/checktime?
-||video.saawsedge.com^
-||video.sacdnssedge.com^
 ||video18.net^
 ||video231.oss-cn-beijing.aliyuncs.com^
 ||videoandmovie.top^
@@ -37075,6 +37047,7 @@ yydstxt*.com/js/html
 ||xchina.*/plugins/sweetalert2/
 ||xchina.*/scripts/modal/modal.js
 ||xchina.*/service/assets/core-state.
+||xchina.bond^
 ||xchina.click^
 ||xchina.co/plugins/sweetAlert2/sweetalert2.all.min.js
 ||xchina.co/scripts/jquery.blockUI.min.js
@@ -38584,7 +38557,6 @@ yydstxt*.com/js/html
 ||zh-wm-leisu.com^
 ||zh-world-pggame.com^
 ||zh-zone-jisu.com^
-||zh.xchina.bond^
 ||zh4qnnf63.com^
 ||zhainanba.org/ac/
 ||zhan.com^
