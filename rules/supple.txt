@@ -40,10 +40,11 @@ v=2&adZones
 ://analytics.*.com/api/event
 /1x1.
 /*_api.php?action=get
+/apnews.com/qgy/
 /cdn-cgi/speculation
-/cpy/0mk/apnews.com/qgy/
 /index.php/ajax/hits?mid=
 /index.php/user/ajax_ulog/?ac=
+/kakaxiaikakaxi.php
 /matomo.php?action_name=
 /popup/adblock/promo/banner/
 /static/upload/adsbanner/
@@ -54,7 +55,6 @@ v=2&adZones
 .com/api/v1/mediation/tracking?adUnit=
 .com/events/1/*?a=
 .com/jserror?type=
-.com/Php/Home/kakaxiaikakaxi.php
 .com/social-plugins/js/lib/sentry.
 .com/wp-content/plugins/ai-share-summarize/
 .com/wp-content/plugins/erphpdown/static/erphpdown.
@@ -71,10 +71,11 @@ _ads.html?
 /adsbygoogle.js?client=
 /api/eventTracking/batchReport.json
 /api/eventTracking/report.json
+/apk2019.js?
 /artplayer-plugin-ads.js
 /common/js/fp-*.min.js
 /frontend-gtag.min.js?
-/js/apk2019.js?
+/googleanalytics.js
 /js/cp-popup.min.js?
 /js/ga.js
 /js/hilltop.js
@@ -82,11 +83,13 @@ _ads.html?
 /js/tm.js
 /js/zzz.js
 /matomo.js
+/mip-stats-baidu.js
 /scripts/push.js?
 /scripts/jquery.blockUI.min.js
 /scripts/myDialog/core-ui.
 /scripts/myDialog/myDialog.
 /static/ads/js/adm.js
+/telegram-loader.js?
 /trackad.js
 /videojs.ads.min.js
 /widgets/Spot/lib.js
@@ -99,13 +102,10 @@ _ads.html?
 .com/js/ad-units.js
 .com/js/dom.js
 .com/js/exopop.js
-.com/js/ga/googleanalytics.js
 .com/Scripts/idleAD.js
 .com/Scripts/LogTracer.js
 .com/static/js/action.js
 .com/static/js/up.js
-.com/static/telegram-loader.js?
-.com/static/v2/mip-stats-baidu/mip-stats-baidu.js
 .com/template/jable/ads/bottom.js
 .com/tracker.js
 .xyz/tracker.js
@@ -243,7 +243,9 @@ _14c14p14v.js
 ||avvobqwi.in^
 ||duxlpoavm.in^
 ||easrv.cl^
+||ehh91kb6ic.com^
 ||fatalfear.pro^
+||fdgxft.top^
 ||ferlytc.com^
 ||floors.dev^
 ||fkagiwda.in^
@@ -260,41 +262,28 @@ _14c14p14v.js
 ||palatable-soft.com^
 ||paupsoborofoow.net^
 ||pnguu.top^
+||skacnds.com^
+||tubuyian.com^
 ||workdeadlinededicate.com^
 ||www.cloudyjacket.com^
 ||www.hurtful-historian.com^
 ||www.impassioned-boat.pro^
+||www.o3vbiebfn3eb.net^
 ||www.silent-basis.pro^
 ||yellowishgather.com^
 ||yronesefurther.org^
 !
 ! ======== Website path-based ========
-||playhubconnect.com/bn/
-||www.line-website.com/social-plugins/
 !
 ! ============ Site-Specific Rules ============
-!
-! 163 / Sina / Sohu
-||m.163.com/touch/nc/api/article/relate/
-||m.163.com/wap/special/
-||s6.music.126.net/puzzle/$script
-||s6.music.126.net/static_public/
-||static.ws.126.net/163/frontend/images/toast-download.png
-||static.ws.126.net/163/frontend/js/*/url-param-inherit.js
-||static.ws.126.net/163/frontend/libs/open-newsapp/latest/open-newsapp.min.js
-|https://gw.m.163.com/search/api/v2/wap/rolling-word?
-|https://m.163.com/touch/api/paid-article/well-chosen-rec-list?
-|https://m.163.com/touch/behavior.html?
-||finance.sina.com.cn/api/hq_popup_api.json
-||*.cdn.sohucs.com/lemon/
-!
-! Adults
-||static.javhd.com/h5/files/
 !
 ! Alibaba
 ||img.alicdn.com/imgextra/i*/$domain=~aliyundrive.com
 |https://image.uczzd.cn/?id=
 |https://m.sm.cn/adclick?
+!
+! Amazon
+||playhubconnect.com/bn/
 !
 ! Baidu
 ||imgsa.baidu.com/forum/pic/item/
@@ -303,28 +292,6 @@ _14c14p14v.js
 |https://tieba.baidu.com/mo/q/newgetweixintoken?
 baidu.com/heicha/mm/2027/acs-2027.js?
 baidu.com/mo/q/recommendpb/
-!
-! BBS
-||blog.csdn.net/phoenix/web/v1/mini-app/
-||csdn.net/recommend/
-||csdnimg.cn/release/passport_fe/
-||eva2.csdn.net/v3/
-||g.csdnimg.cn/??sharewx/
-||img-home.csdnimg.cn/data_json/jsconfig/redPacket.json
-||www.ghxi.com/wp-content/plugins/core-ai-power/
-|https://www.ghxi.com/wp-content/plugins/wp-opt/static/js/ai-summary.min.js?
-|https://www.ghxi.com/wp-content/plugins/wp-opt/static/js/front.min.js?
-||11.mydrivers.com/2021/news/nike600_500.svg
-||11.mydrivers.com/common/js/trimpath-template-
-||11.mydrivers.com/m/images/v1/kkjapp_down.gif
-||11.mydrivers.com/m/js/live/liveplayer-element.min.js
-||icons.mydrivers.com/2025/
-||img1.kkeji.com/img/2005/
-|https://11.mydrivers.com/js/2022/storageHelper.js?
-|https://m.mydrivers.com/m/relatednews.ashx?
-||www.ruanyifeng.com/blog/checker.js
-||www.ruanyifeng.com/blog/stats.js
-||g1.tagtic.cn/v1/xingyou/c/
 !
 ! Bytedance
 ||lf1-cdn-tos.bytegoofy.com/goofy/
@@ -343,6 +310,7 @@ baidu.com/mo/q/recommendpb/
 !
 ! Line
 ||d.line-scdn.net/r/web/social-plugin/
+||www.line-website.com/social-plugins/
 !
 ! Meituan
 ||p0.meituan.net/csc/
@@ -351,18 +319,9 @@ baidu.com/mo/q/recommendpb/
 ||browser.events.data.msn.cn/OneCollector/
 ||browser.events.data.msn.com/OneCollector/
 ||srtb.msn.cn/notify/
-! 
-! News media
-||ltn.com.tw/impression?
-||reddit.com/svc/shreddit/perfMetrics
-||storm.mg/api/logs/
-|https://a.et.nytimes.com/track
-|https://purr.nytimes.com/v1/directives
-|https://file.caixin.com/wapchannel/all/js/openInApp.js?
-|https://dss0.zbstatic5.com/web2/_astro/GoogleAdvertisement.
 !
 ! Yandex
-|https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js
+/yandex-metrica-watch/tag.js
 !
 ! Zhihu
 ||static.zhihu.com/ad-raccoon-web/
@@ -391,21 +350,21 @@ baidu.com/mo/q/recommendpb/
 ||18comic.*/static/resources/images/*.gif
 ||18comic.*/static/resources/images/photo(3).jpg
 ||18comic.*/templates/frontend/airav/emoji/emojionearea.css
+|https://18mh.net/index/addClick
 ||www.colamanga.com/counting
 ||img.hanguomanhua.me/style2/Loading200x200.png
 |https://tj.doubaomanhua.com/api/send
-|https://www.doubaomanhua.com/index/ajax/pv
-|https://www.doubaomanhua.com/assets/js/pv.js
+|https://doubaomanhua.com/index/ajax/pv
+|https://doubaomanhua.com/assets/js/pv.js
 |https://www.hanguomanhua.me/cache.js
 |https://www.hanguomanhua.me/style2/001.gif
 |https://www.hanguomanhua.me/style2/fc.js
-|https://18mh.net/index/addClick
 |https://hanmanjd.org/jt.php?
 |https://mhjia.com/js/foot.js?
-||ravenscans.com/wp-content/themes/mangareader/assets/img/btn_close.gif
-||ravenscans.com/wp-content/themes/mangareader/assets/img/readerarea.svg
 ||js.mewlxy.com/gg-config.js
 ||link.mzlinks.com/js/*.manhua
+||ravenscans.com/wp-content/themes/mangareader/assets/img/btn_close.gif
+||ravenscans.com/wp-content/themes/mangareader/assets/img/readerarea.svg
 ||www.veryim.com/js/z.manhua
 ||wnacg.com/game/
 ||wnacg.com/themes/mo/images/domain.js
@@ -420,14 +379,9 @@ baidu.com/mo/q/recommendpb/
 |https://8se.me/ajax.php
 ||91porna.com/static/web/css/lib/zui.css
 |https://www.99re.com/player/html.php?
-||a.cdnpure.com/analytics/
-|https://av6k.com/templets/default/parts/txt.js?
 ||av6k.com/video-ads/
 ||avbebe.com/wp-content/uploads/*.gif
-||nibuaideren.icu/*.gif
-||pic1.imgdb.cn/item/*.gif
-||qy0.ru/*.gif
-||rzpsrl.cn/imc/*.gif
+|https://av6k.com/templets/default/parts/txt.js?
 ||bad.news/images/lightbox-blank.gif
 ||eporner.com/dot/
 ||eporner.com/getadb/
@@ -438,20 +392,71 @@ baidu.com/mo/q/recommendpb/
 |https://www.haijiaoshipin.com/build/assets/popup-
 |https://heiliao.com/index/statistics_common
 ||assetscdn.jable.tv/assets/images/uu/
+||static.javhd.com/h5/files/
+||nibuaideren.icu/*.gif
+||pic1.imgdb.cn/item/*.gif
 ||pornbaker.com/wp-json/adblock/
-||xnnn.org/site/all.js
 |https://www.pornbest.org/site/stat?
-|https://sobt18.icu/Public/static/js/common.js?
-||s1.filec.top/Blotter.js
-||upload.xchina.io/media/*.webp
-||upload.xchina.io/media/*.mp4
+||qy0.ru/*.gif
+||rzpsrl.cn/imc/*.gif
 ||xchina.co/plugins/sweetAlert2/sweetalert2.all.min.js
 ||xchina.co/scripts/jquery.blockUI.min.js
-|https://xchina.fit/ajax.php
 |https://xchina.co/scripts/push.js?
+|https://xchina.fit/ajax.php
+||upload.xchina.io/media/*.webp
+||upload.xchina.io/media/*.mp4
+||xnnn.org/site/all.js
 ||xxav.one/i/app/
 |https://www.ytsptv.com/popup_api.php?
 |https://www.ytsptv.com/right_float_api.php?
+!
+! BBS
+||a.cdnpure.com/analytics/
+||blog.csdn.net/phoenix/web/v1/mini-app/
+||csdn.net/recommend/
+||csdnimg.cn/release/passport_fe/
+||eva2.csdn.net/v3/
+||g.csdnimg.cn/??sharewx/
+||img-home.csdnimg.cn/data_json/jsconfig/redPacket.json
+||www.ghxi.com/wp-content/plugins/core-ai-power/
+|https://www.ghxi.com/wp-content/plugins/wp-opt/static/js/ai-summary.min.js?
+|https://www.ghxi.com/wp-content/plugins/wp-opt/static/js/front.min.js?
+||11.mydrivers.com/2021/news/nike600_500.svg
+||11.mydrivers.com/common/js/trimpath-template-
+||11.mydrivers.com/m/images/v1/kkjapp_down.gif
+||11.mydrivers.com/m/js/live/liveplayer-element.min.js
+||icons.mydrivers.com/2025/
+||img1.kkeji.com/img/2005/
+|https://11.mydrivers.com/js/2022/storageHelper.js?
+|https://m.mydrivers.com/m/relatednews.ashx?
+||www.ruanyifeng.com/blog/checker.js
+||www.ruanyifeng.com/blog/stats.js
+||g1.tagtic.cn/v1/xingyou/c/
+! 
+! News media
+||m.163.com/touch/nc/api/article/relate/
+||m.163.com/wap/special/
+||s6.music.126.net/puzzle/$script
+||s6.music.126.net/static_public/
+||static.ws.126.net/163/frontend/images/toast-download.png
+||static.ws.126.net/163/frontend/js/*/url-param-inherit.js
+||static.ws.126.net/163/frontend/libs/open-newsapp/latest/open-newsapp.min.js
+|https://gw.m.163.com/search/api/v2/wap/rolling-word?
+|https://m.163.com/touch/api/paid-article/well-chosen-rec-list?
+|https://m.163.com/touch/behavior.html?
+||finance.sina.com.cn/api/hq_popup_api.json
+||*.cdn.sohucs.com/lemon/
+||ltn.com.tw/impression?
+||reddit.com/svc/shreddit/perfMetrics
+||storm.mg/api/logs/
+|https://a.et.nytimes.com/track
+|https://purr.nytimes.com/v1/directives
+|https://file.caixin.com/wapchannel/all/js/openInApp.js?
+|https://dss0.zbstatic5.com/web2/_astro/GoogleAdvertisement.
+!
+! Resource sites
+||s1.filec.top/Blotter.js
+|https://sobt18.icu/Public/static/js/common.js?
 !
 ! ======== Element Hiding ========
 ###adFloat
