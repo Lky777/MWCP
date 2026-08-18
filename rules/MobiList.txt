@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202608180240
-! Last modified: 18 Aug 2026 02:40 UTC
+! Version: 202608180317
+! Last modified: 18 Aug 2026 03:17 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -66,7 +66,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/1987.js
 .com/?aff=$popup,third-party
 .com/?intr=$popup,third-party
-.com/Php/Home/kakaxiaikakaxi.php
 .com/Scripts/LogTracer.js
 .com/Scripts/idleAD.js
 .com/Static/Home/GongGao/img/*.gif
@@ -117,7 +116,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/js/discor_list.js
 .com/js/dom.js
 .com/js/exopop.js
-.com/js/ga/googleanalytics.js
 .com/js/indextop.js
 .com/js/lad.js
 .com/js/o.js$domain=qdmm.com|qdwenxue.com|qidian.com
@@ -150,8 +148,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/static/js/action.js
 .com/static/js/ad.js
 .com/static/js/up.js
-.com/static/telegram-loader.js?
-.com/static/v2/mip-stats-baidu/mip-stats-baidu.js
 .com/static/video/bn/
 .com/style/vue.js?v=
 .com/template/jable/ads/bottom.js
@@ -381,6 +377,8 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /api/goods/v1/get.script.core?
 /api/video/getadsdata?
 /api/video/getadsdatalist?
+/apk2019.js?
+/apnews.com/qgy/
 /app/pcbanner/getbannerconfig/v2
 /app_ad/slade.js
 /appapi/jjlist.php
@@ -464,7 +462,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /cpmshopads^
 /cpro.$popup,third-party
 /cpro/ui/
-/cpy/0mk/apnews.com/qgy/
 /crifan_com/padaili.png
 /css/78dfj/*.js
 /css/91captions.vtt
@@ -548,6 +545,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /ggvip/*.js
 /gh/91porny/
 /gmu-download.oss-
+/googleanalytics.js
 /gtool.js$domain=51live.com|52waha.com|ccav5.com|zhibo7.com
 /guang/5liao.me.gif
 /guang/guang*.js
@@ -631,7 +629,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /js/ad.js$domain=69shuba.com
 /js/ad_tv.js
 /js/adv-slide-toggle.
-/js/apk2019.js?
 /js/axdd.js
 /js/bdgg/
 /js/bocaiadv.
@@ -687,6 +684,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /k228.oss-
 /k300g250.
 /k960g90.
+/kakaxiaikakaxi.php
 /kan/js/dian.js
 /kg2.oss-
 /koukoku/*.gif
@@ -722,6 +720,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /meinv/js/*_banner.js
 /mfad/
 /mhw0/duniao/
+/mip-stats-baidu.js
 /mmday/91porn_
 /mmday/hgame_
 /mobile/lele.html
@@ -903,6 +902,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /tb/_/video_frs_head_
 /tb/img/hg/hg.gif?
 /td_ads_ckbeck.js
+/telegram-loader.js?
 /template/*/adm/
 /template/*/lele36.html
 /template/bingfeng/statics/js/pingbi.js
@@ -1003,6 +1003,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /xxgg/pppp.js
 /xxgg/pv.js
 /xxgg/xsggs.js
+/yandex-metrica-watch/tag.js
 /yesky/js/counter/
 /yinghua4567/*.js
 /yksmartbanner.
@@ -2181,7 +2182,8 @@ yydstxt*.com/js/html
 |https://a.et.nytimes.com/track
 |https://api.toutiaoapi.com/api/news/feed/v88/?
 |https://av6k.com/templets/default/parts/txt.js?
-|https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js
+|https://doubaomanhua.com/assets/js/pv.js
+|https://doubaomanhua.com/index/ajax/pv
 |https://dss0.zbstatic5.com/web2/_astro/GoogleAdvertisement.
 |https://file.caixin.com/wapchannel/all/js/openInApp.js?
 |https://gw.m.163.com/search/api/v2/wap/rolling-word?
@@ -2199,8 +2201,6 @@ yydstxt*.com/js/html
 |https://tj.doubaomanhua.com/api/send
 |https://unpkg.zhimg.com/@cfe/sentry-script@
 |https://www.99re.com/player/html.php?
-|https://www.doubaomanhua.com/assets/js/pv.js
-|https://www.doubaomanhua.com/index/ajax/pv
 |https://www.eporner.com/dot/pop4.php
 |https://www.eporner.com/static/popCode-
 |https://www.facebook.com/tr/?id=
@@ -13685,6 +13685,7 @@ yydstxt*.com/js/html
 ||ehealthme.com^
 ||eheya.net^
 ||ehh91kb6ic.com^
+||ehh91kb6ic.com^
 ||ehmoxchs.cn^
 ||ehomeease.com^
 ||ehox67pahs.com^
@@ -14770,6 +14771,7 @@ yydstxt*.com/js/html
 ||fdfda.zhuzhai.com^
 ||fdfghgfdd.yunqishi.net^
 ||fdfjxhpqxxjdby.com^
+||fdgxft.top^
 ||fdi1rg6ihs.com^
 ||fdk6z2l7jt.com^
 ||fdq1ewcyna.com^
@@ -31251,6 +31253,7 @@ yydstxt*.com/js/html
 ||sjsm.org^
 ||sjxydc.com^
 ||sk-diagnostics.com^
+||skacnds.com^
 ||skads.gxsky.com^$script
 ||skathari.net^
 ||skathari.org^
@@ -34377,6 +34380,7 @@ yydstxt*.com/js/html
 ||tubetraffic.com^
 ||tubozavr.com^
 ||tubul.net^
+||tubuyian.com^
 ||tudeporteshoy.xyz^
 ||tudetic.com^
 ||tudorcemetery.com^
@@ -36913,6 +36917,7 @@ yydstxt*.com/js/html
 ||www.hurtful-historian.com^
 ||www.impassioned-boat.pro^
 ||www.line-website.com/social-plugins/
+||www.o3vbiebfn3eb.net^
 ||www.ruanyifeng.com/blog/checker.js
 ||www.ruanyifeng.com/blog/stats.js
 ||www.silent-basis.pro^
