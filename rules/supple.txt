@@ -53,6 +53,7 @@ v=2&adZones
 .com/api/models/
 .com/api/models?
 .com/api/v1/mediation/tracking?adUnit=
+.com/cdn-cgi/rum?
 .com/events/1/*?a=
 .com/jserror?type=
 .com/social-plugins/js/lib/sentry.
@@ -126,6 +127,7 @@ _14c14p14v.js
 /bt960-60.gif
 /gg980-90.gif
 /images/ad1.gif
+/images/pic_loading.gif
 /img/track.gif
 /imgloading.gif
 /load.gif
@@ -153,6 +155,7 @@ _14c14p14v.js
 !
 ! -------- css --------
 /assets/modules/css/cp-popup.min.css?
+/pinglun/css/pinglun.css?
 /static/ads/css/ad.css
 !
 ! ============== Ad-Networks ==============
@@ -172,6 +175,8 @@ _14c14p14v.js
 ||hm.baidu.com^
 ||hmcdn.baidu.com^
 ||miaowu.baidu.com^
+||sp0.baidu.com^
+||zz.bdstatic.com^
 ||hm.bdstatistics.com^
 ||tags.bluekai.com^
 ||cdn.bootcdn.net^
@@ -239,8 +244,10 @@ _14c14p14v.js
 ||ah7907.com^
 ||andallthemise.org^
 ||announcenutshell.com^
+||api.guaziapp.com^
 ||attractivereception.com^
 ||avvobqwi.in^
+||cdnweb.win^
 ||duxlpoavm.in^
 ||easrv.cl^
 ||ehh91kb6ic.com^
@@ -262,7 +269,9 @@ _14c14p14v.js
 ||palatable-soft.com^
 ||paupsoborofoow.net^
 ||pnguu.top^
+||qqazxqu.com^
 ||skacnds.com^
+||tcyudzjp.com^
 ||tubuyian.com^
 ||workdeadlinededicate.com^
 ||www.cloudyjacket.com^
@@ -356,6 +365,7 @@ baidu.com/mo/q/recommendpb/
 |https://tj.doubaomanhua.com/api/send
 |https://doubaomanhua.com/index/ajax/pv
 |https://doubaomanhua.com/assets/js/pv.js
+|https://www.guazimanhua.com/assets/metrics/daily-hot.js?
 |https://www.hanguomanhua.me/cache.js
 |https://www.hanguomanhua.me/style2/001.gif
 |https://www.hanguomanhua.me/style2/fc.js
@@ -366,6 +376,8 @@ baidu.com/mo/q/recommendpb/
 ||ravenscans.com/wp-content/themes/mangareader/assets/img/btn_close.gif
 ||ravenscans.com/wp-content/themes/mangareader/assets/img/readerarea.svg
 ||www.veryim.com/js/z.manhua
+|https://www.veryim.com/template/veryim/js/tongji.js?
+|https://www.veryim.com/template/veryim/qtjs/bottom.js
 ||wnacg.com/game/
 ||wnacg.com/themes/mo/images/domain.js
 ||wnacg.com/themes/mo/images/int_bg.png
@@ -495,6 +507,7 @@ smzdm.com##.damo-footer-open-app
 sohu.com###CallAppContainer
 toutiao.com##.m-bottom-container
 www.coolinet.net###videoPostContent>p
+www.guazimanhua.com##.reader-tools
 www.haijiaolove.xyz##.elementor-gallery-item__overlay
 www.txrjy.com###tryOpenApp
 www.yqhd8.com###jhb
