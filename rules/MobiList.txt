@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202608181935
-! Last modified: 18 Aug 2026 19:35 UTC
+! Version: 202608191400
+! Last modified: 19 Aug 2026 14:00 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -78,6 +78,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/api/models?
 .com/api/v1/mediation/tracking?adUnit=
 .com/beacon.js
+.com/cdn-cgi/rum?
 .com/co/$domain=1anime.me
 .com/code.php?a=index&z=$script,third-party,xmlhttprequest
 .com/config/v7.js
@@ -594,6 +595,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /images/masha*.gif
 /images/masha*.png
 /images/mobileads*.jpg
+/images/pic_loading.gif
 /images/segucrwj*.gif
 /images/segucrwj*.jpg
 /images/sgcrwj*.gif
@@ -778,6 +780,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /pic.jsp?uid=$script,third-party
 /pic/tgad/
 /picad/*$domain=~ychr.com
+/pinglun/css/pinglun.css?
 /pj5303.oss-
 /pj545.oss-
 /pj98co.oss-
@@ -2161,6 +2164,7 @@ wss://*.xyz:*?e=$third-party
 wss://*.xyz:*?x=$third-party
 wss://*/api/wss/getnotreadcount$third-party
 www.coolinet.net###videoPostContent>p
+www.guazimanhua.com##.reader-tools
 www.haijiaolove.xyz##.elementor-gallery-item__overlay
 www.txrjy.com###tryOpenApp
 www.yqhd8.com###jhb
@@ -2206,11 +2210,14 @@ yydstxt*.com/js/html
 |https://www.facebook.com/tr/?id=
 |https://www.ghxi.com/wp-content/plugins/wp-opt/static/js/ai-summary.min.js?
 |https://www.ghxi.com/wp-content/plugins/wp-opt/static/js/front.min.js?
+|https://www.guazimanhua.com/assets/metrics/daily-hot.js?
 |https://www.haijiaoshipin.com/build/assets/popup-
 |https://www.hanguomanhua.me/cache.js
 |https://www.hanguomanhua.me/style2/001.gif
 |https://www.hanguomanhua.me/style2/fc.js
 |https://www.pornbest.org/site/stat?
+|https://www.veryim.com/template/veryim/js/tongji.js?
+|https://www.veryim.com/template/veryim/qtjs/bottom.js
 |https://www.ycymh.com/poster/zj-
 |https://www.ytsptv.com/popup_api.php?
 |https://www.ytsptv.com/right_float_api.php?
@@ -2341,6 +2348,7 @@ yydstxt*.com/js/html
 ||0xmd.com^
 ||0xr7ii3df.com^
 ||0xzxwnkqdu.com^
+||0yfqg4qm0.com^
 ||0yjeii25x4.com^
 ||0yu3bxtqv.com^
 ||0z3zbnbkv.com^
@@ -2909,6 +2917,7 @@ yydstxt*.com/js/html
 ||295tv.com^
 ||2994017.com^
 ||29h.xyz^
+||29ruu0q5p.com^
 ||29spp.com/js/tj.js
 ||29zle9rx4.com^
 ||2agmk5mh07.com^
@@ -6375,6 +6384,7 @@ yydstxt*.com/js/html
 ||api-yandex.net^
 ||api.cupid.qiyi.com/etx?
 ||api.cupid.qiyi.com/track2
+||api.guaziapp.com^
 ||api.wudizuqiu.com/72nba
 ||api.wudizuqiu.com/bocai.js
 ||apiarydata.net^
@@ -7202,6 +7212,7 @@ yydstxt*.com/js/html
 ||b1.cdn.mh3666.com/html/
 ||b1.engdvd.com^
 ||b1.xiao84.com^
+||b11yn56zn.com^
 ||b168.net^*.*?$image
 ||b1o8h004u5.com^
 ||b1zftjhtwb.com^
@@ -9287,6 +9298,7 @@ yydstxt*.com/js/html
 ||c7bijgz6zr.com^
 ||c81.ipanocloud.com^
 ||c8q27tqnaw.com^
+||c918sslye.com^
 ||c922.cn^
 ||c9pgryrmt4.com^
 ||c9w.net^
@@ -9835,6 +9847,7 @@ yydstxt*.com/js/html
 ||cdntxt.com/t1/
 ||cdntxt.com/t2/
 ||cdnwave.org^
+||cdnweb.win^
 ||cdnwgf.com^
 ||cdnwidget.com^
 ||cdnx445.com^
@@ -10659,6 +10672,7 @@ yydstxt*.com/js/html
 ||cm-chiefgroup.com^
 ||cm-gazteiz.com^
 ||cm.baidu.com^
+||cm30oc1du.com^
 ||cmarguadeloupe.org^
 ||cmbimg.cn^
 ||cmclassics.com^
@@ -20161,6 +20175,7 @@ yydstxt*.com/js/html
 ||jg0y00ciyr.com^
 ||jg8zueqa4e.com^
 ||jgaliciabukovina.net^
+||jgdzthrmmhnddc.com^
 ||jgep.top^
 ||jggnmdcmns.net^
 ||jgid.cn^
@@ -20736,6 +20751,7 @@ yydstxt*.com/js/html
 ||k2pk.com^
 ||k2snowcanada.com^
 ||k3a2n7.com^
+||k3vgy6hf7.com^
 ||k4plus.com^
 ||k52.cn^
 ||k5705bn39u.com^
@@ -28701,6 +28717,7 @@ yydstxt*.com/js/html
 ||qq.com/vfpage/visual_focus_page.
 ||qq260.com/shout.js
 ||qq2tdd0xx.com^
+||qqazxqu.com^
 ||qqbytrans.com^
 ||qqcf.com/js/content_get.js
 ||qqddc.com/homesite/news/js/newsad.js
@@ -29606,6 +29623,7 @@ yydstxt*.com/js/html
 ||rk2kpo4ef.com^
 ||rkanr.com/data/cpcache/cp*.js
 ||rkcfmfm97.com^
+||rkdyj4usf.com^
 ||rkjmhv2lvh.com^
 ||rkoi.cn^
 ||rkozoima.com^
@@ -31750,6 +31768,7 @@ yydstxt*.com/js/html
 ||sp-slots1.com^
 ||sp.dnqc.com^
 ||sp.qf.56.com^
+||sp0.baidu.com^
 ||spabreaks.com^
 ||spacebase.com^
 ||spacecorgis.com^
@@ -32186,6 +32205,7 @@ yydstxt*.com/js/html
 ||stephology.com^
 ||stephypublishers.com^
 ||stepladder10.top^
+||stepladder46.top^
 ||stepsandthreads.com^
 ||steptofsvo.com^
 ||sterlingsubaru.com^
@@ -32936,6 +32956,7 @@ yydstxt*.com/js/html
 ||tct-teye.com^
 ||tctmd.com^
 ||tcx0wyp0nn.com^
+||tcyudzjp.com^
 ||tcyudzjp.com^
 ||tdlop7tsme.com^
 ||tdslib.org^
@@ -34774,6 +34795,7 @@ yydstxt*.com/js/html
 ||uku-media.com^
 ||ukuleqasforsalesre.com^
 ||ukutabs.com^
+||ukwtsegym.com^
 ||ukx6umuvu.com^
 ||ulalimited.com^
 ||ulctechnologies.com^
@@ -37946,6 +37968,7 @@ yydstxt*.com/js/html
 ||yl1001.com^
 ||ylghac.icu^
 ||ylistus.com^
+||ylkvxrimr.com^
 ||ylr1xn2b4i.com^
 ||yltfspace.com^
 ||ym3jmnu05.com^
@@ -38889,6 +38912,7 @@ yydstxt*.com/js/html
 ||zuoyebang.cc/zyb_4953cbb8a9a2332469592196c056a906.jpg
 ||zupu.cn^
 ||zupulu.com/scripts/app/app.js
+||zuqqgwi.icu^
 ||zuqusw.com^
 ||zusiwk.com^
 ||zvciaoan1k.com^
@@ -38940,6 +38964,7 @@ yydstxt*.com/js/html
 ||zywxgames.com^
 ||zyxpedu.com^
 ||zyzhan.com^
+||zz.bdstatic.com^
 ||zzad.com^$third-party
 ||zzfxfz.com^
 ||zzgbzs.com^
