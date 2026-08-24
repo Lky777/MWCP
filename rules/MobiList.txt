@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Disruptive Online Content List
-! Version: 202608231930
-! Last modified: 23 Aug 2026 19:30 UTC
+! Version: 202608240145
+! Last modified: 24 Aug 2026 01:45 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2178,6 +2178,7 @@ yydstxt*.com/js/html
 |http://*/js/tc.js
 |http://ad.$domain=~ad.cnr.cn|~ckckk.com|~jxnews.com.cn
 |http://gg.$third-party,domain=~guagua.cn
+|http://yumanhua.com/t/track
 |https://*.baidu.com/mo/q/getVersionInfo?
 |https://11.mydrivers.com/js/2022/storageHelper.js?
 |https://18mh.net/index/addClick
@@ -2199,6 +2200,7 @@ yydstxt*.com/js/html
 |https://m.sm.cn/adclick?
 |https://mhjia.com/js/foot.js?
 |https://purr.nytimes.com/v1/directives
+|https://siwa.cam/build/assets/app-
 |https://sobt18.icu/Public/static/js/common.js?
 |https://tieba.baidu.com/mo/q/newgetweixintoken?
 |https://tj.doubaomanhua.com/api/send
@@ -3849,6 +3851,7 @@ yydstxt*.com/js/html
 ||6park.com/parks/$script
 ||6pctuhriw.com^
 ||6q77vsjez1.com^
+||6ql83wy90f.com^
 ||6s0zo8jzbb.com^
 ||6s78n1rj4r.com^
 ||6s8w2ck1g.com^
@@ -12663,6 +12666,7 @@ yydstxt*.com/js/html
 ||dm1.zjydt.com^
 ||dm5900.com/piao/
 ||dmbitalia.com^
+||dmdcstsyv3.com^
 ||dmfs.org^
 ||dmg-dd.oss-accelerate.aliyuncs.com^
 ||dmitriy-mevedev-tor.top^
@@ -12897,6 +12901,7 @@ yydstxt*.com/js/html
 ||downmn.com^$popup,third-party
 ||downmz.com^$popup,third-party
 ||downrangeguns.com^
+||downrightfootball.com^
 ||downtownmelody.com^
 ||downunderwatches.com^
 ||downxia.com/dgjs/download.js
@@ -27757,6 +27762,7 @@ yydstxt*.com/js/html
 ||ppxqhx.icu^
 ||pq8hypyajn.com^
 ||pqhtjn.icu^
+||pqpauhtkbh.icu^
 ||pqruoaz4co.com^
 ||pqurxlh7xk.com^
 ||pr2711.com^
@@ -28215,6 +28221,7 @@ yydstxt*.com/js/html
 ||pvgcyyh.icu^
 ||pvhbhnqip.com^
 ||pvino9yhp3.com^
+||pvjuzdikhrbblo.com^
 ||pvk.com^
 ||pvlimitless.com^
 ||pvphq.com^
@@ -28310,6 +28317,7 @@ yydstxt*.com/js/html
 ||qcs6kxekav.com^
 ||qcuncolm.com^
 ||qcvf.ifeng.com^
+||qczg1nsnvo.com^
 ||qd.x4399.com^
 ||qd38xgoin9.com^
 ||qdaily.com/mount_details/pc/
@@ -36703,6 +36711,7 @@ yydstxt*.com/js/html
 ||www.cloudyjacket.com^
 ||www.colamanga.com/counting
 ||www.dmhy.org^*.*?$image
+||www.fake-anything.com^
 ||www.ghxi.com/wp-content/plugins/core-ai-power/
 ||www.googletagmanager.com^
 ||www.googletagservices.com^
