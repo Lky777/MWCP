@@ -1,4 +1,4 @@
-## Mobile network ad filtering rules
+## Mobile web Ad filtering rules
 手机广告过滤规则
 
 [ Jsdelivr ](https://cdn.jsdelivr.net/gh/Lky777/MWCP@main/rules/MobiList.txt)
