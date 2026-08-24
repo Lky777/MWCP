@@ -3,6 +3,7 @@ set -euo pipefail
 
 sed -i '/##+js/!{/##\|#@#\|#\?#/d}' rules/matrix.txt
 sed -i '
+  /\[Adblock Plus 2\.0\]/d
   /^\/:\/\/.*/d
   /\/\\/d
   s/^\*\([\/._-]\)/\1/
