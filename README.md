@@ -1,15 +1,16 @@
-## Disruptive Online Content List
+## Mobile network ad filtering rules
+手机广告过滤规则
 
-[Jsdelivr link](https://cdn.jsdelivr.net/gh/Lky777/MWCP@main/rules/MobiList.txt)
+[ Jsdelivr ](https://cdn.jsdelivr.net/gh/Lky777/MWCP@main/rules/MobiList.txt)
 ```
 https://cdn.jsdelivr.net/gh/Lky777/MWCP@main/rules/MobiList.txt
 ```
 
-[HOSTS](https://raw.githubusercontent.com/Lky777/MWCP/main/rules/hosts) -- Additional network analysis
+[HOSTS](https://raw.githubusercontent.com/Lky777/MWCP/main/rules/hosts) -- Additional filtering rules
 
-Android Path
+Path
 ```bash
-/etc/hosts   # Permission: rw-r--r-- (reboot required after modification)
+/etc/hosts   # rw-r--r-- reboot
 ```
 
 ---
