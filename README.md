@@ -6,7 +6,7 @@
 https://cdn.jsdelivr.net/gh/Lky777/MWCP@main/rules/MobiList.txt
 ```
 
-[HOSTS](https://raw.githubusercontent.com/Lky777/MWCP/main/rules/hosts) -- Additional filtering rules
+[HOSTS](https://raw.githubusercontent.com/Lky777/MWCP/main/rules/hosts) -- Additional privacy rules
 
 Path
 ```bash
