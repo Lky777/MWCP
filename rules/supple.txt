@@ -41,6 +41,7 @@ v=2&adZones
 /1x1.
 /*_api.php?action=get
 /apnews.com/qgy/
+/cdn-cgi/rum?
 /cdn-cgi/speculation
 /index.php/ajax/hits?mid=
 /index.php/user/ajax_ulog/?ac=
@@ -53,7 +54,6 @@ v=2&adZones
 .com/api/models/
 .com/api/models?
 .com/api/v1/mediation/tracking?adUnit=
-.com/cdn-cgi/rum?
 .com/events/1/*?a=
 .com/jserror?type=
 .com/social-plugins/js/lib/sentry.
