@@ -1,5 +1,5 @@
-## Mobile web ad filtering rules
-手机广告过滤规则
+## Mobile web privacy rules
+手机隐私保护规则
 
 [ Jsdelivr ](https://cdn.jsdelivr.net/gh/Lky777/MWCP@main/rules/MobiList.txt)
 ```
