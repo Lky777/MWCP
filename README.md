@@ -19,7 +19,7 @@ Path
 
 ---
 
-### 💝 Support the Project
+### Support the Project
 
 If you find this project helpful, scan the WeChat QR code to support me. Thank you for your encouragement!
 
