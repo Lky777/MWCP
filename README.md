@@ -3,7 +3,7 @@
 
 > ⚠️ **Note:** This blocklist contains a large number of websites that have been mistakenly blocked. It is not suitable for daily use and is intended for cybersecurity analysis reference only. Professionals can filter out the mistakenly blocked URLs by invoking AI tools such as Gemini to improve the user experience.
 > 
-> **注意：** 规则含有大量被误拦截的网站，不适合日常使用，仅作为网络安全分析参考。专业人士可以通过调用 Gemini 等 AI 工具筛选出被误拦截的网址，提高准确率。
+> **注意：** 规则含有大量被误拦截的网站，不推荐日常使用，仅作为网络安全分析参考。专业人士可以通过调用 Gemini 等 AI 工具筛选出被误拦截的网址，提高准确率。
 
 [ Jsdelivr ](https://cdn.jsdelivr.net/gh/Lky777/MWCP@main/rules/MobiList.txt)
 ```
