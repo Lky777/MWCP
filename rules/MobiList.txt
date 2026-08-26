@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202608251941
-! Last modified: 25 Aug 2026 19:41 UTC
+! Version: 202608262147
+! Last modified: 26 Aug 2026 21:47 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -3206,6 +3206,7 @@ yydstxt*.com/js/html
 ||3k8.com/d/js/m/thea
 ||3kans.*/biquge_m/js/tools.js
 ||3ko1.com^
+||3lbqpzrlmz.com^
 ||3leap.com^
 ||3lift.com^
 ||3llzzztmz.com^
@@ -12916,7 +12917,6 @@ yydstxt*.com/js/html
 ||dlshimai.com^
 ||dlsybe78o0.com^
 ||dm*.yxlady.com^
-||dm.17xuexiba.com^
 ||dm.21hubei.com^
 ||dm.51okc.com^
 ||dm.66qw.net^
@@ -15049,7 +15049,6 @@ yydstxt*.com/js/html
 ||fctv33.com^
 ||fd5q27kyqb.com^
 ||fd6s5sa7ji.com^
-||fd80s.com/static/m.
 ||fdc-k.org^
 ||fdc.com.cn^*adv
 ||fdc.my0511.com^$script
@@ -15946,6 +15945,7 @@ yydstxt*.com/js/html
 ||fruitsfamily.com^
 ||frumspeak.com^
 ||frunkandtrunk.com^
+||frustum47.top^
 ||frustum77.top^
 ||frype.com^
 ||frzlftr9y.com^
@@ -18458,6 +18458,7 @@ yydstxt*.com/js/html
 ||hi2pv3e9pr.com^
 ||hi407ezyz.com^
 ||hi4c61mi8d.com^
+||hi6uqvisz9.com^
 ||hiad.myweb.hinet.net^
 ||hiad.vmall.com^
 ||hiao.com/node/node_27508.htm
@@ -23037,6 +23038,7 @@ yydstxt*.com/js/html
 ||loanwisecalculatoreasy.com^
 ||loath.org^
 ||lobehub.com^
+||lobhvxlikxbjju.com^
 ||lobid.org^
 ||loboclick.com^
 ||localau.vip/plugin/ad_
@@ -29673,6 +29675,7 @@ yydstxt*.com/js/html
 ||qmjth2940637fafa.com^
 ||qmoqruden.com^
 ||qmove.com^
+||qmtrnqp900.com^
 ||qmwxb.com/skins/2/images/qp001.gif
 ||qneb.cn^
 ||qnpy8bumnc.com^
@@ -30872,6 +30875,7 @@ yydstxt*.com/js/html
 ||rpharm.com^
 ||rphqsexfo.com^
 ||rphwjxzekcbzxu.com^
+||rpjjpm.site^
 ||rpow2.com^
 ||rpox.cn^
 ||rptools.net^
@@ -36327,6 +36331,7 @@ yydstxt*.com/js/html
 ||uz7w7bm4ns.com^
 ||uzdjvllpv.com^
 ||uzrtgekpw.com^
+||uzt7ud70j1.com^
 ||uzurliev.com^
 ||uzzf.com^
 ||v-flyer.com^
@@ -38107,6 +38112,7 @@ yydstxt*.com/js/html
 ||wruser.org^
 ||ws-app.com^
 ||ws.wenshenxiu.com^
+||ws9jdpz802.com^
 ||wsbits.com^
 ||wsbridge.com^
 ||wshufa.com^$third-party
@@ -38295,6 +38301,7 @@ yydstxt*.com/js/html
 ||x6d93mku0.com^
 ||x6img.com^$domain=picturedata.org
 ||x6u6kw4sg.com^
+||x7qhjjryf1.com^
 ||x7u4.com^
 ||x7weiubb2f.com^
 ||x8lab.org^
@@ -40036,6 +40043,7 @@ yydstxt*.com/js/html
 ||ziyangxs.com^
 ||ziye114.cn^
 ||ziyuanm.com/js/g11.js
+||zj5mqsb06x.com^
 ||zj7coeb5i.com^
 ||zjflf9epfe.com^
 ||zjg.js.cn/public/config/couplet/index4
