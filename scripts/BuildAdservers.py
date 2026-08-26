@@ -6,7 +6,9 @@ from pathlib import Path
 def filter_domains_by_pattern(domains):
     """过滤域名：只保留允许的后缀，排除特定后缀"""
     allowed_pattern = re.compile(r'\.(cn|com|in|io|net|org|top|xyz)$')
-    excluded_pattern = re.compile(r'\.(gov|edu|mil)\.cn$')
+    
+    # 排除特定后缀
+    excluded_pattern = re.compile(r'\.(gov|edu|mil)\.cn$|\.gov\.in$|\.edu\.in$|\.gov\.au$|\.europa\.eu$')
     
     return [
         domain for domain in domains
@@ -26,11 +28,11 @@ def process_domains():
     if current_file.exists():
         current_file.rename(old_file)
     
-    # 读取top100k-white.txt
+    # 读取基础白名单
     with open(source_dir / 'whitebasic-top100k.txt', 'r') as f:
         white_domains = {line.strip() for line in f if line.strip()}
     
-    # 1.对比top100k-white.txt,找出top100k独有行
+    # 1.对比whitebasic，找出top100k独有行
     filtered_domains = []
     with open(source_dir / 'top100k.txt', 'r') as f:
         for line in f:
