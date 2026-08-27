@@ -1,7 +1,7 @@
 name: Update Ad Filters
 on:
   schedule:
-    - cron: '08 19 * * *'  # UTC 19:08（Beijing 03:08）
+    - cron: '08 19 * * *'  # UTC 19:08（ Beijing 03:08 ）
   workflow_dispatch:
   push:
     paths:
