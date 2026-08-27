@@ -32,7 +32,6 @@ jobs:
         with:
           author_name: github-actions[bot]
           author_email: github-actions[bot]@users.noreply.github.com
-          default_author: user_info
           message: "Update MobiList"
           add: rules/MobiList.txt
           pull: '--rebase --autostash'
