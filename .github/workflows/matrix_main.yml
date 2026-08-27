@@ -1,4 +1,4 @@
-name: Update Mobilist
+name: Update MobiList
 on:
   schedule:
     - cron: '08 19 * * *'  # UTC 19:08（ Beijing 03:08 ）
@@ -33,7 +33,7 @@ jobs:
           author_name: github-actions[bot]
           author_email: github-actions[bot]@users.noreply.github.com
           default_author: user_info
-          message: "Update Mobilist"
+          message: "Update MobiList"
           add: rules/MobiList.txt
           pull: '--rebase --autostash'
           push: true
