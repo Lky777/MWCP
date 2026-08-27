@@ -14,10 +14,10 @@ jobs:
     
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v5
+        uses: actions/checkout@v7
 
       - name: Set up Python
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@v7
         with:
           python-version: '3.x'
 
@@ -30,25 +30,25 @@ jobs:
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
         run: |
-          python3 scripts/fetch_rankings.py
-          python3 scripts/BuildAdservers.py
+          python scripts/fetch_rankings.py
+          python scripts/generate_adservers.py
 
       - name: Commit and push changes
-        uses: EndBug/add-and-commit@v9
+        uses: EndBug/add-and-commit@v10
         with:
           author_name: github-actions[bot]
           author_email: github-actions[bot]@users.noreply.github.com
+          default_author: user_info
           message: "Update adservers.txt"
           add: |
             rules/adservers.txt
             rules/week-add.txt
             source/top100k.txt
-          detect_unchanged: true
+          pull: '--rebase --autostash'
           push: true
-          fetch: false
+          push_attempts: 3
 
       - name: Final cleanup
         if: always()
         run: |
-
           rm -rf rules/ scripts/ source/
