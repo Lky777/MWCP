@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202608271137
-! Last modified: 27 Aug 2026 11:37 UTC
+! Version: 202608271148
+! Last modified: 27 Aug 2026 11:48 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -19665,7 +19665,7 @@ yydstxt*.com/js/html
 ||img.0279.net^
 ||img.263y.com^
 ||img.3sjt.com^
-||img.alicdn.com/imgextra/i*/$domain=~aliyundrive.com
+||img.alicdn.com/imgextra/i*/$domain=~aliyun.com|aliyundrive.com
 ||img.eol.cn/images/ed/$~image
 ||img.ferlie.net^
 ||img.hanguomanhua.me/style2/Loading200x200.png
