@@ -287,7 +287,7 @@ _14c14p14v.js
 ! ============ Site-Specific Rules ============
 !
 ! Alibaba
-||img.alicdn.com/imgextra/i*/$domain=~aliyundrive.com
+||img.alicdn.com/imgextra/i*/$domain=~aliyun.com|aliyundrive.com
 |https://image.uczzd.cn/?id=
 |https://m.sm.cn/adclick?
 !
