@@ -24,7 +24,7 @@ jobs:
       - name: Run update script
         run: |
           python scripts/fixWhiteDomain.py
-          python scripts/generate_AdServers.py
+          python scripts/generate_adservers.py
 
       - name: Commit and push changes
         uses: EndBug/add-and-commit@v10
