@@ -1,4 +1,4 @@
-name: Update Ad Filters
+name: Update Mobilist
 on:
   schedule:
     - cron: '08 19 * * *'  # UTC 19:08（ Beijing 03:08 ）
@@ -18,6 +18,7 @@ jobs:
         uses: actions/checkout@v7
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 1
 
       - name: Run update script
         run: |
@@ -32,7 +33,7 @@ jobs:
           author_name: github-actions[bot]
           author_email: github-actions[bot]@users.noreply.github.com
           default_author: user_info
-          message: "Update filters"
+          message: "Update Mobilist"
           add: rules/MobiList.txt
           pull: '--rebase --autostash'
           push: true
@@ -40,8 +41,7 @@ jobs:
 
       - name: Refresh jsDelivr cache
         run: |
-          sleep 5
-          curl -sfL "https://purge.jsdelivr.net/gh/Lky777/MWCP/rules/MobiList.txt" || true
+          curl -Ls -X GET "https://purge.jsdelivr.net/gh/Lky777/MWCP/rules/MobiList.txt"
 
       - name: Final cleanup
         if: always()
