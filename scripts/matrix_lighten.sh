@@ -1,21 +1,19 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-sed -i '/##+js/!{/##\|#@#\|#\?#/d}' rules/matrix.txt
-sed -i '/^\[Adblock Plus 2\.0/Id' rules/matrix.txt
 sed -i '
+  /##+js/!{/##\|#@#\|#\?#/d}
   /^\/:\/\/.*/d
   /\/\\/d
   s/^\*\([\/._-]\)/\1/
   s/\/\*$/\//
-  /###cxense-recs-in-article/d
-  /##\.embed-responsive-trendmd/d
-  /removeparam/d
-  /\$ping$/d
-  /^\$websocket,domain/d
- ' rules/matrix.txt
-sed -i '
   /\/ad\/\|\/ads\// {
      /@@\|~/!d
    }
- ' rules/matrix.txt
+  /removeparam/d
+  /\$ping$/d
+  /^\$websocket,domain/d
+  /^\[Adblock Plus 2\.0/Id
+  /###cxense-recs-in-article/d
+  /##\.embed-responsive-trendmd/d
+' rules/matrix.txt
