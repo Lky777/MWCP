@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202609010934
-! Last modified: 01 Sep 2026 09:34 UTC
+! Version: 202609012143
+! Last modified: 01 Sep 2026 21:43 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -3920,6 +3920,7 @@ yydstxt*.com/js/html
 ||6kea.com^
 ||6knlhnjfv.com^
 ||6kpudsordv.com^
+||6lcb0f6wt.com^
 ||6lpm5zq6t3.com^
 ||6mdf9teiz.com^
 ||6mdgv1kmj.com^
@@ -4104,6 +4105,7 @@ yydstxt*.com/js/html
 ||7nkznc.com^
 ||7npxm2prd.com^
 ||7p5ruxflv0.com^
+||7pe17z68y.com^
 ||7post.com^
 ||7q2701vx8e.com^
 ||7qkm33t55.com^
@@ -21610,6 +21612,7 @@ yydstxt*.com/js/html
 ||k-var.com^
 ||k0401.com^
 ||k06kldksi3.com^
+||k0b9nwt6d.com^
 ||k0jw6qzyh.com^
 ||k0s.io^
 ||k0tdrkbhx.com^
@@ -26631,7 +26634,6 @@ yydstxt*.com/js/html
 ||normanfosterfoundation.org^
 ||norotila.com^
 ||norotors.com^
-||norse.mingxiaow.com^
 ||norstatsurveys.com^
 ||northamptonuncommon.com^
 ||northcarolinaresidentdatabase.com^
@@ -38570,6 +38572,7 @@ yydstxt*.com/js/html
 ||xcar.com.cn/bbs/adfocus.js
 ||xcar.com.cn/dsp/ad
 ||xcc.com^
+||xcdacc.com^
 ||xcditu.com^
 ||xcf-bd-js.chuimg.com^
 ||xchina.*/plugins/jquery.modal/
