@@ -11,12 +11,13 @@
 .com:901/cc/*?*=
 .com:901/d/*?*=
 .com:901/sc/*?*=
-.?:800?/cc/*?*=
-.?:800?/d/*?*=
-.?:800?/sc/*?*=
-.?:9189/cc/*?*=
-.?:9189/d/*?*=
-.?:9189/sc/*?*=
+.com:800?/cc/*??=
+.com:800?/d/*??=
+.com:800?/sc/*??=
+.com:9189/cc/*??=
+.com:9189/d/*??=
+.com:9189/sc/*??=
+.lifestyle:8283/*?*=
 .live:7891/
 .live:8891/
 .live:9896/
@@ -41,10 +42,13 @@ v=2&adZones
 /popup/adblock/promo/banner/
 /static/upload/adsbanner/
 .com/addnew.php
+.com/api/ad/page
 .com/api/banner/banner_list
 .com/api/models/
 .com/api/models?
+.com/api/send
 .com/api/v1/mediation/tracking?adUnit=
+.com/apijs/image/
 .com/events/1/*?a=
 .com/jserror?type=
 .com/social-plugins/js/lib/sentry.
@@ -83,6 +87,7 @@ _ads.html?
 /static/ads/js/adm.js
 /telegram-loader.js?
 /trackad.js
+/uni-ggs.js?version=
 /videojs.ads.min.js
 /widgets/Spot/lib.js
 .com/1987.js
@@ -94,6 +99,7 @@ _ads.html?
 .com/js/ad-units.js
 .com/js/dom.js
 .com/js/exopop.js
+.com/mvp1p.js
 .com/Scripts/idleAD.js
 .com/Scripts/LogTracer.js
 .com/static/js/action.js
@@ -186,8 +192,10 @@ _14c14p14v.js
 ||ad.scdn.io^
 ||ad.setn.com^
 ||ubas.setn.com^
+||track.sohu.com^
 ||collector.xhamster.com^
 ||rtb-2.xgroovy.com^
+|cmhtsc.xn--czru2dx3eszw3lat53b.com^
 ||analytics.yahoo.com^
 ||mc.yandex.ru^
 ||collect.zbstatic5.com^
@@ -209,6 +217,7 @@ _14c14p14v.js
 ||googletagservices.com^
 ||jads.co^
 ||magsrv.com^
+||kra7a09cv.com^
 ||popin.cc^
 ||popin.tw^
 ||tagtoo.co^
@@ -224,12 +233,15 @@ _14c14p14v.js
 ! ================ TEMP ================
 !
 @@||hj260302818.top^
+@@||imgclh.com^
 @@||jjlxoi.cn^
 @@||vkjyoi.cn^
 @@||sbzytpimg5.com^
+@@||tsbfask.com^
 @@||hls.dscxru.cn^
 @@||yd-hls.utxxds.cn^
 @@||pic.xmbvxj.cn^
+@@||pic.xustgq.cn^
 ||2659457eecc77fa00comprelu.cc^
 ||500outenterprises.net^
 ||ah7907.com^
@@ -243,6 +255,7 @@ _14c14p14v.js
 ||cloudyjacket.com^
 ||comprelu.cc^
 ||downrightfootball.com^
+||dsygc.com^
 ||duxlpoavm.in^
 ||easrv.cl^
 ||ehh91kb6ic.com^
@@ -282,8 +295,9 @@ _14c14p14v.js
 ||yellowishgather.com^
 ||yronesefurther.org^
 !
-! ======== Website path-based ========
+! ======== W ========
 !
+@@||cloudfront.net^$domain=nytimes.com
 ! ============ Site-Specific Rules ============
 !
 ! Alibaba
@@ -368,6 +382,8 @@ https://cyppt.com/novel/js/wp-embed.min.js?
 |https://tj.doubaomanhua.com/api/send
 |https://doubaomanhua.com/index/ajax/pv
 |https://doubaomanhua.com/assets/js/pv.js
+|https://www.dpsp1.com/static/js/tj.js
+|https://www.dpsp1.com/apijs/lunbo/lunboding.js?v=
 |https://guazimanhua.com/assets/metrics/daily-hot.js?
 |https://hanguomanhua.me/cache.js
 |https://hanguomanhua.me/style2/001.gif
@@ -378,6 +394,7 @@ https://cyppt.com/novel/js/wp-embed.min.js?
 ||link.mzlinks.com/js/*.manhua
 ||ravenscans.com/wp-content/themes/mangareader/assets/img/btn_close.gif
 ||ravenscans.com/wp-content/themes/mangareader/assets/img/readerarea.svg
+|https://tj.sniuw.com/script.js
 ||veryim.com/js/z.manhua
 |https://veryim.com/template/veryim/js/tongji.js?
 |https://veryim.com/template/veryim/qtjs/bottom.js
