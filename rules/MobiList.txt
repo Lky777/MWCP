@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202608312310
-! Last modified: 31 Aug 2026 23:10 UTC
+! Version: 202609010934
+! Last modified: 01 Sep 2026 09:34 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -46,12 +46,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 -bobo_recommend_
 .189.gd^*.html?p=$popup,third-party
 .194007.com/4058.gif
-.?:800?/cc/*?*=
-.?:800?/d/*?*=
-.?:800?/sc/*?*=
-.?:9189/cc/*?*=
-.?:9189/d/*?*=
-.?:9189/sc/*?*=
 .bt*.com/imgs.js?t=
 .buzz/*=$object,third-party
 .cc/apijs/image/
@@ -79,10 +73,13 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/addnew.php
 .com/adgpt.js
 .com/adv1/?q=
+.com/api/ad/page
 .com/api/banner/banner_list
 .com/api/models/
 .com/api/models?
+.com/api/send
 .com/api/v1/mediation/tracking?adUnit=
+.com/apijs/image/
 .com/beacon.js
 .com/co/$domain=1anime.me
 .com/code.php?a=index&z=$script,third-party,xmlhttprequest
@@ -133,6 +130,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/logo/logo.js
 .com/logo/logoxia.js
 .com/mediacontroller.php?pid=$script,third-party
+.com/mvp1p.js
 .com/myjs/alljs.js
 .com/myjs/mys_alljs.js
 .com/piaozi/*.js
@@ -172,11 +170,17 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/zz/yd2.js
 .com:12289/$script,third-party
 .com:26579/
+.com:800?/cc/*??=
+.com:800?/d/*??=
+.com:800?/sc/*??=
 .com:901/cc/*?*=
 .com:901/d/*?*=
 .com:901/sc/*?*=
 .com:91/runtime/js/pscreat.js
 .com:9120/discor_list.js
+.com:9189/cc/*??=
+.com:9189/d/*??=
+.com:9189/sc/*??=
 .gif|$domain=7mshipin.org|viidii.info
 .gif|$domain=99re.com
 .html?android=hx*&_$csp=script-src
@@ -190,6 +194,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .k618.cn/sytab/
 .k618.cn/zbggw/
 .la/style/vue.js?v=
+.lifestyle:8283/*?*=
 .live/o.js$script,third-party
 .live:7891/
 .live:8891/
@@ -942,6 +947,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /ty684.oss-
 /u/_sponsor/
 /uc123_no/*/index/js/activity.
+/uni-ggs.js?version=
 /uniontgm.cmb.
 /upload/site/tbgg/*.gif
 /upload/vod/2018-08-05/201808051533458526.png
@@ -1461,6 +1467,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||citytalk.tw/js/ct/common/v3/ui/fblike/fblike.html
 @@||cloudflare.com/ajax/libs/fuckadblock/$domain=seselah.com
 @@||cloudflare.net^$script,domain=colamanga.com
+@@||cloudfront.net^$domain=nytimes.com
 @@||club.tgfcer.com^$generichide
 @@||cmbc.com.cn^*ads/
 @@||cmbchina.com/ads/
@@ -1682,6 +1689,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||imfeifan.com/adv/$~third-party
 @@||img.ads.tvb.com^
 @@||img4399.com/static/huodong/daily/fpv2.js
+@@||imgclh.com^
 @@||imydl.com^$generichide
 @@||inoreader.com^$genericblock,generichide
 @@||inpad.com.tw/data/adv/
@@ -1851,6 +1859,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||pg-wuming.com^$generichide
 @@||piaotia.com/scripts/readindex/tongji.js
 @@||pic.xmbvxj.cn^
+@@||pic.xustgq.cn^
 @@||piccool.com/2home/phpadsnew/
 @@||pinduoduo.com/advert/$~third-party
 @@||pingan.com^*/rrweb-record-
@@ -2009,6 +2018,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||translate.googleapis.com/translate_
 @@||trip-jam.com/resources/js/adsense.js
 @@||trip.cmbchina.com^$generichide
+@@||tsbfask.com^
 @@||tsyndicate.com/sdk/v1/n.js$domain=hpjav.tv
 @@||tt1069.com/adbrite.js
 @@||tt1069.com/ads.js
@@ -2162,6 +2172,7 @@ wss://*/api/wss/getnotreadcount$third-party
 yqhd8.com###jhb
 yydstxt*.com/js/cdn.
 yydstxt*.com/js/html
+|cmhtsc.xn--czru2dx3eszw3lat53b.com^
 |http:$script,subdocument,third-party,domain=dlkoo.cc
 |http://*.hk/ad/$domain=~sunmobile.com.hk
 |http://*.tw/ad/$domain=~ruten.com.tw
@@ -2208,10 +2219,13 @@ yydstxt*.com/js/html
 |https://sobt18.icu/Public/static/js/common.js?
 |https://tieba.baidu.com/mo/q/newgetweixintoken?
 |https://tj.doubaomanhua.com/api/send
+|https://tj.sniuw.com/script.js
 |https://unpkg.zhimg.com/@cfe/sentry-script@
 |https://veryim.com/template/veryim/js/tongji.js?
 |https://veryim.com/template/veryim/qtjs/bottom.js
 |https://www.99re.com/player/html.php?
+|https://www.dpsp1.com/apijs/lunbo/lunboding.js?v=
+|https://www.dpsp1.com/static/js/tj.js
 |https://www.pornbest.org/site/stat?
 |https://xchina.co/scripts/push.js?
 |https://xchina.fit/ajax.php
@@ -4553,6 +4567,7 @@ yydstxt*.com/js/html
 ||9tata.com/js/rand.js
 ||9tata.com/js/topxia.js
 ||9tata.com/js/www.js
+||9tlfy3rrh.com^
 ||9tour.cn/x2/images/czmf.jpg
 ||9trx.com^
 ||9ts82aipzd.com^
@@ -8597,6 +8612,7 @@ yydstxt*.com/js/html
 ||bjfk120.net^
 ||bjgswyxy.com^
 ||bjhockey.org/public/pc/video/test.mp4
+||bjj02sf4c.com^
 ||bjjbhh.com^
 ||bjjsgy.com^
 ||bjk08210ip.com^
@@ -13588,6 +13604,7 @@ yydstxt*.com/js/html
 ||dsvplay.com^
 ||dswdfafed2.xyz^
 ||dswenku.com^
+||dsygc.com^
 ||dszvvdcmzxztte.com^
 ||dt-club.net^
 ||dt97191.com^
@@ -18096,6 +18113,7 @@ yydstxt*.com/js/html
 ||hackhw.com/ckjs/
 ||hackneytree.com^
 ||hackp.com/im/
+||hacksaw37.com^
 ||hacksmart.org^
 ||hackvshack.net^
 ||hades.qyer.com^
@@ -22224,6 +22242,7 @@ yydstxt*.com/js/html
 ||kqmz0ym0fo.com^
 ||kr1cbkoow.com^
 ||kr3x.com^
+||kra7a09cv.com^
 ||krakenman.com^
 ||krakenofflinks.com^
 ||kramerlevin.com^
@@ -22408,6 +22427,7 @@ yydstxt*.com/js/html
 ||l5pv793tm.com^
 ||l6906qxga.com^
 ||l6h17ybxe.com^
+||l8opsdgim.com^
 ||l9moubljmc.com^
 ||l9qxrmda6.com^
 ||la-becanerie.com^
@@ -35428,6 +35448,7 @@ yydstxt*.com/js/html
 ||tra-eo.com^
 ||tracewisp.com^
 ||track-adsapi.com^
+||track.sohu.com^
 ||trackbase.net^
 ||trackeame.com^
 ||trackedlink.net^
@@ -38422,6 +38443,7 @@ yydstxt*.com/js/html
 ||wwwcdn.kimiss.net/btn/
 ||wwzw.cc/img/
 ||wx.sina.com.cn/iframe/pdps/
+||wx33a.com^
 ||wx6hczwhh.com^
 ||wx74.net^
 ||wx84.net^
@@ -39064,6 +39086,7 @@ yydstxt*.com/js/html
 ||xvjib2940637fafa.com^
 ||xvxyi2940637fafa.com^
 ||xw93.com^
+||xwafyzovqu.icu^
 ||xwcm.net/caches/ahm.
 ||xwdsp.com^
 ||xwis.net^
