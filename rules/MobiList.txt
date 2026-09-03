@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202609022145
-! Last modified: 02 Sep 2026 21:45 UTC
+! Version: 202609032140
+! Last modified: 03 Sep 2026 21:40 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -110,7 +110,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/js/ad-provider.js
 .com/js/ad-units.js
 .com/js/ad_
-.com/js/addp.js
 .com/js/alls_foot.js
 .com/js/alls_top.js
 .com/js/bnnr_
@@ -256,7 +255,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .xyz/?channelcode=$csp=script-src
 .xyz/api/v1/collect
 .xyz/getAdsData
-.xyz/js/addp.js
 .xyz/jt.php?
 .xyz/o.js$script,third-party
 .xyz/tracker.js
@@ -309,6 +307,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /993dy_new//gg123/
 /99rejs/js/adv
 /99vjj/*$third-party
+/_next/static/chunks/00zo5_naxp4vi.
 /a-duoduo/add-
 /a-tian/tian-*-good.js
 /a/p?adid=
@@ -377,7 +376,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /apnews.com/qgy/
 /app/pcbanner/getbannerconfig/v2
 /app_ad/slade.js
-/appapi/jjlist.php
 /appnei-huodong.oss-
 /apps/misc.php?action=advert&
 /artplayer-plugin-ads.js
@@ -1079,7 +1077,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 :866/o.js$script,third-party
 :88/999pc/
 :88/lighttpd/default/
-:8888/js/cctv.js
 :8888/mb1/pc_
 :8888/mb1/wap_
 :8888/zhu/pc_
@@ -2282,7 +2279,6 @@ yydstxt*.com/js/html
 ||0579.cn/show/showplacenew.aspx
 ||0592.mobi^
 ||0598yu.com/api.php?mod=ad&
-||0606kk.com/js/index/index.js
 ||063rpyn37z.com^
 ||06789.xyz^
 ||067oij53m.com^
@@ -2343,6 +2339,7 @@ yydstxt*.com/js/html
 ||0l7t5qhb4.com^
 ||0lai5bvkg.com^
 ||0m9mjmrd.top^
+||0mkeb9vth.com^
 ||0nyzdw2maq.com^
 ||0o0.ooo/2017/01/13/58787d42bbad6.jpg
 ||0oi1ej7mo.com^
@@ -3805,6 +3802,7 @@ yydstxt*.com/js/html
 ||600riders.com^
 ||602cs.com^
 ||60310248.xyz^
+||605abezk8.com^
 ||606403751.xyz^
 ||6080.tv/public/js/m/uaredirectformobile.js
 ||6080aa.com/template/*/images/g_js/
@@ -9622,6 +9620,7 @@ yydstxt*.com/js/html
 ||c1km4.com/mobile/app.js
 ||c1qm3mg41.com^
 ||c2000.cn/c2000/
+||c2vodqlmy.com^
 ||c2y82fkyv.com^
 ||c321.cn^
 ||c3mldou51.com^
@@ -11905,6 +11904,7 @@ yydstxt*.com/js/html
 ||csttwl.com^
 ||cstupincubationcentre.com^
 ||cszpra.com^
+||cszpra.com^*.gif
 ||ct-bt.com^
 ||ctadns.cn^
 ||ctaehko.com^
@@ -14563,6 +14563,7 @@ yydstxt*.com/js/html
 ||envmart.com^
 ||enwuw.com^
 ||enwuwk.com^
+||enwwlcrxi.com^
 ||enxutxt.com^
 ||enzazaden.com^
 ||enzf.cn^
@@ -16230,6 +16231,7 @@ yydstxt*.com/js/html
 ||fsu1cg19c.com^
 ||fsuniverse.net^
 ||fsuzw.com^
+||fsxqfjkg.com^
 ||fsyjssd.com^
 ||fsznrq.com^
 ||ft.com/a.html
@@ -21873,6 +21875,7 @@ yydstxt*.com/js/html
 ||kellycookiecompany.com^
 ||kellyhayes.com^
 ||kelpraticien.com^
+||kelv47.xyz^*.gif
 ||kelvario.xyz^
 ||kelvion.com^
 ||kempstoncontrols.com^
@@ -28581,6 +28584,7 @@ yydstxt*.com/js/html
 ||pincai.com^
 ||pincai.com^$third-party
 ||pincali.com^
+||pincers55.com^
 ||pinchito.com^
 ||pincolor.com^
 ||pindiy.com^
@@ -30552,6 +30556,7 @@ yydstxt*.com/js/html
 ||reflection67.top^
 ||reflectionsoft.com^
 ||reflectiveconcepts.com^
+||reflector19.com^
 ||refluxbook.com^
 ||refpa14882.com^
 ||refpa32010.com^
@@ -31278,6 +31283,7 @@ yydstxt*.com/js/html
 ||rxspark.com^
 ||rxys.cn^
 ||rxzefz.icu^
+||rxzfhfmoegfvts.com^
 ||ry.net.cn^
 ||ry7icaih0p.com^
 ||ryallsheridan.com^
@@ -32687,6 +32693,7 @@ yydstxt*.com/js/html
 ||skywatchtvstore.com^
 ||sl-forums.com^
 ||sl.al/gdrive/pic/*.gif
+||sl2qzbsn5.com^
 ||slaati.com^
 ||slabstitcher.com^
 ||slambooks.in^
@@ -35412,6 +35419,7 @@ yydstxt*.com/js/html
 ||towboattour.com^
 ||tower-ldn.com^
 ||towfigh.net^
+||towm85.xyz^*.gif
 ||townsandvillagesofusa.com^
 ||toxepop.com^
 ||toyark.com^
@@ -36201,6 +36209,7 @@ yydstxt*.com/js/html
 ||uiuahkimd.com^
 ||uj08lr3rv.com^
 ||uj2h8xm8w.com^
+||uj6i2bo3o.com^
 ||ujamsrv.com^
 ||ujfyzxfc01.com^
 ||ujhu.cn^
@@ -37747,6 +37756,7 @@ yydstxt*.com/js/html
 ||wei2008.com/js/*0.
 ||wei2008.com/js/t_
 ||wei2008.com/skin/js/top.js
+||weiakbtck.com^
 ||weiap8.com^
 ||weibo.cn/status/banner?
 ||weibo.com/ajax/feed/gettipsad?
@@ -40221,6 +40231,7 @@ yydstxt*.com/js/html
 ||zhideedu.com^
 ||zhifouxs.com^
 ||zhifuok.com/19xa.jpg
+||zhifupaypay.com^
 ||zhifuz10888.com^
 ||zhihu.com/api/*banners/
 ||zhihu.com/api/v4/brand/question/*/card
@@ -40516,7 +40527,6 @@ yydstxt*.com/js/html
 ||zumnervl.com^
 ||zundert-extreme.com^
 ||zunmi.com^
-||zuofang05.com/template/mytheme/statics/image/1/
 ||zuowen.hydcd.com^
 ||zuoyebang.cc/static/question/question/resource/qrcode_
 ||zuoyebang.cc/zyb_4953cbb8a9a2332469592196c056a906.jpg
