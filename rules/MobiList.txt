@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202609032140
-! Last modified: 03 Sep 2026 21:40 UTC
+! Version: 202609042123
+! Last modified: 04 Sep 2026 21:23 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2361,6 +2361,7 @@ yydstxt*.com/js/html
 ||0wdb.com^
 ||0wk6gdkg8r.com^
 ||0wpfe0duo.com^
+||0x79jjyph7.com^
 ||0x7c0.com^
 ||0xmd.com^
 ||0xr7ii3df.com^
@@ -7396,6 +7397,7 @@ yydstxt*.com/js/html
 ||avovpn.com^
 ||avple.video/asset/bann.js
 ||avpr.cn^
+||avqb7vrufi.com^
 ||avsbuyersguide.org^
 ||avseesee.com/amandison.php
 ||avseesee.com/htmls/vlinks.html
@@ -11697,6 +11699,7 @@ yydstxt*.com/js/html
 ||cpxsurveys.com^
 ||cpxzyul.com^
 ||cq2f5kn85c.top^
+||cq5nsp7kya.com^
 ||cqg.com^
 ||cqmaocloud.com^
 ||cqmaolink.com^
@@ -18861,6 +18864,7 @@ yydstxt*.com/js/html
 ||hjjwxb.icu^
 ||hjkhxfh.360doc.cn^
 ||hjlni2940637fafa.com^
+||hjlra23r7r.com^
 ||hk-allchips.com^
 ||hk-pub.com/forum/images/2009/gifbanner
 ||hk-pub.com/forum/images/banner/
@@ -25505,6 +25509,7 @@ yydstxt*.com/js/html
 ||mudankeche.com^
 ||muddl4h0.xyz^
 ||muddyclock.pro^
+||mudguard68.com^
 ||muebleriasdelportal.com^
 ||mueblesdecasa.net^
 ||muelara.com^
@@ -28082,6 +28087,7 @@ yydstxt*.com/js/html
 ||paviliongift.com^
 ||pavlopoulos-lab.org^
 ||pavwrr.icu^
+||pavxtxikkjrdfy.com^
 ||pawloveprint.com^
 ||paxrepublica.net^
 ||pay-gate.io^
@@ -34074,8 +34080,6 @@ yydstxt*.com/js/html
 ||sz5e.com^
 ||sz88.oss-cn-shenzhen.aliyuncs.com^
 ||szabo-scandic.com^
-||szaction.cc/public/*/assets/js/custom/tt.
-||szaction.cc/public/*/plugins/
 ||szbnb3wmaj.com^
 ||szcyd.top^
 ||szfable.com^
@@ -38486,6 +38490,7 @@ yydstxt*.com/js/html
 ||wyblaw.com^
 ||wydk6zdk2.com^
 ||wyfjagda.top^
+||wylct1tjdf.com^
 ||wyldcatalog.org^
 ||wyomingnewspapers.org^
 ||wyqqanziid.com^
@@ -38542,6 +38547,7 @@ yydstxt*.com/js/html
 ||x69zw.net^
 ||x6d93mku0.com^
 ||x6img.com^$domain=picturedata.org
+||x6kd8l204b.com^
 ||x6u6kw4sg.com^
 ||x7qhjjryf1.com^
 ||x7u4.com^
