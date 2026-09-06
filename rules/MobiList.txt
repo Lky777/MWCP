@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202609052109
-! Last modified: 05 Sep 2026 21:09 UTC
+! Version: 202609060414
+! Last modified: 06 Sep 2026 04:14 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2122,6 +2122,7 @@ _yad_jsonp_
 a2zapk.co###modalpop
 a2zapk.dev###modalpop
 a2zapk.io###modalpop
+ad.newaddiscover.com
 baidu.com/heicha/mm/2027/acs-2027.js?
 baidu.com/mo/q/recommendpb/
 coolinet.net###videoPostContent>p
@@ -10139,6 +10140,7 @@ yydstxt*.com/js/html
 ||cctv567.com/b/
 ||cctvpic.com/photoalbum/templet/common/*/game_
 ||ccyp.com^
+||cczo7vq6dl.com^
 ||cdash.org^
 ||cdclouddev.com^
 ||cdd11.xyz^
@@ -10222,7 +10224,6 @@ yydstxt*.com/js/html
 ||cdnppp789.com^
 ||cdnppp889.com^
 ||cdnshm.com^
-||cdnshu.com^
 ||cdntxt.com/m1/
 ||cdntxt.com/node/doit.
 ||cdntxt.com/t1/
@@ -13190,6 +13191,7 @@ yydstxt*.com/js/html
 ||dm.wenshenxiu.com^
 ||dm.zjut.cc^
 ||dm.zuowenku.net^
+||dm03ef9xf1.com^
 ||dm1.ddwk8.cn^
 ||dm1.zjydt.com^
 ||dm5900.com/piao/
@@ -21579,6 +21581,7 @@ yydstxt*.com/js/html
 ||jwsuperthemes.com^
 ||jwt18trhq.com^
 ||jwtqd.com^
+||jwxggyivum.icu^
 ||jwxwvjsoadjlze.com^
 ||jxad.jx163.com^
 ||jxal.cn^
@@ -23546,6 +23549,7 @@ yydstxt*.com/js/html
 ||ltk.com^
 ||ltn.com.tw/impression?
 ||ltn.com.tw/js/ad_door.js
+||ltnkpzlinptlde.com^
 ||ltool.net^
 ||ltrb.cn^
 ||ltrs8bv54p.com^
@@ -30433,7 +30437,6 @@ yydstxt*.com/js/html
 ||readlink.com^
 ||readmessl.com^
 ||readmetro.com^
-||readnovel.com^
 ||readpeak.com^
 ||readrate.com^
 ||readsoftonline.com^
@@ -39322,6 +39325,7 @@ yydstxt*.com/js/html
 ||y673shtv.xyz^
 ||y6a7ap3io3.com^
 ||y6p7022ep4.com^
+||y84shrg6ui.com^
 ||y89fjgm3vc.com^
 ||y9oog9hyuo.com^
 ||ya*.dwstatic.com^
