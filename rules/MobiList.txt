@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202609082147
-! Last modified: 08 Sep 2026 21:47 UTC
+! Version: 202609092139
+! Last modified: 09 Sep 2026 21:39 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -11,7 +11,7 @@
 ##.van-overlay
 ##.van-popup--center
 $csp=script-src 'self' * 'unsafe-inline',domain=156xsbb.com|ltbook.net|shuhaige.net|ygshu.com|kbook8.com|yemancomic.com|erciyan.com|feiguaks.com|iqmxs.cc|hshfm.com|xbiqige.cc|1qxs.com|xddxsw.net|bisowu.net|zyywenxue.com|xiakezw.com|biqul.com|biqugeks.org|girlsoncam.net|japonfilmleri.com|minaeast.net|shumi.la|59xs.com|biqugen.com|8181zw.vip|biqugequ.org|69shumi.com|fxxs3.com|efuxs.com|i3book.com|genbiquge.com|quanbiqu.com|pinshu.org|13xsw.com|bbiquge.cc|taobiquge.com|haijiaobooksw.top|zlobin.net|piaotianxiaoshuo.com|jvbiquge.com|vipbiquge.com|jpbqg7.com|zuizhong.net|oldtimeswx.org|5book.cc|softtechsolution.org|product44.com|snxsw.com|xiexinde.net|m.6666xsw.com|m.niupizhi.net|jmshuwu.net|wodexiaoshuoh.com|tetservices.net|haitangsoshu.org|4hrz.net|x33yq.org|56xiaoshuo.net|novelser.com|ykxs.cc|biqudd.com|diyibanzhu44444.com|dbrxs.org|kaixindu.net|1ingatlan.net|gaofuwu.org|yushuwu.cloud|yswxs.com|biquge2345.com|dingdian911.com|bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|aidu123.com|biquluo.info|bqgh.com|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com|zk01.net
-$csp=script-src 'self' * 'unsafe-inline',domain=bijiyd.com|7zhens.com|wamuku.cc|scmmxs.com|jinduxs.com|buhesw.com|luenbook.cc|zahubook.com|heciwk.com|quhesw.com|erzuwk.com|bowoxs.com|guashuge.com|mudanxs.com|mzbook.cc|haduks.com|caimozw.com|zaaizw.com|bogeks.com|haxu8.com|pucixs.com|tuqisw.com|xueyisw.com|zuye8.com|yawoxs.com|guwoxs.com|jiufuzw.com|beianxs.com|shuying6.com|mafusw.com|cule9.com|riquzw.com|xingksw.com|enbusw.com|ruyisw.com|zuxiku.com|jinmusb.com|hunshuge.com|puyewk.com|kaaiwk.com|hadu520.com|qubosw.com|meisibook.com|cuaizw.cc|boxue8.cc|cipubook.com|ququsk.cc|yiyezao.com|shanhuxs.com|jiutusw.com|chahuax.com|hanziwen.com|haduzw.com|modaoshu.com|nipubook.com|puquz.com|wuwusk.com
+$csp=script-src 'self' * 'unsafe-inline',domain=bijiyd.com|7zhens.com|wamuku.cc|scmmxs.com|jinduxs.com|buhesw.com|luenbook.cc|zahubook.com|heciwk.com|quhesw.com|erzuwk.com|bowoxs.com|guashuge.com|mudanxs.com|mzbook.cc|haduks.com|caimozw.com|zaaizw.com|bogeks.com|haxu8.com|pucixs.com|tuqisw.com|xueyisw.com|zuye8.com|yawoxs.com|guwoxs.com|jiufuzw.com|beianxs.com|shuying6.com|mafusw.com|cule9.com|xingksw.com|enbusw.com|ruyisw.com|zuxiku.com|jinmusb.com|hunshuge.com|puyewk.com|kaaiwk.com|hadu520.com|qubosw.com|meisibook.com|cuaizw.cc|boxue8.cc|cipubook.com|ququsk.cc|yiyezao.com|shanhuxs.com|jiutusw.com|chahuax.com|hanziwen.com|haduzw.com|modaoshu.com|nipubook.com|puquz.com|wuwusk.com
 $csp=script-src 'self' * 'unsafe-inline',domain=smsonline.cloud
 $csp=script-src 'self' *,domain=yebiquge.com|zduxs.com|90shuyuan.com|sswwxs.com|akexs.com|qimiaoxs.cc|qimiaoxiaoshuo.com|wuwxs.com|biquge678.com|biqugezw.us
 $domain=ads.adxadserv.com|adserver.juicyads.com|cs.adxpansion.com|olmsoneenh.info|static.javhd.com|syndication.exosrv.com
@@ -3407,6 +3407,7 @@ yydstxt*.com/js/html
 ||4399.com/loadimg/iframe_
 ||4399.com/loadimg/loading.htm
 ||4399sj.com^*/mask-ad
+||43gu7zzn0.com^
 ||43y3q8h5mz.com^
 ||440012.xyz/js/wapm.js
 ||440forums.com^
@@ -3696,6 +3697,7 @@ yydstxt*.com/js/html
 ||559518.com^
 ||55990.cn^
 ||55kp.app/aini.
+||55nw8b63i.com^
 ||55sky.com/js/diecuo/
 ||55ting.com^
 ||55tvs.org^
@@ -7435,6 +7437,7 @@ yydstxt*.com/js/html
 ||axminstertools.com^
 ||axolab.org^
 ||axonixgrid.com^
+||axq9j15p0.com^
 ||axsome.com^
 ||axutongxue.*/js/yes.
 ||axvdata.com^
@@ -16662,6 +16665,7 @@ yydstxt*.com/js/html
 ||geargamingstore.com^
 ||gearmusthave.com^
 ||gearsme.com^
+||geav5man0.com^
 ||gebojy.com^
 ||geckad.com^
 ||geckwiki.com^
@@ -20666,6 +20670,7 @@ yydstxt*.com/js/html
 ||j0ke.net^
 ||j0saeheja5.com^
 ||j1.piaobing.com^
+||j12eaw9xs.com^
 ||j1bla75rck.com^
 ||j1s956aee8.com^
 ||j23ab474.com^
@@ -26788,6 +26793,7 @@ yydstxt*.com/js/html
 ||npidb.org^
 ||npinumberlookup.org^
 ||npiprofile.com^
+||nplsxlziftfbnk.com^
 ||nprouwen.org^
 ||nprstations.org^
 ||npunr.cn^
@@ -29317,6 +29323,7 @@ yydstxt*.com/js/html
 ||promptwatch.com^
 ||pronorobots.xyz^
 ||propagate44.top^
+||propeller73.com^
 ||propellerads.com^
 ||propensity-abm.com^
 ||properstar.com^
@@ -35095,6 +35102,7 @@ yydstxt*.com/js/html
 ||tlmtr.io^
 ||tln-earn.top^
 ||tlq8ufqddj.com^
+||tlre4aso7.com^
 ||tlsautorecycling.com^
 ||tlswellness.com^
 ||tlula507.com/public/js/dui
@@ -38791,6 +38799,7 @@ yydstxt*.com/js/html
 ||xlviiirdr.com^
 ||xlviirdr.com^
 ||xlviirdr.com^
+||xlx2ddw4f.com^
 ||xm200.com^
 ||xmanhua.com^
 ||xmarksthescot.com^
