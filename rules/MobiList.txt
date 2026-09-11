@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202609102134
-! Last modified: 10 Sep 2026 21:34 UTC
+! Version: 202609112140
+! Last modified: 11 Sep 2026 21:40 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -881,6 +881,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /static/js/gold_daddy.js
 /static/js/headad.js
 /static/js/pop_promotion.js?v=
+/static/tb/kyqp.gif
 /static/upload/adsbanner/
 /statics/recommend/bense.gif
 /stui_ads/xyz456e/
@@ -2344,6 +2345,7 @@ yydstxt*.com/js/html
 ||0ihw4ipvm5.com^
 ||0jghm60qg.com^
 ||0kkbb.com/js/i.js
+||0kl9n3q2b.com^
 ||0kplffrs42.com^
 ||0l34c7sqy.com^
 ||0l7t5qhb4.com^
@@ -3980,6 +3982,7 @@ yydstxt*.com/js/html
 ||69shux.com/js/otherad.
 ||69t49.com/floating/layer.js
 ||6acupxubky.com^
+||6aontlsdf.com^
 ||6aoodbdx94.com^
 ||6avz.com^$script,third-party
 ||6b8emvi3ya.com^
@@ -4260,6 +4263,7 @@ yydstxt*.com/js/html
 ||7xdown.com/idcgg/
 ||7xi9g1.com1.z0.glb.clouddn.com^
 ||7xkdyg9b8k.com^
+||7xm6spgwu.com^
 ||7xsf3h.com1.z0.glb.clouddn.com^
 ||7xx3jbcil.com^
 ||7y50wscnc8.com^
@@ -5941,6 +5945,7 @@ yydstxt*.com/js/html
 ||aj3105.top^
 ||ajansbir.com^
 ||ajazaci.icu^
+||ajhwwlye.com^
 ||ajinxiu.com^
 ||ajjo5hsvlp.com^
 ||ajo.com^
@@ -29035,6 +29040,7 @@ yydstxt*.com/js/html
 ||porterclarkchiropractic.com^
 ||porteus.org^
 ||portfolioslab.com^
+||porthole58.top^
 ||portlandfurnituremattress.com^
 ||portlycrash.com^
 ||portobellomusic.net^
@@ -30782,6 +30788,7 @@ yydstxt*.com/js/html
 ||ridemotive.com^
 ||rideoo.com^
 ||ridesafely.com^
+||ridfvncgizfjlq.com^
 ||ridgeview.com^
 ||ridicola.net^
 ||riepas24.com^
@@ -30895,6 +30902,7 @@ yydstxt*.com/js/html
 ||rmpsw.com^
 ||rmrp.org^
 ||rmt827wgr.com^
+||rmv8gc43g.com^
 ||rmvod.com^
 ||rmzxb.com.cn^
 ||rn221.xyz^
