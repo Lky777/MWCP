@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202609162205
-! Last modified: 16 Sep 2026 22:05 UTC
+! Version: 202609172206
+! Last modified: 17 Sep 2026 22:06 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2109,7 +2109,6 @@ baidu.com/mo/q/recommendpb/
 coolinet.net###videoPostContent>p
 duckduckgo.com##.js-atb-banner
 eastmoney.com###openinapp
-fcenxe*.top/$script,xmlhttprequest,third-party
 guazimanhua.com##.reader-tools
 haijiao.love###popup-mask
 haijiaolove.xyz##.elementor-gallery-item__overlay
@@ -3009,6 +3008,7 @@ yydstxt*.com/js/html
 ||2i0lliongn.com^
 ||2j-antennas.com^
 ||2j9banjbst.com^
+||2jdr5wuyzf.com^
 ||2juyabihe.com^
 ||2kandy.com/js/123/
 ||2kbmdtlgme.com^
@@ -3050,6 +3050,7 @@ yydstxt*.com/js/html
 ||2y2lttjs.hair^
 ||2y2s.com^
 ||2yjw.com/statics/js/jquery.min.
+||2ypqjxnzo.com^
 ||2ytoxb1r7.com^
 ||2yueyu.com^
 ||2zbs.com^
@@ -4456,6 +4457,7 @@ yydstxt*.com/js/html
 ||953615.xyz^
 ||9553.com/otherhtml/
 ||95590.org/v1.
+||95d684gnf.com^
 ||95k62nnvnh.com^
 ||95ktftpt6.com^
 ||95la.com^
@@ -4586,6 +4588,7 @@ yydstxt*.com/js/html
 ||9tour.cn/x2/images/czmf.jpg
 ||9ts82aipzd.com^
 ||9txnu9rlmd.com^
+||9uza7fi60e.com^
 ||9v7sbm9zc.com^
 ||9vmbje748.com^
 ||9wcn.com/gcld/500.gif
@@ -9025,6 +9028,7 @@ yydstxt*.com/js/html
 ||brg7urln.com^
 ||brianchoong.com^
 ||bridewedd.com^
+||bridge32.top^
 ||bridgemanondemand.com^
 ||bridgepowerratings.com^
 ||bridgerkay.com^
@@ -14946,6 +14950,7 @@ yydstxt*.com/js/html
 ||fdtarpaueilvrs.com^
 ||fdxdnj.com^
 ||fe238hsnj3ei.com^
+||fe7xxmtg3.com^
 ||fearless-assassins.com^
 ||fearrington.com^
 ||feathercoin.com^
@@ -20314,6 +20319,7 @@ yydstxt*.com/js/html
 ||j0saeheja5.com^
 ||j1.piaobing.com^
 ||j12eaw9xs.com^
+||j17xor750.com^
 ||j1bla75rck.com^
 ||j1s956aee8.com^
 ||j23ab474.com^
@@ -35450,6 +35456,7 @@ yydstxt*.com/js/html
 ||u67qpnaexu.com^
 ||u69v85ecs.com^
 ||u6uy9lzdcj.com^
+||u6vlqrwcv.com^
 ||u6xpn4qn5b.com^
 ||u6yzoru6u.com^
 ||u7em9v4hp.com^
@@ -36033,6 +36040,7 @@ yydstxt*.com/js/html
 ||vaporisateur.net^
 ||vaposphere.com^
 ||vapstation.com^
+||vapvllaajrhhzc.com^
 ||var-meta.com^
 ||vardhmaninc.com^
 ||varegjopeaks.com^
@@ -38945,6 +38953,7 @@ yydstxt*.com/js/html
 ||ykxwn.com^
 ||ykyfhxr.xyz^
 ||yl04z4v.cn^
+||yl9c8v1le.com^
 ||ylkvxrimr.com^
 ||ylmrhr.com^
 ||ylr1xn2b4i.com^
@@ -39444,6 +39453,7 @@ yydstxt*.com/js/html
 ||zdoiodhtqahjizqq.net^
 ||zdoom.org^
 ||zdqx.com/statics/v1/images/gif/
+||zdr6wn2f5.com^
 ||zdw.w8.com.cn/p.ht?
 ||zdwan1.com^
 ||zdykeji.com^
