@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202609192126
-! Last modified: 19 Sep 2026 21:26 UTC
+! Version: 202609202129
+! Last modified: 20 Sep 2026 21:29 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2315,6 +2315,7 @@ yydstxt*.com/js/html
 ||0hagz9mdc.com^
 ||0hasprzzu.com^
 ||0hqq3dnjf.com^
+||0hr4wyjfv3.com^
 ||0iem8mw1lx.com^
 ||0ihw4ipvm5.com^
 ||0jghm60qg.com^
@@ -4517,6 +4518,7 @@ yydstxt*.com/js/html
 ||999meiju.com/js/tj
 ||999xx333kk.com^
 ||99cidian.com^
+||99d8z9oqnu.com^
 ||99danji.com/kchtml/
 ||99lb.net/index_files/*/970
 ||99mst.com/upfiles/adv/main02.jpg
@@ -16010,6 +16012,7 @@ yydstxt*.com/js/html
 ||fwvzx907rr.com^
 ||fwwang.cn/templets/fw/js/art
 ||fx-srv.org^
+||fx0blb9zp4.com^
 ||fx110.*/pub/ghz/getmodel
 ||fx110.*/scripts/1.0.0/gulpmin/ghz/
 ||fx110.*/styles/1.0.0/dist/ghz/matrixads.
@@ -16085,6 +16088,7 @@ yydstxt*.com/js/html
 ||g3img.com^
 ||g3m92egwo.com^
 ||g3mv.com^
+||g4d2cox74f.com^
 ||g4yk4cyyw.com^
 ||g4z8712756.com^
 ||g589.com^
@@ -17527,6 +17531,7 @@ yydstxt*.com/js/html
 ||gunsanddogs.com^
 ||gunsoficarus.com^
 ||gunszomby.com^
+||gunwale68.top^
 ||guofenjie2002.com^
 ||guoguoks.com/1.
 ||guojitv.com/m/js/ad_
@@ -25129,6 +25134,7 @@ yydstxt*.com/js/html
 ||muzsev.com^
 ||muztext.com^
 ||muzzleloadingforum.com^
+||mv3yrsh593.com^
 ||mvapspdmpg.com^
 ||mvcat.com/api/wx/follow.js
 ||mvcat.com/script/ad.js
@@ -28299,6 +28305,7 @@ yydstxt*.com/js/html
 ||pmpantdgzvttbk.com^
 ||pmqhelkean.com^
 ||pmrgroupnz.com^
+||pmt0g2rugw.com^
 ||pmtcj.com^
 ||pn9f3utrxu.com^
 ||pneda.com^
@@ -38458,6 +38465,7 @@ yydstxt*.com/js/html
 ||xwafyzovqu.icu^
 ||xwboo.com^
 ||xwcm.net/caches/ahm.
+||xwddvfoasvtxjo.com^
 ||xwdsp.com^
 ||xx1t.com^
 ||xxav.one/i/app/
