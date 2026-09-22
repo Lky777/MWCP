@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202609212233
-! Last modified: 21 Sep 2026 22:33 UTC
+! Version: 202609222201
+! Last modified: 22 Sep 2026 22:01 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -286,7 +286,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /527ldy.oss-
 /5555vipqipai.oss-
 /58pic/index.php?m=admanagesystem&
-/5ixcmbwj/js/ad.js
 /640_120_javhd.jpg
 /69tang6_*/html/abc/image/
 /7755com-*00x*.gif
@@ -1018,6 +1017,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 ://*btbtt.*/imgs.js
 ://*btbtt.*/view/image/qt_
 ://18comic.*/templates/frontend/airav/js/*_*.js
+://ads-img2026.
 ://analytics.*.com/api/event
 ://api.*.com/sh/*.js$script,third-party
 ://btt*/runtime/js/psdata.
@@ -2247,6 +2247,7 @@ yydstxt*.com/js/html
 ||0391cb.cn^
 ||03in08p3r1.com^
 ||03mhpavj25.com^
+||03mnj87wir.com^
 ||041gg.com^
 ||042.cn/adver/
 ||0439.com/javascript.php?part=advertisement&
@@ -2523,6 +2524,7 @@ yydstxt*.com/js/html
 ||129esrd5q5.com^
 ||12treasures.com^
 ||12ypksztq.com^
+||12yr3wkwi5.com^
 ||1300071.cn^
 ||1300380.cn^
 ||130vip.com^
@@ -4525,6 +4527,7 @@ yydstxt*.com/js/html
 ||9mdg9cu59.com^
 ||9med.net^
 ||9ns1.com^
+||9nwplq7y2o.com^
 ||9nzrfglryy.com^
 ||9obmf866d.com^
 ||9oxhstb2m2.com^
@@ -10934,6 +10937,8 @@ yydstxt*.com/js/html
 ||comfylink.com^
 ||comicarttracker.com^
 ||comicbookroundup.com^
+||comicbox.xyz/getadsdata
+||comicbox.xyz/static/js/ad-manager.
 ||comics.org^
 ||comizy.io^
 ||comm100.cn/livechatserver/chatbutton.*&res=
@@ -11135,6 +11140,7 @@ yydstxt*.com/js/html
 ||corfid.com^
 ||corhexa.com^
 ||coringe.com^
+||corkscrew33.com^
 ||cornclickurl.top^
 ||cornpic.com/images/*.gif
 ||corosglobal.com^
@@ -17267,6 +17273,7 @@ yydstxt*.com/js/html
 ||hao30.top^
 ||hao5.net/images/*0-
 ||hao6v.com/d/
+||haobax.com/ad
 ||haochamall.cn^
 ||haochi123.com/j_box/inc_
 ||haodongbei.net^
@@ -20720,6 +20727,7 @@ yydstxt*.com/js/html
 ||katolaz.net^
 ||kaunet.com^
 ||kavascan.com^
+||kavxx.com^
 ||kawagoeuranaikan.com^
 ||kawf.cn^
 ||kaxi6.com^
@@ -22186,6 +22194,7 @@ yydstxt*.com/js/html
 ||lmscloud.net^
 ||lmstage.in^
 ||lmtruueagl.com^
+||ln3v4pjf1h.com^
 ||lnd.com.cn/sys/real_calc.js
 ||lnfmhl.icu^
 ||lngzzppo.cn^
@@ -23809,6 +23818,7 @@ yydstxt*.com/js/html
 ||mksucai.com^
 ||mkswww.com^
 ||mkue.cn^
+||mkyc81u6je.com^
 ||ml-static.com^
 ||mlabsvc.io^
 ||mlcro.net^
@@ -25628,6 +25638,7 @@ yydstxt*.com/js/html
 ||nwalsh.com^
 ||nwbuhr.icu^
 ||nwelectrical.com^
+||nwhdrmll9l.com^
 ||nwholf.icu^
 ||nwithplentyoff.org^
 ||nwkite.com^
@@ -26534,6 +26545,7 @@ yydstxt*.com/js/html
 ||p43c4oysmb.com^
 ||p4dc8ve6i.com^
 ||p4p.sina.com.cn^
+||p5doaulee2.com^
 ||p5si0mu8u7.com^
 ||p5yy.com^
 ||p66jed4iv.com^
@@ -33838,6 +33850,7 @@ yydstxt*.com/js/html
 ||tpmadsrv.com^
 ||tpouxyihas.com^
 ||tptoon.com/skin/js/tjtjkk.
+||tpvqrzryebtfhu.com^
 ||tpwwforums.com^
 ||tq.cn/floatcard?
 ||tqbjevhkgw.icu^
