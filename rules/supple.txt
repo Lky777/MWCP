@@ -131,6 +131,7 @@ _14c14p14v.js
 /loading.gif
 /loading.jpg
 /pxf.gif?uuid=
+/s.gif?r=
 /static/img/*.gif
 /uploads/default/other/*.gif
 /whob.gif?
@@ -158,6 +159,7 @@ _14c14p14v.js
 ! ============== Ad-Networks ==============
 !
 ! -------- Domain-level --------
+||h5.analytics.126.net^
 ||ad.52av.one^
 ||static.addtoany.com^
 ||fourier.alibaba.com^
@@ -168,6 +170,7 @@ _14c14p14v.js
 ||s3.ap-east-1.amazonaws.com^$third-party
 ||script-center.bad.news^
 ||banti.baidu.com^
+||eclick.baidu.com^
 ||h2tcbox.baidu.com^
 ||hm.baidu.com^
 ||hmcdn.baidu.com^
@@ -198,8 +201,11 @@ ad.newaddiscover.com
 ||rtb-2.xgroovy.com^
 |cmhtsc.xn--czru2dx3eszw3lat53b.com^
 ||analytics.yahoo.com^
+||hdrc.yandex.net^
 ||mc.yandex.ru^
+||mdd.yandex.net^
 ||collect.zbstatic5.com^
+!
 ||adsco.re^
 ||adspyglass.net^
 ||adsrvr.org^
@@ -268,11 +274,13 @@ ad.newaddiscover.com
 ||floors.dev^
 ||hledpkhmc.com^
 ||hurtful-historian.com^
+||idlerelief.com^
 ||impassioned-boat.pro^
 ||infamous-growth.pro^
 ||jlr3lljrk.com^
 ||juniorregister.com^
 ||juqbheahnq.in^
+||loosebasis.com^
 ||luugy.com^
 ||mdynieu.com^
 ||muddyclock.pro^
@@ -453,6 +461,10 @@ https://cyppt.com/novel/js/wp-embed.min.js?
 ||eva2.csdn.net/v3/
 ||g.csdnimg.cn/??sharewx/
 ||img-home.csdnimg.cn/data_json/jsconfig/redPacket.json
+||imgf.gamersky.com/img/tqbc2010/
+gamersky.com/@adSystem/
+gamersky.com/ad/
+gamersky.com/newAd/
 ||ghxi.com/wp-content/plugins/core-ai-power/
 |https://ghxi.com/wp-content/plugins/wp-opt/static/js/ai-summary.min.js?
 |https://ghxi.com/wp-content/plugins/wp-opt/static/js/front.min.js?
@@ -490,6 +502,7 @@ https://cyppt.com/novel/js/wp-embed.min.js?
 |https://dss0.zbstatic5.com/web2/_astro/GoogleAdvertisement.
 !
 ! Resource sites
+||69shuba.com/tuijian/
 ||s1.filec.top/Blotter.js
 |https://sobt18.icu/Public/static/js/common.js?
 !
@@ -515,6 +528,7 @@ haijiaolove.xyz##.elementor-gallery-item__overlay
 hjziyan.wiki###popup-mask
 juejin.cn##.open-button
 kuaidi100.com##.index__download-box
+m.163.com##.backflow-floating
 m.58moto.com##.motorfans-download-app
 m.douban.com##.talion-nav-footer
 m.hetushu.com##.m1
@@ -527,6 +541,7 @@ mdttz.com###gridAdvoOerlay
 mdttz.com###overlay
 mdttz.com##.closeBtn
 mdttz.com##.popImage
+myqqjd.com###mobile-bottom-ad
 sav123.com##.c-ad-pop
 sina.cn###float-btn
 sina.cn##.m-guss-caijing
