@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202609242218
-! Last modified: 24 Sep 2026 22:18 UTC
+! Version: 202609252214
+! Last modified: 25 Sep 2026 22:14 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -25,7 +25,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=bhshu.net|louzho
 $script,third-party,domain=cilimao.co|cilimao.one
 $script,third-party,domain=colamanga.com
 $script,third-party,domain=torkitty.net|torkitty.com|torrentkitty.app|torrentkitty.asia|torrentkitty.cam|torrentkitty.ink|torrentkitty.io|torrentkitty.live|torrentkitty.lol|torrentkitty.net|torrentkitty.one|torrentkitty.tv|torrkitty.com
-$script,third-party,domain=xunleisou.info|xunleisou.life|xiaoyakankan.com|52movieba.com|audio699.com|kan-tv.com|m.supfree.net|movieffm.net|xiaoheimi.cc
+$script,third-party,domain=xunleisou.info|xunleisou.life|xiaoyakankan.com|52movieba.com|audio699.com|kan-tv.com|m.supfree.net|mvffm.net|xiaoheimi.cc
 $script,third-party,websocket,domain=52codes.net
 $third-party,websocket,xmlhttprequest,domain=qiyoudy2.com|qiyoudy4.com
 $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
@@ -1422,10 +1422,10 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||ccllaa.com^$generichide
 @@||cdn.bootcdn.net^$script,domain=38kanshu.net
 @@||cdn.bootcss.com^$script,domain=biqutime.com|59xs.com|biqudd.com|u33.me|xbiqugela.com|ysxs8.vip
-@@||cdn.jsdelivr.net^$script,domain=movieffm.net
+@@||cdn.jsdelivr.net^$script,domain=mvffm.net
 @@||cdn.optimizely.com/js/*.js$domain=kktv.me
 @@||cdn.staticfile.org^$domain=lakyworld.com|biquge77.net|yzbg.net|alexij.net|hshfm.com|biqiuge5.org|49gtk.cc|20me.net|fbqg.cc|xianguke.net|tellgillian.com|m-ia.net|cleavagecoverup.com|memduh.net|56xiaoshuo.net|yourbiquge.com|00ksw.com|147xiaoshuo.com|bxwx.live|lzbao.net
-@@||cdn.staticfile.org^$script,domain=movieffm.net
+@@||cdn.staticfile.org^$script,domain=mvffm.net
 @@||cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/$domain=ikanbot.com
 @@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/*/videojs.ads.min.js$domain=linetv.tw
 @@||cgmodel.com/plugin/share/
@@ -2292,6 +2292,7 @@ yydstxt*.com/js/html
 ||0aokpbwui.com^
 ||0b6rvr210q.com^
 ||0bb8jytek.com^
+||0bhl1k9hi.com^
 ||0bs094t26.com^
 ||0c484j022z.com^
 ||0d1oo8jp69.com^
@@ -3191,6 +3192,7 @@ yydstxt*.com/js/html
 ||3boys2girls.com^$subdocument
 ||3cbxqifhd.com^
 ||3ccxtimf.com^
+||3d2uemn8c.com^
 ||3d42.com^
 ||3darcadeforum.com^
 ||3db194ffcf.com^
@@ -10971,6 +10973,7 @@ yydstxt*.com/js/html
 ||comparethediamond.com^
 ||comparetopschools.com^
 ||compasonline.com^
+||compass12.top^
 ||competize.com^
 ||compex.com^
 ||complete-electronics.com^
@@ -13015,6 +13018,7 @@ yydstxt*.com/js/html
 ||dsij.in^
 ||dsitestatus.com^
 ||dslgth.cn^
+||dsm3y3tl4.com^
 ||dsp.ali213.net^
 ||dsp.lenovo.com.cn^*&clienttype=api|
 ||dspacedirect.org^
@@ -14374,6 +14378,7 @@ yydstxt*.com/js/html
 ||f17hdccbws.com^
 ||f1jonnzc8.com^
 ||f1network.net^
+||f1x12og38.com^
 ||f20hgvkx7r.com^
 ||f20r1b13iw.com^
 ||f25ifd815p.com^
@@ -15919,6 +15924,7 @@ yydstxt*.com/js/html
 ||gcprivacy.net^
 ||gcrichtone.com^
 ||gcsyxx.com^
+||gcvns12jp.com^
 ||gcw*.2liang.cn^
 ||gd-singapore.com/data/1724/aimg/rloadbnus-ibc26.
 ||gd-we.com^
@@ -18514,7 +18520,6 @@ yydstxt*.com/js/html
 ||i12het785.com^
 ||i14laze0.xyz^
 ||i16vlgqdhh.com^
-||i1fqn4bnkh37ywbx.cfd^
 ||i2fxsez4f0.com^
 ||i2s1n.com^
 ||i2t1zp6t2v.com^
@@ -18782,6 +18787,7 @@ yydstxt*.com/js/html
 ||ihaleciler.com^
 ||ihapiglobal.com^
 ||ihappyread.com^
+||ihbkqdj55.com^
 ||ihe-europe.net^
 ||iheartmobo.com^
 ||ihei5.com^
@@ -29418,6 +29424,7 @@ yydstxt*.com/js/html
 ||riaube.com^
 ||riauce.com^
 ||riaway.com/statics/idea.jpg
+||rib0nsgx6.com^
 ||ricacorp.com^
 ||ricamificioluma.com^
 ||richardchiu-consulting.com^
@@ -34490,6 +34497,7 @@ yydstxt*.com/js/html
 ||u7lb6db41.com^
 ||u7u9.com^$third-party
 ||u7ugo0jr3.com^
+||u8jlui323.com^
 ||u8rnuky6e.com^
 ||u90p9zk9r7.com^
 ||uaa.com/js/dxj.
@@ -34968,6 +34976,7 @@ yydstxt*.com/js/html
 ||uyfv.cn^
 ||uyunad.com^
 ||uz7w7bm4ns.com^
+||uzhrtuyij.com^
 ||uznarikayaks.com^
 ||uznavo.com^
 ||uzrtgekpw.com^
@@ -35520,6 +35529,7 @@ yydstxt*.com/js/html
 ||vlcapi.net^
 ||vle6r0hma.com^
 ||vlion.cn^$third-party
+||vljyztqsnkhvra.com^
 ||vlmai-5.com^
 ||vlogerads.com^
 ||vlovu.com^
