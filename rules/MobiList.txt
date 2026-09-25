@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202609252214
-! Last modified: 25 Sep 2026 22:14 UTC
+! Version: 202609252334
+! Last modified: 25 Sep 2026 23:34 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -816,6 +816,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /runtime/js/play960.js
 /runtime/js/top960.js
 /runtime/js/top980.js
+/s.gif?r=
 /s/i.php?id=$script,third-party
 /s/js/fshow.js$third-party
 /sc_ifeng/
@@ -2109,6 +2110,9 @@ baidu.com/mo/q/recommendpb/
 coolinet.net###videoPostContent>p
 duckduckgo.com##.js-atb-banner
 eastmoney.com###openinapp
+gamersky.com/@adSystem/
+gamersky.com/ad/
+gamersky.com/newAd/
 guazimanhua.com##.reader-tools
 haijiao.love###popup-mask
 haijiaolove.xyz##.elementor-gallery-item__overlay
@@ -2117,6 +2121,7 @@ https://cyppt.com/novel/js/wp-embed.min.js?
 hxsame.hexun.com$domain=~quote.hexun.com
 juejin.cn##.open-button
 kuaidi100.com##.index__download-box
+m.163.com##.backflow-floating
 m.58moto.com##.motorfans-download-app
 m.douban.com##.talion-nav-footer
 m.hetushu.com##.m1
@@ -2130,6 +2135,7 @@ mdttz.com###overlay
 mdttz.com##.closeBtn
 mdttz.com##.popImage
 meijutt.*/js/pcjs/
+myqqjd.com###mobile-bottom-ad
 sav123.com##.c-ad-pop
 sina.cn###float-btn
 sina.cn##.m-guss-caijing
@@ -3885,6 +3891,7 @@ yydstxt*.com/js/html
 ||693836.com^$popup
 ||69adu.com/bootstrap.
 ||69giie.xyz^
+||69shuba.com/tuijian/
 ||69shuba.cx^*/shu.js
 ||69shux.com/js/otherad.
 ||69t49.com/floating/layer.js
@@ -13449,6 +13456,7 @@ yydstxt*.com/js/html
 ||eckartsupply.com^
 ||eclassified.my/cp_featured
 ||eclfbm.com^
+||eclick.baidu.com^
 ||eclicksmarketing.com^
 ||eclipsecontent.org^
 ||eclorefloral.com^
@@ -17149,6 +17157,7 @@ yydstxt*.com/js/html
 ||h5-suncity.com^
 ||h5-xpj.com^
 ||h5-yongli.com^
+||h5.analytics.126.net^
 ||h532nbo7u.com^
 ||h54gfdfe.com^
 ||h57vpulpu.com^
@@ -17477,6 +17486,7 @@ yydstxt*.com/js/html
 ||hdones.com^
 ||hdpian.com^
 ||hdpornfree.net^
+||hdrc.yandex.net^
 ||hdsex.org^
 ||hdsheets.com^
 ||hdsky.me/adv/
@@ -18677,6 +18687,7 @@ yydstxt*.com/js/html
 ||iditena.org^
 ||idiyas.com^
 ||idleobeliskminer.com^
+||idlerelief.com^
 ||idlixku.com^
 ||idn-inc.com^
 ||idnfinancials.com^
@@ -18961,6 +18972,7 @@ yydstxt*.com/js/html
 ||imgdb.cn/item/66a73333d9c307b7e9dbb6ef.jpg
 ||imgdb.cn^$domain=m4ff.com
 ||imgds.net^
+||imgf.gamersky.com/img/tqbc2010/
 ||imgfi.com^
 ||imghentai2025-09-15.top^
 ||imghost.top/kita/
@@ -22334,6 +22346,7 @@ yydstxt*.com/js/html
 ||loomgames.com^
 ||loopypro.com^
 ||loosebasis.com^
+||loosebasis.com^
 ||lootbar.com^
 ||lootly.io^
 ||looyu.com^$third-party
@@ -23206,6 +23219,7 @@ yydstxt*.com/js/html
 ||mczsok.com^
 ||md.tvzhe.com^
 ||mdansmfqweqwe.top^
+||mdd.yandex.net^
 ||mdek12.org^
 ||mdhmx.com^
 ||mdhotidv.com^
