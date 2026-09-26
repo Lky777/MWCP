@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202609261127
-! Last modified: 26 Sep 2026 11:27 UTC
+! Version: 202609262156
+! Last modified: 26 Sep 2026 21:56 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -24725,6 +24725,7 @@ yydstxt*.com/js/html
 ||n7fyrdeen.com^
 ||n7hnij4fah.com^
 ||n7net.in^
+||n7xy4mz7pw.com^
 ||n8bpikx1mt.com^
 ||n8g1kvtmrf.com^
 ||n906n29tm.com^
