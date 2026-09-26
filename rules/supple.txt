@@ -197,6 +197,7 @@ ad.newaddiscover.com
 ||ad.setn.com^
 ||ubas.setn.com^
 ||track.sohu.com^
+||zhanzhang.toutiao.com^
 ||collector.xhamster.com^
 ||rtb-2.xgroovy.com^
 |cmhtsc.xn--czru2dx3eszw3lat53b.com^
@@ -231,6 +232,7 @@ ad.newaddiscover.com
 ||tsyndicate.com^
 ||uslook.top^
 ||vmfive.com^
+||wwads.cn^
 ||xchina.bond^
 ||xchina.click^
 ||xlviirdr.com^
@@ -466,7 +468,8 @@ gamersky.com/@adSystem/
 gamersky.com/ad/
 gamersky.com/newAd/
 ||ghxi.com/wp-content/plugins/core-ai-power/
-|https://ghxi.com/wp-content/plugins/wp-opt/static/js/ai-summary.min.js?
+||ghxi.com/wp-content/plugins/gh-ShortCode/
+|https://www.ghxi.com/wp-content/plugins/wp-opt/static/js/ai-summary.min.js?
 |https://ghxi.com/wp-content/plugins/wp-opt/static/js/front.min.js?
 ||11.mydrivers.com/2021/news/nike600_500.svg
 ||11.mydrivers.com/common/js/trimpath-template-
