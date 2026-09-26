@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202609260044
-! Last modified: 26 Sep 2026 00:44 UTC
+! Version: 202609261127
+! Last modified: 26 Sep 2026 11:27 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -114,6 +114,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/js/alls_top.js
 .com/js/bnnr_
 .com/js/bnr_
+.com/js/common.js?
 .com/js/ddd.js
 .com/js/discor_list.js
 .com/js/dom.js
@@ -135,6 +136,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/piaozi/*.js
 .com/public/js/duileft.js
 .com/public/js/duiright.js
+.com/pv/api/send
 .com/qxads/
 .com/rmb/bofang*.js
 .com/rmb/daohang*.js
@@ -168,18 +170,14 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/zz/tcc2.js
 .com/zz/yd2.js
 .com:12289/$script,third-party
+.com:23704/js/
 .com:26579/
-.com:800?/cc/*??=
-.com:800?/d/*??=
-.com:800?/sc/*??=
+.com:8005/d/*?*=
 .com:901/cc/*?*=
 .com:901/d/*?*=
 .com:901/sc/*?*=
 .com:91/runtime/js/pscreat.js
 .com:9120/discor_list.js
-.com:9189/cc/*??=
-.com:9189/d/*??=
-.com:9189/sc/*??=
 .gif|$domain=7mshipin.org|viidii.info
 .gif|$domain=99re.com
 .html?android=hx*&_$csp=script-src
@@ -2141,6 +2139,7 @@ sina.cn###float-btn
 sina.cn##.m-guss-caijing
 smzdm.com##.damo-footer-open-app
 sohu.com###CallAppContainer
+songzimanhua.com##.reader-floating-tools
 toutiao.com##.m-bottom-container
 txrjy.com###tryOpenApp
 ubmcmm.baidustatic.com
@@ -3292,6 +3291,7 @@ yydstxt*.com/js/html
 ||3t4j5adg9x.com^
 ||3tkz.com^
 ||3tsmjlcikv.com^
+||3vkgutjorg.com^
 ||3vvuu0z8ui.com^
 ||3wk.cc/images/*.gif
 ||3wzq2yxde.com^
@@ -4242,6 +4242,7 @@ yydstxt*.com/js/html
 ||888game105.com^
 ||888ou.com^
 ||888xx222kk.com^
+||8896bhfg6l.com^
 ||88exporter.com^
 ||88huangye.com^
 ||88liu.com/data/attachment/portal/
@@ -4291,6 +4292,7 @@ yydstxt*.com/js/html
 ||8lj6g9gz4.com^
 ||8lmggang9.com^
 ||8maple.ru/dzcm$rewrite=abp-resource:1x1-transparent-gif,domain=8maple.ru
+||8n2iu6djx6.com^
 ||8o5v23yip.com^
 ||8oghu1wcau.com^
 ||8p14q886v2.com^
@@ -18354,6 +18356,7 @@ yydstxt*.com/js/html
 ||huijistatic.com^
 ||huiltx.com^
 ||huimg.cn/e/hd.e.wap.
+||huiokcdn.com^
 ||huishoushang.com^
 ||huitu.com^
 ||huixiahuishou.com^
@@ -29721,6 +29724,7 @@ yydstxt*.com/js/html
 ||rpctrk.com^
 ||rpcuniverse.com^
 ||rpghq.org^
+||rpgi979tlb.com^
 ||rpginabox.com^
 ||rpgmakerweb.com^
 ||rpgni2940637fafa.com^
@@ -31918,6 +31922,7 @@ yydstxt*.com/js/html
 ||sspai.com/attachment/sponsor/
 ||sspic.net^
 ||sss777.net/alove-a/
+||sssrr.org^
 ||sssrrr.com^
 ||sssvd.china.com^
 ||ssw.net^
@@ -35381,6 +35386,7 @@ yydstxt*.com/js/html
 ||vignessansfrontieres.com^
 ||vigriwatch.com^
 ||vigyn4gpx.com^
+||vihiei5ek3.com^
 ||viibjsui.com^
 ||viicmkru.com^
 ||viidoqay.com^
@@ -36432,7 +36438,6 @@ yydstxt*.com/js/html
 ||wintek.com^
 ||winterchill.xyz^
 ||wintercloud.net^
-||winudf.com^
 ||winwin7.com/statics/js/pos_js/
 ||winwin7.com/statics/js/user/xz.
 ||winxuan.com^
@@ -37742,6 +37747,7 @@ yydstxt*.com/js/html
 ||yfdpco7.com^
 ||yfisher.com^
 ||yfmwnkd1ti.com^
+||yfrwa.cn^
 ||yfrwa.cn^
 ||yfxfur.cn^
 ||yfzfw.com^
