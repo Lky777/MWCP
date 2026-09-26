@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202609252334
-! Last modified: 25 Sep 2026 23:34 UTC
+! Version: 202609260044
+! Last modified: 26 Sep 2026 00:44 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2182,7 +2182,6 @@ yydstxt*.com/js/html
 |https://eporner.com/static/popCode-
 |https://facebook.com/tr/?id=
 |https://file.caixin.com/wapchannel/all/js/openInApp.js?
-|https://ghxi.com/wp-content/plugins/wp-opt/static/js/ai-summary.min.js?
 |https://ghxi.com/wp-content/plugins/wp-opt/static/js/front.min.js?
 |https://guazimanhua.com/assets/metrics/daily-hot.js?
 |https://gw.m.163.com/search/api/v2/wap/rolling-word?
@@ -2210,6 +2209,7 @@ yydstxt*.com/js/html
 |https://www.99re.com/player/html.php?
 |https://www.dpsp1.com/apijs/lunbo/lunboding.js?v=
 |https://www.dpsp1.com/static/js/tj.js
+|https://www.ghxi.com/wp-content/plugins/wp-opt/static/js/ai-summary.min.js?
 |https://www.pornbest.org/site/stat?
 |https://xchina.co/scripts/push.js?
 |https://xchina.fit/ajax.php
@@ -16256,6 +16256,7 @@ yydstxt*.com/js/html
 ||ghsupplychain.org^
 ||ght2bvin1.com^
 ||ghxi.com/wp-content/plugins/core-ai-power/
+||ghxi.com/wp-content/plugins/gh-ShortCode/
 ||giacomo-design.com^
 ||gianlucalignini.com^
 ||giantfreakinrobot.com^
@@ -18530,6 +18531,7 @@ yydstxt*.com/js/html
 ||i12het785.com^
 ||i14laze0.xyz^
 ||i16vlgqdhh.com^
+||i27jhc4ut0.com^
 ||i2fxsez4f0.com^
 ||i2s1n.com^
 ||i2t1zp6t2v.com^
@@ -31969,6 +31971,7 @@ yydstxt*.com/js/html
 ||staramuse.com/bmip/showg
 ||stararmy.com^
 ||starbase118.net^
+||starboard65.com^
 ||starcomics.com^
 ||starcosy.com^
 ||stardesk.net^
@@ -33698,6 +33701,7 @@ yydstxt*.com/js/html
 ||todayapp.tv^$popup,third-party
 ||todaymg.com^
 ||todostuslibros.com^
+||tofqldmutnvdda.com^
 ||tofxotuvfk.net^
 ||toggle.org^
 ||tohokingdom.com^
@@ -36767,6 +36771,7 @@ yydstxt*.com/js/html
 ||ww7814.win/pic
 ||ww9874.com/asset/playerinit.js
 ||wwads.cn^
+||wwads.cn^
 ||wwavo59q3.com^
 ||wwpdb.org^
 ||wwqai2940637fafa.com^
@@ -38470,6 +38475,7 @@ yydstxt*.com/js/html
 ||zhanqi.tv/api/static/v2.1/actives.lists/
 ||zhanxingongkong.com^
 ||zhanxixi.com^
+||zhanzhang.toutiao.com^
 ||zhaobiaoyoudao.com^
 ||zhaofang.com^
 ||zhaofuli.*/data/content
@@ -38794,6 +38800,7 @@ yydstxt*.com/js/html
 ||zupulu.com/scripts/app/app.js
 ||zuqqgwi.icu^
 ||zutanu.com^
+||zv5h2l1qdi.com^
 ||zvciaoan1k.com^
 ||zvhtzl.icu^
 ||zvornix.com^
