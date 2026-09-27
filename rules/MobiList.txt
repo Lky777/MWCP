@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202609262156
-! Last modified: 26 Sep 2026 21:56 UTC
+! Version: 202609272203
+! Last modified: 27 Sep 2026 22:03 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -102,6 +102,10 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/gtag/js?id=
 .com/images/102.js
 .com/images/cleardot.gif
+.com/img/bnnr1_
+.com/img/bnr1_*.gif
+.com/img/bnr2_*.gif
+.com/img/bnr3_*.gif
 .com/java/shang1.js
 .com/java/xia1.js
 .com/java/youxia.js
@@ -112,8 +116,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .com/js/ad_
 .com/js/alls_foot.js
 .com/js/alls_top.js
-.com/js/bnnr_
-.com/js/bnr_
 .com/js/common.js?
 .com/js/ddd.js
 .com/js/discor_list.js
@@ -641,13 +643,11 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /js/ggtop.js
 /js/guanggao_gg.js
 /js/hilltop.js
-/js/huath_2.js
 /js/index_adfloat.js
 /js/jsstyle-$third-party
 /js/juicy.js
 /js/layer1.js$domain=99re.com
 /js/mangoindexbanner.js
-/js/mmdaohang_2.js
 /js/mob/cpc_bottom.js
 /js/pcbook.js?
 /js/pfad*.js
@@ -661,7 +661,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /js/wahha/
 /js/wlfloat.js
 /js/xiaxuanfu.js
-/js/yueyupp_3.js
 /js/yzgg.js
 /js/zzz.js
 /js_php/ajsf.php?id=$third-party
@@ -2881,6 +2880,7 @@ yydstxt*.com/js/html
 ||23aitt.com/zz/
 ||23bei.com/static/plugins/layer/layer.
 ||23cox7hu4.com^
+||23dx6xe42.com^
 ||23img.com^*/qomnyi.
 ||23qb.com/ak
 ||23qb.com/skin/style
@@ -3953,6 +3953,7 @@ yydstxt*.com/js/html
 ||6park.com/parks/$script
 ||6pctuhriw.com^
 ||6q77vsjez1.com^
+||6qcvth5fb.com^
 ||6ql83wy90f.com^
 ||6s0zo8jzbb.com^
 ||6s78n1rj4r.com^
@@ -9060,6 +9061,7 @@ yydstxt*.com/js/html
 ||bulmp3.net^
 ||bultech-bg.com^
 ||buluken.com^
+||bulwark37.top^
 ||bumbrellapsible.com^
 ||bumimi.com/money/
 ||bun1.dayi.org.cn^
@@ -15616,6 +15618,7 @@ yydstxt*.com/js/html
 ||fwdmart.com^
 ||fwfallowads.com^
 ||fwjtfo8f4z.com^
+||fwlkegiqfn.icu^
 ||fwlkokvvkx.icu^
 ||fwpbigtime.com^
 ||fwpixel.com^
@@ -20560,6 +20563,7 @@ yydstxt*.com/js/html
 ||jxqingjie.com^
 ||jxtest.bolecdn.com/player/*.gif
 ||jxudh7t5cg.com^
+||jxvylwrra.com^
 ||jxxcjj.com^
 ||jxxjmz.com^
 ||jy-sjtool.com^
@@ -21359,6 +21363,7 @@ yydstxt*.com/js/html
 ||kw7addjwr.com^
 ||kwacceleration.com^
 ||kwflvcdn.000dn.com^*.flv
+||kwgvshdzl.com^
 ||kwic.com^
 ||kwimgs.com^
 ||kwiziq.com^
@@ -24709,6 +24714,7 @@ yydstxt*.com/js/html
 ||n2d79v41a3.com^
 ||n2ivsbik2.com^
 ||n2m8u4ae9.com^
+||n2nqp4osu.com^
 ||n2xj2mxg3z.com^
 ||n3567.com^
 ||n46db.com^
@@ -25945,6 +25951,7 @@ yydstxt*.com/js/html
 ||ojg8sflgl.com^
 ||ojh9bc9puh.com^
 ||ojn1zxz0ni.com^
+||ojobjjol7.com^
 ||ojrgbc6kfz.com^
 ||ojsbdjn.com^
 ||ojtlnsa.com^
@@ -26504,6 +26511,7 @@ yydstxt*.com/js/html
 ||overthemoon.com^
 ||overture34.top^
 ||overwritten.net^
+||ovgadhtcyvak.in^
 ||ovgtm.com^
 ||ovidds.com^
 ||ovipsrl.com^
@@ -28321,6 +28329,7 @@ yydstxt*.com/js/html
 ||q1yv4669q6.com^
 ||q265msc.com^
 ||q29k22vpu.com^
+||q2f3fw9st.com^
 ||q2fwgl4q8.com^
 ||q2tqrsh02.com^
 ||q3a51.com^
@@ -29540,6 +29549,7 @@ yydstxt*.com/js/html
 ||rlhhlp.icu^
 ||rljjy.com^
 ||rlkx.cn^
+||rlr1ubj9u.com^
 ||rls.org^
 ||rltwz2cmo.com^
 ||rlvyrr.icu^
@@ -35022,6 +35032,7 @@ yydstxt*.com/js/html
 ||v114.net^
 ||v2006.com^
 ||v2bo21e4k.com^
+||v2e5kim4o.com^
 ||v2ex.com/pro/emitter
 ||v2melody.com^
 ||v2rayclient.com^
@@ -37444,6 +37455,7 @@ yydstxt*.com/js/html
 ||xvndpbjwhhvnfu.com^
 ||xvxyi2940637fafa.com^
 ||xw3.org^
+||xwafoccqlr.icu^
 ||xwafyzovqu.icu^
 ||xwboo.com^
 ||xwcm.net/caches/ahm.
@@ -38388,6 +38400,7 @@ yydstxt*.com/js/html
 ||zeigraim.com^
 ||zelaron.com^
 ||zeldalegends.net^
+||zellxviqqlhdpg.com^
 ||zeloru.com^
 ||zenadflow.com^
 ||zenapslpinic.com^
