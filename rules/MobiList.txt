@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202609282348
-! Last modified: 28 Sep 2026 23:48 UTC
+! Version: 202609292256
+! Last modified: 29 Sep 2026 22:56 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2142,8 +2142,6 @@ ubmcmm.baidustatic.com
 v=2&adZones
 ws://*/api/wss/getnotreadcount$third-party
 wss://*.*.top/$third-party
-wss://*.com:29*/$third-party
-wss://*.com:800*/$third-party,domain=~survev.io
 wss://*.top/|
 wss://*.xyz:*?e=$third-party
 wss://*.xyz:*?x=$third-party
@@ -3778,6 +3776,7 @@ yydstxt*.com/js/html
 ||5millpondlane.com^
 ||5mm.zxfw5.cn^
 ||5mn041cdz.com^
+||5n131lck8.com^
 ||5newsonline.com^
 ||5ntq14y5y.com^
 ||5p1v044n.com^
@@ -4607,6 +4606,7 @@ yydstxt*.com/js/html
 ||9pbeoey9j.com^
 ||9pyn42z6d.com^
 ||9pzoz6taf.com^
+||9qvpcta0t.com^
 ||9r0v0go0el.com^
 ||9rkh7nbaj.com^
 ||9s200.com^
@@ -7725,6 +7725,7 @@ yydstxt*.com/js/html
 ||bayoushooter.com^
 ||bayvalyair.com^
 ||bazamazano.com^
+||baztfhhqiuvttm.com^
 ||bb1nn.com/js/i.js
 ||bb22kk.com^
 ||bb2k0pq1vf.com^
@@ -15966,6 +15967,7 @@ yydstxt*.com/js/html
 ||gangjuw.com/style/lmjs/
 ||gangplank39.com^
 ||gangsterbb.net^
+||gangway97.com^
 ||ganimg.com/images/*.gif
 ||ganimgs.com/images/*.gif
 ||ganji.com/content.php
@@ -18664,6 +18666,7 @@ yydstxt*.com/js/html
 ||hvqyf.cn^
 ||hwahae.com^
 ||hwdns.net^
+||hweianpqxl.icu^
 ||hweiopvvxd.icu^
 ||hwloy.com^
 ||hwrzdbokzdttry.com^
@@ -20588,6 +20591,7 @@ yydstxt*.com/js/html
 ||js1.dadiniu.cn^
 ||js1.haoge500.com^
 ||js154azzn.com^
+||js1lw9n6w.com^
 ||js22f.net^
 ||js2k.com^
 ||jsaoukg2.xyz^
@@ -26289,6 +26293,7 @@ yydstxt*.com/js/html
 ||o03fssif8l.com^
 ||o0rnzwzst5.com^
 ||o1.jyjyj.cn^
+||o17kbwlq9p.com^
 ||o1fhfeu6qa.com^
 ||o28wg9kq8i.com^
 ||o2kisses.com^
@@ -29309,6 +29314,7 @@ yydstxt*.com/js/html
 ||qwtuk.cn^
 ||qwuylnl.com^
 ||qwvwz2940637fafa.com^
+||qxbpi331k.com^
 ||qxgolds.com^
 ||qxwx.net^
 ||qy0.ru/*.gif
@@ -29544,6 +29550,7 @@ yydstxt*.com/js/html
 ||rbmg4agmo.com^
 ||rbpts2940637fafa.com^
 ||rbptt.com^
+||rbru3ubey.com^
 ||rbt-amp-262.top^
 ||rc.ie13.com^
 ||rcabc.org^
@@ -30466,6 +30473,7 @@ yydstxt*.com/js/html
 ||rw.net.cn^
 ||rw56y62bgg.com^
 ||rwe-forum.net^
+||rwhyrlb8r2.com^
 ||rwilwcovop.icu^
 ||rwjfbjhktsftpe.com^
 ||rwtraqur.com^
@@ -30563,10 +30571,12 @@ yydstxt*.com/js/html
 ||s5lm5aydc.xyz^
 ||s6.music.126.net/puzzle/$script
 ||s6.music.126.net/static_public/
+||s6cfki4v4.com^
 ||s6ctxsmoaj.com^
 ||s6s.in^
 ||s6ujh3ynv.com^
 ||s72h7io4o.com^
+||s7jkxkm72.com^
 ||s7tu.com/images/*.gif
 ||s7xrlzfa.top^
 ||s8.pw^$third-party
@@ -38929,6 +38939,7 @@ yydstxt*.com/js/html
 ||yw9pc9ehf5.com^
 ||ywdnpx.com^
 ||ywnrqpd.xyz^
+||ywxc.net^
 ||yx1.managershare.com^
 ||yxad.com/baidu/
 ||yxad.com/yxad/
