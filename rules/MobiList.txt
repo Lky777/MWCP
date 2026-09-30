@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202609292256
-! Last modified: 29 Sep 2026 22:56 UTC
+! Version: 202609302258
+! Last modified: 30 Sep 2026 22:58 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -477,7 +477,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /dy_66jjss/
 /dygg_
 /dzwww/ad_dzw_inner.js
-/e/ecmsshop/zhuanpan/js/
 /emwappopads/
 /ettoday/gemini/
 /exads-adblock-$image
@@ -548,8 +547,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /h/k.php?u=*&l=*&v=$third-party
 /haijiao3/*/popup.
 /hao123_api/api/cpc/
-/haojio/images/kf-zl.jpg
-/haojio/js/scoll_bg.js
 /heituad/
 /heji/mei00*.js
 /hjstore/system/banner/*.txt
@@ -2753,6 +2750,7 @@ yydstxt*.com/js/html
 ||1o0.net^
 ||1o0g85u7k1.com^
 ||1o1nuqbjea.com^
+||1o23ptd0sv.com^
 ||1paujqtq9.com^
 ||1percententrepreneur.com^
 ||1phyxws373.com^
@@ -5938,15 +5936,12 @@ yydstxt*.com/js/html
 ||alicdn.com/img/ibank/*_!!2210231227621-0-cib.
 ||alicdn.com/img/ibank/*_!!2212029770429-
 ||alicdn.com/img/ibank/*_!!3820217494-0-cib.
-||alicdn.com/img/ibank/*_!!4231779133-0-cib.
 ||alicdn.com/img/ibank/*_1082732848.
 ||alicdn.com/img/ibank/*_1085845541.
-||alicdn.com/img/ibank/*_1095372465.
 ||alicdn.com/img/ibank/*_1165462224.
 ||alicdn.com/img/ibank/*_1281922417.
 ||alicdn.com/img/ibank/*_1409595492.
 ||alicdn.com/img/ibank/*_1533190909.
-||alicdn.com/img/ibank/*_1545027917.
 ||alicdn.com/img/ibank/*_1591187313.
 ||alicdn.com/img/ibank/*_1746120392.$domain=~rmdown.com
 ||alicdn.com/img/ibank/*_1776866723.
@@ -5958,7 +5953,6 @@ yydstxt*.com/js/html
 ||alicdn.com/img/ibank/*_2021817714.
 ||alicdn.com/img/ibank/*_2114606112.
 ||alicdn.com/img/ibank/*_255861743.
-||alicdn.com/img/ibank/*_256401016.
 ||alicdn.com/img/ibank/*_330044705.
 ||alicdn.com/img/ibank/*_368737028.
 ||alicdn.com/img/ibank/*_392352300.
@@ -18505,6 +18499,7 @@ yydstxt*.com/js/html
 ||hswxsatk7x.com^
 ||hsxqv.com^
 ||hsyipos.com/template/mxone/html_tplmx/vod/*.gif
+||ht55hm12n2.com^
 ||ht9s1j1bf.com^
 ||htfw.com^
 ||hthelulyq.com^
@@ -20851,6 +20846,7 @@ yydstxt*.com/js/html
 ||k98033ewp.com^
 ||k99.cc^$third-party
 ||k9egtgh8v.com^
+||k9x1d1uuj0.com^
 ||k9zxbudgix.com^
 ||kab201k0xs.com^
 ||kabarbisnis.com^
@@ -27078,6 +27074,7 @@ yydstxt*.com/js/html
 ||p74ugyuur.com^
 ||p78vz5tcho.com^
 ||p7d3miyh2q.com^
+||p7w3bmhmns.com^
 ||p800.net^
 ||p8u.hinet.net^
 ||p99c3kwxg.com^
