@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202609302258
-! Last modified: 30 Sep 2026 22:58 UTC
+! Version: 202610012307
+! Last modified: 01 Oct 2026 23:07 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -3453,6 +3453,7 @@ yydstxt*.com/js/html
 ||4l5bbkug99.com^
 ||4mark.net^
 ||4mvkxs0o0.com^
+||4mwe9ki9r.com^
 ||4nc4qc1fo.com^
 ||4nfesm3itf.com^
 ||4nndezdx2u.com^
@@ -3996,6 +3997,7 @@ yydstxt*.com/js/html
 ||6spczz2hj1.com^
 ||6tdz25urqj.com^
 ||6uliq2uive.com^
+||6ulv19ce9.com^
 ||6v2wkfw6pc.com^
 ||6v4.cn^$third-party
 ||6vhao.tv/d/
@@ -6911,6 +6913,7 @@ yydstxt*.com/js/html
 ||asplundh.com^
 ||asquareddesignstudio.com^
 ||asrmicro.com^
+||asrxwyud2.com^
 ||asry4.com^
 ||assaygenie.com^
 ||assayyarat.com^
@@ -16854,6 +16857,7 @@ yydstxt*.com/js/html
 ||gp.jstv.com^
 ||gp.zaiyunli.cn^
 ||gp123.cc/20*ad/
+||gp2mi428s.com^
 ||gp32spain.com^
 ||gpbikes.com^
 ||gpcasla.org^
@@ -29972,6 +29976,7 @@ yydstxt*.com/js/html
 ||rhinosgames.com^
 ||rhiolf.cn^
 ||rhizome.org^
+||rhl8r3dkc.com^
 ||rhmfj.com^
 ||rhmt1jjyo.com^
 ||rhnipjxcxlhzbc.com^
@@ -33721,6 +33726,7 @@ yydstxt*.com/js/html
 ||tflic.com^
 ||tfnux.org^
 ||tfqpb2940637fafa.com^
+||tftwrvvavlpjjq.com^
 ||tfwiki.net^
 ||tfyam4np2y.com^
 ||tg0val4vb.com^
@@ -34073,6 +34079,7 @@ yydstxt*.com/js/html
 ||threepigeons.com^
 ||threesixtyholidays.com^
 ||threetruck.com^
+||thresher30.com^
 ||thrilltrek.com^
 ||thrio.io^
 ||thriveautosales.com^
@@ -37999,6 +38006,7 @@ yydstxt*.com/js/html
 ||xmfang.com^
 ||xmfly.net^
 ||xmfun.com^
+||xmggucgmy.com^
 ||xmgi1tqka.com^
 ||xmgtja.com^
 ||xml-journal.net^
@@ -38796,6 +38804,7 @@ yydstxt*.com/js/html
 ||yr7unl1qs.com^
 ||yready.net^
 ||yrgsqi0zc.com^
+||yrjxf61zb.com^
 ||yrnv.cn^
 ||yronesefurther.org^
 ||yrr56.com/mp4/pt_720.
@@ -39091,6 +39100,7 @@ yydstxt*.com/js/html
 ||zb4ohbnsf9.com^
 ||zbcdn.net/__uvjgyw/slb.default.js
 ||zbcdn.net^
+||zbeh6v9jj.com^
 ||zbgoyqs.xyz^
 ||zbio.net^
 ||zbjimg.com/static/union/
