@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202610022256
-! Last modified: 02 Oct 2026 22:56 UTC
+! Version: 202610032206
+! Last modified: 03 Oct 2026 22:06 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -3005,6 +3005,7 @@ yydstxt*.com/js/html
 ||2j9banjbst.com^
 ||2jdr5wuyzf.com^
 ||2juyabihe.com^
+||2ka41vagh.com^
 ||2kandy.com/js/123/
 ||2kbmdtlgme.com^
 ||2likemobile.com^
@@ -4367,6 +4368,7 @@ yydstxt*.com/js/html
 ||8spjnme44.com^
 ||8stars.com^
 ||8tbllquzr6.com^
+||8tjomzqlw.com^
 ||8upload.com^
 ||8uuxq3tvn.com^
 ||8w6hovz0d2.com^
@@ -9355,6 +9357,7 @@ yydstxt*.com/js/html
 ||c2y82fkyv.com^
 ||c321.cn^
 ||c3mldou51.com^
+||c3mx41iik.com^
 ||c3ntinel.com^
 ||c3p9jkqd22.com^
 ||c3q6l5oeq.com^
@@ -13384,6 +13387,7 @@ yydstxt*.com/js/html
 ||e6ui8pc.com^
 ||e75liqii98.com^
 ||e75shxfd.com^
+||e7x2ccuv9.com^
 ||e81j0an3d.com^
 ||e847.com^
 ||e85375aaf5.com^
@@ -17714,6 +17718,7 @@ yydstxt*.com/js/html
 ||hdpporn.com^
 ||hdrc.yandex.net^
 ||hdrxxx.com^
+||hdry1a0g9.com^
 ||hdsex.org^
 ||hdsexgo.com^
 ||hdsky.me/adv/
@@ -20852,6 +20857,7 @@ yydstxt*.com/js/html
 ||k853.com^
 ||k8dm.com/960x70.
 ||k8mb640mta.com^
+||k8t39fu2n.com^
 ||k8velr77p.com^
 ||k90ey77nx.com^
 ||k98033ewp.com^
@@ -22024,6 +22030,7 @@ yydstxt*.com/js/html
 ||lelekan.com/sp/fmt.js
 ||leleketang.com/dat/a/
 ||lelezard.com^
+||lelzbtm2o.com^
 ||lemagasindubtp.com^
 ||lemagon.com^
 ||leminor.com^
@@ -30248,6 +30255,7 @@ yydstxt*.com/js/html
 ||rotang.com^
 ||rotawheelsuk.com^
 ||rotetv.com^
+||rotovator44.top^
 ||rou.video/_next/static/chunks/pages/fuli-
 ||round-world-trip.com^
 ||rounded.com^
@@ -35734,6 +35742,7 @@ yydstxt*.com/js/html
 ||v53groc9v.com^
 ||v5rv8mnfk.com^
 ||v700rtlhd.com^
+||v7mf6q1mx.com^
 ||v84tz11w7.com^
 ||v85ps46o4.com^
 ||v8fjvv9o3.com^
@@ -37631,6 +37640,7 @@ yydstxt*.com/js/html
 ||x7qhjjryf1.com^
 ||x7u4.com^
 ||x7weiubb2f.com^
+||x8s007rgs.com^
 ||x8wyxfxul.com^
 ||x94pjnejo.com^
 ||x9flqeptn.com^
@@ -37995,6 +38005,7 @@ yydstxt*.com/js/html
 ||xlink3.com^
 ||xlirdr.com^
 ||xlivrdr.com^
+||xlljnxnyhrprhw.com^
 ||xlmp4.cc/js/wcount.js
 ||xlove18.com^
 ||xlpu.cc/adv/
