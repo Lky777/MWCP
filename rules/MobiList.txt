@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202610032206
-! Last modified: 03 Oct 2026 22:06 UTC
+! Version: 202610042218
+! Last modified: 04 Oct 2026 22:18 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2308,6 +2308,7 @@ yydstxt*.com/js/html
 ||0e9knynfb.com^
 ||0elq99i0w.com^
 ||0etmx4b4o.com^
+||0fs3mb0hh7.com^
 ||0fs6pe6w0j.com^
 ||0h9yewgei.com^
 ||0hagal2csg.com^
@@ -3004,10 +3005,12 @@ yydstxt*.com/js/html
 ||2i93en16s9.com^
 ||2j9banjbst.com^
 ||2jdr5wuyzf.com^
+||2ju7b73ton.com^
 ||2juyabihe.com^
 ||2ka41vagh.com^
 ||2kandy.com/js/123/
 ||2kbmdtlgme.com^
+||2lcdjyf37f.com^
 ||2likemobile.com^
 ||2lj9n8sz0w.com^
 ||2lp.net^
@@ -3228,10 +3231,8 @@ yydstxt*.com/js/html
 ||3dmgame.com/page/js/push_browser.js
 ||3dmgame.com/static/image/common/pc_tg3dm.
 ||3dmgame.com/sw/zjworld/js/index.
-||3dmgame.com/templets/common/show_js/show_js.js
 ||3dmgame.com/templets/index/gimg/
 ||3dmgame.com/templets/index/js/huandeng.js
-||3dmgame.com/templets/xiazai/g
 ||3dmgame.com/tools/gamead?
 ||3dmodelspace.com^
 ||3dongsuan.net^
@@ -3709,6 +3710,7 @@ yydstxt*.com/js/html
 ||598282485421.com^
 ||598n8mpd6.com^
 ||599yo.com^
+||59ufs4hof5.com^
 ||59zzkdt8pj.com^
 ||5a8.com^
 ||5ard.com^
@@ -5079,6 +5081,7 @@ yydstxt*.com/js/html
 ||adbd.liuxue86.com^
 ||adbeacon.com^
 ||adbephotos.com^
+||adbfkaoxvm.in^
 ||adbiding.com^
 ||adbind.net^
 ||adbite.com^
@@ -8677,6 +8680,7 @@ yydstxt*.com/js/html
 ||boltservicese.com^
 ||boltsuper4g.com^
 ||boluo888.xyz^
+||boluomao1.com/public/
 ||bombayparsipunchayet.org^
 ||bombeiros-portugal.net^
 ||bomberstream.xyz^
@@ -9208,6 +9212,7 @@ yydstxt*.com/js/html
 ||buyerads.com^
 ||buynship.com^
 ||buypopart.com^
+||buyrbto5z2.com^
 ||buyresearchchemicalsfromchina.com^
 ||buyscripts.in^
 ||buysellads.com^
@@ -14176,6 +14181,7 @@ yydstxt*.com/js/html
 ||esa2j46dwf.com^
 ||esalah.com^
 ||esamemarketingltd.com^
+||esaqwot.com^
 ||esbdgef.com^
 ||esbenshades.com^
 ||escalimetre.com^
@@ -15864,6 +15870,7 @@ yydstxt*.com/js/html
 ||g5xu1dslr6.com^
 ||g64njjhyh.com^
 ||g66ryy88z.com^
+||g6f0w30cze.com^
 ||g6ird1tez2.com^
 ||g6x2uvza37.com^
 ||g89eyc8a1.com^
@@ -17338,6 +17345,7 @@ yydstxt*.com/js/html
 ||h2hbench.com^
 ||h2o-systems.net^
 ||h2tcbox.baidu.com^
+||h32rbpk7ne.com^
 ||h3e8.com^
 ||h3t4d5c.com^
 ||h40q9nv18.com^
@@ -22843,6 +22851,7 @@ yydstxt*.com/js/html
 ||luqichao.com^
 ||luqmanacademy.com^
 ||lureboutiqueclothing.com^
+||lurhtbf.com^
 ||lurkerlounge.com^
 ||lushpalace.com^
 ||lust-matureporn.com^
@@ -26387,6 +26396,7 @@ yydstxt*.com/js/html
 ||odiakhati.in^
 ||odishatv.in^
 ||odisseias.com^
+||odj3j8dsff.com^
 ||odjfd.com^
 ||odk-x.org^
 ||odkrywca.net^
@@ -30312,6 +30322,7 @@ yydstxt*.com/js/html
 ||rptools.net^
 ||rpvkpz.icu^
 ||rqilioakof.icu^
+||rqr.cc/mm.
 ||rqshuwu.com^
 ||rrauction.com^
 ||rrbc-online.org^
@@ -32431,6 +32442,7 @@ yydstxt*.com/js/html
 ||springfarma.com^
 ||springinure.com^
 ||sprinkle.com^
+||sprinkler69.com^
 ||sprinxsolutions.com^
 ||spruch-archiv.com^
 ||sprutcam.com^
@@ -35838,6 +35850,7 @@ yydstxt*.com/js/html
 ||vb5gi1zp5.com^
 ||vbfsljw.com^
 ||vbgyniffuy.com^
+||vbhbzhjaeudztw.com^
 ||vbjmrh.cn^
 ||vbs-hobby.com^
 ||vbspiders.com^
@@ -37725,6 +37738,7 @@ yydstxt*.com/js/html
 ||xdlipr.icu^
 ||xdnice.com/themes/xdnice/public/assets/images/quna.png
 ||xdnice.com/themes/xdnice/public/assets/images/xdnice.png
+||xdnjqtn.com^
 ||xdxqw9nnr.com^
 ||xdyjt.com^
 ||xdyjy.com^
