@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202610060045
-! Last modified: 06 Oct 2026 00:45 UTC
+! Version: 202610062258
+! Last modified: 06 Oct 2026 22:58 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2288,6 +2288,7 @@ yydstxt*.com/js/html
 ||0bhl1k9hi.com^
 ||0bs094t26.com^
 ||0c484j022z.com^
+||0cvo4ebbpk.com^
 ||0d1oo8jp69.com^
 ||0dy3evz6x.com^
 ||0e1y8x7ft.com^
@@ -3262,6 +3263,7 @@ yydstxt*.com/js/html
 ||3xeedcdci.com^
 ||3xeo00tqz.com^
 ||3xfmjizq.xyz^
+||3ylj411rdn.com^
 ||3yx95kv3at.com^
 ||4-u-h-f.com^
 ||4-walls.net^
@@ -8794,6 +8796,7 @@ yydstxt*.com/js/html
 ||bpmlt.com^
 ||bprmkpsf.com^
 ||bpsbtph-ntb.com^
+||bpucmkg.com^
 ||bpuvuun0xg.com^
 ||bpvxncqr.com^
 ||bqg126.com/js/hf
@@ -13591,6 +13594,7 @@ yydstxt*.com/js/html
 ||egypt-business.com^
 ||ehardhat.com^
 ||ehayes.com^
+||ehcecws.com^
 ||ehchocolatier.com^
 ||ehealthme.com^
 ||eheihe.com^
@@ -19782,6 +19786,7 @@ yydstxt*.com/js/html
 ||j3fvhzit0.com^
 ||j3gkwzt7o.com^
 ||j3idyosut.com^
+||j3ossmqgmc.com^
 ||j4ehcgluds.com^
 ||j4s12kfavg.com^
 ||j51.net^
@@ -32666,6 +32671,7 @@ yydstxt*.com/js/html
 ||styluxe.com^
 ||su.bdimg.com/static/dspui/js/
 ||su0k43kcy.com^
+||su4wxsrtku.com^
 ||suabotchinhhang.com^
 ||suachuamaybienap.com^
 ||suarapantura.com^
@@ -36978,6 +36984,7 @@ yydstxt*.com/js/html
 ||wk70ccjk1a.com^
 ||wkbgh.com^
 ||wkbw.com^
+||wkduza2x10.com^
 ||wkhgsachie.com^
 ||wkjwumtex3.com^
 ||wkkk.net^
@@ -37853,6 +37860,7 @@ yydstxt*.com/js/html
 ||xtfxjlpglilrdo.com^
 ||xtg5gdugqi.com^
 ||xtjgtbzugy.com^
+||xtorbk1g3f.com^
 ||xtorpedos.com^
 ||xtp1027.top^
 ||xtracky.com^
