@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202610092311
-! Last modified: 09 Oct 2026 23:11 UTC
+! Version: 202610102226
+! Last modified: 10 Oct 2026 22:26 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -296,8 +296,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /993dy_new//gg123/
 /99rejs/js/adv
 /99vjj/*$third-party
-/a-duoduo/add-
-/a-tian/tian-*-good.js
 /a/p?adid=
 /a960x55.gif
 /ab_my/pc_pf.js
@@ -472,7 +470,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /fage/ad.js
 /fage/sjad.js
 /fake_app.mp4$domain=91porn.com
-/fawu999/*.js$script,third-party
 /fdjdjghrut_tt.js
 /fduttjalivqpo/
 /float_r.js
@@ -532,7 +529,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /haijiao3/*/popup.
 /hao123_api/api/cpc/
 /heituad/
-/heji/mei00*.js
 /hjstore/system/banner/*.txt
 /hm.js?$third-party,xmlhttprequest
 /hndxweb/push$popup,third-party
@@ -869,7 +865,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /template/m1938pc/bd/*.js
 /template/paody/aaaa/all-top.js
 /template/shoujigg/
-/template/znfls/asd/
 /template/zsy_badian/dddytt-gg/
 /template/zsy_badian/js/stui_
 /templates/*/js/_banner.js
@@ -965,9 +960,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /yy_transv/js/cmp.js
 /z.zolapp.
 /zcool-analytics.js
-/zz/*_box2.txt
-/zz/wenzi2.txt
-/zz/zuoxia2.txt
 /zzzz/assets/js/common/discor_list.js
 18mh.net##.ad-dialog
 18mh.net##.modal-backdrop
@@ -2282,6 +2274,7 @@ yydstxt*.com/js/html
 ||0oi1ej7mo.com^
 ||0oo9j37xp.com^
 ||0otmh22aj2.com^
+||0qry58i9es.com^
 ||0qxfxqif0.com^
 ||0s1wclct6.com^
 ||0s5qb3rfz.com^
@@ -2512,7 +2505,6 @@ yydstxt*.com/js/html
 ||15tianqi.com^$third-party
 ||160.com/statics/statics/js/code_13.js
 ||160.com/statics/statics/js/code_15.js
-||1615vip.com^*.jsonp
 ||1616.net/jd/data/index/indexad.json
 ||1618wear.com^
 ||162ck.com/v*.js
@@ -2657,6 +2649,7 @@ yydstxt*.com/js/html
 ||1ioe.com^
 ||1iw9r46xh5.com^
 ||1j397opcuw.com^
+||1jlbewhnp5.com^
 ||1jlp1qbgu.com^
 ||1jzocofm4.com^
 ||1k1bd77k9.com^
@@ -3207,6 +3200,7 @@ yydstxt*.com/js/html
 ||3vvuu0z8ui.com^
 ||3wheelerworldforums.com^
 ||3wk.cc/images/*.gif
+||3wrv1uzotr.com^
 ||3wsjw.com^
 ||3wzq2yxde.com^
 ||3x1ry6we9.com^
@@ -3246,6 +3240,7 @@ yydstxt*.com/js/html
 ||4249350.xyz^
 ||4275.com/css/91kf.
 ||42c95c651a.com^
+||42mu2c4akt.com^
 ||42vaywaovr.com^
 ||431kls9qsf.com^
 ||436655731.xyz^
@@ -4764,7 +4759,6 @@ yydstxt*.com/js/html
 ||acgbenzi.com^$image
 ||acgbrands.com^
 ||acgbryg.com^
-||acggd.com/4d22b/
 ||acgland.com^
 ||acgnz.cn/static/b.js
 ||acgnz.cn/static/i.js
@@ -5782,8 +5776,6 @@ yydstxt*.com/js/html
 ||alicdn.com/ad-product/
 ||alicdn.com/app/wxbpromotion/*/js/cpm/cpm_jq.js
 ||alicdn.com/g/mm/afp-cdn/js/
-||alicdn.com/img/ibank/*_!!2200581616124-
-||alicdn.com/img/ibank/*_!!2212029770429-
 ||alicdn.com/img/ibank/*_1085845541.
 ||alicdn.com/img/ibank/*_1281922417.
 ||alicdn.com/img/ibank/*_1533190909.
@@ -5809,7 +5801,7 @@ yydstxt*.com/js/html
 ||alicdn.com/tfscom/*.sina.
 ||alicdn.com/tps/*-950-90.
 ||alicdn.com/tps/i3/t19nacfkfaxxcktcts-300-100.jpg
-||alicdn.com^$domain=1avlang.com|2334n.com|51dll.com|52kpop.com|5xx44.com|5xx77.com|63ef.com|69t41.com|7mav2.com|99a21.com|aotu101.com|ccxx99.com|dytt.com|hanfan.cc|jb51.net|jitapu.com|junying.com|jvhao.com|lady3.xyz|magnet2048.com|qingmanyong.com|qyl00.com|qyl222.com|spqi.xyz|supfree.net|that2.info|thztv.cc|ttww22.com|wenkuxiazai.com|xiaomingming.org
+||alicdn.com^$domain=1avlang.com|2334n.com|51dll.com|52kpop.com|5xx44.com|5xx77.com|63ef.com|69t41.com|7mav2.com|99a21.com|aotu101.com|ccxx99.com|dytt.com|hanfan.cc|jb51.net|jitapu.com|junying.com|jvhao.com|lady3.xyz|magnet2048.com|qingmanyong.com|spqi.xyz|supfree.net|that2.info|thztv.cc|ttww22.com|wenkuxiazai.com|xiaomingming.org
 ||alicdn.com^$domain=2c2.website|2p8.space|adultgao.com|caopop.com|caoporn.com|caouoo.com|caox.cc|h3e.pw|h3y.pw|k88.club|me88.pw|p5p.space|se88.space|t2p.space|tb001.xyz|te88.pw|vwan.xyz|xhao1.com
 ||alicdn.com^$domain=99re.com
 ||alicdn.com^*_!!3361094544.
@@ -7122,7 +7114,6 @@ yydstxt*.com/js/html
 ||awh3vupyf.com^
 ||awifi.cn^$third-party
 ||awin1.com^
-||awjakpos.com^
 ||awo-link.com^
 ||awomanandherwand.com^
 ||awresports.com^
@@ -7150,6 +7141,7 @@ yydstxt*.com/js/html
 ||axishistory.com^
 ||axisnow.io^
 ||axjces.com^
+||axkozwhiqah.in^
 ||axnbnasrq.com^
 ||axolab.org^
 ||axonixgrid.com^
@@ -7219,7 +7211,6 @@ yydstxt*.com/js/html
 ||b1.b2b168.com^
 ||b1.b2b168.net^
 ||b1.c1km4.com^
-||b1.cdn.mh3666.com/html/
 ||b1.engdvd.com^
 ||b1.xiao84.com^
 ||b11tuokk6g.com^
@@ -11640,7 +11631,6 @@ yydstxt*.com/js/html
 ||dabradata.com^
 ||dachdecker.org^
 ||daciuehpyf.com^
-||dada8828.com/js/aaa/
 ||dadainput.com^
 ||dadant.com^
 ||dadcams.com^
@@ -15246,7 +15236,6 @@ yydstxt*.com/js/html
 ||freehao123.com/wp-content/uploads/2017/05/mmkdm.png
 ||freehdmoviesall.com^
 ||freeicons.io^
-||freejavbt.com/assets/images/banner
 ||freejavtorrent.com^
 ||freejoomlatemplatez.com^
 ||freemansfurnitureinc.com^
@@ -15450,6 +15439,7 @@ yydstxt*.com/js/html
 ||fun720p.com^
 ||fun8.us^$domain=cartoonmad.com
 ||funai.com^
+||funambulist98.com^
 ||func.tw/image/func2.png
 ||funconnectsg.com^
 ||functionhealth.com^
@@ -17501,7 +17491,6 @@ yydstxt*.com/js/html
 ||hello-jm.com/foot.js
 ||hello-vip4.com.cn^
 ||hello-vip5.com.cn^
-||helloavgirls.com/public/hg/
 ||helloaxel.com^
 ||hellobi.com^
 ||hellocenter.xyz^*.mp4$rewrite=abp-resource:blank-mp4,domain=localmv1.com
@@ -17862,7 +17851,6 @@ yydstxt*.com/js/html
 ||hlq07cj71c.com^
 ||hlrxp2940637fafa.com^
 ||hlsimu.com^
-||hltoon.com/hanman/static/dist/ppm/js/foot
 ||hluraiwoy.com^
 ||hlxgq2940637fafa.com^
 ||hm.baidu.com/mkt.js
@@ -18715,7 +18703,6 @@ yydstxt*.com/js/html
 ||igtra.com^
 ||igu888.com^
 ||iguanacustom.com^
-||ih336.com^*a.js
 ||ihalcon.com^
 ||ihappyread.com^
 ||ihbkqdj55.com^
@@ -22458,7 +22445,6 @@ yydstxt*.com/js/html
 ||lxyun.xyz^
 ||lyajuchnb.com^
 ||lycbiz.com^
-||lycc72.com/resources/js/content.js
 ||lyd.com.cn^*950-90.
 ||lyellcollection.org^
 ||lyftadev.com^
@@ -23487,7 +23473,6 @@ yydstxt*.com/js/html
 ||mgusl2940637fafa.com^
 ||mguwp.com^
 ||mh-chine.com^
-||mh3666.com^*.jsonp
 ||mhaqoffcj7.com^
 ||mhc.com^
 ||mhcdkey.com^
@@ -24826,6 +24811,7 @@ yydstxt*.com/js/html
 ||napofilm.net^
 ||napolun.com^
 ||napps-3.com^
+||nar17stuqf.com^
 ||naranjadev.com^
 ||narendratama.com^
 ||narrabrianglican.org^
@@ -26124,7 +26110,6 @@ yydstxt*.com/js/html
 ||one-place.com^
 ||one-vv0352.com^
 ||one-vv7109.com^
-||one101.xyz/data/images/*.gif
 ||oneadtag.com^
 ||onebangs.com^
 ||onebid.cn^
@@ -28410,6 +28395,7 @@ yydstxt*.com/js/html
 ||q8-one.com^
 ||q84sale.com^
 ||q8pmxabng9.com^
+||q9cu7eok92.com^
 ||q9ss0yqwa.com^
 ||qa2bdtwm7h.com^
 ||qab0m5irus.com^
@@ -31851,7 +31837,6 @@ yydstxt*.com/js/html
 ||spale.com^
 ||spamt.net^
 ||spanish-architects.com^
-||spanking.wiki/morning-bread-
 ||spanner44.com^
 ||spannerspotter.com^
 ||spaparts.com^
@@ -32092,7 +32077,6 @@ yydstxt*.com/js/html
 ||ssww.com^
 ||ssyegkbu0g.com^
 ||ssyw2018.com^
-||ssyy881.com/zz/
 ||st-ic.com^
 ||staab-architekten.com^
 ||stabila.com^
@@ -32828,6 +32812,7 @@ yydstxt*.com/js/html
 ||t7fv5mjt8i.com^
 ||t7h2otlhd.com^
 ||t7ywa5ai3.com^
+||t8yctltd8s.com^
 ||t9x2gu6it3.com^
 ||ta.trs.cn^$third-party
 ||ta7088hrd.com^
@@ -35775,9 +35760,6 @@ yydstxt*.com/js/html
 ||vjvj.vj24co.com^
 ||vk-cdnvideo.com^
 ||vk-proxy.com^
-||vk920.com/img1/
-||vk922.com/img/
-||vk923.com/img/
 ||vkandian.cn/footjs/
 ||vkandian.cn/peitu/
 ||vkdn.com^
@@ -36534,7 +36516,6 @@ yydstxt*.com/js/html
 ||whazrm9wa.com^
 ||whb.cn^
 ||whdl.org^
-||whdx.cc/js/
 ||wheatonlibrary.org^
 ||wheelbarrow64.com^
 ||wheelpros.com^
@@ -36800,6 +36781,7 @@ yydstxt*.com/js/html
 ||wneia.iaskhot.com^
 ||wnep.com^
 ||wnezyh.com^
+||wnimg2.cfd/data/t/*.gif
 ||wnll.cn^
 ||wnouncillorswhowish.com^
 ||wnwkt6206g.com^
@@ -38072,7 +38054,6 @@ yydstxt*.com/js/html
 ||yin1.zgpingshu.com^
 ||yin9bc.top^
 ||yinengworld.com^
-||yingav.net/images/content/spot01.jpg
 ||yinggoulg.com^
 ||yinghua8.*/bar/
 ||yinghuavideo.com/bar/
@@ -38990,6 +38971,7 @@ yydstxt*.com/js/html
 ||zthuhludil.com^
 ||ztjal.info/wp-content/plugins/kill-adblock/
 ||ztsdermyy.com^
+||zttrpnhufhdxno.com^
 ||ztupic.com^
 ||ztyumn.ifeng.com^
 ||zu9srbxg0t.com^
