@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202610102226
-! Last modified: 10 Oct 2026 22:26 UTC
+! Version: 202610112249
+! Last modified: 11 Oct 2026 22:49 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2382,6 +2382,7 @@ yydstxt*.com/js/html
 ||1024down.com/images/*.gif
 ||1024film.com^
 ||1024mzs.pw^$popup,third-party
+||1024txt.com/js/
 ||1024wanzhai.$popup,third-party
 ||102lightyearsaway.com^
 ||102tv.cn/js/main.js
@@ -2558,6 +2559,7 @@ yydstxt*.com/js/html
 ||17173cdn.com/js/play/page/pthridplayerad.js
 ||17173cdn.com^*/js/task/src/task/live/greenhand/
 ||1722t.com/js/jquery.js
+||1736js66.com^
 ||174.123.15.43:8080
 ||177o.com^
 ||178.com/glr.js
@@ -2943,6 +2945,7 @@ yydstxt*.com/js/html
 ||2u2wyftqmr.com^
 ||2vcb9onxjm.com^
 ||2vwijqat.com^
+||2w7urj3f2.com^
 ||2wg8pp90e.com^
 ||2wqs6d2gp.com^
 ||2wsz81yfp.com^
@@ -3971,6 +3974,7 @@ yydstxt*.com/js/html
 ||7ho8oc3svg.com^
 ||7hyy.com^
 ||7imz0d5nay.com^
+||7istqn6fh.com^
 ||7iwxojx1s.com^
 ||7jf3kxi6bq.com^
 ||7jqi6um1g.com^
@@ -7628,6 +7632,8 @@ yydstxt*.com/js/html
 ||bchina-1.xsfaya.com^
 ||bciholdingsinc.com^
 ||bcjhlhuhq.icu^
+||bcmbmedbqx.icu^
+||bcmbmedbqx.top^
 ||bcmj.org^
 ||bcparis.com^
 ||bcpoker.com^
@@ -10966,6 +10972,7 @@ yydstxt*.com/js/html
 ||contextualadv.com^
 ||contiamoci.com^
 ||continuouswave.com^
+||contortionist08.com^
 ||contract-factory.com^
 ||contractorpipelineus.com^
 ||contractorplusclub.com^
@@ -15908,6 +15915,7 @@ yydstxt*.com/js/html
 ||geelark.cn^
 ||geeve.com^
 ||gef153x1u.com^
+||gefxhyby9.com^
 ||gegeddd.com^
 ||gegeyingshi.com/template/*/images/g_js/
 ||geiconsultants.com^
@@ -25901,6 +25909,7 @@ yydstxt*.com/js/html
 ||oducal.com^
 ||odyguild.org^
 ||odyssee-vins.com^
+||odzfjvbsd.com^
 ||oe8mnxdtoi.com^
 ||oe9s24wy9.com^
 ||oeaznhm2wx.com^
@@ -26833,6 +26842,7 @@ yydstxt*.com/js/html
 ||pb1b7cqwvs.com^
 ||pbagalleries.com^
 ||pbcexperts.org^
+||pbeldhnbk.com^
 ||pbh-btn.com^
 ||pbkrs.com^
 ||pbmp.ali213.net/js/
@@ -26944,6 +26954,8 @@ yydstxt*.com/js/html
 ||peachparlour.com^
 ||peachparts.com^
 ||peachreel.com^
+||peachring.com/new-page/js/human-verify.
+||peachring.com/popunder$popup
 ||peachring.com^
 ||peakaccount.com^
 ||peakbook.org^
@@ -28430,6 +28442,7 @@ yydstxt*.com/js/html
 ||qd32n9lpq.com^
 ||qd38xgoin9.com^
 ||qdaily.com/mount_details/pc/
+||qddlm.com^
 ||qddnscdn.com^
 ||qdhfsd.com^
 ||qdjimo.com/html/js/
@@ -28598,6 +28611,7 @@ yydstxt*.com/js/html
 ||qjsalib.com^
 ||qk6.org/file/script/
 ||qkdrsi4et.com^
+||qkfywghv.com^
 ||qkg7yplpfo.com^
 ||qkixeld.xyz^
 ||qkr4uac6tx.com^
@@ -32801,6 +32815,7 @@ yydstxt*.com/js/html
 ||t1.xuefen.com.cn^
 ||t19olm6fd.com^
 ||t298jlqqf.com^
+||t2f3pqd40.com^
 ||t2q0gv7zjg.com^
 ||t2rytwsha.com^
 ||t4s8t6p39.com^
@@ -35975,6 +35990,7 @@ yydstxt*.com/js/html
 ||vvnovel.com^
 ||vvogrqq6r.com^
 ||vvqc95xhtx.com^
+||vvs0eu66z.com^
 ||vvtpftuiqrbdha.com^
 ||vvv.ieduw.com^
 ||vvvvvvaria.org^
@@ -36267,6 +36283,7 @@ yydstxt*.com/js/html
 ||wc74aa875.com^
 ||wcardp.io^
 ||wcel.org^
+||wcu79k85a.com^
 ||wd-ret.io^
 ||wde0a1qrm.com^
 ||wdff.buzz/hengf.
@@ -37666,6 +37683,7 @@ yydstxt*.com/js/html
 ||xwcm.net/caches/ahm.
 ||xwddvfoasvtxjo.com^
 ||xwdsp.com^
+||xwpmbxdwlkrfzo.com^
 ||xx1t.com^
 ||xxav.one/i/app/
 ||xxdm.in/js/union/
