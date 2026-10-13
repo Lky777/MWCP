@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202610130117
-! Last modified: 13 Oct 2026 01:17 UTC
+! Version: 202610132314
+! Last modified: 13 Oct 2026 23:14 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -511,7 +511,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /ggpic/
 /ggtp/
 /ggvip/*.js
-/gh/91porny/
 /gmu-download.oss-
 /googleanalytics.js
 /gtool.js$domain=51live.com|52waha.com|ccav5.com|zhibo7.com
@@ -528,6 +527,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /gwunggou/
 /h/k.php?u=*&l=*&v=$third-party
 /haijiao3/*/popup.
+/hao123/card/fill
 /hao123_api/api/cpc/
 /heituad/
 /hjstore/system/banner/*.txt
@@ -582,7 +582,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 /index.php/customize/list?params=
 /index.php/statistics/ads_show?
 /index.php/user/ajax_ulog/?ac=
-/indexpc.html?agent=$popup,third-party
 /iscar.svc/getadvert?
 /javhd-jp-970x170.jpg
 /jdzjgg/
@@ -2198,6 +2197,7 @@ yydstxt*.com/js/html
 ||04cmm.com:8888/js
 ||04stream.tv/sda/
 ||0512s.com^$third-party
+||051ss3usg.com^
 ||0523job.com^
 ||052tv.com^
 ||0575bbs.com/js/float.js
@@ -2848,7 +2848,6 @@ yydstxt*.com/js/html
 ||26yj3wme9q.com^
 ||273694077.xyz^
 ||27716.com^
-||27gh.cc^$popup,third-party
 ||27ocdto914.com^
 ||27trip.com^
 ||28.com/count.js
@@ -7133,6 +7132,7 @@ yydstxt*.com/js/html
 ||awin1.com^
 ||awo-link.com^
 ||awomanandherwand.com^
+||awp8r0f7q.com^
 ||awqb0f40a9yo.net^
 ||awresports.com^
 ||aws-agent.net^
@@ -11554,6 +11554,7 @@ yydstxt*.com/js/html
 ||ctiforum.com^
 ||ctirhpp.com^
 ||ctjdmar.com^
+||ctk8ifokyw.com^
 ||ctmedia.io^
 ||ctmirror.org^
 ||ctoit.net^
@@ -19156,6 +19157,7 @@ yydstxt*.com/js/html
 ||illshareit.com^
 ||illuminitaly.com^
 ||illumos.org^
+||illusionist28.com^
 ||illustratorsleak.com^
 ||illustrious-consideration.com^
 ||ilnatale.org^
@@ -20278,6 +20280,7 @@ yydstxt*.com/js/html
 ||jgjscl.com^
 ||jglt.net^
 ||jgo1pcbx9.com^
+||jgp0ohuv2.com^
 ||jgpo1zqhj.com^
 ||jgwy.net^
 ||jh2szzt7n.com^
@@ -20606,6 +20609,7 @@ yydstxt*.com/js/html
 ||jpsoft.com^
 ||jpxjpg5.top^
 ||jpzbjh.icu^
+||jq5ls14m0.com^
 ||jqbhtv.icu^
 ||jqfuser.icu^
 ||jqjoerm.com^
@@ -23044,6 +23048,7 @@ yydstxt*.com/js/html
 ||ma-bimbo.com^
 ||ma1.meishij.net^
 ||ma7room.com^
+||ma9gqw1l4.com^
 ||maaal.com^
 ||maadurgagift.com^
 ||maanation.com^
@@ -29483,6 +29488,7 @@ yydstxt*.com/js/html
 ||qy0.ru/data/game/
 ||qy0.ru/data/t/*.gif
 ||qy1.ru/data/game/
+||qy4l27p9f.com^
 ||qy55.com^
 ||qydress.net^
 ||qyel.cn^
@@ -37855,6 +37861,7 @@ yydstxt*.com/js/html
 ||x6d93mku0.com^
 ||x6img.com^$domain=picturedata.org
 ||x6kd8l204b.com^
+||x70wk5e54.com^
 ||x7d.com.cn^
 ||x7qhjjryf1.com^
 ||x7u4.com^
@@ -37971,6 +37978,7 @@ yydstxt*.com/js/html
 ||xerorobot.org^
 ||xerosw.org^
 ||xf1re.com^
+||xf80vxk3rc.com^
 ||xfdlfj.icu^
 ||xfemaledom.com^
 ||xfgun2940637fafa.com^
@@ -38807,6 +38815,7 @@ yydstxt*.com/js/html
 ||yikehw.com^
 ||yikeyz.com/pm.js
 ||yilianmeiti.com^
+||yilufff.com^
 ||yimbly.com^
 ||yimg.com/cv/ae/default/*_static-jpeg_
 ||yimg.com/cv/api/hk/fp_czy_ad/
@@ -39710,6 +39719,7 @@ yydstxt*.com/js/html
 ||zrrglobal.com^
 ||zrz0c0sh7e.com^
 ||zsbcs.net^
+||zsdrjjcqutdnja.com^
 ||zsfriend.com^
 ||zshuju.com.cn^
 ||zsi24utdu.com^
