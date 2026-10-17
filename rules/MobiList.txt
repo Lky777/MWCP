@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202610162202
-! Last modified: 16 Oct 2026 22:02 UTC
+! Version: 202610172124
+! Last modified: 17 Oct 2026 21:24 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2102,6 +2102,7 @@ yydstxt*.com/js/html
 ||0etmx4b4o.com^
 ||0fs3mb0hh7.com^
 ||0fs6pe6w0j.com^
+||0grzr3u2t.com^
 ||0h9yewgei.com^
 ||0hagal2csg.com^
 ||0hagz9mdc.com^
@@ -2509,6 +2510,7 @@ yydstxt*.com/js/html
 ||1n4vrzxdms.com^
 ||1nevsf92q.com^
 ||1novels.com^
+||1nvnkyg65.com^
 ||1o0.net^
 ||1o0g85u7k1.com^
 ||1o1nuqbjea.com^
@@ -2708,6 +2710,7 @@ yydstxt*.com/js/html
 ||29zle9rx4.com^
 ||2agmk5mh07.com^
 ||2amok.com^
+||2bguv53rv.com^
 ||2btu.com/gg.jpg
 ||2bwiihrajn.com^
 ||2c4nzn0rn8.com^
@@ -2730,6 +2733,7 @@ yydstxt*.com/js/html
 ||2g8lomzrb.com^
 ||2gnc.com^
 ||2gvnr9sx9.com^
+||2haxnvf7i.com^
 ||2hiu.com^$third-party
 ||2hlcovn7n.com^
 ||2hqxy07fw.com^
@@ -2805,6 +2809,7 @@ yydstxt*.com/js/html
 ||312528.com^
 ||312910.xyz^
 ||3134345.xyz^
+||313xidqu3.com^
 ||3158.cn/min/webim.
 ||3158.cn/static/js/fixbtm/
 ||3158.cn^*_analyser.
@@ -3860,6 +3865,7 @@ yydstxt*.com/js/html
 ||8-g-w-j.com^
 ||8-lives-cat.io^
 ||8-x-u-a.com^
+||804uptpbx.com^
 ||8052qydk7.com^
 ||8070kk.com/statics/js/guo
 ||80753325p.com^
@@ -4228,6 +4234,7 @@ yydstxt*.com/js/html
 ||9r0v0go0el.com^
 ||9rkh7nbaj.com^
 ||9s3g5vd8or.com^
+||9sgckbc7e.com^
 ||9skm.com^
 ||9soefyenw.com^
 ||9swovqnp52.com^
@@ -7017,6 +7024,7 @@ yydstxt*.com/js/html
 ||b8o9c4s42l.com^
 ||b9792c58e5.com^
 ||b9jda4zig.com^
+||ba5la9ccq.com^
 ||baadmay.com^
 ||baakmotocyclettes.com^
 ||baanfinder.com^
@@ -8290,6 +8298,7 @@ yydstxt*.com/js/html
 ||bobosclothing.com^
 ||bobosco.com^
 ||bobsleddomesticglandular.com^
+||bobztdbqdxrdng.com^
 ||bocaditoshome.com^
 ||bocco.com^
 ||boce.com/statics/img/img27b.png
@@ -9394,6 +9403,7 @@ yydstxt*.com/js/html
 ||causa-arcana.com^
 ||cautious60.com^
 ||cautop.com^
+||cavalcade86.com^
 ||cave-saint-desirat.com^
 ||cavediver.net^
 ||cavershambooksellers.com^
@@ -13750,6 +13760,7 @@ yydstxt*.com/js/html
 ||eptura.com^
 ||eq9qnbh53.com^
 ||eqads.com^
+||eqcwxenk7.com^
 ||eqemulator.org^
 ||eqlhb8m42q.com^
 ||eqmusicblog.com^
