@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202610172124
-! Last modified: 17 Oct 2026 21:24 UTC
+! Version: 202610182126
+! Last modified: 18 Oct 2026 21:26 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -21,7 +21,7 @@ $object,script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com
 $popup,third-party,domain=76fengyun.com|avsdown.com|downdv.com|downdvs.com|downhhh.com|imedown.info|jandown.com|mimima.com|mnks.jxedt.com|rmdown.com|soyunpan.com|xmflv.com
 $script,subdocument,third-party,domain=dlkoo.com
 $script,subdocument,third-party,websocket,xmlhttprequest,domain=bhshu.net|louzhong8.com|miwens.com
-$script,third-party,domain=52movieba.com|audio699.com|duboku.info|kan-tv.com|m.supfree.net|mvffm.net|xiaoheimi.cc|xiaoyakankan.com|xunleisou.info|xunleisou.life
+$script,third-party,domain=52movieba.com|audio699.com|duboku.info|kan-tv.com|m.supfree.net|mvffm.net|xiaoheimi.cc|xiaoyakankan.com|xunleisou.forum|xunleisou.info|xunleisou.life
 $script,third-party,domain=cilimao.co|cilimao.one
 $script,third-party,domain=colamanga.com
 $script,third-party,domain=torkitty.com|torkitty.net|torrentkitty.app|torrentkitty.asia|torrentkitty.cam|torrentkitty.ink|torrentkitty.io|torrentkitty.live|torrentkitty.lol|torrentkitty.net|torrentkitty.one|torrentkitty.tv|torrkitty.com
@@ -2086,6 +2086,7 @@ yydstxt*.com/js/html
 ||0998455.com^
 ||0a66kw9r8.com^
 ||0aokpbwui.com^
+||0av9w1ubbh.com^
 ||0b6rvr210q.com^
 ||0bb8jytek.com^
 ||0bhl1k9hi.com^
@@ -3157,6 +3158,7 @@ yydstxt*.com/js/html
 ||4ki42wkux.xyz^
 ||4kngwxegq5.com^
 ||4l5bbkug99.com^
+||4lqs5j3ckn.com^
 ||4mpg.com^
 ||4mvkxs0o0.com^
 ||4mwe9ki9r.com^
@@ -3910,6 +3912,7 @@ yydstxt*.com/js/html
 ||8684.com/local/bdadv.
 ||8684.com/shuang11/
 ||86growth.com^
+||86k3uw8q98.com^
 ||86o5bui4n.com^
 ||86uk.com/banners/
 ||86uk.com/uploads/*0.gif
@@ -5398,6 +5401,7 @@ yydstxt*.com/js/html
 ||airmyth.com^
 ||airport89.com^
 ||airsextube.com^
+||airsick32.com^
 ||airsoftjunkiez.com^
 ||airtacs.com^
 ||airtelbroadband.in^
@@ -11791,6 +11795,7 @@ yydstxt*.com/js/html
 ||dcdweb.com^
 ||dcdws.net^
 ||dcfbk.com^
+||dcfxk68sp2.com^
 ||dcm-ekurashi.com^
 ||dcntr-ads.com^
 ||dcollection.net^
@@ -15325,6 +15330,7 @@ yydstxt*.com/js/html
 ||fscore.net^
 ||fsdeveloper.com^
 ||fservr.com^
+||fsfptzxqdvvnze.com^
 ||fsgangwu.com^
 ||fshmzxmr.com^
 ||fsiblogxx.com^
@@ -18484,6 +18490,7 @@ yydstxt*.com/js/html
 ||iatchippewa.org^
 ||ib-bank.com^
 ||ib5s02kbxy.com^
+||ib9hmq125v.com^
 ||ibeat-analytics.com^
 ||ibericagold.com^
 ||ibericosmunizpalomo.com^
@@ -20029,6 +20036,7 @@ yydstxt*.com/js/html
 ||jjwxc.net/jjpopup.php
 ||jjyg8.com^
 ||jk6wmqcut2.com^
+||jk8ineoqdj.com^
 ||jkcdn.com^
 ||jkcdns.com^
 ||jkdesa.com^
@@ -20045,6 +20053,7 @@ yydstxt*.com/js/html
 ||jlpcn.net/img/300p-
 ||jlr.org^
 ||jlr3lljrk.com^
+||jlulrz094u.com^
 ||jlwz.cn/js/xf*.js
 ||jlxip.net^
 ||jm3uvitq0.com^
@@ -38702,6 +38711,7 @@ yydstxt*.com/js/html
 ||zettaelectronica.com^
 ||zettlab.com^
 ||zewsnap.com^
+||zexudnxmjadlzg.com^
 ||zeze-hospi.org^
 ||zf56jef1dd.com^
 ||zfae.net^
