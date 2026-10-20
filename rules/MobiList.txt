@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202610192252
-! Last modified: 19 Oct 2026 22:52 UTC
+! Version: 202610202214
+! Last modified: 20 Oct 2026 22:14 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -3701,6 +3701,7 @@ yydstxt*.com/js/html
 ||6mdgv1kmj.com^
 ||6mrhrbfqw9.com^
 ||6mtv.com^
+||6mujth3wgx.com^
 ||6n528aywi9.com^
 ||6o04ylee62.com^
 ||6o2k80jf8w.com^
@@ -4048,6 +4049,7 @@ yydstxt*.com/js/html
 ||8jkxzybcq.com^
 ||8k69vb6421.com^
 ||8k9ynfczfd.com^
+||8kbg4gnw32.com^
 ||8khgnlxk6.com^
 ||8lj6g9gz4.com^
 ||8lmggang9.com^
@@ -7076,6 +7078,7 @@ yydstxt*.com/js/html
 ||b7ijghyla1.com^
 ||b7pgs2ifvq.com^
 ||b7sw62.pingshu8.xyz^
+||b80wsvgkfc.com^
 ||b8mnb9ke9z.com^
 ||b8o9c4s42l.com^
 ||b9jda4zig.com^
@@ -8486,6 +8489,7 @@ yydstxt*.com/js/html
 ||boyloves.fun^*/img/20*.gif
 ||boysfood.com^
 ||bp-system.com^
+||bp44bqnvdb.com^
 ||bp8mct71pn.com^
 ||bpcyber.net^
 ||bphzzzguoqrnxu.com^
@@ -10360,6 +10364,7 @@ yydstxt*.com/js/html
 ||cmlsupply.com^
 ||cmm.xmfish.com^
 ||cmmfiles.com^
+||cmn4xjgp67.com^
 ||cmog.org^
 ||cmotomotiv.com^
 ||cmread.com^
@@ -12280,6 +12285,7 @@ yydstxt*.com/js/html
 ||dkc63u5su8.com^
 ||dkfabjmpy.com^
 ||dkoptics.com^
+||dkphbpakvgftxm.com^
 ||dl-appmarket.com^
 ||dlads.cn^$third-party
 ||dlaywx.com^
@@ -18264,6 +18270,7 @@ yydstxt*.com/js/html
 ||iaomt.org^
 ||iap2e750o.com^
 ||iapolo.com/myjs/
+||iari2sq1ve.com^
 ||iask.ca/img/*.gif
 ||iask.cn^*.data.
 ||iask.cn^*.param.
@@ -32971,6 +32978,7 @@ yydstxt*.com/js/html
 ||testnetscan.com^
 ||testprepkart.com^
 ||tetiaetwg.com^
+||tetrahedron55.com^
 ||tetsudo.com^
 ||tettacrown.com^
 ||tettenude.com^
@@ -34974,6 +34982,7 @@ yydstxt*.com/js/html
 ||v2rayclient.com^
 ||v2rayssr.com/wp-content/plugins/eazy-
 ||v3cube.com^
+||v3ekghfm2l.com^
 ||v3pnvck24.com^
 ||v46uj91gh.com^
 ||v4dwkcv.com/html/click/
@@ -36879,6 +36888,7 @@ yydstxt*.com/js/html
 ||xdyn03130jy.com^
 ||xdyn03131jy.com^
 ||xdzgjx.cn^
+||xeb3x4yj4t.com^
 ||xebut.com^
 ||xejaxlfypblfvg.com^
 ||xekrbwex7d.com^
