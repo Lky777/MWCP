@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202610232203
-! Last modified: 23 Oct 2026 22:03 UTC
+! Version: 202610242133
+! Last modified: 24 Oct 2026 21:33 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2529,6 +2529,7 @@ yydstxt*.com/js/html
 ||1n11.com^
 ||1n4vrzxdms.com^
 ||1nevsf92q.com^
+||1nrgur4y43.com^
 ||1nvnkyg65.com^
 ||1o0.net^
 ||1o0g85u7k1.com^
@@ -7074,6 +7075,7 @@ yydstxt*.com/js/html
 ||b2bkidsfashion.com^
 ||b2brazil.com^
 ||b2bzj.com^
+||b2rqwuqzea.com^
 ||b2v18mn8f6.com^
 ||b3mny.com^
 ||b40cities.org^
@@ -9395,6 +9397,7 @@ yydstxt*.com/js/html
 ||cbsi.com.cn/js/mlt.js
 ||cbstatus.net^
 ||cbulbs.com^
+||cbxp9xqbnh.com^
 ||cc-7zip.com.cn^
 ||cc-bilibili.com.cn^
 ||cc.8181zx.com^
@@ -12847,6 +12850,7 @@ yydstxt*.com/js/html
 ||dwstatic.com^*/newspopup/
 ||dwstatic.com^*/p/livetip/
 ||dwstatic.com^*/sidebar.js
+||dwzhvtvgknfjty.com^
 ||dxq8uuq0d.com^
 ||dxzgwti.com^
 ||dxzja.com^
@@ -18484,6 +18488,7 @@ yydstxt*.com/js/html
 ||ifrype.com^
 ||ifsqn.com^
 ||ifunmac.com/wp-content/uploads/*/alipay-
+||ifvk56ft9o.com^
 ||ifxdb.com^
 ||igaf.org^
 ||igamepark.biz/ads_output.php
@@ -24416,6 +24421,7 @@ yydstxt*.com/js/html
 ||n4qrsf6x88.com^
 ||n5725.com^
 ||n5a92p9zo.com^
+||n5ku61z6km.com^
 ||n6579.com^
 ||n6al211kbp.com^
 ||n6pepvekwa.com^
@@ -25444,6 +25450,8 @@ yydstxt*.com/js/html
 ||nxkyiwh.com^
 ||nxtwash.com^
 ||nxydz27pj.com^
+||nxynjy2kej.com^
+||nxyzabhy3.com^
 ||ny2oqsu7et.com^
 ||ny70zesy5v.com^
 ||nya2.com^
@@ -26319,6 +26327,7 @@ yydstxt*.com/js/html
 ||p1.qxzsw.com^
 ||p1.zhongyoo.com^
 ||p13r.net^
+||p1oo54kz6d.com^
 ||p2muoczf5.com^
 ||p2p.v.yyclouds.com/crossdomain.xml
 ||p2pconnectivity.com^
@@ -32593,6 +32602,7 @@ yydstxt*.com/js/html
 ||t19olm6fd.com^
 ||t1dexchange.org^
 ||t1tz.com^
+||t1ufw6nz5f.com^
 ||t298jlqqf.com^
 ||t2f3pqd40.com^
 ||t2q0gv7zjg.com^
@@ -33693,6 +33703,7 @@ yydstxt*.com/js/html
 ||to8to.com^*_bottom_
 ||toaadwh.icu^
 ||toadmash.net^
+||toaster22.com^
 ||tobook.com^
 ||tobtoo.com^
 ||tochka.net^
@@ -36934,6 +36945,7 @@ yydstxt*.com/js/html
 ||xepith.com^
 ||xerosw.org^
 ||xf80vxk3rc.com^
+||xf9o6c6jnp.com^
 ||xfdlfj.icu^
 ||xfemaledom.com^
 ||xfgun2940637fafa.com^
