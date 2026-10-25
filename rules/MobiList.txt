@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202610242133
-! Last modified: 24 Oct 2026 21:33 UTC
+! Version: 202610252141
+! Last modified: 25 Oct 2026 21:41 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -3185,6 +3185,7 @@ yydstxt*.com/js/html
 ||4j7mf4mmx.com^
 ||4jh1le34m.com^
 ||4k3nzijpm0.com^
+||4k4zbfclm.com^
 ||4ki42wkux.xyz^
 ||4kngwxegq5.com^
 ||4l5bbkug99.com^
@@ -3557,6 +3558,7 @@ yydstxt*.com/js/html
 ||5vs7i3cuc.com^
 ||5vszw5ab2.com^
 ||5w31xv1a2.com^
+||5wczjm7h4.com^
 ||5wkni37mso.com^
 ||5wt390pvwz.com^
 ||5wv0y42ub.com^
@@ -12831,6 +12833,7 @@ yydstxt*.com/js/html
 ||duxlpoavm.in^
 ||duzhez.com^
 ||dv4ku.icu^
+||dv4o54c8p.com^
 ||dvdpt.com^
 ||dvdtoile.com^
 ||dvillena.com^
@@ -15369,6 +15372,7 @@ yydstxt*.com/js/html
 ||fz55vq.site^
 ||fz94px.site^
 ||fzavvanz.com^
+||fzbaqs9f1.com^
 ||fzbm.com/bbs/static/js/bma.js
 ||fzczw7.site^
 ||fzd3.com/gg/
@@ -16852,6 +16856,7 @@ yydstxt*.com/js/html
 ||gzkuaiyingyong.com^
 ||gzldas.icu^
 ||gzmama.com^
+||gzq7cji8e.com^
 ||gzstv.cn^
 ||gzsy12348.com^
 ||gzx2d0jvwm.com^
@@ -19108,6 +19113,7 @@ yydstxt*.com/js/html
 ||iopwiki.com^
 ||ioriogioielli.com^
 ||iotexscan.io^
+||iotj6oo90.com^
 ||iowj5jof2.com^
 ||ip-51-222-82.net^
 ||ip-check.net^
@@ -19735,6 +19741,7 @@ yydstxt*.com/js/html
 ||jieshengit.com/1*.js
 ||jieshengit.com/js/*_
 ||jieshengit.com/js/jhhe.
+||jieshengsz.com^
 ||jieyoujia.com^
 ||jiffynotes.com^
 ||jigaming888.com^
@@ -20252,6 +20259,7 @@ yydstxt*.com/js/html
 ||jzdaily.com.cn^
 ||jzjzy.com^
 ||jzldt2940637fafa.com^
+||jzvchdrihqrrfy.com^
 ||k-bid.com^
 ||k-dyn.com^
 ||k-id.com^
@@ -21793,6 +21801,7 @@ yydstxt*.com/js/html
 ||lj43bm3y8.com^
 ||ljline.com^
 ||ljvt4pnl9.com^
+||ljyzic8cr.com^
 ||lk0v8teerw.com^
 ||lk54dfg87.com^
 ||lkasd-asdasd.top^
@@ -34240,6 +34249,7 @@ yydstxt*.com/js/html
 ||tt1069.com/t0602.js
 ||tt123.eastday.com^
 ||tt144jrfu.com^
+||tt5omubqh.com^
 ||ttdcdn.org^
 ||ttdnsa.com^
 ||ttdnsicp.com^
@@ -35745,6 +35755,7 @@ yydstxt*.com/js/html
 ||vyczp.cn^
 ||vynbszicd.com^
 ||vynclaro.xyz^
+||vyq5segjv.com^
 ||vysr4o0eg.com^
 ||vytf0mqa0.com^
 ||vytlcontrols.com^
@@ -36270,6 +36281,7 @@ yydstxt*.com/js/html
 ||whireclogomod.com^
 ||whiskyshop.com^
 ||whistle-blow.org^
+||whistle88.com^
 ||whitebird.io^
 ||whiteblaze.net^
 ||whitebluerights.com^
@@ -37515,6 +37527,7 @@ yydstxt*.com/js/html
 ||y2vorexg2u.com^
 ||y34.net^
 ||y3600.cc/20
+||y3yuih3s1.com^
 ||y40milgijh.com^
 ||y4g8fgj6ra.com^
 ||y55lspa2v6.com^
