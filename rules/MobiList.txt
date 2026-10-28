@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202610272254
-! Last modified: 27 Oct 2026 22:54 UTC
+! Version: 202610282307
+! Last modified: 28 Oct 2026 23:07 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -11660,6 +11660,7 @@ yydstxt*.com/js/html
 ||d3-rgr-diva.com^
 ||d3.sina.com.cn^$object,script
 ||d3eb2c.com^
+||d3h02f4xol.com^
 ||d3iih5w7xp5hdg.cloudfront.net^
 ||d3q5v0ai8.com^
 ||d4.sina.com.cn^$object,script
@@ -13114,6 +13115,7 @@ yydstxt*.com/js/html
 ||dvrinside.com^
 ||dvs.china.com^
 ||dvser.china.com^
+||dvtkppqczzfhpk.com^
 ||dvvv9ld5b0.com^
 ||dvwx.net^
 ||dvxuser.com^
@@ -13400,6 +13402,7 @@ yydstxt*.com/js/html
 ||ebuy16.com^
 ||ebuy7.com^
 ||ec00t7oue1.com^
+||ec2ic6ew5k.com^
 ||ec3gghda.com^
 ||ec766.com^
 ||ec8pr7nny.com^
@@ -14935,6 +14938,7 @@ yydstxt*.com/js/html
 ||firefoxchina.cn^*49560.
 ||firefoxchina.cn^*_couplet
 ||firefoxchina.cn^*_topbanner
+||fireplace32.com^
 ||firerescuetruck.com^
 ||firesofheaven.org^
 ||fireworkanalytics.com^
@@ -17057,6 +17061,7 @@ yydstxt*.com/js/html
 ||gtimg.com^*/adv/
 ||gtj1myjla.com^
 ||gtkao2.com^
+||gtkgxcfx5f.com^
 ||gtmajs.click^
 ||gtpso.com/home/topsdk/getfavcoupitems
 ||gtrcf.org^
@@ -35582,6 +35587,7 @@ yydstxt*.com/js/html
 ||uuvuuxi7z.com^
 ||uuwx.net^
 ||uv-fashions.com^
+||uvaf6ko09w.com^
 ||uvd9re60w.com^
 ||uvt98i4h.com^
 ||uvz-ngs.com^
@@ -37456,6 +37462,7 @@ yydstxt*.com/js/html
 ||x6d93mku0.com^
 ||x6kd8l204b.com^
 ||x70wk5e54.com^
+||x781w71m0j.com^
 ||x7qhjjryf1.com^
 ||x7u4.com^
 ||x7weiubb2f.com^
