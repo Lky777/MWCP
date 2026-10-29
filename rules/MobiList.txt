@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202610282307
-! Last modified: 28 Oct 2026 23:07 UTC
+! Version: 202610292313
+! Last modified: 29 Oct 2026 23:13 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -26,6 +26,7 @@ $script,third-party,domain=cilimao.co|cilimao.one
 $script,third-party,domain=colamanga.com
 $script,third-party,domain=torkitty.com|torkitty.net|torrentkitty.app|torrentkitty.asia|torrentkitty.cam|torrentkitty.ink|torrentkitty.io|torrentkitty.live|torrentkitty.lol|torrentkitty.net|torrentkitty.one|torrentkitty.tv|torrkitty.com
 $script,third-party,websocket,domain=52codes.net
+$script,xmlhttprequest,third-party,domain=freeokk.pro
 $third-party,websocket,xmlhttprequest,domain=qiyoudy2.com|qiyoudy4.com
 $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 &vastAdID=
@@ -2151,6 +2152,7 @@ yydstxt*.com/js/html
 ||0otmh22aj2.com^
 ||0qry58i9es.com^
 ||0qxfxqif0.com^
+||0r5e0xvwes.com^
 ||0s1wclct6.com^
 ||0s5qb3rfz.com^
 ||0sm.com^
@@ -2542,6 +2544,7 @@ yydstxt*.com/js/html
 ||1bronco.com^
 ||1bsb5sic0.com^
 ||1buu1.penyouw.com^
+||1chtx8re2.com^
 ||1cimslrk3.com^
 ||1dgfd.cc^
 ||1dlvai.com^
@@ -3279,6 +3282,7 @@ yydstxt*.com/js/html
 ||4ki42wkux.xyz^
 ||4kmoviehd.com^
 ||4kngwxegq5.com^
+||4l0h5xxoc.com^
 ||4l5bbkug99.com^
 ||4lqs5j3ckn.com^
 ||4mvkxs0o0.com^
@@ -3692,6 +3696,7 @@ yydstxt*.com/js/html
 ||608644.xyz^
 ||609999.xyz^
 ||60ah.com^
+||60cxjeiyq.com^
 ||61.10.2.86/dev/xopen.php
 ||610173172.com^
 ||61893.com^
@@ -3775,6 +3780,7 @@ yydstxt*.com/js/html
 ||69shuba.com/tuijian/
 ||69shuba.cx^*/shu.js
 ||69shux.com/js/otherad.
+||6a4oabslx.com^
 ||6acupxubky.com^
 ||6aontlsdf.com^
 ||6aoodbdx94.com^
@@ -7520,6 +7526,7 @@ yydstxt*.com/js/html
 ||barrowafc.net^
 ||barrowhills.org^
 ||bars10.com^
+||barstool59.com^
 ||bartererfaxtingling.com^
 ||bas.boshi.tv^
 ||base44.com^
@@ -8576,6 +8583,7 @@ yydstxt*.com/js/html
 ||books.com.tw/web/apactivitystick?
 ||bookschina.com^
 ||booksee.org^
+||bookshelf07.com^
 ||bookstaygo.com^
 ||bookstores.com^
 ||booktiques.com^
@@ -18114,6 +18122,7 @@ yydstxt*.com/js/html
 ||holographyforum.org^
 ||holowiki.org^
 ||holstein-uk.org^
+||holxlriacffphq.com^
 ||holy-writings.com^
 ||holyculture.net^
 ||holyfingertech.com^
@@ -19711,6 +19720,7 @@ yydstxt*.com/js/html
 ||itigertech.com^
 ||itita.com^
 ||itjsb.com/itjsbwx.jpg
+||itkdb58mo.com^
 ||itm1yqknq.com^
 ||itm8.com^
 ||itmsc.cn^*ad0
@@ -20211,6 +20221,7 @@ yydstxt*.com/js/html
 ||jlmhk.com/images/data/
 ||jlmlubricants.com^
 ||jlpcn.net/img/300p-
+||jlpfbhmefcthbk.com^
 ||jlr.org^
 ||jlr3lljrk.com^
 ||jlulrz094u.com^
@@ -20686,6 +20697,7 @@ yydstxt*.com/js/html
 ||k9x1d1uuj0.com^
 ||k9zxbudgix.com^
 ||ka26v9du.com^
+||ka9gcc8ifd.com^
 ||kab201k0xs.com^
 ||kaboodle49.com^
 ||kabudragon.com^
@@ -25049,6 +25061,7 @@ yydstxt*.com/js/html
 ||ndcl.org^
 ||ndclist.com^
 ||ndd3wvq0cw.com^
+||ndhfz9zw2.com^
 ||ndi.org^
 ||ndiof.com^
 ||ndml.in^
@@ -38706,6 +38719,7 @@ yydstxt*.com/js/html
 ||ysxs8.vip/ysgg/
 ||ysykj2940637fafa.com^
 ||yszg.net^
+||yszzq.com/style/js/date.
 ||yt-adp.nosdn.127.net^
 ||yt-adp.ws.126.net^
 ||ytbbs.com/images/index/
