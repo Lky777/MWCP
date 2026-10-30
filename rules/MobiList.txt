@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202610292313
-! Last modified: 29 Oct 2026 23:13 UTC
+! Version: 202610302255
+! Last modified: 30 Oct 2026 22:55 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2590,6 +2590,7 @@ yydstxt*.com/js/html
 ||1nevsf92q.com^
 ||1nrgur4y43.com^
 ||1nvnkyg65.com^
+||1nvxl968le.com^
 ||1o0.net^
 ||1o0g85u7k1.com^
 ||1o1nuqbjea.com^
@@ -3810,6 +3811,7 @@ yydstxt*.com/js/html
 ||6ign0q6xb1.com^
 ||6iiz8ni96v.com^
 ||6imc.com^
+||6iwulft12t.com^
 ||6ix.com^
 ||6iyq4atled.com^
 ||6j7ywcn8sx.com^
@@ -28964,6 +28966,7 @@ yydstxt*.com/js/html
 ||qtrpages.com^
 ||qttroiey.com^
 ||qtx.com^
+||qty00vcqh8.com^
 ||qtyrqg.com^
 ||quad-industry.com^
 ||quadraphonicquad.com^
@@ -36438,6 +36441,7 @@ yydstxt*.com/js/html
 ||w5daa5.com^
 ||w5eep9esa.com^
 ||w6n00vtw6.com^
+||w6v754e1uw.com^
 ||w75zr9nfj.com^
 ||w766ewvx75.com^
 ||w7gx7y9wk.com^
@@ -38717,6 +38721,7 @@ yydstxt*.com/js/html
 ||ysxs8.vip/js/bd_top.js
 ||ysxs8.vip/js/play_db.js
 ||ysxs8.vip/ysgg/
+||ysy5uobifs.com^
 ||ysykj2940637fafa.com^
 ||yszg.net^
 ||yszzq.com/style/js/date.
