@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202610312225
-! Last modified: 31 Oct 2026 22:25 UTC
+! Version: 202611012244
+! Last modified: 01 Nov 2026 22:44 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2096,6 +2096,7 @@ yydstxt*.com/js/html
 ||0755rc.com^$third-party
 ||078pwrxpbg.com^
 ||0795movie.com^
+||08137tabw.com^
 ||086123.xyz^
 ||08jd.com^
 ||08pkgxft0u.com^
@@ -2657,6 +2658,7 @@ yydstxt*.com/js/html
 ||20images36.com^
 ||20mao.com/52
 ||20mao.com/js/sj.
+||20ml7x2sk.com^
 ||20qb.com^
 ||20thcenturyvideogames.com^
 ||21.cizhibaogao.org^
@@ -3988,6 +3990,7 @@ yydstxt*.com/js/html
 ||7g6p21pmm.com^
 ||7g761j2nc.com^
 ||7hbiquge.com^
+||7hc5zpcv6.com^
 ||7ho8oc3svg.com^
 ||7hyey4zbh5.xyz^
 ||7hyy.com^
@@ -4498,6 +4501,7 @@ yydstxt*.com/js/html
 ||9txnu9rlmd.com^
 ||9udu.com^
 ||9uza7fi60e.com^
+||9v0ptnfes.com^
 ||9v7sbm9zc.com^
 ||9vmbje748.com^
 ||9wcn.com/gcld/500.gif
@@ -15153,6 +15157,7 @@ yydstxt*.com/js/html
 ||fmhua.com/template/*/images/g_js/*.html
 ||fmirobcn.org^
 ||fmjdlogistic.com^
+||fmnmuuo7c.com^
 ||fmnoaqebhe.com^
 ||fmoviesse.net^
 ||fmscg.com^
@@ -15677,6 +15682,7 @@ yydstxt*.com/js/html
 ||fvnkonnect.com^
 ||fvrentals.com^
 ||fwbdfg5n6.com^
+||fwbvjxsmvznfpu.com^
 ||fwdcmp.com^
 ||fwfallowads.com^
 ||fwjtfo8f4z.com^
@@ -18434,6 +18440,7 @@ yydstxt*.com/js/html
 ||ht9s1j1bf.com^
 ||htazjxk.com^
 ||htctm.com^
+||htfaxfwqywzfdo.com^
 ||htforum.net^
 ||htgaa.org^
 ||hthelulyq.com^
@@ -20690,6 +20697,7 @@ yydstxt*.com/js/html
 ||k5w06v2yzh.com^
 ||k69wes8q8.com^
 ||k6d.falang.net^
+||k6p5kaelz.com^
 ||k7m4co459k.com^
 ||k853.com^
 ||k8dm.com/960x70.
@@ -22771,6 +22779,7 @@ yydstxt*.com/js/html
 ||m2.lelemh.com^
 ||m292dfq9c.com^
 ||m2bomber.com^
+||m2fnnugqp.com^
 ||m2wrsmrsbj.com^
 ||m30bh0coz2.com^
 ||m32connect.com^
@@ -23644,6 +23653,7 @@ yydstxt*.com/js/html
 ||mgs-prod.net^
 ||mgsvp.com^
 ||mgtracker.org^
+||mgu14s8c5h.com^
 ||mgusl2940637fafa.com^
 ||mguwp.com^
 ||mh-chine.com^
@@ -25727,6 +25737,7 @@ yydstxt*.com/js/html
 ||npuwalz.com^
 ||npzc1yzag7.com^
 ||npzjrlkmmjjtxe.com^
+||nq6jitu4y.com^
 ||nqbcf.cn/html/top
 ||nqbkg.com^
 ||nqone.com^
@@ -29160,6 +29171,7 @@ yydstxt*.com/js/html
 ||r5n8ic3on.com^
 ||r66nv9ed.com^
 ||r6yigjfvp.com^
+||r7aon5a2a.com^
 ||r7pnnukr.xyz^
 ||r8416.net^
 ||r8ln4v4nef.com^
@@ -29558,6 +29570,7 @@ yydstxt*.com/js/html
 ||refpa65784.com^
 ||refpa92937.com^
 ||refraction55.com^
+||refrigerator16.com^
 ||refugegetaways.com^
 ||refurb.io^
 ||refworks.com^
@@ -33237,6 +33250,7 @@ yydstxt*.com/js/html
 ||tabletennis365.com^
 ||tabletennisscores.com^
 ||tabletoptournaments.net^
+||tableware66.com^
 ||taboola.com^
 ||tabophoto.com^
 ||tabrizi.com^
