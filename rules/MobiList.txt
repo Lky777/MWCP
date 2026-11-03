@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202611030130
-! Last modified: 03 Nov 2026 01:30 UTC
+! Version: 202611032356
+! Last modified: 03 Nov 2026 23:56 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -918,6 +918,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@&http_referer=$domain=chaopx.com
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
+@@.com/88/*$domain=wxredian.com
 @@.com/ad.aspx|$domain=xdingdian.cc
 @@.com/adv/$domain=my.ctrip.com
 @@.com/js/a_d/$domain=colamanga.com
@@ -1374,7 +1375,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 @@||fm.p0y.cn^$domain=ipinyou.com.cn
 @@||forexprostools.com^$domain=shougedui.com
 @@||fotor.com.cn/static/web/share/js/
-@@||fpyf8.com/88/tag.min.js$domain=wxredian.com
 @@||freedidi.com^$generichide
 @@||freereceivesms.com/weborama.js
 @@||friday.tw/backend/uploadpic/adindex/
@@ -2165,6 +2165,7 @@ yydstxt*.com/js/html
 ||0wpfe0duo.com^
 ||0x79jjyph7.com^
 ||0xr7ii3df.com^
+||0xxbtt1ov.com^
 ||0xzxwnkqdu.com^
 ||0yfqg4qm0.com^
 ||0yjeii25x4.com^
@@ -4582,6 +4583,7 @@ yydstxt*.com/js/html
 ||a6o69f9ky0.com^
 ||a78lx5fbd.com^
 ||a85t9mxnj.com^
+||a8ougj16a.com^
 ||a8qwjt7dwi.com^
 ||a8wqu3fbmk.com^
 ||a9242a55ba.com^
@@ -8925,6 +8927,7 @@ yydstxt*.com/js/html
 ||bse2nse.com^
 ||bsec-organization.org^
 ||bshare.cn/bshare_view?callback=
+||bshhyxoy62.com^
 ||bshyw.com^
 ||bsitestatus.com^
 ||bslbpb.icu^
@@ -15026,6 +15029,7 @@ yydstxt*.com/js/html
 ||fdi1rg6ihs.com^
 ||fdk6z2l7jt.com^
 ||fdocuments.net^
+||fdseb8s0y.com^
 ||fdtarpaueilvrs.com^
 ||fe238hsnj3ei.com^
 ||fe7xxmtg3.com^
@@ -19735,6 +19739,7 @@ yydstxt*.com/js/html
 ||industrynet.com^
 ||indyancart.com^
 ||ineba.net^
+||inequation23.com^
 ||inewsgr.com^
 ||inexistencia.com^
 ||infa.in^
@@ -21393,6 +21398,7 @@ yydstxt*.com/js/html
 ||kbookstore.com^
 ||kbr23k89xz.com^
 ||kc30leutua.top^
+||kca7afgqg.com^
 ||kcbark.net^
 ||kchbo.com^
 ||kchuang.com^
@@ -25532,6 +25538,7 @@ yydstxt*.com/js/html
 ||mzyfz.*/modules/46/
 ||mzyhp.com^
 ||mzzfree.com/file/upload/202109/14/180421861.gif
+||mzzueflt.com^
 ||n-3-d-v.com^
 ||n-c-p.org^
 ||n-gage.io^
@@ -26633,6 +26640,7 @@ yydstxt*.com/js/html
 ||o8agbq0qwm.com^
 ||o8u3n4q7fe.com^
 ||o9gvxuj9t6.com^
+||o9m5znv8ta.com^
 ||o9qdqbu6nu.com^
 ||oa-ehr.com^
 ||oa-panther.data.aliyun.com^$third-party
@@ -36627,6 +36635,7 @@ yydstxt*.com/js/html
 ||v53groc9v.com^
 ||v5lca.cn^
 ||v5rv8mnfk.com^
+||v62hjyw4o.com^
 ||v700rtlhd.com^
 ||v7mf6q1mx.com^
 ||v84tz11w7.com^
