@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202611050019
-! Last modified: 05 Nov 2026 00:19 UTC
+! Version: 202611060008
+! Last modified: 06 Nov 2026 00:08 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -1948,8 +1948,6 @@ txrjy.com###tryOpenApp
 ubmcmm.baidustatic.com
 v=2&adZones
 ws://*/api/wss/getnotreadcount$third-party
-wss://*.*.top/$third-party
-wss://*.top/|
 wss://*.xyz:*?e=$third-party
 wss://*.xyz:*?x=$third-party
 wss://*/api/wss/getnotreadcount$third-party
@@ -2084,6 +2082,7 @@ yydstxt*.com/js/html
 ||067oij53m.com^
 ||06cp8ypn8j.com^
 ||06evyxnibl.com^
+||06f2egypr.com^
 ||06hkgn0jl3.com^
 ||07073.com/api/getkflist?
 ||07073.com/pc/js/right-ad.
@@ -3083,6 +3082,7 @@ yydstxt*.com/js/html
 ||3g.cn/baidualading/
 ||3g.cn/index.php?s=index/adv&
 ||3g.qq.com/lview?
+||3g0p5hjwa.com^
 ||3ge064tt79.com^
 ||3ghuachen.com^
 ||3gmfw.cn/js/wap/
@@ -3130,6 +3130,7 @@ yydstxt*.com/js/html
 ||3qdu.net^
 ||3qtdjf4830.com^
 ||3qx0pnhyzi.com^
+||3r6fs2855.com^
 ||3r6q3i8w.com^
 ||3rabica.org^
 ||3rblaw.com^
@@ -3244,6 +3245,7 @@ yydstxt*.com/js/html
 ||4912990.xyz^
 ||492ehr0.com^
 ||4943999.com^
+||494b6x7u8.com^
 ||495565015.xyz^
 ||4991415.xyz^
 ||49dlt9myv.com^
@@ -4222,6 +4224,7 @@ yydstxt*.com/js/html
 ||8wvb8xoqgq.com^
 ||8x919j7l2l.com^
 ||8ya9li3d2g.com^
+||8ybghd4zn.com^
 ||8yo772d29.com^
 ||8yuwd5lpj.com^
 ||8z1eg6o2j.com^
@@ -5754,6 +5757,7 @@ yydstxt*.com/js/html
 ||algopine.com^
 ||algorbid.com^
 ||algotoro.com^
+||alhgxftiz.com^
 ||alhjaz.org^
 ||ali213.net/images/bg_lt.jpg
 ||ali213.net/images/ycq.mp4
@@ -12179,6 +12183,7 @@ yydstxt*.com/js/html
 ||ddckenbga.com^
 ||dddrrr.com^
 ||ddecor.com^
+||ddft5oqi7q.com^
 ||ddhwxwi6h.com^
 ||dditsadn.com^
 ||ddmap.com^
@@ -15345,6 +15350,7 @@ yydstxt*.com/js/html
 ||fittingline.com^
 ||fittomniku.com^
 ||fivesquareusa.com^
+||fivvdbnotgndfg.com^
 ||fiwarebox.com^
 ||fix.com^
 ||fixando.com^
@@ -18162,6 +18168,7 @@ yydstxt*.com/js/html
 ||heoddikvdm.com^
 ||heopw.com^
 ||hepan.com^
+||heptagon54.com^
 ||heptapod.net^
 ||her2support.org^
 ||heraldmailmedia.com^
@@ -18247,6 +18254,7 @@ yydstxt*.com/js/html
 ||hf365.com/0/15/64/87/15648725_922274.jpg
 ||hfbjz.top^
 ||hfjutang.com^
+||hfparjrmndbvta.com^
 ||hfpewxgk.xyz^
 ||hfqarnolmm.com^
 ||hfr8l4ebdt.com^
@@ -19669,6 +19677,7 @@ yydstxt*.com/js/html
 ||incastproxy.com^
 ||incehesap.com^
 ||incenseofmusic.com^
+||incenter12.com^
 ||inception27.com^
 ||inceptiongv.com^
 ||incibeauty.com^
@@ -25597,6 +25606,7 @@ yydstxt*.com/js/html
 ||n8g1kvtmrf.com^
 ||n906n29tm.com^
 ||na0x2c6.com^
+||na50e68jx.com^
 ||naajie.com/float.js
 ||nabafoods.com^
 ||nabard.org^
@@ -27754,6 +27764,7 @@ yydstxt*.com/js/html
 ||pb1b7cqwvs.com^
 ||pbagalleries.com^
 ||pbcexperts.org^
+||pbe40xy8g.com^
 ||pbeldhnbk.com^
 ||pbh-btn.com^
 ||pbmp.ali213.net/js/
@@ -29461,6 +29472,7 @@ yydstxt*.com/js/html
 ||qgvvtce98.com^
 ||qgxsw.com^
 ||qgyyzs.net^
+||qh7ptb6mc.com^
 ||qhaaudio.com^
 ||qhaelqata.com^
 ||qhangrotl.com^
@@ -34412,6 +34424,7 @@ yydstxt*.com/js/html
 ||teckkamdentalcare.com^
 ||teclazo.com^
 ||tecpromo.org^
+||tecraccimk.com^
 ||tedeex.com^
 ||teediy.com^
 ||teenee.com^
@@ -36213,6 +36226,7 @@ yydstxt*.com/js/html
 ||ui.cn^
 ||uiadmin.net/uview-plus/assets/js/3.1b3a95a0.
 ||uiakvibuzy.com^
+||uibpd67j6.com^
 ||uidiscovery.com^
 ||uimz80fgj.com^
 ||uinieagsuga.com^
