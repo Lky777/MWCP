@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202611072240
-! Last modified: 07 Nov 2026 22:40 UTC
+! Version: 202611082248
+! Last modified: 08 Nov 2026 22:48 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2148,6 +2148,7 @@ yydstxt*.com/js/html
 ||0tkwnl1cw.com^
 ||0u9w05cxo.com^
 ||0v0qj9fnwf.top^
+||0vpekhux1f.com^
 ||0wk6gdkg8r.com^
 ||0wpfe0duo.com^
 ||0x79jjyph7.com^
@@ -2584,6 +2585,7 @@ yydstxt*.com/js/html
 ||1nvxl968le.com^
 ||1ny5gaksj8.com^
 ||1o0.net^
+||1o057bolbb.com^
 ||1o0g85u7k1.com^
 ||1o1nuqbjea.com^
 ||1o23ptd0sv.com^
@@ -2612,6 +2614,7 @@ yydstxt*.com/js/html
 ||1tpe.net^
 ||1ts17.top^
 ||1ts21.top^
+||1ttxjgo7fd.com^
 ||1tvg524vih.com^
 ||1u6hvoykk3.com^
 ||1ub29e88i.com^
@@ -2994,6 +2997,7 @@ yydstxt*.com/js/html
 ||3798.com^$third-party
 ||37lwjdaua.com^
 ||37nu0riwfd.com^
+||37rk0rihje.com^
 ||37shrmvlju.com^
 ||380.tw^$popup,third-party
 ||380tv.com/upload/*-ad-
@@ -3277,6 +3281,7 @@ yydstxt*.com/js/html
 ||4j7mf4mmx.com^
 ||4jh1le34m.com^
 ||4k123.com^
+||4k1x3mkrus.com^
 ||4k3nzijpm0.com^
 ||4k4zbfclm.com^
 ||4ki42wkux.xyz^
@@ -7554,6 +7559,7 @@ yydstxt*.com/js/html
 ||barstool59.com^
 ||bartererfaxtingling.com^
 ||bartko-reher.com^
+||barycentre98.com^
 ||bas.boshi.tv^
 ||basariopticals.com^
 ||base44.com^
@@ -13792,6 +13798,7 @@ yydstxt*.com/js/html
 ||edwardsvacuum.com^
 ||edwaypoint.com^
 ||edwmcr.com^
+||edyr2ip7zg.com^
 ||ee.shixunwang.net^
 ||ee021.com/runtime/js/
 ||eeaconference.com^
@@ -15506,6 +15513,7 @@ yydstxt*.com/js/html
 ||fndlsb-prd.com^
 ||fndrsp-checkout.net^
 ||fnimy.com^
+||fnrvva9u4z.com^
 ||fnscientific.com^
 ||fnsdycspg.com^
 ||fntsoftware.com^
@@ -19298,6 +19306,7 @@ yydstxt*.com/js/html
 ||ifang0898.com^
 ||ifann.net^
 ||ifanshu.com^
+||ifawj9hvvl.com^
 ||ifb33zuqc.com^
 ||ifccd.net^
 ||ifeishe.com^
@@ -20492,6 +20501,7 @@ yydstxt*.com/js/html
 ||jbdch1.appmobile.cn^
 ||jbe-platform.com^
 ||jbiwvt6x1e.com^
+||jbnizvqmwmnldg.com^
 ||jbriyba0f.com^
 ||jbrmr.com^
 ||jbssupply.com^
@@ -23082,6 +23092,7 @@ yydstxt*.com/js/html
 ||lozendafashion.com^
 ||lozinl.com^
 ||lp340p7czf.com^
+||lp70zi3ou3.com^
 ||lp780937a.com^
 ||lpaitrekoe.com^
 ||lpalartra.com^
