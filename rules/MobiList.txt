@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202611102359
-! Last modified: 10 Nov 2026 23:59 UTC
+! Version: 202611120128
+! Last modified: 12 Nov 2026 01:28 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2080,6 +2080,7 @@ yydstxt*.com/js/html
 ||08xs.org^
 ||094kk.com^
 ||0998455.com^
+||0a1t46qpf.com^
 ||0a66kw9r8.com^
 ||0aokpbwui.com^
 ||0av9w1ubbh.com^
@@ -3075,6 +3076,7 @@ yydstxt*.com/js/html
 ||3p8801.co^
 ||3pf2kwmc3g.com^
 ||3pkf5m0gd.com^
+||3pq0vah1e0.com^
 ||3ptechies.com^
 ||3pulse.com^
 ||3q9j4w2r9d.com^
@@ -3242,6 +3244,7 @@ yydstxt*.com/js/html
 ||4ikj2pbeqb.com^
 ||4into1.com^
 ||4j7mf4mmx.com^
+||4j9cjy80f.com^
 ||4jh1le34m.com^
 ||4k1x3mkrus.com^
 ||4k3nzijpm0.com^
@@ -3955,6 +3958,7 @@ yydstxt*.com/js/html
 ||7na721c64.com^
 ||7nb71ub2xi.com^
 ||7nkznc.com^
+||7oavaac8i.com^
 ||7p5ruxflv0.com^
 ||7pe17z68y.com^
 ||7q2701vx8e.com^
@@ -4518,6 +4522,7 @@ yydstxt*.com/js/html
 ||a3v30a.xyz^
 ||a4bbltm3u2.com^
 ||a4j126meg3.com^
+||a4k2h8jii.com^
 ||a4xvv2g18l.com^
 ||a51wzxssu.com^
 ||a588g3q4t.com^
@@ -11681,6 +11686,7 @@ yydstxt*.com/js/html
 ||cvet-met.com^
 ||cvi70ylgp.com^
 ||cvillepedia.org^
+||cvmnq9cre.com^
 ||cvp.com^
 ||cvpbenelux.com^
 ||cvpl9qbz6.com^
@@ -12927,6 +12933,7 @@ yydstxt*.com/js/html
 ||dontsup.com^
 ||donutshield.net^
 ||donuttools.com^
+||donwgdsqq.com^
 ||donzerewine.com^
 ||doohyoulike.com^
 ||doompact.net^
@@ -14241,6 +14248,7 @@ yydstxt*.com/js/html
 ||er.5ykj.com^
 ||era-go.com^
 ||era-india.org^
+||eraf2uzhji.com^
 ||eragem.com^
 ||eraldo.com^
 ||eraqc.com^
@@ -18841,6 +18849,7 @@ yydstxt*.com/js/html
 ||htg536.com^
 ||hthelulyq.com^
 ||htisouwlf.com^
+||htjkgmxcg.com^
 ||htlwbn.icu^
 ||html-load.com^
 ||html5animationtogif.com^
@@ -25141,6 +25150,7 @@ yydstxt*.com/js/html
 ||multimatic.com^
 ||multiple46.top^
 ||multiplication29.top^
+||multiplicator98.com^
 ||multiplier47.top^
 ||multiply5.top^
 ||multitech.net^
@@ -39943,6 +39953,7 @@ yydstxt*.com/js/html
 ||yunqingqing.com^
 ||yuntongclouds.com^
 ||yuntrack.com^
+||yuntu68.com/dgg
 ||yuntu68.com/img
 ||yuntue.com/zb_users/plugin/morelinks*.php
 ||yunupload.net/jsa/
