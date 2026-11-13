@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202611120128
-! Last modified: 12 Nov 2026 01:28 UTC
+! Version: 202611130012
+! Last modified: 13 Nov 2026 00:12 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -3211,6 +3211,7 @@ yydstxt*.com/js/html
 ||49thshelf.com^
 ||4a4x.com^
 ||4ad9bqnjb.com^
+||4ae8xsq18s.com^
 ||4bo5t8fzd.com^
 ||4br824ktty.com^
 ||4c0wa2ml2f.com^
@@ -7571,6 +7572,7 @@ yydstxt*.com/js/html
 ||baztfhhqiuvttm.com^
 ||bb2k0pq1vf.com^
 ||bb4eerrtt.com^
+||bb5uxk0dfa.com^
 ||bbagl.com^
 ||bbapumps.com^
 ||bbarlock.com^
@@ -19871,6 +19873,7 @@ yydstxt*.com/js/html
 ||inter-edu.com^
 ||interactionphilia.com^
 ||interactone.net^
+||intercede77.com^
 ||intercer.net^
 ||intercyprus.com^
 ||interfans.org^
@@ -22300,6 +22303,7 @@ yydstxt*.com/js/html
 ||ldrws.com^
 ||ldstatic.com^
 ||ldv466.com^
+||ldxxawzpy9.com^
 ||ldyqwzfmd.com^
 ||le-cdn.com^
 ||le-comptoir-peruvien.com^
@@ -23315,6 +23319,7 @@ yydstxt*.com/js/html
 ||lz170.cn^
 ||lzbao.net/mtvbox.
 ||lzbao.net/syster.
+||lzcr41vbp.com^
 ||lzdjxp.icu^
 ||lzep.cn/ep/sda/
 ||lziawdwi.in^
@@ -29902,6 +29907,7 @@ yydstxt*.com/js/html
 ||r3owners.net^
 ||r3sub.com/nb/
 ||r40xff8q48.com^
+||r44r4l5na1.com^
 ||r4fo.com^
 ||r4uws5iu3g.com^
 ||r5g13d8py3.com^
@@ -37619,6 +37625,7 @@ yydstxt*.com/js/html
 ||waioidmwg.com^
 ||waipian*.com/statics/recommend/
 ||waiyeehong.com^
+||waj301k9sb.com^
 ||wake-up-neo.com/bnet/
 ||wakefieldthermal.com^
 ||wakuhyfeserucu.com^
