@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202611130012
-! Last modified: 13 Nov 2026 00:12 UTC
+! Version: 202611140017
+! Last modified: 14 Nov 2026 00:17 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -6801,6 +6801,7 @@ yydstxt*.com/js/html
 ||atigaproperti.com^
 ||atiws.aipai.com^
 ||atkgear.com^
+||atl0g02nj.com^
 ||atlanta168.top^
 ||atlantaliterature.com^
 ||atlantictraining.com^
@@ -20490,6 +20491,7 @@ yydstxt*.com/js/html
 ||jdpbpd.icu^
 ||jdprosport.com^
 ||jds4i5gcfv.com^
+||jdzxdlmc3.com^
 ||je3zdrcua.com^
 ||jeanerette.com^
 ||jebelz.com^
@@ -23101,6 +23103,7 @@ yydstxt*.com/js/html
 ||lpuqhego.com^
 ||lpxconnect.com^
 ||lpxyrjholunvdk.com^
+||lq72mfje7.com^
 ||lqbe7i5gf.com^
 ||lqbook.com^
 ||lqdhllq.com^
@@ -23347,6 +23350,7 @@ yydstxt*.com/js/html
 ||m.lelekan.com/sp/
 ||m.mianbao99.com/js/detail.js
 ||m.ybstwl.com/public/tpl/m2/js/
+||m0q6xvc7c.com^
 ||m1.27com.com^
 ||m1.51kaowang.com^
 ||m1.81312.com^
@@ -23386,6 +23390,7 @@ yydstxt*.com/js/html
 ||m4dynuge4.com^
 ||m4l.com^
 ||m5.66077.cn^
+||m57z4gv923.com^
 ||m5i3wtd2s6.com^
 ||m5nv2f52i.com^
 ||m5uiy5gd1.com^
@@ -24370,6 +24375,7 @@ yydstxt*.com/js/html
 ||mikadodiamonds.com^
 ||mikai.org^
 ||mikanani.me/images/masha/
+||mikasang.xyz^
 ||mikecrm.com^
 ||mikeligalig.com^
 ||mikepoweredbydhi.com^
@@ -25021,6 +25027,7 @@ yydstxt*.com/js/html
 ||mqo60hadqz.com^
 ||mqondrun.com^
 ||mqqhfyfavftyk.com^
+||mqqj04eb0.com^
 ||mqrqtvzwdl.com^
 ||mqseries.net^
 ||mqunqwsyrw.com^
@@ -28042,6 +28049,7 @@ yydstxt*.com/js/html
 ||pexels.com^*/sponsored_
 ||pfcloud.top^
 ||pfconcept.com^
+||pfh01c50p.com^
 ||pfhorums.com^
 ||pfk94y5ke.com^
 ||pfops.com^
@@ -28749,6 +28757,7 @@ yydstxt*.com/js/html
 ||portuguesecharts.com^
 ||porylume.com^
 ||pos.baidu.com^
+||pos23t6jw.com^
 ||posfie.com^
 ||poshhaus.com^
 ||position66.top^
@@ -30682,6 +30691,7 @@ yydstxt*.com/js/html
 ||rivox.io^
 ||riyadhequipments.com^
 ||riyogems.com^
+||rj0hrgrbeo.com^
 ||rjlszc.com^
 ||rjonivo.com^
 ||rjsos.com/channel/laomo_dibu.png
