@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202611140017
-! Last modified: 14 Nov 2026 00:17 UTC
+! Version: 202611142256
+! Last modified: 14 Nov 2026 22:56 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -15678,6 +15678,7 @@ yydstxt*.com/js/html
 ||fpldigest.com^
 ||fpmarketsinternational.com^
 ||fprrpv.icu^
+||fpz4gr87mq.com^
 ||fqgmfd.com^
 ||fqk6e78c80.com^
 ||fqthetotf.com^
@@ -18375,6 +18376,7 @@ yydstxt*.com/js/html
 ||hisour.com^
 ||hisstank.com^
 ||histats.com^
+||histogram33.com^
 ||history-sites.com^
 ||history-sites.net^
 ||historyrussia.org^
@@ -26487,6 +26489,7 @@ yydstxt*.com/js/html
 ||ntimg.cn^
 ||ntlddata.com^
 ||ntp2-sync.com^
+||ntpyrbdgxzpjxy.com^
 ||ntt-research.com^
 ||ntuclearninghub.com^
 ||ntvbd.com^
@@ -29378,6 +29381,7 @@ yydstxt*.com/js/html
 ||q0m9dkp5c.com^
 ||q1.yyxwzx.com^
 ||q1txsah8s.com^
+||q1v2f4.com^
 ||q1yv4669q6.com^
 ||q2bstudio.com^
 ||q2f3fw9st.com^
@@ -29897,6 +29901,7 @@ yydstxt*.com/js/html
 ||qzbkw.com^
 ||qzgn652dp.com^
 ||qzh797.com^
+||qzhyc.com.cn/g.
 ||qzone.la/scripts/m.js
 ||qzqhgd.com^
 ||qzs43ai3p.com^
@@ -29907,6 +29912,7 @@ yydstxt*.com/js/html
 ||r-s-t-5.com^
 ||r.99waiyu.com^
 ||r0d2dzltw7.com^
+||r12ukq68l8.com^
 ||r1jprcr42.com^
 ||r1owcxiy50.com^
 ||r27y52dd7.com^
@@ -36711,6 +36717,7 @@ yydstxt*.com/js/html
 ||uymeats.com^
 ||uyunad.com^
 ||uyuncdn.com^
+||uyux77jurw.com^
 ||uzhrtuyij.com^
 ||uznavo.com^
 ||uzrtgekpw.com^
