@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202611142256
-! Last modified: 14 Nov 2026 22:56 UTC
+! Version: 202611152321
+! Last modified: 15 Nov 2026 23:21 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2136,6 +2136,7 @@ yydstxt*.com/js/html
 ||0u9w05cxo.com^
 ||0v0qj9fnwf.top^
 ||0vpekhux1f.com^
+||0vtqrw86o.com^
 ||0wk6gdkg8r.com^
 ||0wpfe0duo.com^
 ||0x79jjyph7.com^
@@ -3586,6 +3587,7 @@ yydstxt*.com/js/html
 ||5pao.com^
 ||5pub.com^
 ||5qnyx6k5w.com^
+||5qpogztzt.com^
 ||5qs.net^
 ||5s5i.cn^
 ||5s98.com/img/
@@ -3959,6 +3961,7 @@ yydstxt*.com/js/html
 ||7na721c64.com^
 ||7nb71ub2xi.com^
 ||7nkznc.com^
+||7nwt5qq78.com^
 ||7oavaac8i.com^
 ||7p5ruxflv0.com^
 ||7pe17z68y.com^
@@ -14640,6 +14643,7 @@ yydstxt*.com/js/html
 ||extpose.com^
 ||extra-life.org^
 ||extraasian.com^
+||extraction14.com^
 ||extracycleapp.com^
 ||extremaratio.com^
 ||extremely58.top^
@@ -20751,6 +20755,7 @@ yydstxt*.com/js/html
 ||jnknutrition.com^
 ||jnlc.com/www/fund/newsmarket
 ||jnlenb.icu^
+||jnno9y1a9.com^
 ||jnon.org^
 ||jnpziiokhx.net^
 ||jnstools.com^
@@ -23271,6 +23276,7 @@ yydstxt*.com/js/html
 ||lwfdlv.icu^
 ||lwhypcwckuf.com^
 ||lwl.org^
+||lwlqblkcucbrjy.com^
 ||lwlwlw.com/ggzx/
 ||lwlwlw.com/js/fvgg.js
 ||lwlybwd5zq.com^
@@ -29923,6 +29929,7 @@ yydstxt*.com/js/html
 ||r3sub.com/nb/
 ||r40xff8q48.com^
 ||r44r4l5na1.com^
+||r45jho6ug.com^
 ||r4fo.com^
 ||r4uws5iu3g.com^
 ||r5g13d8py3.com^
@@ -36704,6 +36711,7 @@ yydstxt*.com/js/html
 ||uwindy.com^
 ||uwpress.org^
 ||uwxez.com^
+||uxawyas.com^
 ||uxb030ku4s.com^
 ||uxee5bmf1k.com^
 ||uxento.io^
@@ -39223,6 +39231,7 @@ yydstxt*.com/js/html
 ||xs06.org^
 ||xs12.org^
 ||xs16.org^
+||xs27ycutl.com^
 ||xs50.net^
 ||xs6.org^
 ||xs8.cn/qreport?
@@ -40096,6 +40105,7 @@ yydstxt*.com/js/html
 ||z2ubj8bpk.com^
 ||z2uyyp069d.com^
 ||z3d9.com^
+||z3vkcnj9f.com^
 ||z4tnhm97b.com^
 ||z5c4tnjw6p.com^
 ||z5mw4v9g1a.com^
