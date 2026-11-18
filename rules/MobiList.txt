@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202611170225
-! Last modified: 17 Nov 2026 02:25 UTC
+! Version: 202611180134
+! Last modified: 18 Nov 2026 01:34 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -8365,6 +8365,7 @@ yydstxt*.com/js/html
 ||bmwoforlandpark.com^
 ||bmwpassion.com^
 ||bmwpower-bg.net^
+||bmznrj7oi.com^
 ||bmzzojmzu.com^
 ||bn067lnkrb.com^
 ||bnabar.com^
@@ -13907,6 +13908,7 @@ yydstxt*.com/js/html
 ||enalquiler.com^
 ||enamae.net^
 ||enapart.com^
+||enar18ahs1.com^
 ||enbox.net^
 ||encatc.org^
 ||enchanted-station.com^
@@ -18716,6 +18718,7 @@ yydstxt*.com/js/html
 ||hy44499.com^
 ||hy4acg.com^
 ||hy5.com.cn/admin/
+||hy851xvexj.com^
 ||hyaplnr.com^
 ||hyawow.com^
 ||hybbs.com/i/$image,object
@@ -18793,6 +18796,7 @@ yydstxt*.com/js/html
 ||i14laze0.xyz^
 ||i16vlgqdhh.com^
 ||i1t2b3.com^
+||i20k3b5yi.com^
 ||i27jhc4ut0.com^
 ||i2clipart.com^
 ||i2fxsez4f0.com^
@@ -18808,6 +18812,7 @@ yydstxt*.com/js/html
 ||i3z.cn^$third-party
 ||i3zh.com/wp-content/plugins/cm-pop-up-banners/
 ||i4320rdrta.com^
+||i5dtd6dfl.com^
 ||i5le8m3qxs.com^
 ||i5qquywfz.com^
 ||i5rd6bukys.com^
@@ -20249,6 +20254,7 @@ yydstxt*.com/js/html
 ||jgp0ohuv2.com^
 ||jgpo1zqhj.com^
 ||jgsdf.com^
+||jgwxs.com/images/sim.
 ||jh2szzt7n.com^
 ||jhagents.com^
 ||jharkhandtimes.in^
@@ -23011,6 +23017,7 @@ yydstxt*.com/js/html
 ||m3v8x28jut.com^
 ||m3x8o50te.com^
 ||m43ocq1uoj.com^
+||m4820qu4n.com^
 ||m485oq2gym.top^
 ||m4dynuge4.com^
 ||m5.66077.cn^
@@ -34860,6 +34867,7 @@ yydstxt*.com/js/html
 ||tmlfans.com^
 ||tmll7.com^
 ||tmlyhh.icu^
+||tmn70vp2u.com^
 ||tmolk.com^
 ||tmpsdp.icu^
 ||tmrsj8n4.com^
@@ -36407,6 +36415,7 @@ yydstxt*.com/js/html
 ||vapourknit.com^
 ||vapvllaajrhhzc.com^
 ||varegjopeaks.com^
+||variance36.com^
 ||variantnow.com^
 ||variational.io^
 ||varnish.org^
@@ -38759,6 +38768,7 @@ yydstxt*.com/js/html
 ||xscp03121xq.com^
 ||xscp03130xq.com^
 ||xscp03131xq.com^
+||xsdnb.com^
 ||xspxdhkcaplhza.com^
 ||xssncc2tv.com^
 ||xstt5.com/skin/v3/js/dibu.js
