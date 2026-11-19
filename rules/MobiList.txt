@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202611180134
-! Last modified: 18 Nov 2026 01:34 UTC
+! Version: 202611190106
+! Last modified: 19 Nov 2026 01:06 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2146,6 +2146,7 @@ yydstxt*.com/js/html
 ||0vtqrw86o.com^
 ||0wk6gdkg8r.com^
 ||0wpfe0duo.com^
+||0x2jt61f3l.com^
 ||0x79jjyph7.com^
 ||0xr7ii3df.com^
 ||0xxbtt1ov.com^
@@ -2594,6 +2595,7 @@ yydstxt*.com/js/html
 ||1u6hvoykk3.com^
 ||1ub29e88i.com^
 ||1udy3nzsqx.com^
+||1uei2j0mz0.com^
 ||1ujz59h62z.com^
 ||1urjtp1t6.com^
 ||1vd2esrss.com^
@@ -4620,6 +4622,7 @@ yydstxt*.com/js/html
 ||ac.art456.com^
 ||ac.tc.qq.com/store_file_download?*&dir_path=/admin/swf/
 ||ac00qmnjz.com^
+||ac0vjhnpp.com^
 ||ac1.pingpingw.com^
 ||acacamps.org^
 ||academiabelgica.org^
@@ -11401,6 +11404,7 @@ yydstxt*.com/js/html
 ||crystalcovegems.org^
 ||crystallinetribe.com^
 ||crzyoga.com^
+||crzzbyrea5.com^
 ||cs-conference-ranking.org^
 ||cs.37see.com^$third-party
 ||csagroup.org^
@@ -14252,6 +14256,7 @@ yydstxt*.com/js/html
 ||etyrqg.com^
 ||eu-fffast.com^
 ||eu-startups.com^
+||eu4as22g0c.com^
 ||eubia.org^
 ||eubidderstats.com^
 ||eucpn.org^
@@ -19073,6 +19078,7 @@ yydstxt*.com/js/html
 ||ii-eye.com^
 ||ii-sumai.org^
 ||ii1.chajiaotong.com^
+||ii4mju7bta.com^
 ||iia1.pikacn.com^
 ||iiadc.com^
 ||iiahutvaa.com^
@@ -20636,6 +20642,7 @@ yydstxt*.com/js/html
 ||jsdelivr.net/gh/yaociyuan/
 ||jsdelivr.net/gh/yaofa88/bifa@main/*960
 ||jsdelivr.net/npm/live2d-
+||jsdikro5nj.com^
 ||jsdmirror.com^
 ||jsdyln.com^
 ||jsf.cnlinfo.net^
@@ -21022,6 +21029,7 @@ yydstxt*.com/js/html
 ||keatingchevrolet.com^
 ||keatingnissan.com^
 ||keautiful.com^
+||ked61ojxow.com^
 ||kedaifu.com^
 ||kedem-auctions.com^
 ||kedoff.net^
@@ -35250,6 +35258,7 @@ yydstxt*.com/js/html
 ||transportforum.com^
 ||trantics.com^
 ||trapezium69.top^
+||trapezoid76.com^
 ||trapiapsplendix.com^
 ||trapoapsplendix.com^
 ||travaux.com^
