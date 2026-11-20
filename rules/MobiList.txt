@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202611190106
-! Last modified: 19 Nov 2026 01:06 UTC
+! Version: 202611200112
+! Last modified: 20 Nov 2026 01:12 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -3768,6 +3768,7 @@ yydstxt*.com/js/html
 ||6uliq2uive.com^
 ||6ulv19ce9.com^
 ||6unr6si6fq.com^
+||6uw4lcf0qu.com^
 ||6v2wkfw6pc.com^
 ||6v4.cn^$third-party
 ||6vhao.tv/d/
@@ -10206,6 +10207,7 @@ yydstxt*.com/js/html
 ||chvnradio.com^
 ||chwang.com^
 ||chwyt1hzb.com^
+||chxzsq0cu1.com^
 ||ci123.com^
 ||ciamlogin.com^
 ||cianb.xyz^
@@ -24691,6 +24693,7 @@ yydstxt*.com/js/html
 ||msg.ettoday.net^
 ||msg.iqiyi.com^
 ||msg.video.qiyi.com^
+||msg3zn5w9.com^
 ||mshowto.org^
 ||mshsaa.org^
 ||msitestatus.com^
@@ -27102,6 +27105,7 @@ yydstxt*.com/js/html
 ||p2peye.com/ajax.php?mod=ad&
 ||p2peye.com/ajax.php?mod=advertisement&
 ||p3-sign.toutiaoimg.com/tos-cn-i-eyfl5e3fp8/
+||p3bqgc0pi.com^
 ||p3crowd.com^
 ||p3rint.com^
 ||p43c4oysmb.com^
@@ -27645,6 +27649,7 @@ yydstxt*.com/js/html
 ||petyardstores.com^
 ||pewterreport.com^
 ||pexels.com^*/sponsored_
+||pfac2u4n5.com^
 ||pfcloud.top^
 ||pfconcept.com^
 ||pfh01c50p.com^
@@ -33598,6 +33603,7 @@ yydstxt*.com/js/html
 ||szgpmy.com/js/
 ||szhktrade.com^
 ||szhongzi.com/js/
+||szhtkldy4.com^
 ||szhualiheng.com^
 ||szjbo9a13.com^
 ||szjiazhilian.com^
