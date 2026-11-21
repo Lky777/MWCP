@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202611200112
-! Last modified: 20 Nov 2026 01:12 UTC
+! Version: 202611210044
+! Last modified: 21 Nov 2026 00:44 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -17334,6 +17334,7 @@ yydstxt*.com/js/html
 ||guwd.cn^
 ||guyfinley.org^
 ||guzheng.cn^
+||gv0a0qcb0e.com^
 ||gv0oi9ecji.com^
 ||gvje.cn^
 ||gvkpil.com^
@@ -20270,6 +20271,7 @@ yydstxt*.com/js/html
 ||jhhv22erzs.com^
 ||jhnwr.com^
 ||jhpqntyyeezpds.com^
+||jhpt4yvqu4.com^
 ||jia.com/js/common/article_home_adv.js
 ||jia.com/js/common/jia-common.js
 ||jia.com/js/tuku/footbanner_
@@ -20839,6 +20841,7 @@ yydstxt*.com/js/html
 ||k-report.net^
 ||k-t-5-v.com^
 ||k-traveler.com^
+||k04y9ezfjw.com^
 ||k06kldksi3.com^
 ||k08tn5uk9.com^
 ||k0b9nwt6d.com^
@@ -27128,6 +27131,7 @@ yydstxt*.com/js/html
 ||pa-roots.net^
 ||pa-roots.org^
 ||pa-wrestling.com^
+||pa4u6c6lqv.com^
 ||paburi.com^
 ||paceandcap.com^
 ||pacermonitor.com^
@@ -28960,6 +28964,7 @@ yydstxt*.com/js/html
 ||pz0d6zc6n.com^
 ||pz12398.com^
 ||pzapi-ij.com^
+||pzjgxlbejmhrli.com^
 ||pzjqk5q4lnme.com^
 ||pzkkot4kn.com^
 ||pzkpu2940637fafa.com^
@@ -31540,6 +31545,7 @@ yydstxt*.com/js/html
 ||sfstation.com^
 ||sftravel.com^
 ||sfzjk57ov.com^
+||sga2frwjjh.com^
 ||sgg.southcn.com^
 ||sgieurope.com^
 ||sgjewpnite.com^
@@ -32815,6 +32821,7 @@ yydstxt*.com/js/html
 ||srp-uk.org^
 ||srpskainfo.com^
 ||srqck1.com^
+||srqeavxrk.com^
 ||srqxnvjdd.com^
 ||srr3ifq00yp.com^
 ||srstracker.com^
@@ -37110,6 +37117,7 @@ yydstxt*.com/js/html
 ||vwvaddoet.com^
 ||vx2tbw9xin.com^
 ||vx323.com^
+||vx5l3i9l18.com^
 ||vxb.com^
 ||vxgky.com^
 ||vxhpzrqgczxbzi.com^
