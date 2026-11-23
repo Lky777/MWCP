@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202611212345
-! Last modified: 21 Nov 2026 23:45 UTC
+! Version: 202611230012
+! Last modified: 23 Nov 2026 00:12 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -3197,6 +3197,7 @@ yydstxt*.com/js/html
 ||4djkbk96r4.com^
 ||4e0jpheoi1.com^
 ||4elementsonline.com^
+||4eyn3s9wj.com^
 ||4f8g9foqwy.com^
 ||4fbbs.com^
 ||4fd0jlybx.com^
@@ -3542,6 +3543,7 @@ yydstxt*.com/js/html
 ||5sghirlr5b.com^
 ||5starcircuits.com^
 ||5t5z6augl3.com^
+||5tei0pomwk.com^
 ||5tf1zp1jgb.com^
 ||5thgenrams.com^
 ||5tmobi.cn^$third-party
@@ -4164,6 +4166,7 @@ yydstxt*.com/js/html
 ||93692zubo66936.com^
 ||93786631.xyz^
 ||938fh3uv3.com^
+||93cwt9hr8s.com^
 ||93gtx4pc2w.com^
 ||93jk0rvj.top^
 ||93soso.com^
@@ -5650,6 +5653,7 @@ yydstxt*.com/js/html
 ||aliyuncs.com^$domain=5kym.com
 ||aliyunedge-detect.com^
 ||alizeeamerica.com^
+||alizfv2ls3.com^
 ||aljamila.com^
 ||aljmeel.net^
 ||aljmpzskihrj.top^
@@ -7094,6 +7098,7 @@ yydstxt*.com/js/html
 ||b4afsapz0.com^
 ||b4dg.life/love/
 ||b56iy3m1jg.com^
+||b7f6867m0u.com^
 ||b7ijghyla1.com^
 ||b7pgs2ifvq.com^
 ||b7sw62.pingshu8.xyz^
@@ -13093,6 +13098,7 @@ yydstxt*.com/js/html
 ||dvvv9ld5b0.com^
 ||dvxuser.com^
 ||dw.xcar.com.cn^*.gif?
+||dw3wytlo38.com^
 ||dwarfstd.org^
 ||dwaynes-towing.com^
 ||dwchovra.com^
@@ -31207,6 +31213,7 @@ yydstxt*.com/js/html
 ||semadata.org^
 ||semboyan35.com^
 ||semi.org^
+||semicircle59.com^
 ||semiconductors-electronic.com^
 ||semiconductors-ic.com^
 ||semiugnl.org^
@@ -33697,6 +33704,7 @@ yydstxt*.com/js/html
 ||tbyh5.com^
 ||tbzwq.com^
 ||tc-v.com^
+||tc7y2avdw2.com^
 ||tc808.com^
 ||tc87.top^
 ||tc911.vip^
@@ -36410,6 +36418,7 @@ yydstxt*.com/js/html
 ||vfqhky3tos.com^
 ||vfrworld.com^
 ||vfymgla.com^
+||vfyz2jncwu.com^
 ||vg3z87oecg.com^
 ||vgao.xyz/images/*.gif
 ||vgbase.net^
@@ -39381,6 +39390,7 @@ yydstxt*.com/js/html
 ||z2uyyp069d.com^
 ||z39vv43j55.com^
 ||z3d9.com^
+||z3uf7yie2f.com^
 ||z3vkcnj9f.com^
 ||z4tnhm97b.com^
 ||z5c4tnjw6p.com^
