@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202611240415
-! Last modified: 24 Nov 2026 04:15 UTC
+! Version: 202611250300
+! Last modified: 25 Nov 2026 03:00 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2120,6 +2120,7 @@ yydstxt*.com/js/html
 ||0hr4wyjfv3.com^
 ||0i2nax2di.com^
 ||0ihw4ipvm5.com^
+||0jbyj9d2l.com^
 ||0jghm60qg.com^
 ||0kl9n3q2b.com^
 ||0kplffrs42.com^
@@ -3201,6 +3202,7 @@ yydstxt*.com/js/html
 ||4991415.xyz^
 ||49dlt9myv.com^
 ||49ioqq6kt.com^
+||49ivw88hj9.com^
 ||49o4m4a5eo.com^
 ||49thshelf.com^
 ||4a4x.com^
@@ -3237,6 +3239,7 @@ yydstxt*.com/js/html
 ||4h87y9pc59.com^
 ||4hf2saujov.com^
 ||4hfm8gfow.com^
+||4hg1oddm34.com^
 ||4hrecovery.com^
 ||4hw.com.cn/js/common.js
 ||4i2q0y9wv.com^
@@ -5568,6 +5571,7 @@ yydstxt*.com/js/html
 ||ajansspor.com^
 ||ajanthastudentsproject.com^
 ||ajazaci.icu^
+||ajc1d0k4nr.com^
 ||ajhwwlye.com^
 ||ajjo5hsvlp.com^
 ||ajkd.org^
@@ -11715,6 +11719,7 @@ yydstxt*.com/js/html
 ||d8lzzy93g.com^
 ||d8oh0sebl8.com^
 ||d984u5wqh.com^
+||d9zkof.com^
 ||d9zx24n0d.com^
 ||da-fan-shu.cn/images/kuaijie.jpg
 ||da.daji.com^
@@ -15495,9 +15500,11 @@ yydstxt*.com/js/html
 ||fpish.net^
 ||fpldigest.com^
 ||fprrpv.icu^
+||fps3xggxro.com^
 ||fpta7l.com^
 ||fpz4gr87mq.com^
 ||fpzmnyub.com^
+||fqfhznr3qn.com^
 ||fqk6e78c80.com^
 ||fqthetotf.com^
 ||fqwv7k7ex.com^
@@ -29801,6 +29808,7 @@ yydstxt*.com/js/html
 ||recoverymasterpro.com^
 ||recoveryourlife.com^
 ||recruitmilitary.com^
+||rectangle20.com^
 ||rectangle99.com^
 ||rectangular10.com^
 ||rectangular18.com^
@@ -35858,6 +35866,7 @@ yydstxt*.com/js/html
 ||umatechnology.org^
 ||umchealthsystem.com^
 ||umd.net^
+||umd8dz8x9.com^
 ||umfdkera.com^
 ||umgf.com^
 ||umhjh9rwe.com^
