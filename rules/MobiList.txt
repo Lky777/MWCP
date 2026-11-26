@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202611250300
-! Last modified: 25 Nov 2026 03:00 UTC
+! Version: 202611260207
+! Last modified: 26 Nov 2026 02:07 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -4399,6 +4399,7 @@ yydstxt*.com/js/html
 ||9weather.com^
 ||9wkvbvm90.com^
 ||9xqbq3-rtbix.top^
+||9xxne23lm.com^
 ||9ya.net/con/ad
 ||9yshop.com^
 ||9yspkomgq.com^
@@ -20074,6 +20075,7 @@ yydstxt*.com/js/html
 ||j4ehcgluds.com^
 ||j4s12kfavg.com^
 ||j59g6ff5k.com^
+||j5gv7t9sv.com^
 ||j5sgdum5n4.com^
 ||j5swonwsss.com^
 ||j5t2n.com^
@@ -20661,6 +20663,7 @@ yydstxt*.com/js/html
 ||jqw.com^
 ||jqygnbfq.top^
 ||jqz8z7gqxw.com^
+||jqzck6m0vv.com^
 ||jr5yu01aa.com^
 ||jr9v5lx1ro.com^
 ||jrain-frp.com^
@@ -24322,6 +24325,7 @@ yydstxt*.com/js/html
 ||mmopixel.com^
 ||mmssbrb.com^
 ||mmtalk.net/images/banner
+||mn3hdpe1y.com^
 ||mnacontrol.com^
 ||mnaspm.com^
 ||mnbasketballhub.com^
@@ -25230,6 +25234,7 @@ yydstxt*.com/js/html
 ||nagariknetwork.com^
 ||nagasakistadiumcity.com^
 ||nagopore.com^
+||nah9b3ag8.com^
 ||nahdlvqwqkzxby.com^
 ||nahg4lhbr.com^
 ||nai500.com^
@@ -26041,6 +26046,7 @@ yydstxt*.com/js/html
 ||npuwalz.com^
 ||npzc1yzag7.com^
 ||npzjrlkmmjjtxe.com^
+||nq2b2hvkni.com^
 ||nq6jitu4y.com^
 ||nqbcf.cn/html/top
 ||nqcx.com^
@@ -29380,6 +29386,7 @@ yydstxt*.com/js/html
 ||quotestats.com^
 ||quotewise.io^
 ||quotex.com^
+||quotient68.com^
 ||quotient75.com^
 ||quotlr.com^
 ||quplay.cn^
@@ -30192,6 +30199,7 @@ yydstxt*.com/js/html
 ||right.com.cn/logo/*.gif
 ||right.com.cn/logo/yyb.png
 ||rightship.com^
+||riilabmhzs.icu^
 ||riju.com/pr/$domain=jpfans.com|jpseek.com
 ||rikoooo.com^
 ||riliai.com^
@@ -31157,6 +31165,7 @@ yydstxt*.com/js/html
 ||sdd01.com^
 ||sddev.org^
 ||sdftxetn.com^
+||sdgugmgkcwtaij.com^
 ||sdhanjie.com^
 ||sdhenbe.com^
 ||sdi.com^
@@ -35429,6 +35438,7 @@ yydstxt*.com/js/html
 ||tu3921276844.cc^
 ||tu4038097360.cc^
 ||tu6767109513.cc^
+||tu6boqunqq.com^
 ||tuanweihui.com^
 ||tuavisoclasificado.com^
 ||tubaforum.net^
@@ -35702,6 +35712,7 @@ yydstxt*.com/js/html
 ||u9v.net^
 ||uaa.com/js/dxj.
 ||uaaqp2940637fafa.com^
+||uaazwczowtfswj.com^
 ||uadforum.com^
 ||uadvezih.com^
 ||uallsolutions.com^
@@ -38308,7 +38319,6 @@ yydstxt*.com/js/html
 ||xflimg.com^
 ||xfly01.com^
 ||xfobo.com^
-||xfuliji.org^
 ||xfxtqjg.com^
 ||xfytc.com^
 ||xgent.com^
@@ -39898,6 +39908,7 @@ yydstxt*.com/js/html
 ||ziprecruiter.in^
 ||ziqixs.com^
 ||zisu.cn.com^
+||zitdymshto.icu^
 ||zite.com^
 ||zither89.com^
 ||zivroq.com^
