@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202611260207
-! Last modified: 26 Nov 2026 02:07 UTC
+! Version: 202611270207
+! Last modified: 27 Nov 2026 02:07 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -3894,6 +3894,7 @@ yydstxt*.com/js/html
 ||79abc.com^
 ||79n4cubmu8.com^
 ||79ssr9d244.com^
+||7a9m8uas28.com^
 ||7asabco.org^
 ||7asx1bxaw.com^
 ||7c96k2gysn.com^
@@ -5386,6 +5387,7 @@ yydstxt*.com/js/html
 ||ahewar.net^
 ||ahewar.org^
 ||ahfaihethh.com^
+||ahfhmvd0vf.com^
 ||ahgame.com/js/new_ad.js
 ||ahgwyw.org^
 ||ahhowland.com^
@@ -11156,6 +11158,7 @@ yydstxt*.com/js/html
 ||cotep.org^
 ||cottonclassics.com^
 ||cottontraders.com^
+||coty7m14cr.com^
 ||coueswhitetail.com^
 ||councilofthefallen.com^
 ||counsellingbc.com^
@@ -24255,6 +24258,7 @@ yydstxt*.com/js/html
 ||mjanyt.com^
 ||mjcuktvdq.com^
 ||mjdvpl.cn^
+||mjf6aq4jua.com^
 ||mjhy2.com^
 ||mjjcollectors.com^
 ||mjpauup21.com^
@@ -26025,6 +26029,7 @@ yydstxt*.com/js/html
 ||nownews.com/assets/js/setads.js
 ||nowrunning.com^
 ||nowtoronto.com^
+||noxtzixkdg.com^
 ||np-mrd.org^
 ||npcnewsonline.com^
 ||npdodge.com^
@@ -29290,6 +29295,7 @@ yydstxt*.com/js/html
 ||qtrpages.com^
 ||qttroiey.com^
 ||qty00vcqh8.com^
+||quadrant59.com^
 ||quadraphonicquad.com^
 ||quadritinta.com^
 ||quadro-consult.com^
@@ -30748,6 +30754,7 @@ yydstxt*.com/js/html
 ||s24su.com^
 ||s2dln6sdu.com^
 ||s2f3c4ab.com^
+||s2glduwz1.com^
 ||s2plb194m.com^
 ||s2tu.com/images/*.gif
 ||s2v36b902.com^
@@ -31455,6 +31462,7 @@ yydstxt*.com/js/html
 ||sf2.net/a/index.
 ||sf3-cdn-tos.toutiaostatic.com/obj/card-platform/
 ||sf5yzh4yqz.com^
+||sfajs30mmk.com^
 ||sfaydoxm.com^
 ||sffworld.com^
 ||sfisustainabilitycrosswalk.com^
@@ -36365,6 +36373,7 @@ yydstxt*.com/js/html
 ||vdict.com^
 ||vdnh.cn^
 ||vdxu.cn^
+||ve9gs6j44.com^
 ||veblr.com^
 ||vebto.com^
 ||vecha.in^
