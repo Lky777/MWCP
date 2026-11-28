@@ -1,8 +1,8 @@
 [Adblock Plus 3.13]
 ! Title: MobiList
 ! Description: Mobile Web Privacy Protection Rules.
-! Version: 202611270207
-! Last modified: 27 Nov 2026 02:07 UTC
+! Version: 202611280154
+! Last modified: 28 Nov 2026 01:54 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/Lky777/MWCP/
 ! ---------------------------------
@@ -2826,6 +2826,7 @@ yydstxt*.com/js/html
 ||2nbg86d2x.com^
 ||2ndbde.org^
 ||2nl6sgd9c.com^
+||2nli0zswf.com^
 ||2nvd5j7iv0.com^
 ||2omfz9ygz2.com^
 ||2orln75bry.com^
@@ -3779,6 +3780,7 @@ yydstxt*.com/js/html
 ||6pan.cc/ps/vip.jpg
 ||6park.com/img/*0.gif
 ||6park.com/parks/$script
+||6pmdcigfjy.com^
 ||6px1vsaq0h.com^
 ||6q77vsjez1.com^
 ||6qcvth5fb.com^
@@ -7986,6 +7988,7 @@ yydstxt*.com/js/html
 ||bilinovel.com/scripts/m7lk48m5hgztxn.
 ||billionaire.com^
 ||bills-exhausts.com^
+||bimbutzhlm.icu^
 ||bimiacg*.net/template/joeleo/asset/js/jquery.leeleo.js
 ||binaqathh.com^
 ||bindadry.cn^
@@ -11652,6 +11655,7 @@ yydstxt*.com/js/html
 ||czecot.com^
 ||czeqjvr.com^
 ||czernik.org^
+||czeudfxm.com^
 ||czjishuo.cn^
 ||czno.com^
 ||czt4gnz57.com^
@@ -18733,6 +18737,7 @@ yydstxt*.com/js/html
 ||huya.com*/cache1min.
 ||huya.com/leaf/*=vodadv&$rewrite=abp-resource:blank-mp3,domain=huya.com
 ||huyenkhonglyso.net^
+||hv3lixzlc.com^
 ||hv7w3au49.com^
 ||hvaccontractorwaco.com^
 ||hvacdiscounters.com^
@@ -20464,6 +20469,7 @@ yydstxt*.com/js/html
 ||jiuxingtn.com^
 ||jiuyh.com^
 ||jivfner.com^
+||jixgkxfhfp.icu^
 ||jixiangming.com^
 ||jixie5.com^
 ||jixom3.com^
@@ -28535,6 +28541,7 @@ yydstxt*.com/js/html
 ||proacousticsusa.com^
 ||proactiveinvestors.com^
 ||proantic.com^
+||probability31.com^
 ||probable-high.com^
 ||probikeshop.com^
 ||probing34.com^
@@ -28961,6 +28968,7 @@ yydstxt*.com/js/html
 ||qbegzoozqn.top^
 ||qbet.com^
 ||qbetcasino-online.com^
+||qbicp2n4d4.com^
 ||qbitai.com^
 ||qbjapdw.cn^
 ||qbn.com^
@@ -31009,6 +31017,7 @@ yydstxt*.com/js/html
 ||sbpb1.qulishi.com^
 ||sbplibrary.org^
 ||sbup.com^
+||sbvpsl7wxa.com^
 ||sbyplayers.org^
 ||sbyppglpc.cn^
 ||sbzytpimg11.com^
@@ -34802,6 +34811,7 @@ yydstxt*.com/js/html
 ||tnwhchs.com^
 ||tnwiki.net^
 ||tnwotuqey.com^
+||tnz8mdste.com^
 ||tnze.cn^
 ||to-portal.com^
 ||to8to.com/assets/wap//common/widgets/appguide/appguide.
@@ -38107,6 +38117,7 @@ yydstxt*.com/js/html
 ||www.china.com.cn/node_$domain=news.china.com.cn
 ||www.dmhy.org^*.*?$image
 ||wwwcdn.kimiss.net/btn/
+||wwyheoyifctigp.com^
 ||wwyoqaf3g.com^
 ||wwzw.cc/img/
 ||wx.sina.com.cn/iframe/pdps/
@@ -38343,6 +38354,7 @@ yydstxt*.com/js/html
 ||xgzxpdy.com^
 ||xh09je1qy.com^
 ||xh1b.org^
+||xh2ei17sy.com^
 ||xh33g.net^
 ||xhaccess.net^
 ||xhamp.net^
@@ -39113,6 +39125,7 @@ yydstxt*.com/js/html
 ||yg0051thk.com^
 ||yg4j3py9b.com^
 ||yg6p1tskn.com^
+||ygcmsecmzzhaup.com^
 ||ygfb3wzgp3oy.com^
 ||ygg1e0gmc.com^
 ||yggleak.top^
